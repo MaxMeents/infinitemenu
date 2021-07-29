@@ -32,33 +32,33 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Edia
 11.  9 See also
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/9_See_also/9_See_also.txt
 
-12.  .ahk
+1.  .ahk
 
 
-14.  List of culinary fruits.ahk
+2.  List of culinary fruits.ahk
 https://en.wikipedia.org/wiki/List_of_culinary_fruits
 
-17.  List of culinary herbs and spices.ahk
+3.  List of culinary herbs and spices.ahk
 https://en.wikipedia.org/wiki/List_of_culinary_herbs_and_spices
 
-21.  List of culinary nuts.ahk
+4.  List of culinary nuts.ahk
 https://en.wikipedia.org/wiki/List_of_culinary_nuts
 
-26.  List of edible cacti.ahk
+5.  List of edible cacti.ahk
 https://en.wikipedia.org/wiki/List_of_edible_cacti
 
-32.  List of edible flowers.ahk
+6.  List of edible flowers.ahk
 https://en.wikipedia.org/wiki/List_of_edible_flowers
 
-39.  List of edible seeds.ahk
+7.  List of edible seeds.ahk
 https://en.wikipedia.org/wiki/List_of_edible_seeds
 
-47.  List of leaf vegetables.ahk
+8.  List of leaf vegetables.ahk
 https://en.wikipedia.org/wiki/List_of_leaf_vegetables
 
-56.  List of root vegetables.ahk
+9.  List of root vegetables.ahk
 https://en.wikipedia.org/wiki/List_of_root_vegetables
 
-66.  List of vegetables.ahk
+10.  List of vegetables.ahk
 https://en.wikipedia.org/wiki/List_of_vegetables
 Ediable Fruits

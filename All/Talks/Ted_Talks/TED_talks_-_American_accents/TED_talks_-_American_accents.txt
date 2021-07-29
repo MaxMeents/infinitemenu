@@ -1,64 +1,64 @@
 
-85653.  Breaking the language barrier  Tim Doner  TEDxTeen 2014.ahk
+1.  Breaking the language barrier  Tim Doner  TEDxTeen 2014.ahk
 https://www.youtube.com/watch?v=xNmf-G81Irs
 
-85655.  Draw your future  Patti Dobrowolski  TEDxRainier.ahk
+2.  Draw your future  Patti Dobrowolski  TEDxRainier.ahk
 https://www.youtube.com/watch?v=zESeeaFDVSw
 
-85658.  Extreme Ownership  Jocko Willink  TEDxUniversityofNevada.ahk
+3.  Extreme Ownership  Jocko Willink  TEDxUniversityofNevada.ahk
 https://www.youtube.com/watch?v=ljqra3BcqWM
 
-85662.  Grit the power of passion and perseverance  Angela Lee Duckworth.ahk
+4.  Grit the power of passion and perseverance  Angela Lee Duckworth.ahk
 https://www.youtube.com/watch?v=H14bBuluwB8
 
-85667.  How I hacked online dating  Amy Webb.ahk
+5.  How I hacked online dating  Amy Webb.ahk
 https://www.youtube.com/watch?v=d6wG_sAdP0U
 
-85673.  How to believe in yourself Jim Cathcart at TEDxDelrayBeach.ahk
+6.  How to believe in yourself Jim Cathcart at TEDxDelrayBeach.ahk
 https://www.youtube.com/watch?v=-ki9-oaPwHs
 
-85680.  How to know your life purpose in 5 minutes  Adam Leipzig  TEDxMalibu.ahk
+7.  How to know your life purpose in 5 minutes  Adam Leipzig  TEDxMalibu.ahk
 https://www.youtube.com/watch?v=vVsXO9brK7M
 
-85688.  Innovating to zero!  Bill Gates.ahk
+8.  Innovating to zero!  Bill Gates.ahk
 https://www.youtube.com/watch?v=JaF-fq2Zn7I
 
-85697.  Inside the mind of a master procrastinator  Tim Urban.ahk
+9.  Inside the mind of a master procrastinator  Tim Urban.ahk
 https://www.youtube.com/watch?v=arj7oStGLkU
 
-85707.  Living without shame How we can empower ourselves  Whitney Thore  TEDxGreensboro.ahk
+10.  Living without shame How we can empower ourselves  Whitney Thore  TEDxGreensboro.ahk
 https://www.youtube.com/watch?v=aaXBYcfVYZM
 
-85718.  My philosophy for a happy life  Sam Berns  TEDxMidAtlantic.ahk
+11.  My philosophy for a happy life  Sam Berns  TEDxMidAtlantic.ahk
 https://www.youtube.com/watch?v=36m1o-tM05g
 
-85730.  My story  Elizabeth Smart  TEDxUniversityofNevada.ahk
+12.  My story  Elizabeth Smart  TEDxUniversityofNevada.ahk
 https://www.youtube.com/watch?v=h0C2LPXaEW4
 
-85743.  My stroke of insight  Jill Bolte Taylor.ahk
+13.  My stroke of insight  Jill Bolte Taylor.ahk
 https://www.youtube.com/watch?v=UyyjU8fzEYU
 
-85757.  Never, ever give up  Diana Nyad.ahk
+14.  Never, ever give up  Diana Nyad.ahk
 https://www.youtube.com/watch?v=Zx8uYIfUvh4
 
-85772.  The danger of silence  Clint Smith.ahk
+15.  The danger of silence  Clint Smith.ahk
 https://www.youtube.com/watch?v=NiKtZgImdlY
 
-85788.  The puzzle of motivation  Dan Pink.ahk
+16.  The puzzle of motivation  Dan Pink.ahk
 https://www.youtube.com/watch?v=rrkrvAUbU9Y
 
-85805.  The Secret of Becoming Mentally Strong  Amy Morin  TEDxOcala.ahk
+17.  The Secret of Becoming Mentally Strong  Amy Morin  TEDxOcala.ahk
 https://www.youtube.com/watch?v=TFbv757kup4
 
-85823.  The skill of self confidence  Dr. Ivan Joseph  TEDxRyersonU.ahk
+18.  The skill of self confidence  Dr. Ivan Joseph  TEDxRyersonU.ahk
 https://www.youtube.com/watch?v=w-HYZv6HzAs
 
-85842.  Why I live a zero waste life  Lauren Singer  TEDxTeen.ahk
+19.  Why I live a zero waste life  Lauren Singer  TEDxTeen.ahk
 https://www.youtube.com/watch?v=pF72px2R3Hg
 
-85862.  Your body language may shape who you are  Amy Cuddy.ahk
+20.  Your body language may shape who you are  Amy Cuddy.ahk
 https://www.youtube.com/watch?v=Ks-_Mh1QhMc
 
-85883.  Your elusive creative genius  Elizabeth Gilbert.ahk
+21.  Your elusive creative genius  Elizabeth Gilbert.ahk
 https://www.youtube.com/watch?v=86x-u-tz0MA
 TED talks - American accents

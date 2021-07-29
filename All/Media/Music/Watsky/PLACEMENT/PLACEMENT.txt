@@ -1,28 +1,28 @@
 
-392.  Advanced Placement.ahk
+1.  Advanced Placement.ahk
 https://gwatsky.bandcamp.com/track/advanced-placement-2
 
-394.  Best Friend The Floor.ahk
+2.  Best Friend The Floor.ahk
 https://gwatsky.bandcamp.com/track/best-friend-the-floor
 
-397.  Black Hole Eyes.ahk
+3.  Black Hole Eyes.ahk
 https://gwatsky.bandcamp.com/track/black-hole-eyes
 
-401.  Border In My Heart.ahk
+4.  Border In My Heart.ahk
 https://gwatsky.bandcamp.com/track/border-in-my-heart
 
-406.  Dreams & Boxes.ahk
+5.  Dreams & Boxes.ahk
 https://gwatsky.bandcamp.com/track/dreams-boxes
 
-412.  Embrace The Quake.ahk
+6.  Embrace The Quake.ahk
 https://gwatsky.bandcamp.com/track/embrace-the-quake
 
-419.  Savage.ahk
+7.  Savage.ahk
 https://gwatsky.bandcamp.com/track/savage
 
-427.  The Price of Growing Up.ahk
+8.  The Price of Growing Up.ahk
 https://gwatsky.bandcamp.com/track/the-price-of-growing-up
 
-436.  Undermine.ahk
+9.  Undermine.ahk
 https://gwatsky.bandcamp.com/track/undermine
 PLACEMENT

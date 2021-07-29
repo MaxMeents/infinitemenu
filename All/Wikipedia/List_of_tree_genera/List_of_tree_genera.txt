@@ -23,39 +23,39 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List
 8.  8 References
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/8_References/8_References.txt
 
-9.  ---1.1 Eudicots (together with magnoliids they are called broadleaf or hardwood trees).ahk
+1.  ---1.1 Eudicots (together with magnoliids they are called broadleaf or hardwood trees).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Eudicots_(together_with_magnoliids_they_are_called_broadleaf_or_hardwood_trees)
 
-11.  ---1.2 Monocotyledons (Liliopsida).ahk
+2.  ---1.2 Monocotyledons (Liliopsida).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Monocotyledons_(Liliopsida)
 
-14.  ---1.3 Magnoliids (together with eudicots they are called broadleaf or hardwood trees).ahk
+3.  ---1.3 Magnoliids (together with eudicots they are called broadleaf or hardwood trees).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Magnoliids_(together_with_eudicots_they_are_called_broadleaf_or_hardwood_trees)
 
-18.  .ahk
+4.  .ahk
 
 
-23.  1 Flowering plants (Magnoliophyta; angiosperms).ahk
+5.  1 Flowering plants (Magnoliophyta; angiosperms).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Flowering_plants_(Magnoliophyta;_angiosperms)
 
-29.  2 Conifers (Pinophyta; softwood trees).ahk
+6.  2 Conifers (Pinophyta; softwood trees).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Conifers_(Pinophyta;_softwood_trees)
 
-36.  3 Ginkgos (Ginkgophyta).ahk
+7.  3 Ginkgos (Ginkgophyta).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Ginkgos_(Ginkgophyta)
 
-44.  4 Cycads (Cycadophyta).ahk
+8.  4 Cycads (Cycadophyta).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Cycads_(Cycadophyta)
 
-53.  5 Ferns (Pteridophyta).ahk
+9.  5 Ferns (Pteridophyta).ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Ferns_(Pteridophyta)
 
-63.  6 Fossil trees.ahk
+10.  6 Fossil trees.ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#Fossil_trees
 
-74.  7 See also.ahk
+11.  7 See also.ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#See_also
 
-86.  8 References.ahk
+12.  8 References.ahk
 https://en.wikipedia.org/wiki/List_of_tree_genera#References
 List of tree genera

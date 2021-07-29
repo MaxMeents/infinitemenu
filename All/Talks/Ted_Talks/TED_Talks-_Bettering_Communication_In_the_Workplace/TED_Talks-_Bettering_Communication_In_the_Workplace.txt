@@ -1,37 +1,37 @@
 
-90007.  Amy Cuddy Power Poses.ahk
+1.  Amy Cuddy Power Poses.ahk
 https://www.youtube.com/watch?v=phcDQ0H_LnY
 
-90009.  Amy Cuddy TED Talk - Fake it Till You Make it.ahk
+2.  Amy Cuddy TED Talk - Fake it Till You Make it.ahk
 https://www.youtube.com/watch?v=RVmMeMcGc0Y
 
-90012.  Finding your voice in the workplace Jennifer Brown at TEDxPresidio.ahk
+3.  Finding your voice in the workplace Jennifer Brown at TEDxPresidio.ahk
 https://www.youtube.com/watch?v=b03DrOYWC_w
 
-90016.  How to engage in better small talk  Minister Faust  TEDxEdmonton.ahk
+4.  How to engage in better small talk  Minister Faust  TEDxEdmonton.ahk
 https://www.youtube.com/watch?v=4F-S6rgf1-E
 
-90021.  How to Have a Good Conversation  Celeste Headlee  TEDxCreativeCoast.ahk
+5.  How to Have a Good Conversation  Celeste Headlee  TEDxCreativeCoast.ahk
 https://www.youtube.com/watch?v=H6n3iNh4XLI
 
-90027.  How to speak so that people want to listen  Julian Treasure.ahk
+6.  How to speak so that people want to listen  Julian Treasure.ahk
 https://www.youtube.com/watch?v=eIho2S0ZahI
 
-90034.  How to speak up when you feel like you can’t  Adam Galinsky  TEDxNewYork.ahk
+7.  How to speak up when you feel like you can’t  Adam Galinsky  TEDxNewYork.ahk
 https://www.youtube.com/watch?v=KPzccnst-Xg
 
-90042.  How to start changing an unhealthy work environment  Glenn D. Rolfsen  TEDxOslo.ahk
+8.  How to start changing an unhealthy work environment  Glenn D. Rolfsen  TEDxOslo.ahk
 https://www.youtube.com/watch?v=eYLb7WUtYt8
 
-90051.  Presence Bringing Your Boldest Self to Your Biggest Challenges.ahk
+9.  Presence Bringing Your Boldest Self to Your Biggest Challenges.ahk
 https://www.youtube.com/watch?v=NLslB13b7GM
 
-90061.  The surprising secret to speaking with confidence  Caroline Goyder  TEDxBrixton.ahk
+10.  The surprising secret to speaking with confidence  Caroline Goyder  TEDxBrixton.ahk
 https://www.youtube.com/watch?v=a2MR5XbJtXU
 
-90072.  Think Fast, Talk Smart Communication Techniques.ahk
+11.  Think Fast, Talk Smart Communication Techniques.ahk
 https://www.youtube.com/watch?v=HAnw168huqA
 
-90084.  Your body language may shape who you are  Amy Cuddy.ahk
+12.  Your body language may shape who you are  Amy Cuddy.ahk
 https://www.youtube.com/watch?v=Ks-_Mh1QhMc
 TED Talks- Bettering Communication In the Workplace

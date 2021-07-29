@@ -1,328 +1,328 @@
 
-72578.  A brain in a supercomputer  Henry Markram.ahk
+1.  A brain in a supercomputer  Henry Markram.ahk
 https://www.youtube.com/watch?v=LS3wMC2BpxU
 
-72580.  Aaron Huey America's native prisoners of war.ahk
+2.  Aaron Huey America's native prisoners of war.ahk
 https://www.youtube.com/watch?v=8tEuaj4h8dw
 
-72583.  Andrew McAfee Are droids taking our jobs.ahk
+3.  Andrew McAfee Are droids taking our jobs.ahk
 https://www.youtube.com/watch?v=WMF-Z74C1QE
 
-72587.  Baba Shiv Sometimes it's good to give up the driver's seat.ahk
+4.  Baba Shiv Sometimes it's good to give up the driver's seat.ahk
 https://www.youtube.com/watch?v=5tal0NkWW1E
 
-72592.  Barry Schuler An introduction to genomics.ahk
+5.  Barry Schuler An introduction to genomics.ahk
 https://www.youtube.com/watch?v=_xJXZBCOWMY
 
-72598.  Becky Blanton The year I was homeless.ahk
+6.  Becky Blanton The year I was homeless.ahk
 https://www.youtube.com/watch?v=KvvjDOtS2sw
 
-72605.  Benoit Mandelbrot Fractals and the art of roughness.ahk
+7.  Benoit Mandelbrot Fractals and the art of roughness.ahk
 https://www.youtube.com/watch?v=ay8OMOsf6AQ
 
-72613.  Bjorn Lomborg Global priorities bigger than climate change.ahk
+8.  Bjorn Lomborg Global priorities bigger than climate change.ahk
 https://www.youtube.com/watch?v=Dtbn9zBfJSs
 
-72622.  Bruce Bueno de Mesquita predicts Iran's future.ahk
+9.  Bruce Bueno de Mesquita predicts Iran's future.ahk
 https://www.youtube.com/watch?v=ts5MKtXNpMQ
 
-72632.  Bruce Schneier The security mirage.ahk
+10.  Bruce Schneier The security mirage.ahk
 https://www.youtube.com/watch?v=wQJC2MMB8nA
 
-72643.  Carl Safina The oil spill's unseen culprits, victims.ahk
+11.  Carl Safina The oil spill's unseen culprits, victims.ahk
 https://www.youtube.com/watch?v=7gouSXt2zE4
 
-72655.  Class Day Lecture 2009 The Uniqueness of Humans.ahk
+12.  Class Day Lecture 2009 The Uniqueness of Humans.ahk
 https://www.youtube.com/watch?v=hrCVu25wQ5s
 
-72668.  Dan Barber A surprising parable of foie gras.ahk
+13.  Dan Barber A surprising parable of foie gras.ahk
 https://www.youtube.com/watch?v=gvrgD0mAFoU
 
-72682.  Daniel Goldstein The battle between your present and future self.ahk
+14.  Daniel Goldstein The battle between your present and future self.ahk
 https://www.youtube.com/watch?v=t1Z_oufuQg4
 
-72697.  Daniel Wolpert The real reason for brains.ahk
+15.  Daniel Wolpert The real reason for brains.ahk
 https://www.youtube.com/watch?v=7s0CpRfyYp8
 
-72713.  Dave deBronkart Meet e-Patient Dave.ahk
+16.  Dave deBronkart Meet e-Patient Dave.ahk
 https://www.youtube.com/watch?v=oTxvic-NnAM
 
-72730.  Deb Roy The birth of a word.ahk
+17.  Deb Roy The birth of a word.ahk
 https://www.youtube.com/watch?v=RE4ce4mexrU
 
-72748.  Ed Gavagan A story about knots and surgeons.ahk
+18.  Ed Gavagan A story about knots and surgeons.ahk
 https://www.youtube.com/watch?v=yhMi0tkYyT8
 
-72767.  Eric Mead The magic of the placebo.ahk
+19.  Eric Mead The magic of the placebo.ahk
 https://www.youtube.com/watch?v=Cb_6PPBJJB8
 
-72787.  Eric Topol The wireless future of medicine.ahk
+20.  Eric Topol The wireless future of medicine.ahk
 https://www.youtube.com/watch?v=pTZM9X3JfTk
 
-72808.  Ethan Zuckerman How to listen to global voices.ahk
+21.  Ethan Zuckerman How to listen to global voices.ahk
 https://www.youtube.com/watch?v=vXPJVwwEmiM
 
-72830.  Exploring the mind of a killer  Jim Fallon.ahk
+22.  Exploring the mind of a killer  Jim Fallon.ahk
 https://www.youtube.com/watch?v=u2V0vOFexY4
 
-72853.  Gary Flake is Pivot a turning point for web exploration.ahk
+23.  Gary Flake is Pivot a turning point for web exploration.ahk
 https://www.youtube.com/watch?v=LT_x9s67yWA
 
-72877.  Geoffrey West The surprising math of cities and corporations.ahk
+24.  Geoffrey West The surprising math of cities and corporations.ahk
 https://www.youtube.com/watch?v=XyCY6mjWOPc
 
-72902.  Golan Levin makes art that looks back at you.ahk
+25.  Golan Levin makes art that looks back at you.ahk
 https://www.youtube.com/watch?v=1G0MzlfMPuM
 
-72928.  Hans Rosling Debunking third-world myths with the best stats you've ever seen.ahk
+26.  Hans Rosling Debunking third-world myths with the best stats you've ever seen.ahk
 https://www.youtube.com/watch?v=RUwS1uAdUcI
 
-72955.  How algorithms shape our world  Kevin Slavin.ahk
+27.  How algorithms shape our world  Kevin Slavin.ahk
 https://www.youtube.com/watch?v=TDaFwnOiKVE
 
-72983.  How architecture helped music evolve  David Byrne.ahk
+28.  How architecture helped music evolve  David Byrne.ahk
 https://www.youtube.com/watch?v=Se8kcnU-uZw
 
-73012.  How Arduino is open-sourcing imagination  Massimo Banzi.ahk
+29.  How Arduino is open-sourcing imagination  Massimo Banzi.ahk
 https://www.youtube.com/watch?v=UoBUXOOdLXY
 
-73042.  How great leaders inspire action  Simon Sinek (1439169).ahk
+30.  How great leaders inspire action  Simon Sinek (1439169).ahk
 https://www.youtube.com/watch?v=qp0HIF3SfI4
 
-73073.  How great leaders inspire action  Simon Sinek.ahk
+31.  How great leaders inspire action  Simon Sinek.ahk
 https://www.youtube.com/watch?v=qp0HIF3SfI4
 
-73105.  How to spot a liar  Pamela Meyer.ahk
+32.  How to spot a liar  Pamela Meyer.ahk
 https://www.youtube.com/watch?v=P_6vDLq64gE
 
-73138.  Iain Hutchison Saving faces.ahk
+33.  Iain Hutchison Saving faces.ahk
 https://www.youtube.com/watch?v=l5ZJ6bK1EIc
 
-73172.  If I should have a daughter ...  Sarah Kay.ahk
+34.  If I should have a daughter ...  Sarah Kay.ahk
 https://www.youtube.com/watch?v=0snNB1yS3IE
 
-73207.  Impossible photography  Erik Johansson.ahk
+35.  Impossible photography  Erik Johansson.ahk
 https://www.youtube.com/watch?v=mc0vhSseGk4
 
-73243.  Isabel Behncke Evolution's gift of play, from bonobo apes to humans.ahk
+36.  Isabel Behncke Evolution's gift of play, from bonobo apes to humans.ahk
 https://www.youtube.com/watch?v=WjBwhwe5-cc
 
-73280.  Jason Clay How big brands can help save biodiversity.ahk
+37.  Jason Clay How big brands can help save biodiversity.ahk
 https://www.youtube.com/watch?v=jcp5vvxtEaU
 
-73318.  Jonathan Drori Why we don't understand as much as we think.ahk
+38.  Jonathan Drori Why we don't understand as much as we think.ahk
 https://www.youtube.com/watch?v=5hJCxSiH4ts
 
-73357.  Joshua Walters On being just crazy enough.ahk
+39.  Joshua Walters On being just crazy enough.ahk
 https://www.youtube.com/watch?v=ruvWiXowiZ8
 
-73397.  Juan Enriquez The life-code that will reshape the future (1715581).ahk
+40.  Juan Enriquez The life-code that will reshape the future (1715581).ahk
 https://www.youtube.com/watch?v=5KdOPY1Iqiw
 
-73438.  Juan Enriquez The life-code that will reshape the future.ahk
+41.  Juan Enriquez The life-code that will reshape the future.ahk
 https://www.youtube.com/watch?v=5KdOPY1Iqiw
 
-73480.  Kevin Kelly The next 5,000 days of the web.ahk
+42.  Kevin Kelly The next 5,000 days of the web.ahk
 https://www.youtube.com/watch?v=yDYCf4ONh5M
 
-73523.  Leah Buechley How to sketch with electronics.ahk
+43.  Leah Buechley How to sketch with electronics.ahk
 https://www.youtube.com/watch?v=vTBp0Z5GPeI
 
-73567.  Let the environment guide our development  Johan Rockstrom.ahk
+44.  Let the environment guide our development  Johan Rockstrom.ahk
 https://www.youtube.com/watch?v=RgqtrlixYR4
 
-73612.  Let's use video to reinvent education  Salman Khan.ahk
+45.  Let's use video to reinvent education  Salman Khan.ahk
 https://www.youtube.com/watch?v=nTFEUsudhfs
 
-73658.  Lewis Pugh's mind-shifting Mt. Everest swim.ahk
+46.  Lewis Pugh's mind-shifting Mt. Everest swim.ahk
 https://www.youtube.com/watch?v=QISHX5UKky0
 
-73705.  Marcel Dicke Why not eat insects.ahk
+47.  Marcel Dicke Why not eat insects.ahk
 https://www.youtube.com/watch?v=O6GimGZz6a8
 
-73753.  Michael Pritchard How to make filthy water drinkable.ahk
+48.  Michael Pritchard How to make filthy water drinkable.ahk
 https://www.youtube.com/watch?v=rXepkIWPhFQ
 
-73802.  Molly Crockett Beware neuro-bunk.ahk
+49.  Molly Crockett Beware neuro-bunk.ahk
 https://www.youtube.com/watch?v=b64qvG2Jgro
 
-73852.  Neil Pasricha The 3 A's of awesome.ahk
+50.  Neil Pasricha The 3 A's of awesome.ahk
 https://www.youtube.com/watch?v=uPE0G00XFV0
 
-73903.  New experiments in self-teaching  Sugata Mitra.ahk
+51.  New experiments in self-teaching  Sugata Mitra.ahk
 https://www.youtube.com/watch?v=dk60sYrU2RU
 
-73955.  Nic Marks The Happy Planet Index.ahk
+52.  Nic Marks The Happy Planet Index.ahk
 https://www.youtube.com/watch?v=M1o3FS0awtk
 
-74008.  Omar Ahmad Political change with pen and paper.ahk
+53.  Omar Ahmad Political change with pen and paper.ahk
 https://www.youtube.com/watch?v=rWhLSORCwW0
 
-74062.  Paul Bloom The origins of pleasure.ahk
+54.  Paul Bloom The origins of pleasure.ahk
 https://www.youtube.com/watch?v=RPicL1AWrs8
 
-74117.  Paul Root Wolpe It's time to question bio-engineering.ahk
+55.  Paul Root Wolpe It's time to question bio-engineering.ahk
 https://www.youtube.com/watch?v=ovV7v2XYJAI
 
-74173.  Paul Zak Trust, morality - and oxytocin.ahk
+56.  Paul Zak Trust, morality - and oxytocin.ahk
 https://www.youtube.com/watch?v=rFAdlU2ETjU
 
-74230.  Richard Seymour How beauty feels.ahk
+57.  Richard Seymour How beauty feels.ahk
 https://www.youtube.com/watch?v=YiXd_9DFCOQ
 
-74288.  Rob Hopkins Transition to a world without oil.ahk
+58.  Rob Hopkins Transition to a world without oil.ahk
 https://www.youtube.com/watch?v=8meWY0W40OA
 
-74347.  Rob Legato The art of creating awe.ahk
+59.  Rob Legato The art of creating awe.ahk
 https://www.youtube.com/watch?v=luoKOkTxOtU
 
-74407.  Robert Full Learning from the gecko's tail.ahk
+60.  Robert Full Learning from the gecko's tail.ahk
 https://www.youtube.com/watch?v=d3syTrElgcg
 
-74468.  Robert Neuwirth The power of the informal economy.ahk
+61.  Robert Neuwirth The power of the informal economy.ahk
 https://www.youtube.com/watch?v=ONM4JupBz_E
 
-74530.  Rory Sutherland Perspective is everything.ahk
+62.  Rory Sutherland Perspective is everything.ahk
 https://www.youtube.com/watch?v=iueVZJVEmEs
 
-74593.  Science can answer moral questions  Sam Harris.ahk
+63.  Science can answer moral questions  Sam Harris.ahk
 https://www.youtube.com/watch?v=Hj9oB4zpHww
 
-74657.  Scott Fraser The problem with eyewitness testimony.ahk
+64.  Scott Fraser The problem with eyewitness testimony.ahk
 https://www.youtube.com/watch?v=buhMdC7MO0U
 
-74722.  Scott McCloud Understanding comics.ahk
+65.  Scott McCloud Understanding comics.ahk
 https://www.youtube.com/watch?v=fXYckRgsdjI
 
-74788.  Sebastian Seung I am my connectome.ahk
+66.  Sebastian Seung I am my connectome.ahk
 https://www.youtube.com/watch?v=HA7GwKXfJB0
 
-74855.  Secrets of success in 8 words, 3 minutes  Richard St. John.ahk
+67.  Secrets of success in 8 words, 3 minutes  Richard St. John.ahk
 https://www.youtube.com/watch?v=Y6bbMQXQ180
 
-74923.  Sendhil Mullainathan Solving social problems with a nudge.ahk
+68.  Sendhil Mullainathan Solving social problems with a nudge.ahk
 https://www.youtube.com/watch?v=XBJQENjZJaA
 
-74992.  Shea Hembrey How I became 100 artists.ahk
+69.  Shea Hembrey How I became 100 artists.ahk
 https://www.youtube.com/watch?v=LpROaNue9GM
 
-75062.  Sir Martin Rees Earth in its final century.ahk
+70.  Sir Martin Rees Earth in its final century.ahk
 https://www.youtube.com/watch?v=3qF26MbYgOA
 
-75133.  Teach every child about food  Jamie Oliver.ahk
+71.  Teach every child about food  Jamie Oliver.ahk
 https://www.youtube.com/watch?v=go_QOzc79Uc
 
-75205.  TEDxNYED - Jeff Jarvis - 030610.ahk
+72.  TEDxNYED - Jeff Jarvis - 030610.ahk
 https://www.youtube.com/watch?v=rTOLkm5hNNU
 
-75278.  The freakonomics of McDonalds vs. drugs  Steven Levitt.ahk
+73.  The freakonomics of McDonalds vs. drugs  Steven Levitt.ahk
 https://www.youtube.com/watch?v=5UGC2nLnaes
 
-75352.  The game that can give you 10 extra years of life  Jane McGonigal.ahk
+74.  The game that can give you 10 extra years of life  Jane McGonigal.ahk
 https://www.youtube.com/watch?v=lfBpsV1Hwqs
 
-75427.  The happy secret to better work  Shawn Achor.ahk
+75.  The happy secret to better work  Shawn Achor.ahk
 https://www.youtube.com/watch?v=fLJsdqxnZb0
 
-75503.  The history of our world in 18 minutes  David Christian.ahk
+76.  The history of our world in 18 minutes  David Christian.ahk
 https://www.youtube.com/watch?v=yqc9zX04DXs
 
-75580.  The magic washing machine  Hans Rosling.ahk
+77.  The magic washing machine  Hans Rosling.ahk
 https://www.youtube.com/watch?v=BZoKfap4g4w
 
-75658.  The new era of positive psychology  Martin Seligman.ahk
+78.  The new era of positive psychology  Martin Seligman.ahk
 https://www.youtube.com/watch?v=9FBxfd7DL3E
 
-75737.  The next species of human  Juan Enriquez.ahk
+79.  The next species of human  Juan Enriquez.ahk
 https://www.youtube.com/watch?v=JNcLKbJs3xk
 
-75817.  The opportunity of adversity  Aimee Mullins.ahk
+80.  The opportunity of adversity  Aimee Mullins.ahk
 https://www.youtube.com/watch?v=dTwXeZ4GkzI
 
-75898.  The paradox of choice  Barry Schwartz.ahk
+81.  The paradox of choice  Barry Schwartz.ahk
 https://www.youtube.com/watch?v=VO6XEQIsCoM
 
-75980.  The pattern behind self-deception  Michael Shermer.ahk
+82.  The pattern behind self-deception  Michael Shermer.ahk
 https://www.youtube.com/watch?v=b_6-iVz1R0o
 
-76063.  The power of introverts  Susan Cain.ahk
+83.  The power of introverts  Susan Cain.ahk
 https://www.youtube.com/watch?v=c0KYU2j0TM4
 
-76147.  The psychology of evil  Philip Zimbardo.ahk
+84.  The psychology of evil  Philip Zimbardo.ahk
 https://www.youtube.com/watch?v=OsFEV35tWsg
 
-76232.  The surprising decline in violence  Steven Pinker.ahk
+85.  The surprising decline in violence  Steven Pinker.ahk
 https://www.youtube.com/watch?v=ramBFRt1Uzk
 
-76318.  The surprising science of happiness  Dan Gilbert.ahk
+86.  The surprising science of happiness  Dan Gilbert.ahk
 https://www.youtube.com/watch?v=4q1dgn_C0AU
 
-76405.  The tribes we lead  Seth Godin.ahk
+87.  The tribes we lead  Seth Godin.ahk
 https://www.youtube.com/watch?v=uQGYr9bnktw
 
-76493.  Thulasiraj Ravilla How low-cost eye care can be world-class.ahk
+88.  Thulasiraj Ravilla How low-cost eye care can be world-class.ahk
 https://www.youtube.com/watch?v=b5QCM1_gVGA
 
-76582.  Tim Berners-Lee The next Web of open, linked data.ahk
+89.  Tim Berners-Lee The next Web of open, linked data.ahk
 https://www.youtube.com/watch?v=OM6XIICm_qo
 
-76672.  Tim Berners-Lee The year open data went worldwide.ahk
+90.  Tim Berners-Lee The year open data went worldwide.ahk
 https://www.youtube.com/watch?v=3YcZ3Zqk0a8
 
-76763.  Tim Harford Trial, error and the God complex.ahk
+91.  Tim Harford Trial, error and the God complex.ahk
 https://www.youtube.com/watch?v=K5wCfYujRdE
 
-76855.  Timothy Prestero Design for people, not awards.ahk
+92.  Timothy Prestero Design for people, not awards.ahk
 https://www.youtube.com/watch?v=WpldYJ3sSIo
 
-76948.  Tom Shannon The painter and the pendulum.ahk
+93.  Tom Shannon The painter and the pendulum.ahk
 https://www.youtube.com/watch?v=OPA-rQyKeLY
 
-77042.  Try something new for 30 days  Matt Cutts.ahk
+94.  Try something new for 30 days  Matt Cutts.ahk
 https://www.youtube.com/watch?v=JnfBXjWm7hc
 
-77137.  Turning trash into toys for learning  Arvind Gupta.ahk
+95.  Turning trash into toys for learning  Arvind Gupta.ahk
 https://www.youtube.com/watch?v=KnCqR2yUXoU
 
-77233.  Understanding the rise of China  Martin Jacques.ahk
+96.  Understanding the rise of China  Martin Jacques.ahk
 https://www.youtube.com/watch?v=imhUmLtlZpw
 
-77330.  Underwater astonishments  David Gallo.ahk
+97.  Underwater astonishments  David Gallo.ahk
 https://www.youtube.com/watch?v=YVvn8dpSAt0
 
-77428.  Unveiling the genius of multi-touch interface design  Jeff Han.ahk
+98.  Unveiling the genius of multi-touch interface design  Jeff Han.ahk
 https://www.youtube.com/watch?v=ac0E6deG4AU
 
-77527.  Use art to turn the world inside out  JR.ahk
+99.  Use art to turn the world inside out  JR.ahk
 https://www.youtube.com/watch?v=0PAy1zBtTbw
 
-77627.  Wadah Khanfar A historic moment in the Arab world.ahk
+100.  Wadah Khanfar A historic moment in the Arab world.ahk
 https://www.youtube.com/watch?v=yKQnL9Mmgng
 
-77728.  Wade Davis Cultures at the far edge of the world.ahk
+101.  Wade Davis Cultures at the far edge of the world.ahk
 https://www.youtube.com/watch?v=bL7vK0pOvKI
 
-77830.  What you don't know about marriage  Jenna McCarthy.ahk
+102.  What you don't know about marriage  Jenna McCarthy.ahk
 https://www.youtube.com/watch?v=Y8u42OjH0ss
 
-77933.  Why the universe seems so strange  Richard Dawkins.ahk
+103.  Why the universe seems so strange  Richard Dawkins.ahk
 https://www.youtube.com/watch?v=1APOxsp1VFw
 
-78037.  Why we do what we do  Tony Robbins.ahk
+104.  Why we do what we do  Tony Robbins.ahk
 https://www.youtube.com/watch?v=Cpc-t-Uwv1I
 
-78142.  Why we make bad decisions  Dan Gilbert (1759086).ahk
+105.  Why we make bad decisions  Dan Gilbert (1759086).ahk
 https://www.youtube.com/watch?v=c-4flnuxNV4
 
-78248.  Why we make bad decisions  Dan Gilbert.ahk
+106.  Why we make bad decisions  Dan Gilbert.ahk
 https://www.youtube.com/watch?v=c-4flnuxNV4
 
-78355.  Why we think it's OK to cheat and steal (sometimes)  Dan Ariely.ahk
+107.  Why we think it's OK to cheat and steal (sometimes)  Dan Ariely.ahk
 https://www.youtube.com/watch?v=nUdsTizSxSI
 
-78463.  Wii remote hacks  Johnny Lee.ahk
+108.  Wii remote hacks  Johnny Lee.ahk
 https://www.youtube.com/watch?v=QgKCrGvShZs
 
-78572.  Your body language may shape who you are  Amy Cuddy.ahk
+109.  Your body language may shape who you are  Amy Cuddy.ahk
 https://www.youtube.com/watch?v=Ks-_Mh1QhMc
 Best Ted Talks lectures - life changing content

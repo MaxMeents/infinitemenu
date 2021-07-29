@@ -2,171 +2,171 @@
 1.  Several Trick Playlists
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Pool/Several_Trick_Playlists/Several_Trick_Playlists.txt
 
-2.  .ahk
+1.  .ahk
 
 
-4.  10-Ball T.Hohmann Vs M.Gray 1 .ahk
+2.  10-Ball T.Hohmann Vs M.Gray 1 .ahk
 https://www.youtube.com/watch?v=cU1hGMalbjk
 
-7.  20 crazy billiard tricks .ahk
+3.  20 crazy billiard tricks .ahk
 https://www.youtube.com/watch?v=_5QF0k1bTRs
 
-11.  2006 WPA World Artistic Pool Championship - Highlights .ahk
+4.  2006 WPA World Artistic Pool Championship - Highlights .ahk
 https://www.youtube.com/watch?v=oCFDgYKA8ps
 
-16.  9-ball Raj Hundal v Imran Majid .ahk
+5.  9-ball Raj Hundal v Imran Majid .ahk
 https://www.youtube.com/watch?v=3_aKgqccri4
 
-22.  Anthony Ginn at Mickey Flynns Ten Ball .ahk
+6.  Anthony Ginn at Mickey Flynns Ten Ball .ahk
 https://www.youtube.com/watch?v=wOxz71BVPpM
 
-29.  Billiard Club TV Presents- The World Pool Masters = Alex Pagulayan vs Raj Hundal .ahk
+7.  Billiard Club TV Presents- The World Pool Masters = Alex Pagulayan vs Raj Hundal .ahk
 https://www.youtube.com/watch?v=XP-1Em6oRD4
 
-37.  Billiard Club TV Presents- The World Pool Masters = Wu Chia Ching vs. Tony Drago .ahk
+8.  Billiard Club TV Presents- The World Pool Masters = Wu Chia Ching vs. Tony Drago .ahk
 https://www.youtube.com/watch?v=bB1i3lu3RI8
 
-46.  Billiards US Open 9-Ball Championship- Souquet v Strickland .ahk
+9.  Billiards US Open 9-Ball Championship- Souquet v Strickland .ahk
 https://www.youtube.com/watch?v=mWb1UxnCKdc
 
-56.  Buckmaster Vs. Osborne - Final Rack of the final at Rack 'N' Roll, Leicester - The Pro Tube .ahk
+10.  Buckmaster Vs. Osborne - Final Rack of the final at Rack 'N' Roll, Leicester - The Pro Tube .ahk
 https://www.youtube.com/watch?v=mReIsK87q2k
 
-67.  Bud Spencer & Terence Hill .ahk
+11.  Bud Spencer & Terence Hill .ahk
 https://www.youtube.com/watch?v=hGz7rIkw2VY
 
-79.  Corey Deuel vs Warren Kiamco US OPEN 2010 Semi Finals part 1 .ahk
+12.  Corey Deuel vs Warren Kiamco US OPEN 2010 Semi Finals part 1 .ahk
 https://www.youtube.com/watch?v=iiqD3igv3Ew
 
-92.  Craig Osborne and Gareth Esprit in action at The 2008 Ipswich Masters for The Pro Tube .ahk
+13.  Craig Osborne and Gareth Esprit in action at The 2008 Ipswich Masters for The Pro Tube .ahk
 https://www.youtube.com/watch?v=cRDx_DUNHeY
 
-106.  Craig Osborne, winner of GB9 Southern Masters speaks to The Pro Tube .ahk
+14.  Craig Osborne, winner of GB9 Southern Masters speaks to The Pro Tube .ahk
 https://www.youtube.com/watch?v=qHloh-zWozE
 
-121.  Darkseid - Godhood .ahk
+15.  Darkseid - Godhood .ahk
 https://www.youtube.com/watch?v=ajtGV4OFDLI
 
-137.  Darren Appleton vs Daryl Peach, BPPPA Barnsley 9-ball Open .ahk
+16.  Darren Appleton vs Daryl Peach, BPPPA Barnsley 9-ball Open .ahk
 https://www.youtube.com/watch?v=ItXBxrMVHpA
 
-154.  Daryl Peach Vs Roberto Gomez Finals WPC 2007 [rack 1] .ahk
+17.  Daryl Peach Vs Roberto Gomez Finals WPC 2007 [rack 1] .ahk
 https://www.youtube.com/watch?v=v7U6ASPY8L0
 
-172.  great jump shot .ahk
+18.  great jump shot .ahk
 https://www.youtube.com/watch?v=-7Mu0o-yTyQ
 
-191.  Imran Majid Sarajevo Open .ahk
+19.  Imran Majid Sarajevo Open .ahk
 https://www.youtube.com/watch?v=U0dwX9rRe7w
 
-211.  Imran Majid vs Jason Howard the final rack for the title .ahk
+20.  Imran Majid vs Jason Howard the final rack for the title .ahk
 https://www.youtube.com/watch?v=-8o4fe2q5ZI
 
-232.  Justice League Unlimited - 4x05 - The Balance (clip) .ahk
+21.  Justice League Unlimited - 4x05 - The Balance (clip) .ahk
 https://www.youtube.com/watch?v=2GreRMesgb0
 
-254.  Justice League Unlimited Bodies .ahk
+22.  Justice League Unlimited Bodies .ahk
 https://www.youtube.com/watch?v=dJ92fheZPC0
 
-277.  Larry Nevel vs Jeff Abernathy at the Great Southern Billiard Tour Championships .ahk
+23.  Larry Nevel vs Jeff Abernathy at the Great Southern Billiard Tour Championships .ahk
 https://www.youtube.com/watch?v=tg3hk9L49MU
 
-301.  Mika Immonen vs Ralf Souquet (WPC 2001 Final) .ahk
+24.  Mika Immonen vs Ralf Souquet (WPC 2001 Final) .ahk
 https://www.youtube.com/watch?v=INFOFvyDa_o
 
-326.  Mosconi Cup 2009 Day 1 Highlights - USA 4 - Europe 1 .ahk
+25.  Mosconi Cup 2009 Day 1 Highlights - USA 4 - Europe 1 .ahk
 https://www.youtube.com/watch?v=_Vs-ANXKr0E
 
-352.  Mosconi Cup 2009 Day 2 -Team USA 7- Europe 2 .ahk
+26.  Mosconi Cup 2009 Day 2 -Team USA 7- Europe 2 .ahk
 https://www.youtube.com/watch?v=yw9rd0pjqtY
 
-379.  Osborne beats Majid at Mickey Flynns 10 Ball Semi-Final - The Pro Tube .ahk
+27.  Osborne beats Majid at Mickey Flynns 10 Ball Semi-Final - The Pro Tube .ahk
 https://www.youtube.com/watch?v=Tm6LymlSwTE
 
-407.  Philippine Open Pool Championship .ahk
+28.  Philippine Open Pool Championship .ahk
 https://www.youtube.com/watch?v=3BnFMDAPpaY
 
-436.  Pool- Francisco Bustamante vs Jeremy Jones .ahk
+29.  Pool- Francisco Bustamante vs Jeremy Jones .ahk
 https://www.youtube.com/watch?v=Bbs3JoWr82M
 
-466.  Pro Billiards - 2003 US Open 9-Ball Champ- Hall v McCready .ahk
+30.  Pro Billiards - 2003 US Open 9-Ball Champ- Hall v McCready .ahk
 https://www.youtube.com/watch?v=xsHAG8YrXG8
 
-497.  Roy Steffensen 9-ball .ahk
+31.  Roy Steffensen 9-ball .ahk
 https://www.youtube.com/watch?v=H12tpmRHmZs
 
-529.  Snooker- Stephen Hendry Break 147 WCH 2009 (HQ 4-3) .ahk
+32.  Snooker- Stephen Hendry Break 147 WCH 2009 (HQ 4-3) .ahk
 https://www.youtube.com/watch?v=NAHOwK0o3vs
 
-562.  Terence Hill spielt Poker .ahk
+33.  Terence Hill spielt Poker .ahk
 https://www.youtube.com/watch?v=z4NvC8gQXIQ
 
-596.  Terence Hill vs. Wildcat Hendricks .ahk
+34.  Terence Hill vs. Wildcat Hendricks .ahk
 https://www.youtube.com/watch?v=7vzmdkPf3-0
 
-631.  The Good, The Bad and the Ugly - Duel .ahk
+35.  The Good, The Bad and the Ugly - Duel .ahk
 https://www.youtube.com/watch?v=awskKWzjlhk
 
-667.  The Pro Tube - GB9 Yorkshire Cup- Imran Majid vs Daryl Peach .ahk
+36.  The Pro Tube - GB9 Yorkshire Cup- Imran Majid vs Daryl Peach .ahk
 https://www.youtube.com/watch?v=N-irbVUsPRI
 
-704.  The Pro Tube - Mickey Flynns 10 Ball - Neil Robertson vs Rico Diks .ahk
+37.  The Pro Tube - Mickey Flynns 10 Ball - Neil Robertson vs Rico Diks .ahk
 https://www.youtube.com/watch?v=Pt9xlPpfJTA
 
-742.  The Pro Tube - Yorkshire Cup- Hundal v Higgins .ahk
+38.  The Pro Tube - Yorkshire Cup- Hundal v Higgins .ahk
 https://www.youtube.com/watch?v=qPhIgzekdsY
 
-781.  The Story of the Filipino- Efren “Bata” Reyes .ahk
+39.  The Story of the Filipino- Efren “Bata” Reyes .ahk
 https://www.youtube.com/watch?v=uYv29aCJwzk
 
-821.  Thorsten Hohmann executing Angle Drill .ahk
+40.  Thorsten Hohmann executing Angle Drill .ahk
 https://www.youtube.com/watch?v=PMGNrtY8ip0
 
-862.  Thorsten Hohmann exercising Long Shot Drill .ahk
+41.  Thorsten Hohmann exercising Long Shot Drill .ahk
 https://www.youtube.com/watch?v=EsGFc0puuBI
 
-904.  Thorsten Hohmann(Ger) vs Nick van den Berg(Ned) EC2008 5-10 .ahk
+42.  Thorsten Hohmann(Ger) vs Nick van den Berg(Ned) EC2008 5-10 .ahk
 https://www.youtube.com/watch?v=_D7cThoR18Q
 
-947.  Tombstone - You tell 'em I'm comin'... .ahk
+43.  Tombstone - You tell 'em I'm comin'... .ahk
 https://www.youtube.com/watch?v=ynKoZD-sFi4
 
-991.  Tombstone Bitch Slap .ahk
+44.  Tombstone Bitch Slap .ahk
 https://www.youtube.com/watch?v=f7J6dRkJjOI
 
-1036.  VA State 9-Ball Championship 2008 .ahk
+45.  VA State 9-Ball Championship 2008 .ahk
 https://www.youtube.com/watch?v=anXVv4Kf-Qo
 
-1082.  World Pool Billiard Masters #7 = Tony 'The Tornado' Drago vs. Thomas 'The Lean Machine' Engert .ahk
+46.  World Pool Billiard Masters #7 = Tony 'The Tornado' Drago vs. Thomas 'The Lean Machine' Engert .ahk
 https://www.youtube.com/watch?v=3T2QUV2YzdY
 
-1129.  World Pool Championship 2003 - Highlights to the final .ahk
+47.  World Pool Championship 2003 - Highlights to the final .ahk
 https://www.youtube.com/watch?v=3oy4P1gyU4k
 
-1177.  World Pool Masters #4 = Allex Pagulayan vs. Steve Davis .ahk
+48.  World Pool Masters #4 = Allex Pagulayan vs. Steve Davis .ahk
 https://www.youtube.com/watch?v=nOes05v8HEY
 
-1226.  World Pool Masters #5 = Imran Majid vs. Alex Lely .ahk
+49.  World Pool Masters #5 = Imran Majid vs. Alex Lely .ahk
 https://www.youtube.com/watch?v=mThuwd5RlII
 
-1276.  World Pool Masters #6 = Efren Reyes vs. Ralf Souquet .ahk
+50.  World Pool Masters #6 = Efren Reyes vs. Ralf Souquet .ahk
 https://www.youtube.com/watch?v=X2HXlOPziWM
 
-1327.  World Pool Masters on BCtv- Raj Hundal vs Hiroshi Takenaka .ahk
+51.  World Pool Masters on BCtv- Raj Hundal vs Hiroshi Takenaka .ahk
 https://www.youtube.com/watch?v=aBIx5cTt0vk
 
-1379.  Yang Ching Shun Vs Wu Chia Ching 7 .ahk
+52.  Yang Ching Shun Vs Wu Chia Ching 7 .ahk
 https://www.youtube.com/watch?v=xyT5HwnjWKE
 
-1432.  Yang Ching-Shun (???) .ahk
+53.  Yang Ching-Shun (???) .ahk
 https://www.youtube.com/watch?v=UPDTF4f1Oyk
 
-1486.  £10000 Scotch Doubles Ten Ball Pool Challenge .ahk
+54.  £10000 Scotch Doubles Ten Ball Pool Challenge .ahk
 https://www.youtube.com/watch?v=uZ_CwEUS4zo
 
-1541.  ??????'09:?? vs ????!2 .ahk
+55.  ??????'09:?? vs ????!2 .ahk
 https://www.youtube.com/watch?v=loIPU9aSxOs
 
-1597.  ??????'09:?? vs ????!3 .ahk
+56.  ??????'09:?? vs ????!3 .ahk
 https://www.youtube.com/watch?v=zsM68H_O5g4
 Pool

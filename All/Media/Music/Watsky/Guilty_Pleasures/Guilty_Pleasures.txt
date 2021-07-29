@@ -1,49 +1,49 @@
 
-25.  .ahk
+1.  .ahk
 https://gwatsky.bandcamp.com/track/-
 
-27.  4AM Monday.ahk
+2.  4AM Monday.ahk
 https://gwatsky.bandcamp.com/track/4am-monday
 
-30.  A New Kind of Sexy ft. Intuition & Dumbfoundead.ahk
+3.  A New Kind of Sexy ft. Intuition & Dumbfoundead.ahk
 https://gwatsky.bandcamp.com/track/a-new-kind-of-sexy-ft-intuition-dumbfoundead-2
 
-34.  Amazing Grace ft. Pat Dimitri.ahk
+4.  Amazing Grace ft. Pat Dimitri.ahk
 https://gwatsky.bandcamp.com/track/amazing-grace-ft-pat-dimitri
 
-39.  Ask Me Anything.ahk
+5.  Ask Me Anything.ahk
 https://gwatsky.bandcamp.com/track/ask-me-anything
 
-45.  D.A.N.C.E. Remix.ahk
+6.  D.A.N.C.E. Remix.ahk
 https://gwatsky.bandcamp.com/track/d-a-n-c-e-remix
 
-52.  Danger w-Damon Elliott.ahk
+7.  Danger w-Damon Elliott.ahk
 https://gwatsky.bandcamp.com/track/danger-w-damon-elliott
 
-60.  Energy.ahk
+8.  Energy.ahk
 https://gwatsky.bandcamp.com/track/energy
 
-69.  Kidnap Your Boyfriend.ahk
+9.  Kidnap Your Boyfriend.ahk
 https://gwatsky.bandcamp.com/track/kidnap-your-boyfriend
 
-79.  Pauly Shore Saw My Penis.ahk
+10.  Pauly Shore Saw My Penis.ahk
 https://gwatsky.bandcamp.com/track/pauly-shore-saw-my-penis
 
-90.  Pumped Up Kicks Remix.ahk
+11.  Pumped Up Kicks Remix.ahk
 https://gwatsky.bandcamp.com/track/pumped-up-kicks-remix
 
-102.  Show Goes On mini-mix.ahk
+12.  Show Goes On mini-mix.ahk
 https://gwatsky.bandcamp.com/track/show-goes-on-mini-mix
 
-115.  Ten Fingers.ahk
+13.  Ten Fingers.ahk
 https://gwatsky.bandcamp.com/track/ten-fingers
 
-129.  There and Back Again.ahk
+14.  There and Back Again.ahk
 https://gwatsky.bandcamp.com/track/there-and-back-again
 
-144.  They're Not Ready.ahk
+15.  They're Not Ready.ahk
 https://gwatsky.bandcamp.com/track/theyre-not-ready
 
-160.  Women, Women, Women.ahk
+16.  Women, Women, Women.ahk
 https://gwatsky.bandcamp.com/track/women-women-women
 Guilty Pleasures

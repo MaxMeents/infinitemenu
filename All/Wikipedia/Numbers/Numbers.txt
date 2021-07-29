@@ -44,90 +44,90 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numb
 15.  9 Numbers representing physical quantities
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/9_Numbers_representing_physical_quantities/9_Numbers_representing_physical_quantities.txt
 
-16.  .ahk
+1.  .ahk
 
 
-18.  1 Natural numbers.ahk
+2.  1 Natural numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Natural_numbers
 
-21.  1.1 Mathematical significance.ahk
+3.  1.1 Mathematical significance.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Mathematical_significance
 
-25.  1.2 Cultural or practical significance.ahk
+4.  1.2 Cultural or practical significance.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Cultural_or_practical_significance
 
-30.  10 Numbers without specific values.ahk
+5.  10 Numbers without specific values.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Numbers_without_specific_values
 
-36.  11 Named numbers.ahk
+6.  11 Named numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Named_numbers
 
-43.  12 See also.ahk
+7.  12 See also.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#See_also
 
-51.  13 References.ahk
+8.  13 References.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#References
 
-60.  14 Further reading.ahk
+9.  14 Further reading.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Further_reading
 
-70.  15 External links.ahk
+10.  15 External links.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#External_links
 
-81.  2 Classes of natural numbers.ahk
+11.  2 Classes of natural numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Classes_of_natural_numbers
 
-93.  2.1 Prime numbers.ahk
+12.  2.1 Prime numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Prime_numbers
 
-106.  2.2 Highly composite numbers.ahk
+13.  2.2 Highly composite numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Highly_composite_numbers
 
-120.  2.3 Perfect numbers.ahk
+14.  2.3 Perfect numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Perfect_numbers
 
-135.  3 Integers.ahk
+15.  3 Integers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Integers
 
-151.  3.1 SI prefixes.ahk
+16.  3.1 SI prefixes.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#SI_prefixes
 
-168.  4 Rational numbers.ahk
+17.  4 Rational numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Rational_numbers
 
-186.  5 Irrational numbers.ahk
+18.  5 Irrational numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Irrational_numbers
 
-205.  5.1 Algebraic numbers.ahk
+19.  5.1 Algebraic numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Algebraic_numbers
 
-225.  5.2 Transcendental numbers.ahk
+20.  5.2 Transcendental numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Transcendental_numbers
 
-246.  5.3 Irrational but not known to be transcendental.ahk
+21.  5.3 Irrational but not known to be transcendental.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Irrational_but_not_known_to_be_transcendental
 
-268.  6 Real numbers.ahk
+22.  6 Real numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Real_numbers
 
-291.  6.1 Real but not known to be irrational, nor transcendental.ahk
+23.  6.1 Real but not known to be irrational, nor transcendental.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Real_but_not_known_to_be_irrational,_nor_transcendental
 
-315.  6.2 Numbers not known with high precision.ahk
+24.  6.2 Numbers not known with high precision.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Numbers_not_known_with_high_precision
 
-340.  7 Hypercomplex numbers.ahk
+25.  7 Hypercomplex numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Hypercomplex_numbers
 
-366.  7.1 Algebraic complex numbers.ahk
+26.  7.1 Algebraic complex numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Algebraic_complex_numbers
 
-393.  7.2 Other hypercomplex numbers.ahk
+27.  7.2 Other hypercomplex numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Other_hypercomplex_numbers
 
-421.  8 Transfinite numbers.ahk
+28.  8 Transfinite numbers.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Transfinite_numbers
 
-450.  9 Numbers representing physical quantities.ahk
+29.  9 Numbers representing physical quantities.ahk
 https://en.wikipedia.org/wiki/List_of_numbers#Numbers_representing_physical_quantities
 Numbers

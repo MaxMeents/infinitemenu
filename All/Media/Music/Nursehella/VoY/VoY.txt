@@ -1,103 +1,103 @@
 
-4.  .ahk
+1.  .ahk
 
 
-6.  01. Nursehella - Drop It Once More.ahk
+2.  01. Nursehella - Drop It Once More.ahk
 https://www.youtube.com/watch?v=0Yqn7uOg2_k
 
-9.  02. Nursehella - Second Coming.ahk
+3.  02. Nursehella - Second Coming.ahk
 https://www.youtube.com/watch?v=d8dTjDklKS0
 
-13.  03. Nursehella - Do What.ahk
+4.  03. Nursehella - Do What.ahk
 https://www.youtube.com/watch?v=tJmhS22rkgc
 
-18.  04. Nursehella - Ride Like A Yanki.ahk
+5.  04. Nursehella - Ride Like A Yanki.ahk
 https://www.youtube.com/watch?v=4U5icc7P4r4
 
-24.  05. Nursehella - GROGB (Get Rich Or Get Bent).ahk
+6.  05. Nursehella - GROGB (Get Rich Or Get Bent).ahk
 https://www.youtube.com/watch?v=VD4VksByfeg
 
-31.  06. Nursehella - Ready Set.ahk
+7.  06. Nursehella - Ready Set.ahk
 https://www.youtube.com/watch?v=9M8g8X1UnTo
 
-39.  07. Nursehella - Sexasaurus Rex.ahk
+8.  07. Nursehella - Sexasaurus Rex.ahk
 https://www.youtube.com/watch?v=SLNJGglkJ0Q
 
-48.  08. Nursehella - Offender Bender.ahk
+9.  08. Nursehella - Offender Bender.ahk
 https://www.youtube.com/watch?v=mcjPfL8j40A
 
-58.  09. Nursehella - Bitches.ahk
+10.  09. Nursehella - Bitches.ahk
 https://www.youtube.com/watch?v=pKaQpYnkaRA
 
-69.  10. Nursehella - Violent Me.ahk
+11.  10. Nursehella - Violent Me.ahk
 https://www.youtube.com/watch?v=BLVbz7YUKL4
 
-81.  11- Nursehella - Geekend Freakout.ahk
+12.  11- Nursehella - Geekend Freakout.ahk
 https://www.youtube.com/watch?v=EJx3v2TCbdc
 
-94.  12- Nursehella - Nursehellamentary.ahk
+13.  12- Nursehella - Nursehellamentary.ahk
 https://www.youtube.com/watch?v=CHhz6x-qZVg
 
-108.  All dolled up indoor smoking.ahk
+14.  All dolled up indoor smoking.ahk
 https://www.youtube.com/watch?v=G2MZOXburWw
 
-123.  French Inhale Smoking.ahk
+15.  French Inhale Smoking.ahk
 https://www.youtube.com/watch?v=ao9vQexvIa0
 
-139.  Fullmetal Married!!!!!!.ahk
+16.  Fullmetal Married!!!!!!.ahk
 https://www.youtube.com/watch?v=IuQLjH0DP_Q
 
-156.  Girl smoking, nose exhales..ahk
+17.  Girl smoking, nose exhales..ahk
 https://www.youtube.com/watch?v=DLwashrRYbM
 
-174.  Inside smoking in a red dress and Chanel Red lipstick..ahk
+18.  Inside smoking in a red dress and Chanel Red lipstick..ahk
 https://www.youtube.com/watch?v=SzAm9BpqkOQ
 
-193.  Nursehella - Bitches. Live @ White Rabbit Seattle 2013.ahk
+19.  Nursehella - Bitches. Live @ White Rabbit Seattle 2013.ahk
 https://www.youtube.com/watch?v=Vq7j4FRFTv8
 
-213.  Nursehella - Nerdcore For Life clip montage.ahk
+20.  Nursehella - Nerdcore For Life clip montage.ahk
 https://www.youtube.com/watch?v=6u0c8Zxn8t8
 
-234.  Nursehella 2010 Grad Project.ahk
+21.  Nursehella 2010 Grad Project.ahk
 https://www.youtube.com/watch?v=ElZG51YdYU8
 
-256.  Nursehella Heatwave Webcam Test.ahk
+22.  Nursehella Heatwave Webcam Test.ahk
 https://www.youtube.com/watch?v=dpbnh4uqyeE
 
-279.  Nursehella vs Homestar Runner.ahk
+23.  Nursehella vs Homestar Runner.ahk
 https://www.youtube.com/watch?v=TS41vohZzwU
 
-303.  Nursehella vs. Nardwuar.ahk
+24.  Nursehella vs. Nardwuar.ahk
 https://www.youtube.com/watch?v=6gXaEFrgnhM
 
-328.  NURSEHELLA, HHKVANCOUVER JAN.2011 - KEEP IT REAL.ahk
+25.  NURSEHELLA, HHKVANCOUVER JAN.2011 - KEEP IT REAL.ahk
 https://www.youtube.com/watch?v=QLUyVz0WjOo
 
-354.  Nursehella- Maid Style.ahk
+26.  Nursehella- Maid Style.ahk
 https://www.youtube.com/watch?v=EubFAL-vmAo
 
-381.  On A Beach...thinkin of Owtay. (1979-2010).ahk
+27.  On A Beach...thinkin of Owtay. (1979-2010).ahk
 https://www.youtube.com/watch?v=tsxw1npDawE
 
-409.  SchoolboyQ & A$AP Rocky vs Nursehella - Hands On The Wheel (webcam doubletake).ahk
+28.  SchoolboyQ & A$AP Rocky vs Nursehella - Hands On The Wheel (webcam doubletake).ahk
 https://www.youtube.com/watch?v=HUestaychnQ
 
-438.  Self-indulgent lady smoking indoors. Haughty, with posh hat..ahk
+29.  Self-indulgent lady smoking indoors. Haughty, with posh hat..ahk
 https://www.youtube.com/watch?v=ZX3JEzUtIqA
 
-468.  Showbusiness Giants - The Other Side Of Mr. Sulu.ahk
+30.  Showbusiness Giants - The Other Side Of Mr. Sulu.ahk
 https://www.youtube.com/watch?v=srj1gKV9FDg
 
-499.  Smoking - Blowing smoke rings, french inhales.ahk
+31.  Smoking - Blowing smoke rings, french inhales.ahk
 https://www.youtube.com/watch?v=_O7uzUwdU6I
 
-531.  Smoking in my Bedroom.ahk
+32.  Smoking in my Bedroom.ahk
 https://www.youtube.com/watch?v=nxK3XdDiNKI
 
-564.  Smoking Indoors, Blowing Rings & French Inhales.ahk
+33.  Smoking Indoors, Blowing Rings & French Inhales.ahk
 https://www.youtube.com/watch?v=Ukqzrq95Pr8
 
-598.  Suikoden IV, Love-Love Combo Attack.ahk
+34.  Suikoden IV, Love-Love Combo Attack.ahk
 https://www.youtube.com/watch?v=x3pAnmgDpVY
 VoY
