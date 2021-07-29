@@ -1,73 +1,73 @@
 
-Algebra Distance Learning Introductory Video.ahk
+4593.  Algebra Distance Learning Introductory Video.ahk
 https://www.youtube.com/watch?v=ofmMFh-K0JE
 
-Chapter 8 Review (Toolkit).ahk
+4595.  Chapter 8 Review (Toolkit).ahk
 https://www.youtube.com/watch?v=n6UeEDhSIM0
 
-Completing the Square Completely Reviewed (Love, Fear, and Completing the Square).ahk
+4598.  Completing the Square Completely Reviewed (Love, Fear, and Completing the Square).ahk
 https://www.youtube.com/watch?v=RbxOlx4wLOQ
 
-Lesson #1 -- More Ways To Solve for X-Intercepts.ahk
+4602.  Lesson #1 -- More Ways To Solve for X-Intercepts.ahk
 https://www.youtube.com/watch?v=1HypxTnekG4
 
-Lesson #10 Solving One-Variable Inequality Word Problems.ahk
+4607.  Lesson #10 Solving One-Variable Inequality Word Problems.ahk
 https://www.youtube.com/watch?v=5pJ9eqAIXFQ
 
-Lesson #12 Graphing Linear and Non-Linear Inequalities.ahk
+4613.  Lesson #12 Graphing Linear and Non-Linear Inequalities.ahk
 https://www.youtube.com/watch?v=cSJLHK5KJNo
 
-Lesson #13 Systems of Inequalities.ahk
+4620.  Lesson #13 Systems of Inequalities.ahk
 https://www.youtube.com/watch?v=QXj0XVzg2hI
 
-Lesson #14 Systems of Inequalities PracticeWord Problems.ahk
+4628.  Lesson #14 Systems of Inequalities PracticeWord Problems.ahk
 https://www.youtube.com/watch?v=QIg1ZfCZaRo
 
-Lesson #15 Applying Inequalities to Solve Problems.ahk
+4637.  Lesson #15 Applying Inequalities to Solve Problems.ahk
 https://www.youtube.com/watch?v=iUcUH37kjNo
 
-Lesson #16 Chapter 9 Review Problems.ahk
+4647.  Lesson #16 Chapter 9 Review Problems.ahk
 https://www.youtube.com/watch?v=0nJpANJthhs
 
-Lesson #17 Solving by Re-writing.ahk
+4658.  Lesson #17 Solving by Re-writing.ahk
 https://www.youtube.com/watch?v=W5WZxJMcECw
 
-Lesson #18 Fraction Busting.ahk
+4670.  Lesson #18 Fraction Busting.ahk
 https://www.youtube.com/watch?v=9XVfY98NI_c
 
-Lesson #19 Solving by Re-writing, Undoing, Looking Inside.ahk
+4683.  Lesson #19 Solving by Re-writing, Undoing, Looking Inside.ahk
 https://www.youtube.com/watch?v=Jn5UpbGEYVY
 
-Lesson #2 -- Completing the Quadratic Web.ahk
+4697.  Lesson #2 -- Completing the Quadratic Web.ahk
 https://www.youtube.com/watch?v=7_VOfU20yWg
 
-Lesson #20 Determining the Number of Solutions.ahk
+4712.  Lesson #20 Determining the Number of Solutions.ahk
 https://www.youtube.com/watch?v=HueIo6sCiG8
 
-Lesson #21 Deriving the Quadratic Formula and Imaginary Numbers.ahk
+4728.  Lesson #21 Deriving the Quadratic Formula and Imaginary Numbers.ahk
 https://www.youtube.com/watch?v=z0vh4Un3eNU
 
-Lesson #22 More Solving & a Word Problem.ahk
+4745.  Lesson #22 More Solving & a Word Problem.ahk
 https://www.youtube.com/watch?v=3ykbAnpGotA
 
-Lesson #3 Completing the Square (Part 1).ahk
+4763.  Lesson #3 Completing the Square (Part 1).ahk
 https://www.youtube.com/watch?v=IX9yuUfkscw
 
-Lesson #4 -- Completing the Square (Part 2).ahk
+4782.  Lesson #4 -- Completing the Square (Part 2).ahk
 https://www.youtube.com/watch?v=jKb5xhIV2Yg
 
-Lesson #5 Solving Quad. Equations using Zero Product Property, Graphing, and Completing the Square.ahk
+4802.  Lesson #5 Solving Quad. Equations using Zero Product Property, Graphing, and Completing the Square.ahk
 https://www.youtube.com/watch?v=Xb_kRS3U_L8
 
-Lesson #6 Intro to the Quadratic Formula.ahk
+4823.  Lesson #6 Intro to the Quadratic Formula.ahk
 https://www.youtube.com/watch?v=WvLj6XU7bT8
 
-Lesson #7 More Solving Quadratic Equations.ahk
+4845.  Lesson #7 More Solving Quadratic Equations.ahk
 https://www.youtube.com/watch?v=o1dXfOu9otk
 
-Lesson #8 Choosing the best strategy to solve a quadratic equation.ahk
+4868.  Lesson #8 Choosing the best strategy to solve a quadratic equation.ahk
 https://www.youtube.com/watch?v=Lrh0Cj2wYyw
 
-Lesson #9 Solving Linear, One-Variable Inequalities.ahk
+4892.  Lesson #9 Solving Linear, One-Variable Inequalities.ahk
 https://www.youtube.com/watch?v=BGZxEU2dRpc
 Algebra 1 Distance Learning Lessons

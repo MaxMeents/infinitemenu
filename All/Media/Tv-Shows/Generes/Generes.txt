@@ -1,4 +1,4 @@
 
-List of Generes
-https://maxmeents.github.io/infinitemenu/All/Media/Tv-Shows/Generes/List_of_Generes/List_of_Generes.txt
+1.  List of Generes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Generes/List_of_Generes/List_of_Generes.txt
 Generes

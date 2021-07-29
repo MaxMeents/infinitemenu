@@ -1,28 +1,28 @@
 
-A New Kind of Sexy Mixtape
+1.  A New Kind of Sexy Mixtape
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/A_New_Kind_of_Sexy_Mixtape/A_New_Kind_of_Sexy_Mixtape.txt
 
-Guilty Pleasures
+2.  Guilty Pleasures
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Guilty_Pleasures/Guilty_Pleasures.txt
 
-Invisible Inc
+3.  Invisible Inc
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Invisible_Inc/Invisible_Inc.txt
 
-LIVE! From the Fonda
+4.  LIVE! From the Fonda
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/LIVE!_From_the_Fonda/LIVE!_From_the_Fonda.txt
 
-Live! from the Troubadour
+5.  Live! from the Troubadour
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Live!_from_the_Troubadour/Live!_from_the_Troubadour.txt
 
-Nothing Like the First Time & Mody & Mody
+6.  Nothing Like the First Time & Mody & Mody
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Nothing_Like_the_First_Time_&_Mody_&_Mody/Nothing_Like_the_First_Time_&_Mody_&_Mody.txt
 
-PLACEMENT
+7.  PLACEMENT
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/PLACEMENT/PLACEMENT.txt
 
-Watsky
+8.  Watsky
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Watsky/Watsky.txt
 
-Watsky (Available on iTunes)
+9.  Watsky (Available on iTunes)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Watsky_(Available_on_iTunes)/Watsky_(Available_on_iTunes).txt
 Watsky

@@ -1,13 +1,13 @@
 
-All Songs on Bandcamp
+1.  All Songs on Bandcamp
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Truthseekah/All_Songs_on_Bandcamp/All_Songs_on_Bandcamp.txt
 
-All Videos
+2.  All Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Truthseekah/All_Videos/All_Videos.txt
 
-Bandcamp Albums
+3.  Bandcamp Albums
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Truthseekah/Bandcamp_Albums/Bandcamp_Albums.txt
 
-Truthseekah Interviews
+4.  Truthseekah Interviews
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Truthseekah/Truthseekah_Interviews/Truthseekah_Interviews.txt
 Truthseekah

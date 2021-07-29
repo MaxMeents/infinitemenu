@@ -1,349 +1,349 @@
 
-.ahk
+22328.  .ahk
 
 
-Abiu.ahk
+22330.  Abiu.ahk
 https://en.wikipedia.org/wiki/Abiu
 
-Ackee.ahk
+22333.  Ackee.ahk
 https://en.wikipedia.org/wiki/Ackee
 
-African custard-apple.ahk
+22337.  African custard-apple.ahk
 https://en.wikipedia.org/wiki/Annona_senegalensis
 
-African locust bean.ahk
+22342.  African locust bean.ahk
 https://en.wikipedia.org/wiki/African_locust_bean
 
-Aglaia teysmanniana.ahk
+22348.  Aglaia teysmanniana.ahk
 https://en.wikipedia.org/wiki/Aglaia_teysmanniana
 
-American persimmon.ahk
+22355.  American persimmon.ahk
 https://en.wikipedia.org/wiki/American_persimmon
 
-Annona conica.ahk
+22363.  Annona conica.ahk
 https://en.wikipedia.org/wiki/Annona_conica
 
-Asam gelugur.ahk
+22372.  Asam gelugur.ahk
 https://en.wikipedia.org/wiki/Garcinia_atroviridis
 
-Asam kelubi.ahk
+22382.  Asam kelubi.ahk
 https://en.wikipedia.org/wiki/Eleiodoxa
 
-Atemoya.ahk
+22393.  Atemoya.ahk
 https://en.wikipedia.org/wiki/Atemoya
 
-Babaco.ahk
+22405.  Babaco.ahk
 https://en.wikipedia.org/wiki/Babaco
 
-Bacuri.ahk
+22418.  Bacuri.ahk
 https://en.wikipedia.org/wiki/Platonia
 
-Bael.ahk
+22432.  Bael.ahk
 https://en.wikipedia.org/wiki/Aegle_marmelos
 
-Banana.ahk
+22447.  Banana.ahk
 https://en.wikipedia.org/wiki/Banana
 
-Bilimbi.ahk
+22463.  Bilimbi.ahk
 https://en.wikipedia.org/wiki/Bilimbi
 
-Biribá.ahk
+22480.  Biribá.ahk
 https://en.wikipedia.org/wiki/Rollinia_deliciosa
 
-Black apple.ahk
+22498.  Black apple.ahk
 https://en.wikipedia.org/wiki/Black_apple
 
-Black sapote.ahk
+22517.  Black sapote.ahk
 https://en.wikipedia.org/wiki/Black_sapote
 
-Brazilian guava.ahk
+22537.  Brazilian guava.ahk
 https://en.wikipedia.org/wiki/Brazilian_guava
 
-Breadfruit.ahk
+22558.  Breadfruit.ahk
 https://en.wikipedia.org/wiki/Breadfruit
 
-Breadnut.ahk
+22580.  Breadnut.ahk
 https://en.wikipedia.org/wiki/Artocarpus_camansi
 
-Burahol.ahk
+22603.  Burahol.ahk
 https://en.wikipedia.org/wiki/Burahol
 
-Burdekin plum.ahk
+22627.  Burdekin plum.ahk
 https://en.wikipedia.org/wiki/Burdekin_plum
 
-Burmese grape.ahk
+22652.  Burmese grape.ahk
 https://en.wikipedia.org/wiki/Burmese_grape
 
-Button mangosteen.ahk
+22678.  Button mangosteen.ahk
 https://en.wikipedia.org/wiki/Button_mangosteen
 
-Cacao.ahk
+22705.  Cacao.ahk
 https://en.wikipedia.org/wiki/Theobroma_cacao
 
-Cainito.ahk
+22733.  Cainito.ahk
 https://en.wikipedia.org/wiki/Cainito
 
-Canistel.ahk
+22762.  Canistel.ahk
 https://en.wikipedia.org/wiki/Canistel
 
-Cashew apple.ahk
+22792.  Cashew apple.ahk
 https://en.wikipedia.org/wiki/Cashew_apple
 
-Cawesh.ahk
+22823.  Cawesh.ahk
 https://en.wikipedia.org/wiki/Cawesh
 
-Cempedak.ahk
+22855.  Cempedak.ahk
 https://en.wikipedia.org/wiki/Cempedak
 
-Charichuelo.ahk
+22888.  Charichuelo.ahk
 https://en.wikipedia.org/wiki/Charichuelo
 
-Cherimoya.ahk
+22922.  Cherimoya.ahk
 https://en.wikipedia.org/wiki/Cherimoya
 
-Cluster fig.ahk
+22957.  Cluster fig.ahk
 https://en.wikipedia.org/wiki/Cluster_fig
 
-Costa rican guava.ahk
+22993.  Costa rican guava.ahk
 https://en.wikipedia.org/wiki/Psidium_friedrichsthalianum
 
-Courbaril.ahk
+23030.  Courbaril.ahk
 https://en.wikipedia.org/wiki/Hymenaea_courbaril
 
-Cupuaçu.ahk
+23068.  Cupuaçu.ahk
 https://en.wikipedia.org/wiki/Cupua%C3%A7u
 
-Custard apple.ahk
+23107.  Custard apple.ahk
 https://en.wikipedia.org/wiki/Annona_reticulata
 
-Davidson's plum.ahk
+23147.  Davidson's plum.ahk
 https://en.wikipedia.org/wiki/Davidsonia_jerseyana
 
-Dead man's fingers.ahk
+23188.  Dead man's fingers.ahk
 https://en.wikipedia.org/wiki/Decaisnea
 
-Desert fig.ahk
+23230.  Desert fig.ahk
 https://en.wikipedia.org/wiki/Desert_fig
 
-Doub palm fruit.ahk
+23273.  Doub palm fruit.ahk
 https://en.wikipedia.org/wiki/Borassus_flabellifer
 
-Duguetia confinis.ahk
+23317.  Duguetia confinis.ahk
 https://en.wikipedia.org/w/index.php?title=Duguetia_confinis&action=edit&redlink=1
 
-Duguetia spixiana.ahk
+23362.  Duguetia spixiana.ahk
 https://en.wikipedia.org/w/index.php?title=Duguetia_spixiana&action=edit&redlink=1
 
-Durian.ahk
+23408.  Durian.ahk
 https://en.wikipedia.org/wiki/Durian
 
-Elephant apple.ahk
+23455.  Elephant apple.ahk
 https://en.wikipedia.org/wiki/Dillenia_indica
 
-Feijoa.ahk
+23503.  Feijoa.ahk
 https://en.wikipedia.org/wiki/Feijoa
 
-Ficus carrii.ahk
+23552.  Ficus carrii.ahk
 https://en.wikipedia.org/w/index.php?title=Ficus_carrii&action=edit&redlink=1
 
-Fig.ahk
+23602.  Fig.ahk
 https://en.wikipedia.org/wiki/Ficus_carica
 
-Gamboge.ahk
+23653.  Gamboge.ahk
 https://en.wikipedia.org/wiki/Garcinia_morella
 
-Garcinia cambogia.ahk
+23705.  Garcinia cambogia.ahk
 https://en.wikipedia.org/wiki/Garcinia_cambogia
 
-Garcinia forbesii.ahk
+23758.  Garcinia forbesii.ahk
 https://en.wikipedia.org/w/index.php?title=Garcinia_forbesii&action=edit&redlink=1
 
-Giant granadilla.ahk
+23812.  Giant granadilla.ahk
 https://en.wikipedia.org/wiki/Giant_granadilla
 
-Glenniea philippinensis.ahk
+23867.  Glenniea philippinensis.ahk
 https://en.wikipedia.org/w/index.php?title=Glenniea_philippinensis&action=edit&redlink=1
 
-Guava.ahk
+23923.  Guava.ahk
 https://en.wikipedia.org/wiki/Guava
 
-G?c.ahk
+23980.  G?c.ahk
 https://en.wikipedia.org/wiki/G%E1%BA%A5c
 
-Hala fruit.ahk
+24038.  Hala fruit.ahk
 https://en.wikipedia.org/wiki/Pandanus_tectorius
 
-Hydnora abyssinica.ahk
+24097.  Hydnora abyssinica.ahk
 https://en.wikipedia.org/w/index.php?title=Hydnora_abyssinica&action=edit&redlink=1
 
-Ice-cream bean.ahk
+24157.  Ice-cream bean.ahk
 https://en.wikipedia.org/wiki/Inga_edulis
 
-Ilama.ahk
+24218.  Ilama.ahk
 https://en.wikipedia.org/wiki/Annona_diversifolia
 
-Jackfruit.ahk
+24280.  Jackfruit.ahk
 https://en.wikipedia.org/wiki/Jackfruit
 
-Jícara.ahk
+24343.  Jícara.ahk
 https://en.wikipedia.org/wiki/Crescentia_cujete
 
-Keluak.ahk
+24407.  Keluak.ahk
 https://en.wikipedia.org/wiki/Pangium_edule
 
-Kola nut.ahk
+24472.  Kola nut.ahk
 https://en.wikipedia.org/wiki/Kola_nut
 
-Kundong.ahk
+24538.  Kundong.ahk
 https://en.wikipedia.org/wiki/Garcinia_parvifolia
 
-Lardizabala.ahk
+24605.  Lardizabala.ahk
 https://en.wikipedia.org/wiki/Lardizabala
 
-Luóhàn guo.ahk
+24673.  Luóhàn guo.ahk
 https://en.wikipedia.org/wiki/Siraitia_grosvenorii
 
-Lúcuma.ahk
+24742.  Lúcuma.ahk
 https://en.wikipedia.org/wiki/L%C3%BAcuma
 
-Malabar plum.ahk
+24812.  Malabar plum.ahk
 https://en.wikipedia.org/wiki/Syzygium_jambos
 
-Mammee.ahk
+24883.  Mammee.ahk
 https://en.wikipedia.org/wiki/Mammea_americana
 
-Marolo.ahk
+24955.  Marolo.ahk
 https://en.wikipedia.org/wiki/Annona_crassiflora
 
-Maypop.ahk
+25028.  Maypop.ahk
 https://en.wikipedia.org/wiki/Maypop
 
-Menteng.ahk
+25102.  Menteng.ahk
 https://en.wikipedia.org/w/index.php?title=Menteng_(fruit)&action=edit&redlink=1
 
-Monkey fruit.ahk
+25177.  Monkey fruit.ahk
 https://en.wikipedia.org/wiki/Artocarpus_lacucha
 
-Monkey jackfruit.ahk
+25253.  Monkey jackfruit.ahk
 https://en.wikipedia.org/wiki/Artocarpus_rigidus
 
-Monkeypod.ahk
+25330.  Monkeypod.ahk
 https://en.wikipedia.org/wiki/Pithecellobium_dulce
 
-Monstera deliciosa.ahk
+25408.  Monstera deliciosa.ahk
 https://en.wikipedia.org/wiki/Monstera_deliciosa
 
-Mountain soursop.ahk
+25487.  Mountain soursop.ahk
 https://en.wikipedia.org/wiki/Mountain_soursop
 
-Mundu.ahk
+25567.  Mundu.ahk
 https://en.wikipedia.org/wiki/Garcinia_dulcis
 
-Naranjilla.ahk
+25648.  Naranjilla.ahk
 https://en.wikipedia.org/wiki/Naranjilla
 
-Natal orange.ahk
+25730.  Natal orange.ahk
 https://en.wikipedia.org/wiki/Natal_orange
 
-Noni.ahk
+25813.  Noni.ahk
 https://en.wikipedia.org/wiki/Noni
 
-Ooray.ahk
+25897.  Ooray.ahk
 https://en.wikipedia.org/wiki/Ooray
 
-Papaya.ahk
+25982.  Papaya.ahk
 https://en.wikipedia.org/wiki/Papaya
 
-Passiflora platyloba.ahk
+26068.  Passiflora platyloba.ahk
 https://en.wikipedia.org/w/index.php?title=Passiflora_platyloba&action=edit&redlink=1
 
-Passionfruit.ahk
+26155.  Passionfruit.ahk
 https://en.wikipedia.org/wiki/Passionfruit
 
-Pawpaw.ahk
+26243.  Pawpaw.ahk
 https://en.wikipedia.org/wiki/Asimina_triloba
 
-Pepino.ahk
+26332.  Pepino.ahk
 https://en.wikipedia.org/wiki/Solanum_muricatum
 
-Persimmon.ahk
+26422.  Persimmon.ahk
 https://en.wikipedia.org/wiki/Persimmon
 
-Pineapple.ahk
+26513.  Pineapple.ahk
 https://en.wikipedia.org/wiki/Pineapple
 
-Pomegranate.ahk
+26605.  Pomegranate.ahk
 https://en.wikipedia.org/wiki/Pomegranate
 
-Pond apple.ahk
+26698.  Pond apple.ahk
 https://en.wikipedia.org/wiki/Pond_apple
 
-Purple mangosteen.ahk
+26792.  Purple mangosteen.ahk
 https://en.wikipedia.org/wiki/Purple_mangosteen
 
-Red fruit.ahk
+26887.  Red fruit.ahk
 https://en.wikipedia.org/wiki/Pandanus_conoideus
 
-Salak.ahk
+26983.  Salak.ahk
 https://en.wikipedia.org/wiki/Salak
 
-Sandpaper fig.ahk
+27080.  Sandpaper fig.ahk
 https://en.wikipedia.org/wiki/Ficus_coronata
 
-Santol.ahk
+27178.  Santol.ahk
 https://en.wikipedia.org/wiki/Sandoricum_koetjape
 
-Smooth davidson's plum.ahk
+27277.  Smooth davidson's plum.ahk
 https://en.wikipedia.org/wiki/Davidsonia_johnsonii
 
-Soncoya.ahk
+27377.  Soncoya.ahk
 https://en.wikipedia.org/wiki/Annona_purpurea
 
-Soursop.ahk
+27478.  Soursop.ahk
 https://en.wikipedia.org/wiki/Soursop
 
-South american sapote.ahk
+27580.  South american sapote.ahk
 https://en.wikipedia.org/wiki/Quararibea_cordata
 
-Star fruit.ahk
+27683.  Star fruit.ahk
 https://en.wikipedia.org/wiki/Averrhoa_carambola
 
-Strangler fig.ahk
+27787.  Strangler fig.ahk
 https://en.wikipedia.org/wiki/Ficus_aurea
 
-Sugar-apple.ahk
+27892.  Sugar-apple.ahk
 https://en.wikipedia.org/wiki/Sugar-apple
 
-Sweet granadilla.ahk
+27998.  Sweet granadilla.ahk
 https://en.wikipedia.org/wiki/Sweet_granadilla
 
-Sycamore fig.ahk
+28105.  Sycamore fig.ahk
 https://en.wikipedia.org/wiki/Sycamore_fig
 
-Tamarind.ahk
+28213.  Tamarind.ahk
 https://en.wikipedia.org/wiki/Tamarind
 
-Terap.ahk
+28322.  Terap.ahk
 https://en.wikipedia.org/wiki/Terap
 
-Trichosanthes beccariana.ahk
+28432.  Trichosanthes beccariana.ahk
 https://en.wikipedia.org/w/index.php?title=Trichosanthes_beccariana&action=edit&redlink=1
 
-Vanilla.ahk
+28543.  Vanilla.ahk
 https://en.wikipedia.org/wiki/Vanilla_planifolia
 
-Velvet apple.ahk
+28655.  Velvet apple.ahk
 https://en.wikipedia.org/wiki/Diospyros_discolor
 
-White fig.ahk
+28768.  White fig.ahk
 https://en.wikipedia.org/wiki/Ficus_virens
 
-Wild jack.ahk
+28882.  Wild jack.ahk
 https://en.wikipedia.org/wiki/Artocarpus_hirsutus
 
-Wood-apple.ahk
+28997.  Wood-apple.ahk
 https://en.wikipedia.org/wiki/Limonia_acidissima
 
-Yellow granadilla.ahk
+29113.  Yellow granadilla.ahk
 https://en.wikipedia.org/w/index.php?title=Yellow_granadilla&action=edit&redlink=1
 6 Tropical and tropical-like fruit

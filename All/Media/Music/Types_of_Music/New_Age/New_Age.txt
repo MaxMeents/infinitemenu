@@ -1,19 +1,19 @@
 
-Environmental
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Environmental/Environmental.txt
+1.  Environmental
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Environmental/Environmental.txt
 
-Healing
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Healing/Healing.txt
+2.  Healing
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Healing/Healing.txt
 
-Meditation
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Meditation/Meditation.txt
+3.  Meditation
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Meditation/Meditation.txt
 
-Nature
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Nature/Nature.txt
+4.  Nature
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Nature/Nature.txt
 
-Relaxation
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Relaxation/Relaxation.txt
+5.  Relaxation
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Relaxation/Relaxation.txt
 
-Travel
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/Travel/Travel.txt
+6.  Travel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/Travel/Travel.txt
 New Age

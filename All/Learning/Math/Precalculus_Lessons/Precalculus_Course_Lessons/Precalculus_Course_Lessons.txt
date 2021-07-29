@@ -1,109 +1,109 @@
 
-Complex Numbers.ahk
+410377.  Complex Numbers.ahk
 https://www.youtube.com/watch?v=uk5Vm5XJ1n4
 
-Ellipses.ahk
+410379.  Ellipses.ahk
 https://www.youtube.com/watch?v=iLbe13v4MSo
 
-Exponential Functions.ahk
+410382.  Exponential Functions.ahk
 https://www.youtube.com/watch?v=Il8NV_PU5Ic
 
-Graphs of Polar Coordinates.ahk
+410386.  Graphs of Polar Coordinates.ahk
 https://www.youtube.com/watch?v=0mteFRnuRwY
 
-Graphs of Rational Functions.ahk
+410391.  Graphs of Rational Functions.ahk
 https://www.youtube.com/watch?v=GCc5eGG2pYE
 
-Graphs of Sine and Cosine.ahk
+410397.  Graphs of Sine and Cosine.ahk
 https://www.youtube.com/watch?v=EsAWM3RA1FU
 
-Hyperbolas.ahk
+410404.  Hyperbolas.ahk
 https://www.youtube.com/watch?v=SxXiXkItdso
 
-Inverse Trig Functions.ahk
+410412.  Inverse Trig Functions.ahk
 https://www.youtube.com/watch?v=uOcoaxdVpKE
 
-Law of Cosines.ahk
+410421.  Law of Cosines.ahk
 https://www.youtube.com/watch?v=mfiPua0-weU
 
-Law of Sines.ahk
+410431.  Law of Sines.ahk
 https://www.youtube.com/watch?v=qwBUGqGKq80
 
-Linear and Angular Speed.ahk
+410442.  Linear and Angular Speed.ahk
 https://www.youtube.com/watch?v=XUZJPfpsOt0
 
-Logarithmic Functions.ahk
+410454.  Logarithmic Functions.ahk
 https://www.youtube.com/watch?v=1dA5G04rams
 
-Memorizing the Unit Circle Using Left Hand Trick.ahk
+410467.  Memorizing the Unit Circle Using Left Hand Trick.ahk
 https://www.youtube.com/watch?v=LE6dmczMc68
 
-Multiple Angles.ahk
+410481.  Multiple Angles.ahk
 https://www.youtube.com/watch?v=6rawvSUG_DQ
 
-Parametric Equations.ahk
+410496.  Parametric Equations.ahk
 https://www.youtube.com/watch?v=Ra1HUDtI3Rk
 
-Polar Coordinates.ahk
+410512.  Polar Coordinates.ahk
 https://www.youtube.com/watch?v=PaFBMVn0abw
 
-Polynomial Functions of a Higher Degree.ahk
+410529.  Polynomial Functions of a Higher Degree.ahk
 https://www.youtube.com/watch?v=ZKFda-fW8II
 
-Properties of Logarithmic Functions.ahk
+410547.  Properties of Logarithmic Functions.ahk
 https://www.youtube.com/watch?v=iht3OxMnb9Q
 
-Radian and Degree Measure.ahk
+410566.  Radian and Degree Measure.ahk
 https://www.youtube.com/watch?v=U-fW96UQCNo
 
-Rational Functions and Asymptotes.ahk
+410586.  Rational Functions and Asymptotes.ahk
 https://www.youtube.com/watch?v=hRD5kte9jV8
 
-Real Zeros of Polynomials.ahk
+410607.  Real Zeros of Polynomials.ahk
 https://www.youtube.com/watch?v=0fEe7rB2YrI
 
-Right Triangle Trigonometry.ahk
+410629.  Right Triangle Trigonometry.ahk
 https://www.youtube.com/watch?v=YZeGs_Klhu8
 
-Roots of Complex Numbers.ahk
+410652.  Roots of Complex Numbers.ahk
 https://www.youtube.com/watch?v=5T9JOuZVm_4
 
-Solving a System of Equations.ahk
+410676.  Solving a System of Equations.ahk
 https://www.youtube.com/watch?v=cs4YFZvfEOk
 
-Solving Exponential and Logarithmic Equations.ahk
+410701.  Solving Exponential and Logarithmic Equations.ahk
 https://www.youtube.com/watch?v=n-L-8OLo0H4
 
-Solving Trigonometric Equations.ahk
+410727.  Solving Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=XPz1_Vkb_oA
 
-Sum and Difference Formulas.ahk
+410754.  Sum and Difference Formulas.ahk
 https://www.youtube.com/watch?v=b15yEVGta-o
 
-Trig Form of Complex Number.ahk
+410782.  Trig Form of Complex Number.ahk
 https://www.youtube.com/watch?v=343Vr0AAC4w
 
-Trig Functions at Any Angle.ahk
+410811.  Trig Functions at Any Angle.ahk
 https://www.youtube.com/watch?v=NqJ6dYumStc
 
-Unit Circle (1357823).ahk
+410841.  Unit Circle (1357823).ahk
 https://www.youtube.com/watch?v=YkgkGWhUFXI
 
-Unit Circle Song  Michael Bautista.ahk
+410872.  Unit Circle Song  Michael Bautista.ahk
 https://www.youtube.com/watch?v=1CiXAP8XaBg
 
-Unit Circle.ahk
+410904.  Unit Circle.ahk
 https://www.youtube.com/watch?v=tKJNcnZSwhM
 
-Vectors and Dot Products.ahk
+410937.  Vectors and Dot Products.ahk
 https://www.youtube.com/watch?v=sM8NGnWRNio
 
-Vectors in a Plane.ahk
+410971.  Vectors in a Plane.ahk
 https://www.youtube.com/watch?v=Ak15im0e1Eo
 
-Verifying Trig Identities.ahk
+411006.  Verifying Trig Identities.ahk
 https://www.youtube.com/watch?v=cXGKYrSslEo
 
-Work and Force Applications.ahk
+411042.  Work and Force Applications.ahk
 https://www.youtube.com/watch?v=m_aJGsBJLn0
 Precalculus Course Lessons

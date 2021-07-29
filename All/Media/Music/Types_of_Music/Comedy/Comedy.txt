@@ -1,16 +1,16 @@
 
-Commercial
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Commercial/Commercial.txt
+1.  Commercial
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Commercial/Commercial.txt
 
-Novelty
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Novelty/Novelty.txt
+2.  Novelty
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Novelty/Novelty.txt
 
-Parody Music
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Parody_Music/Parody_Music.txt
+3.  Parody Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Parody_Music/Parody_Music.txt
 
-Stand-up Comedy
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Stand-up_Comedy/Stand-up_Comedy.txt
+4.  Stand-up Comedy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Stand-up_Comedy/Stand-up_Comedy.txt
 
-Vaudeville
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Vaudeville/Vaudeville.txt
+5.  Vaudeville
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Vaudeville/Vaudeville.txt
 Comedy

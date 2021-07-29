@@ -1,40 +1,40 @@
 
-Contemporary R and B
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Contemporary_R_and_B/Contemporary_R_and_B.txt
+1.  Contemporary R and B
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Contemporary_R_and_B/Contemporary_R_and_B.txt
 
-Disco
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Disco/Disco.txt
+2.  Disco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Disco/Disco.txt
 
-Doo Wop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Doo_Wop/Doo_Wop.txt
+3.  Doo Wop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Doo_Wop/Doo_Wop.txt
 
-Funk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Funk/Funk.txt
+4.  Funk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Funk/Funk.txt
 
-Modern Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Modern_Soul/Modern_Soul.txt
+5.  Modern Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Modern_Soul/Modern_Soul.txt
 
-Motown
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Motown/Motown.txt
+6.  Motown
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Motown/Motown.txt
 
-Neo-Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Neo-Soul/Neo-Soul.txt
+7.  Neo-Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Neo-Soul/Neo-Soul.txt
 
-Northern Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Northern_Soul/Northern_Soul.txt
+8.  Northern Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Northern_Soul/Northern_Soul.txt
 
-Psychedelic Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Psychedelic_Soul/Psychedelic_Soul.txt
+9.  Psychedelic Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Psychedelic_Soul/Psychedelic_Soul.txt
 
-Quiet Storm
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Quiet_Storm/Quiet_Storm.txt
+10.  Quiet Storm
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Quiet_Storm/Quiet_Storm.txt
 
-Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Soul/Soul.txt
+11.  Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Soul/Soul.txt
 
-Soul Blues
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Soul_Blues/Soul_Blues.txt
+12.  Soul Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Soul_Blues/Soul_Blues.txt
 
-Southern Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/Southern_Soul/Southern_Soul.txt
+13.  Southern Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/Southern_Soul/Southern_Soul.txt
 R and B-Soul

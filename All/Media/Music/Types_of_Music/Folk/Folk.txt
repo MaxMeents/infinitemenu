@@ -1,22 +1,22 @@
 
-Alternative Folk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Alternative_Folk/Alternative_Folk.txt
+1.  Alternative Folk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Alternative_Folk/Alternative_Folk.txt
 
-Contemporary Folk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Contemporary_Folk/Contemporary_Folk.txt
+2.  Contemporary Folk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Contemporary_Folk/Contemporary_Folk.txt
 
-Folk-Rock
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Folk-Rock/Folk-Rock.txt
+3.  Folk-Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Folk-Rock/Folk-Rock.txt
 
-Indie Folk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Indie_Folk/Indie_Folk.txt
+4.  Indie Folk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Indie_Folk/Indie_Folk.txt
 
-Love Song
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Love_Song/Love_Song.txt
+5.  Love Song
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Love_Song/Love_Song.txt
 
-New Acoustic
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/New_Acoustic/New_Acoustic.txt
+6.  New Acoustic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/New_Acoustic/New_Acoustic.txt
 
-Traditional Folk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Traditional_Folk/Traditional_Folk.txt
+7.  Traditional Folk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Traditional_Folk/Traditional_Folk.txt
 Folk

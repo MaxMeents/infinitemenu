@@ -1,88 +1,88 @@
 
-Extract Matches Using Regex, freeCodeCamp Regular Expression Help, Learn Regexes.ahk
+125831.  Extract Matches Using Regex, freeCodeCamp Regular Expression Help, Learn Regexes.ahk
 https://www.youtube.com/watch?v=Ou2JC2tqP1s
 
-Find Characters with Lazy Matching, Learning about Regular Expressions in 2020, Learn Regex Features.ahk
+125833.  Find Characters with Lazy Matching, Learning about Regular Expressions in 2020, Learn Regex Features.ahk
 https://www.youtube.com/watch?v=Ou2JC2tqP1s
 
-Find More Than the First Match, freeCodeCamp's Regexes Tutor, Regular Expression Help 2020.ahk
+125836.  Find More Than the First Match, freeCodeCamp's Regexes Tutor, Regular Expression Help 2020.ahk
 https://www.youtube.com/watch?v=WN75jqFtQJw
 
-Find One or More Criminals in a Hunt, Regular Expression Greedy Match Lesson.ahk
+125840.  Find One or More Criminals in a Hunt, Regular Expression Greedy Match Lesson.ahk
 https://www.youtube.com/watch?v=tnTH_39P68c
 
-freeCodeCamp 2021 Regular Expressions Match All Letters and Numbers, Master Regex 2021 Coding lesson.ahk
+125845.  freeCodeCamp 2021 Regular Expressions Match All Letters and Numbers, Master Regex 2021 Coding lesson.ahk
 https://www.youtube.com/watch?v=tnTH_39P68c
 
-freeCodeCamp Check for All or None, Regex Pattern Tutorials 2021.ahk
+125851.  freeCodeCamp Check for All or None, Regex Pattern Tutorials 2021.ahk
 https://www.youtube.com/watch?v=LriUJJhZpdI
 
-freeCodeCamp Regular Expression, Restrict Possible Usernames, 2021 Coding Tutorials for Beginners.ahk
+125858.  freeCodeCamp Regular Expression, Restrict Possible Usernames, 2021 Coding Tutorials for Beginners.ahk
 https://www.youtube.com/watch?v=LriUJJhZpdI
 
-freeCodeCamp, Specify Only the Lower Number of Matches, Free Coding Tutorial for Beginners in 2021.ahk
+125866.  freeCodeCamp, Specify Only the Lower Number of Matches, Free Coding Tutorial for Beginners in 2021.ahk
 https://www.youtube.com/watch?v=LriUJJhZpdI
 
-Ignore Case While Matching, Regular Expressions with JS 2020 Tutorial.ahk
+125875.  Ignore Case While Matching, Regular Expressions with JS 2020 Tutorial.ahk
 https://www.youtube.com/watch?v=jrSLoy3QUTw
 
-Introduction to the Regular Expression Challenges, A Regex Tutorial for Beginners, Learn Regex 2020.ahk
+125885.  Introduction to the Regular Expression Challenges, A Regex Tutorial for Beginners, Learn Regex 2020.ahk
 https://www.youtube.com/watch?v=jrSLoy3QUTw
 
-Match a Literal String with Different Possibilities, Learn Regexes on freeCodeCamp, Understanding JS.ahk
+125896.  Match a Literal String with Different Possibilities, Learn Regexes on freeCodeCamp, Understanding JS.ahk
 https://www.youtube.com/watch?v=jrSLoy3QUTw
 
-Match Anything with Wildcard Period, freeCodeCamp's Regex Tutorials 2020, Learn Regular Expressions.ahk
+125908.  Match Anything with Wildcard Period, freeCodeCamp's Regex Tutorials 2020, Learn Regular Expressions.ahk
 https://www.youtube.com/watch?v=jrSLoy3QUTw
 
-Match Beginning String Patterns, Regex Tutorials.ahk
+125921.  Match Beginning String Patterns, Regex Tutorials.ahk
 https://www.youtube.com/watch?v=9PDEWYtAqdc
 
-Match Characters that Occur One or More Times,freeCodeCamp Regex Tutorials Javascript, Learn to Code.ahk
+125935.  Match Characters that Occur One or More Times,freeCodeCamp Regex Tutorials Javascript, Learn to Code.ahk
 https://www.youtube.com/watch?v=9PDEWYtAqdc
 
-Match Characters that Occur Zero or More Times, freeCodeCamp's Regex Lessons and Tutorials.ahk
+125950.  Match Characters that Occur Zero or More Times, freeCodeCamp's Regex Lessons and Tutorials.ahk
 https://www.youtube.com/watch?v=pn3kBk5cJJc
 
-Match Ending String Patterns Using Regexes, Regex Pattern Matching Tutorial, freeCodeCamp Coding Ex.ahk
+125966.  Match Ending String Patterns Using Regexes, Regex Pattern Matching Tutorial, freeCodeCamp Coding Ex.ahk
 https://www.youtube.com/watch?v=pn3kBk5cJJc
 
-Match Letters of the Alphabet, Regular Expression Patterns, freeCodeCamp Regexes Review.ahk
+125983.  Match Letters of the Alphabet, Regular Expression Patterns, freeCodeCamp Regexes Review.ahk
 https://www.youtube.com/watch?v=UChC8ptnB9U
 
-Match Literal Strings, Learn Regular Expressions on freeCodeCamp 2020, Learn JS for Beginners 2020.ahk
+126001.  Match Literal Strings, Learn Regular Expressions on freeCodeCamp 2020, Learn JS for Beginners 2020.ahk
 https://www.youtube.com/watch?v=UChC8ptnB9U
 
-Match Numbers and Letters of the Alphabet, Free Regex Course, freeCodeCamp Learn Regular Expressions.ahk
+126020.  Match Numbers and Letters of the Alphabet, Free Regex Course, freeCodeCamp Learn Regular Expressions.ahk
 https://www.youtube.com/watch?v=UChC8ptnB9U
 
-Match Single Character with Multiple Possibilities, freeCodeCamp Regex Concepts and Challenges.ahk
+126040.  Match Single Character with Multiple Possibilities, freeCodeCamp Regex Concepts and Challenges.ahk
 https://www.youtube.com/watch?v=UChC8ptnB9U
 
-Match Single Characters Not Specified, Regular Expression Lesson 2020, freeCodeCamp Tutorial.ahk
+126061.  Match Single Characters Not Specified, Regular Expression Lesson 2020, freeCodeCamp Tutorial.ahk
 https://www.youtube.com/watch?v=UChC8ptnB9U
 
-RAPUNZEL’S SURPRISE TWIN. (Can Maleficent Help Stop the Bad Clones from Taking Over).ahk
+126083.  RAPUNZEL’S SURPRISE TWIN. (Can Maleficent Help Stop the Bad Clones from Taking Over).ahk
 https://www.youtube.com/watch?v=889yBoynjus
 
-Regex Coding Tutorial, Match Non-Whitespace Characters, Tutorial on Regular Expressions.ahk
+126106.  Regex Coding Tutorial, Match Non-Whitespace Characters, Tutorial on Regular Expressions.ahk
 https://www.youtube.com/watch?v=JPoRqk940Cc
 
-Regular Expressions 2021 freeCodeCamp, Match Whitespace.ahk
+126130.  Regular Expressions 2021 freeCodeCamp, Match Whitespace.ahk
 https://www.youtube.com/watch?v=KVpvbL8DL5Q
 
-Regular Expressions in 2021, freeCodeCamp Regex Match Everything But Letters and Numbers, Coding Vid.ahk
+126155.  Regular Expressions in 2021, freeCodeCamp Regex Match Everything But Letters and Numbers, Coding Vid.ahk
 https://www.youtube.com/watch?v=KVpvbL8DL5Q
 
-Regular Expressions, Using the Test Method, freeCodeCamp's Learn Regex Challenges, 2020 Learn Regex.ahk
+126181.  Regular Expressions, Using the Test Method, freeCodeCamp's Learn Regex Challenges, 2020 Learn Regex.ahk
 https://www.youtube.com/watch?v=KVpvbL8DL5Q
 
-Specify Exact Number of Matches, Free Online Coding Tutorial.ahk
+126208.  Specify Exact Number of Matches, Free Online Coding Tutorial.ahk
 https://www.youtube.com/watch?v=PSYgxHgWcvk
 
-Specify Upper and Lower Number of Matches, freeCodeCamp Coding for Beginners 2021.ahk
+126236.  Specify Upper and Lower Number of Matches, freeCodeCamp Coding for Beginners 2021.ahk
 https://www.youtube.com/watch?v=bMG__s0DxTE
 
-Understanding Regular Expressions on freeCodeCamp 2021, Match all Numbers Regex Pattern Matching.ahk
+126265.  Understanding Regular Expressions on freeCodeCamp 2021, Match all Numbers Regex Pattern Matching.ahk
 https://www.youtube.com/watch?v=bMG__s0DxTE
 Simple Regular Expressions Introduction, Learn Regular Expressions 2021, Regex Tutorial

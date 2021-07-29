@@ -1,52 +1,52 @@
 
-Javascript course
+1.  Javascript course
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/Javascript_course/Javascript_course.txt
 
-JavaScript Project Tutorials
+2.  JavaScript Project Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Project_Tutorials/JavaScript_Project_Tutorials.txt
 
-JavaScript Tutorial
+3.  JavaScript Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorial/JavaScript_Tutorial.txt
 
-JavaScript Tutorial for Beginners
+4.  JavaScript Tutorial for Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorial_for_Beginners/JavaScript_Tutorial_for_Beginners.txt
 
-JavaScript Tutorial For Beginners  Edureka
+5.  JavaScript Tutorial For Beginners  Edureka
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorial_For_Beginners__Edureka/JavaScript_Tutorial_For_Beginners__Edureka.txt
 
-JavaScript Tutorial for Beginners & professionals  2020  UiBrains  NAVEEN SAGGAM
+6.  JavaScript Tutorial for Beginners & professionals  2020  UiBrains  NAVEEN SAGGAM
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorial_for_Beginners_&_professionals__2020__UiBrains__NAVEEN_SAGGAM/JavaScript_Tutorial_for_Beginners_&_professionals__2020__UiBrains__NAVEEN_SAGGAM.txt
 
-JavaScript Tutorial For Beginners To Experts  Full Course 2020
+7.  JavaScript Tutorial For Beginners To Experts  Full Course 2020
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorial_For_Beginners_To_Experts__Full_Course_2020/JavaScript_Tutorial_For_Beginners_To_Experts__Full_Course_2020.txt
 
-JavaScript Tutorials
+8.  JavaScript Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorials/JavaScript_Tutorials.txt
 
-JavaScript Tutorials for Beginners
+9.  JavaScript Tutorials for Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorials_for_Beginners/JavaScript_Tutorials_for_Beginners.txt
 
-JavaScript Tutorials for beginners in Hindi 2019
+10.  JavaScript Tutorials for beginners in Hindi 2019
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorials_for_beginners_in_Hindi_2019/JavaScript_Tutorials_for_beginners_in_Hindi_2019.txt
 
-JavaScript Tutorials In Hindi
+11.  JavaScript Tutorials In Hindi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorials_In_Hindi/JavaScript_Tutorials_In_Hindi.txt
 
-JavaScript Tutorials Playlist
+12.  JavaScript Tutorials Playlist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/JavaScript_Tutorials_Playlist/JavaScript_Tutorials_Playlist.txt
 
-Modern JavaScript Tutorial
+13.  Modern JavaScript Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/Modern_JavaScript_Tutorial/Modern_JavaScript_Tutorial.txt
 
-Namaste ?? JavaScript
+14.  Namaste ?? JavaScript
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/Namaste_??_JavaScript/Namaste_??_JavaScript.txt
 
-Vanilla JavaScript
+15.  Vanilla JavaScript
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/Vanilla_JavaScript/Vanilla_JavaScript.txt
 
-Vanilla Javascript Tutorials
+16.  Vanilla Javascript Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/Vanilla_Javascript_Tutorials/Vanilla_Javascript_Tutorials.txt
 
-?? JavaScript Tutorial for beginners in Hindi  Urdu
+17.  ?? JavaScript Tutorial for beginners in Hindi  Urdu
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Javascript_Tutorials/??_JavaScript_Tutorial_for_beginners_in_Hindi__Urdu/??_JavaScript_Tutorial_for_beginners_in_Hindi__Urdu.txt
 Javascript Tutorials

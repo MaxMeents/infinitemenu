@@ -1,67 +1,67 @@
 
-11.11 Mini-Lesson - Trigonometry - Graphing Trig. Functions (a, c & d variables).ahk
+437730.  11.11 Mini-Lesson - Trigonometry - Graphing Trig. Functions (a, c & d variables).ahk
 https://www.youtube.com/watch?v=pcv8Q7VyxJg&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.12 Mini-Lesson - Trigonometry - The new 'b' variable.ahk
+437732.  11.12 Mini-Lesson - Trigonometry - The new 'b' variable.ahk
 https://www.youtube.com/watch?v=6Ff_uBqs1lM&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.13 Mini-Lesson - Trigonometry - Csc and Sec Graphs (1404978).ahk
+437735.  11.13 Mini-Lesson - Trigonometry - Csc and Sec Graphs (1404978).ahk
 https://www.youtube.com/watch?v=nGukm4rU6og&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.13 Mini-Lesson - Trigonometry - CSC and SEC Graphs.ahk
+437739.  11.13 Mini-Lesson - Trigonometry - CSC and SEC Graphs.ahk
 https://www.youtube.com/watch?v=rOopHQR2GiE&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.14 Mini-Lesson - Trigonometry - Graphing Cotangent (1417689).ahk
+437744.  11.14 Mini-Lesson - Trigonometry - Graphing Cotangent (1417689).ahk
 https://www.youtube.com/watch?v=Z_ZOQB-3iI4&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.14 Mini-Lesson - Trigonometry - Graphing Cotangent.ahk
+437750.  11.14 Mini-Lesson - Trigonometry - Graphing Cotangent.ahk
 https://www.youtube.com/watch?v=avSgI64i9EE&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.15 Mini-Lesson - Trigonometry - Simplifying Trig Expressions.ahk
+437757.  11.15 Mini-Lesson - Trigonometry - Simplifying Trig Expressions.ahk
 https://www.youtube.com/watch?v=LG_XoESPCiQ&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.16 Mini-Lesson - Trigonometry - Verify Trig Identities.ahk
+437765.  11.16 Mini-Lesson - Trigonometry - Verify Trig Identities.ahk
 https://www.youtube.com/watch?v=8O_b5Bp7s3I&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.4 Mini-Lesson - Trigonometry - Reference Angles.ahk
+437774.  11.4 Mini-Lesson - Trigonometry - Reference Angles.ahk
 https://www.youtube.com/watch?v=2ClbPDRDKjs&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.5 Mini-Lesson - Trigonometry - Lesson - Special Reference Angles 1638 min).ahk
+437784.  11.5 Mini-Lesson - Trigonometry - Lesson - Special Reference Angles 1638 min).ahk
 https://www.youtube.com/watch?v=1sDx3Yq-3FM&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.6 Mini-Lesson - Trigonometry - Secant, Cosecant & Cotangent.ahk
+437795.  11.6 Mini-Lesson - Trigonometry - Secant, Cosecant & Cotangent.ahk
 https://www.youtube.com/watch?v=1CNJ5WJwprQ&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Complex Solving 2.ahk
+437807.  11.7 Mini-Lesson - Trigonometry - Complex Solving 2.ahk
 https://www.youtube.com/watch?v=vOTOOu6kiv4&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Examples with the b variable.ahk
+437820.  11.7 Mini-Lesson - Trigonometry - Examples with the b variable.ahk
 https://www.youtube.com/watch?v=jazBqkn_sZQ&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Solving in Degrees.ahk
+437834.  11.7 Mini-Lesson - Trigonometry - Solving in Degrees.ahk
 https://www.youtube.com/watch?v=C3B-ARTDwAk&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Solving in Radians.ahk
+437849.  11.7 Mini-Lesson - Trigonometry - Solving in Radians.ahk
 https://www.youtube.com/watch?v=uB7p20kL600&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Understanding Cosine Values.ahk
+437865.  11.7 Mini-Lesson - Trigonometry - Understanding Cosine Values.ahk
 https://www.youtube.com/watch?v=_s8MjKPQYI4&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Understanding Tangent.ahk
+437882.  11.7 Mini-Lesson - Trigonometry - Understanding Tangent.ahk
 https://www.youtube.com/watch?v=Bi_P43xczZk&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.7 Mini-Lesson - Trigonometry - Understanding the values for Sine..ahk
+437900.  11.7 Mini-Lesson - Trigonometry - Understanding the values for Sine..ahk
 https://www.youtube.com/watch?v=jL9N2UeDKA4&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.85 Mini-Lesson - Trigonometry - Unit Circle  Degrees.ahk
+437919.  11.85 Mini-Lesson - Trigonometry - Unit Circle  Degrees.ahk
 https://www.youtube.com/watch?v=B1AzvjB3-uo&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.85 Mini-Lesson - Trigonometry - Unit Circle (y values).ahk
+437939.  11.85 Mini-Lesson - Trigonometry - Unit Circle (y values).ahk
 https://www.youtube.com/watch?v=02zfpiVNAS0&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.85 Mini-Lesson - Trigonometry - Unit Circle - Radians.ahk
+437960.  11.85 Mini-Lesson - Trigonometry - Unit Circle - Radians.ahk
 https://www.youtube.com/watch?v=82MWUBMRN-Q&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 
-11.85 Mini-Lesson - Trigonometry - Unit Circle - X values.ahk
+437982.  11.85 Mini-Lesson - Trigonometry - Unit Circle - X values.ahk
 https://www.youtube.com/watch?v=pHAJdQlINCM&list=PLeshkl_23MdxaY9h1BVdRmlMYmxJV_NS0
 Alg 2 Unit 11 Trigonometry - Mini-Lessons

@@ -1,124 +1,124 @@
 
-Bash Shell Scripting Tutorial  Shell Scripting Tutorial  Learn Shell Programming.ahk
+19457.  Bash Shell Scripting Tutorial  Shell Scripting Tutorial  Learn Shell Programming.ahk
 https://www.youtube.com/watch?v=zWVV31NYi1U
 
-Docker Tutorial for Beginners  Learn Docker in 2 Hours (Full Course)  DevOps Training.ahk
+19459.  Docker Tutorial for Beginners  Learn Docker in 2 Hours (Full Course)  DevOps Training.ahk
 https://www.youtube.com/watch?v=LIpQGLdll7A
 
-How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest  virtual machine.ahk
+19462.  How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest  virtual machine.ahk
 https://www.youtube.com/watch?v=qNecdUsuTPw
 
-How to be a Good Software Developer  Coder  Programmer.ahk
+19466.  How to be a Good Software Developer  Coder  Programmer.ahk
 https://www.youtube.com/watch?v=M9C-_s3HQl8
 
-How to Install Debian Linux on VirtualBox.ahk
+19471.  How to Install Debian Linux on VirtualBox.ahk
 https://www.youtube.com/watch?v=6M1DivpQSdo
 
-How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux).ahk
+19477.  How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux).ahk
 https://www.youtube.com/watch?v=4RJ60fqeTN4
 
-How to Install Linux Mint 19 Cinnamon on VirtualBox.ahk
+19484.  How to Install Linux Mint 19 Cinnamon on VirtualBox.ahk
 https://www.youtube.com/watch?v=cPDNnpsdteU
 
-How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8  Windows 10.ahk
+19492.  How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8  Windows 10.ahk
 https://www.youtube.com/watch?v=GGorVpzZQwA
 
-How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10  Windows 8.ahk
+19501.  How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10  Windows 8.ahk
 https://www.youtube.com/watch?v=QbmRXJJKsvs
 
-How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10.ahk
+19511.  How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10.ahk
 https://www.youtube.com/watch?v=x5MhydijWmc
 
-How To Test 200+ Linux Distributions Without Installing them.ahk
+19522.  How To Test 200+ Linux Distributions Without Installing them.ahk
 https://www.youtube.com/watch?v=f_CWdtoTMKg
 
-Shell Scripting Tutorial for Beginners 1 -  Introduction.ahk
+19534.  Shell Scripting Tutorial for Beginners 1 -  Introduction.ahk
 https://www.youtube.com/watch?v=cQepf9fY6cE
 
-Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations.ahk
+19547.  Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations.ahk
 https://www.youtube.com/watch?v=kr3WP_-bu8A
 
-Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash  bc Command.ahk
+19561.  Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash  bc Command.ahk
 https://www.youtube.com/watch?v=yqpY-Wk-i9k
 
-Shell Scripting Tutorial for Beginners 12 - The case statement.ahk
+19576.  Shell Scripting Tutorial for Beginners 12 - The case statement.ahk
 https://www.youtube.com/watch?v=dW3oYQbNFyI
 
-Shell Scripting Tutorial for Beginners 13 - The case statement Example.ahk
+19592.  Shell Scripting Tutorial for Beginners 13 - The case statement Example.ahk
 https://www.youtube.com/watch?v=dqaMU4v6KvQ
 
-Shell Scripting Tutorial for Beginners 14 - Array variables.ahk
+19609.  Shell Scripting Tutorial for Beginners 14 - Array variables.ahk
 https://www.youtube.com/watch?v=p4ZHbf4_6IU
 
-Shell Scripting Tutorial for Beginners 15 - WHILE Loops.ahk
+19627.  Shell Scripting Tutorial for Beginners 15 - WHILE Loops.ahk
 https://www.youtube.com/watch?v=iwEteYwKDfE
 
-Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops.ahk
+19646.  Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops.ahk
 https://www.youtube.com/watch?v=L2eaBxAoMfQ
 
-Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash.ahk
+19666.  Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash.ahk
 https://www.youtube.com/watch?v=A-rBp1OJSH4
 
-Shell Scripting Tutorial for Beginners 18 - UNTIL loop.ahk
+19687.  Shell Scripting Tutorial for Beginners 18 - UNTIL loop.ahk
 https://www.youtube.com/watch?v=PgVIvWIi89I
 
-Shell Scripting Tutorial for Beginners 19 - FOR loop.ahk
+19709.  Shell Scripting Tutorial for Beginners 19 - FOR loop.ahk
 https://www.youtube.com/watch?v=mhhAbETJpag
 
-Shell Scripting Tutorial for Beginners 2 - using Variables and Comments.ahk
+19732.  Shell Scripting Tutorial for Beginners 2 - using Variables and Comments.ahk
 https://www.youtube.com/watch?v=vQv4W-JfrmQ
 
-Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands.ahk
+19756.  Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands.ahk
 https://www.youtube.com/watch?v=qnmlnu-J3_g
 
-Shell Scripting Tutorial for Beginners 21 - Select loop.ahk
+19781.  Shell Scripting Tutorial for Beginners 21 - Select loop.ahk
 https://www.youtube.com/watch?v=k3yTt0V01Mo
 
-Shell Scripting Tutorial for Beginners 22 - Break and continue.ahk
+19807.  Shell Scripting Tutorial for Beginners 22 - Break and continue.ahk
 https://www.youtube.com/watch?v=OOG076Z5SU8
 
-Shell Scripting Tutorial for Beginners 23 - Functions.ahk
+19834.  Shell Scripting Tutorial for Beginners 23 - Functions.ahk
 https://www.youtube.com/watch?v=kvQpx0q3qhY
 
-Shell Scripting Tutorial for Beginners 24 - Local variables.ahk
+19862.  Shell Scripting Tutorial for Beginners 24 - Local variables.ahk
 https://www.youtube.com/watch?v=16T4e4DME8I
 
-Shell Scripting Tutorial for Beginners 25 - Function Example.ahk
+19891.  Shell Scripting Tutorial for Beginners 25 - Function Example.ahk
 https://www.youtube.com/watch?v=x8Zbspqm_x4
 
-Shell Scripting Tutorial for Beginners 26 - Readonly command.ahk
+19921.  Shell Scripting Tutorial for Beginners 26 - Readonly command.ahk
 https://www.youtube.com/watch?v=EcldWxfoEmw
 
-Shell Scripting Tutorial for Beginners 27 - Signals and Traps.ahk
+19952.  Shell Scripting Tutorial for Beginners 27 - Signals and Traps.ahk
 https://www.youtube.com/watch?v=tF0Qau7zcsw
 
-Shell Scripting Tutorial for Beginners 28 - How to debug a bash script.ahk
+19984.  Shell Scripting Tutorial for Beginners 28 - How to debug a bash script.ahk
 https://www.youtube.com/watch?v=yrIlmyRST8c
 
-Shell Scripting Tutorial for Beginners 3 - Read User Input.ahk
+20017.  Shell Scripting Tutorial for Beginners 3 - Read User Input.ahk
 https://www.youtube.com/watch?v=AcSkkNAsGCY
 
-Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script.ahk
+20051.  Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script.ahk
 https://www.youtube.com/watch?v=BjBBfmDRakg
 
-Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else).ahk
+20086.  Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else).ahk
 https://www.youtube.com/watch?v=OO2Avn1g5Tw
 
-Shell Scripting Tutorial for Beginners 6 - File test operators.ahk
+20122.  Shell Scripting Tutorial for Beginners 6 - File test operators.ahk
 https://www.youtube.com/watch?v=uVi5o38NGi0
 
-Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file.ahk
+20159.  Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file.ahk
 https://www.youtube.com/watch?v=0Z72-LpvwjU
 
-Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator.ahk
+20197.  Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator.ahk
 https://www.youtube.com/watch?v=m4G3MLK8l4s
 
-Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator.ahk
+20236.  Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator.ahk
 https://www.youtube.com/watch?v=RtbeGJfssGQ
 
-Top 7 Programming Languages To Learn In 2021  Best Programming Languages 2021.ahk
+20276.  Top 7 Programming Languages To Learn In 2021  Best Programming Languages 2021.ahk
 https://www.youtube.com/watch?v=mXT3d3ZRVYs
 
-Which Programming Language Should You Learn First.ahk
+20317.  Which Programming Language Should You Learn First.ahk
 https://www.youtube.com/watch?v=AmTD9BaL6zY
 Shell Scripting Tutorial for Beginners

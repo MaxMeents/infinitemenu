@@ -1,67 +1,67 @@
 
-01 - What is a Variable (Part 1)  Learn How to Use Variables in Algebra..ahk
+4340.  01 - What is a Variable (Part 1)  Learn How to Use Variables in Algebra..ahk
 https://www.youtube.com/watch?v=wxwsKNhxYhU
 
-03 - Evaluating Numerical Expressions, Part 1.ahk
+4342.  03 - Evaluating Numerical Expressions, Part 1.ahk
 https://www.youtube.com/watch?v=YlKtsce3b1c
 
-05 - Evaluating Algebraic Expressions, Part 1.ahk
+4345.  05 - Evaluating Algebraic Expressions, Part 1.ahk
 https://www.youtube.com/watch?v=ZgPmNicHUU4
 
-07 - Order of Operations with Parenthesis, Part 1.ahk
+4349.  07 - Order of Operations with Parenthesis, Part 1.ahk
 https://www.youtube.com/watch?v=TF6b9I0awck
 
-10 - Fraction Bar and Order of Operations, Part 1.ahk
+4354.  10 - Fraction Bar and Order of Operations, Part 1.ahk
 https://www.youtube.com/watch?v=G2jDaZVCLGU
 
-12 - Equations and Domain of Variables, Part 1.ahk
+4360.  12 - Equations and Domain of Variables, Part 1.ahk
 https://www.youtube.com/watch?v=CeZZeGG2XVk
 
-17 - Review of Adding and Subtracting Fractions, Part 1.ahk
+4367.  17 - Review of Adding and Subtracting Fractions, Part 1.ahk
 https://www.youtube.com/watch?v=QmQCq2r6kMc
 
-19 - Review of Multiplying Fractions.ahk
+4375.  19 - Review of Multiplying Fractions.ahk
 https://www.youtube.com/watch?v=rILAPisJ1BI
 
-21 - Commutative Property and Closure Property for Addition and Multiplication.ahk
+4384.  21 - Commutative Property and Closure Property for Addition and Multiplication.ahk
 https://www.youtube.com/watch?v=cQVk57vXKhw
 
-22 - Associative Property of Equality and Transitive, Reflexive, Symmetric Properties.ahk
+4394.  22 - Associative Property of Equality and Transitive, Reflexive, Symmetric Properties.ahk
 https://www.youtube.com/watch?v=CiSb4POEp8g
 
-Algebra 1   Unit 1   Lesson 11   Fraction Bar And Order Of Operations, Part 2.ahk
+4405.  Algebra 1   Unit 1   Lesson 11   Fraction Bar And Order Of Operations, Part 2.ahk
 https://www.youtube.com/watch?v=lxOvD7chbaM
 
-Algebra 1   Unit 1   Lesson 13   Equations And Domain Of Variables, Part 2.ahk
+4417.  Algebra 1   Unit 1   Lesson 13   Equations And Domain Of Variables, Part 2.ahk
 https://www.youtube.com/watch?v=laoNXH0iwVU
 
-Algebra 1   Unit 1   Lesson 14   Equations And Domain Of Variables, Part 3.ahk
+4430.  Algebra 1   Unit 1   Lesson 14   Equations And Domain Of Variables, Part 3.ahk
 https://www.youtube.com/watch?v=soh76QT4ipw
 
-Algebra 1   Unit 1   Lesson 15   Review Of Basic Fractions.ahk
+4444.  Algebra 1   Unit 1   Lesson 15   Review Of Basic Fractions.ahk
 https://www.youtube.com/watch?v=aNYCAi21FvY
 
-Algebra 1   Unit 1   Lesson 16   Review Of Simplifying Fractions.ahk
+4459.  Algebra 1   Unit 1   Lesson 16   Review Of Simplifying Fractions.ahk
 https://www.youtube.com/watch?v=MA0GJxH3pGQ
 
-Algebra 1   Unit 1   Lesson 18   Review Of Adding And Subtracting Fractions, Part 2.ahk
+4475.  Algebra 1   Unit 1   Lesson 18   Review Of Adding And Subtracting Fractions, Part 2.ahk
 https://www.youtube.com/watch?v=kTQNllFIa7Q
 
-Algebra 1   Unit 1   Lesson 2   What Is A Variable, Part 2.ahk
+4492.  Algebra 1   Unit 1   Lesson 2   What Is A Variable, Part 2.ahk
 https://www.youtube.com/watch?v=_pNCvmn4KjA
 
-Algebra 1   Unit 1   Lesson 20   Review Of Dividing Fractions.ahk
+4510.  Algebra 1   Unit 1   Lesson 20   Review Of Dividing Fractions.ahk
 https://www.youtube.com/watch?v=3DdfTQWxbio
 
-Algebra 1   Unit 1   Lesson 4   Evaluating Numerical Expressions, Part 2.ahk
+4529.  Algebra 1   Unit 1   Lesson 4   Evaluating Numerical Expressions, Part 2.ahk
 https://www.youtube.com/watch?v=qNC4dpgdem0
 
-Algebra 1   Unit 1   Lesson 6   Evaluating Algebraic Expressions, Part 2.ahk
+4549.  Algebra 1   Unit 1   Lesson 6   Evaluating Algebraic Expressions, Part 2.ahk
 https://www.youtube.com/watch?v=YYQPKfInvhc
 
-Algebra 1   Unit 1   Lesson 8   Parenthesis And Order Of Operations, Part 2.ahk
+4570.  Algebra 1   Unit 1   Lesson 8   Parenthesis And Order Of Operations, Part 2.ahk
 https://www.youtube.com/watch?v=HZd__gTkOIk
 
-Algebra 1   Unit 1   Lesson 9   Parenthesis And Order Of Operations, Part 3.ahk
+4592.  Algebra 1   Unit 1   Lesson 9   Parenthesis And Order Of Operations, Part 3.ahk
 https://www.youtube.com/watch?v=xOSPl5zkF4k
 Algebra 1 Course, Unit 1

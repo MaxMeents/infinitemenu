@@ -1,7 +1,7 @@
 
-Animal Images
+1.  Animal Images
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animal_Images/Animal_Images.txt
 
-Animals Smiling
+2.  Animals Smiling
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animals_Smiling/Animals_Smiling.txt
 Animals

@@ -1,217 +1,217 @@
 
-Algebra  Sequence and Factorial Notations.ahk
+434696.  Algebra  Sequence and Factorial Notations.ahk
 https://www.youtube.com/watch?v=V_T4o6upYfI
 
-Algebra - Conic Section on Ellipse.ahk
+434698.  Algebra - Conic Section on Ellipse.ahk
 https://www.youtube.com/watch?v=QotQO6LYC6o
 
-Algebra Arithmetic Sequence.ahk
+434701.  Algebra Arithmetic Sequence.ahk
 https://www.youtube.com/watch?v=9pa6dFedGTg
 
-Algebra Evaluating Geometric Sequence.ahk
+434705.  Algebra Evaluating Geometric Sequence.ahk
 https://www.youtube.com/watch?v=1eZpN9_T3n8
 
-ALGEBRA How to Solve Math Problems on Combination.ahk
+434710.  ALGEBRA How to Solve Math Problems on Combination.ahk
 https://www.youtube.com/watch?v=DZPgDCWpGxE
 
-Algebra Solving Systems of Linear Inequalities.ahk
+434716.  Algebra Solving Systems of Linear Inequalities.ahk
 https://www.youtube.com/watch?v=ELl_41Hr-dw
 
-Analytic Geometry  Conic Section on Parabola.ahk
+434723.  Analytic Geometry  Conic Section on Parabola.ahk
 https://www.youtube.com/watch?v=1utNbcKEg7U
 
-FINDING THE DOMAIN OF RATIONAL FUNCTIONS.ahk
+434731.  FINDING THE DOMAIN OF RATIONAL FUNCTIONS.ahk
 https://www.youtube.com/watch?v=jMQRVs59Ydw
 
-How do you graph exponential functions and its translations.ahk
+434740.  How do you graph exponential functions and its translations.ahk
 https://www.youtube.com/watch?v=c_pKjcRY3EI
 
-How to Add, Subtract, Divide, Multiply Fractions with Aaron Sanchez.ahk
+434750.  How to Add, Subtract, Divide, Multiply Fractions with Aaron Sanchez.ahk
 https://www.youtube.com/watch?v=n2KVURGYZ1A
 
-How to Convert Logarithmic to Exponential Equation.ahk
+434761.  How to Convert Logarithmic to Exponential Equation.ahk
 https://www.youtube.com/watch?v=z5bqapEjzCQ
 
-How to Find the Inverse of a Function (1866446).ahk
+434773.  How to Find the Inverse of a Function (1866446).ahk
 https://www.youtube.com/watch?v=oHXDXWROZ4o
 
-How to Find the Inverse of a Function.ahk
+434786.  How to Find the Inverse of a Function.ahk
 https://www.youtube.com/watch?v=QNLM1AUFG2U
 
-How To Graph Logarithmic Functions and Its Translations.ahk
+434800.  How To Graph Logarithmic Functions and Its Translations.ahk
 https://www.youtube.com/watch?v=MUZx6vsnviQ
 
-How to graph trigonometric functions and its inverses.ahk
+434815.  How to graph trigonometric functions and its inverses.ahk
 https://www.youtube.com/watch?v=YzMg9PuUXN8
 
-How to Prove Trigonometric Identities.ahk
+434831.  How to Prove Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=tTuJCBUfmN4
 
-How To Simplify Radical Expressions and Square Roots.ahk
+434848.  How To Simplify Radical Expressions and Square Roots.ahk
 https://www.youtube.com/watch?v=Qh8CJ_AjPK8
 
-How to Simplify Rational Exponents or Radical Expressions.ahk
+434866.  How to Simplify Rational Exponents or Radical Expressions.ahk
 https://www.youtube.com/watch?v=56Kq-RG6KBs
 
-How to Simplify Trigonometric Expressions Using Trig Identities.ahk
+434885.  How to Simplify Trigonometric Expressions Using Trig Identities.ahk
 https://www.youtube.com/watch?v=oHOeJr11How
 
-How to Solve Logarithmic Equations Using the Properties of Logarithms (1560041).ahk
+434905.  How to Solve Logarithmic Equations Using the Properties of Logarithms (1560041).ahk
 https://www.youtube.com/watch?v=Ljf38D-sGUU
 
-How to Solve Logarithmic Equations Using the Properties of Logarithms.ahk
+434926.  How to Solve Logarithmic Equations Using the Properties of Logarithms.ahk
 https://www.youtube.com/watch?v=HEMN1ZHkWcw
 
-How To Solve Special Cases of Quadratic Equations.ahk
+434948.  How To Solve Special Cases of Quadratic Equations.ahk
 https://www.youtube.com/watch?v=PEeAoEtlvA0
 
-How to Use Function Operations and Evaluate Composite Functions.ahk
+434971.  How to Use Function Operations and Evaluate Composite Functions.ahk
 https://www.youtube.com/watch?v=9exMxUS-QGc
 
-How to Use the Properties of Logarithms in Solving Logarithmic Expressions and Equations.ahk
+434995.  How to Use the Properties of Logarithms in Solving Logarithmic Expressions and Equations.ahk
 https://www.youtube.com/watch?v=EDwKZas35Aw
 
-Introduction to Conic Sections and Analyzing a Parabola.ahk
+435020.  Introduction to Conic Sections and Analyzing a Parabola.ahk
 https://www.youtube.com/watch?v=fn6BfPxI1Co
 
-Lesson on Adding and Subtracting Rational Expressions.ahk
+435046.  Lesson on Adding and Subtracting Rational Expressions.ahk
 https://www.youtube.com/watch?v=43AQre6sIRU
 
-Lesson on Complex Numbers.ahk
+435073.  Lesson on Complex Numbers.ahk
 https://www.youtube.com/watch?v=K1n227bAfRU
 
-Lesson on How to  Graph Logarithmic Functions.ahk
+435101.  Lesson on How to  Graph Logarithmic Functions.ahk
 https://www.youtube.com/watch?v=2L8CWYjl3lA
 
-Lesson on How to Find the Solutions of Radical Equations.ahk
+435130.  Lesson on How to Find the Solutions of Radical Equations.ahk
 https://www.youtube.com/watch?v=lgd7DJ4E5rI
 
-Lesson on How to Simplify Rational Expressions by Factoring.ahk
+435160.  Lesson on How to Simplify Rational Expressions by Factoring.ahk
 https://www.youtube.com/watch?v=QMeF_OEBzWM
 
-Lesson on How To Solve Piecewise Defined Functions  ALGEBRA.ahk
+435191.  Lesson on How To Solve Piecewise Defined Functions  ALGEBRA.ahk
 https://www.youtube.com/watch?v=U4zwSs7-O3o
 
-Lesson on Multiplying and Dividing Rational Expressions.ahk
+435223.  Lesson on Multiplying and Dividing Rational Expressions.ahk
 https://www.youtube.com/watch?v=AsCf_c0Dgvo
 
-Practice Exercises on Finding Solutions of Polynomials Using Factor and Remainder Theorem.ahk
+435256.  Practice Exercises on Finding Solutions of Polynomials Using Factor and Remainder Theorem.ahk
 https://www.youtube.com/watch?v=fwkn1JCvIbc
 
-Practice Problems on How to Solve Radical Equations.ahk
+435290.  Practice Problems on How to Solve Radical Equations.ahk
 https://www.youtube.com/watch?v=O2PbOVE0UqQ
 
-PRECALCULUS  The Unit Circle.ahk
+435325.  PRECALCULUS  The Unit Circle.ahk
 https://www.youtube.com/watch?v=b8_QIFMvIjU
 
-Precalculus - Converting General form of a Conic Section to Standard Form.ahk
+435361.  Precalculus - Converting General form of a Conic Section to Standard Form.ahk
 https://www.youtube.com/watch?v=lLEsB6U49Zw
 
-Precalculus - Solving Trigonometric Equations.ahk
+435398.  Precalculus - Solving Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=7JAOTc__1eI
 
-PRECALCULUS Analyzing an Ellipse.ahk
+435436.  PRECALCULUS Analyzing an Ellipse.ahk
 https://www.youtube.com/watch?v=iTCmw-GWGFk
 
-PRECALCULUS Binomial Theorem using Pascal Triangle  BINOMIAL EXPANSION.ahk
+435475.  PRECALCULUS Binomial Theorem using Pascal Triangle  BINOMIAL EXPANSION.ahk
 https://www.youtube.com/watch?v=3FN4ldzY5n0
 
-PRECALCULUS Conic Section -  Analyzing Circle.ahk
+435515.  PRECALCULUS Conic Section -  Analyzing Circle.ahk
 https://www.youtube.com/watch?v=w4EIzA260UY
 
-Precalculus Conic Section -  Analyzing Hyperbola.ahk
+435556.  Precalculus Conic Section -  Analyzing Hyperbola.ahk
 https://www.youtube.com/watch?v=i6Ns_yetNls
 
-PRECALCULUS Converting Radian and Degree Measure in Trigonometry.ahk
+435598.  PRECALCULUS Converting Radian and Degree Measure in Trigonometry.ahk
 https://www.youtube.com/watch?v=qQ7AqbGjTyI
 
-PRECALCULUS De Moivre's Theorem.ahk
+435641.  PRECALCULUS De Moivre's Theorem.ahk
 https://www.youtube.com/watch?v=_4oM98XhBgM
 
-PRECALCULUS Dot Product of Vectors.ahk
+435685.  PRECALCULUS Dot Product of Vectors.ahk
 https://www.youtube.com/watch?v=wWOKUUHyztw
 
-PRECALCULUS Elementary Row Operations on a Matrix.ahk
+435730.  PRECALCULUS Elementary Row Operations on a Matrix.ahk
 https://www.youtube.com/watch?v=0q_CDo0Mz3s
 
-PRECALCULUS Finding the Determinant of a 2x2 and 3x3 Matrices.ahk
+435776.  PRECALCULUS Finding the Determinant of a 2x2 and 3x3 Matrices.ahk
 https://www.youtube.com/watch?v=zJw-N7J1ndg
 
-PRECALCULUS Finding the Horizontal and Vertical Asymptotes of a Rational Function.ahk
+435823.  PRECALCULUS Finding the Horizontal and Vertical Asymptotes of a Rational Function.ahk
 https://www.youtube.com/watch?v=gEsuawMfBmY
 
-PRECALCULUS Law of Cosines  HOW TO  TRIGONOMETRY.ahk
+435871.  PRECALCULUS Law of Cosines  HOW TO  TRIGONOMETRY.ahk
 https://www.youtube.com/watch?v=en56Op_s-AM
 
-Precalculus LAW OF SINES  TRIGONOMETRY  HOW TO.ahk
+435920.  Precalculus LAW OF SINES  TRIGONOMETRY  HOW TO.ahk
 https://www.youtube.com/watch?v=Z8WowJtiJss
 
-PRECALCULUS Methods of Mathematical Induction.ahk
+435970.  PRECALCULUS Methods of Mathematical Induction.ahk
 https://www.youtube.com/watch?v=cyT7R354kiQ
 
-PRECALCULUS Multipliying and Dividing Complex Numbers in Trigonometric  Form.ahk
+436021.  PRECALCULUS Multipliying and Dividing Complex Numbers in Trigonometric  Form.ahk
 https://www.youtube.com/watch?v=ioChkYjf2jI
 
-PRECALCULUS Multiplying Matrices.ahk
+436073.  PRECALCULUS Multiplying Matrices.ahk
 https://www.youtube.com/watch?v=BEepwYg0qYs
 
-PRECALCULUS Proving Trigonometric Identities.ahk
+436126.  PRECALCULUS Proving Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=VURwzdkHxHg
 
-PRECALCULUS Right Triangle Trigonometry - SOHCAHTOA Part 2.ahk
+436180.  PRECALCULUS Right Triangle Trigonometry - SOHCAHTOA Part 2.ahk
 https://www.youtube.com/watch?v=3xNz_UXy6kc
 
-Precalculus Simplifying Trigonometric Identities.ahk
+436235.  Precalculus Simplifying Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=th9KIUQEq7Q
 
-PRECALCULUS Solving Right Triangle Using SOHCAHTOA.ahk
+436291.  PRECALCULUS Solving Right Triangle Using SOHCAHTOA.ahk
 https://www.youtube.com/watch?v=RpNQO3cmWd0
 
-PRECALCULUS Solving Trigonometric Equations Using the Identities.ahk
+436348.  PRECALCULUS Solving Trigonometric Equations Using the Identities.ahk
 https://www.youtube.com/watch?v=V5osAHB2rdI
 
-PRECALCULUS Sum and Difference Formulas in Computing for Trigonometric Functions.ahk
+436406.  PRECALCULUS Sum and Difference Formulas in Computing for Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=Yu_Rl-oEyHQ
 
-PRECALCULUS Trigonometric Form of a Complex Number.ahk
+436465.  PRECALCULUS Trigonometric Form of a Complex Number.ahk
 https://www.youtube.com/watch?v=OQoVw1JeSAM
 
-PRECALCULUS Using Cramer's Rule in Solving an Augmented Matrix.ahk
+436525.  PRECALCULUS Using Cramer's Rule in Solving an Augmented Matrix.ahk
 https://www.youtube.com/watch?v=2UQf28YgpzE
 
-PRECALCULUS Vector Operations.ahk
+436586.  PRECALCULUS Vector Operations.ahk
 https://www.youtube.com/watch?v=OhnYCJrYCZ8
 
-PrecalCULUS Word Problems using SOH CAH TOA.ahk
+436648.  PrecalCULUS Word Problems using SOH CAH TOA.ahk
 https://www.youtube.com/watch?v=W4uKpRMoWxw
 
-PRECALCULUS Writing Equation of a Parabola in Standard and General Forms.ahk
+436711.  PRECALCULUS Writing Equation of a Parabola in Standard and General Forms.ahk
 https://www.youtube.com/watch?v=FwXOucUqazk
 
-PRECALCULUS Writing the Equation of an Ellipse in Standard Form.ahk
+436775.  PRECALCULUS Writing the Equation of an Ellipse in Standard Form.ahk
 https://www.youtube.com/watch?v=hWA9G-jWi04
 
-PRECALULUS Graphing of Sine and Cosine Functions.ahk
+436840.  PRECALULUS Graphing of Sine and Cosine Functions.ahk
 https://www.youtube.com/watch?v=PlAAlL16UvI
 
-Solving Exponential Equation Using the Change of Base Formula for Logarithm  ALGEBRA  HOW.ahk
+436906.  Solving Exponential Equation Using the Change of Base Formula for Logarithm  ALGEBRA  HOW.ahk
 https://www.youtube.com/watch?v=s3bL4ZFVyls
 
-STATISTICS Evaluating Summation Notation.ahk
+436973.  STATISTICS Evaluating Summation Notation.ahk
 https://www.youtube.com/watch?v=Zgi26X_TK0Y
 
-TRIGONOMETRY  Solving 2 Missing Sides of a Triangle Using SOH CAH TOA.ahk
+437041.  TRIGONOMETRY  Solving 2 Missing Sides of a Triangle Using SOH CAH TOA.ahk
 https://www.youtube.com/watch?v=wzPnr4dpBKo
 
-Trigonometry - Solving Problems on Right Triangle using SOH CAH TOA.ahk
+437110.  Trigonometry - Solving Problems on Right Triangle using SOH CAH TOA.ahk
 https://www.youtube.com/watch?v=16HSLIhlQ2o
 
-Trigonometry - Solving Trigonometric Equations using the Unit Circle.ahk
+437180.  Trigonometry - Solving Trigonometric Equations using the Unit Circle.ahk
 https://www.youtube.com/watch?v=v-EjXdC3-PE
 
-TRIGONOMETRY Graph of Secant and Cosecant Functions  INVERSE TRIG FUNCTION.ahk
+437251.  TRIGONOMETRY Graph of Secant and Cosecant Functions  INVERSE TRIG FUNCTION.ahk
 https://www.youtube.com/watch?v=IdF_NGwINUY
 
-Trigonometry Proving Trigonometric Identities Part 2.ahk
+437323.  Trigonometry Proving Trigonometric Identities Part 2.ahk
 https://www.youtube.com/watch?v=rtfubzP5WxU
 PrecalculusTrigonometry Lessons (ENGLISH)

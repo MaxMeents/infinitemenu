@@ -1,7 +1,7 @@
 
-Linux Tutorials
+1.  Linux Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Tutorials.txt
 
-Why Linux is Better
+2.  Why Linux is Better
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Why_Linux_is_Better.txt
 Linux

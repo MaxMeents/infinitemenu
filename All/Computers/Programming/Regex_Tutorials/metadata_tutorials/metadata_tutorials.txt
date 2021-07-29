@@ -1,52 +1,52 @@
 
-1.0 Overview.ahk
+121557.  1.0 Overview.ahk
 https://www.youtube.com/watch?v=eJ9H1SakPoA
 
-Basic cURL Tutorial.ahk
+121559.  Basic cURL Tutorial.ahk
 https://www.youtube.com/watch?v=7XUibDYw4mc
 
-Chunking - Natural Language Processing With Python and NLTK p.5.ahk
+121562.  Chunking - Natural Language Processing With Python and NLTK p.5.ahk
 https://www.youtube.com/watch?v=imPpT2Qo2sk
 
-Coding for Librarians - Session 2.ahk
+121566.  Coding for Librarians - Session 2.ahk
 https://www.youtube.com/watch?v=Hm2-A-R9r04
 
-Coding for Librarians - Session One.ahk
+121571.  Coding for Librarians - Session One.ahk
 https://www.youtube.com/watch?v=mKh3Vf51lY8
 
-Digital Library Applications Data Models Omeka.ahk
+121577.  Digital Library Applications Data Models Omeka.ahk
 https://www.youtube.com/watch?v=-s9cevF6vrs
 
-Getting Started with Omeka - A Tutorial.ahk
+121584.  Getting Started with Omeka - A Tutorial.ahk
 https://www.youtube.com/watch?v=FncO08PeK9o
 
-Grep and Regex - BASH - Linux.ahk
+121592.  Grep and Regex - BASH - Linux.ahk
 https://www.youtube.com/watch?v=aZGUBSQDAdI
 
-Metadata mapping Schema.org to JSON-LD.ahk
+121601.  Metadata mapping Schema.org to JSON-LD.ahk
 https://www.youtube.com/watch?v=s81d0PxMjlc
 
-Metadata Standards.ahk
+121611.  Metadata Standards.ahk
 https://www.youtube.com/watch?v=8hPzWWx-Ung
 
-Organizing and Personalizing  Online Digital Collections with Omeka.ahk
+121622.  Organizing and Personalizing  Online Digital Collections with Omeka.ahk
 https://www.youtube.com/watch?v=SEOk91rqCAc
 
-RDA Webinar Aggregating and mapping Metadata (Dimitris Gavrilis).ahk
+121634.  RDA Webinar Aggregating and mapping Metadata (Dimitris Gavrilis).ahk
 https://www.youtube.com/watch?v=XebQ4r-ruAM
 
-REGEX Tutorial Regular Expressions Pt 2.ahk
+121647.  REGEX Tutorial Regular Expressions Pt 2.ahk
 https://www.youtube.com/watch?v=FCFdgymqpUI
 
-REGEX Tutorial Regular Expressions Pt 3.ahk
+121661.  REGEX Tutorial Regular Expressions Pt 3.ahk
 https://www.youtube.com/watch?v=lvGtejG69zg
 
-REGEX Tutorial Regular Expressions.ahk
+121676.  REGEX Tutorial Regular Expressions.ahk
 https://www.youtube.com/watch?v=DRR9fOXkfRE
 
-Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text.ahk
+121692.  Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text.ahk
 https://www.youtube.com/watch?v=sa-TUpSx1JA
 
-The Ultimate Introduction to Web Scraping and Browser Automation.ahk
+121709.  The Ultimate Introduction to Web Scraping and Browser Automation.ahk
 https://www.youtube.com/watch?v=1UYBAn69Qrk
 metadata tutorials

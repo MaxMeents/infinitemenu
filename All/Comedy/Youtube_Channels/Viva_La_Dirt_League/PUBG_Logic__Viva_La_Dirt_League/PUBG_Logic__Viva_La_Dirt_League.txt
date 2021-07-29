@@ -1,376 +1,376 @@
 
-A showdown for the ages - Pan vs Sniper.ahk
+881934.  A showdown for the ages - Pan vs Sniper.ahk
 https://www.youtube.com/watch?v=1tdJLr6qy4k&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Always separated from the team - Flanking.ahk
+881936.  Always separated from the team - Flanking.ahk
 https://www.youtube.com/watch?v=16NSPMjDiVU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL).ahk
+881939.  Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=kindPEFswmE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Annoying backseat gamer in PUBG - Backseat Gamer.ahk
+881943.  Annoying backseat gamer in PUBG - Backseat Gamer.ahk
 https://www.youtube.com/watch?v=rn2CU_axrrQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Annoying friend who streams - Twitch Teammate.ahk
+881948.  Annoying friend who streams - Twitch Teammate.ahk
 https://www.youtube.com/watch?v=npEXGU0EPt8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Applying PUBG gun skins - Paint Job.ahk
+881954.  Applying PUBG gun skins - Paint Job.ahk
 https://www.youtube.com/watch?v=2VPE8cQ4XGc&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Auto - PUBG Logic (remember to switch from single)  Viva La Dirt League (VLDL).ahk
+881961.  Auto - PUBG Logic (remember to switch from single)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=oVEtHvMvAsY&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Auto Matching - PUBG Logic (remember to switch it off)  Viva La Dirt League (VLDL).ahk
+881969.  Auto Matching - PUBG Logic (remember to switch it off)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=EAnPxrg5kUE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Awesome PUBG peeking strat - Wiggle Sniper.ahk
+881978.  Awesome PUBG peeking strat - Wiggle Sniper.ahk
 https://www.youtube.com/watch?v=vmUSiF9cLzE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL).ahk
+881988.  Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=zFhDXSQl2VM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Bandage - PUBG Logic (how to heal a stomach wound)  Viva La Dirt League (VLDL).ahk
+881999.  Bandage - PUBG Logic (how to heal a stomach wound)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=eV5BqUOSRjU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Bandaging fixes severe burns in PUBG - Molotov.ahk
+882011.  Bandaging fixes severe burns in PUBG - Molotov.ahk
 https://www.youtube.com/watch?v=7gcVwM4BPXs&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Bathroom - PUBG Logic (cowering is a legit strategy)  Viva La Dirt League (VLDL).ahk
+882024.  Bathroom - PUBG Logic (cowering is a legit strategy)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=sQHlUM36cBk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Before the game properly loads - Weapon Spawn.ahk
+882038.  Before the game properly loads - Weapon Spawn.ahk
 https://www.youtube.com/watch?v=G8T4Zkrw-wI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Best PUBG strategy ever - Whack A Mole.ahk
+882053.  Best PUBG strategy ever - Whack A Mole.ahk
 https://www.youtube.com/watch?v=bWbTU1YXdtA&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Betrayal - PUBG Logic (reviving team mates and loot drops)  Viva La Dirt League (VLDL).ahk
+882069.  Betrayal - PUBG Logic (reviving team mates and loot drops)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=hmDsru07bto&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Beware of random gas cans in PUBG - Gas Trap.ahk
+882086.  Beware of random gas cans in PUBG - Gas Trap.ahk
 https://www.youtube.com/watch?v=q9wr2WhuQls&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Bush - PUBG Logic (bush or enemy)  Viva La Dirt League (VLDL).ahk
+882104.  Bush - PUBG Logic (bush or enemy)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=m4XrGrtP6UI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Camouflage - PUBG Logic (its amazing what you can hide in a bush)  Viva La Dirt League (VLDL).ahk
+882123.  Camouflage - PUBG Logic (its amazing what you can hide in a bush)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=Ipp_QlW9vk0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Can one Ghillie save an entire squad - Ghillie Squad.ahk
+882143.  Can one Ghillie save an entire squad - Ghillie Squad.ahk
 https://www.youtube.com/watch?v=di-dPNNPUDA&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Careful Game - PUBG Logic (when you try play the long game)  Viva La Dirt League.ahk
+882164.  Careful Game - PUBG Logic (when you try play the long game)  Viva La Dirt League.ahk
 https://www.youtube.com/watch?v=xUou79Imz4o&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Cleaning up after PUBG games - Janitor.ahk
+882186.  Cleaning up after PUBG games - Janitor.ahk
 https://www.youtube.com/watch?v=06MlMMG5jIc&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Confiding in your streamer friend - D&M Stream.ahk
+882209.  Confiding in your streamer friend - D&M Stream.ahk
 https://www.youtube.com/watch?v=tcO1IkQKBio&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Costume Jealousy in PUBG - Cosmetics.ahk
+882233.  Costume Jealousy in PUBG - Cosmetics.ahk
 https://www.youtube.com/watch?v=S7sEzggKA44&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Crappy coupons in PUBG - Coupon.ahk
+882258.  Crappy coupons in PUBG - Coupon.ahk
 https://www.youtube.com/watch?v=qDCXsLbv26w&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Crash - PUBG Logic (alpha games are the best)  Viva La Dirt League (VLDL).ahk
+882284.  Crash - PUBG Logic (alpha games are the best)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=28VFvxlnKO0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Crazy achievements in PUBG - Achievements.ahk
+882311.  Crazy achievements in PUBG - Achievements.ahk
 https://www.youtube.com/watch?v=M5ZEe1YzYw0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Dancing for your life in PUBG - Dance.ahk
+882339.  Dancing for your life in PUBG - Dance.ahk
 https://www.youtube.com/watch?v=uXVhE0pPI7o&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Dealing with bad latency in PUBG sucks - PING.ahk
+882368.  Dealing with bad latency in PUBG sucks - PING.ahk
 https://www.youtube.com/watch?v=2dtJdkuX-xo&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Drinking an energy drink while driving in PUBG.ahk
+882398.  Drinking an energy drink while driving in PUBG.ahk
 https://www.youtube.com/watch?v=V_vUrY1MczI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Enemy Contact - PUBG Logic (trying to communicate with teammates)  Viva La Dirt League (VLDL).ahk
+882429.  Enemy Contact - PUBG Logic (trying to communicate with teammates)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=Jc8yteTOuWE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Energy drink healing logic in PUBG.ahk
+882461.  Energy drink healing logic in PUBG.ahk
 https://www.youtube.com/watch?v=DBwpMDaMoOI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-EXCLUSIVE PUBG UPDATE ft. WackyJacky101.ahk
+882494.  EXCLUSIVE PUBG UPDATE ft. WackyJacky101.ahk
 https://www.youtube.com/watch?v=Xy-KGpZM-P0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Fashion - PUBG Logic (some gear gives you an advantage)  Viva La Dirt League (VLDL).ahk
+882528.  Fashion - PUBG Logic (some gear gives you an advantage)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=1XwnfYzXayE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Female skins in PUBG are way better.ahk
+882563.  Female skins in PUBG are way better.ahk
 https://www.youtube.com/watch?v=lYv_yiOHVFI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Fighting for airdrops in Vikendi - Airdrop.ahk
+882599.  Fighting for airdrops in Vikendi - Airdrop.ahk
 https://www.youtube.com/watch?v=DF8hqjWHKcI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Fighting in a freezing blizzard in snow map Vikendi - Blizzard.ahk
+882636.  Fighting in a freezing blizzard in snow map Vikendi - Blizzard.ahk
 https://www.youtube.com/watch?v=ozK7t7HKLaQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Final Two - PUBG Logic (where the hell could he be!)  Viva La Dirt League (VLDL).ahk
+882674.  Final Two - PUBG Logic (where the hell could he be!)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=H4I1ukAbKq4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Finding snow footsteps on Vikendi - The Trap.ahk
+882713.  Finding snow footsteps on Vikendi - The Trap.ahk
 https://www.youtube.com/watch?v=siHTOye-Ag8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-First Person - PUBG Logic (first person problems)  Viva La Dirt League (VLDL).ahk
+882753.  First Person - PUBG Logic (first person problems)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=5isf1Sh0PEk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Flashbang - PUBG Logic (why no one uses flashbangs in player unknowns battlegrounds)  VLDL.ahk
+882794.  Flashbang - PUBG Logic (why no one uses flashbangs in player unknowns battlegrounds)  VLDL.ahk
 https://www.youtube.com/watch?v=g-cPbruxVc8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Getting easy kills in PUBG - AFK.ahk
+882836.  Getting easy kills in PUBG - AFK.ahk
 https://www.youtube.com/watch?v=xMDCRfXyEHU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Getting hit by a slow-moving vehicle in PUBG - The boop.ahk
+882879.  Getting hit by a slow-moving vehicle in PUBG - The boop.ahk
 https://www.youtube.com/watch?v=LE2vHnp_viM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Ghillie suits work great indoors. It's true! - Snow Ghillie.ahk
+882923.  Ghillie suits work great indoors. It's true! - Snow Ghillie.ahk
 https://www.youtube.com/watch?v=pqh6ijfkxow&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Giving away your position in PUBG.ahk
+882968.  Giving away your position in PUBG.ahk
 https://www.youtube.com/watch?v=O9JsWOo-Qyk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Giving your teammate a scope can create serious drama - Loan.ahk
+883014.  Giving your teammate a scope can create serious drama - Loan.ahk
 https://www.youtube.com/watch?v=QL0twatABdU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Greedy teammates hiding scopes from you - Scope.ahk
+883061.  Greedy teammates hiding scopes from you - Scope.ahk
 https://www.youtube.com/watch?v=i0dIg11YwBY&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Grenade physics in PUBG - Physics Bitch.ahk
+883109.  Grenade physics in PUBG - Physics Bitch.ahk
 https://www.youtube.com/watch?v=SP10CORoaZ4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL).ahk
+883158.  Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=ugJ9Ur6Ld64&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Hiding in plain sight - Ghillie Suit.ahk
+883208.  Hiding in plain sight - Ghillie Suit.ahk
 https://www.youtube.com/watch?v=Z35MAUXj9RE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Hiding in the final circle in PUBG - Ghillie End Game.ahk
+883259.  Hiding in the final circle in PUBG - Ghillie End Game.ahk
 https://www.youtube.com/watch?v=FQJQ1GeqTVQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-How to pop a tyre - Tyre Punch.ahk
+883311.  How to pop a tyre - Tyre Punch.ahk
 https://www.youtube.com/watch?v=n2GmtQlN0tM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-How to refill your vehicle in PUBG - Gas refill.ahk
+883364.  How to refill your vehicle in PUBG - Gas refill.ahk
 https://www.youtube.com/watch?v=I_SbISOGL7M&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-It's hard to time a grenade perfectly  - Timing.ahk
+883418.  It's hard to time a grenade perfectly  - Timing.ahk
 https://www.youtube.com/watch?v=Y5bLfnWYnQE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Items magically teleport from one bag to another - Gear Swap.ahk
+883473.  Items magically teleport from one bag to another - Gear Swap.ahk
 https://www.youtube.com/watch?v=CDP9f-Hz7ss&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Jumping from the third story window to save time - Long Drop.ahk
+883529.  Jumping from the third story window to save time - Long Drop.ahk
 https://www.youtube.com/watch?v=_NWbNk-zgpk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Learning how to use the skyhook in PUBG - Skyhook.ahk
+883586.  Learning how to use the skyhook in PUBG - Skyhook.ahk
 https://www.youtube.com/watch?v=gPj3FYw-GHY&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Lobby - PUBG Logic ( Player Unknown's Battlegrounds Loading Zone)  Viva La Dirt League (VLDL).ahk
+883644.  Lobby - PUBG Logic ( Player Unknown's Battlegrounds Loading Zone)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=cPGLLZu5lz4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Melee - PUBG Logic (punching people in PUBG is so easy)  Viva La Dirt League (VLDL).ahk
+883703.  Melee - PUBG Logic (punching people in PUBG is so easy)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=3JBiGtL7gh0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-MVP - PUBG Logic (The one person who carries the team)  Viva La Dirt League (VLDL).ahk
+883763.  MVP - PUBG Logic (The one person who carries the team)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=5FW7xb8jWew&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Never give up when knocked in PUBG.ahk
+883824.  Never give up when knocked in PUBG.ahk
 https://www.youtube.com/watch?v=X-h5uOiTjm4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Never go full crossbow - Crossbow.ahk
+883886.  Never go full crossbow - Crossbow.ahk
 https://www.youtube.com/watch?v=jGWYHDrrjC4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Overstocking on Ammo in PUBG - More Ammo.ahk
+883949.  Overstocking on Ammo in PUBG - More Ammo.ahk
 https://www.youtube.com/watch?v=seInNWr6QSg&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Panic Under Fire - PUBG Logic (player unknown battlegrounds loot lust panic)  VLDL.ahk
+884013.  Panic Under Fire - PUBG Logic (player unknown battlegrounds loot lust panic)  VLDL.ahk
 https://www.youtube.com/watch?v=8cG9Nj_eNlM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Parachute - PUBG Logic (getting stuck can really suck)  Viva La Dirt League.ahk
+884078.  Parachute - PUBG Logic (getting stuck can really suck)  Viva La Dirt League.ahk
 https://www.youtube.com/watch?v=uFfQWFZv0-4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Passing items in cars is impossible - The Pass.ahk
+884144.  Passing items in cars is impossible - The Pass.ahk
 https://www.youtube.com/watch?v=OBoTlA0AhC8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Passive aggressive PUBG post game - Team Argument.ahk
+884211.  Passive aggressive PUBG post game - Team Argument.ahk
 https://www.youtube.com/watch?v=tUX9xUagvwo&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Peeking - PUBG Logic (battle of the peeks in battlegrounds)  Viva La Dirt League (VLDL).ahk
+884279.  Peeking - PUBG Logic (battle of the peeks in battlegrounds)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=xpQ2PCctFlk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Pick Up - PUBG Logic (collecting weapons can be difficult)  Viva La Dirt League (VLDL).ahk
+884348.  Pick Up - PUBG Logic (collecting weapons can be difficult)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=wVFFe2wLXpU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Playing dress up in PUBG - Fashion.ahk
+884418.  Playing dress up in PUBG - Fashion.ahk
 https://www.youtube.com/watch?v=KrC_y66pK_A&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Playing pranks on your mate in PUBG - Alt F4.ahk
+884489.  Playing pranks on your mate in PUBG - Alt F4.ahk
 https://www.youtube.com/watch?v=EVroFMbYO0A&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-PUBG Music Video - Loot Lust.ahk
+884561.  PUBG Music Video - Loot Lust.ahk
 https://www.youtube.com/watch?v=KYV7X0Nccp4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Quietly stalking enemies in PUBG - Noise.ahk
+884634.  Quietly stalking enemies in PUBG - Noise.ahk
 https://www.youtube.com/watch?v=FrgAmFMbLZw&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Random luck finding a ghillie in PUBG - Ghillie Suit.ahk
+884708.  Random luck finding a ghillie in PUBG - Ghillie Suit.ahk
 https://www.youtube.com/watch?v=xRNZUC_Wr74&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Ready Up - PUBG Logic (There is always that one friend in player unknown battlegrounds)  VLDL.ahk
+884783.  Ready Up - PUBG Logic (There is always that one friend in player unknown battlegrounds)  VLDL.ahk
 https://www.youtube.com/watch?v=nGO9DNcymyM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Realising all the players in PUBG are bots - Bots.ahk
+884859.  Realising all the players in PUBG are bots - Bots.ahk
 https://www.youtube.com/watch?v=7FuVYU9IfpQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Red Zone - PUBG Logic (red zone safe zone)  Viva La Dirt League (VLDL).ahk
+884936.  Red Zone - PUBG Logic (red zone safe zone)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=vteWBuX_iiQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Remains - PUBG Logic (heartbreak on the battleground)  Viva La Dirt League (VLDL).ahk
+885014.  Remains - PUBG Logic (heartbreak on the battleground)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=kxatTIO6vqA&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Revive - PUBG Logic (Healing teammates in Battlegrounds)  Viva La Dirt League (VLDL).ahk
+885093.  Revive - PUBG Logic (Healing teammates in Battlegrounds)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=HhZZIu8Yem4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Ridiculous costumes in PUBG Mobile - Costume.ahk
+885173.  Ridiculous costumes in PUBG Mobile - Costume.ahk
 https://www.youtube.com/watch?v=rwrogw3x490&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Ridiculously long reload time for the M249 - Long Reload.ahk
+885254.  Ridiculously long reload time for the M249 - Long Reload.ahk
 https://www.youtube.com/watch?v=f2GrCvuYvzo&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Sacrificing yourself for your teammate - Sacrifice.ahk
+885336.  Sacrificing yourself for your teammate - Sacrifice.ahk
 https://www.youtube.com/watch?v=OSKTPYWem4U&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Selling Erangal properties in PUBG - Real Estate.ahk
+885419.  Selling Erangal properties in PUBG - Real Estate.ahk
 https://www.youtube.com/watch?v=N2WAo7P334c&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Shooting mates in the head - Training Chats.ahk
+885503.  Shooting mates in the head - Training Chats.ahk
 https://www.youtube.com/watch?v=uBKp-oQYTWU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Shooting through windows in PUBG - Window Frame.ahk
+885588.  Shooting through windows in PUBG - Window Frame.ahk
 https://www.youtube.com/watch?v=VaZ9_SHNK3s&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-SMG's are CRAZY common in Vikendi - Uzi.ahk
+885674.  SMG's are CRAZY common in Vikendi - Uzi.ahk
 https://www.youtube.com/watch?v=cIFmsuhCuO8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Smoke Grenade - PUBG Logic  Viva La Dirt League.ahk
+885761.  Smoke Grenade - PUBG Logic  Viva La Dirt League.ahk
 https://www.youtube.com/watch?v=wokpEFiMZb4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Smoke grenade vs frag grenade - Wrong Nade.ahk
+885849.  Smoke grenade vs frag grenade - Wrong Nade.ahk
 https://www.youtube.com/watch?v=vvB97nSJoy0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Switching from grenade to weapon in PUBG - Primed.ahk
+885938.  Switching from grenade to weapon in PUBG - Primed.ahk
 https://www.youtube.com/watch?v=Rs4m-5uNc5M&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Tactics to survive snow map Vikendi - Naked.ahk
+886028.  Tactics to survive snow map Vikendi - Naked.ahk
 https://www.youtube.com/watch?v=6zAU7hNfl_s&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Talking to a hacker in PUBG - Cheater.ahk
+886119.  Talking to a hacker in PUBG - Cheater.ahk
 https://www.youtube.com/watch?v=N07PXI-9qeU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Teabag - PUBG Logic (when BM goes too far)  Viva La Dirt League (VLDL).ahk
+886211.  Teabag - PUBG Logic (when BM goes too far)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=r0HhEeYniLQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Teamwork makes the dream work - Sharing.ahk
+886304.  Teamwork makes the dream work - Sharing.ahk
 https://www.youtube.com/watch?v=jBx2p4c1LwA&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Terrifying video game AI in PUBG - Terminator.ahk
+886398.  Terrifying video game AI in PUBG - Terminator.ahk
 https://www.youtube.com/watch?v=beqqaXUrtWU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-That controlling team mate in PUBG - Team Leader.ahk
+886493.  That controlling team mate in PUBG - Team Leader.ahk
 https://www.youtube.com/watch?v=Wt1QZlo-d-o&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-That friend who plays the other game - PUBG vs Fortnite.ahk
+886589.  That friend who plays the other game - PUBG vs Fortnite.ahk
 https://www.youtube.com/watch?v=olcPBpuZ6YU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The blinding urge for more gear in PUBG - Loot Lust.ahk
+886686.  The blinding urge for more gear in PUBG - Loot Lust.ahk
 https://www.youtube.com/watch?v=MAwZc666-Tw&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The danger of Blue Zone looting in PUBG.ahk
+886784.  The danger of Blue Zone looting in PUBG.ahk
 https://www.youtube.com/watch?v=xYE5ce1cvFk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The difficulty of getting into cars in PUBG.ahk
+886883.  The difficulty of getting into cars in PUBG.ahk
 https://www.youtube.com/watch?v=sQ6s6ujf6kY&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The Pan - PUBG Logic (It's just a cast iron frying pan after all)  Viva La Dirt League (VLDL).ahk
+886983.  The Pan - PUBG Logic (It's just a cast iron frying pan after all)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=jfQGY8xaxO0&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The power of stims in PUBG.ahk
+887084.  The power of stims in PUBG.ahk
 https://www.youtube.com/watch?v=tdd8fspKN58&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The struggles of auto bandage - Auto bandage.ahk
+887186.  The struggles of auto bandage - Auto bandage.ahk
 https://www.youtube.com/watch?v=Kijp0nD4QXE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-The trouble with finding yourself in a good position - Stay Focused.ahk
+887289.  The trouble with finding yourself in a good position - Stay Focused.ahk
 https://www.youtube.com/watch?v=N1876IuIENU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-There's only one way to stay alive when looting in PUBG -  Loot Wiggle.ahk
+887393.  There's only one way to stay alive when looting in PUBG -  Loot Wiggle.ahk
 https://www.youtube.com/watch?v=xkDBZ4aBghw&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Think about the environment - Litterbug.ahk
+887498.  Think about the environment - Litterbug.ahk
 https://www.youtube.com/watch?v=WlnXP60IJrk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Third Person Logic in PUBG.ahk
+887604.  Third Person Logic in PUBG.ahk
 https://www.youtube.com/watch?v=58nG88nGp80&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Trying to out run the blue zone in PUBG.ahk
+887711.  Trying to out run the blue zone in PUBG.ahk
 https://www.youtube.com/watch?v=RPFZgk_O8Ok&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Trying to save your team mate - Going Rambo.ahk
+887819.  Trying to save your team mate - Going Rambo.ahk
 https://www.youtube.com/watch?v=DtwxB2bjoNo&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-UAZ - PUBG Logic (when an unexpected guest appears in your vehicle)  Viva La Dirt League (VLDL).ahk
+887928.  UAZ - PUBG Logic (when an unexpected guest appears in your vehicle)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=KTIad5OZnWY&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Using adrenaline in PUBG - Syringe.ahk
+888038.  Using adrenaline in PUBG - Syringe.ahk
 https://www.youtube.com/watch?v=EBTxfmI7-0M&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Vaulting - PUBG Logic (Jumping walls in player unknown's battlegrounds)  Viva La Dirt League.ahk
+888149.  Vaulting - PUBG Logic (Jumping walls in player unknown's battlegrounds)  Viva La Dirt League.ahk
 https://www.youtube.com/watch?v=6MhAF47JodU&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-What climbing through a window feels like in PUBG - Window Climb.ahk
+888261.  What climbing through a window feels like in PUBG - Window Climb.ahk
 https://www.youtube.com/watch?v=QlRCt5WQdqM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-What happens after you win a game of PUBG.ahk
+888374.  What happens after you win a game of PUBG.ahk
 https://www.youtube.com/watch?v=_iysbdJOkyM&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-What streamers look like playing PUBG - Twitch Streamer.ahk
+888488.  What streamers look like playing PUBG - Twitch Streamer.ahk
 https://www.youtube.com/watch?v=iK7XFwmFFD8&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When a sniper is baiting you out.ahk
+888603.  When a sniper is baiting you out.ahk
 https://www.youtube.com/watch?v=KD9sMqp7bdE&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When an enemy tries to sneak into your team - Imposter.ahk
+888719.  When an enemy tries to sneak into your team - Imposter.ahk
 https://www.youtube.com/watch?v=BwN5tuW0Evs&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When an energy drink alerts the enemy in PUBG - The Giveaway.ahk
+888836.  When an energy drink alerts the enemy in PUBG - The Giveaway.ahk
 https://www.youtube.com/watch?v=00HQREUhqUg&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When saving your team is impossible - Boxed In.ahk
+888954.  When saving your team is impossible - Boxed In.ahk
 https://www.youtube.com/watch?v=DBcEJ25VoMI&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When you get shit loot in PUBG.ahk
+889073.  When you get shit loot in PUBG.ahk
 https://www.youtube.com/watch?v=kM8Cws9tiTQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When you're the first to die in your PUBG squad - Ghost.ahk
+889193.  When you're the first to die in your PUBG squad - Ghost.ahk
 https://www.youtube.com/watch?v=sm4OiGwrnhk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When your team mate disconnects in PUBG - Last hope.ahk
+889314.  When your team mate disconnects in PUBG - Last hope.ahk
 https://www.youtube.com/watch?v=p5cW_uIhWNo&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-When your teammate disconnects - Driver Disconnect.ahk
+889436.  When your teammate disconnects - Driver Disconnect.ahk
 https://www.youtube.com/watch?v=wGUaiKft5Gk&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Where do those crates appear from in PUBG - Death Crate.ahk
+889559.  Where do those crates appear from in PUBG - Death Crate.ahk
 https://www.youtube.com/watch?v=KFLtnAO7u0I&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Wiggle - PUBG Logic (just hit W,A,S,D)  Viva La Dirt League (VLDL).ahk
+889683.  Wiggle - PUBG Logic (just hit W,A,S,D)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=9i_gQKktMqQ&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 
-Worst gun in PUBG - Revolver.ahk
+889808.  Worst gun in PUBG - Revolver.ahk
 https://www.youtube.com/watch?v=pp03TYEwTi4&list=PLSMETuURtTXCngmWf_wUWfnzTjn04XF-B
 PUBG Logic  Viva La Dirt League

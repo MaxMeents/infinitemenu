@@ -1,103 +1,103 @@
 
-Alternativo  and  Rock Latino
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Alternativo__and__Rock_Latino/Alternativo__and__Rock_Latino.txt
+1.  Alternativo  and  Rock Latino
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Alternativo__and__Rock_Latino/Alternativo__and__Rock_Latino.txt
 
-Argentine tango
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Argentine_tango/Argentine_tango.txt
+2.  Argentine tango
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Argentine_tango/Argentine_tango.txt
 
-Bachata
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Bachata/Bachata.txt
+3.  Bachata
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Bachata/Bachata.txt
 
-Baithak Gana
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Baithak_Gana/Baithak_Gana.txt
+4.  Baithak Gana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Baithak_Gana/Baithak_Gana.txt
 
-Baladas y Boleros
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Baladas_y_Boleros/Baladas_y_Boleros.txt
+5.  Baladas y Boleros
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Baladas_y_Boleros/Baladas_y_Boleros.txt
 
-Bolero
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Bolero/Bolero.txt
+6.  Bolero
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Bolero/Bolero.txt
 
-Bossa Nova
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Bossa_Nova/Bossa_Nova.txt
+7.  Bossa Nova
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Bossa_Nova/Bossa_Nova.txt
 
-Brazilian
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Brazilian/Brazilian.txt
+8.  Brazilian
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Brazilian/Brazilian.txt
 
-Chicha
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Chicha/Chicha.txt
+9.  Chicha
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Chicha/Chicha.txt
 
-Contemporary Latin
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Contemporary_Latin/Contemporary_Latin.txt
+10.  Contemporary Latin
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Contemporary_Latin/Contemporary_Latin.txt
 
-Criolla
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Criolla/Criolla.txt
+11.  Criolla
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Criolla/Criolla.txt
 
-Cumbia
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Cumbia/Cumbia.txt
+12.  Cumbia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Cumbia/Cumbia.txt
 
-Flamenco - Spanish Flamenco
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Flamenco_-_Spanish_Flamenco/Flamenco_-_Spanish_Flamenco.txt
+13.  Flamenco - Spanish Flamenco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Flamenco_-_Spanish_Flamenco/Flamenco_-_Spanish_Flamenco.txt
 
-Huayno
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Huayno/Huayno.txt
+14.  Huayno
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Huayno/Huayno.txt
 
-Latin Jazz
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Latin_Jazz/Latin_Jazz.txt
+15.  Latin Jazz
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Latin_Jazz/Latin_Jazz.txt
 
-Mariachi
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Mariachi/Mariachi.txt
+16.  Mariachi
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Mariachi/Mariachi.txt
 
-Merengue Típico
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Merengue_Típico/Merengue_Típico.txt
+17.  Merengue Típico
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Merengue_Típico/Merengue_Típico.txt
 
-Nuevo Flamenco
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Nuevo_Flamenco/Nuevo_Flamenco.txt
+18.  Nuevo Flamenco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Nuevo_Flamenco/Nuevo_Flamenco.txt
 
-Pop Latino
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Pop_Latino/Pop_Latino.txt
+19.  Pop Latino
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Pop_Latino/Pop_Latino.txt
 
-Portuguese fado
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Portuguese_fado/Portuguese_fado.txt
+20.  Portuguese fado
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Portuguese_fado/Portuguese_fado.txt
 
-Punta
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Punta/Punta.txt
+21.  Punta
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Punta/Punta.txt
 
-Punta Rock
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Punta_Rock/Punta_Rock.txt
+22.  Punta Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Punta_Rock/Punta_Rock.txt
 
-Raison
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Raison/Raison.txt
+23.  Raison
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Raison/Raison.txt
 
-Ranchera
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Ranchera/Ranchera.txt
+24.  Ranchera
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Ranchera/Ranchera.txt
 
-Raíces
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Raíces/Raíces.txt
+25.  Raíces
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Raíces/Raíces.txt
 
-Reggaeton y Hip-Hop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Reggaeton_y_Hip-Hop/Reggaeton_y_Hip-Hop.txt
+26.  Reggaeton y Hip-Hop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Reggaeton_y_Hip-Hop/Reggaeton_y_Hip-Hop.txt
 
-Regional Mexicano
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Regional_Mexicano/Regional_Mexicano.txt
+27.  Regional Mexicano
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Regional_Mexicano/Regional_Mexicano.txt
 
-Salsa y Tropical
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Salsa_y_Tropical/Salsa_y_Tropical.txt
+28.  Salsa y Tropical
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Salsa_y_Tropical/Salsa_y_Tropical.txt
 
-Soca
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Soca/Soca.txt
+29.  Soca
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Soca/Soca.txt
 
-Son
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Son/Son.txt
+30.  Son
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Son/Son.txt
 
-Tejano
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Tejano/Tejano.txt
+31.  Tejano
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Tejano/Tejano.txt
 
-Timba
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Timba/Timba.txt
+32.  Timba
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Timba/Timba.txt
 
-Twoubadou
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Twoubadou/Twoubadou.txt
+33.  Twoubadou
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Twoubadou/Twoubadou.txt
 
-Zouk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Zouk/Zouk.txt
+34.  Zouk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Zouk/Zouk.txt
 Latin

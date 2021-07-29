@@ -1,100 +1,100 @@
 
-Basic UNIX Commands  UNIX Shell Commands Tutorial for Beginners  UNIX Training  Edureka.ahk
+5288.  Basic UNIX Commands  UNIX Shell Commands Tutorial for Beginners  UNIX Training  Edureka.ahk
 https://www.youtube.com/watch?v=E002zp3E25M
 
-Device Management using Udev  Understanding Udev in Linux  Linux Tutorial for Beginners  Edureka.ahk
+5290.  Device Management using Udev  Understanding Udev in Linux  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=bFWLI2IgLS0
 
-Different Shells In Linux  Bash vs C Shell vs Korn Shell  Linux Certification Training  Edureka.ahk
+5293.  Different Shells In Linux  Bash vs C Shell vs Korn Shell  Linux Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=aLjFxiWP5uQ
 
-DNS Configuration in Linux  DNS Configuration  Linux Tutorial for Beginners  Edureka.ahk
+5297.  DNS Configuration in Linux  DNS Configuration  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=CgKfoEwOoxQ
 
-How to Install JDK in Ubuntu  Install JDK 12 on Ubuntu 18.04  Edureka.ahk
+5302.  How to Install JDK in Ubuntu  Install JDK 12 on Ubuntu 18.04  Edureka.ahk
 https://www.youtube.com/watch?v=wxZ-R7XWWBs
 
-Introduction to Linux Administration  Linux Tutorial  Linux for Beginners  Edureka.ahk
+5308.  Introduction to Linux Administration  Linux Tutorial  Linux for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=X3axv6SNf3M
 
-Introduction to UNIX  UNIX Tutorial for Beginners  UNIX Training  Edureka.ahk
+5315.  Introduction to UNIX  UNIX Tutorial for Beginners  UNIX Training  Edureka.ahk
 https://www.youtube.com/watch?v=vLPdBp9vv9Y
 
-kernel Programming Tutorial  Kernel Services in Linux Administration  Linux Tutorial  Edureka.ahk
+5323.  kernel Programming Tutorial  Kernel Services in Linux Administration  Linux Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=fVxFrnLsLtU
 
-Linux Administration Training For Beginners  Linux Administration Tutorial Advanced  Edureka Live.ahk
+5332.  Linux Administration Training For Beginners  Linux Administration Tutorial Advanced  Edureka Live.ahk
 https://www.youtube.com/watch?v=sw3kmihzJT0
 
-Linux Administration Tutorial - 1  Linux Administration Tutorial for Beginners - 1  Edureka.ahk
+5342.  Linux Administration Tutorial - 1  Linux Administration Tutorial for Beginners - 1  Edureka.ahk
 https://www.youtube.com/watch?v=DtU8hB-qSPA
 
-Linux Administration Tutorial - 2  Linux Administration Training  Edureka.ahk
+5353.  Linux Administration Tutorial - 2  Linux Administration Training  Edureka.ahk
 https://www.youtube.com/watch?v=jmFOAiAyM1M
 
-Linux Administration Tutorial - Configuring A DNS Server In 10 Simple Steps  Edureka Live.ahk
+5365.  Linux Administration Tutorial - Configuring A DNS Server In 10 Simple Steps  Edureka Live.ahk
 https://www.youtube.com/watch?v=0X9em99Vcl0
 
-Linux Administration Tutorial-1  Linux Administration for beginners  Edureka.ahk
+5378.  Linux Administration Tutorial-1  Linux Administration for beginners  Edureka.ahk
 https://www.youtube.com/watch?v=1HeehI6b-tE
 
-Linux Commands  Command Line Basics  Linux Certification Training  Edureka.ahk
+5392.  Linux Commands  Command Line Basics  Linux Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=G23ef2D-qrY
 
-Linux Commands  Linux Administration Tutorial  Linux Commands Tutorial for Beginners  Edureka.ahk
+5407.  Linux Commands  Linux Administration Tutorial  Linux Commands Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=kj1xq9QEwAM
 
-Linux Full Course In 5 Hours  Linux Tutorial For Beginners  Linux Training  Edureka.ahk
+5423.  Linux Full Course In 5 Hours  Linux Tutorial For Beginners  Linux Training  Edureka.ahk
 https://www.youtube.com/watch?v=Wgi-OfbP2Gw
 
-Linux Initialization Tutorial for Beginners  Linux Administration Tutorial  Edureka.ahk
+5440.  Linux Initialization Tutorial for Beginners  Linux Administration Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=NAMimTkJipA
 
-Linux Installation on CentOS  Linux Installation Tutorial  Edureka.ahk
+5458.  Linux Installation on CentOS  Linux Installation Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=k9brWgb1qwk
 
-Linux Installation Step by Step  Bash Shell Scripting for Beginners  Linux Tutorial  Edureka.ahk
+5477.  Linux Installation Step by Step  Bash Shell Scripting for Beginners  Linux Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=NKYbOnZNcWQ
 
-Linux Interview Questions And Answers  Linux Administration Tutorial  Linux Training  Edureka.ahk
+5497.  Linux Interview Questions And Answers  Linux Administration Tutorial  Linux Training  Edureka.ahk
 https://www.youtube.com/watch?v=p3tvtXOg5rg
 
-Linux Package Management with RPM and YUM  Linux Tutorial for Beginners  Edureka.ahk
+5518.  Linux Package Management with RPM and YUM  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=NbPpfGLQA24
 
-Linux Training For Beginners  Linux Administration Tutorial  Introduction To Linux  Edureka.ahk
+5540.  Linux Training For Beginners  Linux Administration Tutorial  Introduction To Linux  Edureka.ahk
 https://www.youtube.com/watch?v=3Lg4w__HCI8
 
-Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka.ahk
+5563.  Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka.ahk
 https://www.youtube.com/watch?v=v_1zB2WNN14
 
-Linux Tutorial For Beginners - 2  Linux System Administration  Linux Training  Edureka.ahk
+5587.  Linux Tutorial For Beginners - 2  Linux System Administration  Linux Training  Edureka.ahk
 https://www.youtube.com/watch?v=wtdFPppcup4
 
-Linux vs Windows  Comparison Between Linux And Windows  Edureka.ahk
+5612.  Linux vs Windows  Comparison Between Linux And Windows  Edureka.ahk
 https://www.youtube.com/watch?v=JZNFLhCkHrY
 
-SELinux Tutorial  SELinux Features  Linux Tutorial for Beginners  Edureka.ahk
+5638.  SELinux Tutorial  SELinux Features  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=ZELBbxXvMY0
 
-Shell Scripting Interview Questions & Answers  Linux Admin Certification Training  Edureka.ahk
+5665.  Shell Scripting Interview Questions & Answers  Linux Admin Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=6ue2luv2I-Y
 
-Shell Scripting Tutorial  Shell Scripting Crash Course  Linux Certification Training  Edureka.ahk
+5693.  Shell Scripting Tutorial  Shell Scripting Crash Course  Linux Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=GtovwKDemnI
 
-Understanding Boot Management Process  Linux Tutorial for Beginners  Edureka.ahk
+5722.  Understanding Boot Management Process  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=kf6pRZO1N8Q
 
-UNIX Architecture  Introduction to Architecture of UNIX  UNIX Training  Edureka.ahk
+5752.  UNIX Architecture  Introduction to Architecture of UNIX  UNIX Training  Edureka.ahk
 https://www.youtube.com/watch?v=Yo9ZtDeriMc
 
-Unix vs Linux  Difference Between Unix & Linux  Linux Admin Certification Training  Edureka.ahk
+5783.  Unix vs Linux  Difference Between Unix & Linux  Linux Admin Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=7L5JMj82vYU
 
-User Administration in Linux  Linux Tutorial for Beginners  Edureka.ahk
+5815.  User Administration in Linux  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=18JTUgMq4b0
 
-Using Linux YUM Package Manager  Linux Tutorial for Beginners  Edureka.ahk
+5848.  Using Linux YUM Package Manager  Linux Tutorial for Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=dA_P2Qy_FyA
 Linux Administration Tutorial Videos

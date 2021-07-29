@@ -1,88 +1,88 @@
 
-.NET Core vs .NET Framework - What's the difference.ahk
+4828131.  .NET Core vs .NET Framework - What's the difference.ahk
 https://www.youtube.com/watch?v=79UWvR734wI
 
-15 Visual Studio Editor Tips including Intellicode and EditorConfig.ahk
+4828133.  15 Visual Studio Editor Tips including Intellicode and EditorConfig.ahk
 https://www.youtube.com/watch?v=qv6ZflueASY
 
-An Introduction To The C# Learning Cycle.ahk
+4828136.  An Introduction To The C# Learning Cycle.ahk
 https://www.youtube.com/watch?v=h7aIzCkmbl8
 
-C# Debugging Breakpoints.ahk
+4828140.  C# Debugging Breakpoints.ahk
 https://www.youtube.com/watch?v=_YoKJwSzZOg
 
-C# Essentials Linq for Lists - Sorting, Filtering, and Aggregating Lists Easily.ahk
+4828145.  C# Essentials Linq for Lists - Sorting, Filtering, and Aggregating Lists Easily.ahk
 https://www.youtube.com/watch?v=yClSNQdVD7g
 
-Debugging in C# - Finding and Fixing Problems in Your Application.ahk
+4828151.  Debugging in C# - Finding and Fixing Problems in Your Application.ahk
 https://www.youtube.com/watch?v=d6IYH8Ro9aI
 
-Design Patterns Don't Repeat Yourself in C#.ahk
+4828158.  Design Patterns Don't Repeat Yourself in C#.ahk
 https://www.youtube.com/watch?v=dhnsegiPXoo
 
-Dynamic Vs Var in C#.ahk
+4828166.  Dynamic Vs Var in C#.ahk
 https://www.youtube.com/watch?v=UntC0hoeGAQ
 
-Git Tutorial for Beginners A Quick Start Guide.ahk
+4828175.  Git Tutorial for Beginners A Quick Start Guide.ahk
 https://www.youtube.com/watch?v=ugN-IYV1NTM
 
-Handling Exceptions in C# - When to catch them, where to catch them, and how to catch them.ahk
+4828185.  Handling Exceptions in C# - When to catch them, where to catch them, and how to catch them.ahk
 https://www.youtube.com/watch?v=LSkbnpjCEkk
 
-How To Create Extension Methods in C#.ahk
+4828196.  How To Create Extension Methods in C#.ahk
 https://www.youtube.com/watch?v=C_1DzspLy4Y
 
-How To Diagnose Visual Studio Issues.ahk
+4828208.  How To Diagnose Visual Studio Issues.ahk
 https://www.youtube.com/watch?v=KF9CiJVihaM
 
-How to Get Help Online as a Software Developer.ahk
+4828221.  How to Get Help Online as a Software Developer.ahk
 https://www.youtube.com/watch?v=OWQx4HSd14A
 
-How To Install Visual Studio 2019 (for Free).ahk
+4828235.  How To Install Visual Studio 2019 (for Free).ahk
 https://www.youtube.com/watch?v=G1-Zfr9-3zs
 
-How To Make 2021 Count - A learning path, 4 things to learn, and 4 to avoid.ahk
+4828250.  How To Make 2021 Count - A learning path, 4 things to learn, and 4 to avoid.ahk
 https://www.youtube.com/watch?v=fFT5o4paUek
 
-Intro to .NET Standard - What it is, when to use it, and how it is different than the .NET Framework.ahk
+4828266.  Intro to .NET Standard - What it is, when to use it, and how it is different than the .NET Framework.ahk
 https://www.youtube.com/watch?v=Ph_jSGq6vIA
 
-Intro to AppSettings in .NET Core - Appsettings.json, secrets.json, and more.ahk
+4828283.  Intro to AppSettings in .NET Core - Appsettings.json, secrets.json, and more.ahk
 https://www.youtube.com/watch?v=_2_qksdQKCE
 
-Intro to Visual Studio 2019 - What's New, What's Better, and Why You Should Upgrade.ahk
+4828301.  Intro to Visual Studio 2019 - What's New, What's Better, and Why You Should Upgrade.ahk
 https://www.youtube.com/watch?v=9V2En3Cnq6c
 
-Real-time Collaboration with Live Share in Visual Studio and VSCode.ahk
+4828320.  Real-time Collaboration with Live Share in Visual Studio and VSCode.ahk
 https://www.youtube.com/watch?v=SXbRu6XcyMY
 
-Refactoring in C# - Improving an Existing Application.ahk
+4828340.  Refactoring in C# - Improving an Existing Application.ahk
 https://www.youtube.com/watch?v=G1S6NZfFvOg
 
-Reporting A Bug In Visual Studio - How To Be A Good Citizen To The Community.ahk
+4828361.  Reporting A Bug In Visual Studio - How To Be A Good Citizen To The Community.ahk
 https://www.youtube.com/watch?v=uZ4Us-NIJNE
 
-Testing Your C# Skills - Prove It Series.ahk
+4828383.  Testing Your C# Skills - Prove It Series.ahk
 https://www.youtube.com/watch?v=bleT60nj528
 
-Top 10 C# Best Practices (plus bonuses).ahk
+4828406.  Top 10 C# Best Practices (plus bonuses).ahk
 https://www.youtube.com/watch?v=-9b8NRqjUFM
 
-Top 10 Free Tools from Microsoft (plus bonuses).ahk
+4828430.  Top 10 Free Tools from Microsoft (plus bonuses).ahk
 https://www.youtube.com/watch?v=Nv7dgr4oZYA
 
-Top 10 Hidden Gems in Visual Studio - Speed Up Development Without Increasing Your Costs.ahk
+4828455.  Top 10 Hidden Gems in Visual Studio - Speed Up Development Without Increasing Your Costs.ahk
 https://www.youtube.com/watch?v=xWcQhF-1hxA
 
-Top 5 C# 7.0 Features in Visual Studio 2017.ahk
+4828481.  Top 5 C# 7.0 Features in Visual Studio 2017.ahk
 https://www.youtube.com/watch?v=E_p8H3SVCtY
 
-VB.NET vs C# - A comparison of the two languages, how they are different, and where they are going.ahk
+4828508.  VB.NET vs C# - A comparison of the two languages, how they are different, and where they are going.ahk
 https://www.youtube.com/watch?v=BIcOgivodnM
 
-Visual Studio 2022 Preview 1 Sneak Peek.ahk
+4828536.  Visual Studio 2022 Preview 1 Sneak Peek.ahk
 https://www.youtube.com/watch?v=XlVm7UjRwWA
 
-Working With The File System in C# - Managing Folders and Files.ahk
+4828565.  Working With The File System in C# - Managing Folders and Files.ahk
 https://www.youtube.com/watch?v=9mUuJIKq40M
 Getting Started with C#

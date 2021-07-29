@@ -1,58 +1,58 @@
 
-01 - Simplifying Algebraic Expressions that Involve Sums and Differences, Part 1.ahk
+133085.  01 - Simplifying Algebraic Expressions that Involve Sums and Differences, Part 1.ahk
 https://www.youtube.com/watch?v=5h_DG_V_9Qo
 
-02 - Simplifying Expressions That Involve Sums And Differences, Part 2.ahk
+133087.  02 - Simplifying Expressions That Involve Sums And Differences, Part 2.ahk
 https://www.youtube.com/watch?v=iomOleT3rnA
 
-03 - Simplifying  Expressions in Algebra that Involve Multiplication, Part 1.ahk
+133090.  03 - Simplifying  Expressions in Algebra that Involve Multiplication, Part 1.ahk
 https://www.youtube.com/watch?v=yNVtOFTLZOU
 
-04 - Simplifying Expressions That Involve Multiplication, Part 2.ahk
+133094.  04 - Simplifying Expressions That Involve Multiplication, Part 2.ahk
 https://www.youtube.com/watch?v=73O7nL5wBXE
 
-05 - Simplifying Expressions That Involve Multiplication, Part 3.ahk
+133099.  05 - Simplifying Expressions That Involve Multiplication, Part 3.ahk
 https://www.youtube.com/watch?v=HNbQ7On7s9M
 
-06 - Simplifying Algebraic Expressions that Involve Division, Part 1.ahk
+133105.  06 - Simplifying Algebraic Expressions that Involve Division, Part 1.ahk
 https://www.youtube.com/watch?v=3KSAHUQQNI0
 
-07- Simplifying Expressions That Involve Division, Part 2.ahk
+133112.  07- Simplifying Expressions That Involve Division, Part 2.ahk
 https://www.youtube.com/watch?v=Mg4pT4JFiSY
 
-08 - Simplifying Expressions That Involve Division, Part 3.ahk
+133120.  08 - Simplifying Expressions That Involve Division, Part 3.ahk
 https://www.youtube.com/watch?v=vyRCvD7MeMI
 
-09 - Solving Multi-Step Equations in Algebra, Part 1 (Two Step Equations & Beyond).ahk
+133129.  09 - Solving Multi-Step Equations in Algebra, Part 1 (Two Step Equations & Beyond).ahk
 https://www.youtube.com/watch?v=d0LHtaGTWUE
 
-10 - Solving Multi-Step Equations, Part 2.ahk
+133139.  10 - Solving Multi-Step Equations, Part 2.ahk
 https://www.youtube.com/watch?v=-n7Se4Lb4gE
 
-11 - Solving Multi step Equations, Part 3.ahk
+133150.  11 - Solving Multi step Equations, Part 3.ahk
 https://www.youtube.com/watch?v=coY4pVcH0IU
 
-12 - Solving & Graphing Inequalities w One Variable in Algebra, Part 1.ahk
+133162.  12 - Solving & Graphing Inequalities w One Variable in Algebra, Part 1.ahk
 https://www.youtube.com/watch?v=ypkXH1mhC50
 
-13 - Solving Inequalities With One Variable, Part 2.ahk
+133175.  13 - Solving Inequalities With One Variable, Part 2.ahk
 https://www.youtube.com/watch?v=z3bc_okmcaU
 
-14 - Solving & Graphing Compound Inequalities in Algebra, Part 1.ahk
+133189.  14 - Solving & Graphing Compound Inequalities in Algebra, Part 1.ahk
 https://www.youtube.com/watch?v=5mBcZ-3XjNA
 
-15 - Solving Compound Inequalities, Part 2.ahk
+133204.  15 - Solving Compound Inequalities, Part 2.ahk
 https://www.youtube.com/watch?v=guptchwVp9Y
 
-16 - Solving Compound Inequalities, Part 3.ahk
+133220.  16 - Solving Compound Inequalities, Part 3.ahk
 https://www.youtube.com/watch?v=rdKpSt1-lFU
 
-17 - Solving & Graphing Absolute Value Inequalities in Algebra, Part 1.ahk
+133237.  17 - Solving & Graphing Absolute Value Inequalities in Algebra, Part 1.ahk
 https://www.youtube.com/watch?v=SfImKHp094o
 
-18 - Solving Absolute Value Inequalities, Part 2.ahk
+133255.  18 - Solving Absolute Value Inequalities, Part 2.ahk
 https://www.youtube.com/watch?v=qLQZr1RyYG8
 
-19 - Solving Absolute Value Inequalities, Part 3.ahk
+133274.  19 - Solving Absolute Value Inequalities, Part 3.ahk
 https://www.youtube.com/watch?v=UmL5HU0B0i4
 Algebra 2 Course - Unit 1

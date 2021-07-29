@@ -1,448 +1,448 @@
 
-14 (More) Cool Apps Built Using GPT-3 Part II NEW (1430926).ahk
+1666.  14 (More) Cool Apps Built Using GPT-3 Part II NEW (1430926).ahk
 https://www.youtube.com/watch?v=cpWEXQkpBFQ
 
-14 (More) Cool Apps Built Using GPT-3 Part II NEW (1883373).ahk
+1668.  14 (More) Cool Apps Built Using GPT-3 Part II NEW (1883373).ahk
 https://www.youtube.com/watch?v=cpWEXQkpBFQ
 
-14 (More) Cool Apps Built Using GPT-3 Part II NEW.ahk
+1671.  14 (More) Cool Apps Built Using GPT-3 Part II NEW.ahk
 https://www.youtube.com/watch?v=cpWEXQkpBFQ
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1020934).ahk
+1675.  14 Cool Apps Built on OpenAI's GPT-3 API (1020934).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1572993).ahk
+1680.  14 Cool Apps Built on OpenAI's GPT-3 API (1572993).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1736089).ahk
+1686.  14 Cool Apps Built on OpenAI's GPT-3 API (1736089).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1791235).ahk
+1693.  14 Cool Apps Built on OpenAI's GPT-3 API (1791235).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1864422).ahk
+1701.  14 Cool Apps Built on OpenAI's GPT-3 API (1864422).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API (1972002).ahk
+1710.  14 Cool Apps Built on OpenAI's GPT-3 API (1972002).ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built on OpenAI's GPT-3 API.ahk
+1720.  14 Cool Apps Built on OpenAI's GPT-3 API.ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14 Cool Apps Built Using GPT-3 Part III NEW.ahk
+1731.  14 Cool Apps Built Using GPT-3 Part III NEW.ahk
 https://www.youtube.com/watch?v=qjAae-jl4nU
 
-2020 Machine Learning Roadmap (still valid for 2021).ahk
+1743.  2020 Machine Learning Roadmap (still valid for 2021).ahk
 https://www.youtube.com/watch?v=pHiMN_gy9mk
 
-9 Cool Startups Powered by GPT-3.ahk
+1756.  9 Cool Startups Powered by GPT-3.ahk
 https://www.youtube.com/watch?v=QYfZJ5jbUWU
 
-AI Chat Goes Horribly Wrong (GPT-3 interview).ahk
+1770.  AI Chat Goes Horribly Wrong (GPT-3 interview).ahk
 https://www.youtube.com/watch?v=X83CErgn0zc
 
-AI VS ML VS DL VS Data Science.ahk
+1785.  AI VS ML VS DL VS Data Science.ahk
 https://www.youtube.com/watch?v=k2P_pHQDlp0
 
-Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot (1344194).ahk
+1801.  Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot (1344194).ahk
 https://www.youtube.com/watch?v=-qizU_v-oqA
 
-Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot (1601776).ahk
+1818.  Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot (1601776).ahk
 https://www.youtube.com/watch?v=-qizU_v-oqA
 
-Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot.ahk
+1836.  Build 2 projects using GPT-3 in just a couple of minutes. Bare bones branding generator, chat bot.ahk
 https://www.youtube.com/watch?v=-qizU_v-oqA
 
-Build a Text Generator with OpenAI GPT and Python.ahk
+1855.  Build a Text Generator with OpenAI GPT and Python.ahk
 https://www.youtube.com/watch?v=WRVx8vGDKf4
 
-Building a Poet AI using GPT2 on a Jetson Xavier.ahk
+1875.  Building a Poet AI using GPT2 on a Jetson Xavier.ahk
 https://www.youtube.com/watch?v=LjkubM5IIos
 
-Can GPT-3 really help you and your company  What can it really do  Real-World Applications Demo (1862838).ahk
+1896.  Can GPT-3 really help you and your company  What can it really do  Real-World Applications Demo (1862838).ahk
 https://www.youtube.com/watch?v=Gm4AMjV8ErM
 
-Can GPT-3 really help you and your company  What can it really do  Real-World Applications Demo.ahk
+1918.  Can GPT-3 really help you and your company  What can it really do  Real-World Applications Demo.ahk
 https://www.youtube.com/watch?v=Gm4AMjV8ErM
 
-Can GPT-3 think  Past Present and Future of Natural Language Processing (NLP) - English.ahk
+1941.  Can GPT-3 think  Past Present and Future of Natural Language Processing (NLP) - English.ahk
 https://www.youtube.com/watch?v=XW_8U2R7Dcg
 
-Create Labels and Annotations for Custom YOLOv3 Google Images Dataset  LabelImg Tutorial.ahk
+1965.  Create Labels and Annotations for Custom YOLOv3 Google Images Dataset  LabelImg Tutorial.ahk
 https://www.youtube.com/watch?v=EGQyDla8JNU
 
-Creating A Custom Dataset For GPT Neo(GPT3).ahk
+1990.  Creating A Custom Dataset For GPT Neo(GPT3).ahk
 https://www.youtube.com/watch?v=07ppAKvOhqk
 
-Deep Learning A Crash Course.ahk
+2016.  Deep Learning A Crash Course.ahk
 https://www.youtube.com/watch?v=r0Ogt-q956I
 
-Deploying ML models & GPT-3  Monthly Meetup - July 2020.ahk
+2043.  Deploying ML models & GPT-3  Monthly Meetup - July 2020.ahk
 https://www.youtube.com/watch?v=O0XumJXJCCs
 
-DETR End-to-End Object Detection with Transformers (Paper Explained).ahk
+2071.  DETR End-to-End Object Detection with Transformers (Paper Explained).ahk
 https://www.youtube.com/watch?v=T35ba_VXkMY
 
-Elon Musk on Artificial Intelligence Implications and Consequences.ahk
+2100.  Elon Musk on Artificial Intelligence Implications and Consequences.ahk
 https://www.youtube.com/watch?v=U7nmfPf7wtA
 
-Elon Musk on Artificial Intelligence.ahk
+2130.  Elon Musk on Artificial Intelligence.ahk
 https://www.youtube.com/watch?v=H15uuDMqDK0
 
-Elon Musk's Final Warning About AI Should We Create a Digital Superintelligence.ahk
+2161.  Elon Musk's Final Warning About AI Should We Create a Digital Superintelligence.ahk
 https://www.youtube.com/watch?v=lX5LPwigyi0
 
-Generating Fake YouTube Comments with GPT-2.ahk
+2193.  Generating Fake YouTube Comments with GPT-2.ahk
 https://www.youtube.com/watch?v=M6EXmoP5jX8
 
-Generative Sequence Modeling - from Markov Chains to GPT-3.ahk
+2226.  Generative Sequence Modeling - from Markov Chains to GPT-3.ahk
 https://www.youtube.com/watch?v=9sWqpgHVOSE
 
-GoPro catches Massive Great white shark swimming over divers!.ahk
+2260.  GoPro catches Massive Great white shark swimming over divers!.ahk
 https://www.youtube.com/watch?v=GbN_UlTdKZc
 
-GPT 3 Demo and Explanation - An AI revolution from OpenAI (1144078).ahk
+2295.  GPT 3 Demo and Explanation - An AI revolution from OpenAI (1144078).ahk
 https://www.youtube.com/watch?v=8psgEDhT1MM
 
-GPT 3 Demo and Explanation - An AI revolution from OpenAI (1810936).ahk
+2331.  GPT 3 Demo and Explanation - An AI revolution from OpenAI (1810936).ahk
 https://www.youtube.com/watch?v=8psgEDhT1MM
 
-GPT 3 Demo and Explanation - An AI revolution from OpenAI.ahk
+2368.  GPT 3 Demo and Explanation - An AI revolution from OpenAI.ahk
 https://www.youtube.com/watch?v=8psgEDhT1MM
 
-GPT 3 Tutorial  GPT 3 Explained  What Is GPT 3(Generative Pre-trained Transformer 3) Simplilearn.ahk
+2406.  GPT 3 Tutorial  GPT 3 Explained  What Is GPT 3(Generative Pre-trained Transformer 3) Simplilearn.ahk
 https://www.youtube.com/watch?v=pT9-a3lT1Ak
 
-GPT 3 Tutorial for Beginners -  Selenium Test Generation using Python (1950252).ahk
+2445.  GPT 3 Tutorial for Beginners -  Selenium Test Generation using Python (1950252).ahk
 https://www.youtube.com/watch?v=9b-xrVeFfhg
 
-GPT 3 Tutorial for Beginners -  Selenium Test Generation using Python.ahk
+2485.  GPT 3 Tutorial for Beginners -  Selenium Test Generation using Python.ahk
 https://www.youtube.com/watch?v=9b-xrVeFfhg
 
-GPT Explained! (1749657).ahk
+2526.  GPT Explained! (1749657).ahk
 https://www.youtube.com/watch?v=9ebPNEHRwXU
 
-GPT Explained!.ahk
+2568.  GPT Explained!.ahk
 https://www.youtube.com/watch?v=9ebPNEHRwXU
 
-GPT The A.I. So Good, It Even Worries Elon Musk.ahk
+2611.  GPT The A.I. So Good, It Even Worries Elon Musk.ahk
 https://www.youtube.com/watch?v=HMbh8_r1nqw
 
-GPT-3 - explained in layman terms. (1080515).ahk
+2655.  GPT-3 - explained in layman terms. (1080515).ahk
 https://www.youtube.com/watch?v=SboKeK6FFHQ
 
-GPT-3 - explained in layman terms. (1762485).ahk
+2700.  GPT-3 - explained in layman terms. (1762485).ahk
 https://www.youtube.com/watch?v=SboKeK6FFHQ
 
-GPT-3 - explained in layman terms..ahk
+2746.  GPT-3 - explained in layman terms..ahk
 https://www.youtube.com/watch?v=SboKeK6FFHQ
 
-GPT-3 A Quick Overview.ahk
+2793.  GPT-3 A Quick Overview.ahk
 https://www.youtube.com/watch?v=_xBvvwrAOxk
 
-GPT-3 and the OpenAI API First Impressions - Dabble Lab #246 (1763218).ahk
+2841.  GPT-3 and the OpenAI API First Impressions - Dabble Lab #246 (1763218).ahk
 https://www.youtube.com/watch?v=RZRJYtA2WxM
 
-GPT-3 and the OpenAI API First Impressions - Dabble Lab #246.ahk
+2890.  GPT-3 and the OpenAI API First Impressions - Dabble Lab #246.ahk
 https://www.youtube.com/watch?v=RZRJYtA2WxM
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1398746).ahk
+2940.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1398746).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1519913).ahk
+2991.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1519913).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1672995).ahk
+3043.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1672995).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1812431).ahk
+3096.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1812431).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1816637).ahk
+3150.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1816637).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1977941).ahk
+3205.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology (1977941).ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 Demo New AI Algorithm Changes How We Interact With Technology.ahk
+3261.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology.ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-GPT-3 from OpenAI is here and it's a MONSTER!.ahk
+3318.  GPT-3 from OpenAI is here and it's a MONSTER!.ahk
 https://www.youtube.com/watch?v=OznMk5Jexu8
 
-GPT-3 is a major advance in AI  Scott Aaronson and Lex Fridman (1423917).ahk
+3376.  GPT-3 is a major advance in AI  Scott Aaronson and Lex Fridman (1423917).ahk
 https://www.youtube.com/watch?v=G_-BBniFFCM
 
-GPT-3 is a major advance in AI  Scott Aaronson and Lex Fridman.ahk
+3435.  GPT-3 is a major advance in AI  Scott Aaronson and Lex Fridman.ahk
 https://www.youtube.com/watch?v=G_-BBniFFCM
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1385689).ahk
+3495.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1385689).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1405670).ahk
+3556.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1405670).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1552933).ahk
+3618.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1552933).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1669715).ahk
+3681.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1669715).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1749856).ahk
+3745.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1749856).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1899632).ahk
+3810.  GPT-3 Language Models are Few-Shot Learners (Paper Explained) (1899632).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Language Models are Few-Shot Learners (Paper Explained).ahk
+3876.  GPT-3 Language Models are Few-Shot Learners (Paper Explained).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-GPT-3 Live Demo in under 30 Minutes + Q&A Session  Zack Lee, Lead AI Engr at copy.ai.ahk
+3943.  GPT-3 Live Demo in under 30 Minutes + Q&A Session  Zack Lee, Lead AI Engr at copy.ai.ahk
 https://www.youtube.com/watch?v=CVqsdTTKFd8
 
-GPT-3 Part 2 Using my voice to chat with OpenAI's GPT-3 model (1395262).ahk
+4011.  GPT-3 Part 2 Using my voice to chat with OpenAI's GPT-3 model (1395262).ahk
 https://www.youtube.com/watch?v=zgRc2wTiug8
 
-GPT-3 Part 2 Using my voice to chat with OpenAI's GPT-3 model.ahk
+4080.  GPT-3 Part 2 Using my voice to chat with OpenAI's GPT-3 model.ahk
 https://www.youtube.com/watch?v=zgRc2wTiug8
 
-GPT-3 Predicts the 2020 Presidential Election Results.ahk
+4150.  GPT-3 Predicts the 2020 Presidential Election Results.ahk
 https://www.youtube.com/watch?v=t3mep3VZm7o
 
-GPT-3 Text Generation AI Demo  Be Worried Will It Take Our Jobs  OpenAI Model Generates Code.ahk
+4221.  GPT-3 Text Generation AI Demo  Be Worried Will It Take Our Jobs  OpenAI Model Generates Code.ahk
 https://www.youtube.com/watch?v=fSRYvKFt3ss
 
-GPT-3 vs GPT-2 Even More Text Generating AI.ahk
+4293.  GPT-3 vs GPT-2 Even More Text Generating AI.ahk
 https://www.youtube.com/watch?v=rbpU5uqv36g
 
-GPT-3 vs Human Brain.ahk
+4366.  GPT-3 vs Human Brain.ahk
 https://www.youtube.com/watch?v=kpiY_LemaTc
 
-GPT-3 Why This AI Breakthrough WONT Take Your Job.ahk
+4440.  GPT-3 Why This AI Breakthrough WONT Take Your Job.ahk
 https://www.youtube.com/watch?v=CDJgO3ORVY4
 
-GPT-3 WROTE THIS.ahk
+4515.  GPT-3 WROTE THIS.ahk
 https://www.youtube.com/watch?v=2eplfCWLNj4
 
-GPT-3.ahk
+4591.  GPT-3.ahk
 https://www.youtube.com/watch?v=KtPDa3BWOEw
 
-GPT3 - Will AI replace programmers.ahk
+4668.  GPT3 - Will AI replace programmers.ahk
 https://www.youtube.com/watch?v=u5MmL3nqvfE
 
-GPT3 An Even Bigger Language Model - Computerphile (1296639).ahk
+4746.  GPT3 An Even Bigger Language Model - Computerphile (1296639).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile (1495287).ahk
+4825.  GPT3 An Even Bigger Language Model - Computerphile (1495287).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile (1607447).ahk
+4905.  GPT3 An Even Bigger Language Model - Computerphile (1607447).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile (1642595).ahk
+4986.  GPT3 An Even Bigger Language Model - Computerphile (1642595).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile (1758403).ahk
+5068.  GPT3 An Even Bigger Language Model - Computerphile (1758403).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile (1800223).ahk
+5151.  GPT3 An Even Bigger Language Model - Computerphile (1800223).ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 An Even Bigger Language Model - Computerphile.ahk
+5235.  GPT3 An Even Bigger Language Model - Computerphile.ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-GPT3 Demo - Recommendation Engine.ahk
+5320.  GPT3 Demo - Recommendation Engine.ahk
 https://www.youtube.com/watch?v=qca2lmQZeoo
 
-How GPT3 Works - Easily Explained with Animations (1226836).ahk
+5406.  How GPT3 Works - Easily Explained with Animations (1226836).ahk
 https://www.youtube.com/watch?v=MQnJZuBGmSQ
 
-How GPT3 Works - Easily Explained with Animations (1748969).ahk
+5493.  How GPT3 Works - Easily Explained with Animations (1748969).ahk
 https://www.youtube.com/watch?v=MQnJZuBGmSQ
 
-How GPT3 Works - Easily Explained with Animations (1788829).ahk
+5581.  How GPT3 Works - Easily Explained with Animations (1788829).ahk
 https://www.youtube.com/watch?v=MQnJZuBGmSQ
 
-How GPT3 Works - Easily Explained with Animations (1969329).ahk
+5670.  How GPT3 Works - Easily Explained with Animations (1969329).ahk
 https://www.youtube.com/watch?v=MQnJZuBGmSQ
 
-How GPT3 Works - Easily Explained with Animations.ahk
+5760.  How GPT3 Works - Easily Explained with Animations.ahk
 https://www.youtube.com/watch?v=MQnJZuBGmSQ
 
-How GPT3 works, and its limitations..ahk
+5851.  How GPT3 works, and its limitations..ahk
 https://www.youtube.com/watch?v=Y0MMK8GCCrQ
 
-How I Got Beta Access to OpenAI's GPT-3 API (1322854).ahk
+5943.  How I Got Beta Access to OpenAI's GPT-3 API (1322854).ahk
 https://www.youtube.com/watch?v=7_c3zjpDvqg
 
-How I Got Beta Access to OpenAI's GPT-3 API (1715928).ahk
+6036.  How I Got Beta Access to OpenAI's GPT-3 API (1715928).ahk
 https://www.youtube.com/watch?v=7_c3zjpDvqg
 
-How I Got Beta Access to OpenAI's GPT-3 API (1743820).ahk
+6130.  How I Got Beta Access to OpenAI's GPT-3 API (1743820).ahk
 https://www.youtube.com/watch?v=7_c3zjpDvqg
 
-How I Got Beta Access to OpenAI's GPT-3 API.ahk
+6225.  How I Got Beta Access to OpenAI's GPT-3 API.ahk
 https://www.youtube.com/watch?v=7_c3zjpDvqg
 
-How to Label Images for Object Detection with CVAT.ahk
+6321.  How to Label Images for Object Detection with CVAT.ahk
 https://www.youtube.com/watch?v=OMgQ2JzOAWA
 
-How to label images for training an object detection model.ahk
+6418.  How to label images for training an object detection model.ahk
 https://www.youtube.com/watch?v=2Hv0MzY-pDo
 
-How To Learn Data Science by Self Study and For Free.ahk
+6516.  How To Learn Data Science by Self Study and For Free.ahk
 https://www.youtube.com/watch?v=AuqZ4recf0s
 
-I have a confession ....ahk
+6615.  I have a confession ....ahk
 https://www.youtube.com/watch?v=J_PBgZhFBpM
 
-I used the GPT-2 AI to respond to my YouTube comments.ahk
+6715.  I used the GPT-2 AI to respond to my YouTube comments.ahk
 https://www.youtube.com/watch?v=3mUnEywtdZY
 
-Image GPT Generative Pretraining from Pixels (Paper Explained) (1292994).ahk
+6816.  Image GPT Generative Pretraining from Pixels (Paper Explained) (1292994).ahk
 https://www.youtube.com/watch?v=YBlNQK0Ao6g
 
-Image GPT Generative Pretraining from Pixels (Paper Explained) (1711969).ahk
+6918.  Image GPT Generative Pretraining from Pixels (Paper Explained) (1711969).ahk
 https://www.youtube.com/watch?v=YBlNQK0Ao6g
 
-Image GPT Generative Pretraining from Pixels (Paper Explained).ahk
+7021.  Image GPT Generative Pretraining from Pixels (Paper Explained).ahk
 https://www.youtube.com/watch?v=YBlNQK0Ao6g
 
-Joscha Bach - GPT-3   Is AI Deepfaking Understanding.ahk
+7125.  Joscha Bach - GPT-3   Is AI Deepfaking Understanding.ahk
 https://www.youtube.com/watch?v=FMfA6i60WDA
 
-LambdaNetworks Modeling long-range Interactions without Attention (Paper Explained).ahk
+7230.  LambdaNetworks Modeling long-range Interactions without Attention (Paper Explained).ahk
 https://www.youtube.com/watch?v=3qxJ2WD8p4w
 
-Let's play with GPT-3!.ahk
+7336.  Let's play with GPT-3!.ahk
 https://www.youtube.com/watch?v=EoQenruF18E
 
-Making an AI write Fake YouTube Comments using GPT 2 text generation API (openAI).ahk
+7443.  Making an AI write Fake YouTube Comments using GPT 2 text generation API (openAI).ahk
 https://www.youtube.com/watch?v=kxHYMqdkYNs
 
-More GPT-2, the 'writer' of Unicorn AI - Computerphile.ahk
+7551.  More GPT-2, the 'writer' of Unicorn AI - Computerphile.ahk
 https://www.youtube.com/watch?v=p-6F4rhRYLQ
 
-Neural Scaling Laws and GPT-3.ahk
+7660.  Neural Scaling Laws and GPT-3.ahk
 https://www.youtube.com/watch?v=QMqPAM_knrE
 
-Object Tracking Using YOLOv4, Deep SORT, and TensorFlow.ahk
+7770.  Object Tracking Using YOLOv4, Deep SORT, and TensorFlow.ahk
 https://www.youtube.com/watch?v=FuvQ8Melz1o
 
-OpenAI API (GPT-3) is magical....ahk
+7881.  OpenAI API (GPT-3) is magical....ahk
 https://www.youtube.com/watch?v=CSe3_u9P-RM
 
-OpenAI GPT-3 - Good At Almost Everything! ?? (1334121).ahk
+7993.  OpenAI GPT-3 - Good At Almost Everything! ?? (1334121).ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-OpenAI GPT-3 - Good At Almost Everything! ?? (1438754).ahk
+8106.  OpenAI GPT-3 - Good At Almost Everything! ?? (1438754).ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-OpenAI GPT-3 - Good At Almost Everything! ?? (1606271).ahk
+8220.  OpenAI GPT-3 - Good At Almost Everything! ?? (1606271).ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-OpenAI GPT-3 - Good At Almost Everything! ?? (1636855).ahk
+8335.  OpenAI GPT-3 - Good At Almost Everything! ?? (1636855).ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-OpenAI GPT-3 - Good At Almost Everything! ??.ahk
+8451.  OpenAI GPT-3 - Good At Almost Everything! ??.ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-OpenAI GPT-3 API Beginners Tutorial with Python.ahk
+8568.  OpenAI GPT-3 API Beginners Tutorial with Python.ahk
 https://www.youtube.com/watch?v=VTx0xBPOv5Q
 
-OpenAI GPT-3 Beginners Tutorial (1364570).ahk
+8686.  OpenAI GPT-3 Beginners Tutorial (1364570).ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-OpenAI GPT-3 Beginners Tutorial (1505863).ahk
+8805.  OpenAI GPT-3 Beginners Tutorial (1505863).ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-OpenAI GPT-3 Beginners Tutorial (1879223).ahk
+8925.  OpenAI GPT-3 Beginners Tutorial (1879223).ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-OpenAI GPT-3 Beginners Tutorial (1986377).ahk
+9046.  OpenAI GPT-3 Beginners Tutorial (1986377).ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-OpenAI GPT-3 Beginners Tutorial.ahk
+9168.  OpenAI GPT-3 Beginners Tutorial.ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-OpenAI GPT-3 Language Models are Few-Shot Learners.ahk
+9291.  OpenAI GPT-3 Language Models are Few-Shot Learners.ahk
 https://www.youtube.com/watch?v=7qPDwsCLbZc
 
-OpenAI Model Generates Python Code (1897624).ahk
+9415.  OpenAI Model Generates Python Code (1897624).ahk
 https://www.youtube.com/watch?v=fZSFNUT6iY8
 
-OpenAI Model Generates Python Code.ahk
+9540.  OpenAI Model Generates Python Code.ahk
 https://www.youtube.com/watch?v=fZSFNUT6iY8
 
-OpenAI’s GPT-2 Is Now Available - It Is Wise as a Scholar! ??.ahk
+9666.  OpenAI’s GPT-2 Is Now Available - It Is Wise as a Scholar! ??.ahk
 https://www.youtube.com/watch?v=0OtZ8dUFxXA
 
-OpenAI’s Image GPT Completes Your Images With Style!.ahk
+9793.  OpenAI’s Image GPT Completes Your Images With Style!.ahk
 https://www.youtube.com/watch?v=-6Xn4nKm-Qw
 
-Prompt Design & Engineering for GPT-3.ahk
+9921.  Prompt Design & Engineering for GPT-3.ahk
 https://www.youtube.com/watch?v=2ltOaInDD-s
 
-Real, Live GPT-3 Apps You Can Use.ahk
+10050.  Real, Live GPT-3 Apps You Can Use.ahk
 https://www.youtube.com/watch?v=zQLuqOogQnU
 
-Sam Altman (CEO, OpenAI) Talks About Artificial Intelligence at Big Compute 20 Tech Conference.ahk
+10180.  Sam Altman (CEO, OpenAI) Talks About Artificial Intelligence at Big Compute 20 Tech Conference.ahk
 https://www.youtube.com/watch?v=0TRtSk-ufu0
 
-The Emergence of a High-Performing AI That Will Change the GPT-3 Paradigm & Its 10 Use Cases.ahk
+10311.  The Emergence of a High-Performing AI That Will Change the GPT-3 Paradigm & Its 10 Use Cases.ahk
 https://www.youtube.com/watch?v=I7sZVrwM6_Q
 
-The First Open GPT-3 Demo Day.ahk
+10443.  The First Open GPT-3 Demo Day.ahk
 https://www.youtube.com/watch?v=WJnjX-O3WbE
 
-The impact of GPT 3 on SEO.ahk
+10576.  The impact of GPT 3 on SEO.ahk
 https://www.youtube.com/watch?v=chjeGz9qbG8
 
-This AI Clones Your Voice After Listening for 5 Seconds ??.ahk
+10710.  This AI Clones Your Voice After Listening for 5 Seconds ??.ahk
 https://www.youtube.com/watch?v=0sR1rU3gLzQ
 
-This AI Transform Faces into Disney animated movie Characters (Toonify).ahk
+10845.  This AI Transform Faces into Disney animated movie Characters (Toonify).ahk
 https://www.youtube.com/watch?v=zB_jQ8SUjKE
 
-this text generation AI is INSANE (GPT-3).ahk
+10981.  this text generation AI is INSANE (GPT-3).ahk
 https://www.youtube.com/watch?v=lQnLwUfwgyA
 
-Thoughts about GPT-3  Dileep George and Lex Fridman.ahk
+11118.  Thoughts about GPT-3  Dileep George and Lex Fridman.ahk
 https://www.youtube.com/watch?v=gFgjVBdeb9M
 
-Two AIs talk about becoming human. (GPT-3).ahk
+11256.  Two AIs talk about becoming human. (GPT-3).ahk
 https://www.youtube.com/watch?v=jz78fSnBG0s
 
-VQGAN and CLIP - How To Generate Multimodal AI Art (FREE).ahk
+11395.  VQGAN and CLIP - How To Generate Multimodal AI Art (FREE).ahk
 https://www.youtube.com/watch?v=5Zf8kRPJ6TU
 
-What GPT-3 Means for Developers (1357673).ahk
+11535.  What GPT-3 Means for Developers (1357673).ahk
 https://www.youtube.com/watch?v=Yg3C38P5EkA
 
-What GPT-3 Means for Developers.ahk
+11676.  What GPT-3 Means for Developers.ahk
 https://www.youtube.com/watch?v=Yg3C38P5EkA
 
-What Is The Price Of Success — Elon Musk Speech.ahk
+11818.  What Is The Price Of Success — Elon Musk Speech.ahk
 https://www.youtube.com/watch?v=D-tTj6sm10M
 
-What It's Like To be a Computer An Interview with GPT-3 (1772866).ahk
+11961.  What It's Like To be a Computer An Interview with GPT-3 (1772866).ahk
 https://www.youtube.com/watch?v=PqbB07n_uQ4
 
-What It's Like To be a Computer An Interview with GPT-3 (1910874).ahk
+12105.  What It's Like To be a Computer An Interview with GPT-3 (1910874).ahk
 https://www.youtube.com/watch?v=PqbB07n_uQ4
 
-What It's Like To be a Computer An Interview with GPT-3 (1952518).ahk
+12250.  What It's Like To be a Computer An Interview with GPT-3 (1952518).ahk
 https://www.youtube.com/watch?v=PqbB07n_uQ4
 
-What It's Like To be a Computer An Interview with GPT-3.ahk
+12396.  What It's Like To be a Computer An Interview with GPT-3.ahk
 https://www.youtube.com/watch?v=PqbB07n_uQ4
 
-When A.I. Becomes Creative.ahk
+12543.  When A.I. Becomes Creative.ahk
 https://www.youtube.com/watch?v=KZ7BnJb30Cc
 
-Why GPT-3 changes everything (and how it works).ahk
+12691.  Why GPT-3 changes everything (and how it works).ahk
 https://www.youtube.com/watch?v=rLE0b8_OQMk
 
-[?? ??] GPT-3.ahk
+12840.  [?? ??] GPT-3.ahk
 https://www.youtube.com/watch?v=p24JUVgDkQk
 GPT-3

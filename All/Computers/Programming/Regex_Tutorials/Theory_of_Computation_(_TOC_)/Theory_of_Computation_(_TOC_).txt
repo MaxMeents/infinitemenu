@@ -1,289 +1,289 @@
 
-ambiguity in grammar  TOC  Lec-59  Bhanu Priya.ahk
+132821.  ambiguity in grammar  TOC  Lec-59  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=MdI2TI7zefY
 
-ambiguity in grammar example 1  TOC  Lec-60  Bhanu Priya.ahk
+132823.  ambiguity in grammar example 1  TOC  Lec-60  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=7iFtFJUkw2k
 
-ambiguity in grammar example 2   TOC  Lec-61  Bhanu Priya.ahk
+132826.  ambiguity in grammar example 2   TOC  Lec-61  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=r5639CLulk0
 
-cfg to pda conversion  conversion   TOC  Lec-84  Bhanu Priya.ahk
+132830.  cfg to pda conversion  conversion   TOC  Lec-84  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=mehO_4R7D6o
 
-Chomsky normal form   TOC  Lec-69  Bhanu Priya.ahk
+132835.  Chomsky normal form   TOC  Lec-69  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=_uNRMAU8t4I
 
-closure properties of regular languages  Part-1 TOC  Lec-44  Bhanu Priya.ahk
+132841.  closure properties of regular languages  Part-1 TOC  Lec-44  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=vaTHCo6Ns5I
 
-closure properties of regular languages  Part-2  TOC  Lec-45  Bhanu Priya.ahk
+132848.  closure properties of regular languages  Part-2  TOC  Lec-45  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=y1wTU4kjZHs
 
-complexity classes  P & NP  TOC  Lec-96  Bhanu Priya.ahk
+132856.  complexity classes  P & NP  TOC  Lec-96  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=0yHYbz-Hec8
 
-context free grammar in automata  Example-2  TOC  Lec-50  Bhanu Priya.ahk
+132865.  context free grammar in automata  Example-2  TOC  Lec-50  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=OtRBEjBSNnA
 
-context free grammar in automata  Example-3  TOC  Lec-51  Bhanu Priya.ahk
+132875.  context free grammar in automata  Example-3  TOC  Lec-51  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=FORd2Sf9pfQ
 
-context free grammar in automata Example-1  TOC  Lec-49  Bhanu Priya.ahk
+132886.  context free grammar in automata Example-1  TOC  Lec-49  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=nyjB5xW0tQc
 
-context free grammer  Introduction  TOC  Lec-48  Bhanu Priya.ahk
+132898.  context free grammer  Introduction  TOC  Lec-48  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=d9LrKPZsu40
 
-conversion of NFA to DFA example  Part-2  TOC   Lec-20  Bhanu Priya.ahk
+132911.  conversion of NFA to DFA example  Part-2  TOC   Lec-20  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=hIIYyVCPKQk
 
-conversion of nfa to dfa examples  Part-1  TOC   Lec-19  Bhanu Priya.ahk
+132925.  conversion of nfa to dfa examples  Part-1  TOC   Lec-19  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=syjJutOdLnI
 
-convert regular expression to finite automata  examples  TOC  Lec-43  Bhanu Priya.ahk
+132940.  convert regular expression to finite automata  examples  TOC  Lec-43  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=5_KRbXPCGWg
 
-convert regular expression to finite automata  TOC  Lec-42  Bhanu Priya.ahk
+132956.  convert regular expression to finite automata  TOC  Lec-42  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=hiJuCKLQEjQ
 
-converting CFG to CNF  steps  TOC  Lec-70  Bhanu Priya.ahk
+132973.  converting CFG to CNF  steps  TOC  Lec-70  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=JTontnRJiNc
 
-converting CFG to CNF example  TOC  Lec-71  Bhanu Priya.ahk
+132991.  converting CFG to CNF example  TOC  Lec-71  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=7G0PwGrdlH8
 
-converting CFG to GNF example - 2  TOC  Lec-74  Bhanu Priya.ahk
+133010.  converting CFG to GNF example - 2  TOC  Lec-74  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=1cEpXxP0z-E
 
-converting CFG to GNF example-1  TOC  Lec-73  Bhanu Priya.ahk
+133030.  converting CFG to GNF example-1  TOC  Lec-73  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=447aBp1M6C4
 
-derivation in theory of computation  TOC  Lec-52  Bhanu Priya.ahk
+133051.  derivation in theory of computation  TOC  Lec-52  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=B_Gk_xPP8zc
 
-derivation tree  TOC  Lec-56  Bhanu Priya.ahk
+133073.  derivation tree  TOC  Lec-56  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=NLw6OoDeuf0
 
-derivation tree example 1  TOC  Lec-57  Bhanu Priya.ahk
+133096.  derivation tree example 1  TOC  Lec-57  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=XrHczBql0cE
 
-derivation tree Example 2  TOC  Lec-58  Bhanu Priya.ahk
+133120.  derivation tree Example 2  TOC  Lec-58  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=IgM3NYDREy4
 
-deterministic finite automata (DFA)  TOC   Lec-9  Bhanu Priya.ahk
+133145.  deterministic finite automata (DFA)  TOC   Lec-9  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=OqknGBJqchc
 
-dfa example with solution  Part-1  TOC   Lec-10  Bhanu Priya.ahk
+133171.  dfa example with solution  Part-1  TOC   Lec-10  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=O6bwSnoTniY
 
-dfa example with solution  Part-2  TOC   Lec-11  Bhanu Priya.ahk
+133198.  dfa example with solution  Part-2  TOC   Lec-11  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=F9FZYPT6X8Q
 
-dfa example with solution  Part-3  TOC   Lec-12  Bhanu Priya.ahk
+133226.  dfa example with solution  Part-3  TOC   Lec-12  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=cwWkw8gNCcA
 
-elimination of epsilon production   TOC  Lec-67  Bhanu Priya.ahk
+133255.  elimination of epsilon production   TOC  Lec-67  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=zIm_yChkLIM
 
-equivalence of two FA example  TOC   Lec-22  Bhanu Priya.ahk
+133285.  equivalence of two FA example  TOC   Lec-22  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=_wtWR6xF-Mk
 
-equivalence of two finite automata  TOC   Lec-21  Bhanu Priya.ahk
+133316.  equivalence of two finite automata  TOC   Lec-21  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=JQTcNUPJlws
 
-finite automata  applications & different type  TOC   Lec-8  Bhanu Priya.ahk
+133348.  finite automata  applications & different type  TOC   Lec-8  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=2S4At1yakug
 
-finite automata  TOC   Lec-6  Bhanu Priya.ahk
+133381.  finite automata  TOC   Lec-6  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=8g1AUtdayt0
 
-griebach normal form   TOC  Lec-72  Bhanu Priya.ahk
+133415.  griebach normal form   TOC  Lec-72  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=G_xUKj1oGL8
 
-halting problem  Turing Machine(TM)  TOC  Lec-95  Bhanu Priya.ahk
+133450.  halting problem  Turing Machine(TM)  TOC  Lec-95  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=0Q9qAM2htII
 
-languages & operations  TOC   Lec-5  Bhanu Priya.ahk
+133486.  languages & operations  TOC   Lec-5  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=zq-MZf-zAog
 
-leftmost and rightmost derivations  Example-1  TOC  Lec-53  Bhanu Priya.ahk
+133523.  leftmost and rightmost derivations  Example-1  TOC  Lec-53  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=K_aMajzrKF4
 
-leftmost and rightmost derivations  Example-2  TOC  Lec-54  Bhanu Priya.ahk
+133561.  leftmost and rightmost derivations  Example-2  TOC  Lec-54  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=GF7PYeA2Pwk
 
-leftmost and rightmost derivations  Example-3  TOC  Lec-55  Bhanu Priya.ahk
+133600.  leftmost and rightmost derivations  Example-3  TOC  Lec-55  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=fE7A0a0jQNc
 
-mealy and moore machine  differences  TOC  Lec-33 Bhanu Priya.ahk
+133640.  mealy and moore machine  differences  TOC  Lec-33 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=lH_qfCTh9Co
 
-Mealy machine  TOC   Lec-25 Bhanu Priya.ahk
+133681.  Mealy machine  TOC   Lec-25 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=mUtn8iI7b4U
 
-mealy machine design  Example1  TOC   Lec-26 Bhanu Priya.ahk
+133723.  mealy machine design  Example1  TOC   Lec-26 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Et7Kv-p-acs
 
-mealy machine design  Example2  TOC   Lec-27 Bhanu Priya.ahk
+133766.  mealy machine design  Example2  TOC   Lec-27 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Xj-KwpMqGHI
 
-mealy machine design  Example3   TOC   Lec-28 Bhanu Priya.ahk
+133810.  mealy machine design  Example3   TOC   Lec-28 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=y_G0Xjm5CfI
 
-mealy to moore conversion  TOC  Lec-34 Bhanu Priya.ahk
+133855.  mealy to moore conversion  TOC  Lec-34 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=O1UaAluDGqY
 
-mealy to moore example  TOC  Lec-35  Bhanu Priya.ahk
+133901.  mealy to moore example  TOC  Lec-35  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=dYCmNXjDVVE
 
-mealy to moore example 2  TOC  Lec-36  Bhanu Priya.ahk
+133948.  mealy to moore example 2  TOC  Lec-36  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=dKOGsHPelc0
 
-minimization of DFA  TOC   Lec-23 Bhanu Priya.ahk
+133996.  minimization of DFA  TOC   Lec-23 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=_VeFvQoRuXk
 
-minimization of DFA example  TOC   Lec-24 Bhanu Priya.ahk
+134045.  minimization of DFA example  TOC   Lec-24 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=53qT4NZ3nOo
 
-moore machine  TOC   Lec-29 Bhanu Priya.ahk
+134095.  moore machine  TOC   Lec-29 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=8mbPgbGXSvs
 
-moore machine design  Example1  TOC   Lec-30 Bhanu Priya.ahk
+134146.  moore machine design  Example1  TOC   Lec-30 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=KSjEKhUY9ok
 
-moore machine design  Example2  TOC  Lec-31 Bhanu Priya.ahk
+134198.  moore machine design  Example2  TOC  Lec-31 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=xMR2zek_e2c
 
-moore machine design  Example3  TOC  Lec-32 Bhanu Priya.ahk
+134251.  moore machine design  Example3  TOC  Lec-32 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=7zj8krqoBw0
 
-moore to mealy machine conversion  Example-1  TOC  Lec-37  Bhanu Priya.ahk
+134305.  moore to mealy machine conversion  Example-1  TOC  Lec-37  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=DOqa-nI2lGI
 
-moore to mealy machine conversion  Example-2   TOC  Lec-38  Bhanu Priya.ahk
+134360.  moore to mealy machine conversion  Example-2   TOC  Lec-38  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=OqZyBVR9Dr0
 
-moore to mealy machine conversion  Example-3  TOC  Lec-39  Bhanu Priya.ahk
+134416.  moore to mealy machine conversion  Example-3  TOC  Lec-39  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=vm1FQIeQlmc
 
-nfa and dfa differences  TOC   Lec-18  Bhanu Priya.ahk
+134473.  nfa and dfa differences  TOC   Lec-18  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=FZp7CJwe6nw
 
-NFA example  Part-1  TOC   Lec-14  Bhanu Priya.ahk
+134531.  NFA example  Part-1  TOC   Lec-14  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=764ITgEu-KU
 
-NFA example  Part-2  TOC   Lec-15  Bhanu Priya.ahk
+134590.  NFA example  Part-2  TOC   Lec-15  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=IcyDv1bWR1k
 
-NFA example  Part-3  TOC   Lec-16  Bhanu Priya.ahk
+134650.  NFA example  Part-3  TOC   Lec-16  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Ws3014s6ncY
 
-nfa with epsilon   TOC   Lec-17  Bhanu Priya.ahk
+134711.  nfa with epsilon   TOC   Lec-17  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=PlYCzNDJVYo
 
-non deterministic finite automata (NFA)  TOC   Lec-13  Bhanu Priya.ahk
+134773.  non deterministic finite automata (NFA)  TOC   Lec-13  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=rKCAPVaU0Qk
 
-power of alphabet  TOC  Lec-4  Bhanu Priya.ahk
+134836.  power of alphabet  TOC  Lec-4  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=fnaCgVn29fU
 
-pumping lemma example  Part-1  TOC  Lec-76  Bhanu Priya.ahk
+134900.  pumping lemma example  Part-1  TOC  Lec-76  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=91Ukv82n6T4
 
-pumping lemma example  Part-2  TOC  Lec-77 Bhanu Priya.ahk
+134965.  pumping lemma example  Part-2  TOC  Lec-77 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Dfkv6BDixas
 
-pumping lemma for RL  TOC  Lec-46  Bhanu Priya.ahk
+135031.  pumping lemma for RL  TOC  Lec-46  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=5M20ka_sULM
 
-pumping lemma for RL example  TOC  Lec-47  Bhanu Priya.ahk
+135098.  pumping lemma for RL example  TOC  Lec-47  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=fxOmsdW_tJQ
 
-pumping lemmafor CFL  TOC  Lec-75  Bhanu Priya.ahk
+135166.  pumping lemmafor CFL  TOC  Lec-75  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=ww4m4UJTbWE
 
-pushdown automata (PDA)  terminologies used  TOC  Lec-80 Bhanu Priya.ahk
+135235.  pushdown automata (PDA)  terminologies used  TOC  Lec-80 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=2oC3z3jyh-I
 
-pushdown automata (PDA) acceptance   TOC  Lec-81  Bhanu Priya.ahk
+135305.  pushdown automata (PDA) acceptance   TOC  Lec-81  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=NFR2gkejEnk
 
-pushdown automata (PDA) in TOC  Introduction  Part-12 Lec-78 Bhanu Priya.ahk
+135376.  pushdown automata (PDA) in TOC  Introduction  Part-12 Lec-78 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=DTV9RPIsdW4
 
-pushdown automata (PDA) in TOC  Introduction  Part-22 Lec-79 Bhanu Priya.ahk
+135448.  pushdown automata (PDA) in TOC  Introduction  Part-22 Lec-79 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=ANEy0U92VBQ
 
-pushdown automata example  Part-12   TOC  Lec-82  Bhanu Priya.ahk
+135521.  pushdown automata example  Part-12   TOC  Lec-82  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=ntrF_KxHn18
 
-pushdown automata example  Part-22  TOC  Lec-83  Bhanu Priya.ahk
+135595.  pushdown automata example  Part-22  TOC  Lec-83  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=gU3scx0E0JI
 
-Recursive & Recursively enumerable languages  TOC  Lec-94  Bhanu Priya.ahk
+135670.  Recursive & Recursively enumerable languages  TOC  Lec-94  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=mX9lULtwO0s
 
-regular expression  Examples  TOC  Lec-41  Bhanu Priya.ahk
+135746.  regular expression  Examples  TOC  Lec-41  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=nNMD1wE3TDM
 
-regular expressions in theory of automata   TOC  Lec-40  Bhanu Priya.ahk
+135823.  regular expressions in theory of automata   TOC  Lec-40  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=9FG0REWfuL0
 
-removal of unit production  CFG   TOC  Lec-68  Bhanu Priya.ahk
+135901.  removal of unit production  CFG   TOC  Lec-68  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=kidmQIu0lrU
 
-removal of useless symbols  CFG  TOC  Lec-66  Bhanu Priya.ahk
+135980.  removal of useless symbols  CFG  TOC  Lec-66  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=XnteU4oGMuY
 
-sempty, lenght, concatenation of string  TOC  Lec-3  Bhanu Priya.ahk
+136060.  sempty, lenght, concatenation of string  TOC  Lec-3  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=a0Obv_cJLpI
 
-simplification of CFG   TOC  Lec-65  Bhanu Priya.ahk
+136141.  simplification of CFG   TOC  Lec-65  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=603fO3xPIAo
 
-symbol, alphabet, string  basic definations  TOC   Lec-2  Bhanu Priya.ahk
+136223.  symbol, alphabet, string  basic definations  TOC   Lec-2  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=jQRUkXhwHa4
 
-TOC introduction  TOC  Lec-1  Bhanu Priya.ahk
+136306.  TOC introduction  TOC  Lec-1  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=dCiZZiqVv9w
 
-transition diagrams, table and function  finite automata  TOC   Lec-7  Bhanu Priya.ahk
+136390.  transition diagrams, table and function  finite automata  TOC   Lec-7  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=oaD7zcjGU28
 
-turing machine  Example-1  TOC  Lec-90  Bhanu Priya.ahk
+136475.  turing machine  Example-1  TOC  Lec-90  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=uSpeMO52Wxo
 
-turing machine  Example-2  TOC  Lec-91 Bhanu Priya.ahk
+136561.  turing machine  Example-2  TOC  Lec-91 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=EDsmAKJ8_fM
 
-Turing machine ( TM)   Introduction  Part-12  TOC  Lec-85  Bhanu Priya.ahk
+136648.  Turing machine ( TM)   Introduction  Part-12  TOC  Lec-85  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=5xpB9r13fYQ
 
-Turing machine (TM)   Introduction  Part-22   TOC  Lec-86  Bhanu Priya.ahk
+136736.  Turing machine (TM)   Introduction  Part-22   TOC  Lec-86  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=STh3_6E5PQQ
 
-Turing machine (TM)  operation on tape  TOC  Lec-87 Bhanu Priya.ahk
+136825.  Turing machine (TM)  operation on tape  TOC  Lec-87 Bhanu Priya.ahk
 https://www.youtube.com/watch?v=rbW8nFdIpwI
 
-Turing machine(TM) language   TOC  Lec-89  Bhanu Priya.ahk
+136915.  Turing machine(TM) language   TOC  Lec-89  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=CRlMCRm0-Ak
 
-turing thesis  turing machine  TOC  Lec-88  Bhanu Priya.ahk
+137006.  turing thesis  turing machine  TOC  Lec-88  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=v3AQsBE8xSI
 
-unambiguous grammar   TOC  Lec-62  Bhanu Priya.ahk
+137098.  unambiguous grammar   TOC  Lec-62  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=_SMEMtRVbx0
 
-unambiguous grammar example 1  TOC  Lec-63  Bhanu Priya.ahk
+137191.  unambiguous grammar example 1  TOC  Lec-63  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=BQ2rPI9gp3A
 
-unambiguous grammar example 2  TOC  Lec-64  Bhanu Priya.ahk
+137285.  unambiguous grammar example 2  TOC  Lec-64  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Bbr3u5bNnYY
 
-variants of TM  Multihead & Offline   Part-22  TOC  Lec-93  Bhanu Priya.ahk
+137380.  variants of TM  Multihead & Offline   Part-22  TOC  Lec-93  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=ll_lVVZZOwI
 
-variants of TM  Multitape & Non deterministic  Part-12   TOC  Lec-92  Bhanu Priya.ahk
+137476.  variants of TM  Multitape & Non deterministic  Part-12   TOC  Lec-92  Bhanu Priya.ahk
 https://www.youtube.com/watch?v=Zz2bVMJ1wIU
 Theory of Computation ( TOC )

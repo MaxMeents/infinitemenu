@@ -1,85 +1,85 @@
 
-Best Operating System for Data Science - Windows vs Mac OSX vs Linux.ahk
+69123.  Best Operating System for Data Science - Windows vs Mac OSX vs Linux.ahk
 https://www.youtube.com/watch?v=pfURv1TnUpU
 
-Beware Apple T2 Chip Linux Users!!!.ahk
+69125.  Beware Apple T2 Chip Linux Users!!!.ahk
 https://www.youtube.com/watch?v=74F-aQomrwk
 
-Even I Can’t Hate the 16” Macbook Pro 2019.ahk
+69128.  Even I Can’t Hate the 16” Macbook Pro 2019.ahk
 https://www.youtube.com/watch?v=LGOmbNRlZdM
 
-How did Apple DO this - MacBook Pro 2019.ahk
+69132.  How did Apple DO this - MacBook Pro 2019.ahk
 https://www.youtube.com/watch?v=WxocVricANg
 
-How to get Ubuntu 18.04 (Linux) on Mac OS X  macOS (Dual Boot).ahk
+69137.  How to get Ubuntu 18.04 (Linux) on Mac OS X  macOS (Dual Boot).ahk
 https://www.youtube.com/watch?v=kRgKlcm1XPI
 
-How to install and use Ubuntu 18.10 on a Macbook Pro.ahk
+69143.  How to install and use Ubuntu 18.10 on a Macbook Pro.ahk
 https://www.youtube.com/watch?v=-hJqALt2Stc
 
-How To Install Kali Linux (2020.1b) On A 2012 MacBook Pro.ahk
+69150.  How To Install Kali Linux (2020.1b) On A 2012 MacBook Pro.ahk
 https://www.youtube.com/watch?v=7k5YZFYxifI
 
-How to Install Kali Linux on a Mac Book Pro..ahk
+69158.  How to Install Kali Linux on a Mac Book Pro..ahk
 https://www.youtube.com/watch?v=ATly2NyTAw4
 
-How to Run Linux on a Mac From an External Drive.ahk
+69167.  How to Run Linux on a Mac From an External Drive.ahk
 https://www.youtube.com/watch?v=gtrrsnAIZ9I
 
-Installing Linux on 2006 Macbook 1,1 in 2018 - Impressive Results!.ahk
+69177.  Installing Linux on 2006 Macbook 1,1 in 2018 - Impressive Results!.ahk
 https://www.youtube.com/watch?v=nHRai14ETKU
 
-Kuidas installida Ubuntu Desktop 20.04 LTS Linux MacBook Pro sülearvutile USB mälupulgale (1. osa).ahk
+69188.  Kuidas installida Ubuntu Desktop 20.04 LTS Linux MacBook Pro sülearvutile USB mälupulgale (1. osa).ahk
 https://www.youtube.com/watch?v=mo440sAe2dQ
 
-Kuidas installida Ubuntu Desktop 20.04 LTS Linux MacBook Pro sülearvutile USB mälupulgale (2. osa).ahk
+69200.  Kuidas installida Ubuntu Desktop 20.04 LTS Linux MacBook Pro sülearvutile USB mälupulgale (2. osa).ahk
 https://www.youtube.com/watch?v=F7ZHVNVBuN8
 
-Linux on 2012 MacBook Pro works great!.ahk
+69213.  Linux on 2012 MacBook Pro works great!.ahk
 https://www.youtube.com/watch?v=GyfK3f_3Ti0
 
-Linux on a Mac Pro.ahk
+69227.  Linux on a Mac Pro.ahk
 https://www.youtube.com/watch?v=tFTe35SxJSU
 
-Mac OS vs Linux  Which is better for you.ahk
+69242.  Mac OS vs Linux  Which is better for you.ahk
 https://www.youtube.com/watch?v=i0kdBk9MprY
 
-Mac runs Linux better than itself   The slow Macbook Pro..ahk
+69258.  Mac runs Linux better than itself   The slow Macbook Pro..ahk
 https://www.youtube.com/watch?v=BxgiR-5C-zQ
 
-Mac to Linux - How to install POP OS on a Macbook pro.ahk
+69275.  Mac to Linux - How to install POP OS on a Macbook pro.ahk
 https://www.youtube.com/watch?v=drb5ZviJzwM
 
-New 13” Macbook Pro 2020!.ahk
+69293.  New 13” Macbook Pro 2020!.ahk
 https://www.youtube.com/watch?v=Iy5gnjZVzYY
 
-Now THAT'S Hot... - 13” MacBook Pro 2020 Review.ahk
+69312.  Now THAT'S Hot... - 13” MacBook Pro 2020 Review.ahk
 https://www.youtube.com/watch?v=sJkIVg0upJ4
 
-Sustainability Linux on a MacBook Pro 2010 with new battery and trackpad.ahk
+69332.  Sustainability Linux on a MacBook Pro 2010 with new battery and trackpad.ahk
 https://www.youtube.com/watch?v=65Sv4X1fdBA
 
-The rFEInd Boot Manager for macOS Catalina,Linux,Windows on MacBook Pro.ahk
+69353.  The rFEInd Boot Manager for macOS Catalina,Linux,Windows on MacBook Pro.ahk
 https://www.youtube.com/watch?v=3gMUsblsrlQ
 
-Ubuntu on MacBook!  Installation Tutorial [2020].ahk
+69375.  Ubuntu on MacBook!  Installation Tutorial [2020].ahk
 https://www.youtube.com/watch?v=Ey7Paby-4o8
 
-Why I don't dual-boot Linux (Linux is free, if you don't value your time.).ahk
+69398.  Why I don't dual-boot Linux (Linux is free, if you don't value your time.).ahk
 https://www.youtube.com/watch?v=6nGskPedj6s
 
-Why Macs equipped with the new T2 chip are shitty for hackers.ahk
+69422.  Why Macs equipped with the new T2 chip are shitty for hackers.ahk
 https://www.youtube.com/watch?v=brGLX_92F5o
 
-Why Use Mac When Linux Exists.ahk
+69447.  Why Use Mac When Linux Exists.ahk
 https://www.youtube.com/watch?v=KEWJFP_kHeo
 
-[Tutorial] How To Create ZFS Pool And Config Samba Server Step By Step.ahk
+69473.  [Tutorial] How To Create ZFS Pool And Config Samba Server Step By Step.ahk
 https://www.youtube.com/watch?v=YmGGB9If5CI
 
-[Tutorial] How To Install Proxmox On Dedicated Server Via KVM For Beginner.ahk
+69500.  [Tutorial] How To Install Proxmox On Dedicated Server Via KVM For Beginner.ahk
 https://www.youtube.com/watch?v=8fejgD0nDeI
 
-?????? Apple ?????????? ?? Intel, ??? Adobe ??????? Linux ? ???? ????? ?? AMD, Nvidia ? Intel.ahk
+69528.  ?????? Apple ?????????? ?? Intel, ??? Adobe ??????? Linux ? ???? ????? ?? AMD, Nvidia ? Intel.ahk
 https://www.youtube.com/watch?v=nwZpeUayHhA
 LINUX ON MACBOOK PRO

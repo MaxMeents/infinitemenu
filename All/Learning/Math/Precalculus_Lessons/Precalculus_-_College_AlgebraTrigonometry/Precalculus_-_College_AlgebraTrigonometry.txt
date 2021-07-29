@@ -1,259 +1,259 @@
 
-Applications of Quadratic Functions (Precalculus - College Algebra 26).ahk
+397877.  Applications of Quadratic Functions (Precalculus - College Algebra 26).ahk
 https://www.youtube.com/watch?v=Ow_u0qLAOJI
 
-Area of a Sector, Angular Velocity, Applications (Precalculus - Trigonometry 5).ahk
+397879.  Area of a Sector, Angular Velocity, Applications (Precalculus - Trigonometry 5).ahk
 https://www.youtube.com/watch?v=x6wnYbOBCic
 
-Arithmetic Sequences (Precalculus - College Algebra 69).ahk
+397882.  Arithmetic Sequences (Precalculus - College Algebra 69).ahk
 https://www.youtube.com/watch?v=bxGmjouB6t4
 
-Arithmetic Series (Precalculus - College Algebra 70).ahk
+397886.  Arithmetic Series (Precalculus - College Algebra 70).ahk
 https://www.youtube.com/watch?v=XdXQjHsl4q0
 
-Average Rate of Change of a Function (Precalculus - College Algebra 11).ahk
+397891.  Average Rate of Change of a Function (Precalculus - College Algebra 11).ahk
 https://www.youtube.com/watch?v=H5Y-ONkezDM
 
-Basic Properties of Trigonometric Functions (Precalculus - Trigonometry 8).ahk
+397897.  Basic Properties of Trigonometric Functions (Precalculus - Trigonometry 8).ahk
 https://www.youtube.com/watch?v=_dTRpq_yGIc
 
-Completing the Square Made Easy (Precalculus - College Algebra 19).ahk
+397904.  Completing the Square Made Easy (Precalculus - College Algebra 19).ahk
 https://www.youtube.com/watch?v=pYSYL_vy6YQ
 
-Composition of Functions (Precalculus - College Algebra 48).ahk
+397912.  Composition of Functions (Precalculus - College Algebra 48).ahk
 https://www.youtube.com/watch?v=EsgHKmLSPVc
 
-Converting Degrees, Minutes, and Seconds (Precalculus - Trigonometry 2).ahk
+397921.  Converting Degrees, Minutes, and Seconds (Precalculus - Trigonometry 2).ahk
 https://www.youtube.com/watch?v=U40Afn37QC4
 
-Converting Radians and Degrees (Precalculus - Trigonometry 4).ahk
+397931.  Converting Radians and Degrees (Precalculus - Trigonometry 4).ahk
 https://www.youtube.com/watch?v=sCwcbZSZL5o
 
-Creating Polynomials from Complex Solutions (Precalculus - College Algebra 36).ahk
+397942.  Creating Polynomials from Complex Solutions (Precalculus - College Algebra 36).ahk
 https://www.youtube.com/watch?v=lIFeZLHVWmc
 
-Creating Polynomials from Real Zeros (Precalculus - College Algebra 30).ahk
+397954.  Creating Polynomials from Real Zeros (Precalculus - College Algebra 30).ahk
 https://www.youtube.com/watch?v=v-pnhWbHmQ8
 
-Descartes Rule of Signs (Precalculus - College Algebra 33).ahk
+397967.  Descartes Rule of Signs (Precalculus - College Algebra 33).ahk
 https://www.youtube.com/watch?v=-AW6Y1bL4KU
 
-Exponential Growth and Decay (Precalculus - College Algebra 66).ahk
+397981.  Exponential Growth and Decay (Precalculus - College Algebra 66).ahk
 https://www.youtube.com/watch?v=rO-C48LY2KY
 
-Features of Graphs, Domain, Range (Precalculus - College Algebra 7).ahk
+397996.  Features of Graphs, Domain, Range (Precalculus - College Algebra 7).ahk
 https://www.youtube.com/watch?v=d3b-4Zz65ZE
 
-Finding a Horizontal Asymptote of a Rational Function (Precalculus - College Algebra 40).ahk
+398012.  Finding a Horizontal Asymptote of a Rational Function (Precalculus - College Algebra 40).ahk
 https://www.youtube.com/watch?v=D-H9N-_Y77Y
 
-Finding ALL Solutions of Polynomials (Precalculus - College Algebra 37).ahk
+398029.  Finding ALL Solutions of Polynomials (Precalculus - College Algebra 37).ahk
 https://www.youtube.com/watch?v=xuhk2kSVwe0
 
-Finding an Oblique Asymptote of a Rational Function (Precalculus - College Algebra 41).ahk
+398047.  Finding an Oblique Asymptote of a Rational Function (Precalculus - College Algebra 41).ahk
 https://www.youtube.com/watch?v=NVhaVk4wNu8
 
-Finding Asymptotes and Holes of Rational Functions (Precalculus - College Algebra 43).ahk
+398066.  Finding Asymptotes and Holes of Rational Functions (Precalculus - College Algebra 43).ahk
 https://www.youtube.com/watch?v=tyXWPcvSQvk
 
-Finding Domain of Composite Functions (Precalculus - College Algebra 49).ahk
+398086.  Finding Domain of Composite Functions (Precalculus - College Algebra 49).ahk
 https://www.youtube.com/watch?v=G8r9oL-ke9s
 
-Finding End Behavior of Rational Functions (Precalculus - College Algebra 42).ahk
+398107.  Finding End Behavior of Rational Functions (Precalculus - College Algebra 42).ahk
 https://www.youtube.com/watch?v=_cnmQXAo5XM
 
-Finding Intersections of Functions (Precaluclus - College Algebra 22).ahk
+398129.  Finding Intersections of Functions (Precaluclus - College Algebra 22).ahk
 https://www.youtube.com/watch?v=2cXEuUazjCc
 
-Finding Inverse Functions (Precalculus - College Algebra 51).ahk
+398152.  Finding Inverse Functions (Precalculus - College Algebra 51).ahk
 https://www.youtube.com/watch?v=fK7IPeeZoFE
 
-Finding the Domain of Functions (Precalculus - College Algebra 4).ahk
+398176.  Finding the Domain of Functions (Precalculus - College Algebra 4).ahk
 https://www.youtube.com/watch?v=LvUCDcp6Z3k
 
-Finding Vertical Asymptotes of Rational Functions (Precalculus - College Algebra 38).ahk
+398201.  Finding Vertical Asymptotes of Rational Functions (Precalculus - College Algebra 38).ahk
 https://www.youtube.com/watch?v=y-bSJaEonho
 
-Geometric Sequences (Precalculus - College Algebra 71).ahk
+398227.  Geometric Sequences (Precalculus - College Algebra 71).ahk
 https://www.youtube.com/watch?v=qyHCnYewdrQ
 
-Geometric Series (Precalculus - College Algebra 72).ahk
+398254.  Geometric Series (Precalculus - College Algebra 72).ahk
 https://www.youtube.com/watch?v=_yDqkrbd5mk
 
-Graphing Exponential Functions with Transformations (Precalculus -College Algebra 53).ahk
+398282.  Graphing Exponential Functions with Transformations (Precalculus -College Algebra 53).ahk
 https://www.youtube.com/watch?v=uycM-AzUDQ4
 
-Graphing Logarithms with Transformations (Precalculus - College Algebra 56).ahk
+398311.  Graphing Logarithms with Transformations (Precalculus - College Algebra 56).ahk
 https://www.youtube.com/watch?v=swC7KrDO0Uo
 
-Graphing Quadratic Functions (Precalculus - College Algebra 24).ahk
+398341.  Graphing Quadratic Functions (Precalculus - College Algebra 24).ahk
 https://www.youtube.com/watch?v=VH4tzzBVbgA
 
-Graphing Rational Functions (Precalculus - College Algebra 44).ahk
+398372.  Graphing Rational Functions (Precalculus - College Algebra 44).ahk
 https://www.youtube.com/watch?v=wHATRiYbPPA
 
-Graphing Rational Functions with Transformations (Precalculus - College Algebra 39).ahk
+398404.  Graphing Rational Functions with Transformations (Precalculus - College Algebra 39).ahk
 https://www.youtube.com/watch?v=-k4uXF4hsAs
 
-Graphing Transformations with Sine and Cosine (Precalculus - Trigonometry 12).ahk
+398437.  Graphing Transformations with Sine and Cosine (Precalculus - Trigonometry 12).ahk
 https://www.youtube.com/watch?v=dyXT5KMCrPk
 
-Graphs of Exponential Functions (Precalculus - College Algebra 52).ahk
+398471.  Graphs of Exponential Functions (Precalculus - College Algebra 52).ahk
 https://www.youtube.com/watch?v=2w14jBb0e9Q
 
-Graphs You Must Know (Precalculus - College Algebra 13).ahk
+398506.  Graphs You Must Know (Precalculus - College Algebra 13).ahk
 https://www.youtube.com/watch?v=NrmmR3-VxA8
 
-How to Change the Base of a Logarithm (Precalculus - College Algebra 61).ahk
+398542.  How to Change the Base of a Logarithm (Precalculus - College Algebra 61).ahk
 https://www.youtube.com/watch?v=tgcFt8zGnNE
 
-How to Combine Logarithms (Precalculus - College Algebra 60).ahk
+398579.  How to Combine Logarithms (Precalculus - College Algebra 60).ahk
 https://www.youtube.com/watch?v=YrU8fYchnIU
 
-How to Evaluate Functions (Precalculus - College Algebra 3).ahk
+398617.  How to Evaluate Functions (Precalculus - College Algebra 3).ahk
 https://www.youtube.com/watch?v=p1sGAHulT8w
 
-How to Expand Logarithms (Precalculus - College Algebra 59).ahk
+398656.  How to Expand Logarithms (Precalculus - College Algebra 59).ahk
 https://www.youtube.com/watch?v=qCeN653SdX4
 
-How to Graph Piecewise Functions (Precalculus - College Algebra 12).ahk
+398696.  How to Graph Piecewise Functions (Precalculus - College Algebra 12).ahk
 https://www.youtube.com/watch?v=KHZKgl_9o7M
 
-How to Graph Tangent and Cotangent (Precalculus - Trigonometry 13).ahk
+398737.  How to Graph Tangent and Cotangent (Precalculus - Trigonometry 13).ahk
 https://www.youtube.com/watch?v=8eMEBrPYJ0I
 
-How to Graph with Transformations (Precalculus - College Algebra 15).ahk
+398779.  How to Graph with Transformations (Precalculus - College Algebra 15).ahk
 https://www.youtube.com/watch?v=HkrMJLSpJFI
 
-How to Sketch Polynomial Functions (Precalculus - College Algebra 31).ahk
+398822.  How to Sketch Polynomial Functions (Precalculus - College Algebra 31).ahk
 https://www.youtube.com/watch?v=6MAtqY6Fqjs
 
-How to Use the Rational Zeros Theorem (Precalculus - College Algebra 34).ahk
+398866.  How to Use the Rational Zeros Theorem (Precalculus - College Algebra 34).ahk
 https://www.youtube.com/watch?v=g7wEpxwgB3w
 
-How to Use the Unit Circle in Trigonometry (Precalculus - Trigonometry 7).ahk
+398911.  How to Use the Unit Circle in Trigonometry (Precalculus - Trigonometry 7).ahk
 https://www.youtube.com/watch?v=GdRZfemxTFI
 
-Inequalities with Functions - Graphically (Precalculus - College Algebra 45).ahk
+398957.  Inequalities with Functions - Graphically (Precalculus - College Algebra 45).ahk
 https://www.youtube.com/watch?v=bngBtS7RBZ4
 
-Inequalities with Polynomial Functions (Precalculus - College Algebra 46).ahk
+399004.  Inequalities with Polynomial Functions (Precalculus - College Algebra 46).ahk
 https://www.youtube.com/watch?v=qFJ-Mq0XcTI
 
-Inequalities with Rational Functions (Precalculus - College Algebra 47).ahk
+399052.  Inequalities with Rational Functions (Precalculus - College Algebra 47).ahk
 https://www.youtube.com/watch?v=QSh1xcbYKZk
 
-Intro to Precalculus (Precalculus - College Algebra 1).ahk
+399101.  Intro to Precalculus (Precalculus - College Algebra 1).ahk
 https://www.youtube.com/watch?v=9OOrhA2iKak
 
-Introduction to Angles (Precalculus - Trigonometry 1).ahk
+399151.  Introduction to Angles (Precalculus - Trigonometry 1).ahk
 https://www.youtube.com/watch?v=c41QejoWnb4
 
-Introduction to Complex Solutions of Polynomials (Precalculus - College algebra 35).ahk
+399202.  Introduction to Complex Solutions of Polynomials (Precalculus - College algebra 35).ahk
 https://www.youtube.com/watch?v=g-69B5jkcO4
 
-Introduction to Functions (Precalculus - College Algebra 2).ahk
+399254.  Introduction to Functions (Precalculus - College Algebra 2).ahk
 https://www.youtube.com/watch?v=FkUEsP9efFg
 
-Introduction to Graph Transformations (Precalculus - College Algebra 14).ahk
+399307.  Introduction to Graph Transformations (Precalculus - College Algebra 14).ahk
 https://www.youtube.com/watch?v=sTCRB6hMsC4
 
-Introduction to Logarithms and Their Graphs (Precalculus - College Algebra 55).ahk
+399361.  Introduction to Logarithms and Their Graphs (Precalculus - College Algebra 55).ahk
 https://www.youtube.com/watch?v=jfnTwz79PWU
 
-Introduction to Polynomial Functions (Precalculus - College Algebra 27).ahk
+399416.  Introduction to Polynomial Functions (Precalculus - College Algebra 27).ahk
 https://www.youtube.com/watch?v=6Uh3Z6DJ_pI
 
-Introduction to Radians (Precalculus - Trigonometry 3).ahk
+399472.  Introduction to Radians (Precalculus - Trigonometry 3).ahk
 https://www.youtube.com/watch?v=EWd_FtOfyPc
 
-Introduction to Sequences (Precalculus - College Algebra 67).ahk
+399529.  Introduction to Sequences (Precalculus - College Algebra 67).ahk
 https://www.youtube.com/watch?v=c5D7BJ-R41I
 
-Introduction to Series and Summation Notation  (Precalculus - College Algebra 68).ahk
+399587.  Introduction to Series and Summation Notation  (Precalculus - College Algebra 68).ahk
 https://www.youtube.com/watch?v=Ipz9xXeoaRc
 
-Introduction to Solving Logarithms and Exponentials (Precalculus - College Algebra 57).ahk
+399646.  Introduction to Solving Logarithms and Exponentials (Precalculus - College Algebra 57).ahk
 https://www.youtube.com/watch?v=KezbqAAlOZk
 
-Introduction to Solving Quadratics (Precalculus - College Algebra 16).ahk
+399706.  Introduction to Solving Quadratics (Precalculus - College Algebra 16).ahk
 https://www.youtube.com/watch?v=OIEkJaPgjKs
 
-Multiplicity and End Behavior of Polynomials (Precalculus - College Algebra 29).ahk
+399767.  Multiplicity and End Behavior of Polynomials (Precalculus - College Algebra 29).ahk
 https://www.youtube.com/watch?v=Gxh-mEt1K-o
 
-One to One Functions (Precalculus - College Algebra 50).ahk
+399829.  One to One Functions (Precalculus - College Algebra 50).ahk
 https://www.youtube.com/watch?v=C0Q_m2UDerc
 
-Operations of Functions (Precalculus - College Algebra 5).ahk
+399892.  Operations of Functions (Precalculus - College Algebra 5).ahk
 https://www.youtube.com/watch?v=7N_-G4usp6Q
 
-Power Functions (Precalculus - College Algebra 28).ahk
+399956.  Power Functions (Precalculus - College Algebra 28).ahk
 https://www.youtube.com/watch?v=FXTlAPOBA_U
 
-Proof by Mathematical Induction (Precalculus - College Algebra 73).ahk
+400021.  Proof by Mathematical Induction (Precalculus - College Algebra 73).ahk
 https://www.youtube.com/watch?v=x5cWX-EyLEI
 
-Properties of Functions - Even vs Odd (Precalculus - College Algebra 8).ahk
+400087.  Properties of Functions - Even vs Odd (Precalculus - College Algebra 8).ahk
 https://www.youtube.com/watch?v=6897XAx3O9Q
 
-Properties of Functions - Extrema (Precalculus - College Algebra 10).ahk
+400154.  Properties of Functions - Extrema (Precalculus - College Algebra 10).ahk
 https://www.youtube.com/watch?v=2hItEGb3KJo
 
-Properties of Functions - Increasing vs Decreasing (Precalculus - College Algebra 9).ahk
+400222.  Properties of Functions - Increasing vs Decreasing (Precalculus - College Algebra 9).ahk
 https://www.youtube.com/watch?v=cIRDvscVPr0
 
-Properties of Logarithms (Precalculus - College Algebra 58).ahk
+400291.  Properties of Logarithms (Precalculus - College Algebra 58).ahk
 https://www.youtube.com/watch?v=u0uScdsBPfk
 
-Proving the Quadratic Formula - Twice (Precalculus - College Algebra 20).ahk
+400361.  Proving the Quadratic Formula - Twice (Precalculus - College Algebra 20).ahk
 https://www.youtube.com/watch?v=2BUg_w1Cu9E
 
-Pythagorean Identities for Trigonometric Functions (Precalculus - Trigonometry 10).ahk
+400432.  Pythagorean Identities for Trigonometric Functions (Precalculus - Trigonometry 10).ahk
 https://www.youtube.com/watch?v=huP3v7iZuLM
 
-Reciprocal Identities in Trigonometry (Precalculus - Trigonometry 9).ahk
+400504.  Reciprocal Identities in Trigonometry (Precalculus - Trigonometry 9).ahk
 https://www.youtube.com/watch?v=98jDUsZ2JYA
 
-Review of Compound Interest (Precalculus - College Algebra 65).ahk
+400577.  Review of Compound Interest (Precalculus - College Algebra 65).ahk
 https://www.youtube.com/watch?v=N1k25doMFww
 
-Solving Exponential Equations with Common Bases (Precalculus - College Algebra 54).ahk
+400651.  Solving Exponential Equations with Common Bases (Precalculus - College Algebra 54).ahk
 https://www.youtube.com/watch?v=gkUWLFontZU
 
-Solving Exponential Equations with Logarithms (Precalculus - College Algebra 64).ahk
+400726.  Solving Exponential Equations with Logarithms (Precalculus - College Algebra 64).ahk
 https://www.youtube.com/watch?v=rDcLCA2W-UI
 
-Solving Logarithmic Equations with Exponentials (Precalculus - College Algebra 63).ahk
+400802.  Solving Logarithmic Equations with Exponentials (Precalculus - College Algebra 63).ahk
 https://www.youtube.com/watch?v=jNUyVClUQfc
 
-Solving Logarithms with Common Bases (Precalculus - College Algebra 62).ahk
+400879.  Solving Logarithms with Common Bases (Precalculus - College Algebra 62).ahk
 https://www.youtube.com/watch?v=82fonULPl64
 
-Solving Quadratic Inequalities (Precalculus - College Algebra 25).ahk
+400957.  Solving Quadratic Inequalities (Precalculus - College Algebra 25).ahk
 https://www.youtube.com/watch?v=qd41nGPHbMU
 
-Synthetic Division and Long Division of Polynomials (Precalculus - College Algebra 32).ahk
+401036.  Synthetic Division and Long Division of Polynomials (Precalculus - College Algebra 32).ahk
 https://www.youtube.com/watch?v=AKJgo-WR_K4
 
-The Graphs of Sine and Cosine (Precalculus - Trigonometry 11).ahk
+401116.  The Graphs of Sine and Cosine (Precalculus - Trigonometry 11).ahk
 https://www.youtube.com/watch?v=3HHgZopzL_s
 
-The Square Root Method in Solving Quadratics (Precalculus - College Algebra 17).ahk
+401197.  The Square Root Method in Solving Quadratics (Precalculus - College Algebra 17).ahk
 https://www.youtube.com/watch?v=mXAd6rkNSK0
 
-Trigonometric Functions and the Unit Circle (Precalculus - Trigonometry 6).ahk
+401279.  Trigonometric Functions and the Unit Circle (Precalculus - Trigonometry 6).ahk
 https://www.youtube.com/watch?v=__nefjOhVks
 
-Using Factoring to Solve Quadratics (Precalculus - College Algebra 18).ahk
+401362.  Using Factoring to Solve Quadratics (Precalculus - College Algebra 18).ahk
 https://www.youtube.com/watch?v=u2CFHYJWS60
 
-Using Substitutions to Solve Equations (Precalculus - College Algebra 23).ahk
+401446.  Using Substitutions to Solve Equations (Precalculus - College Algebra 23).ahk
 https://www.youtube.com/watch?v=P8uoP-JFj54
 
-Using the Quadratic Formula (Precalculus - College Algebra 21).ahk
+401531.  Using the Quadratic Formula (Precalculus - College Algebra 21).ahk
 https://www.youtube.com/watch?v=KIWXZVsdpbE
 
-Using the Vertical Line Test (Precalculus - College Algebra 6).ahk
+401617.  Using the Vertical Line Test (Precalculus - College Algebra 6).ahk
 https://www.youtube.com/watch?v=7j6kh8Z2H90
 Precalculus - College AlgebraTrigonometry

@@ -1,253 +1,253 @@
 
-Adding Matrices (Matrix Addition) [fbt].ahk
+394307.  Adding Matrices (Matrix Addition) [fbt].ahk
 https://www.youtube.com/watch?v=_CdM_z0ypF8
 
-Augmented Matrices [fbt].ahk
+394309.  Augmented Matrices [fbt].ahk
 https://www.youtube.com/watch?v=rG3Y3QMubRI
 
-Composition of Functions [fbt] (Red Boxin' It!).ahk
+394312.  Composition of Functions [fbt] (Red Boxin' It!).ahk
 https://www.youtube.com/watch?v=6je5ra3CbLs
 
-Converting Degrees to Radians [fbt].ahk
+394316.  Converting Degrees to Radians [fbt].ahk
 https://www.youtube.com/watch?v=ZVxj_PklVxE
 
-Converting Radians to Degrees [fbt].ahk
+394321.  Converting Radians to Degrees [fbt].ahk
 https://www.youtube.com/watch?v=g0ZYe4DrPZk
 
-Elementary Row Operations on Matrices (Matrix Operations) [fbt].ahk
+394327.  Elementary Row Operations on Matrices (Matrix Operations) [fbt].ahk
 https://www.youtube.com/watch?v=rqeD__c2fho
 
-Evaluating Piecewise Functions [fbt].ahk
+394334.  Evaluating Piecewise Functions [fbt].ahk
 https://www.youtube.com/watch?v=a5_ApJrEZLI
 
-Finding and Graphing Inverse Functions [fbt].ahk
+394342.  Finding and Graphing Inverse Functions [fbt].ahk
 https://www.youtube.com/watch?v=e_WW6BAZxyM
 
-Finding Probability Deck of Cards [fbt].ahk
+394351.  Finding Probability Deck of Cards [fbt].ahk
 https://www.youtube.com/watch?v=wqt2RVgBSmQ
 
-Finding the Arc Length of a Circle [fbt].ahk
+394361.  Finding the Arc Length of a Circle [fbt].ahk
 https://www.youtube.com/watch?v=oDoyv7wxqmU
 
-Finding the Area of a Sector [fbt].ahk
+394372.  Finding the Area of a Sector [fbt].ahk
 https://www.youtube.com/watch?v=zPCljb4rpcQ
 
-Finding the Determinant of a Square Matrix (2×2, 3×3, and 4×4 matrices) [fbt].ahk
+394384.  Finding the Determinant of a Square Matrix (2×2, 3×3, and 4×4 matrices) [fbt].ahk
 https://www.youtube.com/watch?v=sdcF0NjZXfs
 
-Finding the Six Trigonometry Function Values [fbt].ahk
+394397.  Finding the Six Trigonometry Function Values [fbt].ahk
 https://www.youtube.com/watch?v=uLkUQPb-uDo
 
-Finding the Slope of a Linear Equation [fbt].ahk
+394411.  Finding the Slope of a Linear Equation [fbt].ahk
 https://www.youtube.com/watch?v=x6qIPml2xRI
 
-Function Notation Evaluating and Simplifying Functions [fbt].ahk
+394426.  Function Notation Evaluating and Simplifying Functions [fbt].ahk
 https://www.youtube.com/watch?v=Y6zK_rPc290
 
-Function Operations +-×÷ [fbt] (Operations on Functions).ahk
+394442.  Function Operations +-×÷ [fbt] (Operations on Functions).ahk
 https://www.youtube.com/watch?v=dAW1KXejciQ
 
-Graphing Circles Using Center-Radius Form [fbt].ahk
+394459.  Graphing Circles Using Center-Radius Form [fbt].ahk
 https://www.youtube.com/watch?v=CJi1OZFJjyI
 
-Graphing Exponential Functions [fbt].ahk
+394477.  Graphing Exponential Functions [fbt].ahk
 https://www.youtube.com/watch?v=U5cLV6mpI6k
 
-Graphing Linear Equations Slope-Intercept Form [fbt].ahk
+394496.  Graphing Linear Equations Slope-Intercept Form [fbt].ahk
 https://www.youtube.com/watch?v=DVLOvBLaPlQ
 
-Graphing Linear Equations X & Y Intercepts (The Ladies and Gentlemen Overdose Part 1) [fbt].ahk
+394516.  Graphing Linear Equations X & Y Intercepts (The Ladies and Gentlemen Overdose Part 1) [fbt].ahk
 https://www.youtube.com/watch?v=zuwrIO5_vL0
 
-Graphing Linear Equations XY - Chart (The Ladies and Gentlemen Overdose Part 2) [fbt].ahk
+394537.  Graphing Linear Equations XY - Chart (The Ladies and Gentlemen Overdose Part 2) [fbt].ahk
 https://www.youtube.com/watch?v=vzIv62JZqK4
 
-Graphing Linear Inequalities in Two Variables [fbt].ahk
+394559.  Graphing Linear Inequalities in Two Variables [fbt].ahk
 https://www.youtube.com/watch?v=SMfHgcxRSvo
 
-Graphing Piecewise Defined Functions [fbt] (How to Graph Piecewise Functions).ahk
+394582.  Graphing Piecewise Defined Functions [fbt] (How to Graph Piecewise Functions).ahk
 https://www.youtube.com/watch?v=VXc7PjVl4UY
 
-Graphing Quadratic Functions (Vertical Parabolas) [fbt].ahk
+394606.  Graphing Quadratic Functions (Vertical Parabolas) [fbt].ahk
 https://www.youtube.com/watch?v=jTLuHxxXY_g
 
-Graphing the Cosecant (csc) Function [fbt].ahk
+394631.  Graphing the Cosecant (csc) Function [fbt].ahk
 https://www.youtube.com/watch?v=A9hnXkFNePA
 
-Graphing the Cosine (cos) Function [fbt].ahk
+394657.  Graphing the Cosine (cos) Function [fbt].ahk
 https://www.youtube.com/watch?v=5-Xt_HEQ1nw
 
-Graphing the Cotangent (cot) Function [fbt].ahk
+394684.  Graphing the Cotangent (cot) Function [fbt].ahk
 https://www.youtube.com/watch?v=OuQ4MbZUm8k
 
-Graphing the Intersection and Union of Linear Inequalities (Systems of Linear Inequalities) [fbt].ahk
+394712.  Graphing the Intersection and Union of Linear Inequalities (Systems of Linear Inequalities) [fbt].ahk
 https://www.youtube.com/watch?v=-STDIYPlvPI
 
-Graphing the Secant (sec) Function [fbt].ahk
+394741.  Graphing the Secant (sec) Function [fbt].ahk
 https://www.youtube.com/watch?v=_fL9wV9p3E0
 
-Graphing the Sine (sin) Function [fbt].ahk
+394771.  Graphing the Sine (sin) Function [fbt].ahk
 https://www.youtube.com/watch?v=VsbEQGGvrQA
 
-Graphing the Tangent (tan) Function [fbt].ahk
+394802.  Graphing the Tangent (tan) Function [fbt].ahk
 https://www.youtube.com/watch?v=pnrNLV8SQgA
 
-Inverse Matrices of a 2x2 or 3x3 Matrix [fbt].ahk
+394834.  Inverse Matrices of a 2x2 or 3x3 Matrix [fbt].ahk
 https://www.youtube.com/watch?v=rn-qjFIBAPg
 
-Multiplying Matrices (Matrix Multiplication) [fbt].ahk
+394867.  Multiplying Matrices (Matrix Multiplication) [fbt].ahk
 https://www.youtube.com/watch?v=zEqAD0MUAgI
 
-Nonlinear Systems Pt. 1 (feat. Texas Instruments Graphing Calculator TI-Nspire CX CAS) [fbt].ahk
+394901.  Nonlinear Systems Pt. 1 (feat. Texas Instruments Graphing Calculator TI-Nspire CX CAS) [fbt].ahk
 https://www.youtube.com/watch?v=fO7HniVqMMk
 
-Partial Fraction Decomposition [fbt].ahk
+394936.  Partial Fraction Decomposition [fbt].ahk
 https://www.youtube.com/watch?v=2yYnkfs_az4
 
-Rational Functions Finding the Domain and Graphing the Intercepts [fbt].ahk
+394972.  Rational Functions Finding the Domain and Graphing the Intercepts [fbt].ahk
 https://www.youtube.com/watch?v=zjW8ulFu3ek
 
-Rational Functions How to Find and Graph Holes [fbt].ahk
+395009.  Rational Functions How to Find and Graph Holes [fbt].ahk
 https://www.youtube.com/watch?v=Gq6fMkDDqdA
 
-Rational Functions How to Find and Graph Horizontal Asymptotes [fbt].ahk
+395047.  Rational Functions How to Find and Graph Horizontal Asymptotes [fbt].ahk
 https://www.youtube.com/watch?v=eDdlko8cTa4
 
-Rational Functions How to Find and Graph Oblique  Slant Asymptotes [fbt].ahk
+395086.  Rational Functions How to Find and Graph Oblique  Slant Asymptotes [fbt].ahk
 https://www.youtube.com/watch?v=_RqGepzTfnM
 
-Rational Functions How to Find and Graph Vertical Asymptotes [fbt].ahk
+395126.  Rational Functions How to Find and Graph Vertical Asymptotes [fbt].ahk
 https://www.youtube.com/watch?v=p955Tvla-GY
 
-Scalar Multiplication of Matrices [fbt] (Scalar Matrices).ahk
+395167.  Scalar Multiplication of Matrices [fbt] (Scalar Matrices).ahk
 https://www.youtube.com/watch?v=9lP2Ls7Aj8k
 
-Sketching Polynomial Functions Without a Calculator [fbt].ahk
+395209.  Sketching Polynomial Functions Without a Calculator [fbt].ahk
 https://www.youtube.com/watch?v=9j9blfwD8UM
 
-Solving Exponential Equations [fbt] (Step-by-Step).ahk
+395252.  Solving Exponential Equations [fbt] (Step-by-Step).ahk
 https://www.youtube.com/watch?v=Y-PaFgFDLZk
 
-Solving Logarithmic Equations [fbt] (Step-by-Step).ahk
+395296.  Solving Logarithmic Equations [fbt] (Step-by-Step).ahk
 https://www.youtube.com/watch?v=DfSmzfay0ZQ
 
-Solving Natural Logarithmic Equations [fbt] (Step-by-Step).ahk
+395341.  Solving Natural Logarithmic Equations [fbt] (Step-by-Step).ahk
 https://www.youtube.com/watch?v=grD2eZgLqlE
 
-Solving Polynomial Inequalities [fbt].ahk
+395387.  Solving Polynomial Inequalities [fbt].ahk
 https://www.youtube.com/watch?v=A3Ve-Txe3OA
 
-Solving Quadratic Inequalities [fbt].ahk
+395434.  Solving Quadratic Inequalities [fbt].ahk
 https://www.youtube.com/watch?v=87W31FAS8Ig
 
-Solving Rational Inequalities [fbt].ahk
+395482.  Solving Rational Inequalities [fbt].ahk
 https://www.youtube.com/watch?v=tec2aoiPtA0
 
-Solving Systems of Equations The Gauss-Jordan Method (Reduced Row Echelon Form) [fbt].ahk
+395531.  Solving Systems of Equations The Gauss-Jordan Method (Reduced Row Echelon Form) [fbt].ahk
 https://www.youtube.com/watch?v=l8k8GLxnxyo
 
-Solving Systems of Equations The Gaussian Elimination Method (Row Echelon Form) [fbt].ahk
+395581.  Solving Systems of Equations The Gaussian Elimination Method (Row Echelon Form) [fbt].ahk
 https://www.youtube.com/watch?v=HpIeUcZU8RY
 
-Solving Systems of Equations with Three (3) Variables [fbt].ahk
+395632.  Solving Systems of Equations with Three (3) Variables [fbt].ahk
 https://www.youtube.com/watch?v=bL-miX0XRnE
 
-Solving Variables in Equal Matrices (Equivalent Matrices) [fbt].ahk
+395684.  Solving Variables in Equal Matrices (Equivalent Matrices) [fbt].ahk
 https://www.youtube.com/watch?v=yegAYJ7m8LI
 
-Subtracting Matrices (Matrix Subtraction) [fbt].ahk
+395737.  Subtracting Matrices (Matrix Subtraction) [fbt].ahk
 https://www.youtube.com/watch?v=lFe_NrJxyGg
 
-Systems of Exponential Equations [fbt] (Nonlinear Systems Pt. 3).ahk
+395791.  Systems of Exponential Equations [fbt] (Nonlinear Systems Pt. 3).ahk
 https://www.youtube.com/watch?v=ZMNxVYSdZZY
 
-Systems of Linear Equations The Elimination (Addition) Method [fbt].ahk
+395846.  Systems of Linear Equations The Elimination (Addition) Method [fbt].ahk
 https://www.youtube.com/watch?v=SOfpTlIKnw0
 
-Systems of Linear Equations The Graphing Method (Is my teacher setting me up) [fbt].ahk
+395902.  Systems of Linear Equations The Graphing Method (Is my teacher setting me up) [fbt].ahk
 https://www.youtube.com/watch?v=b_GDh5g62ew
 
-Systems of Linear Equations The Substitution Method [fbt].ahk
+395959.  Systems of Linear Equations The Substitution Method [fbt].ahk
 https://www.youtube.com/watch?v=fpheMP2DgsA
 
-Systems of Logarithmic Equations (Nonlinear Systems Pt. 2) [fbt].ahk
+396017.  Systems of Logarithmic Equations (Nonlinear Systems Pt. 2) [fbt].ahk
 https://www.youtube.com/watch?v=AY2TAKsSWm8
 
-The Definitive Guide to Finding the Domain of a Function [fbt].ahk
+396076.  The Definitive Guide to Finding the Domain of a Function [fbt].ahk
 https://www.youtube.com/watch?v=yU3Yu9jIjbM
 
-The Pythagorean Theorem and Pythagorean Triples [fbt].ahk
+396136.  The Pythagorean Theorem and Pythagorean Triples [fbt].ahk
 https://www.youtube.com/watch?v=Nub_IULDMzM
 
-Transformations of Functions [fbt].ahk
+396197.  Transformations of Functions [fbt].ahk
 https://www.youtube.com/watch?v=DH0DIt3NLj4
 
-Verifying Trigonometric Identities Part 1 [fbt].ahk
+396259.  Verifying Trigonometric Identities Part 1 [fbt].ahk
 https://www.youtube.com/watch?v=r3uAlRWn-SI
 
-Verifying Trigonometric Identities Part 2 [fbt].ahk
+396322.  Verifying Trigonometric Identities Part 2 [fbt].ahk
 https://www.youtube.com/watch?v=J80cwGaY0A4
 
-Verifying Trigonometric Identities Part 3 [fbt].ahk
+396386.  Verifying Trigonometric Identities Part 3 [fbt].ahk
 https://www.youtube.com/watch?v=FCwCfTmnzwE
 
-Verifying Trigonometric Identities Part 4 [fbt].ahk
+396451.  Verifying Trigonometric Identities Part 4 [fbt].ahk
 https://www.youtube.com/watch?v=4gcPpHKd-W4
 
-Writing Equations of Circles Center-Radius Form (Standard Form) [fbt].ahk
+396517.  Writing Equations of Circles Center-Radius Form (Standard Form) [fbt].ahk
 https://www.youtube.com/watch?v=K15qf_c7Mpk
 
-Writing Equations of Circles Converting General Form to Center-Radius Form (Standard Form) [fbt].ahk
+396584.  Writing Equations of Circles Converting General Form to Center-Radius Form (Standard Form) [fbt].ahk
 https://www.youtube.com/watch?v=lwuBxZxdcB8
 
-Writing Linear Equations Point-Slope Form [fbt] (Point Slope Form).ahk
+396652.  Writing Linear Equations Point-Slope Form [fbt] (Point Slope Form).ahk
 https://www.youtube.com/watch?v=EcGk2c3imFI
 
-Writing Linear Equations Slope-Intercept Form [fbt].ahk
+396721.  Writing Linear Equations Slope-Intercept Form [fbt].ahk
 https://www.youtube.com/watch?v=ZV3SGp2SJuU
 
-Writing Linear Equations Standard Form [fbt].ahk
+396791.  Writing Linear Equations Standard Form [fbt].ahk
 https://www.youtube.com/watch?v=iSNB1_J7b5Q
 
-?? Algebraic Tests for Symmetry [fbt] (Testing Functions, Relations and Graphs for Symmetry).ahk
+396862.  ?? Algebraic Tests for Symmetry [fbt] (Testing Functions, Relations and Graphs for Symmetry).ahk
 https://www.youtube.com/watch?v=YRclYcUXPFw
 
-?? Finding the Midpoint and Distance Between Two Points Live [fbt].ahk
+396934.  ?? Finding the Midpoint and Distance Between Two Points Live [fbt].ahk
 https://www.youtube.com/watch?v=APKr6ZCzIsA
 
-??Expanding Logarithmic Expressions Writing a Logarithm as a Sum or Difference of Logarithms [fbt].ahk
+397007.  ??Expanding Logarithmic Expressions Writing a Logarithm as a Sum or Difference of Logarithms [fbt].ahk
 https://www.youtube.com/watch?v=nGWQj5B9_Z0
 
-??Graphing Rational Functions Part 1 Common Functions [fbt].ahk
+397081.  ??Graphing Rational Functions Part 1 Common Functions [fbt].ahk
 https://www.youtube.com/watch?v=rkiwS0NX-cw
 
-??Graphing Rational Functions Part 2 Holes (Rational Functions with Holes) [fbt].ahk
+397156.  ??Graphing Rational Functions Part 2 Holes (Rational Functions with Holes) [fbt].ahk
 https://www.youtube.com/watch?v=rhWvGxF0gY0
 
-??Graphing Rational Functions Part 3 Slant Asymptotes (Oblique Asymptotes) [fbt].ahk
+397232.  ??Graphing Rational Functions Part 3 Slant Asymptotes (Oblique Asymptotes) [fbt].ahk
 https://www.youtube.com/watch?v=theFQPdhRi4
 
-??Graphing Rational Functions Part 4 Two or More Vertical Asymptotes [fbt].ahk
+397309.  ??Graphing Rational Functions Part 4 Two or More Vertical Asymptotes [fbt].ahk
 https://www.youtube.com/watch?v=l88ihEisZlA
 
-??Graphing Rational Functions Part 5 Graphing Using Transformations [fbt].ahk
+397387.  ??Graphing Rational Functions Part 5 Graphing Using Transformations [fbt].ahk
 https://www.youtube.com/watch?v=wAyzt-LIekc
 
-?? Average Rate of Change of a Function [fbt] (Determining the Average Rate of Change).ahk
+397466.  ?? Average Rate of Change of a Function [fbt] (Determining the Average Rate of Change).ahk
 https://www.youtube.com/watch?v=A1UGv0CGoe8
 
-?? Logarithmic Properties Live [fbt] (Converting, Simplifying, Expanding & Writing as a Single Log).ahk
+397546.  ?? Logarithmic Properties Live [fbt] (Converting, Simplifying, Expanding & Writing as a Single Log).ahk
 https://www.youtube.com/watch?v=JtqNgJi_F5M
 
-?? The Difference Quotient [fbt] (Difference Quotient with Fractions, Exponents and Square Roots).ahk
+397627.  ?? The Difference Quotient [fbt] (Difference Quotient with Fractions, Exponents and Square Roots).ahk
 https://www.youtube.com/watch?v=wRxCNWRRwl8
 
-?? WTF is a Limit [fbt] (An Introduction to Limits).ahk
+397709.  ?? WTF is a Limit [fbt] (An Introduction to Limits).ahk
 https://www.youtube.com/watch?v=g19yPjJrKhY
 
-?? Even and Odd Functions [fbt] (Even or Odd Function Test).ahk
+397792.  ?? Even and Odd Functions [fbt] (Even or Odd Function Test).ahk
 https://www.youtube.com/watch?v=7xWSRp_qZ-s
 
-?? The Remainder Theorem [fbt] (Evaluating Polynomial Functions and Verifying Zeros).ahk
+397876.  ?? The Remainder Theorem [fbt] (Evaluating Polynomial Functions and Verifying Zeros).ahk
 https://www.youtube.com/watch?v=bg1SO0yDUR8
 PreCalculus  Pre-Calculus by Fort Bend Tutoring [fbt]

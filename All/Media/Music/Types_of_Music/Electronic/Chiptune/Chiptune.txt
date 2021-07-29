@@ -1,16 +1,16 @@
 
-Bitpop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Chiptune/Bitpop/Bitpop.txt
+1.  Bitpop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Chiptune/Bitpop/Bitpop.txt
 
-Game Boy
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Chiptune/Game_Boy/Game_Boy.txt
+2.  Game Boy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Chiptune/Game_Boy/Game_Boy.txt
 
-Nintendocore
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Chiptune/Nintendocore/Nintendocore.txt
+3.  Nintendocore
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Chiptune/Nintendocore/Nintendocore.txt
 
-Video Game Music
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Chiptune/Video_Game_Music/Video_Game_Music.txt
+4.  Video Game Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Chiptune/Video_Game_Music/Video_Game_Music.txt
 
-Yorkshire Bleeps and Bass
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Chiptune/Yorkshire_Bleeps_and_Bass/Yorkshire_Bleeps_and_Bass.txt
+5.  Yorkshire Bleeps and Bass
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Chiptune/Yorkshire_Bleeps_and_Bass/Yorkshire_Bleeps_and_Bass.txt
 Chiptune

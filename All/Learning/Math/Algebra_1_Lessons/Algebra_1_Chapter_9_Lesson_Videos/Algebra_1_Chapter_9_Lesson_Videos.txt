@@ -1,28 +1,28 @@
 
-9.1 Quadratic Graphs and their Properties.ahk
+4295.  9.1 Quadratic Graphs and their Properties.ahk
 https://www.youtube.com/watch?v=XqXeNbsDWnw
 
-9.2 Quadratic Functions.ahk
+4297.  9.2 Quadratic Functions.ahk
 https://www.youtube.com/watch?v=tF7e1uSF-oE
 
-9.3 Solving Quadratic Equations.ahk
+4300.  9.3 Solving Quadratic Equations.ahk
 https://www.youtube.com/watch?v=2kwK4aCCNec
 
-9.4 Factoring to Solve Quadratic Equations.ahk
+4304.  9.4 Factoring to Solve Quadratic Equations.ahk
 https://www.youtube.com/watch?v=P_TxuHTXZPg
 
-9.5 Day 1 Completing the Square.ahk
+4309.  9.5 Day 1 Completing the Square.ahk
 https://www.youtube.com/watch?v=zEa28BO3jRM
 
-9.5 Day 2 Completing the Square.ahk
+4315.  9.5 Day 2 Completing the Square.ahk
 https://www.youtube.com/watch?v=42acLv4BWAM
 
-9.6 The Quadratic Formula and the Discriminant.ahk
+4322.  9.6 The Quadratic Formula and the Discriminant.ahk
 https://www.youtube.com/watch?v=q1h-CepxM5U
 
-9.7 Linear, Quadratic, and Exponential Models.ahk
+4330.  9.7 Linear, Quadratic, and Exponential Models.ahk
 https://www.youtube.com/watch?v=r8LcEs377ZA
 
-9.8 Systems of Linear and Quadratic Equations.ahk
+4339.  9.8 Systems of Linear and Quadratic Equations.ahk
 https://www.youtube.com/watch?v=TOXq33Zp4JU
 Algebra 1 Chapter 9 Lesson Videos

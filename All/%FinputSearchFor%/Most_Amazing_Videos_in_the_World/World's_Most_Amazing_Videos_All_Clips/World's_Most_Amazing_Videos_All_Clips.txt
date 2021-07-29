@@ -1,313 +1,313 @@
 
-WMAV Acting Robber.ahk
+286150.  WMAV Acting Robber.ahk
 https://www.youtube.com/watch?v=TbEGGSzoXmk
 
-WMAV Amusement Park Accident.ahk
+286152.  WMAV Amusement Park Accident.ahk
 https://www.youtube.com/watch?v=2MOnJoB-LYc
 
-WMAV Bait Car.ahk
+286155.  WMAV Bait Car.ahk
 https://www.youtube.com/watch?v=kX_ZFnUYJg4
 
-WMAV Band Brings The House Down.ahk
+286159.  WMAV Band Brings The House Down.ahk
 https://www.youtube.com/watch?v=cO6PLbBxyXY
 
-WMAV Baseball Player Runs Through Wall.ahk
+286164.  WMAV Baseball Player Runs Through Wall.ahk
 https://www.youtube.com/watch?v=CN77ZNNH7AQ
 
-WMAV Batboy Ran Into By Player.ahk
+286170.  WMAV Batboy Ran Into By Player.ahk
 https://www.youtube.com/watch?v=dxzNKg--Vtc
 
-WMAV Batter Hit In Face By Baseball.ahk
+286177.  WMAV Batter Hit In Face By Baseball.ahk
 https://www.youtube.com/watch?v=onGkNX_5L_k
 
-WMAV Bear Hits Ground Hard.ahk
+286185.  WMAV Bear Hits Ground Hard.ahk
 https://www.youtube.com/watch?v=5qZEAs8YPD0
 
-WMAV Bike Race Crash.ahk
+286194.  WMAV Bike Race Crash.ahk
 https://www.youtube.com/watch?v=Z__081kSgas
 
-WMAV Boxer Fights Opponent Outside of Ring.ahk
+286204.  WMAV Boxer Fights Opponent Outside of Ring.ahk
 https://www.youtube.com/watch?v=yOdqLWuqjL8
 
-WMAV Boy Accidentally Hangs Himself.ahk
+286215.  WMAV Boy Accidentally Hangs Himself.ahk
 https://www.youtube.com/watch?v=1dAB9ifU4sk
 
-WMAV Brentwood, TN Bank Robber Shootout.ahk
+286227.  WMAV Brentwood, TN Bank Robber Shootout.ahk
 https://www.youtube.com/watch?v=gXA4FagU-I8
 
-WMAV Bus Fire.ahk
+286240.  WMAV Bus Fire.ahk
 https://www.youtube.com/watch?v=TnD2fgjcNro
 
-WMAV Chevie and Cheyne Kehoe Shootout.ahk
+286254.  WMAV Chevie and Cheyne Kehoe Shootout.ahk
 https://www.youtube.com/watch?v=sccA3f4zmP0
 
-WMAV Clerk Locks Doors On Robber.ahk
+286269.  WMAV Clerk Locks Doors On Robber.ahk
 https://www.youtube.com/watch?v=zw7OrNCpkF4
 
-WMAV Cop Forgets To Put On Parking Brake.ahk
+286285.  WMAV Cop Forgets To Put On Parking Brake.ahk
 https://www.youtube.com/watch?v=-P-beAzh-dk
 
-WMAV Cop Hit From Behind.ahk
+286302.  WMAV Cop Hit From Behind.ahk
 https://www.youtube.com/watch?v=8npavosGhmg
 
-WMAV Corvette Crash.ahk
+286320.  WMAV Corvette Crash.ahk
 https://www.youtube.com/watch?v=et1tDw8GA-c
 
-WMAV Coward Throws Brick Into Clerk's Face.ahk
+286339.  WMAV Coward Throws Brick Into Clerk's Face.ahk
 https://www.youtube.com/watch?v=Jd7LAhAzPY0
 
-WMAV Cowardly Crew Abandons Ship And Leaves Passengers Behind.ahk
+286359.  WMAV Cowardly Crew Abandons Ship And Leaves Passengers Behind.ahk
 https://www.youtube.com/watch?v=9vLJcQ-wACU
 
-WMAV Crane Falls Into River.ahk
+286380.  WMAV Crane Falls Into River.ahk
 https://www.youtube.com/watch?v=Cb2wC1HtyHA
 
-WMAV Crazy Cat.ahk
+286402.  WMAV Crazy Cat.ahk
 https://www.youtube.com/watch?v=0oOtBYFC-KU
 
-WMAV Denmark Prison Escape.ahk
+286425.  WMAV Denmark Prison Escape.ahk
 https://www.youtube.com/watch?v=sVtisQASVEY
 
-WMAV Driver Hits Woman and Children.ahk
+286449.  WMAV Driver Hits Woman and Children.ahk
 https://www.youtube.com/watch?v=cNp2C-LJ0Vk
 
-WMAV Father And Daughter Rescue.ahk
+286474.  WMAV Father And Daughter Rescue.ahk
 https://www.youtube.com/watch?v=cDa793eFkRQ
 
-WMAV Female Robber Shoots At Clerk.ahk
+286500.  WMAV Female Robber Shoots At Clerk.ahk
 https://www.youtube.com/watch?v=fLtpuXo4ZVM
 
-WMAV Fireworks Explode House.ahk
+286527.  WMAV Fireworks Explode House.ahk
 https://www.youtube.com/watch?v=0Shz3-etqp4
 
-WMAV Grenade Goes Off In Cop's Pocket.ahk
+286555.  WMAV Grenade Goes Off In Cop's Pocket.ahk
 https://www.youtube.com/watch?v=dNrZNdRN6Pw
 
-WMAV Guy Does Skateboard Stunt While On Fire.ahk
+286584.  WMAV Guy Does Skateboard Stunt While On Fire.ahk
 https://www.youtube.com/watch?v=Q1vEcZjDS3M
 
-WMAV Guy Gets Hand Stuck In Printer.ahk
+286614.  WMAV Guy Gets Hand Stuck In Printer.ahk
 https://www.youtube.com/watch?v=Tfb5eeibiho
 
-WMAV Guy Takes Two People Hostage.ahk
+286645.  WMAV Guy Takes Two People Hostage.ahk
 https://www.youtube.com/watch?v=ZzCUA2T8-c8
 
-WMAV Hot Air Balloon Goes Up In Flames.ahk
+286677.  WMAV Hot Air Balloon Goes Up In Flames.ahk
 https://www.youtube.com/watch?v=oSl_e-WY7fA
 
-WMAV Jeep Explosion.ahk
+286710.  WMAV Jeep Explosion.ahk
 https://www.youtube.com/watch?v=o-2-5W8Az5k
 
-WMAV Jet Ski Race Almost Turns Tragic.ahk
+286744.  WMAV Jet Ski Race Almost Turns Tragic.ahk
 https://www.youtube.com/watch?v=ktSgsC-gxNE
 
-WMAV Kid Goes Into Stands on Dirt Bike.ahk
+286779.  WMAV Kid Goes Into Stands on Dirt Bike.ahk
 https://www.youtube.com/watch?v=uXxfjRzK9GE
 
-WMAV Knife Weiding Madman Goes Berserk.ahk
+286815.  WMAV Knife Weiding Madman Goes Berserk.ahk
 https://www.youtube.com/watch?v=IvjcyLRS4q4
 
-WMAV Mascot Fight.ahk
+286852.  WMAV Mascot Fight.ahk
 https://www.youtube.com/watch?v=dgD_S4qRFCs
 
-WMAV Mother Almost Crushed Between Train and Wall.ahk
+286890.  WMAV Mother Almost Crushed Between Train and Wall.ahk
 https://www.youtube.com/watch?v=f1ZFbYQj7II
 
-WMAV Motorcyclist Crashes During Race.ahk
+286929.  WMAV Motorcyclist Crashes During Race.ahk
 https://www.youtube.com/watch?v=A5OIo84SDnk
 
-WMAV Out Of Control Jet Ski.ahk
+286969.  WMAV Out Of Control Jet Ski.ahk
 https://www.youtube.com/watch?v=r8WvDqsjcDs
 
-WMAV Overloaded Plane Crashes Into School.ahk
+287010.  WMAV Overloaded Plane Crashes Into School.ahk
 https://www.youtube.com/watch?v=fxW3WkxaGfQ
 
-WMAV Parents Fight At Youth Football Game.ahk
+287052.  WMAV Parents Fight At Youth Football Game.ahk
 https://www.youtube.com/watch?v=KfZ0PBf8Rlg
 
-WMAV Plane Lands With No Wheels.ahk
+287095.  WMAV Plane Lands With No Wheels.ahk
 https://www.youtube.com/watch?v=C1Q_0c8iWng
 
-WMAV Police Dog Bites Reporter.ahk
+287139.  WMAV Police Dog Bites Reporter.ahk
 https://www.youtube.com/watch?v=2pHEC2mQJSA
 
-WMAV Protesters Throw Molotov Cocktails At Cops.ahk
+287184.  WMAV Protesters Throw Molotov Cocktails At Cops.ahk
 https://www.youtube.com/watch?v=4uH4uhgjzww
 
-WMAV Racer's Car Catches On Fire.ahk
+287230.  WMAV Racer's Car Catches On Fire.ahk
 https://www.youtube.com/watch?v=sExpP2G4dAs
 
-WMAV Rocker Gets Impaled By Chair.ahk
+287277.  WMAV Rocker Gets Impaled By Chair.ahk
 https://www.youtube.com/watch?v=weR6_jSDtg4
 
-WMAV Shawn Nelson Tank Chase.ahk
+287325.  WMAV Shawn Nelson Tank Chase.ahk
 https://www.youtube.com/watch?v=DNLEtVXaGys
 
-WMAV Ship Explosion.ahk
+287374.  WMAV Ship Explosion.ahk
 https://www.youtube.com/watch?v=t20uVDt-N18
 
-WMAV Shootout In Store.ahk
+287424.  WMAV Shootout In Store.ahk
 https://www.youtube.com/watch?v=2csP6Xh0dn0
 
-WMAV Skateboarder Almost Breaks Neck.ahk
+287475.  WMAV Skateboarder Almost Breaks Neck.ahk
 https://www.youtube.com/watch?v=LBM3dHrHxG0
 
-WMAV Snake Bites Owner In The Face.ahk
+287527.  WMAV Snake Bites Owner In The Face.ahk
 https://www.youtube.com/watch?v=U35q5BJCm4c
 
-WMAV Structure Collapse.ahk
+287580.  WMAV Structure Collapse.ahk
 https://www.youtube.com/watch?v=58XQMR20Nb4
 
-WMAV Suspect Creates Pile-Up.ahk
+287634.  WMAV Suspect Creates Pile-Up.ahk
 https://www.youtube.com/watch?v=nMlMbRmUVbs
 
-WMAV Suspect Hits Cop Car To Avoid Spike Strips.ahk
+287689.  WMAV Suspect Hits Cop Car To Avoid Spike Strips.ahk
 https://www.youtube.com/watch?v=i2kNpGuS8T4
 
-WMAV Suspect's Car Flips.ahk
+287745.  WMAV Suspect's Car Flips.ahk
 https://www.youtube.com/watch?v=_qCdlT7oWSI
 
-WMAV Tanker Car Explosion.ahk
+287802.  WMAV Tanker Car Explosion.ahk
 https://www.youtube.com/watch?v=Fnr5J1GpyTQ
 
-WMAV Tanker Truck Explosion.ahk
+287860.  WMAV Tanker Truck Explosion.ahk
 https://www.youtube.com/watch?v=1PbO78mnxPw
 
-WMAV Teen Runs Over Cops.ahk
+287919.  WMAV Teen Runs Over Cops.ahk
 https://www.youtube.com/watch?v=GZLTNhWRS2Y
 
-WMAV Train Hits Guy On Moped.ahk
+287979.  WMAV Train Hits Guy On Moped.ahk
 https://www.youtube.com/watch?v=YgXhkqXRyy8
 
-WMAV Truck Explosion In Tunnel.ahk
+288040.  WMAV Truck Explosion In Tunnel.ahk
 https://www.youtube.com/watch?v=6dKkUg-xCg8
 
-WMAV Wave Carries Away Old Woman.ahk
+288102.  WMAV Wave Carries Away Old Woman.ahk
 https://www.youtube.com/watch?v=jTVLymlB00c
 
-WMAV White House Shooter.ahk
+288165.  WMAV White House Shooter.ahk
 https://www.youtube.com/watch?v=sSO8LlegDEA
 
-WMAV Woman Gets Tazed For Not Listening To Cop.ahk
+288229.  WMAV Woman Gets Tazed For Not Listening To Cop.ahk
 https://www.youtube.com/watch?v=ZaNGdOejmdE
 
-World's Most Amazing Videos Alberta, the Craziest Cat Lady Ever.ahk
+288294.  World's Most Amazing Videos Alberta, the Craziest Cat Lady Ever.ahk
 https://www.youtube.com/watch?v=jalQrNV5a-Q
 
-World's Most Amazing Videos Ancient Church Collapses.ahk
+288360.  World's Most Amazing Videos Ancient Church Collapses.ahk
 https://www.youtube.com/watch?v=jEeCuaFbGTs
 
-World's Most Amazing Videos Australian Store Robbed Twice In One Night.ahk
+288427.  World's Most Amazing Videos Australian Store Robbed Twice In One Night.ahk
 https://www.youtube.com/watch?v=uLTn7JAZP7o
 
-World's Most Amazing Videos Bank Robber Gets Cut Off.ahk
+288495.  World's Most Amazing Videos Bank Robber Gets Cut Off.ahk
 https://www.youtube.com/watch?v=UUOsG-tyrP8
 
-World's Most Amazing Videos Basketball Brawl.ahk
+288564.  World's Most Amazing Videos Basketball Brawl.ahk
 https://www.youtube.com/watch?v=hAqhOZeB6IE
 
-World's Most Amazing Videos Best Police Sniper Ever.ahk
+288634.  World's Most Amazing Videos Best Police Sniper Ever.ahk
 https://www.youtube.com/watch?v=Xcc7QszJ1zY
 
-World's Most Amazing Videos Bullet Barely Misses Clerk.ahk
+288705.  World's Most Amazing Videos Bullet Barely Misses Clerk.ahk
 https://www.youtube.com/watch?v=wCEZi_PRfDw
 
-World's Most Amazing Videos Cameraman Almost Killed By Speeding Big Rig.ahk
+288777.  World's Most Amazing Videos Cameraman Almost Killed By Speeding Big Rig.ahk
 https://www.youtube.com/watch?v=qRiiq9Nffpw
 
-World's Most Amazing Videos Car Bomb.ahk
+288850.  World's Most Amazing Videos Car Bomb.ahk
 https://www.youtube.com/watch?v=sT_aDigjjw0
 
-World's Most Amazing Videos Car Runs Over Dude.ahk
+288924.  World's Most Amazing Videos Car Runs Over Dude.ahk
 https://www.youtube.com/watch?v=r4e36njY7HM
 
-World's Most Amazing Videos Cop Almost Killed By Murderer.ahk
+288999.  World's Most Amazing Videos Cop Almost Killed By Murderer.ahk
 https://www.youtube.com/watch?v=5zHbKRyWoYs
 
-World's Most Amazing Videos Cop Rams Suspect Into Gas Pump.ahk
+289075.  World's Most Amazing Videos Cop Rams Suspect Into Gas Pump.ahk
 https://www.youtube.com/watch?v=Rrj25fgBu4s
 
-World's Most Amazing Videos Cop Saves Hostage.ahk
+289152.  World's Most Amazing Videos Cop Saves Hostage.ahk
 https://www.youtube.com/watch?v=FyRnKp_rabs
 
-World's Most Amazing Videos Cops Shoot Teen With Gun.ahk
+289230.  World's Most Amazing Videos Cops Shoot Teen With Gun.ahk
 https://www.youtube.com/watch?v=HUQWzLjB7Rs
 
-World's Most Amazing Videos Dumb Robber Can't Open Door.ahk
+289309.  World's Most Amazing Videos Dumb Robber Can't Open Door.ahk
 https://www.youtube.com/watch?v=oD_wXUaNVic
 
-World's Most Amazing Videos Elephant Sits On Man's Head.ahk
+289389.  World's Most Amazing Videos Elephant Sits On Man's Head.ahk
 https://www.youtube.com/watch?v=Td-h-DVPi5Q
 
-World's Most Amazing Videos Frustrated Robber.ahk
+289470.  World's Most Amazing Videos Frustrated Robber.ahk
 https://www.youtube.com/watch?v=uGqcwFu3a_w
 
-World's Most Amazing Videos Gas Station Explosion.ahk
+289552.  World's Most Amazing Videos Gas Station Explosion.ahk
 https://www.youtube.com/watch?v=FX4cELVOa7g
 
-World's Most Amazing Videos Guy Rams House To Kill Ex-Girlfriend.ahk
+289635.  World's Most Amazing Videos Guy Rams House To Kill Ex-Girlfriend.ahk
 https://www.youtube.com/watch?v=MhJTfTObIAc
 
-World's Most Amazing Videos Javelin Throw Gone Wrong.ahk
+289719.  World's Most Amazing Videos Javelin Throw Gone Wrong.ahk
 https://www.youtube.com/watch?v=1GDhZaW-m5M
 
-World's Most Amazing Videos Journalist Gored By Angry Bull.ahk
+289804.  World's Most Amazing Videos Journalist Gored By Angry Bull.ahk
 https://www.youtube.com/watch?v=l7k_KiBlxEg
 
-World's Most Amazing Videos Motorcycle Crash.ahk
+289890.  World's Most Amazing Videos Motorcycle Crash.ahk
 https://www.youtube.com/watch?v=AGyTSaO2jrY
 
-World's Most Amazing Videos Navy Crewman Sucked Into Jet Intake (Part 1).ahk
+289977.  World's Most Amazing Videos Navy Crewman Sucked Into Jet Intake (Part 1).ahk
 https://www.youtube.com/watch?v=UZIDfWU1FlY
 
-World's Most Amazing Videos Navy Crewman Sucked Into Jet Intake (Part 2).ahk
+290065.  World's Most Amazing Videos Navy Crewman Sucked Into Jet Intake (Part 2).ahk
 https://www.youtube.com/watch?v=a92CU-nxYgg
 
-World's Most Amazing Videos PEPCON Disaster.ahk
+290154.  World's Most Amazing Videos PEPCON Disaster.ahk
 https://www.youtube.com/watch?v=uNM1dU9NwjQ
 
-World's Most Amazing Videos Plane Crash Lands In Ocean.ahk
+290244.  World's Most Amazing Videos Plane Crash Lands In Ocean.ahk
 https://www.youtube.com/watch?v=g7VKsns-KiY
 
-World's Most Amazing Videos Police Shoot Screwdriver Weiding Madman.ahk
+290335.  World's Most Amazing Videos Police Shoot Screwdriver Weiding Madman.ahk
 https://www.youtube.com/watch?v=e-UTMK15sWE
 
-World's Most Amazing Videos Pregnant Woman Jumps From Burning Building.ahk
+290427.  World's Most Amazing Videos Pregnant Woman Jumps From Burning Building.ahk
 https://www.youtube.com/watch?v=9Ga2-GrQax4
 
-World's Most Amazing Videos Prison Fight.ahk
+290520.  World's Most Amazing Videos Prison Fight.ahk
 https://www.youtube.com/watch?v=is_K38euBOA
 
-World's Most Amazing Videos Race Car Hits Paramedic.ahk
+290614.  World's Most Amazing Videos Race Car Hits Paramedic.ahk
 https://www.youtube.com/watch?v=0ds0cwluVwY
 
-World's Most Amazing Videos Redwood City Arsonist Tape.ahk
+290709.  World's Most Amazing Videos Redwood City Arsonist Tape.ahk
 https://www.youtube.com/watch?v=XvBmM8QEvoY
 
-World's Most Amazing Videos Russian Military Hazing Rituals.ahk
+290805.  World's Most Amazing Videos Russian Military Hazing Rituals.ahk
 https://www.youtube.com/watch?v=AHqqXp-hKCA
 
-World's Most Amazing Videos Sao Paulo Bank Robber Gets Kicked in the Face by Brave Cop.ahk
+290902.  World's Most Amazing Videos Sao Paulo Bank Robber Gets Kicked in the Face by Brave Cop.ahk
 https://www.youtube.com/watch?v=2Cy6tsR-BrE
 
-World's Most Amazing Videos Sao Paulo Stage Collapse.ahk
+291000.  World's Most Amazing Videos Sao Paulo Stage Collapse.ahk
 https://www.youtube.com/watch?v=-lgBglH4XC8
 
-World's Most Amazing Videos Ship Breaks Dock.ahk
+291099.  World's Most Amazing Videos Ship Breaks Dock.ahk
 https://www.youtube.com/watch?v=GYQm2DbeE00
 
-World's Most Amazing Videos Tanker Truck and Train Explosion.ahk
+291199.  World's Most Amazing Videos Tanker Truck and Train Explosion.ahk
 https://www.youtube.com/watch?v=8T_ejjUF8sc
 
-World's Most Amazing Videos Train Hits Semi.ahk
+291300.  World's Most Amazing Videos Train Hits Semi.ahk
 https://www.youtube.com/watch?v=dPhWqL6_GDw
 
-World's Most Amazing Videos Tyke the Elephant Rampage.ahk
+291402.  World's Most Amazing Videos Tyke the Elephant Rampage.ahk
 https://www.youtube.com/watch?v=YHE3cvbU-p0
 
-World's Most Amazing Videos Undercover Cops Almost Killed by Drug Dealers.ahk
+291505.  World's Most Amazing Videos Undercover Cops Almost Killed by Drug Dealers.ahk
 https://www.youtube.com/watch?v=w74QwEAPRdA
 
-World's Most Amazing Videos Wrestler Headbutts Ref.ahk
+291609.  World's Most Amazing Videos Wrestler Headbutts Ref.ahk
 https://www.youtube.com/watch?v=5Lrd739_KVQ
 World's Most Amazing Videos All Clips

@@ -1,121 +1,121 @@
 
-Beginner JavaScript Tutorial - 1 - Introduction to JavaScript.ahk
+114255.  Beginner JavaScript Tutorial - 1 - Introduction to JavaScript.ahk
 https://www.youtube.com/watch?v=yQaAGmHNn9s
 
-Beginner JavaScript Tutorial - 10 - Calling a Function From Another Function.ahk
+114257.  Beginner JavaScript Tutorial - 10 - Calling a Function From Another Function.ahk
 https://www.youtube.com/watch?v=95mIis5M-gU
 
-Beginner JavaScript Tutorial - 11 - Global & Local Variables.ahk
+114260.  Beginner JavaScript Tutorial - 11 - Global & Local Variables.ahk
 https://www.youtube.com/watch?v=waF2Isf-phQ
 
-Beginner JavaScript Tutorial - 12 - Math Operators.ahk
+114264.  Beginner JavaScript Tutorial - 12 - Math Operators.ahk
 https://www.youtube.com/watch?v=ZH5qZB0UucQ
 
-Beginner JavaScript Tutorial - 13 - Assignment Operators.ahk
+114269.  Beginner JavaScript Tutorial - 13 - Assignment Operators.ahk
 https://www.youtube.com/watch?v=VfBr32W-hRA
 
-Beginner JavaScript Tutorial - 14 - if Statement.ahk
+114275.  Beginner JavaScript Tutorial - 14 - if Statement.ahk
 https://www.youtube.com/watch?v=5gjr15aWp24
 
-Beginner JavaScript Tutorial - 15 - ifelse Statement.ahk
+114282.  Beginner JavaScript Tutorial - 15 - ifelse Statement.ahk
 https://www.youtube.com/watch?v=FKyrQYkihGw
 
-Beginner JavaScript Tutorial - 16 - Nesting and Fridays!.ahk
+114290.  Beginner JavaScript Tutorial - 16 - Nesting and Fridays!.ahk
 https://www.youtube.com/watch?v=ebjo8_u82mI
 
-Beginner JavaScript Tutorial - 17 - Complex Conditions.ahk
+114299.  Beginner JavaScript Tutorial - 17 - Complex Conditions.ahk
 https://www.youtube.com/watch?v=aQf-zeuHijU
 
-Beginner JavaScript Tutorial - 18 - switch.ahk
+114309.  Beginner JavaScript Tutorial - 18 - switch.ahk
 https://www.youtube.com/watch?v=NXMu5ljw9kc
 
-Beginner JavaScript Tutorial - 19 - for Loop.ahk
+114320.  Beginner JavaScript Tutorial - 19 - for Loop.ahk
 https://www.youtube.com/watch?v=Coxgr66EwRk
 
-Beginner JavaScript Tutorial - 2 - Comments and Statements.ahk
+114332.  Beginner JavaScript Tutorial - 2 - Comments and Statements.ahk
 https://www.youtube.com/watch?v=yUyJ1gcaraM
 
-Beginner JavaScript Tutorial - 20 - while Loop.ahk
+114345.  Beginner JavaScript Tutorial - 20 - while Loop.ahk
 https://www.youtube.com/watch?v=QPFW_0blw9w
 
-Beginner JavaScript Tutorial - 21 - do while.ahk
+114359.  Beginner JavaScript Tutorial - 21 - do while.ahk
 https://www.youtube.com/watch?v=7Eb7D_IOaog
 
-Beginner JavaScript Tutorial - 22 - Event Handlers.ahk
+114374.  Beginner JavaScript Tutorial - 22 - Event Handlers.ahk
 https://www.youtube.com/watch?v=9rvB27xXO_I
 
-Beginner JavaScript Tutorial - 23 - onMouseOver & onLoad.ahk
+114390.  Beginner JavaScript Tutorial - 23 - onMouseOver & onLoad.ahk
 https://www.youtube.com/watch?v=OleFcGMPZKI
 
-Beginner JavaScript Tutorial - 24 - Objects.ahk
+114407.  Beginner JavaScript Tutorial - 24 - Objects.ahk
 https://www.youtube.com/watch?v=mgwiCUpuCxA
 
-Beginner JavaScript Tutorial - 25 - Creating Our Own Objects.ahk
+114425.  Beginner JavaScript Tutorial - 25 - Creating Our Own Objects.ahk
 https://www.youtube.com/watch?v=6xLcSTDeB7A
 
-Beginner JavaScript Tutorial - 26 - Object Initializers.ahk
+114444.  Beginner JavaScript Tutorial - 26 - Object Initializers.ahk
 https://www.youtube.com/watch?v=0TL5SRttIs0
 
-Beginner JavaScript Tutorial - 27 - Adding Methods to Our Objects.ahk
+114464.  Beginner JavaScript Tutorial - 27 - Adding Methods to Our Objects.ahk
 https://www.youtube.com/watch?v=6lQEtgFnZTY
 
-Beginner JavaScript Tutorial - 28 - Arrays.ahk
+114485.  Beginner JavaScript Tutorial - 28 - Arrays.ahk
 https://www.youtube.com/watch?v=nEvBcwlpkBQ
 
-Beginner JavaScript Tutorial - 29 - Other Ways to Create Arrays.ahk
+114507.  Beginner JavaScript Tutorial - 29 - Other Ways to Create Arrays.ahk
 https://www.youtube.com/watch?v=CSL9A8j5cAY
 
-Beginner JavaScript Tutorial - 3 - Variables.ahk
+114530.  Beginner JavaScript Tutorial - 3 - Variables.ahk
 https://www.youtube.com/watch?v=og4Zku5VVl0
 
-Beginner JavaScript Tutorial - 30 - Array Properties and Methods.ahk
+114554.  Beginner JavaScript Tutorial - 30 - Array Properties and Methods.ahk
 https://www.youtube.com/watch?v=PE5A0jLIxBg
 
-Beginner JavaScript Tutorial - 31 - join and pop.ahk
+114579.  Beginner JavaScript Tutorial - 31 - join and pop.ahk
 https://www.youtube.com/watch?v=rhnqA9kmFRE
 
-Beginner JavaScript Tutorial - 32 - reverse, push, sort.ahk
+114605.  Beginner JavaScript Tutorial - 32 - reverse, push, sort.ahk
 https://www.youtube.com/watch?v=Yl6PSgHPHF0
 
-Beginner JavaScript Tutorial - 33 - Add Array Elements Using a Loop.ahk
+114632.  Beginner JavaScript Tutorial - 33 - Add Array Elements Using a Loop.ahk
 https://www.youtube.com/watch?v=n6pCS-w1M3o
 
-Beginner JavaScript Tutorial - 34 - Cool Technique to Print Array Elements.ahk
+114660.  Beginner JavaScript Tutorial - 34 - Cool Technique to Print Array Elements.ahk
 https://www.youtube.com/watch?v=UH5QPYMFlIM
 
-Beginner JavaScript Tutorial - 35 - Associative Arrays.ahk
+114689.  Beginner JavaScript Tutorial - 35 - Associative Arrays.ahk
 https://www.youtube.com/watch?v=uTCyLN3iKeA
 
-Beginner JavaScript Tutorial - 36 - Math Objects.ahk
+114719.  Beginner JavaScript Tutorial - 36 - Math Objects.ahk
 https://www.youtube.com/watch?v=F30jLIqGQpo
 
-Beginner JavaScript Tutorial - 37 - Date Objects.ahk
+114750.  Beginner JavaScript Tutorial - 37 - Date Objects.ahk
 https://www.youtube.com/watch?v=Xhqvh52VsIo
 
-Beginner JavaScript Tutorial - 38 - Accessing Forms.ahk
+114782.  Beginner JavaScript Tutorial - 38 - Accessing Forms.ahk
 https://www.youtube.com/watch?v=IzkAi2QMp7Y
 
-Beginner JavaScript Tutorial - 39 - Accessing Form Elements.ahk
+114815.  Beginner JavaScript Tutorial - 39 - Accessing Form Elements.ahk
 https://www.youtube.com/watch?v=VvB4gDYhcgo
 
-Beginner JavaScript Tutorial - 4 - Different Types of Variables.ahk
+114849.  Beginner JavaScript Tutorial - 4 - Different Types of Variables.ahk
 https://www.youtube.com/watch?v=sY8qiSaAi9g
 
-Beginner JavaScript Tutorial - 40 - Simple Form Validation.ahk
+114884.  Beginner JavaScript Tutorial - 40 - Simple Form Validation.ahk
 https://www.youtube.com/watch?v=RzVURjrIFxo
 
-Beginner JavaScript Tutorial - 5 - Using Variables with Strings.ahk
+114920.  Beginner JavaScript Tutorial - 5 - Using Variables with Strings.ahk
 https://www.youtube.com/watch?v=QLpghQ2MMfs
 
-Beginner JavaScript Tutorial - 6 - Functions.ahk
+114957.  Beginner JavaScript Tutorial - 6 - Functions.ahk
 https://www.youtube.com/watch?v=5nuqALOHN1M
 
-Beginner JavaScript Tutorial - 7 - Using Parameters with Functions.ahk
+114995.  Beginner JavaScript Tutorial - 7 - Using Parameters with Functions.ahk
 https://www.youtube.com/watch?v=7i1f23AVsn4
 
-Beginner JavaScript Tutorial - 8 - Functions with Multiple Parameters.ahk
+115034.  Beginner JavaScript Tutorial - 8 - Functions with Multiple Parameters.ahk
 https://www.youtube.com/watch?v=BgtdojEoWFI
 
-Beginner JavaScript Tutorial - 9 - The return Statement.ahk
+115074.  Beginner JavaScript Tutorial - 9 - The return Statement.ahk
 https://www.youtube.com/watch?v=AdQcd3sKGC8
 JavaScript Tutorials Playlist

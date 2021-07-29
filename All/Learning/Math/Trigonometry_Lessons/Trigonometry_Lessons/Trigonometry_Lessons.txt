@@ -1,130 +1,130 @@
 
-Angle of elevation and depression word problems.ahk
+472221.  Angle of elevation and depression word problems.ahk
 https://www.youtube.com/watch?v=yxVmbjKbXwE&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Area of a square given the diagonal-Trigonometric Lesson.ahk
+472223.  Area of a square given the diagonal-Trigonometric Lesson.ahk
 https://www.youtube.com/watch?v=jTgSelRyz8g&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Basic Trigonometry- Angle measure from Cosine-Sine-Tangent.ahk
+472226.  Basic Trigonometry- Angle measure from Cosine-Sine-Tangent.ahk
 https://www.youtube.com/watch?v=FO1ftAA2M0c&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Basic Trigonometry- Ratios-Cosine,Sine,Tangent.ahk
+472230.  Basic Trigonometry- Ratios-Cosine,Sine,Tangent.ahk
 https://www.youtube.com/watch?v=ZQGXHmFnAbg&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Basic Trigonometry-Pythagorean Theorem and Right Triangles.ahk
+472235.  Basic Trigonometry-Pythagorean Theorem and Right Triangles.ahk
 https://www.youtube.com/watch?v=cdidiiXsRXs&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Composite Function Involving Inverse Trigonometric Function.ahk
+472241.  Composite Function Involving Inverse Trigonometric Function.ahk
 https://www.youtube.com/watch?v=GQqaqy4POe8&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Converting Degrees to Radians.ahk
+472248.  Converting Degrees to Radians.ahk
 https://www.youtube.com/watch?v=HX2hnok2W8s&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Converting Radian Measure to Degree Measure and Vice Versa.ahk
+472256.  Converting Radian Measure to Degree Measure and Vice Versa.ahk
 https://www.youtube.com/watch?v=Hlnzf06jzBo&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Double and Half Angle (Sound Improve).ahk
+472265.  Double and Half Angle (Sound Improve).ahk
 https://www.youtube.com/watch?v=xF0v970kSSk&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Double and Half Angle Identity.ahk
+472275.  Double and Half Angle Identity.ahk
 https://www.youtube.com/watch?v=arc2W6J0CYA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Exact Values of Circular Function.ahk
+472286.  Exact Values of Circular Function.ahk
 https://www.youtube.com/watch?v=p2L08d700YE&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Exact Values of Inverse Trigonometric Function.ahk
+472298.  Exact Values of Inverse Trigonometric Function.ahk
 https://www.youtube.com/watch?v=nwrNUsbriVA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Finding the angle measure of a right triangle using trig functions.ahk
+472311.  Finding the angle measure of a right triangle using trig functions.ahk
 https://www.youtube.com/watch?v=Jhb-IjnpRCM&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-How to simplify square roots.ahk
+472325.  How to simplify square roots.ahk
 https://www.youtube.com/watch?v=Z3CzRTcWweo&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Introduction to Inverse Trigonometric Function.ahk
+472340.  Introduction to Inverse Trigonometric Function.ahk
 https://www.youtube.com/watch?v=MvRSoOz1Hr4&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Introduction to the Trig Ratios and SOH CAH TOA.ahk
+472356.  Introduction to the Trig Ratios and SOH CAH TOA.ahk
 https://www.youtube.com/watch?v=V-YKJg2gGtQ&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Introduction to Trigonometric Identities.ahk
+472373.  Introduction to Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=FaU8hY0Gpvk&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Proving Trigonometric Identities.ahk
+472391.  Proving Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=qvRngRK0T_A&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Simplifying Trigonometric Expression using Identities.ahk
+472410.  Simplifying Trigonometric Expression using Identities.ahk
 https://www.youtube.com/watch?v=Mhv5Uw536ak&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Sin Cosine and Tangent-Basic Trigonometry.ahk
+472430.  Sin Cosine and Tangent-Basic Trigonometry.ahk
 https://www.youtube.com/watch?v=pbaXX-3RPtc&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Solving Problems Involving Circular Function.ahk
+472451.  Solving Problems Involving Circular Function.ahk
 https://www.youtube.com/watch?v=bWk1PdE4ObA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Solving Trigonometric Equations.ahk
+472473.  Solving Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=3IYxO0iEv24&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Sum and Difference Identity.ahk
+472496.  Sum and Difference Identity.ahk
 https://www.youtube.com/watch?v=siQu0Q1zIXo&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Trig ratio word problem-Geometry help-MooMooMath.ahk
+472520.  Trig ratio word problem-Geometry help-MooMooMath.ahk
 https://www.youtube.com/watch?v=02H0bdCKLms&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trig Ratios Word problems=Geometry Help-MooMooMath.ahk
+472545.  Trig Ratios Word problems=Geometry Help-MooMooMath.ahk
 https://www.youtube.com/watch?v=WZeIzfEFqyA&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trig Word Problems- Angle of Depression Problem.ahk
+472571.  Trig Word Problems- Angle of Depression Problem.ahk
 https://www.youtube.com/watch?v=xxcy_Djix-A&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometric Lesson 2-30 60 90 triangles part 2-Geometry Help-MooMooMath.ahk
+472598.  Trigonometric Lesson 2-30 60 90 triangles part 2-Geometry Help-MooMooMath.ahk
 https://www.youtube.com/watch?v=JrSWXPDPAi0&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 1 part 4 Simplifying Radicals-Geometry Help.ahk
+472626.  Trigonometry Lesson 1 part 4 Simplifying Radicals-Geometry Help.ahk
 https://www.youtube.com/watch?v=YQaQhJuKnKU&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 1 The Pythagorean Theorem.ahk
+472655.  Trigonometry Lesson 1 The Pythagorean Theorem.ahk
 https://www.youtube.com/watch?v=iHnq81RR_tA&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 3  45 45 90 Special Right Triangles.ahk
+472685.  Trigonometry Lesson 3  45 45 90 Special Right Triangles.ahk
 https://www.youtube.com/watch?v=9ZFCT4kCnoY&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 5 Trigonometry Review.ahk
+472716.  Trigonometry Lesson 5 Trigonometry Review.ahk
 https://www.youtube.com/watch?v=3TGX1trCunw&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 6  Sine Cosine Tangent.ahk
+472748.  Trigonometry Lesson 6  Sine Cosine Tangent.ahk
 https://www.youtube.com/watch?v=BTlg2f0Seow&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 7 Trigonometry Problems.ahk
+472781.  Trigonometry Lesson 7 Trigonometry Problems.ahk
 https://www.youtube.com/watch?v=oGnS4iolDYc&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson 8  Trig word problems.ahk
+472815.  Trigonometry Lesson 8  Trig word problems.ahk
 https://www.youtube.com/watch?v=sTIOWZdV__8&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-Trigonometry Lesson- 30 60 90 Special Right Triangles-Finding leg lengths.ahk
+472850.  Trigonometry Lesson- 30 60 90 Special Right Triangles-Finding leg lengths.ahk
 https://www.youtube.com/watch?v=WjkwK7tCeeI&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-trigonometry session 2.ahk
+472886.  trigonometry session 2.ahk
 https://www.youtube.com/watch?v=qBf52Usjs0Y&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-Trigonometry Session 3 - Trigonometrical Ratios of Standard Angles.ahk
+472923.  Trigonometry Session 3 - Trigonometrical Ratios of Standard Angles.ahk
 https://www.youtube.com/watch?v=6lPAIV5kctE&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-trigonometry session 7.ahk
+472961.  trigonometry session 7.ahk
 https://www.youtube.com/watch?v=8_PVEqhnlYk&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-Trigonometry Session 8.ahk
+473000.  Trigonometry Session 8.ahk
 https://www.youtube.com/watch?v=fPYQNKTwhM0&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-Trigonometry Session1.ahk
+473040.  Trigonometry Session1.ahk
 https://www.youtube.com/watch?v=VAGbcNw-t_w&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-trigonometry session6.ahk
+473081.  trigonometry session6.ahk
 https://www.youtube.com/watch?v=L3Hf1F6O7Fc&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-Understanding Angles in Rectangular Coordinate System.ahk
+473123.  Understanding Angles in Rectangular Coordinate System.ahk
 https://www.youtube.com/watch?v=9SgNdcAEnGs&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-Unit Circle.ahk
+473166.  Unit Circle.ahk
 https://www.youtube.com/watch?v=lvP9yhu-cZc&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 Trigonometry Lessons

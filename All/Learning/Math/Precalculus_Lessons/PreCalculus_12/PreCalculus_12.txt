@@ -1,310 +1,310 @@
 
-Math 12   Sec 13.4 The Rectangular Hyperbola.ahk
+405021.  Math 12   Sec 13.4 The Rectangular Hyperbola.ahk
 https://www.youtube.com/watch?v=s_17M5gWwrA
 
-Math 12   Sec 13.4 Writing the Equation of the Asymptotes and the Hyperbola.ahk
+405023.  Math 12   Sec 13.4 Writing the Equation of the Asymptotes and the Hyperbola.ahk
 https://www.youtube.com/watch?v=RWGRzLPqo84
 
-Math 12 - Sec 1.1 Horizontal and Vertical Translations.ahk
+405026.  Math 12 - Sec 1.1 Horizontal and Vertical Translations.ahk
 https://www.youtube.com/watch?v=KkbgzdlD43A
 
-Math 12 - Sec 1.2 Reflections.ahk
+405030.  Math 12 - Sec 1.2 Reflections.ahk
 https://www.youtube.com/watch?v=zS5HiTVTl4Y
 
-Math 12 - Sec 1.2 Stretches.ahk
+405035.  Math 12 - Sec 1.2 Stretches.ahk
 https://www.youtube.com/watch?v=6u1k6wXMp5s
 
-Math 12 - Sec 1.3 Combining Transformations.ahk
+405041.  Math 12 - Sec 1.3 Combining Transformations.ahk
 https://www.youtube.com/watch?v=lckW_cXqWPc
 
-Math 12 - Sec 1.4 Inverse of a Relation.ahk
+405048.  Math 12 - Sec 1.4 Inverse of a Relation.ahk
 https://www.youtube.com/watch?v=2YAdbQNz2y4
 
-Math 12 - Sec 1.5 Absolute Value.ahk
+405056.  Math 12 - Sec 1.5 Absolute Value.ahk
 https://www.youtube.com/watch?v=YLWtGMeQJFQ
 
-Math 12 - Sec 1.6 Reciprocal Functions.ahk
+405065.  Math 12 - Sec 1.6 Reciprocal Functions.ahk
 https://www.youtube.com/watch?v=zEdVXiVrBXo
 
-Math 12 - Sec 10.1 Sums and Differences of Functions.ahk
+405075.  Math 12 - Sec 10.1 Sums and Differences of Functions.ahk
 https://www.youtube.com/watch?v=hOgLxYD9bNY
 
-Math 12 - Sec 10.2 Products and Quotients of Functions.ahk
+405086.  Math 12 - Sec 10.2 Products and Quotients of Functions.ahk
 https://www.youtube.com/watch?v=ByzHtBcO5ak
 
-Math 12 - Sec 10.3 Composite Functions.ahk
+405098.  Math 12 - Sec 10.3 Composite Functions.ahk
 https://www.youtube.com/watch?v=QqPVrYFFQBo
 
-Math 12 - Sec 11.1 Fundamental Counting Principle (1134842).ahk
+405111.  Math 12 - Sec 11.1 Fundamental Counting Principle (1134842).ahk
 https://www.youtube.com/watch?v=De25cdL9LTw
 
-Math 12 - Sec 11.1 Fundamental Counting Principle.ahk
+405125.  Math 12 - Sec 11.1 Fundamental Counting Principle.ahk
 https://www.youtube.com/watch?v=elWnMRyIzno
 
-Math 12 - Sec 11.1 Permutations.ahk
+405140.  Math 12 - Sec 11.1 Permutations.ahk
 https://www.youtube.com/watch?v=Hq_R3F7VYpo
 
-Math 12 - Sec 11.2 Factorials and Permutations.ahk
+405156.  Math 12 - Sec 11.2 Factorials and Permutations.ahk
 https://www.youtube.com/watch?v=X-6MRX6j_Ts
 
-Math 12 - Sec 11.3 Group and Circular Permutations.ahk
+405173.  Math 12 - Sec 11.3 Group and Circular Permutations.ahk
 https://www.youtube.com/watch?v=xaerVDFkD4o
 
-Math 12 - Sec 11.4 Permutations of Identical Objects.ahk
+405191.  Math 12 - Sec 11.4 Permutations of Identical Objects.ahk
 https://www.youtube.com/watch?v=yZ58KwUlN2s
 
-Math 12 - Sec 11.5 Combinations.ahk
+405210.  Math 12 - Sec 11.5 Combinations.ahk
 https://www.youtube.com/watch?v=tUaTBVWGyxs
 
-Math 12 - Sec 11.6 Binomial Theorem.ahk
+405230.  Math 12 - Sec 11.6 Binomial Theorem.ahk
 https://www.youtube.com/watch?v=p3vD7wlu5YE
 
-Math 12 - Sec 11.6 Finding a Specific Term of a Binomial Expansion.ahk
+405251.  Math 12 - Sec 11.6 Finding a Specific Term of a Binomial Expansion.ahk
 https://www.youtube.com/watch?v=nB-IKh3bjSo
 
-Math 12 - Sec 11.6 Pathway Problems and Pascal's Triangle.ahk
+405273.  Math 12 - Sec 11.6 Pathway Problems and Pascal's Triangle.ahk
 https://www.youtube.com/watch?v=ZD_ngaTWLvc
 
-Math 12 - Sec 12.1 Probability and Sample Space.ahk
+405296.  Math 12 - Sec 12.1 Probability and Sample Space.ahk
 https://www.youtube.com/watch?v=x9rIvqMuMgU
 
-Math 12 - Sec 12.2 Compound Events.ahk
+405320.  Math 12 - Sec 12.2 Compound Events.ahk
 https://www.youtube.com/watch?v=e7gzSXYkF0U
 
-Math 12 - Sec 12.3 Probability Venn Diagrams (1690189).ahk
+405345.  Math 12 - Sec 12.3 Probability Venn Diagrams (1690189).ahk
 https://www.youtube.com/watch?v=Y2yGhuSIgrA
 
-Math 12 - Sec 12.3 Probability Venn Diagrams.ahk
+405371.  Math 12 - Sec 12.3 Probability Venn Diagrams.ahk
 https://www.youtube.com/watch?v=Y2yGhuSIgrA
 
-Math 12 - Sec 12.4 Probability and Combinatorics.ahk
+405398.  Math 12 - Sec 12.4 Probability and Combinatorics.ahk
 https://www.youtube.com/watch?v=3oh-hDA7DnM
 
-Math 12 - Sec 12.5 Conditional Probability.ahk
+405426.  Math 12 - Sec 12.5 Conditional Probability.ahk
 https://www.youtube.com/watch?v=YS7q_g92pFY
 
-Math 12 - Sec 12.6  Binomial Probabilities.ahk
+405455.  Math 12 - Sec 12.6  Binomial Probabilities.ahk
 https://www.youtube.com/watch?v=kSaaxWgwCnU
 
-Math 12 - Sec 13.1 Distance, Midpoint and Conic Sections (1858405).ahk
+405485.  Math 12 - Sec 13.1 Distance, Midpoint and Conic Sections (1858405).ahk
 https://www.youtube.com/watch?v=EF2qw-cFfog
 
-Math 12 - Sec 13.1 Distance, Midpoint and Conic Sections.ahk
+405516.  Math 12 - Sec 13.1 Distance, Midpoint and Conic Sections.ahk
 https://www.youtube.com/watch?v=EF2qw-cFfog
 
-Math 12 - Sec 13.2 The Circle.ahk
+405548.  Math 12 - Sec 13.2 The Circle.ahk
 https://www.youtube.com/watch?v=gASs3_YeHDk
 
-Math 12 - Sec 13.3 The Ellipse.ahk
+405581.  Math 12 - Sec 13.3 The Ellipse.ahk
 https://www.youtube.com/watch?v=TcSs6_kJ9wY
 
-Math 12 - Sec 13.4 The Hyperbola.ahk
+405615.  Math 12 - Sec 13.4 The Hyperbola.ahk
 https://www.youtube.com/watch?v=JYBM9W5Zqjg
 
-Math 12 - Sec 13.5 Application with a Parabola.ahk
+405650.  Math 12 - Sec 13.5 Application with a Parabola.ahk
 https://www.youtube.com/watch?v=GbHdA926n6Q
 
-Math 12 - Sec 13.5 The Parabola.ahk
+405686.  Math 12 - Sec 13.5 The Parabola.ahk
 https://www.youtube.com/watch?v=YhhnoKliiQY
 
-Math 12 - Sec 13.6 Applications of Conics.ahk
+405723.  Math 12 - Sec 13.6 Applications of Conics.ahk
 https://www.youtube.com/watch?v=umbAXVhl500
 
-Math 12 - Sec 2.1 Radical Functions.ahk
+405761.  Math 12 - Sec 2.1 Radical Functions.ahk
 https://www.youtube.com/watch?v=mXyWxa5OUNA
 
-Math 12 - Sec 2.2 Square Root of a Function Part 1.ahk
+405800.  Math 12 - Sec 2.2 Square Root of a Function Part 1.ahk
 https://www.youtube.com/watch?v=0VYCtnXn-q0
 
-Math 12 - Sec 2.2 Square Root of a Function Part 2.ahk
+405840.  Math 12 - Sec 2.2 Square Root of a Function Part 2.ahk
 https://www.youtube.com/watch?v=n_cgBM-xxCs
 
-Math 12 - Sec 2.3 Solving Radical Equations Graphically and Algebraically.ahk
+405881.  Math 12 - Sec 2.3 Solving Radical Equations Graphically and Algebraically.ahk
 https://www.youtube.com/watch?v=HVvMW1pFh2Y
 
-Math 12 - Sec 2.3 Solving Radical Equations Graphically.ahk
+405923.  Math 12 - Sec 2.3 Solving Radical Equations Graphically.ahk
 https://www.youtube.com/watch?v=G4EAYfvlJEE
 
-Math 12 - Sec 3.1 Polynomial Functions.ahk
+405966.  Math 12 - Sec 3.1 Polynomial Functions.ahk
 https://www.youtube.com/watch?v=WIamd7V_RPM
 
-Math 12 - Sec 3.2 Long Division Part 1.ahk
+406010.  Math 12 - Sec 3.2 Long Division Part 1.ahk
 https://www.youtube.com/watch?v=aPqUTNyVjaU
 
-Math 12 - Sec 3.2 Synthetic Division and Remainder Theorem Part 2.ahk
+406055.  Math 12 - Sec 3.2 Synthetic Division and Remainder Theorem Part 2.ahk
 https://www.youtube.com/watch?v=P98-L4KMgNY
 
-Math 12 - Sec 3.3 The Factor Theorem.ahk
+406101.  Math 12 - Sec 3.3 The Factor Theorem.ahk
 https://www.youtube.com/watch?v=dVcHddQEbPk
 
-Math 12 - Sec 3.4 Equations and Graphs of Polynomial Functions Part 1`.ahk
+406148.  Math 12 - Sec 3.4 Equations and Graphs of Polynomial Functions Part 1`.ahk
 https://www.youtube.com/watch?v=PAHbK_VTB0w
 
-Math 12 - Sec 3.4 Graphing Polynomial Functions (1931919).ahk
+406196.  Math 12 - Sec 3.4 Graphing Polynomial Functions (1931919).ahk
 https://www.youtube.com/watch?v=4yGzUhomxks
 
-Math 12 - Sec 3.4 Graphing Polynomial Functions.ahk
+406245.  Math 12 - Sec 3.4 Graphing Polynomial Functions.ahk
 https://www.youtube.com/watch?v=yfjl5GtTmZk
 
-Math 12 - Sec 3.4 Multiplicity Examples.ahk
+406295.  Math 12 - Sec 3.4 Multiplicity Examples.ahk
 https://www.youtube.com/watch?v=cMLCElWBGM0
 
-Math 12 - Sec 3.4 Solving Polynomial Equations.ahk
+406346.  Math 12 - Sec 3.4 Solving Polynomial Equations.ahk
 https://www.youtube.com/watch?v=9RzF-E4O-64
 
-Math 12 - Sec 3.4 Zero of Multiplicity and Writing Polynomial Equations.ahk
+406398.  Math 12 - Sec 3.4 Zero of Multiplicity and Writing Polynomial Equations.ahk
 https://www.youtube.com/watch?v=ioSShHzr6yg
 
-Math 12 - Sec 3.5 Polynomial Inequalities in One Variable.ahk
+406451.  Math 12 - Sec 3.5 Polynomial Inequalities in One Variable.ahk
 https://www.youtube.com/watch?v=EqTKI-ppvIQ
 
-Math 12 - Sec 4.1 Angles and Angular Measure.ahk
+406505.  Math 12 - Sec 4.1 Angles and Angular Measure.ahk
 https://www.youtube.com/watch?v=vzoFTY72VH4
 
-Math 12 - Sec 4.1 Coterminal Angles and Arc Length.ahk
+406560.  Math 12 - Sec 4.1 Coterminal Angles and Arc Length.ahk
 https://www.youtube.com/watch?v=VT-0Kw-pWRc
 
-Math 12 - Sec 4.2 The Unit Circle.ahk
+406616.  Math 12 - Sec 4.2 The Unit Circle.ahk
 https://www.youtube.com/watch?v=g-kJItGyolA
 
-Math 12 - Sec 4.3 Trigonometric Ratios Part 1.ahk
+406673.  Math 12 - Sec 4.3 Trigonometric Ratios Part 1.ahk
 https://www.youtube.com/watch?v=hTmrUVr0aqY
 
-Math 12 - Sec 4.3 Trigonometric Ratios Part 2.ahk
+406731.  Math 12 - Sec 4.3 Trigonometric Ratios Part 2.ahk
 https://www.youtube.com/watch?v=MnEb4h5cx_E
 
-Math 12 - Sec 4.4 General Solutions.ahk
+406790.  Math 12 - Sec 4.4 General Solutions.ahk
 https://www.youtube.com/watch?v=f1cwADrPohU
 
-Math 12 - Sec 4.4 Intro to Solving Trig Equations New.ahk
+406850.  Math 12 - Sec 4.4 Intro to Solving Trig Equations New.ahk
 https://www.youtube.com/watch?v=zfTofQVybXg
 
-Math 12 - Sec 4.4 Introduction to Trigonometric Equations.ahk
+406911.  Math 12 - Sec 4.4 Introduction to Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=zd5Bg3AKkLA
 
-Math 12 - Sec 4.4 Solving Second Degree Trig Equations.ahk
+406973.  Math 12 - Sec 4.4 Solving Second Degree Trig Equations.ahk
 https://www.youtube.com/watch?v=vwoBLdBPWdU
 
-Math 12 - Sec 5.1 Graphing Sine and Cosine Functions Part 1.ahk
+407036.  Math 12 - Sec 5.1 Graphing Sine and Cosine Functions Part 1.ahk
 https://www.youtube.com/watch?v=d7YNC8WA-vg
 
-Math 12 - Sec 5.1 Graphing Sine and Cosine Functions Part 2.ahk
+407100.  Math 12 - Sec 5.1 Graphing Sine and Cosine Functions Part 2.ahk
 https://www.youtube.com/watch?v=sK8o8VtXc4E
 
-Math 12 - Sec 5.4 Equations and Graphs of Trigonometric Functions.ahk
+407165.  Math 12 - Sec 5.4 Equations and Graphs of Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=JdPXWmzupt4
 
-Math 12 - Sec 5.4 The Tangent Function Example.ahk
+407231.  Math 12 - Sec 5.4 The Tangent Function Example.ahk
 https://www.youtube.com/watch?v=k2Dg3wXgJzE
 
-Math 12 - Sec 5.4 The Tangent Function.ahk
+407298.  Math 12 - Sec 5.4 The Tangent Function.ahk
 https://www.youtube.com/watch?v=l6J272vWUuo
 
-Math 12 - Sec 5.5 Graphing Reciprocal Trig Functions.ahk
+407366.  Math 12 - Sec 5.5 Graphing Reciprocal Trig Functions.ahk
 https://www.youtube.com/watch?v=OEYumzlxzNo
 
-Math 12 - Sec 6 1 Proving Identity Examples with Reciprocal, Quotient and Pythagorean Identities.ahk
+407435.  Math 12 - Sec 6 1 Proving Identity Examples with Reciprocal, Quotient and Pythagorean Identities.ahk
 https://www.youtube.com/watch?v=ZC14YY8lCoo
 
-Math 12 - Sec 6.1 Reciprocal, Quotient and Pythagorean Identities New.ahk
+407505.  Math 12 - Sec 6.1 Reciprocal, Quotient and Pythagorean Identities New.ahk
 https://www.youtube.com/watch?v=B88617DUfO0
 
-Math 12 - Sec 6.1 Reciprocal, Quotient and Pythagorean Identities.ahk
+407576.  Math 12 - Sec 6.1 Reciprocal, Quotient and Pythagorean Identities.ahk
 https://www.youtube.com/watch?v=fpoczStlR38
 
-Math 12 - Sec 6.2 Sum, Difference, and Double-Angle Identities.ahk
+407648.  Math 12 - Sec 6.2 Sum, Difference, and Double-Angle Identities.ahk
 https://www.youtube.com/watch?v=_0coryJLYfE
 
-Math 12 - Sec 6.3 Proving Identities.ahk
+407721.  Math 12 - Sec 6.3 Proving Identities.ahk
 https://www.youtube.com/watch?v=4ECyxVxuZvQ
 
-Math 12 - Sec 6.4 Solving Trigonometric Equations using Identities.ahk
+407795.  Math 12 - Sec 6.4 Solving Trigonometric Equations using Identities.ahk
 https://www.youtube.com/watch?v=6I_PclCLy7A
 
-Math 12 - Sec 7.1 Characterisics of Exponential Functions.ahk
+407870.  Math 12 - Sec 7.1 Characterisics of Exponential Functions.ahk
 https://www.youtube.com/watch?v=-HYXeeUXH3M
 
-Math 12 - Sec 7.2 Transformations of Exponential Functions.ahk
+407946.  Math 12 - Sec 7.2 Transformations of Exponential Functions.ahk
 https://www.youtube.com/watch?v=n8OS_NA5yWc
 
-Math 12 - Sec 7.3 Solving Exponential Equations.ahk
+408023.  Math 12 - Sec 7.3 Solving Exponential Equations.ahk
 https://www.youtube.com/watch?v=yCK9wPe7XTc
 
-Math 12 - Sec 7.3 Solving Growth and Decay Problems with a common base and Compound Interest.ahk
+408101.  Math 12 - Sec 7.3 Solving Growth and Decay Problems with a common base and Compound Interest.ahk
 https://www.youtube.com/watch?v=lchV0Byblos
 
-Math 12 - Sec 8.1 Understanding Logarithmic Graphs Part 1.ahk
+408180.  Math 12 - Sec 8.1 Understanding Logarithmic Graphs Part 1.ahk
 https://www.youtube.com/watch?v=P72_CV9NoTA
 
-Math 12 - Sec 8.1 Understanding Logarithmic Graphs Part 2.ahk
+408260.  Math 12 - Sec 8.1 Understanding Logarithmic Graphs Part 2.ahk
 https://www.youtube.com/watch?v=aTYeYVlxeto
 
-Math 12 - Sec 8.1 Understanding Logarithms Part 1.ahk
+408341.  Math 12 - Sec 8.1 Understanding Logarithms Part 1.ahk
 https://www.youtube.com/watch?v=JHUEe5_msgU
 
-Math 12 - Sec 8.1 Understanding Logarithms Part 2.ahk
+408423.  Math 12 - Sec 8.1 Understanding Logarithms Part 2.ahk
 https://www.youtube.com/watch?v=UV9bfNAeQIY
 
-Math 12 - Sec 8.2 Inverse and Common Log Applications.ahk
+408506.  Math 12 - Sec 8.2 Inverse and Common Log Applications.ahk
 https://www.youtube.com/watch?v=eIAMbmGZaWw
 
-Math 12 - Sec 8.2 Understanding Logarithms.ahk
+408590.  Math 12 - Sec 8.2 Understanding Logarithms.ahk
 https://www.youtube.com/watch?v=yECzpYRAlMs
 
-Math 12 - Sec 8.3 Laws of Logarithms Part 1 (1537303).ahk
+408675.  Math 12 - Sec 8.3 Laws of Logarithms Part 1 (1537303).ahk
 https://www.youtube.com/watch?v=EkYiS_LYA6k
 
-Math 12 - Sec 8.3 Laws of Logarithms Part 1.ahk
+408761.  Math 12 - Sec 8.3 Laws of Logarithms Part 1.ahk
 https://www.youtube.com/watch?v=_YFZ2aAaTu8
 
-Math 12 - Sec 8.3 Laws of Logarithms Part 2 (1315996).ahk
+408848.  Math 12 - Sec 8.3 Laws of Logarithms Part 2 (1315996).ahk
 https://www.youtube.com/watch?v=gRdvTenNN_4
 
-Math 12 - Sec 8.3 Laws of Logarithms Part 2.ahk
+408936.  Math 12 - Sec 8.3 Laws of Logarithms Part 2.ahk
 https://www.youtube.com/watch?v=elgGZeON84k
 
-Math 12 - Sec 8.3 Laws of Logarithms Part 3.ahk
+409025.  Math 12 - Sec 8.3 Laws of Logarithms Part 3.ahk
 https://www.youtube.com/watch?v=uZc44NLdo0A
 
-Math 12 - Sec 8.4 Change of Base Property.ahk
+409115.  Math 12 - Sec 8.4 Change of Base Property.ahk
 https://www.youtube.com/watch?v=DwmjbQcijRU
 
-Math 12 - Sec 8.4 Solving Exponential Equations and Applications.ahk
+409206.  Math 12 - Sec 8.4 Solving Exponential Equations and Applications.ahk
 https://www.youtube.com/watch?v=22r3q1n28i8
 
-Math 12 - Sec 8.4 Solving Exponential Equations.ahk
+409298.  Math 12 - Sec 8.4 Solving Exponential Equations.ahk
 https://www.youtube.com/watch?v=sVt-3C9piVM
 
-Math 12 - Sec 8.4 Solving Logarithmic Equations (1089892).ahk
+409391.  Math 12 - Sec 8.4 Solving Logarithmic Equations (1089892).ahk
 https://www.youtube.com/watch?v=NBO-KSMwMqk
 
-Math 12 - Sec 8.4 Solving Logarithmic Equations.ahk
+409485.  Math 12 - Sec 8.4 Solving Logarithmic Equations.ahk
 https://www.youtube.com/watch?v=13__hUlh37w
 
-Math 12 - Sec 8.5 Continuous Exponential Growth and Decay.ahk
+409580.  Math 12 - Sec 8.5 Continuous Exponential Growth and Decay.ahk
 https://www.youtube.com/watch?v=1U8W3tHw3os
 
-Math 12 - Sec 9.1 Comparing Rational Functions 4.ahk
+409676.  Math 12 - Sec 9.1 Comparing Rational Functions 4.ahk
 https://www.youtube.com/watch?v=nq64AQw9K4g
 
-Math 12 - Sec 9.1 Graphing Rational Functions Part 1.ahk
+409773.  Math 12 - Sec 9.1 Graphing Rational Functions Part 1.ahk
 https://www.youtube.com/watch?v=odV9qNct8y8
 
-Math 12 - Sec 9.1 Graphing Rational Functions using Transformations.ahk
+409871.  Math 12 - Sec 9.1 Graphing Rational Functions using Transformations.ahk
 https://www.youtube.com/watch?v=JZ-ncPv_x-o
 
-Math 12 - Sec 9.1 Graphing Rational Functions with Linear Numerator and Denominator 3.ahk
+409970.  Math 12 - Sec 9.1 Graphing Rational Functions with Linear Numerator and Denominator 3.ahk
 https://www.youtube.com/watch?v=m35T-S9UtvE
 
-Math 12 - Sec 9.2 Non-permissble Values.ahk
+410070.  Math 12 - Sec 9.2 Non-permissble Values.ahk
 https://www.youtube.com/watch?v=5zrrJxece90
 
-Math 12 - Sec 9.2 Point of Discontinuity.ahk
+410171.  Math 12 - Sec 9.2 Point of Discontinuity.ahk
 https://www.youtube.com/watch?v=aFDB08mCXy8
 
-Math 12 - Sec 9.3 Solving Rational Equations.ahk
+410273.  Math 12 - Sec 9.3 Solving Rational Equations.ahk
 https://www.youtube.com/watch?v=L8LhRWi37To
 
-Math 12 Sec 7.1 Characteristics of Exponential Functions.ahk
+410376.  Math 12 Sec 7.1 Characteristics of Exponential Functions.ahk
 https://www.youtube.com/watch?v=2ci29ElPXeA
 PreCalculus 12

@@ -1,199 +1,199 @@
 
-01. Introduction to JavaScript Web Series  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21839.  01. Introduction to JavaScript Web Series  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=mtBS_G4JCsY
 
-02. What is JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21841.  02. What is JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=3LNsmx95W7Y
 
-03. Why to Learn JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21844.  03. Why to Learn JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=j3XmZCFbFMI
 
-04. Environment Setup for JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21848.  04. Environment Setup for JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=X_mtJPx7-Mc
 
-05. JavaScript Basics  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21853.  05. JavaScript Basics  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=VV0dJCtyg_o
 
-06. JavaScript Variable Declarations  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21859.  06. JavaScript Variable Declarations  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=PsMBZkpZMlg
 
-07. Rules for Declaring Variables  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21866.  07. Rules for Declaring Variables  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=sTip9sE0wSg
 
-08. Data Types in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21874.  08. Data Types in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=_2cOw_yCtNk
 
-09. Operators in JavaScript Part 1  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21883.  09. Operators in JavaScript Part 1  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=P8hHZsabOqE
 
-10. Operators in JavaScript Part 2  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21893.  10. Operators in JavaScript Part 2  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=AsSw4GiOfGU
 
-11. Conditional Statements (If-Else) in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21904.  11. Conditional Statements (If-Else) in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=AsSw4GiOfGU
 
-12. Conditional Statements (Switch) in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21916.  12. Conditional Statements (Switch) in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=AsSw4GiOfGU
 
-13. JavaScript For-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21929.  13. JavaScript For-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=0SfJDuwzHCw
 
-14. JavaScript While-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21943.  14. JavaScript While-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=W89p7qZ61M4
 
-15. JavaScript Do-While-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21958.  15. JavaScript Do-While-Loop Examples  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=4QYa8r-Rugg
 
-16. Objects Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21974.  16. Objects Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=17WdrLwm-VI
 
-17. Arrays Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+21991.  17. Arrays Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=4IvsxWOy6BU
 
-18. Intro to Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22009.  18. Intro to Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=wAvzm5MFOWY
 
-19. Simple Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22028.  19. Simple Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=-w_3b37N5Mo
 
-20. Complex Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22048.  20. Complex Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=HyHWUX1v3No
 
-21. Chicken Curry With Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22069.  21. Chicken Curry With Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=w6ZKP7gnYls
 
-22. Built in Array Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22091.  22. Built in Array Functions in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=Vn0u0FFCCkk
 
-23. Math Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22114.  23. Math Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=2AIHKNKJbkQ
 
-24. Date Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22138.  24. Date Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=U4nhxFxzZJg
 
-25. Number , String , JSON Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22163.  25. Number , String , JSON Object in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=U4nhxFxzZJg
 
-26. JavaScript Coding Questions Part 1  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22189.  26. JavaScript Coding Questions Part 1  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=CLa-V2fPq64
 
-27. JavaScript Coding Questions Part 2  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22216.  27. JavaScript Coding Questions Part 2  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=5hkoJl8vBzo
 
-28. DOM Manipulation Introduction in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22244.  28. DOM Manipulation Introduction in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=5hkoJl8vBzo
 
-29. DOM Events Handling in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22273.  29. DOM Events Handling in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=6Qwcdp1QDdE
 
-30. DOM Events Listeners in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22303.  30. DOM Events Listeners in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=QIeFcLreXRg
 
-31. DOM Keyup Event in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22334.  31. DOM Keyup Event in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=giCkFe9Jc-M
 
-32. DOM Change Event in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22366.  32. DOM Change Event in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=6iVsIkPtglI
 
-33. DOM Change Password on check in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22399.  33. DOM Change Password on check in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=hNQW5u1vG4E
 
-34. DOM Range Select on Amount in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22433.  34. DOM Range Select on Amount in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=1-8Ni6nhhQo
 
-35. SMS App using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22468.  35. SMS App using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=g4M_60Ivy5Y
 
-36. Digital Watches using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22504.  36. Digital Watches using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-37. Math Table Part 1 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22541.  37. Math Table Part 1 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-38. Math Table Part 2 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22579.  38. Math Table Part 2 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-39. Stop Watch Part 1 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22618.  39. Stop Watch Part 1 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-40. Stop Watch Part 2 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22658.  40. Stop Watch Part 2 using JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-41. Form Validation Part 1 of JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22699.  41. Form Validation Part 1 of JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-42. Form Validation Part 2 JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22741.  42. Form Validation Part 2 JS DOM in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=rIl0KFdeHG8
 
-43. Local Storage Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22784.  43. Local Storage Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=w2ISE5sj8i8
 
-44. Session Storage Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22828.  44. Session Storage Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=5_fkWaTDEsA
 
-45. Task List App 1- Local Storage in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22873.  45. Task List App 1- Local Storage in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=5_fkWaTDEsA
 
-46. Task List App 2 - Local Storage in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22919.  46. Task List App 2 - Local Storage in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=5_fkWaTDEsA
 
-47. Scopes Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+22966.  47. Scopes Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=kWHM5RS060I
 
-48. ES6 Template Strings Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23014.  48. ES6 Template Strings Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=-T_U9jeV26g
 
-49. ES6 Optional Parameters Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23063.  49. ES6 Optional Parameters Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=-T_U9jeV26g
 
-50. ES6 Arrow Functions Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23113.  50. ES6 Arrow Functions Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=SOI_NT2h2cA
 
-51. ES6 For-Of Loops Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23164.  51. ES6 For-Of Loops Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=qgRkUlzBeJ4
 
-52. ES6 Destructuring Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23216.  52. ES6 Destructuring Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=b04C6jKkZdY
 
-53. ES6 Spread Operator Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23269.  53. ES6 Spread Operator Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=LyekIizqzYU
 
-54. Object Oriented Classes Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23323.  54. Object Oriented Classes Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=LyekIizqzYU
 
-55. Sub-Classes , Inheritance in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23378.  55. Sub-Classes , Inheritance in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=b-AOd4yZScw
 
-56. Object Oriented Modules Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23434.  56. Object Oriented Modules Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=b-AOd4yZScw
 
-57. setInterval() , setTimeOut() , clearInterval()  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23491.  57. setInterval() , setTimeOut() , clearInterval()  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=b-AOd4yZScw
 
-58. Asynchronous JavaScript Programming  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23549.  58. Asynchronous JavaScript Programming  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=IrGNyWOBzNc
 
-59. Callback Functions Concept JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23608.  59. Callback Functions Concept JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=UFYzCFoYhWA
 
-60. Real Time use of Callback Functions JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23668.  60. Real Time use of Callback Functions JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=UFYzCFoYhWA
 
-61. Promises Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23729.  61. Promises Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=l4Xtg15ptz8
 
-62. Dependent Promises Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23791.  62. Dependent Promises Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=n_EtjbrZWOA
 
-63. Real Time Use of Promises in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23854.  63. Real Time Use of Promises in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=eN4TUi-aXpI
 
-64. ES8 Async Await Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23918.  64. ES8 Async Await Concept in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=h-S2fSE3Mjk
 
-65. Image Upload Part 1 in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+23983.  65. Image Upload Part 1 in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=27CUVFkuf2o
 
-66. Image Upload Part 2 in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
+24049.  66. Image Upload Part 2 in JavaScript  javascript tutorial  UiBrains  NAVEEN SAGGAM.ahk
 https://www.youtube.com/watch?v=pypSdhxsues
 JavaScript Tutorial for Beginners & professionals  2020  UiBrains  NAVEEN SAGGAM

@@ -1,10 +1,10 @@
 
-All Bandcamp Songs
+1.  All Bandcamp Songs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Baba_Brinkman/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
 
-Bandcamp Albums
+2.  Bandcamp Albums
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Baba_Brinkman/Bandcamp_Albums/Bandcamp_Albums.txt
 
-Testing
+3.  Testing
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Baba_Brinkman/Testing/Testing.txt
 Baba Brinkman

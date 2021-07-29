@@ -1,136 +1,136 @@
 
-PHP Regular Expression Tutorial - Start of line match and multiline mode.ahk
+121710.  PHP Regular Expression Tutorial - Start of line match and multiline mode.ahk
 https://www.youtube.com/watch?v=EYVBHOuEOJo
 
-PHP Regular Expressions Tutorial + quantifier.ahk
+121712.  PHP Regular Expressions Tutorial + quantifier.ahk
 https://www.youtube.com/watch?v=mE3tN3HLLFY
 
-PHP Regular Expressions Tutorial -   quantifier and default greedy nature.ahk
+121715.  PHP Regular Expressions Tutorial -   quantifier and default greedy nature.ahk
 https://www.youtube.com/watch?v=gJaNgwZkBKE
 
-PHP Regular Expressions Tutorial - A permanent start of string match.ahk
+121719.  PHP Regular Expressions Tutorial - A permanent start of string match.ahk
 https://www.youtube.com/watch?v=WWeZ0aLI82w
 
-PHP Regular Expressions Tutorial - Alternation - limit the scope with parentheses.ahk
+121724.  PHP Regular Expressions Tutorial - Alternation - limit the scope with parentheses.ahk
 https://www.youtube.com/watch?v=_fQxOMJh1BQ
 
-PHP Regular Expressions Tutorial - Alternation along with start of string.ahk
+121730.  PHP Regular Expressions Tutorial - Alternation along with start of string.ahk
 https://www.youtube.com/watch?v=WeHRL6tl7qs
 
-PHP Regular Expressions Tutorial - Alternation introduction.ahk
+121737.  PHP Regular Expressions Tutorial - Alternation introduction.ahk
 https://www.youtube.com/watch?v=AOuxvZeiudQ
 
-PHP Regular Expressions Tutorial - Anchor $ exceptional behavior.ahk
+121745.  PHP Regular Expressions Tutorial - Anchor $ exceptional behavior.ahk
 https://www.youtube.com/watch?v=GkJl1ofQWZ8
 
-PHP Regular Expressions Tutorial - Anchor $ multiline mode.ahk
+121754.  PHP Regular Expressions Tutorial - Anchor $ multiline mode.ahk
 https://www.youtube.com/watch?v=UdS3tVZZ0VU
 
-PHP Regular Expressions Tutorial - Anchor $ normal behavior.ahk
+121764.  PHP Regular Expressions Tutorial - Anchor $ normal behavior.ahk
 https://www.youtube.com/watch?v=NyfAHlRYMiI
 
-PHP Regular Expressions Tutorial - B Non word boundary.ahk
+121775.  PHP Regular Expressions Tutorial - B Non word boundary.ahk
 https://www.youtube.com/watch?v=IimxLMQpDn0
 
-PHP Regular Expressions Tutorial - Character classes or Character sets basics.ahk
+121787.  PHP Regular Expressions Tutorial - Character classes or Character sets basics.ahk
 https://www.youtube.com/watch?v=tmjZHl9Qo3Y
 
-PHP Regular Expressions Tutorial - d and D character class shorthand.ahk
+121800.  PHP Regular Expressions Tutorial - d and D character class shorthand.ahk
 https://www.youtube.com/watch?v=ZUX8jFtyzyQ
 
-PHP Regular Expressions Tutorial - Define Range inside Character class.ahk
+121814.  PHP Regular Expressions Tutorial - Define Range inside Character class.ahk
 https://www.youtube.com/watch?v=_CtODLqhCbQ
 
-PHP Regular Expressions Tutorial - Dot - match any character.ahk
+121829.  PHP Regular Expressions Tutorial - Dot - match any character.ahk
 https://www.youtube.com/watch?v=g7zMCvqAp1Q
 
-PHP Regular Expressions Tutorial - Dot is not a metacharacter inside character class.ahk
+121845.  PHP Regular Expressions Tutorial - Dot is not a metacharacter inside character class.ahk
 https://www.youtube.com/watch?v=61RcSnScr_k
 
-PHP Regular Expressions Tutorial - Empty Alternative.ahk
+121862.  PHP Regular Expressions Tutorial - Empty Alternative.ahk
 https://www.youtube.com/watch?v=2HU4-CyPu1Q
 
-PHP Regular Expressions Tutorial - Greedy behavior of + quantifier.ahk
+121880.  PHP Regular Expressions Tutorial - Greedy behavior of + quantifier.ahk
 https://www.youtube.com/watch?v=lZbOUKd4YM0
 
-PHP Regular Expressions Tutorial - Greedy behavior of optional item .ahk
+121899.  PHP Regular Expressions Tutorial - Greedy behavior of optional item .ahk
 https://www.youtube.com/watch?v=PvyF_bedIJk
 
-PHP Regular Expressions Tutorial - How to group optional items.ahk
+121919.  PHP Regular Expressions Tutorial - How to group optional items.ahk
 https://www.youtube.com/watch?v=R08fQGhYS4k
 
-PHP Regular Expressions Tutorial - How to make + lazy.ahk
+121940.  PHP Regular Expressions Tutorial - How to make + lazy.ahk
 https://www.youtube.com/watch?v=DZl4ASwqVEg
 
-PHP Regular Expressions Tutorial - How to match new line.ahk
+121962.  PHP Regular Expressions Tutorial - How to match new line.ahk
 https://www.youtube.com/watch?v=5iKabG8etN0
 
-PHP Regular Expressions Tutorial - lazy quantifier .ahk
+121985.  PHP Regular Expressions Tutorial - lazy quantifier .ahk
 https://www.youtube.com/watch?v=tFRTX3OJkRA
 
-PHP Regular Expressions Tutorial - Leftmost match always wins.ahk
+122009.  PHP Regular Expressions Tutorial - Leftmost match always wins.ahk
 https://www.youtube.com/watch?v=EKWn6Yg5Lkw
 
-PHP Regular Expressions Tutorial - Literal characters match.ahk
+122034.  PHP Regular Expressions Tutorial - Literal characters match.ahk
 https://www.youtube.com/watch?v=xBr2kWPp9Ok
 
-PHP Regular Expressions Tutorial - Metacharacters Escaping.ahk
+122060.  PHP Regular Expressions Tutorial - Metacharacters Escaping.ahk
 https://www.youtube.com/watch?v=akq8HkV4N0I
 
-PHP Regular Expressions Tutorial - misuses of greediness.ahk
+122087.  PHP Regular Expressions Tutorial - misuses of greediness.ahk
 https://www.youtube.com/watch?v=Slzdl_D38Ug
 
-PHP Regular Expressions Tutorial - Negated character class.ahk
+122115.  PHP Regular Expressions Tutorial - Negated character class.ahk
 https://www.youtube.com/watch?v=X0kyBsujp_w
 
-PHP Regular Expressions Tutorial - Optional items.ahk
+122144.  PHP Regular Expressions Tutorial - Optional items.ahk
 https://www.youtube.com/watch?v=Dau9xTyvWdc
 
-PHP Regular Expressions Tutorial - Positioning and meaning of dash(-) inside character class.ahk
+122174.  PHP Regular Expressions Tutorial - Positioning and meaning of dash(-) inside character class.ahk
 https://www.youtube.com/watch?v=gTOvKsbalk4
 
-PHP Regular Expressions Tutorial - Postioning and meaning of caret (^) inside character class.ahk
+122205.  PHP Regular Expressions Tutorial - Postioning and meaning of caret (^) inside character class.ahk
 https://www.youtube.com/watch?v=jAUl-XERT9A
 
-PHP Regular Expressions Tutorial - s and S character class shorthand.ahk
+122237.  PHP Regular Expressions Tutorial - s and S character class shorthand.ahk
 https://www.youtube.com/watch?v=KULCkbVn5JY
 
-PHP Regular Expressions Tutorial - s pattern modifier - dot matches all characters.ahk
+122270.  PHP Regular Expressions Tutorial - s pattern modifier - dot matches all characters.ahk
 https://www.youtube.com/watch?v=QkhqzE5NpS0
 
-PHP Regular Expressions Tutorial - w and W character class shorthand.ahk
+122304.  PHP Regular Expressions Tutorial - w and W character class shorthand.ahk
 https://www.youtube.com/watch?v=W4nxidXM7Ac
 
-PHP Regular Expressions Tutorial - Word boundaries b.ahk
+122339.  PHP Regular Expressions Tutorial - Word boundaries b.ahk
 https://www.youtube.com/watch?v=XGYaSDRA09A
 
-PHP Regular Expressions Tutorial - z comparison with Z and $.ahk
+122375.  PHP Regular Expressions Tutorial - z comparison with Z and $.ahk
 https://www.youtube.com/watch?v=3iat2eC_2kk
 
-PHP Regular Expressions Tutorial - Z end of string exceptional behavior.ahk
+122412.  PHP Regular Expressions Tutorial - Z end of string exceptional behavior.ahk
 https://www.youtube.com/watch?v=Uf5GHYdFMq4
 
-PHP Regular Expressions Tutorial - Z end of string normal behavior.ahk
+122450.  PHP Regular Expressions Tutorial - Z end of string normal behavior.ahk
 https://www.youtube.com/watch?v=fXJQOU3_gKM
 
-PHP Regular Expressions Tutorial - ^ anchor - match start of string.ahk
+122489.  PHP Regular Expressions Tutorial - ^ anchor - match start of string.ahk
 https://www.youtube.com/watch?v=RO4hnfyMlas
 
-PHP Regular Expressions Tutorial - {a,b} counting quantifier.ahk
+122529.  PHP Regular Expressions Tutorial - {a,b} counting quantifier.ahk
 https://www.youtube.com/watch?v=cfAeESD5gas
 
-PHP Regular Expressions Tutorial - {a,b} Lazy counting quantifier.ahk
+122570.  PHP Regular Expressions Tutorial - {a,b} Lazy counting quantifier.ahk
 https://www.youtube.com/watch?v=Wjx_Xkiy_I8
 
-PHP Regular Expressions Tutorials - How to make optional item lazy.ahk
+122612.  PHP Regular Expressions Tutorials - How to make optional item lazy.ahk
 https://www.youtube.com/watch?v=ttrdkR_gO4A
 
-PHPJavascript Regular Expressions - IPv4 address validation part1.ahk
+122655.  PHPJavascript Regular Expressions - IPv4 address validation part1.ahk
 https://www.youtube.com/watch?v=9iQZGikOuxI
 
-Regular Expressions Tutorial - What is Regular Expression.ahk
+122699.  Regular Expressions Tutorial - What is Regular Expression.ahk
 https://www.youtube.com/watch?v=xHVmwx0fCbI
 
-Regular Expressions Tutorial - Word boundary count puzzle.ahk
+122744.  Regular Expressions Tutorial - Word boundary count puzzle.ahk
 https://www.youtube.com/watch?v=MCKIwT31Kdk
 PHP Regex Regular Expressions Tutorial

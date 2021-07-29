@@ -1,28 +1,28 @@
 
-College Humor
+1.  College Humor
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/College_Humor/College_Humor.txt
 
-Corbettreport
+2.  Corbettreport
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Corbettreport/Corbettreport.txt
 
-Cyanide & Happiness
+3.  Cyanide & Happiness
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Cyanide_&_Happiness/Cyanide_&_Happiness.txt
 
-Epic Rap Battles of History
+4.  Epic Rap Battles of History
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Epic_Rap_Battles_of_History/Epic_Rap_Battles_of_History.txt
 
-Fail Army
+5.  Fail Army
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Fail_Army/Fail_Army.txt
 
-RayWilliamJohnson
+6.  RayWilliamJohnson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/RayWilliamJohnson/RayWilliamJohnson.txt
 
-The Lonely Island
+7.  The Lonely Island
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/The_Lonely_Island/The_Lonely_Island.txt
 
-Tobuscus
+8.  Tobuscus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Tobuscus/Tobuscus.txt
 
-Youtube Channels
+9.  Youtube Channels
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Youtube_Channels/Youtube_Channels.txt
 Comedy

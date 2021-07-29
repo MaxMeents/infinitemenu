@@ -1,733 +1,733 @@
 
-.ahk
+101159.  .ahk
 https://en.wikipedia.org/wiki/File:Night_Spice_market_in_Casablanca.JPG
 
-Abelmoschus moschatus.ahk
+101161.  Abelmoschus moschatus.ahk
 https://en.wikipedia.org/wiki/Abelmoschus_moschatus
 
-Achillea millefolium.ahk
+101164.  Achillea millefolium.ahk
 https://en.wikipedia.org/wiki/Achillea_millefolium
 
-Afghanistan.ahk
+101168.  Afghanistan.ahk
 https://en.wikipedia.org/wiki/Afghan_cuisine
 
-Aframomum corrorima.ahk
+101173.  Aframomum corrorima.ahk
 https://en.wikipedia.org/wiki/Aframomum_corrorima
 
-Ajwain.ahk
+101179.  Ajwain.ahk
 https://en.wikipedia.org/wiki/Ajwain
 
-Alexanders.ahk
+101186.  Alexanders.ahk
 https://en.wikipedia.org/wiki/Alexanders
 
-Alkanna tinctoria.ahk
+101194.  Alkanna tinctoria.ahk
 https://en.wikipedia.org/wiki/Alkanna_tinctoria
 
-Alligator pepper.ahk
+101203.  Alligator pepper.ahk
 https://en.wikipedia.org/wiki/Alligator_pepper
 
-Allspice.ahk
+101213.  Allspice.ahk
 https://en.wikipedia.org/wiki/Allspice
 
-Alpinia galanga.ahk
+101224.  Alpinia galanga.ahk
 https://en.wikipedia.org/wiki/Alpinia_galanga
 
-Ancient Greek cuisine.ahk
+101236.  Ancient Greek cuisine.ahk
 https://en.wikipedia.org/wiki/Ancient_Greek_cuisine
 
-Ancient Roman cuisine.ahk
+101249.  Ancient Roman cuisine.ahk
 https://en.wikipedia.org/wiki/Ancient_Roman_cuisine
 
-Angelica.ahk
+101263.  Angelica.ahk
 https://en.wikipedia.org/wiki/Angelica
 
-Anise.ahk
+101278.  Anise.ahk
 https://en.wikipedia.org/wiki/Anise
 
-Annatto.ahk
+101294.  Annatto.ahk
 https://en.wikipedia.org/wiki/Annatto
 
-aperitifs.ahk
+101311.  aperitifs.ahk
 https://en.wikipedia.org/wiki/Aperitif
 
-Artemisia absinthium.ahk
+101329.  Artemisia absinthium.ahk
 https://en.wikipedia.org/wiki/Artemisia_absinthium
 
-Artemisia.ahk
+101348.  Artemisia.ahk
 https://en.wikipedia.org/wiki/Artemisia_(genus)
 
-Asafoetida.ahk
+101368.  Asafoetida.ahk
 https://en.wikipedia.org/wiki/Asafoetida
 
-Australia.ahk
+101389.  Australia.ahk
 https://en.wikipedia.org/wiki/Australian_cuisine
 
-Avocado.ahk
+101411.  Avocado.ahk
 https://en.wikipedia.org/wiki/Avocado
 
-Backhousia citriodora.ahk
+101434.  Backhousia citriodora.ahk
 https://en.wikipedia.org/wiki/Backhousia_citriodora
 
-Backhousia myrtifolia.ahk
+101458.  Backhousia myrtifolia.ahk
 https://en.wikipedia.org/wiki/Backhousia_myrtifolia
 
-Bali.ahk
+101483.  Bali.ahk
 https://en.wikipedia.org/wiki/Balinese_cuisine
 
-Barberry.ahk
+101509.  Barberry.ahk
 https://en.wikipedia.org/wiki/Barberry
 
-Basil, Holy.ahk
+101536.  Basil, Holy.ahk
 https://en.wikipedia.org/wiki/Holy_basil
 
-Basil, lemon.ahk
+101564.  Basil, lemon.ahk
 https://en.wikipedia.org/wiki/Lemon_Basil
 
-Basil, Thai.ahk
+101593.  Basil, Thai.ahk
 https://en.wikipedia.org/wiki/Thai_basil
 
-Basil.ahk
+101623.  Basil.ahk
 https://en.wikipedia.org/wiki/Basil
 
-Bay leaf.ahk
+101654.  Bay leaf.ahk
 https://en.wikipedia.org/wiki/Laurus_nobilis
 
-beers.ahk
+101686.  beers.ahk
 https://en.wikipedia.org/wiki/Beer
 
-Berberis.ahk
+101719.  Berberis.ahk
 https://en.wikipedia.org/wiki/Berberis
 
-Blue fenugreek.ahk
+101753.  Blue fenugreek.ahk
 https://en.wikipedia.org/wiki/Trigonella_caerulea
 
-Boldo.ahk
+101788.  Boldo.ahk
 https://en.wikipedia.org/wiki/Boldo
 
-Borage.ahk
+101824.  Borage.ahk
 https://en.wikipedia.org/wiki/Borage
 
-Brassica hirta.ahk
+101861.  Brassica hirta.ahk
 https://en.wikipedia.org/wiki/Brassica_hirta
 
-Brassica juncea.ahk
+101899.  Brassica juncea.ahk
 https://en.wikipedia.org/wiki/Brassica_juncea
 
-Brassica nigra.ahk
+101938.  Brassica nigra.ahk
 https://en.wikipedia.org/wiki/Brassica_nigra
 
-Brazil.ahk
+101978.  Brazil.ahk
 https://en.wikipedia.org/wiki/Brazil
 
-Bunium persicum.ahk
+102019.  Bunium persicum.ahk
 https://en.wikipedia.org/wiki/Bunium_persicum
 
-C. flexuosus.ahk
+102061.  C. flexuosus.ahk
 https://en.wikipedia.org/wiki/Cymbopogon_flexuosus
 
-California bay laurel.ahk
+102104.  California bay laurel.ahk
 https://en.wikipedia.org/wiki/California_bay_laurel
 
-Cambodia.ahk
+102148.  Cambodia.ahk
 https://en.wikipedia.org/wiki/Cambodian_cuisine
 
-Canella winterana.ahk
+102193.  Canella winterana.ahk
 https://en.wikipedia.org/wiki/Canella_winterana
 
-Caper.ahk
+102239.  Caper.ahk
 https://en.wikipedia.org/wiki/Caper
 
-Capsicum annuum.ahk
+102286.  Capsicum annuum.ahk
 https://en.wikipedia.org/wiki/Capsicum_annuum
 
-Caraway.ahk
+102334.  Caraway.ahk
 https://en.wikipedia.org/wiki/Caraway
 
-Cardamom, black.ahk
+102383.  Cardamom, black.ahk
 https://en.wikipedia.org/wiki/Black_cardamom
 
-Cardamom.ahk
+102433.  Cardamom.ahk
 https://en.wikipedia.org/wiki/Cardamom
 
-Catnip.ahk
+102484.  Catnip.ahk
 https://en.wikipedia.org/wiki/Catnip
 
-Cayenne pepper.ahk
+102536.  Cayenne pepper.ahk
 https://en.wikipedia.org/wiki/Cayenne_pepper
 
-Celery.ahk
+102589.  Celery.ahk
 https://en.wikipedia.org/wiki/Celery
 
-Ceratonia siliqua.ahk
+102643.  Ceratonia siliqua.ahk
 https://en.wikipedia.org/wiki/Ceratonia_siliqua
 
-Chervil.ahk
+102698.  Chervil.ahk
 https://en.wikipedia.org/wiki/Chervil
 
-Chicory.ahk
+102754.  Chicory.ahk
 https://en.wikipedia.org/wiki/Chicory
 
-Chili pepper.ahk
+102811.  Chili pepper.ahk
 https://en.wikipedia.org/wiki/Chili_pepper
 
-China.ahk
+102869.  China.ahk
 https://en.wikipedia.org/wiki/Chinese_cuisine
 
-Chives.ahk
+102928.  Chives.ahk
 https://en.wikipedia.org/wiki/Chives
 
-Cicely.ahk
+102988.  Cicely.ahk
 https://en.wikipedia.org/wiki/Cicely
 
-Cilantro.ahk
+103049.  Cilantro.ahk
 https://en.wikipedia.org/wiki/Cilantro#Leaves
 
-Cinnamomum aromaticum.ahk
+103111.  Cinnamomum aromaticum.ahk
 https://en.wikipedia.org/wiki/Cinnamomum_aromaticum
 
-Cinnamomum burmannii.ahk
+103174.  Cinnamomum burmannii.ahk
 https://en.wikipedia.org/wiki/Cinnamomum_burmannii
 
-Cinnamomum loureiroi.ahk
+103238.  Cinnamomum loureiroi.ahk
 https://en.wikipedia.org/wiki/Cinnamomum_loureiroi
 
-Cinnamomum tamala.ahk
+103303.  Cinnamomum tamala.ahk
 https://en.wikipedia.org/wiki/Cinnamomum_tamala
 
-Cinnamon.ahk
+103369.  Cinnamon.ahk
 https://en.wikipedia.org/wiki/Saigon_Cinnamon
 
-Clove.ahk
+103436.  Clove.ahk
 https://en.wikipedia.org/wiki/Clove
 
-Coleus amboinicus.ahk
+103504.  Coleus amboinicus.ahk
 https://en.wikipedia.org/wiki/Coleus_amboinicus
 
-Coriander, Vietnamese.ahk
+103573.  Coriander, Vietnamese.ahk
 https://en.wikipedia.org/wiki/Vietnamese_coriander
 
-Coriander.ahk
+103643.  Coriander.ahk
 https://en.wikipedia.org/wiki/Coriander_(spice)
 
-Cubeb.ahk
+103714.  Cubeb.ahk
 https://en.wikipedia.org/wiki/Cubeb
 
-Cudweed.ahk
+103786.  Cudweed.ahk
 https://en.wikipedia.org/wiki/Cudweed
 
-Cumin.ahk
+103859.  Cumin.ahk
 https://en.wikipedia.org/wiki/Cumin
 
-Curry leaf.ahk
+103933.  Curry leaf.ahk
 https://en.wikipedia.org/wiki/Curry_tree
 
-Cymbopogon citratus.ahk
+104008.  Cymbopogon citratus.ahk
 https://en.wikipedia.org/wiki/Cymbopogon_citratus
 
-Cymbopogon.ahk
+104084.  Cymbopogon.ahk
 https://en.wikipedia.org/wiki/Cymbopogon
 
-Cyperus.ahk
+104161.  Cyperus.ahk
 https://en.wikipedia.org/wiki/Cyperus
 
-Deulkkae.ahk
+104239.  Deulkkae.ahk
 https://en.wikipedia.org/wiki/Deulkkae
 
-Dill seed.ahk
+104318.  Dill seed.ahk
 https://en.wikipedia.org/wiki/Dill_seed
 
-Dill.ahk
+104398.  Dill.ahk
 https://en.wikipedia.org/wiki/Dill
 
-Dysphania ambrosioides.ahk
+104479.  Dysphania ambrosioides.ahk
 https://en.wikipedia.org/wiki/Dysphania_ambrosioides
 
-edit.ahk
+104561.  edit.ahk
 https://en.wikipedia.org/w/index.php?title=List_of_culinary_herbs_and_spices&action=edit§ion=2
 
-Egypt.ahk
+104644.  Egypt.ahk
 https://en.wikipedia.org/wiki/Egyptian_cuisine
 
-Elsholtzia ciliata.ahk
+104728.  Elsholtzia ciliata.ahk
 https://en.wikipedia.org/wiki/Elsholtzia_ciliata
 
-Eritrea.ahk
+104813.  Eritrea.ahk
 https://en.wikipedia.org/wiki/Eritrean_cuisine
 
-Eryngium foetidum.ahk
+104899.  Eryngium foetidum.ahk
 https://en.wikipedia.org/wiki/Eryngium_foetidum
 
-Ethiopia.ahk
+104986.  Ethiopia.ahk
 https://en.wikipedia.org/wiki/Ethiopian_cuisine
 
-Etlingera elatior.ahk
+105074.  Etlingera elatior.ahk
 https://en.wikipedia.org/wiki/Etlingera_elatior
 
-Eucalyptus dives.ahk
+105163.  Eucalyptus dives.ahk
 https://en.wikipedia.org/wiki/Eucalyptus_dives
 
-Eucalyptus olida.ahk
+105253.  Eucalyptus olida.ahk
 https://en.wikipedia.org/wiki/Eucalyptus_olida
 
-Eucalyptus staigeriana.ahk
+105344.  Eucalyptus staigeriana.ahk
 https://en.wikipedia.org/wiki/Eucalyptus_staigeriana
 
-Fennel.ahk
+105436.  Fennel.ahk
 https://en.wikipedia.org/wiki/Fennel
 
-Fenugreek.ahk
+105529.  Fenugreek.ahk
 https://en.wikipedia.org/wiki/Fenugreek
 
-Filé powder.ahk
+105623.  Filé powder.ahk
 https://en.wikipedia.org/wiki/Fil%C3%A9_powder
 
-Fingerroot.ahk
+105718.  Fingerroot.ahk
 https://en.wikipedia.org/wiki/Fingerroot
 
-fortified wines.ahk
+105814.  fortified wines.ahk
 https://en.wikipedia.org/wiki/Fortified_wine
 
-Galangal, greater.ahk
+105911.  Galangal, greater.ahk
 https://en.wikipedia.org/wiki/Greater_galangal
 
-Galangal, lesser.ahk
+106009.  Galangal, lesser.ahk
 https://en.wikipedia.org/wiki/Lesser_galangal
 
-Galium odoratum.ahk
+106108.  Galium odoratum.ahk
 https://en.wikipedia.org/wiki/Galium_odoratum
 
-Garcinia gummi-gutta.ahk
+106208.  Garcinia gummi-gutta.ahk
 https://en.wikipedia.org/wiki/Garcinia_gummi-gutta
 
-Garcinia indica.ahk
+106309.  Garcinia indica.ahk
 https://en.wikipedia.org/wiki/Garcinia_indica
 
-Garlic chives.ahk
+106411.  Garlic chives.ahk
 https://en.wikipedia.org/wiki/Garlic_chives
 
-Garlic.ahk
+106514.  Garlic.ahk
 https://en.wikipedia.org/wiki/Garlic
 
-Geum urbanum.ahk
+106618.  Geum urbanum.ahk
 https://en.wikipedia.org/wiki/Geum_urbanum
 
-Ginger.ahk
+106723.  Ginger.ahk
 https://en.wikipedia.org/wiki/Ginger
 
-Gnaphalium.ahk
+106829.  Gnaphalium.ahk
 https://en.wikipedia.org/wiki/Gnaphalium
 
-Golpar.ahk
+106936.  Golpar.ahk
 https://en.wikipedia.org/wiki/Golpar
 
-Grains of paradise.ahk
+107044.  Grains of paradise.ahk
 https://en.wikipedia.org/wiki/Grains_of_paradise
 
-Grains of Selim.ahk
+107153.  Grains of Selim.ahk
 https://en.wikipedia.org/wiki/Grains_of_Selim
 
-Group.ahk
+107263.  Group.ahk
 https://en.wikipedia.org/wiki/Cultivar_Group
 
-Hatch.ahk
+107374.  Hatch.ahk
 https://en.wikipedia.org/wiki/Hatch,_New_Mexico
 
-Helichrysum italicum.ahk
+107486.  Helichrysum italicum.ahk
 https://en.wikipedia.org/wiki/Helichrysum_italicum
 
-Horseradish.ahk
+107599.  Horseradish.ahk
 https://en.wikipedia.org/wiki/Horseradish
 
-Houttuynia cordata.ahk
+107713.  Houttuynia cordata.ahk
 https://en.wikipedia.org/wiki/Houttuynia
 
-Hyssop.ahk
+107828.  Hyssop.ahk
 https://en.wikipedia.org/wiki/Hyssopus_officinalis
 
-I. florentina.ahk
+107944.  I. florentina.ahk
 https://en.wikipedia.org/wiki/Iris_florentina
 
-I. pallida.ahk
+108061.  I. pallida.ahk
 https://en.wikipedia.org/wiki/Iris_pallida
 
-India.ahk
+108179.  India.ahk
 https://en.wikipedia.org/wiki/Indian_cuisine
 
-Indian confectionery.ahk
+108298.  Indian confectionery.ahk
 https://en.wikipedia.org/wiki/Indian_sweets
 
-Indonesia.ahk
+108418.  Indonesia.ahk
 https://en.wikipedia.org/wiki/Indonesian_cuisine
 
-Iran.ahk
+108539.  Iran.ahk
 https://en.wikipedia.org/wiki/Iranian_cuisine
 
-Iris germanica.ahk
+108661.  Iris germanica.ahk
 https://en.wikipedia.org/wiki/Iris_germanica
 
-Italy.ahk
+108784.  Italy.ahk
 https://en.wikipedia.org/wiki/Italian_cuisine
 
-Jakhya.ahk
+108908.  Jakhya.ahk
 https://en.wikipedia.org/wiki/Jakhya
 
-Jalapeño.ahk
+109033.  Jalapeño.ahk
 https://en.wikipedia.org/wiki/Jalape%C3%B1o
 
-Jasmine.ahk
+109159.  Jasmine.ahk
 https://en.wikipedia.org/wiki/Jasmine
 
-Java.ahk
+109286.  Java.ahk
 https://en.wikipedia.org/wiki/Javanese_cuisine
 
-Jiaogulan.ahk
+109414.  Jiaogulan.ahk
 https://en.wikipedia.org/wiki/Jiaogulan
 
-Jimbu.ahk
+109543.  Jimbu.ahk
 https://en.wikipedia.org/wiki/Jimbu
 
-Juniper berry.ahk
+109673.  Juniper berry.ahk
 https://en.wikipedia.org/wiki/Juniper_berry
 
-Kaempferia galanga.ahk
+109804.  Kaempferia galanga.ahk
 https://en.wikipedia.org/wiki/Kaempferia_galanga
 
-Kaffir lime.ahk
+109936.  Kaffir lime.ahk
 https://en.wikipedia.org/wiki/Kaffir_lime
 
-Kawakawa.ahk
+110069.  Kawakawa.ahk
 https://en.wikipedia.org/wiki/Kawakawa_(tree)
 
-Kkaennip.ahk
+110203.  Kkaennip.ahk
 https://en.wikipedia.org/wiki/Kkaennip
 
-Lanxangia tsaoko.ahk
+110338.  Lanxangia tsaoko.ahk
 https://en.wikipedia.org/wiki/Lanxangia_tsaoko
 
-Lavender.ahk
+110474.  Lavender.ahk
 https://en.wikipedia.org/wiki/Lavender
 
-Lemon balm.ahk
+110611.  Lemon balm.ahk
 https://en.wikipedia.org/wiki/Lemon_balm
 
-Lemon verbena.ahk
+110749.  Lemon verbena.ahk
 https://en.wikipedia.org/wiki/Lemon_verbena
 
-Leptotes bicolor.ahk
+110888.  Leptotes bicolor.ahk
 https://en.wikipedia.org/wiki/Leptotes_bicolor
 
-Lesser calamint.ahk
+111028.  Lesser calamint.ahk
 https://en.wikipedia.org/wiki/Lesser_Calamint
 
-Licorice.ahk
+111169.  Licorice.ahk
 https://en.wikipedia.org/wiki/Licorice
 
-Limnophila aromatica.ahk
+111311.  Limnophila aromatica.ahk
 https://en.wikipedia.org/wiki/Limnophila_aromatica
 
-Lippia abyssinica.ahk
+111454.  Lippia abyssinica.ahk
 https://en.wikipedia.org/wiki/Lippia_abyssinica
 
-Lippia graveolens.ahk
+111598.  Lippia graveolens.ahk
 https://en.wikipedia.org/wiki/Lippia_graveolens
 
-Lovage.ahk
+111743.  Lovage.ahk
 https://en.wikipedia.org/wiki/Lovage
 
-Mahleb.ahk
+111889.  Mahleb.ahk
 https://en.wikipedia.org/wiki/Mahleb
 
-Marjoram.ahk
+112036.  Marjoram.ahk
 https://en.wikipedia.org/wiki/Marjoram
 
-Mastic.ahk
+112184.  Mastic.ahk
 https://en.wikipedia.org/wiki/Mastic_(resin)
 
-Mentha spicata.ahk
+112333.  Mentha spicata.ahk
 https://en.wikipedia.org/wiki/Mentha_spicata
 
-Mentha.ahk
+112483.  Mentha.ahk
 https://en.wikipedia.org/wiki/Mentha
 
-Mexico.ahk
+112634.  Mexico.ahk
 https://en.wikipedia.org/wiki/Mexican_cuisine
 
-Monascus purpureus.ahk
+112786.  Monascus purpureus.ahk
 https://en.wikipedia.org/wiki/Monascus_purpureus
 
-mustard plant.ahk
+112939.  mustard plant.ahk
 https://en.wikipedia.org/wiki/Mustard_plant
 
-mustard seed.ahk
+113093.  mustard seed.ahk
 https://en.wikipedia.org/wiki/Mustard_seed
 
-Mustard, black.ahk
+113248.  Mustard, black.ahk
 https://en.wikipedia.org/wiki/Black_mustard
 
-Mustard, white.ahk
+113404.  Mustard, white.ahk
 https://en.wikipedia.org/wiki/White_mustard
 
-Nepal.ahk
+113561.  Nepal.ahk
 https://en.wikipedia.org/wiki/Nepalese_cuisine
 
-New Mexico chile.ahk
+113719.  New Mexico chile.ahk
 https://en.wikipedia.org/wiki/New_Mexico_chile
 
-New Mexico.ahk
+113878.  New Mexico.ahk
 https://en.wikipedia.org/wiki/New_Mexico
 
-New Zealand.ahk
+114038.  New Zealand.ahk
 https://en.wikipedia.org/wiki/New_Zealand_cuisine
 
-Nigella sativa.ahk
+114199.  Nigella sativa.ahk
 https://en.wikipedia.org/wiki/Nigella_sativa
 
-Njangsa.ahk
+114361.  Njangsa.ahk
 https://en.wikipedia.org/wiki/Njangsa
 
-Nutmeg.ahk
+114524.  Nutmeg.ahk
 https://en.wikipedia.org/wiki/Nutmeg
 
-Oregano.ahk
+114688.  Oregano.ahk
 https://en.wikipedia.org/wiki/Oregano
 
-Orris root.ahk
+114853.  Orris root.ahk
 https://en.wikipedia.org/wiki/Orris_root
 
-Pakistan.ahk
+115019.  Pakistan.ahk
 https://en.wikipedia.org/wiki/Pakistani_cuisine
 
-Pandanus.ahk
+115186.  Pandanus.ahk
 https://en.wikipedia.org/wiki/Pandanus
 
-Pangium edule.ahk
+115354.  Pangium edule.ahk
 https://en.wikipedia.org/wiki/Pangium_edule
 
-Papaver somniferum.ahk
+115523.  Papaver somniferum.ahk
 https://en.wikipedia.org/wiki/Papaver_somniferum
 
-Paprika.ahk
+115693.  Paprika.ahk
 https://en.wikipedia.org/wiki/Paprika
 
-Paracress.ahk
+115864.  Paracress.ahk
 https://en.wikipedia.org/wiki/Paracress
 
-Paraguay.ahk
+116036.  Paraguay.ahk
 https://en.wikipedia.org/wiki/Paraguayan_cuisine
 
-Parsley.ahk
+116209.  Parsley.ahk
 https://en.wikipedia.org/wiki/Parsley
 
-Pennyroyal.ahk
+116383.  Pennyroyal.ahk
 https://en.wikipedia.org/wiki/Mentha_pulegium
 
-Pepper, Brazilian.ahk
+116558.  Pepper, Brazilian.ahk
 https://en.wikipedia.org/wiki/Brazilian_pepper
 
-Pepper, Dorrigo.ahk
+116734.  Pepper, Dorrigo.ahk
 https://en.wikipedia.org/wiki/Dorrigo_Pepper
 
-Pepper, long.ahk
+116911.  Pepper, long.ahk
 https://en.wikipedia.org/wiki/Long_Pepper
 
-Pepper.ahk
+117089.  Pepper.ahk
 https://en.wikipedia.org/wiki/Black_pepper
 
-Peppermint.ahk
+117268.  Peppermint.ahk
 https://en.wikipedia.org/wiki/Peppermint
 
-Perilla frutescens.ahk
+117448.  Perilla frutescens.ahk
 https://en.wikipedia.org/wiki/Perilla_frutescens
 
-Perilla.ahk
+117629.  Perilla.ahk
 https://en.wikipedia.org/wiki/Perilla
 
-Peruvian pepper.ahk
+117811.  Peruvian pepper.ahk
 https://en.wikipedia.org/wiki/Peruvian_pepper
 
-Piper auritum.ahk
+117994.  Piper auritum.ahk
 https://en.wikipedia.org/wiki/Piper_auritum
 
-Pistacia lentiscus.ahk
+118178.  Pistacia lentiscus.ahk
 https://en.wikipedia.org/wiki/Pistacia_lentiscus
 
-Poppy seed.ahk
+118363.  Poppy seed.ahk
 https://en.wikipedia.org/wiki/Poppy_seed
 
-Porophyllum linaria.ahk
+118549.  Porophyllum linaria.ahk
 https://en.wikipedia.org/wiki/Porophyllum_linaria
 
-Porophyllum ruderale.ahk
+118736.  Porophyllum ruderale.ahk
 https://en.wikipedia.org/wiki/Porophyllum_ruderale
 
-Pseudowintera colorata.ahk
+118924.  Pseudowintera colorata.ahk
 https://en.wikipedia.org/wiki/Pseudowintera_colorata
 
-Purslane.ahk
+119113.  Purslane.ahk
 https://en.wikipedia.org/wiki/Purslane
 
-Quassia amara.ahk
+119303.  Quassia amara.ahk
 https://en.wikipedia.org/wiki/Quassia_amara
 
-Rosemary.ahk
+119494.  Rosemary.ahk
 https://en.wikipedia.org/wiki/Rosemary
 
-Rue.ahk
+119686.  Rue.ahk
 https://en.wikipedia.org/wiki/Rue
 
-Rumex acetosella.ahk
+119879.  Rumex acetosella.ahk
 https://en.wikipedia.org/wiki/Rumex_acetosella
 
-Safflower.ahk
+120073.  Safflower.ahk
 https://en.wikipedia.org/wiki/Safflower
 
-Saffron.ahk
+120268.  Saffron.ahk
 https://en.wikipedia.org/wiki/Saffron
 
-Sage.ahk
+120464.  Sage.ahk
 https://en.wikipedia.org/wiki/Common_sage
 
-Salad burnet.ahk
+120661.  Salad burnet.ahk
 https://en.wikipedia.org/wiki/Salad_burnet
 
-Salep.ahk
+120859.  Salep.ahk
 https://en.wikipedia.org/wiki/Salep
 
-Salvia sclarea.ahk
+121058.  Salvia sclarea.ahk
 https://en.wikipedia.org/wiki/Salvia_sclarea
 
-Sambucus.ahk
+121258.  Sambucus.ahk
 https://en.wikipedia.org/wiki/Sambucus
 
-Sassafras.ahk
+121459.  Sassafras.ahk
 https://en.wikipedia.org/wiki/Sassafras
 
-Savory, summer.ahk
+121661.  Savory, summer.ahk
 https://en.wikipedia.org/wiki/Summer_savory
 
-Savory, winter.ahk
+121864.  Savory, winter.ahk
 https://en.wikipedia.org/wiki/Winter_savory
 
-Sesame Seed.ahk
+122068.  Sesame Seed.ahk
 https://en.wikipedia.org/wiki/Sesame_Seed
 
-Shiso.ahk
+122273.  Shiso.ahk
 https://en.wikipedia.org/wiki/Shiso
 
-Silphium.ahk
+122479.  Silphium.ahk
 https://en.wikipedia.org/wiki/Silphium
 
-Sinapis alba.ahk
+122686.  Sinapis alba.ahk
 https://en.wikipedia.org/wiki/Sinapis_alba
 
-Solanum centrale.ahk
+122894.  Solanum centrale.ahk
 https://en.wikipedia.org/wiki/Solanum_centrale
 
-Sorrel.ahk
+123103.  Sorrel.ahk
 https://en.wikipedia.org/wiki/Sorrel
 
-South America.ahk
+123313.  South America.ahk
 https://en.wikipedia.org/wiki/South_American_cuisine
 
-South Asia.ahk
+123524.  South Asia.ahk
 https://en.wikipedia.org/wiki/South_Asian_cuisine
 
-Southeast Asia.ahk
+123736.  Southeast Asia.ahk
 https://en.wikipedia.org/wiki/Southeast_Asia
 
-southern Brazil.ahk
+123949.  southern Brazil.ahk
 https://en.wikipedia.org/wiki/Brazilian_cuisine
 
-Spikenard.ahk
+124163.  Spikenard.ahk
 https://en.wikipedia.org/wiki/Spikenard
 
-Star anise.ahk
+124378.  Star anise.ahk
 https://en.wikipedia.org/wiki/Star_anise
 
-Sumac.ahk
+124594.  Sumac.ahk
 https://en.wikipedia.org/wiki/Sumac
 
-Syzygium anisatum.ahk
+124811.  Syzygium anisatum.ahk
 https://en.wikipedia.org/wiki/Syzygium_anisatum
 
-Syzygium polyanthum.ahk
+125029.  Syzygium polyanthum.ahk
 https://en.wikipedia.org/wiki/Syzygium
 
-Szechuan pepper.ahk
+125248.  Szechuan pepper.ahk
 https://en.wikipedia.org/wiki/Szechuan_pepper
 
-Tagetes minuta.ahk
+125468.  Tagetes minuta.ahk
 https://en.wikipedia.org/wiki/Tagetes_minuta
 
-Tanacetum balsamita.ahk
+125689.  Tanacetum balsamita.ahk
 https://en.wikipedia.org/wiki/Tanacetum_balsamita
 
-Tarragon.ahk
+125911.  Tarragon.ahk
 https://en.wikipedia.org/wiki/Tarragon
 
-Tasmanian pepper.ahk
+126134.  Tasmanian pepper.ahk
 https://en.wikipedia.org/wiki/Tasmanian_pepper
 
-Tasmannia lanceolata.ahk
+126358.  Tasmannia lanceolata.ahk
 https://en.wikipedia.org/wiki/Tasmannia_lanceolata
 
-Thailand.ahk
+126583.  Thailand.ahk
 https://en.wikipedia.org/wiki/Thai_cuisine
 
-Thyme, lemon.ahk
+126809.  Thyme, lemon.ahk
 https://en.wikipedia.org/wiki/Lemon_Thyme
 
-Thyme.ahk
+127036.  Thyme.ahk
 https://en.wikipedia.org/wiki/Thyme
 
-Thymus serpyllum.ahk
+127264.  Thymus serpyllum.ahk
 https://en.wikipedia.org/wiki/Thymus_serpyllum
 
-Tilia.ahk
+127493.  Tilia.ahk
 https://en.wikipedia.org/wiki/Tilia
 
-Trachyspermum ammi.ahk
+127723.  Trachyspermum ammi.ahk
 https://en.wikipedia.org/wiki/Trachyspermum_ammi
 
-Turmeric.ahk
+127954.  Turmeric.ahk
 https://en.wikipedia.org/wiki/Turmeric
 
-use of saffron.ahk
+128186.  use of saffron.ahk
 https://en.wikipedia.org/wiki/Saffron_(use)
 
-Vanilla.ahk
+128419.  Vanilla.ahk
 https://en.wikipedia.org/wiki/Vanilla
 
-Vietnam.ahk
+128653.  Vietnam.ahk
 https://en.wikipedia.org/wiki/Vietnamese_cuisine
 
-Voatsiperifery.ahk
+128888.  Voatsiperifery.ahk
 https://en.wikipedia.org/wiki/Voatsiperifery
 
-Wasabi.ahk
+129124.  Wasabi.ahk
 https://en.wikipedia.org/wiki/Wasabi
 
-Water-pepper.ahk
+129361.  Water-pepper.ahk
 https://en.wikipedia.org/wiki/Water-pepper
 
-Watercress.ahk
+129599.  Watercress.ahk
 https://en.wikipedia.org/wiki/Watercress
 
-Wattleseed.ahk
+129838.  Wattleseed.ahk
 https://en.wikipedia.org/wiki/Wattleseed
 
-Willow herb.ahk
+130078.  Willow herb.ahk
 https://en.wikipedia.org/wiki/Epilobium_parviflorum
 
-Wintergreen.ahk
+130319.  Wintergreen.ahk
 https://en.wikipedia.org/wiki/Wintergreen
 
-Yerba buena.ahk
+130561.  Yerba buena.ahk
 https://en.wikipedia.org/wiki/Yerba_buena
 
-Za'atar.ahk
+130804.  Za'atar.ahk
 https://en.wikipedia.org/wiki/Za%27atar
 
-Zedoary.ahk
+131048.  Zedoary.ahk
 https://en.wikipedia.org/wiki/Zedoary
 Culinary Herbs and Spices

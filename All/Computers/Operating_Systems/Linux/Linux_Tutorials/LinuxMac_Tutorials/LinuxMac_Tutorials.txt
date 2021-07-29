@@ -1,55 +1,55 @@
 
-Customizing Your Terminal .bash_profile and .bashrc files.ahk
+18254.  Customizing Your Terminal .bash_profile and .bashrc files.ahk
 https://www.youtube.com/watch?v=vDOVEDl2z84
 
-Customizing Your Terminal Adding Color and Information to Your Prompt.ahk
+18256.  Customizing Your Terminal Adding Color and Information to Your Prompt.ahk
 https://www.youtube.com/watch?v=LXgXV7YmSiU
 
-Customizing Your Terminal How To Use and Modify Dotfiles.ahk
+18259.  Customizing Your Terminal How To Use and Modify Dotfiles.ahk
 https://www.youtube.com/watch?v=c5RZWDLqifA
 
-Easily Resize Multiple Images Using the Mac Terminal.ahk
+18263.  Easily Resize Multiple Images Using the Mac Terminal.ahk
 https://www.youtube.com/watch?v=HVMOBKRNEbc
 
-Homebrew Tutorial Simplify Software Installation on Mac Using This Package Manager.ahk
+18268.  Homebrew Tutorial Simplify Software Installation on Mac Using This Package Manager.ahk
 https://www.youtube.com/watch?v=SELYgZvAZbU
 
-How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time.ahk
+18274.  How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time.ahk
 https://www.youtube.com/watch?v=kIdiWut8eD8
 
-How to Run LinuxBash on Windows 10 Using the Built-In Windows Subsystem for Linux.ahk
+18281.  How to Run LinuxBash on Windows 10 Using the Built-In Windows Subsystem for Linux.ahk
 https://www.youtube.com/watch?v=xzgwDbe7foQ
 
-LinuxMac Terminal Tutorial Create, Copy, Move, Rename and Delete Files and Directories.ahk
+18289.  LinuxMac Terminal Tutorial Create, Copy, Move, Rename and Delete Files and Directories.ahk
 https://www.youtube.com/watch?v=eoejHvAPDFs
 
-LinuxMac Terminal Tutorial Creating Aliases for Commands.ahk
+18298.  LinuxMac Terminal Tutorial Creating Aliases for Commands.ahk
 https://www.youtube.com/watch?v=0liXeoADU6A
 
-LinuxMac Terminal Tutorial How To Use The cURL Command.ahk
+18308.  LinuxMac Terminal Tutorial How To Use The cURL Command.ahk
 https://www.youtube.com/watch?v=WxUVU0b95Oc
 
-LinuxMac Terminal Tutorial How To Use The find Command.ahk
+18319.  LinuxMac Terminal Tutorial How To Use The find Command.ahk
 https://www.youtube.com/watch?v=KCVaNb_zOuw
 
-LinuxMac Terminal Tutorial How To Use The rsync Command - Sync Files Locally and Remotely.ahk
+18331.  LinuxMac Terminal Tutorial How To Use The rsync Command - Sync Files Locally and Remotely.ahk
 https://www.youtube.com/watch?v=qE77MbDnljA
 
-LinuxMac Terminal Tutorial Navigating your Filesystem.ahk
+18344.  LinuxMac Terminal Tutorial Navigating your Filesystem.ahk
 https://www.youtube.com/watch?v=j6vKLJxAKfw
 
-LinuxMac Terminal Tutorial The Grep Command - Search Files and Directories for Patterns of Text.ahk
+18358.  LinuxMac Terminal Tutorial The Grep Command - Search Files and Directories for Patterns of Text.ahk
 https://www.youtube.com/watch?v=VGgTmxXp7xQ
 
-LinuxMac Tutorial Cron Jobs - How to Schedule Commands with crontab.ahk
+18373.  LinuxMac Tutorial Cron Jobs - How to Schedule Commands with crontab.ahk
 https://www.youtube.com/watch?v=QZJ1drMQz1A
 
-LinuxMac Tutorial SSH Key-Based Authentication - How to SSH Without a Password.ahk
+18389.  LinuxMac Tutorial SSH Key-Based Authentication - How to SSH Without a Password.ahk
 https://www.youtube.com/watch?v=vpk_1gldOAE
 
-Mac OS X Terminal Tutorial Time-Saving Keyboard Shortcuts.ahk
+18406.  Mac OS X Terminal Tutorial Time-Saving Keyboard Shortcuts.ahk
 https://www.youtube.com/watch?v=TXzrk3b9sKM
 
-VirtualBox How to Use Snapshots.ahk
+18424.  VirtualBox How to Use Snapshots.ahk
 https://www.youtube.com/watch?v=Qte4X-rdr2Q
 LinuxMac Tutorials

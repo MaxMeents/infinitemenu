@@ -1,7 +1,7 @@
 
-Albums Bandcamp
+1.  Albums Bandcamp
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Itom_Lab/Albums_Bandcamp/Albums_Bandcamp.txt
 
-Top Tracks
+2.  Top Tracks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Itom_Lab/Top_Tracks/Top_Tracks.txt
 Itom Lab

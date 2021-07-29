@@ -1,277 +1,277 @@
 
-Add Html Tags in JavaScript Tutorial in Hindi  Urdu.ahk
+116849.  Add Html Tags in JavaScript Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=ZEMvZZdbBZM
 
-Advance JavaScript - Introduction in Hindi  Urdu.ahk
+116851.  Advance JavaScript - Introduction in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=IUFJzLlf2cE
 
-JavaScript - Find Even & Odd Numbers with Loops in Hindi  Urdu.ahk
+116854.  JavaScript - Find Even & Odd Numbers with Loops in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=uo-yIJ6GTXw
 
-JavaScript addEventListener Method Tutorial in Hindi  Urdu.ahk
+116858.  JavaScript addEventListener Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=NhRhrAziBRU
 
-JavaScript Alert Box Tutorial in Hindi  Urdu.ahk
+116863.  JavaScript Alert Box Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=GAJ6yIZ7fu8
 
-JavaScript appendChild & insertBefore Tutorial in Hindi  Urdu.ahk
+116869.  JavaScript appendChild & insertBefore Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=XJU0KdOdwLM
 
-JavaScript Arithmetic Operators Tutorial in Hindi  Urdu.ahk
+116876.  JavaScript Arithmetic Operators Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=g5llPHuhUUw
 
-JavaScript Array Concat & Join Tutorial in Hindi  Urdu.ahk
+116884.  JavaScript Array Concat & Join Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=0O5XeSCe5QM
 
-JavaScript Array Filter Tutorial in Hindi  Urdu.ahk
+116893.  JavaScript Array Filter Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=JVSXa6pmHsc
 
-JavaScript Array find & findIndex Tutorial in Hindi  Urdu.ahk
+116903.  JavaScript Array find & findIndex Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=daiUSEYvaMM
 
-JavaScript Array Includes Method Tutorial in Hindi  Urdu.ahk
+116914.  JavaScript Array Includes Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=fsfFAe5fhpc
 
-JavaScript Array indexOf & lastIndexOf Tutorial in Hindi  Urdu.ahk
+116926.  JavaScript Array indexOf & lastIndexOf Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=P3AKR4Avzx8
 
-JavaScript Array of Objects Tutorial in Hindi  Urdu.ahk
+116939.  JavaScript Array of Objects Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=1ZRpey-0kHg
 
-JavaScript Array Pop & Push Tutorial in Hindi  Urdu.ahk
+116953.  JavaScript Array Pop & Push Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=ipIFxfjdSCY
 
-JavaScript Array Shift & Unshift Tutorial in Hindi  Urdu.ahk
+116968.  JavaScript Array Shift & Unshift Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=sCO3QCSDlPc
 
-JavaScript Array Slice & Splice Tutorial in Hindi  Urdu.ahk
+116984.  JavaScript Array Slice & Splice Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Y5HlAex8O0g
 
-JavaScript Array Some & Every Methods Tutorial in Hindi  Urdu.ahk
+117001.  JavaScript Array Some & Every Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=TbkILUc8BFE
 
-JavaScript Array Sort & Reverse Tutorial in Hindi Urdu.ahk
+117019.  JavaScript Array Sort & Reverse Tutorial in Hindi Urdu.ahk
 https://www.youtube.com/watch?v=wjzguhR9uSE
 
-JavaScript Array toString, valueOf & fill Methods in Hindi  Urdu.ahk
+117038.  JavaScript Array toString, valueOf & fill Methods in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=80kYiMnpP88
 
-JavaScript Arrays Tutorial in Hindi  urdu.ahk
+117058.  JavaScript Arrays Tutorial in Hindi  urdu.ahk
 https://www.youtube.com/watch?v=Xxn7lpjNwIw
 
-JavaScript Assignment Operators Tutorial in Hindi  Urdu.ahk
+117079.  JavaScript Assignment Operators Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=CxBXe_iU_Qk
 
-JavaScript BOM Introduction Tutorial in Hindi  Urdu.ahk
+117101.  JavaScript BOM Introduction Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=rsLZGZPFGqw
 
-JavaScript Break & Continue Statement Tutorial in Hindi  Urdu.ahk
+117124.  JavaScript Break & Continue Statement Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=eITYb9ljz0U
 
-JavaScript Children & childNodes Methods Tutorial in Hindi  Urdu.ahk
+117148.  JavaScript Children & childNodes Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=nYr4e4H09MM
 
-JavaScript classList Methods Tutorial in Hindi  Urdu.ahk
+117173.  JavaScript classList Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=ykwBHnxP020
 
-JavaScript cloneNode Tutorial in Hindi  Urdu.ahk
+117199.  JavaScript cloneNode Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=xwpGrNTP_oo
 
-JavaScript Comments Tutorial in Hindi  Urdu.ahk
+117226.  JavaScript Comments Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=SLxyizaN8X4
 
-JavaScript Comparison Operators Tutorial in Hindi  Urdu.ahk
+117254.  JavaScript Comparison Operators Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=u5dGu62dbPc
 
-JavaScript Conditional Ternary Operator Tutorial in Hindi  Urdu.ahk
+117283.  JavaScript Conditional Ternary Operator Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=QzaWmh0A-gA
 
-JavaScript Confirm Box Tutorial in Hindi  Urdu.ahk
+117313.  JavaScript Confirm Box Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=aZJG44cVVzY
 
-JavaScript Const Variable with Array & Objects in Hindi  Urdu.ahk
+117344.  JavaScript Const Variable with Array & Objects in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=L8E7izVDK7s
 
-JavaScript Contains Method Tutorial in Hindi   Urdu.ahk
+117376.  JavaScript Contains Method Tutorial in Hindi   Urdu.ahk
 https://www.youtube.com/watch?v=hkgqaCOK3r8
 
-JavaScript Create Arrays Method - II Tutorial in Hindi  Urdu.ahk
+117409.  JavaScript Create Arrays Method - II Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=6e5ifDLmM6A
 
-JavaScript createElement & createTextNode Tutorial in Hindi  Urdu.ahk
+117443.  JavaScript createElement & createTextNode Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=KwPolbxL8Ps
 
-JavaScript Data Types Tutorial in Hindi  Urdu.ahk
+117478.  JavaScript Data Types Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=p7mBGmKl6xY
 
-JavaScript Date Methods Tutorial in Hindi  Urdu.ahk
+117514.  JavaScript Date Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=VSKwgWPVA9M
 
-JavaScript Do While Loop Tutorial in Hindi  Urdu.ahk
+117551.  JavaScript Do While Loop Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=id0gwYgDT68
 
-JavaScript DOM CSS Styling Methods Tutorial in Hindi  Urdu.ahk
+117589.  JavaScript DOM CSS Styling Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=JeuPPUjY4kQ
 
-JavaScript DOM Get & Set Value Methods Tutorial in Hindi  Urdu.ahk
+117628.  JavaScript DOM Get & Set Value Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=90lP6-LXPl8
 
-JavaScript DOM Introduction Tutorial in Hindi  Urdu.ahk
+117668.  JavaScript DOM Introduction Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=YIawGqNxe0E
 
-JavaScript DOM querySelector & querySelectorAll Tutorial in Hindi.ahk
+117709.  JavaScript DOM querySelector & querySelectorAll Tutorial in Hindi.ahk
 https://www.youtube.com/watch?v=Tmn1kTysDOQ
 
-JavaScript DOM Targeting Methods Tutorial in Hindi  Urdu.ahk
+117751.  JavaScript DOM Targeting Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=y9Tl-PBprdA
 
-JavaScript Events Tutorial in Hindi  Urdu.ahk
+117794.  JavaScript Events Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=R7mu7nKFc7w
 
-JavaScript firstChild & lastChild Method Tutorial in Hindi  Urdu.ahk
+117838.  JavaScript firstChild & lastChild Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Fo2QsLDOYlY
 
-JavaScript For in Loop Tutorial in Hindi  Urdu.ahk
+117883.  JavaScript For in Loop Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=q-x563o-lBc
 
-JavaScript For Loop Tutorial in Hindi  Urdu.ahk
+117929.  JavaScript For Loop Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=aXlhVeinMfo
 
-JavaScript forEach Loop Tutorial in Hindi  Urdu.ahk
+117976.  JavaScript forEach Loop Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=u2GVOicqFKM
 
-JavaScript Form Events Tutorial - II in Hindi  Urdu.ahk
+118024.  JavaScript Form Events Tutorial - II in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Y3bdUHR9Cus
 
-JavaScript Form Events Tutorial in Hindi  Urdu.ahk
+118073.  JavaScript Form Events Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=oQbDKJ3WXZg
 
-JavaScript Functions Tutorial in Hindi  Urdu.ahk
+118123.  JavaScript Functions Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=VBPlKT3x-MU
 
-JavaScript Functions with Parameters Tutorial in Hindi  Urdu.ahk
+118174.  JavaScript Functions with Parameters Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=L1AtWLNpwuQ
 
-JavaScript Functions with Return Value Tutorial in Hindi  Urdu.ahk
+118226.  JavaScript Functions with Return Value Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=ffIQPg2mG5w
 
-JavaScript Global & Local Variable Tutorial in Hindi  Urdu.ahk
+118279.  JavaScript Global & Local Variable Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=eaIOmh0Hyos
 
-JavaScript hasAttribute & hasChildNodes Tutorial in Hindi  Urdu.ahk
+118333.  JavaScript hasAttribute & hasChildNodes Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=me-Yuhf8CtI
 
-JavaScript History Object Tutorial in Hindi  Urdu.ahk
+118388.  JavaScript History Object Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=nYrCHWPjsbk
 
-JavaScript If Else If Statement Tutorial in Hindi  Urdu.ahk
+118444.  JavaScript If Else If Statement Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=-ZfjrcQRF-E
 
-JavaScript If Else Statement Tutorial in Hindi  Urdu.ahk
+118501.  JavaScript If Else Statement Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=j6U4vfXuodw
 
-JavaScript If Statement Tutorial in Hindi  Urdu.ahk
+118559.  JavaScript If Statement Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=jz2UVpEuUZE
 
-JavaScript Implementation Tutorial in Hindi  Urdu.ahk
+118618.  JavaScript Implementation Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=C7Pf2gTfgP0
 
-JavaScript insertAdjacentElement & insertAdjacentHTML Tutorial in Hindi.ahk
+118678.  JavaScript insertAdjacentElement & insertAdjacentHTML Tutorial in Hindi.ahk
 https://www.youtube.com/watch?v=1SYUI0uHksM
 
-JavaScript Introduction Tutorial in Hindi  Urdu.ahk
+118739.  JavaScript Introduction Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Lgxgm-T9cgA
 
-JavaScript isArray Tutorial in Hindi  Urdu.ahk
+118801.  JavaScript isArray Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=xxm67NBPvPA
 
-JavaScript isEqualNode Tutorial in Hindi  Urdu.ahk
+118864.  JavaScript isEqualNode Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=p_bIgCryknU
 
-JavaScript Location Object Tutorial in Hindi  Urdu.ahk
+118928.  JavaScript Location Object Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=pFHw1Hl08nk
 
-JavaScript Logical Operators Tutorial in Hindi  Urdu.ahk
+118993.  JavaScript Logical Operators Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=nMyhq_Gsd_0
 
-JavaScript Map Method Tutorial in Hindi  Urdu.ahk
+119059.  JavaScript Map Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=i17a2cHGsIg
 
-JavaScript Math Methods Tutorial in Hindi  Urdu.ahk
+119126.  JavaScript Math Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=zKVXQ_RgRJA
 
-JavaScript Modify & Delete Array Elements Tutorial in Hindi  Urdu.ahk
+119194.  JavaScript Modify & Delete Array Elements Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=KPNPHnmiEAM
 
-JavaScript Multidimensional Arrays Tutorial in Hindi  Urdu.ahk
+119263.  JavaScript Multidimensional Arrays Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=9wKRqGk55qg
 
-JavaScript Nested Loop - II Tutorial in Hindi  Urdu.ahk
+119333.  JavaScript Nested Loop - II Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=XVYzHgIyEDk
 
-JavaScript Nested Loop Tutorial in Hindi  Urdu.ahk
+119404.  JavaScript Nested Loop Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=i736Gi3nZy8
 
-JavaScript nextSibling & previousSibling Method Tutorial in Hindi  Urdu.ahk
+119476.  JavaScript nextSibling & previousSibling Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=kn1BVQYgEDk
 
-JavaScript Number Methods Tutorial in Hindi  Urdu.ahk
+119549.  JavaScript Number Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=kp8bbu4IgEY
 
-JavaScript Objects Tutorial - II in Hindi  Urdu.ahk
+119623.  JavaScript Objects Tutorial - II in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Jwm40bInIRM
 
-JavaScript Objects Tutorial in Hindi  Urdu.ahk
+119698.  JavaScript Objects Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=JYKATlAS3ZU
 
-JavaScript parentElement & parentNode Method Tutorial in Hindi  Urdu.ahk
+119774.  JavaScript parentElement & parentNode Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=Pe3sdhA7YME
 
-JavaScript Prompt Box Tutorial in Hindi  Urdu.ahk
+119851.  JavaScript Prompt Box Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=SNtKKW_RKi0
 
-JavaScript replaceChild & removeChild Tutorial in Hindi  Urdu.ahk
+119929.  JavaScript replaceChild & removeChild Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=x7sKDeL7SrA
 
-JavaScript resizeBy & resizeTo Tutorial in Hindi  Urdu.ahk
+120008.  JavaScript resizeBy & resizeTo Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=VZPCq-mkwEU
 
-JavaScript scrollBy & scrollTo Tutorial in Hindi  Urdu.ahk
+120088.  JavaScript scrollBy & scrollTo Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=6AumMbHpahE
 
-JavaScript setInterval & clearInterval Tutorial in Hindi  Urdu.ahk
+120169.  JavaScript setInterval & clearInterval Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=aPYcERo8IGA
 
-JavaScript setTimeout & clearTimeout Tutorial in Hindi  Urdu.ahk
+120251.  JavaScript setTimeout & clearTimeout Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=o83Z3ORQBrU
 
-JavaScript String Methods - II Tutorial in Hindi  Urdu.ahk
+120334.  JavaScript String Methods - II Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=irOLrmZT-5E
 
-JavaScript String Methods Tutorial in Hindi  Urdu.ahk
+120418.  JavaScript String Methods Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=q4Fne_Kwkxs
 
-JavaScript Switch Case Tutorial in Hindi  Urdu.ahk
+120503.  JavaScript Switch Case Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=WYy_K75OGqk
 
-JavaScript Variables ( Let & Const ) Tutorial in Hindi  Urdu.ahk
+120589.  JavaScript Variables ( Let & Const ) Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=oe-VrENM_Oo
 
-JavaScript Variables Tutorial in Hindi  Urdu.ahk
+120676.  JavaScript Variables Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=UHCHqInLg0M
 
-JavaScript While Loop Tutorial in Hindi  urdu.ahk
+120764.  JavaScript While Loop Tutorial in Hindi  urdu.ahk
 https://www.youtube.com/watch?v=uceqnCKB2Hg
 
-JavaScript Window Height & Width Method Tutorial in Hindi  Urdu.ahk
+120853.  JavaScript Window Height & Width Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=LSJwoxRBjoA
 
-JavaScript Window moveBy & moveTo Tutorial in Hindi  Urdu.ahk
+120943.  JavaScript Window moveBy & moveTo Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=zbaOou2b95g
 
-JavaScript Window Open & Close Method Tutorial in Hindi  Urdu.ahk
+121034.  JavaScript Window Open & Close Method Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=tkMZ5n8EObk
 
-JavaScript with Google Chrome Console Tutorial in Hindi  Urdu.ahk
+121126.  JavaScript with Google Chrome Console Tutorial in Hindi  Urdu.ahk
 https://www.youtube.com/watch?v=G26aw_Nsk2c
 ?? JavaScript Tutorial for beginners in Hindi  Urdu

@@ -1,52 +1,52 @@
 
-An easy guide to computers
+1.  An easy guide to computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/An_easy_guide_to_computers/An_easy_guide_to_computers.txt
 
-Basic Computers
+2.  Basic Computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Basic_Computers/Basic_Computers.txt
 
-Beginners Guide to Windows 7
+3.  Beginners Guide to Windows 7
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Beginners_Guide_to_Windows_7/Beginners_Guide_to_Windows_7.txt
 
-computer basics
+4.  computer basics
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/computer_basics/computer_basics.txt
 
-Computer Science
+5.  Computer Science
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Computer_Science/Computer_Science.txt
 
-computer specs
+6.  computer specs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/computer_specs/computer_specs.txt
 
-Computer Training
+7.  Computer Training
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Computer_Training/Computer_Training.txt
 
-Computers
+8.  Computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Computers/Computers.txt
 
-Computing
+9.  Computing
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Computing/Computing.txt
 
-Funniest Movie Scenes
+10.  Funniest Movie Scenes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Funniest_Movie_Scenes/Funniest_Movie_Scenes.txt
 
-Laptops and computers
+11.  Laptops and computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Laptops_and_computers/Laptops_and_computers.txt
 
-PC Build
+12.  PC Build
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/PC_Build/PC_Build.txt
 
-pc for beginners
+13.  pc for beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/pc_for_beginners/pc_for_beginners.txt
 
-PC Tech Info
+14.  PC Tech Info
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/PC_Tech_Info/PC_Tech_Info.txt
 
-Tech computers
+15.  Tech computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Tech_computers/Tech_computers.txt
 
-Training- Computer
+16.  Training- Computer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Training-_Computer/Training-_Computer.txt
 
-Windows 10 for beginners (computer tutorials)
+17.  Windows 10 for beginners (computer tutorials)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Beginners_Guide_To_Computers/Windows_10_for_beginners_(computer_tutorials)/Windows_10_for_beginners_(computer_tutorials).txt
 Beginners Guide To Computers

@@ -1,31 +1,31 @@
 
-2010
+1.  2010
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2010/2010.txt
 
-2011
+2.  2011
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2011/2011.txt
 
-2012
+3.  2012
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2012/2012.txt
 
-2013
+4.  2013
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2013/2013.txt
 
-2014
+5.  2014
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2014/2014.txt
 
-2015
+6.  2015
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2015/2015.txt
 
-2016
+7.  2016
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2016/2016.txt
 
-2017
+8.  2017
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2017/2017.txt
 
-2018
+9.  2018
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/2018/2018.txt
 
-?2015
+10.  ?2015
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/?2015/?2015.txt
 0000

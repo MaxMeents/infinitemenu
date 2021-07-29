@@ -1,13 +1,13 @@
 
-Autohotkey Tutorials
+1.  Autohotkey Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Autohotkey/Autohotkey_Tutorials/Autohotkey_Tutorials.txt
 
-List of Commands
+2.  List of Commands
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Autohotkey/List_of_Commands/List_of_Commands.txt
 
-Various Playlists
+3.  Various Playlists
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Autohotkey/Various_Playlists/Various_Playlists.txt
 
-Ways to get Help
+4.  Ways to get Help
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Autohotkey/Ways_to_get_Help/Ways_to_get_Help.txt
 Autohotkey

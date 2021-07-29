@@ -1,49 +1,49 @@
 
-Best of Fluent 2012 Reg(exp){2}lained Demystifying Regular Expressions.ahk
+123364.  Best of Fluent 2012 Reg(exp){2}lained Demystifying Regular Expressions.ahk
 https://www.youtube.com/watch?v=EkluES9Rvak
 
-Learn Regular Expressions Alternations.ahk
+123366.  Learn Regular Expressions Alternations.ahk
 https://www.youtube.com/watch?v=OjirRdtGTL4
 
-Learn Regular Expressions Anchors & Flags.ahk
+123369.  Learn Regular Expressions Anchors & Flags.ahk
 https://www.youtube.com/watch?v=OqVkOB2-shg
 
-Learn Regular Expressions Character Set.ahk
+123373.  Learn Regular Expressions Character Set.ahk
 https://www.youtube.com/watch?v=2Y-alrCHm_w
 
-Learn Regular Expressions Dot Matches.ahk
+123378.  Learn Regular Expressions Dot Matches.ahk
 https://www.youtube.com/watch?v=1SSfRjidYDM
 
-Learn Regular Expressions Groups.ahk
+123384.  Learn Regular Expressions Groups.ahk
 https://www.youtube.com/watch?v=CdxoFdbviCo
 
-Learn Regular Expressions Introduction.ahk
+123391.  Learn Regular Expressions Introduction.ahk
 https://www.youtube.com/watch?v=GVZOJ1rEnUg
 
-Learn Regular Expressions JavaScript & PHP Examples.ahk
+123399.  Learn Regular Expressions JavaScript & PHP Examples.ahk
 https://www.youtube.com/watch?v=9Tfq5Gt5MOo
 
-Learn Regular Expressions Let's Write Some Expressions!.ahk
+123408.  Learn Regular Expressions Let's Write Some Expressions!.ahk
 https://www.youtube.com/watch?v=OSEXJlyJq7c
 
-Learn Regular Expressions Multiple.ahk
+123418.  Learn Regular Expressions Multiple.ahk
 https://www.youtube.com/watch?v=GH-6jkaKe8A
 
-Learn Regular Expressions Optional.ahk
+123429.  Learn Regular Expressions Optional.ahk
 https://www.youtube.com/watch?v=fCOt9dRCBNc
 
-Learn Regular Expressions Quantifiers.ahk
+123441.  Learn Regular Expressions Quantifiers.ahk
 https://www.youtube.com/watch?v=RedSDQdgdZA
 
-REGEX Tutorial Regular Expressions Pt 2.ahk
+123454.  REGEX Tutorial Regular Expressions Pt 2.ahk
 https://www.youtube.com/watch?v=FCFdgymqpUI
 
-REGEX Tutorial Regular Expressions Pt 3.ahk
+123468.  REGEX Tutorial Regular Expressions Pt 3.ahk
 https://www.youtube.com/watch?v=lvGtejG69zg
 
-REGEX Tutorial Regular Expressions.ahk
+123483.  REGEX Tutorial Regular Expressions.ahk
 https://www.youtube.com/watch?v=DRR9fOXkfRE
 
-Regular Expression Basics.ahk
+123499.  Regular Expression Basics.ahk
 https://www.youtube.com/watch?v=KJG1dETacLI
 Regex Tutorials Playlist - Regular Expressions

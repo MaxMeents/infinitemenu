@@ -1,757 +1,757 @@
 
-#1.1 Why Linux (Linux ???? ???? tutorial).ahk
+37245.  #1.1 Why Linux (Linux ???? ???? tutorial).ahk
 https://www.youtube.com/watch?v=c8STJnGZPLQ
 
-10 Linux Terminal Commands for Beginners.ahk
+37247.  10 Linux Terminal Commands for Beginners.ahk
 https://www.youtube.com/watch?v=CpTfQ-q6MPU
 
-10 Reasons why Linux is Better Than MacOS or Windows (1106047).ahk
+37250.  10 Reasons why Linux is Better Than MacOS or Windows (1106047).ahk
 https://www.youtube.com/watch?v=qH3v41JmyIg
 
-10 Reasons why Linux is Better Than MacOS or Windows (1223455).ahk
+37254.  10 Reasons why Linux is Better Than MacOS or Windows (1223455).ahk
 https://www.youtube.com/watch?v=qH3v41JmyIg
 
-10 Reasons why Linux is Better Than MacOS or Windows.ahk
+37259.  10 Reasons why Linux is Better Than MacOS or Windows.ahk
 https://www.youtube.com/watch?v=qH3v41JmyIg
 
-10 things you can do with Linux that you can't do with Windows (1982048).ahk
+37265.  10 things you can do with Linux that you can't do with Windows (1982048).ahk
 https://www.youtube.com/watch?v=JOOkfGv58u0
 
-10 things you can do with Linux that you can't do with Windows.ahk
+37272.  10 things you can do with Linux that you can't do with Windows.ahk
 https://www.youtube.com/watch?v=JOOkfGv58u0
 
-10 Useful Websites You Wish You Knew Earlier!.ahk
+37280.  10 Useful Websites You Wish You Knew Earlier!.ahk
 https://www.youtube.com/watch?v=dWFxzpTpzOE
 
-12 Timeless Life Hacks Everyone Should Know.ahk
+37289.  12 Timeless Life Hacks Everyone Should Know.ahk
 https://www.youtube.com/watch?v=UjdMAF4tPmc
 
-15 Best Linux Applications that You MUST HAVE!.ahk
+37299.  15 Best Linux Applications that You MUST HAVE!.ahk
 https://www.youtube.com/watch?v=a5cvg9XKEL8
 
-2 Essential Gaming Utilities for Linux.ahk
+37310.  2 Essential Gaming Utilities for Linux.ahk
 https://www.youtube.com/watch?v=hoAxor761aY
 
-22 Essential  Linux Commands (su, PATH, PIPING, cat, ps, bg, jobs..).ahk
+37322.  22 Essential  Linux Commands (su, PATH, PIPING, cat, ps, bg, jobs..).ahk
 https://www.youtube.com/watch?v=XOvlsrCv3Bk
 
-30 Days of Linux Challenge Game Development & Special Guest.ahk
+37335.  30 Days of Linux Challenge Game Development & Special Guest.ahk
 https://www.youtube.com/watch?v=jn5T8MBWSkk
 
-30 Things to do After Installing Ubuntu 18.0420.04 LTS (all-in-one video).ahk
+37349.  30 Things to do After Installing Ubuntu 18.0420.04 LTS (all-in-one video).ahk
 https://www.youtube.com/watch?v=BLVtxpm5c2A
 
-5 Free Software That Are Actually Great!.ahk
+37364.  5 Free Software That Are Actually Great!.ahk
 https://www.youtube.com/watch?v=gM8plsUfkTA
 
-5 Raspberry Pi Gadgets.ahk
+37380.  5 Raspberry Pi Gadgets.ahk
 https://www.youtube.com/watch?v=58dyE704-Z0
 
-5 Reasons to Use Linux in 2017.ahk
+37397.  5 Reasons to Use Linux in 2017.ahk
 https://www.youtube.com/watch?v=IrDPlv_8lWg
 
-6 Mistakes New Linux Users Make.ahk
+37415.  6 Mistakes New Linux Users Make.ahk
 https://www.youtube.com/watch?v=mkrN4uAcDGk
 
-6 Reasons Why I Switched from Windows to Linux (1742126).ahk
+37434.  6 Reasons Why I Switched from Windows to Linux (1742126).ahk
 https://www.youtube.com/watch?v=908BELWZBts
 
-6 Reasons Why I Switched from Windows to Linux.ahk
+37454.  6 Reasons Why I Switched from Windows to Linux.ahk
 https://www.youtube.com/watch?v=908BELWZBts
 
-6 Reasons Why People Have to Use Windows.ahk
+37475.  6 Reasons Why People Have to Use Windows.ahk
 https://www.youtube.com/watch?v=FxNhPw2-Qtg
 
-6 Things to Know When Switching to Linux from Windows.ahk
+37497.  6 Things to Know When Switching to Linux from Windows.ahk
 https://www.youtube.com/watch?v=wcdquhB6hT8
 
-60 useful Linux commands in 15 minutes.ahk
+37520.  60 useful Linux commands in 15 minutes.ahk
 https://www.youtube.com/watch?v=JfCK8OqgmSY
 
-8 super heroic Linux commands that you probably aren't using.ahk
+37544.  8 super heroic Linux commands that you probably aren't using.ahk
 https://www.youtube.com/watch?v=Zuwa8zlfXSY
 
-A Brief History of Linux.ahk
+37569.  A Brief History of Linux.ahk
 https://www.youtube.com/watch?v=sheqhcrE1gs
 
-A Look at MX Linux 18.ahk
+37595.  A Look at MX Linux 18.ahk
 https://www.youtube.com/watch?v=2Ewu5w77ZHQ
 
-Aalto Talk with Linus Torvalds [Full-length].ahk
+37622.  Aalto Talk with Linus Torvalds [Full-length].ahk
 https://www.youtube.com/watch?v=MShbP3OpASA
 
-An Introduction to Linux Mint 18.2.ahk
+37650.  An Introduction to Linux Mint 18.2.ahk
 https://www.youtube.com/watch?v=HhHu-1glWps
 
-Arch Linux VS Ubuntu is there a best one.ahk
+37679.  Arch Linux VS Ubuntu is there a best one.ahk
 https://www.youtube.com/watch?v=2y085_AwlTw
 
-Ask EzeeLinux Episode 1.ahk
+37709.  Ask EzeeLinux Episode 1.ahk
 https://www.youtube.com/watch?v=m1CQvJTfozY
 
-Awesome Linux Tools Ulauncher.ahk
+37740.  Awesome Linux Tools Ulauncher.ahk
 https://www.youtube.com/watch?v=_5njMWB1os8
 
-Basic Linux -- How to Compile Software Yourself (on Ubuntu).ahk
+37772.  Basic Linux -- How to Compile Software Yourself (on Ubuntu).ahk
 https://www.youtube.com/watch?v=uRQ4QBegur8
 
-Basic Linux Commands You Need To Know.ahk
+37805.  Basic Linux Commands You Need To Know.ahk
 https://www.youtube.com/watch?v=J2zquYPJbWY
 
-Basic Linux Drive Partion Schemes.ahk
+37839.  Basic Linux Drive Partion Schemes.ahk
 https://www.youtube.com/watch?v=71msHISl9kQ
 
-Basic Programming Workstation Setup.ahk
+37874.  Basic Programming Workstation Setup.ahk
 https://www.youtube.com/watch?v=M4TijoJg1Cs
 
-Beginner's Guide To Installing Linux Mint 18.ahk
+37910.  Beginner's Guide To Installing Linux Mint 18.ahk
 https://www.youtube.com/watch?v=oSdchGgZrMM
 
-Beginner's Guide to Installing Linux Mint 19.ahk
+37947.  Beginner's Guide to Installing Linux Mint 19.ahk
 https://www.youtube.com/watch?v=G0AFuhVSvEk
 
-Beginner's Guide to the Bash Terminal (1171629).ahk
+37985.  Beginner's Guide to the Bash Terminal (1171629).ahk
 https://www.youtube.com/watch?v=oxuRxtrO2Ag
 
-Beginner's Guide to the Bash Terminal.ahk
+38024.  Beginner's Guide to the Bash Terminal.ahk
 https://www.youtube.com/watch?v=oxuRxtrO2Ag
 
-Best Linux Distros  Tips For Choosing The Right Linux Desktop For You (1142967).ahk
+38064.  Best Linux Distros  Tips For Choosing The Right Linux Desktop For You (1142967).ahk
 https://www.youtube.com/watch?v=jQKC_1efdXs
 
-Best Linux Distros  Tips For Choosing The Right Linux Desktop For You.ahk
+38105.  Best Linux Distros  Tips For Choosing The Right Linux Desktop For You.ahk
 https://www.youtube.com/watch?v=jQKC_1efdXs
 
-Best Thing I've Discovered Using Linux! (After One Month).ahk
+38147.  Best Thing I've Discovered Using Linux! (After One Month).ahk
 https://www.youtube.com/watch?v=TCWwqJYvWlI
 
-C Programming Tutorial 17 - Vim Basics - Part 1.ahk
+38190.  C Programming Tutorial 17 - Vim Basics - Part 1.ahk
 https://www.youtube.com/watch?v=H3X4cJchnkA
 
-Can Linux Bring Life to Old Hardware.ahk
+38234.  Can Linux Bring Life to Old Hardware.ahk
 https://www.youtube.com/watch?v=DPvC9MvPs-s
 
-Chasing Perfection - My Top 5 Distros of 2018.ahk
+38279.  Chasing Perfection - My Top 5 Distros of 2018.ahk
 https://www.youtube.com/watch?v=BO1jfbdfKIU
 
-CHFI & Digital Forensics Tutorial [Part 1] - Basics & FTK IMAGER Lab.ahk
+38325.  CHFI & Digital Forensics Tutorial [Part 1] - Basics & FTK IMAGER Lab.ahk
 https://www.youtube.com/watch?v=3z3Iau04gt8
 
-cisco packet tracer simulating a simple network.ahk
+38372.  cisco packet tracer simulating a simple network.ahk
 https://www.youtube.com/watch?v=aZoZJg9vdDI
 
-Coding On An iPad Air (2020).ahk
+38420.  Coding On An iPad Air (2020).ahk
 https://www.youtube.com/watch?v=vA1ss2xz5GU
 
-Comparing Linux Phones Librem 5 and Pinephone.ahk
+38469.  Comparing Linux Phones Librem 5 and Pinephone.ahk
 https://www.youtube.com/watch?v=zaNzPooIWsU
 
-Customizing Your Terminal  Linux Terminal Beautification.ahk
+38519.  Customizing Your Terminal  Linux Terminal Beautification.ahk
 https://www.youtube.com/watch?v=iaXQdyHRL8M
 
-Das Jahr des Linux Desktops! HiDPI Showdown.ahk
+38570.  Das Jahr des Linux Desktops! HiDPI Showdown.ahk
 https://www.youtube.com/watch?v=Sqg0qdQ7m7Q
 
-Database as Filesystem.ahk
+38622.  Database as Filesystem.ahk
 https://www.youtube.com/watch?v=wN6IwNriwHc
 
-DebConf 14 QA with Linus Torvalds.ahk
+38675.  DebConf 14 QA with Linus Torvalds.ahk
 https://www.youtube.com/watch?v=5PmHRSeA2c8
 
-DEEP WEB SECURITY - Linux, TOR, Tails and QubesOS!.ahk
+38729.  DEEP WEB SECURITY - Linux, TOR, Tails and QubesOS!.ahk
 https://www.youtube.com/watch?v=SxZJRdj2ucw
 
-Democrats may regret standing against Trump’s border wall.ahk
+38784.  Democrats may regret standing against Trump’s border wall.ahk
 https://www.youtube.com/watch?v=QdveJs40TEI
 
-Destination Linux EP107 – Linux Laptop Envy.ahk
+38840.  Destination Linux EP107 – Linux Laptop Envy.ahk
 https://www.youtube.com/watch?v=jicnI_xGTaI
 
-Digital Forensic Memory Analysis - Volatility.ahk
+38897.  Digital Forensic Memory Analysis - Volatility.ahk
 https://www.youtube.com/watch?v=Cs0Gc3GtfZY
 
-Double or Triple Your Internet Speed - This Method Actually Works!.ahk
+38955.  Double or Triple Your Internet Speed - This Method Actually Works!.ahk
 https://www.youtube.com/watch?v=tqbnjgbtDl0
 
-Easy Beginner's Guide To Linux A Complete Introduction.ahk
+39014.  Easy Beginner's Guide To Linux A Complete Introduction.ahk
 https://www.youtube.com/watch?v=I8ik8pDTgJE
 
-El editor de Unity3D ya tiene soporte oficial para Linux.ahk
+39074.  El editor de Unity3D ya tiene soporte oficial para Linux.ahk
 https://www.youtube.com/watch?v=eI2b6eYyCDg
 
-Embracing Linux Mint Week.ahk
+39135.  Embracing Linux Mint Week.ahk
 https://www.youtube.com/watch?v=4EAes8DDWQE
 
-Endless OS - ????? ? ?????????. ????????? Linux.ahk
+39197.  Endless OS - ????? ? ?????????. ????????? Linux.ahk
 https://www.youtube.com/watch?v=h1QVULKKh6U
 
-EVERYONE needs to learn LINUX - ft. Raspberry Pi 4.ahk
+39260.  EVERYONE needs to learn LINUX - ft. Raspberry Pi 4.ahk
 https://www.youtube.com/watch?v=l9YxTXDiiFY
 
-Feature Complete - Linux Mint 19.1 Review.ahk
+39324.  Feature Complete - Linux Mint 19.1 Review.ahk
 https://www.youtube.com/watch?v=qkmiXaO2vmk
 
-Four Reasons I No Longer Use Microsoft Products or Windows.ahk
+39389.  Four Reasons I No Longer Use Microsoft Products or Windows.ahk
 https://www.youtube.com/watch?v=kLbUwGI522k
 
-Full Arch Linux Install (SAVAGE Edition!).ahk
+39455.  Full Arch Linux Install (SAVAGE Edition!).ahk
 https://www.youtube.com/watch?v=4PBqpX0_UOc
 
-Gaming on Linux - With WENDELL from Level1Techs!.ahk
+39522.  Gaming on Linux - With WENDELL from Level1Techs!.ahk
 https://www.youtube.com/watch?v=SsgI1mkx6iw
 
-Get MAXIMUM online privacy and security with Noscript  How to use NoScript tutorial.ahk
+39590.  Get MAXIMUM online privacy and security with Noscript  How to use NoScript tutorial.ahk
 https://www.youtube.com/watch?v=AC4ALEKZRfg
 
-Hangout Linux Distributions That We Do Not Like!.ahk
+39659.  Hangout Linux Distributions That We Do Not Like!.ahk
 https://www.youtube.com/watch?v=gauJJQqQIR8
 
-How Secure Shell Works (SSH) - Computerphile.ahk
+39729.  How Secure Shell Works (SSH) - Computerphile.ahk
 https://www.youtube.com/watch?v=ORcvSkgdA58
 
-How to add MULTITOUCH trackpad gestures to Linux.ahk
+39800.  How to add MULTITOUCH trackpad gestures to Linux.ahk
 https://www.youtube.com/watch?v=ci6YbQGx3c4
 
-How To Clear Tracks & Logs On Linux.ahk
+39872.  How To Clear Tracks & Logs On Linux.ahk
 https://www.youtube.com/watch?v=TgquV_OA-lU
 
-How to customize your terminal & a cool alternative  Ubuntu 16.04 Tips.ahk
+39945.  How to customize your terminal & a cool alternative  Ubuntu 16.04 Tips.ahk
 https://www.youtube.com/watch?v=li92nChHpCs
 
-How to download and install UnityUnity3d in Linuxubuntumintdebian 2019.ahk
+40019.  How to download and install UnityUnity3d in Linuxubuntumintdebian 2019.ahk
 https://www.youtube.com/watch?v=kqsdx7bHyaU
 
-How to Game on Linux (1581654).ahk
+40094.  How to Game on Linux (1581654).ahk
 https://www.youtube.com/watch?v=mTuzToTDftE
 
-How to Game on Linux (1896442).ahk
+40170.  How to Game on Linux (1896442).ahk
 https://www.youtube.com/watch?v=mTuzToTDftE
 
-How to Game on Linux.ahk
+40247.  How to Game on Linux.ahk
 https://www.youtube.com/watch?v=mTuzToTDftE
 
-How To Install And Run Kali Linux.ahk
+40325.  How To Install And Run Kali Linux.ahk
 https://www.youtube.com/watch?v=pT73r1obOhI
 
-How to install and uninstall programs in Linux Mint Cinnimon.ahk
+40404.  How to install and uninstall programs in Linux Mint Cinnimon.ahk
 https://www.youtube.com/watch?v=GRkHNk825hc
 
-how to install inkscape in linux mint 17.3 without terminal codes.ahk
+40484.  how to install inkscape in linux mint 17.3 without terminal codes.ahk
 https://www.youtube.com/watch?v=SBAW5JiYKjE
 
-How To Install Printer Drivers In Ubuntu Linux.ahk
+40565.  How To Install Printer Drivers In Ubuntu Linux.ahk
 https://www.youtube.com/watch?v=6n9MEarQ2ug
 
-How to Install Unity3D on Ubuntu.ahk
+40647.  How to Install Unity3D on Ubuntu.ahk
 https://www.youtube.com/watch?v=YHn8-UlZSLM
 
-How to PartitionPrepare your Hard Drive to Dual-Boot Linux.ahk
+40730.  How to PartitionPrepare your Hard Drive to Dual-Boot Linux.ahk
 https://www.youtube.com/watch?v=9gS5SoogltE
 
-How to Run Linux on Old Slow Computers.ahk
+40814.  How to Run Linux on Old Slow Computers.ahk
 https://www.youtube.com/watch?v=o3aCdxjOySE
 
-How To Scan For Viruses In Linux.ahk
+40899.  How To Scan For Viruses In Linux.ahk
 https://www.youtube.com/watch?v=cNZHhopB3fI
 
-How to Setup C++ on Linux.ahk
+40985.  How to Setup C++ on Linux.ahk
 https://www.youtube.com/watch?v=LKLuvoY6U0I
 
-How to sexy up your Ubuntu 16.04 desktop and install some applications.ahk
+41072.  How to sexy up your Ubuntu 16.04 desktop and install some applications.ahk
 https://www.youtube.com/watch?v=MSjBJ6zDJ1g
 
-How to Write a Shell Script Linux Terminal 201 - HakTip 175 (1615529).ahk
+41160.  How to Write a Shell Script Linux Terminal 201 - HakTip 175 (1615529).ahk
 https://www.youtube.com/watch?v=bXbnvZTp-RY
 
-How to Write a Shell Script Linux Terminal 201 - HakTip 175.ahk
+41249.  How to Write a Shell Script Linux Terminal 201 - HakTip 175.ahk
 https://www.youtube.com/watch?v=bXbnvZTp-RY
 
-I Tried Garuda Linux For A Week!.ahk
+41339.  I Tried Garuda Linux For A Week!.ahk
 https://www.youtube.com/watch?v=0c6YZSS4ZRw
 
-I tried Pi-Hole for the first time... (DNS level Ad Blocker).ahk
+41430.  I tried Pi-Hole for the first time... (DNS level Ad Blocker).ahk
 https://www.youtube.com/watch?v=inmBhY3HgQE
 
-Identifying Open Ports in Wireshark, HakTip 137.ahk
+41522.  Identifying Open Ports in Wireshark, HakTip 137.ahk
 https://www.youtube.com/watch?v=Zi1aaEJg5YI
 
-Install a small distribution of Linux onto a PC that is 14 years old..ahk
+41615.  Install a small distribution of Linux onto a PC that is 14 years old..ahk
 https://www.youtube.com/watch?v=LPWvHnPSgxk
 
-Installing Unity3d on Ubuntu 16.04.ahk
+41709.  Installing Unity3d on Ubuntu 16.04.ahk
 https://www.youtube.com/watch?v=Fknln2Mj09Y
 
-Introduction to Linux (1572898).ahk
+41804.  Introduction to Linux (1572898).ahk
 https://www.youtube.com/watch?v=_gCwCOhMcog
 
-Introduction to Linux (1776827).ahk
+41900.  Introduction to Linux (1776827).ahk
 https://www.youtube.com/watch?v=_gCwCOhMcog
 
-Introduction to Linux and Basic Linux Commands for Beginners.ahk
+41997.  Introduction to Linux and Basic Linux Commands for Beginners.ahk
 https://www.youtube.com/watch?v=IVquJh3DXUA
 
-Introduction to Linux.ahk
+42095.  Introduction to Linux.ahk
 https://www.youtube.com/watch?v=_gCwCOhMcog
 
-Is 8GB of RAM Enough In 2018.ahk
+42194.  Is 8GB of RAM Enough In 2018.ahk
 https://www.youtube.com/watch?v=HnuNs_Nu46Q
 
-Is Linux an OS, a kernel or both (Linux vs GNULinux).ahk
+42294.  Is Linux an OS, a kernel or both (Linux vs GNULinux).ahk
 https://www.youtube.com/watch?v=RNeKYjWx-s4
 
-Is Linux Better Than Windows ?? (1080751).ahk
+42395.  Is Linux Better Than Windows ?? (1080751).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1118757).ahk
+42497.  Is Linux Better Than Windows ?? (1118757).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1174025).ahk
+42600.  Is Linux Better Than Windows ?? (1174025).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1265456).ahk
+42704.  Is Linux Better Than Windows ?? (1265456).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1505753).ahk
+42809.  Is Linux Better Than Windows ?? (1505753).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1679953).ahk
+42915.  Is Linux Better Than Windows ?? (1679953).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1732391).ahk
+43022.  Is Linux Better Than Windows ?? (1732391).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1847399).ahk
+43130.  Is Linux Better Than Windows ?? (1847399).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ?? (1920941).ahk
+43239.  Is Linux Better Than Windows ?? (1920941).ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Is Linux Better Than Windows ??.ahk
+43349.  Is Linux Better Than Windows ??.ahk
 https://www.youtube.com/watch?v=O3n6bArDEbc
 
-Kali Linux Hacking Networks Part 1.ahk
+43460.  Kali Linux Hacking Networks Part 1.ahk
 https://www.youtube.com/watch?v=K1bMSPje6pw
 
-Know How... 301 Raspberry Pi TOR.ahk
+43572.  Know How... 301 Raspberry Pi TOR.ahk
 https://www.youtube.com/watch?v=5kOIXWEIYZM
 
-Kodi 18, Firefox 65, Lutris, Linux Mint, Makulu, Alpine, Tails, Pine64  This Week in Linux 53.ahk
+43685.  Kodi 18, Firefox 65, Lutris, Linux Mint, Makulu, Alpine, Tails, Pine64  This Week in Linux 53.ahk
 https://www.youtube.com/watch?v=Y-ZTLkyiVzw
 
-LattePanda Alpha Week Linux, Benchmarks & More.ahk
+43799.  LattePanda Alpha Week Linux, Benchmarks & More.ahk
 https://www.youtube.com/watch?v=5REJCaayl6Y
 
-Launch Epic Games without Launcher.ahk
+43914.  Launch Epic Games without Launcher.ahk
 https://www.youtube.com/watch?v=TdU7hkjQuBk
 
-Learn Python - Full Course for Beginners [Tutorial].ahk
+44030.  Learn Python - Full Course for Beginners [Tutorial].ahk
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
-Learning the Linux File System.ahk
+44147.  Learning the Linux File System.ahk
 https://www.youtube.com/watch?v=HIXzJ3Rz9po
 
-Linux Command Line - Directories and Files.ahk
+44265.  Linux Command Line - Directories and Files.ahk
 https://www.youtube.com/watch?v=KVH3dMWefWE
 
-Linux command line tricks #1.ahk
+44384.  Linux command line tricks #1.ahk
 https://www.youtube.com/watch?v=PvBp7tRgQV4
 
-Linux commands  Clear your Linux Basics in 25 min for beginners (Hindi).ahk
+44504.  Linux commands  Clear your Linux Basics in 25 min for beginners (Hindi).ahk
 https://www.youtube.com/watch?v=BGjTboXjH28
 
-Linux Desktop Roundup  A Look at Five Desktop Environments.ahk
+44625.  Linux Desktop Roundup  A Look at Five Desktop Environments.ahk
 https://www.youtube.com/watch?v=SBz5A-fqnb4
 
-Linux disadvantages.ahk
+44747.  Linux disadvantages.ahk
 https://www.youtube.com/watch?v=72EUCJdmvG0
 
-Linux Does What Win Don't Part 2.ahk
+44870.  Linux Does What Win Don't Part 2.ahk
 https://www.youtube.com/watch?v=oqLmOPap6u0
 
-Linux Does What Win Don't! (1854680).ahk
+44994.  Linux Does What Win Don't! (1854680).ahk
 https://www.youtube.com/watch?v=HD6nqQrJx78
 
-Linux Does What Win Don't!.ahk
+45119.  Linux Does What Win Don't!.ahk
 https://www.youtube.com/watch?v=HD6nqQrJx78
 
-Linux File SystemStructure Explained!.ahk
+45245.  Linux File SystemStructure Explained!.ahk
 https://www.youtube.com/watch?v=HbgzrKJvDRw
 
-Linux for Ethical Hackers (Kali Linux Tutorial).ahk
+45372.  Linux for Ethical Hackers (Kali Linux Tutorial).ahk
 https://www.youtube.com/watch?v=lZAoFs75_cs
 
-Linux is NOT Windows!  Why Windows Powerusers are so Hard to Teach.ahk
+45500.  Linux is NOT Windows!  Why Windows Powerusers are so Hard to Teach.ahk
 https://www.youtube.com/watch?v=TJLvyWLxrBA
 
-Linux Kernel Development, Greg Kroah-Hartman - Git Merge 2016.ahk
+45629.  Linux Kernel Development, Greg Kroah-Hartman - Git Merge 2016.ahk
 https://www.youtube.com/watch?v=vyenmLqJQjs
 
-Linux Mint 17.1 Cinnamon Edition.ahk
+45759.  Linux Mint 17.1 Cinnamon Edition.ahk
 https://www.youtube.com/watch?v=ZVGOzV-x41k
 
-Linux Mint 19 For Windows Users.ahk
+45890.  Linux Mint 19 For Windows Users.ahk
 https://www.youtube.com/watch?v=eI7QQqnV1P8
 
-Linux Mint 19 is Actually Awesome.ahk
+46022.  Linux Mint 19 is Actually Awesome.ahk
 https://www.youtube.com/watch?v=MrOnPXqRggk
 
-Linux Mint 19.1 Vs Elementary OS 5.0  Which is the best Ubuntu based Linux Distro.ahk
+46155.  Linux Mint 19.1 Vs Elementary OS 5.0  Which is the best Ubuntu based Linux Distro.ahk
 https://www.youtube.com/watch?v=9d8OAlcwQDM
 
-Linux Mint 19.1 Vs Manjaro 18  Which is the Best Linux Distro.ahk
+46289.  Linux Mint 19.1 Vs Manjaro 18  Which is the Best Linux Distro.ahk
 https://www.youtube.com/watch?v=1VV_gU-8RKE
 
-Linux Mint 19.1 Vs MX Linux 18.1  Which is the best Linux Distro.ahk
+46424.  Linux Mint 19.1 Vs MX Linux 18.1  Which is the best Linux Distro.ahk
 https://www.youtube.com/watch?v=ET6GVBOivkM
 
-LINUX MINT para USUÁRIOS do WINDOWS 10.ahk
+46560.  LINUX MINT para USUÁRIOS do WINDOWS 10.ahk
 https://www.youtube.com/watch?v=hibmmQNyw58
 
-Linux Resolution Scaling 1080p panel to 4K.ahk
+46697.  Linux Resolution Scaling 1080p panel to 4K.ahk
 https://www.youtube.com/watch?v=BXAn_u1UfOQ
 
-Linux Talk  Partition Schemes, Swap Space and File Fragmentation.ahk
+46835.  Linux Talk  Partition Schemes, Swap Space and File Fragmentation.ahk
 https://www.youtube.com/watch?v=1OEidskpcC0
 
-Linux Tip  10 Useful Linux Commands.ahk
+46974.  Linux Tip  10 Useful Linux Commands.ahk
 https://www.youtube.com/watch?v=vAdR-M9H_1w
 
-Linux Tip  Advanced Drive Partitioning Schemes for Linux.ahk
+47114.  Linux Tip  Advanced Drive Partitioning Schemes for Linux.ahk
 https://www.youtube.com/watch?v=DwqP_4vlOP4
 
-Linux Tip  Don't Get Ripped Off!.ahk
+47255.  Linux Tip  Don't Get Ripped Off!.ahk
 https://www.youtube.com/watch?v=_NK5uNyTroY
 
-Linux Tip  My Top 5 System Tools.ahk
+47397.  Linux Tip  My Top 5 System Tools.ahk
 https://www.youtube.com/watch?v=OCAjv6DCJBQ
 
-Linux Tip  Tweaking Linux Mint 17.2 Cinnamon.ahk
+47540.  Linux Tip  Tweaking Linux Mint 17.2 Cinnamon.ahk
 https://www.youtube.com/watch?v=s96VSCYk8PU
 
-Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka (1026702).ahk
+47684.  Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka (1026702).ahk
 https://www.youtube.com/watch?v=v_1zB2WNN14
 
-Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka.ahk
+47829.  Linux Tutorial For Beginners - 1  Linux Administration Tutorial  Linux Commands  Edureka.ahk
 https://www.youtube.com/watch?v=v_1zB2WNN14
 
-Linux Tutorial for Beginners Introduction to Linux Operating System (1761171).ahk
+47975.  Linux Tutorial for Beginners Introduction to Linux Operating System (1761171).ahk
 https://www.youtube.com/watch?v=V1y-mbWM3B8
 
-Linux Tutorial for Beginners Introduction to Linux Operating System.ahk
+48122.  Linux Tutorial for Beginners Introduction to Linux Operating System.ahk
 https://www.youtube.com/watch?v=V1y-mbWM3B8
 
-Linux Ubuntu Tutorials for Beginners 2016 Start Using Ubuntu Linux Today!.ahk
+48270.  Linux Ubuntu Tutorials for Beginners 2016 Start Using Ubuntu Linux Today!.ahk
 https://www.youtube.com/watch?v=qACZ0A8jK-s
 
-Linux vs. Windows  The Fundamental Differences.ahk
+48419.  Linux vs. Windows  The Fundamental Differences.ahk
 https://www.youtube.com/watch?v=p4xA7GRmf6o
 
-Linux Workspaces  A Feature So Good Microsoft is Copying It.ahk
+48569.  Linux Workspaces  A Feature So Good Microsoft is Copying It.ahk
 https://www.youtube.com/watch?v=9iBKSynBmI8
 
-Load Kali Linux on a Raspberry Pi 4 Model B for a Mini Hacking Computer [Tutorial].ahk
+48720.  Load Kali Linux on a Raspberry Pi 4 Model B for a Mini Hacking Computer [Tutorial].ahk
 https://www.youtube.com/watch?v=Jquf9BDm4iU
 
-Make Your Desktop Awesome  Here is Mine!.ahk
+48872.  Make Your Desktop Awesome  Here is Mine!.ahk
 https://www.youtube.com/watch?v=Ymx7Z19mwAU
 
-Making a 2D game with Godot in less than an hour.ahk
+49025.  Making a 2D game with Godot in less than an hour.ahk
 https://www.youtube.com/watch?v=xQIaRSXh4ic
 
-Making C Less Dangerous in the Linux kernel.ahk
+49179.  Making C Less Dangerous in the Linux kernel.ahk
 https://www.youtube.com/watch?v=FY9SbqTO5GQ
 
-Microsoft Pledges to Protect and Defend Linux!!!.ahk
+49334.  Microsoft Pledges to Protect and Defend Linux!!!.ahk
 https://www.youtube.com/watch?v=hOTDikNsa5U
 
-MOON MAGIC -  Pisces Full Moon - August 27, 2018.ahk
+49490.  MOON MAGIC -  Pisces Full Moon - August 27, 2018.ahk
 https://www.youtube.com/watch?v=FywDxGdqy1k
 
-Mozilla Corporation Takes Firefox Down the Wrong Road.ahk
+49647.  Mozilla Corporation Takes Firefox Down the Wrong Road.ahk
 https://www.youtube.com/watch?v=3y_mMYASHws
 
-Must watch talk for beginner in Linux.ahk
+49805.  Must watch talk for beginner in Linux.ahk
 https://www.youtube.com/watch?v=VJdV7AqJd9A
 
-My Favorite Linux Distribution 2017 Manjaro & KDE- I'm In Love.ahk
+49964.  My Favorite Linux Distribution 2017 Manjaro & KDE- I'm In Love.ahk
 https://www.youtube.com/watch?v=sqCm_RpAVFg
 
-My Favorite Overall Linux DE's & Distros Of 2018 - What A Year!.ahk
+50124.  My Favorite Overall Linux DE's & Distros Of 2018 - What A Year!.ahk
 https://www.youtube.com/watch?v=R42fp1TAZ9U
 
-openSUSE is the new Ubuntu.ahk
+50285.  openSUSE is the new Ubuntu.ahk
 https://www.youtube.com/watch?v=HvF83x9eTPo
 
-Plotter no ubuntu.ahk
+50447.  Plotter no ubuntu.ahk
 https://www.youtube.com/watch?v=uC2FBmHh_6Q
 
-Programs for Linux. Gentlemen's set. 20 programs in 7 minutes.ahk
+50610.  Programs for Linux. Gentlemen's set. 20 programs in 7 minutes.ahk
 https://www.youtube.com/watch?v=beBKWi-4TEU
 
-Python Programming.ahk
+50774.  Python Programming.ahk
 https://www.youtube.com/watch?v=N4mEzFDjqtA
 
-Qubes OS 3.2 - part 0 - Installation.ahk
+50939.  Qubes OS 3.2 - part 0 - Installation.ahk
 https://www.youtube.com/watch?v=fiXuYI3G0SE
 
-Qubes OS Part 1 Overview and Features.ahk
+51105.  Qubes OS Part 1 Overview and Features.ahk
 https://www.youtube.com/watch?v=NTOsHtyS_5k
 
-Reviving A 12 Year Old Laptop With Linux!.ahk
+51272.  Reviving A 12 Year Old Laptop With Linux!.ahk
 https://www.youtube.com/watch?v=5nxrMY5OnQM
 
-Running Windows Programs on Linux.ahk
+51440.  Running Windows Programs on Linux.ahk
 https://www.youtube.com/watch?v=dqZDuKB949U
 
-Ryzen Budget PC Build #4 Linux Mint Dual Boot.ahk
+51609.  Ryzen Budget PC Build #4 Linux Mint Dual Boot.ahk
 https://www.youtube.com/watch?v=Q4zt3wEt7s8
 
-Seven Linux Distros.ahk
+51779.  Seven Linux Distros.ahk
 https://www.youtube.com/watch?v=gYFcTix56e8
 
-Shell Scripting Tutorial.ahk
+51950.  Shell Scripting Tutorial.ahk
 https://www.youtube.com/watch?v=hwrnmQumtPw
 
-Should you use Windows 7 in 2020.ahk
+52122.  Should you use Windows 7 in 2020.ahk
 https://www.youtube.com/watch?v=KjhjPJHxpqg
 
-Six Reasons PCs are Better with Linux.ahk
+52295.  Six Reasons PCs are Better with Linux.ahk
 https://www.youtube.com/watch?v=Ly1geVr-Xi4
 
-Spatry's 5 Favorite Linux Distributions for Beginners 2016 (1632716).ahk
+52469.  Spatry's 5 Favorite Linux Distributions for Beginners 2016 (1632716).ahk
 https://www.youtube.com/watch?v=Bztcmykf0Os
 
-Spatry's 5 Favorite Linux Distributions for Beginners 2016 (1803556).ahk
+52644.  Spatry's 5 Favorite Linux Distributions for Beginners 2016 (1803556).ahk
 https://www.youtube.com/watch?v=Bztcmykf0Os
 
-Spatry's 5 Favorite Linux Distributions for Beginners 2016.ahk
+52820.  Spatry's 5 Favorite Linux Distributions for Beginners 2016.ahk
 https://www.youtube.com/watch?v=Bztcmykf0Os
 
-Steam Link Review - A surprisingly interesting device.ahk
+52997.  Steam Link Review - A surprisingly interesting device.ahk
 https://www.youtube.com/watch?v=mliW5zppm00
 
-SteamOS Revisit - Valve Strikes Back!!!.ahk
+53175.  SteamOS Revisit - Valve Strikes Back!!!.ahk
 https://www.youtube.com/watch?v=J4U93SBuK68
 
-Stop Hating On Linux Mint!.ahk
+53354.  Stop Hating On Linux Mint!.ahk
 https://www.youtube.com/watch?v=szDHAeaqJD8
 
-Switching from Google Photos what are the alternatives.ahk
+53534.  Switching from Google Photos what are the alternatives.ahk
 https://www.youtube.com/watch?v=1jiz2lp5qU8
 
-Tech Talk Linus Torvalds on git.ahk
+53715.  Tech Talk Linus Torvalds on git.ahk
 https://www.youtube.com/watch?v=4XpnKHJAok8
 
-The 4 Programs I Use to Make Games Free and Open Source Software.ahk
+53897.  The 4 Programs I Use to Make Games Free and Open Source Software.ahk
 https://www.youtube.com/watch?v=q77PwaFJ27A
 
-The Complete Linux Course Beginner to Power User! (1296983).ahk
+54080.  The Complete Linux Course Beginner to Power User! (1296983).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User! (1305289).ahk
+54264.  The Complete Linux Course Beginner to Power User! (1305289).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User! (1616557).ahk
+54449.  The Complete Linux Course Beginner to Power User! (1616557).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User! (1772383).ahk
+54635.  The Complete Linux Course Beginner to Power User! (1772383).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User! (1892870).ahk
+54822.  The Complete Linux Course Beginner to Power User! (1892870).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User! (1893798).ahk
+55010.  The Complete Linux Course Beginner to Power User! (1893798).ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Complete Linux Course Beginner to Power User!.ahk
+55199.  The Complete Linux Course Beginner to Power User!.ahk
 https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
-The Linux File System...for humans.ahk
+55389.  The Linux File System...for humans.ahk
 https://www.youtube.com/watch?v=UFIoRLqhFpo
 
-The mind behind Linux  Linus Torvalds (1084745).ahk
+55580.  The mind behind Linux  Linus Torvalds (1084745).ahk
 https://www.youtube.com/watch?v=o8NPllzkFhE
 
-The mind behind Linux  Linus Torvalds.ahk
+55772.  The mind behind Linux  Linus Torvalds.ahk
 https://www.youtube.com/watch?v=o8NPllzkFhE
 
-The Problem with Linux.ahk
+55965.  The Problem with Linux.ahk
 https://www.youtube.com/watch?v=aeuPBWssF0s
 
-The Risks with Upgrading Ubuntu and Alternatives to Upgrading.ahk
+56159.  The Risks with Upgrading Ubuntu and Alternatives to Upgrading.ahk
 https://www.youtube.com/watch?v=dfgJiDmplPw
 
-The TOP 1 LINUX DISTROS for 2019!!! ??????.ahk
+56354.  The TOP 1 LINUX DISTROS for 2019!!! ??????.ahk
 https://www.youtube.com/watch?v=6bsNIdYw5Ak
 
-The Truth About Linux (1152087).ahk
+56550.  The Truth About Linux (1152087).ahk
 https://www.youtube.com/watch?v=8x_DdsJdkGw
 
-The Truth About Linux.ahk
+56747.  The Truth About Linux.ahk
 https://www.youtube.com/watch?v=8x_DdsJdkGw
 
-The Ultimate Linux Gaming Guide.ahk
+56945.  The Ultimate Linux Gaming Guide.ahk
 https://www.youtube.com/watch?v=xvrft9ULvho
 
-Top 10 free tools for digital forensic investigation.ahk
+57144.  Top 10 free tools for digital forensic investigation.ahk
 https://www.youtube.com/watch?v=zjK-JThLg_Y
 
-Top 10 Linux Job Interview Questions.ahk
+57344.  Top 10 Linux Job Interview Questions.ahk
 https://www.youtube.com/watch?v=l0QGLMwR-lY
 
-Top 4 Most Exciting Linux Distros For 2019! ??.ahk
+57545.  Top 4 Most Exciting Linux Distros For 2019! ??.ahk
 https://www.youtube.com/watch?v=i4EFYWvUXzk
 
-Top 5 Linux Distros for 2018 (1069973).ahk
+57747.  Top 5 Linux Distros for 2018 (1069973).ahk
 https://www.youtube.com/watch?v=PFrWog8J67E
 
-Top 5 Linux Distros for 2018.ahk
+57950.  Top 5 Linux Distros for 2018.ahk
 https://www.youtube.com/watch?v=PFrWog8J67E
 
-Top 5 Mistakes New Linux Users Make (1935421).ahk
+58154.  Top 5 Mistakes New Linux Users Make (1935421).ahk
 https://www.youtube.com/watch?v=MoqxphFukTQ
 
-Top 5 Mistakes New Linux Users Make.ahk
+58359.  Top 5 Mistakes New Linux Users Make.ahk
 https://www.youtube.com/watch?v=MoqxphFukTQ
 
-Top 5 Reasons Why Linux isn't Popular  Linux Market Share.ahk
+58565.  Top 5 Reasons Why Linux isn't Popular  Linux Market Share.ahk
 https://www.youtube.com/watch?v=HJp1aPaQts0
 
-TR 2990WX Programmers Workstation Linus Torvalds' Edition (sort of)!.ahk
+58772.  TR 2990WX Programmers Workstation Linus Torvalds' Edition (sort of)!.ahk
 https://www.youtube.com/watch?v=JvuDrrFHrhQ
 
-Truth and Lies About VPN - The Real Purpose of a Virtual Private Network.ahk
+58980.  Truth and Lies About VPN - The Real Purpose of a Virtual Private Network.ahk
 https://www.youtube.com/watch?v=3Ril6Eb3RCY
 
-Tutorial Building the Simplest Possible Linux System - Rob Landley, se-instruments.com.ahk
+59189.  Tutorial Building the Simplest Possible Linux System - Rob Landley, se-instruments.com.ahk
 https://www.youtube.com/watch?v=Sk9TatW9ino
 
-UBUNTU 14.04 VS LINUX MINT 17.1.ahk
+59399.  UBUNTU 14.04 VS LINUX MINT 17.1.ahk
 https://www.youtube.com/watch?v=4PeM50NAC6U
 
-Ubuntu Studio Creative Linux Distro.ahk
+59610.  Ubuntu Studio Creative Linux Distro.ahk
 https://www.youtube.com/watch?v=txVIlioe2xU
 
-Unboxing Dell XPS 15 (2020) And Installing Linux!.ahk
+59822.  Unboxing Dell XPS 15 (2020) And Installing Linux!.ahk
 https://www.youtube.com/watch?v=SsMrGGgcdrU
 
-Unix vs Linux (1384525).ahk
+60035.  Unix vs Linux (1384525).ahk
 https://www.youtube.com/watch?v=jowCUo_UGts
 
-Unix vs Linux (1743359).ahk
+60249.  Unix vs Linux (1743359).ahk
 https://www.youtube.com/watch?v=jowCUo_UGts
 
-Unix vs Linux.ahk
+60464.  Unix vs Linux.ahk
 https://www.youtube.com/watch?v=jowCUo_UGts
 
-Upgrade Old Computer to Chrome OS for FREE.ahk
+60680.  Upgrade Old Computer to Chrome OS for FREE.ahk
 https://www.youtube.com/watch?v=fukOnhnnAMc
 
-Use a Raspberry Pi to Fix Everyday Problems. Become the Office Hero!.ahk
+60897.  Use a Raspberry Pi to Fix Everyday Problems. Become the Office Hero!.ahk
 https://www.youtube.com/watch?v=ZszlVVY1LXo
 
-Useful Linux Applications  What You'll Need To Get Things Done.ahk
+61115.  Useful Linux Applications  What You'll Need To Get Things Done.ahk
 https://www.youtube.com/watch?v=yPTTwbTNDbg
 
-Vim Basics in 8 Minutes.ahk
+61334.  Vim Basics in 8 Minutes.ahk
 https://www.youtube.com/watch?v=ggSyF1SVFr4
 
-what is IP address and MAC address.ahk
+61554.  what is IP address and MAC address.ahk
 https://www.youtube.com/watch?v=HKM7qwP5Uj0
 
-What is Linux (1521306).ahk
+61775.  What is Linux (1521306).ahk
 https://www.youtube.com/watch?v=zA3vmx0GaO8
 
-What is Linux (1531367).ahk
+61997.  What is Linux (1531367).ahk
 https://www.youtube.com/watch?v=zA3vmx0GaO8
 
-What is Linux (1671714).ahk
+62220.  What is Linux (1671714).ahk
 https://www.youtube.com/watch?v=zA3vmx0GaO8
 
-What is Linux (1926260).ahk
+62444.  What is Linux (1926260).ahk
 https://www.youtube.com/watch?v=zA3vmx0GaO8
 
-What is Linux.ahk
+62669.  What is Linux.ahk
 https://www.youtube.com/watch?v=zA3vmx0GaO8
 
-What Other Operating Systems Are There Besides Windows or Mac.ahk
+62895.  What Other Operating Systems Are There Besides Windows or Mac.ahk
 https://www.youtube.com/watch?v=19gUdKaCBJE
 
-Where GREP Came From - Computerphile.ahk
+63122.  Where GREP Came From - Computerphile.ahk
 https://www.youtube.com/watch?v=NTfOnGZUZDk
 
-Which Linux Distribution  Understanding Linux Distros (1924532).ahk
+63350.  Which Linux Distribution  Understanding Linux Distros (1924532).ahk
 https://www.youtube.com/watch?v=DKFnqAtEOvc
 
-Which Linux Distribution  Understanding Linux Distros.ahk
+63579.  Which Linux Distribution  Understanding Linux Distros.ahk
 https://www.youtube.com/watch?v=DKFnqAtEOvc
 
-Why I chose Manjaro Linux and a desktop tour.ahk
+63809.  Why I chose Manjaro Linux and a desktop tour.ahk
 https://www.youtube.com/watch?v=XcmZmn0HvXA
 
-Why I hate Ubuntu.ahk
+64040.  Why I hate Ubuntu.ahk
 https://www.youtube.com/watch?v=C7RjWXRniA4
 
-Why I stopped using Windows 10  2019 Update.ahk
+64272.  Why I stopped using Windows 10  2019 Update.ahk
 https://www.youtube.com/watch?v=SakjTLUuF-w
 
-Why I'm ditching Ubuntu & Linux Mint for Manjaro.ahk
+64505.  Why I'm ditching Ubuntu & Linux Mint for Manjaro.ahk
 https://www.youtube.com/watch?v=zHo4boZGlZ8
 
-Why is MX Linux So Popular.ahk
+64739.  Why is MX Linux So Popular.ahk
 https://www.youtube.com/watch?v=FUGd99GRAfo
 
-Why Linus Torvalds doesn't use Ubuntu or Debian (1201938).ahk
+64974.  Why Linus Torvalds doesn't use Ubuntu or Debian (1201938).ahk
 https://www.youtube.com/watch?v=qHGTs1NSB1s
 
-Why Linus Torvalds doesn't use Ubuntu or Debian (1591086).ahk
+65210.  Why Linus Torvalds doesn't use Ubuntu or Debian (1591086).ahk
 https://www.youtube.com/watch?v=qHGTs1NSB1s
 
-Why Linus Torvalds doesn't use Ubuntu or Debian.ahk
+65447.  Why Linus Torvalds doesn't use Ubuntu or Debian.ahk
 https://www.youtube.com/watch?v=qHGTs1NSB1s
 
-Why Linux  Why Linux Mint.ahk
+65685.  Why Linux  Why Linux Mint.ahk
 https://www.youtube.com/watch?v=JE4SwkJ0Fys
 
-Why Linux Is Better For Programming.ahk
+65924.  Why Linux Is Better For Programming.ahk
 https://www.youtube.com/watch?v=otDOHt_Jges
 
-Why Video Editing On Linux Is Actually Amazing! Lightworks & Kdenlive.ahk
+66164.  Why Video Editing On Linux Is Actually Amazing! Lightworks & Kdenlive.ahk
 https://www.youtube.com/watch?v=Qqmb753S664
 
-Why You should learn linux.ahk
+66405.  Why You should learn linux.ahk
 https://www.youtube.com/watch?v=IHRmM6-TZJM
 
-Wii running Linux (better quality).ahk
+66647.  Wii running Linux (better quality).ahk
 https://www.youtube.com/watch?v=1oPdRIagtFE
 
-Windows 10 - ??? ????? ???? ?????????? ????? ?????.ahk
+66890.  Windows 10 - ??? ????? ???? ?????????? ????? ?????.ahk
 https://www.youtube.com/watch?v=8u0HydBuTUw
 
-WINE 4.0, LXQt 0.14, Parrot OS, Mastodon, MythTV, Gitea, APT Vulnerability  This Week in Linux 52.ahk
+67134.  WINE 4.0, LXQt 0.14, Parrot OS, Mastodon, MythTV, Gitea, APT Vulnerability  This Week in Linux 52.ahk
 https://www.youtube.com/watch?v=YC_h69lO_Ao
 
-Wiretapping the Secret Service can be easy and fun  Bryan Seely  TEDxKirkland.ahk
+67379.  Wiretapping the Secret Service can be easy and fun  Bryan Seely  TEDxKirkland.ahk
 https://www.youtube.com/watch?v=5c6AADI7Pb4
 
-Writing My Own Password Manager Using Python & SQL.ahk
+67625.  Writing My Own Password Manager Using Python & SQL.ahk
 https://www.youtube.com/watch?v=hkhyKJj28Ac
 
-Xbox Should Take My Advice....ahk
+67872.  Xbox Should Take My Advice....ahk
 https://www.youtube.com/watch?v=PmWlNSaEiSk
 
-You Must Know 20 Important Linux Commands.ahk
+68120.  You Must Know 20 Important Linux Commands.ahk
 https://www.youtube.com/watch?v=rLNM83KmQ0A
 
-You Need To Encrypt Your Drives! (Seriously...).ahk
+68369.  You Need To Encrypt Your Drives! (Seriously...).ahk
 https://www.youtube.com/watch?v=0NfvKci3WF0
 
-Zorin OS 12 Core - Linux distro review.ahk
+68619.  Zorin OS 12 Core - Linux distro review.ahk
 https://www.youtube.com/watch?v=JmB6WHGJBcc
 
-Zorin OS Linux Installation Sensation - Krazy Ken's Tech Misadventures.ahk
+68870.  Zorin OS Linux Installation Sensation - Krazy Ken's Tech Misadventures.ahk
 https://www.youtube.com/watch?v=jJWf5h72CGc
 
-????????? ???? ?????????? ??? ???????? ? Linux.ahk
+69122.  ????????? ???? ?????????? ??? ???????? ? Linux.ahk
 https://www.youtube.com/watch?v=TqD-VPhdjLY
 Linux

@@ -1,298 +1,298 @@
 
-C Programming in Linux Tutorial #001 - Hello World.ahk
+13.  C Programming in Linux Tutorial #001 - Hello World.ahk
 https://www.youtube.com/watch?v=CKNjXvMB0MY
 
-C Programming in Linux Tutorial #002 - Data Types int and char.ahk
+15.  C Programming in Linux Tutorial #002 - Data Types int and char.ahk
 https://www.youtube.com/watch?v=Nz3aPFHgk-A
 
-C Programming in Linux Tutorial #003 - Data Types float, double, and long int.ahk
+18.  C Programming in Linux Tutorial #003 - Data Types float, double, and long int.ahk
 https://www.youtube.com/watch?v=btzTHV27h6w
 
-C Programming in Linux Tutorial #004 - Data Types strings.ahk
+22.  C Programming in Linux Tutorial #004 - Data Types strings.ahk
 https://www.youtube.com/watch?v=FGVzHAtCBRw
 
-C Programming in Linux Tutorial #005 - Data Types pointer.ahk
+27.  C Programming in Linux Tutorial #005 - Data Types pointer.ahk
 https://www.youtube.com/watch?v=kM-dGZgX3Hc
 
-C Programming in Linux Tutorial #006 - Data Types Array.ahk
+33.  C Programming in Linux Tutorial #006 - Data Types Array.ahk
 https://www.youtube.com/watch?v=XVvOpkRZCsk
 
-C Programming in Linux Tutorial #007 - If-Then-Else Statement.ahk
+40.  C Programming in Linux Tutorial #007 - If-Then-Else Statement.ahk
 https://www.youtube.com/watch?v=SRNMlqJDWq4
 
-C Programming in Linux Tutorial #008 - For Loop Statement.ahk
+48.  C Programming in Linux Tutorial #008 - For Loop Statement.ahk
 https://www.youtube.com/watch?v=HBexz3rSziE
 
-C Programming in Linux Tutorial #009 - while Loop.ahk
+57.  C Programming in Linux Tutorial #009 - while Loop.ahk
 https://www.youtube.com/watch?v=oCPRK_1MxUc
 
-C Programming in Linux Tutorial #010 - struct Statement.ahk
+67.  C Programming in Linux Tutorial #010 - struct Statement.ahk
 https://www.youtube.com/watch?v=NAL8jRQERxE
 
-C Programming in Linux Tutorial #011 - typedef Statement.ahk
+78.  C Programming in Linux Tutorial #011 - typedef Statement.ahk
 https://www.youtube.com/watch?v=1pIl4c36hhQ
 
-C Programming in Linux Tutorial #012 - Functions.ahk
+90.  C Programming in Linux Tutorial #012 - Functions.ahk
 https://www.youtube.com/watch?v=Jr6s6_3VuAI
 
-C Programming in Linux Tutorial #013 - Function Pointers.ahk
+103.  C Programming in Linux Tutorial #013 - Function Pointers.ahk
 https://www.youtube.com/watch?v=HK1ujzlrqqw
 
-C Programming in Linux Tutorial #014 - Adding Comments in Source Code.ahk
+117.  C Programming in Linux Tutorial #014 - Adding Comments in Source Code.ahk
 https://www.youtube.com/watch?v=h7b6oJ_0Gmg
 
-C Programming in Linux Tutorial #015 - argc argv.ahk
+132.  C Programming in Linux Tutorial #015 - argc argv.ahk
 https://www.youtube.com/watch?v=plkZpe6qE0I
 
-C Programming in Linux Tutorial #016 - Multiple Source Files.ahk
+148.  C Programming in Linux Tutorial #016 - Multiple Source Files.ahk
 https://www.youtube.com/watch?v=e71Yt1W0f3Q
 
-C Programming in Linux Tutorial #017 - String Functions and Operations.ahk
+165.  C Programming in Linux Tutorial #017 - String Functions and Operations.ahk
 https://www.youtube.com/watch?v=zkDIj8K5saA
 
-C Programming in Linux Tutorial #018 - Char Pointer vs Array Char.ahk
+183.  C Programming in Linux Tutorial #018 - Char Pointer vs Array Char.ahk
 https://www.youtube.com/watch?v=gIVeisHb4xY
 
-C Programming in Linux Tutorial #019 - Preprocessor.ahk
+202.  C Programming in Linux Tutorial #019 - Preprocessor.ahk
 https://www.youtube.com/watch?v=vQFT9FuwQ0w
 
-C Programming in Linux Tutorial #020 - Unary and Binary Operations.ahk
+222.  C Programming in Linux Tutorial #020 - Unary and Binary Operations.ahk
 https://www.youtube.com/watch?v=TjMigIs_acM
 
-C Programming in Linux Tutorial #021 - Type Casting.ahk
+243.  C Programming in Linux Tutorial #021 - Type Casting.ahk
 https://www.youtube.com/watch?v=G-91N8H4bZU
 
-C Programming in Linux Tutorial #022 - malloc() free().ahk
+265.  C Programming in Linux Tutorial #022 - malloc() free().ahk
 https://www.youtube.com/watch?v=2CvIX50bJk8
 
-C Programming in Linux Tutorial #023 - Creating Header File.ahk
+288.  C Programming in Linux Tutorial #023 - Creating Header File.ahk
 https://www.youtube.com/watch?v=Hb5rv-B-684
 
-C Programming in Linux Tutorial #024 - open() read() write() Functions.ahk
+312.  C Programming in Linux Tutorial #024 - open() read() write() Functions.ahk
 https://www.youtube.com/watch?v=dP3N8g7h8gY
 
-C Programming in Linux Tutorial #025 - readdir() opendir() Functions.ahk
+337.  C Programming in Linux Tutorial #025 - readdir() opendir() Functions.ahk
 https://www.youtube.com/watch?v=vbAfIGR_5XM
 
-C Programming in Linux Tutorial #026 - fork() Function.ahk
+363.  C Programming in Linux Tutorial #026 - fork() Function.ahk
 https://www.youtube.com/watch?v=tS-9zg3qfMY
 
-C Programming in Linux Tutorial #027 - Bubble Sort.ahk
+390.  C Programming in Linux Tutorial #027 - Bubble Sort.ahk
 https://www.youtube.com/watch?v=1QrTIFNy6UM
 
-C Programming in Linux Tutorial #028 - Recursion.ahk
+418.  C Programming in Linux Tutorial #028 - Recursion.ahk
 https://www.youtube.com/watch?v=_ht9sUCgkiw
 
-C Programming in Linux Tutorial #029 - pthreads.ahk
+447.  C Programming in Linux Tutorial #029 - pthreads.ahk
 https://www.youtube.com/watch?v=n9IT5RAludA
 
-C Programming in Linux Tutorial #030 - scanf() Function.ahk
+477.  C Programming in Linux Tutorial #030 - scanf() Function.ahk
 https://www.youtube.com/watch?v=ylnP-kC6zWk
 
-C Programming in Linux Tutorial #031 - switch-case Statement.ahk
+508.  C Programming in Linux Tutorial #031 - switch-case Statement.ahk
 https://www.youtube.com/watch?v=JYlmB90ZkNo
 
-C Programming in Linux Tutorial #032 - qsort.ahk
+540.  C Programming in Linux Tutorial #032 - qsort.ahk
 https://www.youtube.com/watch?v=ci4WIBe894U
 
-C Programming in Linux Tutorial #033 - read() write() Functions.ahk
+573.  C Programming in Linux Tutorial #033 - read() write() Functions.ahk
 https://www.youtube.com/watch?v=JJw-6wkdK-U
 
-C Programming in Linux Tutorial #034 - Socket Programming.ahk
+607.  C Programming in Linux Tutorial #034 - Socket Programming.ahk
 https://www.youtube.com/watch?v=pFLQkmnmD0o
 
-C Programming in Linux Tutorial #035 (Rev. 2) - Linked List.ahk
+642.  C Programming in Linux Tutorial #035 (Rev. 2) - Linked List.ahk
 https://www.youtube.com/watch?v=opleuEk017M
 
-C Programming in Linux Tutorial #036 - Shared Memory.ahk
+678.  C Programming in Linux Tutorial #036 - Shared Memory.ahk
 https://www.youtube.com/watch?v=SMeDw2GDMsE
 
-C Programming in Linux Tutorial #037 - pipe() Function.ahk
+715.  C Programming in Linux Tutorial #037 - pipe() Function.ahk
 https://www.youtube.com/watch?v=7bNMkvcOKlc
 
-C Programming in Linux Tutorial #038 - fopen() fread() fwrite() Functions.ahk
+753.  C Programming in Linux Tutorial #038 - fopen() fread() fwrite() Functions.ahk
 https://www.youtube.com/watch?v=UD0X2bQGqeo
 
-C Programming in Linux Tutorial #039 - mutex pthread.ahk
+792.  C Programming in Linux Tutorial #039 - mutex pthread.ahk
 https://www.youtube.com/watch?v=axwGR80q0Qw
 
-C Programming in Linux Tutorial #040 - Dynamic Shared Libraries.ahk
+832.  C Programming in Linux Tutorial #040 - Dynamic Shared Libraries.ahk
 https://www.youtube.com/watch?v=KNr4tAPvbvQ
 
-C Programming in Linux Tutorial #041 - Static Shared Libraries.ahk
+873.  C Programming in Linux Tutorial #041 - Static Shared Libraries.ahk
 https://www.youtube.com/watch?v=gLcO-tgi-mU
 
-C Programming in Linux Tutorial #042 - Static Variables.ahk
+915.  C Programming in Linux Tutorial #042 - Static Variables.ahk
 https://www.youtube.com/watch?v=_BU7v5U3kec
 
-C Programming in Linux Tutorial #043 - String to Integer Conversion.ahk
+958.  C Programming in Linux Tutorial #043 - String to Integer Conversion.ahk
 https://www.youtube.com/watch?v=o3d3kJw1h9Q
 
-C Programming in Linux Tutorial #044 - Time Functions.ahk
+1002.  C Programming in Linux Tutorial #044 - Time Functions.ahk
 https://www.youtube.com/watch?v=aCL1UU0Nr3A
 
-C Programming in Linux Tutorial #045 - toupper() tolower() Functions.ahk
+1047.  C Programming in Linux Tutorial #045 - toupper() tolower() Functions.ahk
 https://www.youtube.com/watch?v=JTlKBOgLgt8
 
-C Programming in Linux Tutorial #046 - Semaphore pthread.ahk
+1093.  C Programming in Linux Tutorial #046 - Semaphore pthread.ahk
 https://www.youtube.com/watch?v=TYnNKdf7cZM
 
-C Programming in Linux Tutorial #047 - system() Function.ahk
+1140.  C Programming in Linux Tutorial #047 - system() Function.ahk
 https://www.youtube.com/watch?v=PKAkg8fQo5E
 
-C Programming in Linux Tutorial #048 - setenv() Function.ahk
+1188.  C Programming in Linux Tutorial #048 - setenv() Function.ahk
 https://www.youtube.com/watch?v=SwHC0FZwcaw
 
-C Programming in Linux Tutorial #049 - Bit Shift Operation.ahk
+1237.  C Programming in Linux Tutorial #049 - Bit Shift Operation.ahk
 https://www.youtube.com/watch?v=-Ji_Pa2zPTk
 
-C Programming in Linux Tutorial #050 - Macro Functions.ahk
+1287.  C Programming in Linux Tutorial #050 - Macro Functions.ahk
 https://www.youtube.com/watch?v=xlFr8wUcFxM
 
-C Programming in Linux Tutorial #051 - Double Pointer.ahk
+1338.  C Programming in Linux Tutorial #051 - Double Pointer.ahk
 https://www.youtube.com/watch?v=egsLhDJs2B0
 
-C Programming in Linux Tutorial #052 - Two Dimensional Array Variable.ahk
+1390.  C Programming in Linux Tutorial #052 - Two Dimensional Array Variable.ahk
 https://www.youtube.com/watch?v=vElNnKhRtW4
 
-C Programming in Linux Tutorial #053 - Scope.ahk
+1443.  C Programming in Linux Tutorial #053 - Scope.ahk
 https://www.youtube.com/watch?v=CKJHmveAqVQ
 
-C Programming in Linux Tutorial #054 - Enum Type.ahk
+1497.  C Programming in Linux Tutorial #054 - Enum Type.ahk
 https://www.youtube.com/watch?v=vUxC2V4qvcE
 
-C Programming in Linux Tutorial #055 - Signals.ahk
+1552.  C Programming in Linux Tutorial #055 - Signals.ahk
 https://www.youtube.com/watch?v=rggw61JtGz0
 
-C Programming in Linux Tutorial #056 - GDB debugger (12).ahk
+1608.  C Programming in Linux Tutorial #056 - GDB debugger (12).ahk
 https://www.youtube.com/watch?v=rlN3XI8kuhI
 
-C Programming in Linux Tutorial #057 - GDB debugger (22).ahk
+1665.  C Programming in Linux Tutorial #057 - GDB debugger (22).ahk
 https://www.youtube.com/watch?v=UM2wf0zjBfM
 
-C Programming in Linux Tutorial #058 - Code Optimization.ahk
+1723.  C Programming in Linux Tutorial #058 - Code Optimization.ahk
 https://www.youtube.com/watch?v=Kgc4IAUIglE
 
-C Programming in Linux Tutorial #059 - Code Instrumentation.ahk
+1782.  C Programming in Linux Tutorial #059 - Code Instrumentation.ahk
 https://www.youtube.com/watch?v=y8FN6Y8G0v8
 
-C Programming in Linux Tutorial #060 - (Part 12) getopt() Function.ahk
+1842.  C Programming in Linux Tutorial #060 - (Part 12) getopt() Function.ahk
 https://www.youtube.com/watch?v=0PrXd9Wo6jA
 
-C Programming in Linux Tutorial #060 - (Part 22) getopt() Function.ahk
+1903.  C Programming in Linux Tutorial #060 - (Part 22) getopt() Function.ahk
 https://www.youtube.com/watch?v=HeNqqsGxM4k
 
-C Programming in Linux Tutorial #061 - Math Library.ahk
+1965.  C Programming in Linux Tutorial #061 - Math Library.ahk
 https://www.youtube.com/watch?v=u4Q30JUeRKY
 
-C Programming in Linux Tutorial #062 - Binary Search Tree.ahk
+2028.  C Programming in Linux Tutorial #062 - Binary Search Tree.ahk
 https://www.youtube.com/watch?v=VBBJK1xFjDA
 
-C Programming in Linux Tutorial #063 - Hash Program.ahk
+2092.  C Programming in Linux Tutorial #063 - Hash Program.ahk
 https://www.youtube.com/watch?v=LAuWRfWo5hI
 
-C Programming in Linux Tutorial #064 - mkdir() rmdir() symlink() unlink() Functions.ahk
+2157.  C Programming in Linux Tutorial #064 - mkdir() rmdir() symlink() unlink() Functions.ahk
 https://www.youtube.com/watch?v=E4xZnIPNTN4
 
-C Programming in Linux Tutorial #065 - exec() Functions.ahk
+2223.  C Programming in Linux Tutorial #065 - exec() Functions.ahk
 https://www.youtube.com/watch?v=jZksUSSU9IQ
 
-C Programming in Linux Tutorial #066 - abort() assert() Functions.ahk
+2290.  C Programming in Linux Tutorial #066 - abort() assert() Functions.ahk
 https://www.youtube.com/watch?v=TWaBIw24v0w
 
-C Programming in Linux Tutorial #067 - Memory Map using mmap() Function.ahk
+2358.  C Programming in Linux Tutorial #067 - Memory Map using mmap() Function.ahk
 https://www.youtube.com/watch?v=F3z-SIxu1Tw
 
-C Programming in Linux Tutorial #068 - strftime() Function.ahk
+2427.  C Programming in Linux Tutorial #068 - strftime() Function.ahk
 https://www.youtube.com/watch?v=Nm8PKRTpH3Q
 
-C Programming in Linux Tutorial #069 - Generating Random Numbers.ahk
+2497.  C Programming in Linux Tutorial #069 - Generating Random Numbers.ahk
 https://www.youtube.com/watch?v=btvx-l8fedk
 
-C Programming in Linux Tutorial #070 - Wide Characters.ahk
+2568.  C Programming in Linux Tutorial #070 - Wide Characters.ahk
 https://www.youtube.com/watch?v=-MGfg5piFPA
 
-C Programming in Linux Tutorial #071 - fsync() Function.ahk
+2640.  C Programming in Linux Tutorial #071 - fsync() Function.ahk
 https://www.youtube.com/watch?v=OvAoag2MODo
 
-C Programming in Linux Tutorial #072 - sendfile() Function.ahk
+2713.  C Programming in Linux Tutorial #072 - sendfile() Function.ahk
 https://www.youtube.com/watch?v=r4gTEPo9m10
 
-C Programming in Linux Tutorial #073 - GDBM Embedded Database.ahk
+2787.  C Programming in Linux Tutorial #073 - GDBM Embedded Database.ahk
 https://www.youtube.com/watch?v=c13SrW05gLw
 
-C Programming in Linux Tutorial #074 - libusb.ahk
+2862.  C Programming in Linux Tutorial #074 - libusb.ahk
 https://www.youtube.com/watch?v=If7qsVvkIH0
 
-C Programming in Linux Tutorial #075 - Redirect.ahk
+2938.  C Programming in Linux Tutorial #075 - Redirect.ahk
 https://www.youtube.com/watch?v=fL-zXw_oLbw
 
-C Programming in Linux Tutorial #076 - lseek() Function.ahk
+3015.  C Programming in Linux Tutorial #076 - lseek() Function.ahk
 https://www.youtube.com/watch?v=_-OFPZVVYzg
 
-C Programming in Linux Tutorial #077 - stat() Function.ahk
+3093.  C Programming in Linux Tutorial #077 - stat() Function.ahk
 https://www.youtube.com/watch?v=LERSkW_pLBs
 
-C Programming in Linux Tutorial #078 - va_start(), va_end(), va_arg() Functions.ahk
+3172.  C Programming in Linux Tutorial #078 - va_start(), va_end(), va_arg() Functions.ahk
 https://www.youtube.com/watch?v=-dZpDPFp6YU
 
-C Programming in Linux Tutorial #079 - union.ahk
+3252.  C Programming in Linux Tutorial #079 - union.ahk
 https://www.youtube.com/watch?v=8tHAJgEkkks
 
-C Programming in Linux Tutorial #080 - Trimming out end spaces in a string.ahk
+3333.  C Programming in Linux Tutorial #080 - Trimming out end spaces in a string.ahk
 https://www.youtube.com/watch?v=ntSbck9Jgs4
 
-C Programming in Linux Tutorial #081 - Field extraction from one-line record of flat file database.ahk
+3415.  C Programming in Linux Tutorial #081 - Field extraction from one-line record of flat file database.ahk
 https://www.youtube.com/watch?v=W1rjxF7lNeA
 
-C Programming in Linux Tutorial #082 - Passing struct by value and by reference.ahk
+3498.  C Programming in Linux Tutorial #082 - Passing struct by value and by reference.ahk
 https://www.youtube.com/watch?v=jRLooqP5VDI
 
-C Programming in Linux Tutorial #083 - select() function.ahk
+3582.  C Programming in Linux Tutorial #083 - select() function.ahk
 https://www.youtube.com/watch?v=qyFwGyTYe-M
 
-C Programming in Linux Tutorial #084 - poll() function.ahk
+3667.  C Programming in Linux Tutorial #084 - poll() function.ahk
 https://www.youtube.com/watch?v=UP6B324Qh5k
 
-C Programming in Linux Tutorial #085 - Segmentation fault handling.ahk
+3753.  C Programming in Linux Tutorial #085 - Segmentation fault handling.ahk
 https://www.youtube.com/watch?v=H-a0vHOvyAk
 
-C Programming in Linux Tutorial #086 - Solving Systems of Equations.ahk
+3840.  C Programming in Linux Tutorial #086 - Solving Systems of Equations.ahk
 https://www.youtube.com/watch?v=rlu_sFltONo
 
-C Programming in Linux Tutorial #087 - Prime Numbers.ahk
+3928.  C Programming in Linux Tutorial #087 - Prime Numbers.ahk
 https://www.youtube.com/watch?v=uoULGU72tTg
 
-C Programming in Linux Tutorial #088 - clone() function for creating new process.ahk
+4017.  C Programming in Linux Tutorial #088 - clone() function for creating new process.ahk
 https://www.youtube.com/watch?v=1NXECbHd8mA
 
-C Programming in Linux Tutorial #089 - Decimal to Binary Conversion Program.ahk
+4107.  C Programming in Linux Tutorial #089 - Decimal to Binary Conversion Program.ahk
 https://www.youtube.com/watch?v=kU5q8uhNDP0
 
-C Programming in Linux Tutorial #090 - goto Statement.ahk
+4198.  C Programming in Linux Tutorial #090 - goto Statement.ahk
 https://www.youtube.com/watch?v=sBODMljZcwk
 
-C Programming in Linux Tutorial #091 - C macros, __FILE__, __func__, __LINE__.ahk
+4290.  C Programming in Linux Tutorial #091 - C macros, __FILE__, __func__, __LINE__.ahk
 https://www.youtube.com/watch?v=6OwM0SaGq9Q
 
-C Programming in Linux Tutorial #092 - Scanset Specifiers in scanf() function.ahk
+4383.  C Programming in Linux Tutorial #092 - Scanset Specifiers in scanf() function.ahk
 https://www.youtube.com/watch?v=aDpovZolSBk
 
-C Programming in Linux Tutorial #093 - Data Hiding or Encapsulation.ahk
+4477.  C Programming in Linux Tutorial #093 - Data Hiding or Encapsulation.ahk
 https://www.youtube.com/watch?v=ZyJPAFMzv4Y
 
-C Programming in Linux Tutorial #094 - Decimal to Hexadecimal Conversion.ahk
+4572.  C Programming in Linux Tutorial #094 - Decimal to Hexadecimal Conversion.ahk
 https://www.youtube.com/watch?v=DS65Q0EDfAA
 
-C Programming in Linux Tutorial #095 - PI (p) Algorithm Implementation in C.ahk
+4668.  C Programming in Linux Tutorial #095 - PI (p) Algorithm Implementation in C.ahk
 https://www.youtube.com/watch?v=wpeaXfvhWR8
 
-C Programming in Linux Tutorial #096 - Floating Point Data Types, Mantissa and Exponent.ahk
+4765.  C Programming in Linux Tutorial #096 - Floating Point Data Types, Mantissa and Exponent.ahk
 https://www.youtube.com/watch?v=PSVdgl8PDyc
 
-C Programming in Linux Tutorial #097 - Creating A Simple Database.ahk
+4863.  C Programming in Linux Tutorial #097 - Creating A Simple Database.ahk
 https://www.youtube.com/watch?v=SEenaPQXxFs
 
-C Programming in Linux Tutorial #098 - A Simple Web Server Program.ahk
+4962.  C Programming in Linux Tutorial #098 - A Simple Web Server Program.ahk
 https://www.youtube.com/watch?v=Q1bHO4VbUck
 C Programming in Linux Tutorial

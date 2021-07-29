@@ -1,76 +1,76 @@
 
-Archiving Files in Linux.ahk
+4963.  Archiving Files in Linux.ahk
 https://www.youtube.com/watch?v=_CItUGbd3dw
 
-Bash Scripting Basics Part 1.ahk
+4965.  Bash Scripting Basics Part 1.ahk
 https://www.youtube.com/watch?v=NSu4IWlOU7k
 
-Bash Scripting Basics Part 2.ahk
+4968.  Bash Scripting Basics Part 2.ahk
 https://www.youtube.com/watch?v=lyaGaSwHocs
 
-Bash Scripting Basics Part 3.ahk
+4972.  Bash Scripting Basics Part 3.ahk
 https://www.youtube.com/watch?v=pGfVCgE9lbI
 
-Basics of Getting Help in Linux.ahk
+4977.  Basics of Getting Help in Linux.ahk
 https://www.youtube.com/watch?v=QSPPGmS-UPA
 
-Basics of Shell Customization.ahk
+4983.  Basics of Shell Customization.ahk
 https://www.youtube.com/watch?v=H4SBYv0AQEU
 
-Basics of the Linux Boot Process.ahk
+4990.  Basics of the Linux Boot Process.ahk
 https://www.youtube.com/watch?v=yeMA7AJFtb8
 
-Basics of Viewing Files in Linux.ahk
+4998.  Basics of Viewing Files in Linux.ahk
 https://www.youtube.com/watch?v=hQvK5kComDg
 
-Basics of Working With Storage Devices in Linux.ahk
+5007.  Basics of Working With Storage Devices in Linux.ahk
 https://www.youtube.com/watch?v=TQ5m6TgzWx0
 
-Creating and Deleting Files and Folders in Linux.ahk
+5017.  Creating and Deleting Files and Folders in Linux.ahk
 https://www.youtube.com/watch?v=91FhiTyEaCU
 
-File Permissions in Linux.ahk
+5028.  File Permissions in Linux.ahk
 https://www.youtube.com/watch?v=Ae2Oqe7fAOo
 
-Getting Around in Unix (Basics).ahk
+5040.  Getting Around in Unix (Basics).ahk
 https://www.youtube.com/watch?v=ZcBQ7I3YnOs
 
-Hard and Soft Links in Linux.ahk
+5053.  Hard and Soft Links in Linux.ahk
 https://www.youtube.com/watch?v=kYonC93SvpE
 
-Installing Ubuntu in a VirtualBox VM.ahk
+5067.  Installing Ubuntu in a VirtualBox VM.ahk
 https://www.youtube.com/watch?v=FonzQyqEH1E
 
-Intro to xargs.ahk
+5082.  Intro to xargs.ahk
 https://www.youtube.com/watch?v=8kAB_VgokMY
 
-Introduction to Kernel Modules.ahk
+5098.  Introduction to Kernel Modules.ahk
 https://www.youtube.com/watch?v=ID3gjDflqyA
 
-Kernel Basics.ahk
+5115.  Kernel Basics.ahk
 https://www.youtube.com/watch?v=rTcnTOXf_jM
 
-Managing Processes.ahk
+5133.  Managing Processes.ahk
 https://www.youtube.com/watch?v=uVant1LicxI
 
-Mounting Drives.ahk
+5152.  Mounting Drives.ahk
 https://www.youtube.com/watch?v=AH9LEr3k5T4
 
-Moving and Copying Files and Directories in Linux.ahk
+5172.  Moving and Copying Files and Directories in Linux.ahk
 https://www.youtube.com/watch?v=GKEGNdNIQrw
 
-Path & Command Basics.ahk
+5193.  Path & Command Basics.ahk
 https://www.youtube.com/watch?v=irYWpAZKurA
 
-Regular Expression Basics.ahk
+5215.  Regular Expression Basics.ahk
 https://www.youtube.com/watch?v=KJG1dETacLI
 
-Scheduling Jobs in Linux.ahk
+5238.  Scheduling Jobs in Linux.ahk
 https://www.youtube.com/watch?v=z3EDu_IP8v8
 
-Streams, Redirection, and Piping.ahk
+5262.  Streams, Redirection, and Piping.ahk
 https://www.youtube.com/watch?v=EuzOw7M15vg
 
-The Basics of Installing Software from Source in Linux.ahk
+5287.  The Basics of Installing Software from Source in Linux.ahk
 https://www.youtube.com/watch?v=8PPsRowfJKA
 Linux

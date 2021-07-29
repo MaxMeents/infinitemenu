@@ -1,100 +1,100 @@
 
-02 Development Environment Setting.ahk
+24050.  02 Development Environment Setting.ahk
 https://www.youtube.com/watch?v=sEGC-adSKXo
 
-03 Basic JavaScript Syntax.ahk
+24052.  03 Basic JavaScript Syntax.ahk
 https://www.youtube.com/watch?v=KXxXr0RxGDE
 
-04 JavaScript Variables.ahk
+24055.  04 JavaScript Variables.ahk
 https://www.youtube.com/watch?v=plOo5hNVQJU
 
-05 JavaScript Data Types.ahk
+24059.  05 JavaScript Data Types.ahk
 https://www.youtube.com/watch?v=yjE_xXL26qA
 
-06 JavaScript Type Conversion.ahk
+24064.  06 JavaScript Type Conversion.ahk
 https://www.youtube.com/watch?v=jfQyMPzPTjY
 
-07 Expressions and Operators.ahk
+24070.  07 Expressions and Operators.ahk
 https://www.youtube.com/watch?v=nMQlXMHMz_Y
 
-08 JavaScript Arrays.ahk
+24077.  08 JavaScript Arrays.ahk
 https://www.youtube.com/watch?v=S2JVtEwa-kU
 
-09 Function Declaration.ahk
+24085.  09 Function Declaration.ahk
 https://www.youtube.com/watch?v=yPJCFWLd23o
 
-1 JavaScript Introduction.ahk
+24094.  1 JavaScript Introduction.ahk
 https://www.youtube.com/watch?v=zBPeGR48_vE
 
-10 JavaScript Function Expressions.ahk
+24104.  10 JavaScript Function Expressions.ahk
 https://www.youtube.com/watch?v=Wggcy2oKV3E
 
-11 JavaScript Decision Statements.ahk
+24115.  11 JavaScript Decision Statements.ahk
 https://www.youtube.com/watch?v=Fk3tdDAWkCI
 
-12 JavaScript Iteration Statements.ahk
+24127.  12 JavaScript Iteration Statements.ahk
 https://www.youtube.com/watch?v=sQ7YA0x8eUg
 
-13 JavaScript Basics of Scope.ahk
+24140.  13 JavaScript Basics of Scope.ahk
 https://www.youtube.com/watch?v=wCijt0OjnHc
 
-14 JavaScript Returning Functions from Functions.ahk
+24154.  14 JavaScript Returning Functions from Functions.ahk
 https://www.youtube.com/watch?v=onTQRpF15hI
 
-15 JavaScript Object Literals.ahk
+24169.  15 JavaScript Object Literals.ahk
 https://www.youtube.com/watch?v=CNGv0soYFn0
 
-16 JavaScript Module Pattern and Revealing Module Pattern.ahk
+24185.  16 JavaScript Module Pattern and Revealing Module Pattern.ahk
 https://www.youtube.com/watch?v=CNohrcgM_hU
 
-17 JavaScript Closures.ahk
+24202.  17 JavaScript Closures.ahk
 https://www.youtube.com/watch?v=3Uy5cJ-UpS0
 
-18 JavaScript this Keyword.ahk
+24220.  18 JavaScript this Keyword.ahk
 https://www.youtube.com/watch?v=RNrrcxr-_PU
 
-19 JavaScript Destructuring.ahk
+24239.  19 JavaScript Destructuring.ahk
 https://www.youtube.com/watch?v=G0PC7D3XZBA
 
-20 JavaScript String Template Literals.ahk
+24259.  20 JavaScript String Template Literals.ahk
 https://www.youtube.com/watch?v=DeFK4lS5LIA
 
-21 JavaScript  Regular Expressions.ahk
+24280.  21 JavaScript  Regular Expressions.ahk
 https://www.youtube.com/watch?v=jfC2tX-NUaI
 
-22 JavaScript Built in Natives Type.ahk
+24302.  22 JavaScript Built in Natives Type.ahk
 https://www.youtube.com/watch?v=n5mvncHb-Y0
 
-23 Javascript Constructor Function.ahk
+24325.  23 Javascript Constructor Function.ahk
 https://www.youtube.com/watch?v=MBLCbJvyaA0
 
-24 JavaScript Prototype Chain.ahk
+24349.  24 JavaScript Prototype Chain.ahk
 https://www.youtube.com/watch?v=1HEG5bvjJIA
 
-25 JavaScript Classes.ahk
+24374.  25 JavaScript Classes.ahk
 https://www.youtube.com/watch?v=R4lPsqG2ic8
 
-26 JavaScript Arrow Functions.ahk
+24400.  26 JavaScript Arrow Functions.ahk
 https://www.youtube.com/watch?v=hjWt3PQktJ8
 
-27 JavaScript Truthly And Falsy Values.ahk
+24427.  27 JavaScript Truthly And Falsy Values.ahk
 https://www.youtube.com/watch?v=LWeRIGGRZVk
 
-28 JavaScript Null Type.ahk
+24455.  28 JavaScript Null Type.ahk
 https://www.youtube.com/watch?v=tM4aKXtaOrE
 
-29 JavaScript Date Object.ahk
+24484.  29 JavaScript Date Object.ahk
 https://www.youtube.com/watch?v=_AQ9RBQcNMA
 
-30 JavaScript String Methods.ahk
+24514.  30 JavaScript String Methods.ahk
 https://www.youtube.com/watch?v=eOCfFxLGS-o
 
-31 JavaScript Array Methods.ahk
+24545.  31 JavaScript Array Methods.ahk
 https://www.youtube.com/watch?v=hZF_0dZnpvo
 
-32 JavaScript Error Handling With Try Catch.ahk
+24577.  32 JavaScript Error Handling With Try Catch.ahk
 https://www.youtube.com/watch?v=Sm4AZFIc39Y
 
-33 JavaScript Understanding DOM.ahk
+24610.  33 JavaScript Understanding DOM.ahk
 https://www.youtube.com/watch?v=EQJ4w3ypF9o
 JavaScript Tutorial For Beginners To Experts  Full Course 2020

@@ -1,76 +1,76 @@
 
-Action.ahk
+2.  Action.ahk
 https://www.netflix.com/browse/genre/10673?bc=83
 
-Anime.ahk
+4.  Anime.ahk
 https://www.netflix.com/browse/genre/6721?bc=83
 
-Black Stories.ahk
+7.  Black Stories.ahk
 https://www.netflix.com/browse/genre/81243939?bc=83
 
-British.ahk
+11.  British.ahk
 https://www.netflix.com/browse/genre/52117?bc=83
 
-Classic & Cult.ahk
+16.  Classic & Cult.ahk
 https://www.netflix.com/browse/genre/2244733?bc=83
 
-Comedies.ahk
+22.  Comedies.ahk
 https://www.netflix.com/browse/genre/10375?bc=83
 
-Crime.ahk
+29.  Crime.ahk
 https://www.netflix.com/browse/genre/26146?bc=83
 
-Docuseries.ahk
+37.  Docuseries.ahk
 https://www.netflix.com/browse/genre/10105?bc=83
 
-Dramas.ahk
+46.  Dramas.ahk
 https://www.netflix.com/browse/genre/11714?bc=83
 
-History.ahk
+56.  History.ahk
 https://www.netflix.com/browse/genre/81268388?bc=83
 
-Horror.ahk
+67.  Horror.ahk
 https://www.netflix.com/browse/genre/83059?bc=83
 
-International.ahk
+79.  International.ahk
 https://www.netflix.com/browse/genre/1195213?bc=83
 
-K-dramas.ahk
+92.  K-dramas.ahk
 https://www.netflix.com/browse/genre/2638104?bc=83
 
-Kids.ahk
+106.  Kids.ahk
 https://www.netflix.com/browse/genre/27346?bc=83
 
-l.ahk
+121.  l.ahk
 lll
 
-LGBTQ.ahk
+137.  LGBTQ.ahk
 https://www.netflix.com/browse/genre/65263?bc=83
 
-Mysteries.ahk
+154.  Mysteries.ahk
 https://www.netflix.com/browse/genre/4366?bc=83
 
-Reality.ahk
+172.  Reality.ahk
 https://www.netflix.com/browse/genre/9833?bc=83
 
-Romance.ahk
+191.  Romance.ahk
 https://www.netflix.com/browse/genre/26156?bc=83
 
-Sci-Fi & Fantasy.ahk
+211.  Sci-Fi & Fantasy.ahk
 https://www.netflix.com/browse/genre/1372?bc=83
 
-Science & Nature.ahk
+232.  Science & Nature.ahk
 https://www.netflix.com/browse/genre/52780?bc=83
 
-Spanish-Language.ahk
+254.  Spanish-Language.ahk
 https://www.netflix.com/browse/genre/67675?bc=83
 
-Stand-Up & Talk Shows.ahk
+277.  Stand-Up & Talk Shows.ahk
 https://www.netflix.com/browse/genre/1516534?bc=83
 
-Teen.ahk
+301.  Teen.ahk
 https://www.netflix.com/browse/genre/60951?bc=83
 
-Thriller.ahk
+326.  Thriller.ahk
 https://www.netflix.com/browse/genre/89811?bc=83
 List of Generes

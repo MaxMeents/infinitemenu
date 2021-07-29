@@ -1,7 +1,7 @@
 
-Jingles
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Commercial/Jingles/Jingles.txt
+1.  Jingles
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Commercial/Jingles/Jingles.txt
 
-TV Themes
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Commercial/TV_Themes/TV_Themes.txt
+2.  TV Themes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Commercial/TV_Themes/TV_Themes.txt
 Commercial

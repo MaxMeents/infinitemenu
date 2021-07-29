@@ -1,181 +1,181 @@
 
-How to Adjust the Power Options on Your Windows 7 Computer.ahk
+395.  How to Adjust the Power Options on Your Windows 7 Computer.ahk
 https://www.youtube.com/watch?v=bwTGT5Q8BGM
 
-How to Adjust Your Mouse Settings on Windows 7.ahk
+397.  How to Adjust Your Mouse Settings on Windows 7.ahk
 https://www.youtube.com/watch?v=0KRsDTYK5x4
 
-How to Back up Your Data - Learn Windows 7.ahk
+400.  How to Back up Your Data - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=rACB8Uqatww
 
-How to Change Display Settings - Learn Windows 7.ahk
+404.  How to Change Display Settings - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=mHD86E_Pfvw
 
-How to Change Setting in Internet Explorer - Learn Windows 7.ahk
+409.  How to Change Setting in Internet Explorer - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=DIgIUgvW4xo
 
-How to Change Sound Settings  Learn Windows .ahk
+415.  How to Change Sound Settings  Learn Windows .ahk
 https://www.youtube.com/watch?v=36Qcg0CyEB4
 
-How to Change the Look of Your Computer.ahk
+422.  How to Change the Look of Your Computer.ahk
 https://www.youtube.com/watch?v=UyLEwMudVho
 
-How to Check for Viruses on Your Computer.ahk
+430.  How to Check for Viruses on Your Computer.ahk
 https://www.youtube.com/watch?v=CoepJVuUtT0
 
-How to Connect to a Wired Network  Learn Windows .ahk
+439.  How to Connect to a Wired Network  Learn Windows .ahk
 https://www.youtube.com/watch?v=sRVpHPlSkP4
 
-How to Defragmenting your Hard Drive - Learn Windows 7.ahk
+449.  How to Defragmenting your Hard Drive - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=zFxhA06JE4I
 
-How to Get Free Antivirus Software  Learn Windows 7 .ahk
+460.  How to Get Free Antivirus Software  Learn Windows 7 .ahk
 https://www.youtube.com/watch?v=os7U_G4hWEQ
 
-How to make a System Repair Disc to Save Your Computer.ahk
+472.  How to make a System Repair Disc to Save Your Computer.ahk
 https://www.youtube.com/watch?v=ygka-oAT88g
 
-How to Remove Junk Files to Save Disk Space  Learn Windows .ahk
+485.  How to Remove Junk Files to Save Disk Space  Learn Windows .ahk
 https://www.youtube.com/watch?v=SS-OHMVZK8c
 
-How to Remove Startup Programs on Windows 7..ahk
+499.  How to Remove Startup Programs on Windows 7..ahk
 https://www.youtube.com/watch?v=8x3_8MI4ec4
 
-How to Repair the Windows Registry  Learn Windows .ahk
+514.  How to Repair the Windows Registry  Learn Windows .ahk
 https://www.youtube.com/watch?v=rxxMGxu79us
 
-How to Restore Your Computer from System Image - Learn Windows 7.ahk
+530.  How to Restore Your Computer from System Image - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=PWEKWqQuz9o
 
-How to Setup Windows Network with HomeGroup.ahk
+547.  How to Setup Windows Network with HomeGroup.ahk
 https://www.youtube.com/watch?v=y6j2wQ-0Idw
 
-How to Speed Up Your Computer! - Learn Windows 7.ahk
+565.  How to Speed Up Your Computer! - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=pBwM_gktAhY
 
-How to Stop Spam Mail  Learn Windows .ahk
+584.  How to Stop Spam Mail  Learn Windows .ahk
 https://www.youtube.com/watch?v=J6uqNgYp4z4
 
-How to Take a Picture of Your Computer Screen.ahk
+604.  How to Take a Picture of Your Computer Screen.ahk
 https://www.youtube.com/watch?v=6wXbKqx-nqE
 
-How to Transfer Data Between Two Computers.ahk
+625.  How to Transfer Data Between Two Computers.ahk
 https://www.youtube.com/watch?v=jkM7nIjPN8k
 
-How to Use System Restore to Fix Your Computer.ahk
+647.  How to Use System Restore to Fix Your Computer.ahk
 https://www.youtube.com/watch?v=M9lhmJZIVbM
 
-Learn Windows 7 - Action Center.ahk
+670.  Learn Windows 7 - Action Center.ahk
 https://www.youtube.com/watch?v=my8aOaan55s
 
-Learn Windows 7 - Burning CD's with Media Player.ahk
+694.  Learn Windows 7 - Burning CD's with Media Player.ahk
 https://www.youtube.com/watch?v=izZWEe_LrdQ
 
-Learn Windows 7 - Changing HomeGroup Settings.ahk
+719.  Learn Windows 7 - Changing HomeGroup Settings.ahk
 https://www.youtube.com/watch?v=S2Yms_rvJSQ
 
-Learn Windows 7 - Choosing the right Application.ahk
+745.  Learn Windows 7 - Choosing the right Application.ahk
 https://www.youtube.com/watch?v=3RRlPpMfYEE
 
-Learn Windows 7 - Connecting to a Wireless Network.ahk
+772.  Learn Windows 7 - Connecting to a Wireless Network.ahk
 https://www.youtube.com/watch?v=2ZRxIjr2Eac
 
-Learn Windows 7 - Controlling Open Windows.ahk
+800.  Learn Windows 7 - Controlling Open Windows.ahk
 https://www.youtube.com/watch?v=QrepofqQjr8
 
-Learn Windows 7 - Controlling User Accounts.ahk
+829.  Learn Windows 7 - Controlling User Accounts.ahk
 https://www.youtube.com/watch?v=pNI970Xe9mQ
 
-Learn Windows 7 - Creating a New Email.ahk
+859.  Learn Windows 7 - Creating a New Email.ahk
 https://www.youtube.com/watch?v=AQwWzm4xWoY
 
-Learn Windows 7 - Desktop Gadgets.ahk
+890.  Learn Windows 7 - Desktop Gadgets.ahk
 https://www.youtube.com/watch?v=kuXPk1Qfw60
 
-Learn Windows 7 - Email Clients.ahk
+922.  Learn Windows 7 - Email Clients.ahk
 https://www.youtube.com/watch?v=jiTJzPnO_9Q
 
-Learn Windows 7 - External Storage.ahk
+955.  Learn Windows 7 - External Storage.ahk
 https://www.youtube.com/watch?v=a7OBrL3YQ3E
 
-Learn Windows 7 - Folder Locations.ahk
+989.  Learn Windows 7 - Folder Locations.ahk
 https://www.youtube.com/watch?v=ptnWfzety2Q
 
-Learn Windows 7 - How Email Works.ahk
+1024.  Learn Windows 7 - How Email Works.ahk
 https://www.youtube.com/watch?v=ZhGs1osyhXA
 
-Learn Windows 7 - How the Internet Works.ahk
+1060.  Learn Windows 7 - How the Internet Works.ahk
 https://www.youtube.com/watch?v=zzniuUMr3rI
 
-Learn Windows 7 - Installing a Printer.ahk
+1097.  Learn Windows 7 - Installing a Printer.ahk
 https://www.youtube.com/watch?v=Pg7IiFIaaP8
 
-Learn Windows 7 - Installing and Uninstalling Software.ahk
+1135.  Learn Windows 7 - Installing and Uninstalling Software.ahk
 https://www.youtube.com/watch?v=Ng22nho2ngA
 
-Learn Windows 7 - Internet Explorer Favorites.ahk
+1174.  Learn Windows 7 - Internet Explorer Favorites.ahk
 https://www.youtube.com/watch?v=Mgow3AiOHAk
 
-Learn Windows 7 - Internet Explorer Overview.ahk
+1214.  Learn Windows 7 - Internet Explorer Overview.ahk
 https://www.youtube.com/watch?v=JBFQG5XF1fk
 
-Learn Windows 7 - Internet Explorer Toolbars.ahk
+1255.  Learn Windows 7 - Internet Explorer Toolbars.ahk
 https://www.youtube.com/watch?v=WH1CJsSr-jA
 
-Learn Windows 7 - Jump Lists.ahk
+1297.  Learn Windows 7 - Jump Lists.ahk
 https://www.youtube.com/watch?v=79LN0ac2n8k
 
-Learn Windows 7 - Learning to use the Desktop.ahk
+1340.  Learn Windows 7 - Learning to use the Desktop.ahk
 https://www.youtube.com/watch?v=aK8RPsFtNAU
 
-Learn Windows 7 - Moving Files and Folders.ahk
+1384.  Learn Windows 7 - Moving Files and Folders.ahk
 https://www.youtube.com/watch?v=BB7Tub2EheU
 
-Learn Windows 7 - Opening and Saving Files.ahk
+1429.  Learn Windows 7 - Opening and Saving Files.ahk
 https://www.youtube.com/watch?v=dNcDDaYIXQc
 
-Learn Windows 7 - Organizing and Sharing Media.ahk
+1475.  Learn Windows 7 - Organizing and Sharing Media.ahk
 https://www.youtube.com/watch?v=pfO3vOhHn-g
 
-Learn Windows 7 - Protecting your computer from Malware.ahk
+1522.  Learn Windows 7 - Protecting your computer from Malware.ahk
 https://www.youtube.com/watch?v=WBwJLuVJ9d8
 
-Learn Windows 7 - Quick Overview.ahk
+1570.  Learn Windows 7 - Quick Overview.ahk
 https://www.youtube.com/watch?v=MJGu1i0Gwpk
 
-Learn Windows 7 - Receiving and Reading Email.ahk
+1619.  Learn Windows 7 - Receiving and Reading Email.ahk
 https://www.youtube.com/watch?v=6U5LaSONMFk
 
-Learn Windows 7 - Understanding Files and Folders.ahk
+1669.  Learn Windows 7 - Understanding Files and Folders.ahk
 https://www.youtube.com/watch?v=BKj2xpTd4EE
 
-Learn Windows 7 - Understanding Search Engines.ahk
+1720.  Learn Windows 7 - Understanding Search Engines.ahk
 https://www.youtube.com/watch?v=oiBn8I3bXh4
 
-Learn Windows 7 - Understating Software Applications.ahk
+1772.  Learn Windows 7 - Understating Software Applications.ahk
 https://www.youtube.com/watch?v=tbmTSouzUSc
 
-Learn Windows 7 - using safe practices.ahk
+1825.  Learn Windows 7 - using safe practices.ahk
 https://www.youtube.com/watch?v=7sH6FFo7zek
 
-Learn Windows 7 - Using the Start Menu.ahk
+1879.  Learn Windows 7 - Using the Start Menu.ahk
 https://www.youtube.com/watch?v=l7FhutIIvGQ
 
-Learn Windows 7 - Using the Taskbar.ahk
+1934.  Learn Windows 7 - Using the Taskbar.ahk
 https://www.youtube.com/watch?v=omark0J5T_k
 
-Learn Windows 7 - What is a Network.ahk
+1990.  Learn Windows 7 - What is a Network.ahk
 https://www.youtube.com/watch?v=yViW-1JGyyM
 
-Learn Windows 7 - What is a Peripheral.ahk
+2047.  Learn Windows 7 - What is a Peripheral.ahk
 https://www.youtube.com/watch?v=ZnQOpZHSkxY
 
-Learn Windows 7 - Windows Media Player Overview.ahk
+2105.  Learn Windows 7 - Windows Media Player Overview.ahk
 https://www.youtube.com/watch?v=NWKkhlxEHs0
 
-Learn Windows 7 - Windows Updates.ahk
+2164.  Learn Windows 7 - Windows Updates.ahk
 https://www.youtube.com/watch?v=QlSPFBqmecI
 
-Why Should You Perform Maintenance on Your Computer - Learn Windows 7.ahk
+2224.  Why Should You Perform Maintenance on Your Computer - Learn Windows 7.ahk
 https://www.youtube.com/watch?v=99OGRu3_C_E
 Beginners Guide to Windows 7

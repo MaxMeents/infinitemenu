@@ -1,52 +1,52 @@
 
-Math 195 - Precalculus - CCNY - Spring 2019
+1.  Math 195 - Precalculus - CCNY - Spring 2019
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Math_195_-_Precalculus_-_CCNY_-_Spring_2019/Math_195_-_Precalculus_-_CCNY_-_Spring_2019.txt
 
-Math 1A1B Pre-Calculus - Algebra and Geometry Review
+2.  Math 1A1B Pre-Calculus - Algebra and Geometry Review
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Math_1A1B_Pre-Calculus_-_Algebra_and_Geometry_Review/Math_1A1B_Pre-Calculus_-_Algebra_and_Geometry_Review.txt
 
-Math 1A1B Pre-Calculus - Functions and Graphs
+3.  Math 1A1B Pre-Calculus - Functions and Graphs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Math_1A1B_Pre-Calculus_-_Functions_and_Graphs/Math_1A1B_Pre-Calculus_-_Functions_and_Graphs.txt
 
-Michel van Biezen PRECALCULUS 1-5 - ALGEBRA REVIEW
+4.  Michel van Biezen PRECALCULUS 1-5 - ALGEBRA REVIEW
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Michel_van_Biezen_PRECALCULUS_1-5_-_ALGEBRA_REVIEW/Michel_van_Biezen_PRECALCULUS_1-5_-_ALGEBRA_REVIEW.txt
 
-New Precalculus Video Playlist
+5.  New Precalculus Video Playlist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/New_Precalculus_Video_Playlist/New_Precalculus_Video_Playlist.txt
 
-pre calculus 1 week lessons
+6.  pre calculus 1 week lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/pre_calculus_1_week_lessons/pre_calculus_1_week_lessons.txt
 
-Pre-Calculus
+7.  Pre-Calculus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Pre-Calculus/Pre-Calculus.txt
 
-Pre-calculus 11
+8.  Pre-calculus 11
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Pre-calculus_11/Pre-calculus_11.txt
 
-Pre-Calculus Lessons
+9.  Pre-Calculus Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Pre-Calculus_Lessons/Pre-Calculus_Lessons.txt
 
-Precalculus
+10.  Precalculus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Precalculus/Precalculus.txt
 
-PreCalculus  Pre-Calculus by Fort Bend Tutoring [fbt]
+11.  PreCalculus  Pre-Calculus by Fort Bend Tutoring [fbt]
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/PreCalculus__Pre-Calculus_by_Fort_Bend_Tutoring_[fbt]/PreCalculus__Pre-Calculus_by_Fort_Bend_Tutoring_[fbt].txt
 
-Precalculus - College AlgebraTrigonometry
+12.  Precalculus - College AlgebraTrigonometry
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Precalculus_-_College_AlgebraTrigonometry/Precalculus_-_College_AlgebraTrigonometry.txt
 
-PRECALCULUS 1 - ALGEBRA REVIEW
+13.  PRECALCULUS 1 - ALGEBRA REVIEW
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/PRECALCULUS_1_-_ALGEBRA_REVIEW/PRECALCULUS_1_-_ALGEBRA_REVIEW.txt
 
-PreCalculus 12
+14.  PreCalculus 12
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/PreCalculus_12/PreCalculus_12.txt
 
-Precalculus Course Lessons
+15.  Precalculus Course Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Precalculus_Course_Lessons/Precalculus_Course_Lessons.txt
 
-Precalculus Lessons
+16.  Precalculus Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Precalculus_Lessons/Precalculus_Lessons.txt
 
-PrecalculusTrigonometry Lessons (ENGLISH)
+17.  PrecalculusTrigonometry Lessons (ENGLISH)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/PrecalculusTrigonometry_Lessons_(ENGLISH)/PrecalculusTrigonometry_Lessons_(ENGLISH).txt
 Precalculus Lessons

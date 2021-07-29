@@ -1,4 +1,4 @@
 
-String Quartet
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Chamber_Music/String_Quartet/String_Quartet.txt
+1.  String Quartet
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Classical/Chamber_Music/String_Quartet/String_Quartet.txt
 Chamber Music

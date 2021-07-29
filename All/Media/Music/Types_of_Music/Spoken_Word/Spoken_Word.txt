@@ -1,46 +1,46 @@
 
-A cappella
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/A_cappella/A_cappella.txt
+1.  A cappella
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/A_cappella/A_cappella.txt
 
-Barbershop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Barbershop/Barbershop.txt
+2.  Barbershop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Barbershop/Barbershop.txt
 
-Cantique
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Cantique/Cantique.txt
+3.  Cantique
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Cantique/Cantique.txt
 
-Chicano
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Chicano/Chicano.txt
+4.  Chicano
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Chicano/Chicano.txt
 
-Classic
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Classic/Classic.txt
+5.  Classic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Classic/Classic.txt
 
-Conjunto
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto/Conjunto.txt
+6.  Conjunto
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto/Conjunto.txt
 
-Conjunto Progressive
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto_Progressive/Conjunto_Progressive.txt
+7.  Conjunto Progressive
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto_Progressive/Conjunto_Progressive.txt
 
-Doo-wop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Doo-wop/Doo-wop.txt
+8.  Doo-wop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Doo-wop/Doo-wop.txt
 
-Gregorian Chant
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Gregorian_Chant/Gregorian_Chant.txt
+9.  Gregorian Chant
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Gregorian_Chant/Gregorian_Chant.txt
 
-New Mex
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/New_Mex/New_Mex.txt
+10.  New Mex
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/New_Mex/New_Mex.txt
 
-Standards
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Standards/Standards.txt
+11.  Standards
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Standards/Standards.txt
 
-Tex-Mex
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Tex-Mex/Tex-Mex.txt
+12.  Tex-Mex
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Tex-Mex/Tex-Mex.txt
 
-Traditional Pop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Traditional_Pop/Traditional_Pop.txt
+13.  Traditional Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Traditional_Pop/Traditional_Pop.txt
 
-Vocal Jazz
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Jazz/Vocal_Jazz.txt
+14.  Vocal Jazz
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Jazz/Vocal_Jazz.txt
 
-Vocal Pop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Pop/Vocal_Pop.txt
+15.  Vocal Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Pop/Vocal_Pop.txt
 Spoken Word

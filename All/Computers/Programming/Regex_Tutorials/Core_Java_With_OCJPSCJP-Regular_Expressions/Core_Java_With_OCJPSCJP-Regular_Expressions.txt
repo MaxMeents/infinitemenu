@@ -1,43 +1,43 @@
 
-Core Java With OCJPSCJP-Regular Expressions-Part 1.ahk
+121452.  Core Java With OCJPSCJP-Regular Expressions-Part 1.ahk
 https://www.youtube.com/watch?v=Ju8EybDDjBk
 
-Core Java With OCJPSCJP-Regular Expressions-Part 10.ahk
+121454.  Core Java With OCJPSCJP-Regular Expressions-Part 10.ahk
 https://www.youtube.com/watch?v=_Ag25q5-uWI
 
-Core Java With OCJPSCJP-Regular Expressions-Part 11.ahk
+121457.  Core Java With OCJPSCJP-Regular Expressions-Part 11.ahk
 https://www.youtube.com/watch?v=SaKm3or8bBM
 
-Core Java With OCJPSCJP-Regular Expressions-Part 12.ahk
+121461.  Core Java With OCJPSCJP-Regular Expressions-Part 12.ahk
 https://www.youtube.com/watch?v=2BJp2lRgX20
 
-Core Java With OCJPSCJP-Regular Expressions-Part 13.ahk
+121466.  Core Java With OCJPSCJP-Regular Expressions-Part 13.ahk
 https://www.youtube.com/watch?v=fQnPFbUyYJ0
 
-Core Java With OCJPSCJP-Regular Expressions-Part 14.ahk
+121472.  Core Java With OCJPSCJP-Regular Expressions-Part 14.ahk
 https://www.youtube.com/watch?v=kblbCowBLMc
 
-Core Java With OCJPSCJP-Regular Expressions-Part 2.ahk
+121479.  Core Java With OCJPSCJP-Regular Expressions-Part 2.ahk
 https://www.youtube.com/watch?v=CzcWILy4WxM
 
-Core Java With OCJPSCJP-Regular Expressions-Part 3.ahk
+121487.  Core Java With OCJPSCJP-Regular Expressions-Part 3.ahk
 https://www.youtube.com/watch?v=-dncbayWelg
 
-Core Java With OCJPSCJP-Regular Expressions-Part 4.ahk
+121496.  Core Java With OCJPSCJP-Regular Expressions-Part 4.ahk
 https://www.youtube.com/watch?v=YWK6vvVmzf4
 
-Core Java With OCJPSCJP-Regular Expressions-Part 6.ahk
+121506.  Core Java With OCJPSCJP-Regular Expressions-Part 6.ahk
 https://www.youtube.com/watch?v=IYDM8yvsrSA
 
-Core Java With OCJPSCJP-Regular Expressions-Part 7.ahk
+121517.  Core Java With OCJPSCJP-Regular Expressions-Part 7.ahk
 https://www.youtube.com/watch?v=a46Pfsl1Utg
 
-Core Java With OCJPSCJP-Regular Expressions-Part 8.ahk
+121529.  Core Java With OCJPSCJP-Regular Expressions-Part 8.ahk
 https://www.youtube.com/watch?v=5Dv7xlq6IVU
 
-Core Java With OCJPSCJP-Regular Expressions-Part 9.ahk
+121542.  Core Java With OCJPSCJP-Regular Expressions-Part 9.ahk
 https://www.youtube.com/watch?v=yI_9kjJD_XE
 
-Core Java With OCJPSCJPRegular Expressions-Part 5.ahk
+121556.  Core Java With OCJPSCJPRegular Expressions-Part 5.ahk
 https://www.youtube.com/watch?v=NgVK7hq16W8
 Core Java With OCJPSCJP-Regular Expressions

@@ -1,601 +1,601 @@
 
-C# Beginners Tutorial - 1 - Introduction and Installing C# 2010.ahk
+4750021.  C# Beginners Tutorial - 1 - Introduction and Installing C# 2010.ahk
 https://www.youtube.com/watch?v=x_9lfHjYtVg
 
-C# Beginners Tutorial - 10 - Mathematical Operators.ahk
+4750023.  C# Beginners Tutorial - 10 - Mathematical Operators.ahk
 https://www.youtube.com/watch?v=2KG_ADNE4fg
 
-C# Beginners Tutorial - 100 - TreeView pt 2.ahk
+4750026.  C# Beginners Tutorial - 100 - TreeView pt 2.ahk
 https://www.youtube.com/watch?v=_pxVZuLfbjM
 
-C# Beginners Tutorial - 101 - TreeView pt 3.ahk
+4750030.  C# Beginners Tutorial - 101 - TreeView pt 3.ahk
 https://www.youtube.com/watch?v=9E_ke7XrT74
 
-C# Beginners Tutorial - 102 - Property Grid.ahk
+4750035.  C# Beginners Tutorial - 102 - Property Grid.ahk
 https://www.youtube.com/watch?v=jO8Yfi_843I
 
-C# Beginners Tutorial - 103 - Accessing All Controls pt 1.ahk
+4750041.  C# Beginners Tutorial - 103 - Accessing All Controls pt 1.ahk
 https://www.youtube.com/watch?v=pz6CtuLkucs
 
-C# Beginners Tutorial - 104 - Accessing All Controls pt 2.ahk
+4750048.  C# Beginners Tutorial - 104 - Accessing All Controls pt 2.ahk
 https://www.youtube.com/watch?v=MEu3Y5cTwZI
 
-C# Beginners Tutorial - 105 - WebBrowser Control pt 1.ahk
+4750056.  C# Beginners Tutorial - 105 - WebBrowser Control pt 1.ahk
 https://www.youtube.com/watch?v=6esPvx0o5uU
 
-C# Beginners Tutorial - 106 - WebBrowser Control pt 2.ahk
+4750065.  C# Beginners Tutorial - 106 - WebBrowser Control pt 2.ahk
 https://www.youtube.com/watch?v=8jHIeHB-fyg
 
-C# Beginners Tutorial - 107 - WebBrowser Control pt 3.ahk
+4750075.  C# Beginners Tutorial - 107 - WebBrowser Control pt 3.ahk
 https://www.youtube.com/watch?v=NFSBdlP7QG8
 
-C# Beginners Tutorial - 108 - TrackBar and NumericUpDown Controls.ahk
+4750086.  C# Beginners Tutorial - 108 - TrackBar and NumericUpDown Controls.ahk
 https://www.youtube.com/watch?v=LseN7M_zZA0
 
-C# Beginners Tutorial - 109 - Reading XML pt 1.ahk
+4750098.  C# Beginners Tutorial - 109 - Reading XML pt 1.ahk
 https://www.youtube.com/watch?v=DPY1v7sDK9w
 
-C# Beginners Tutorial - 11 - Arrays.ahk
+4750111.  C# Beginners Tutorial - 11 - Arrays.ahk
 https://www.youtube.com/watch?v=RdrbVnMhDTQ
 
-C# Beginners Tutorial - 110 - Reading XML pt 2.ahk
+4750125.  C# Beginners Tutorial - 110 - Reading XML pt 2.ahk
 https://www.youtube.com/watch?v=Wa9KbLDtxCI
 
-C# Beginners Tutorial - 111 - Editing XML File.ahk
+4750140.  C# Beginners Tutorial - 111 - Editing XML File.ahk
 https://www.youtube.com/watch?v=nPg7CMJ6q60
 
-C# Beginners Tutorial - 112 - Writing New XML file.ahk
+4750156.  C# Beginners Tutorial - 112 - Writing New XML file.ahk
 https://www.youtube.com/watch?v=iSUxvnppFJA
 
-C# Beginners Tutorial - 113 - Write Nodes to Existing XML File.ahk
+4750173.  C# Beginners Tutorial - 113 - Write Nodes to Existing XML File.ahk
 https://www.youtube.com/watch?v=EAvlXSAHRvk
 
-C# Beginners Tutorial - 114 - Deleting a XML Node.ahk
+4750191.  C# Beginners Tutorial - 114 - Deleting a XML Node.ahk
 https://www.youtube.com/watch?v=KhYDIgF3OtM
 
-C# Beginners Tutorial - 115 - MD5 and SHA1.ahk
+4750210.  C# Beginners Tutorial - 115 - MD5 and SHA1.ahk
 https://www.youtube.com/watch?v=_P315F8PHVc
 
-C# Beginners Tutorial - 116 - TripleDES Encryption.ahk
+4750230.  C# Beginners Tutorial - 116 - TripleDES Encryption.ahk
 https://www.youtube.com/watch?v=FN_yjEOdttw
 
-C# Beginners Tutorial - 117 - TripleDES Decryption.ahk
+4750251.  C# Beginners Tutorial - 117 - TripleDES Decryption.ahk
 https://www.youtube.com/watch?v=SJu7pUsuAoo
 
-C# Beginners Tutorial - 118 - Drag and Drop.ahk
+4750273.  C# Beginners Tutorial - 118 - Drag and Drop.ahk
 https://www.youtube.com/watch?v=O8tfuST7hzY
 
-C# Beginners Tutorial - 119 - Drawing Shapes.ahk
+4750296.  C# Beginners Tutorial - 119 - Drawing Shapes.ahk
 https://www.youtube.com/watch?v=YKckcMwyvPE
 
-C# Beginners Tutorial - 12 - Lists.ahk
+4750320.  C# Beginners Tutorial - 12 - Lists.ahk
 https://www.youtube.com/watch?v=nP_kYxxhaX4
 
-C# Beginners Tutorial - 120 - Drawing More Shapes.ahk
+4750345.  C# Beginners Tutorial - 120 - Drawing More Shapes.ahk
 https://www.youtube.com/watch?v=2WeFMKk8Jxo
 
-C# Beginners Tutorial - 121 - Drawing with Pen Class pt 1.ahk
+4750371.  C# Beginners Tutorial - 121 - Drawing with Pen Class pt 1.ahk
 https://www.youtube.com/watch?v=fY8REwOa1RM
 
-C# Beginners Tutorial - 122 - Drawing With Pen Class pt 2.ahk
+4750398.  C# Beginners Tutorial - 122 - Drawing With Pen Class pt 2.ahk
 https://www.youtube.com/watch?v=TWqM3PQvRdw
 
-C# Beginners Tutorial - 123 - Drawing Strings Text.ahk
+4750426.  C# Beginners Tutorial - 123 - Drawing Strings Text.ahk
 https://www.youtube.com/watch?v=nrpDXEzyvGI
 
-C# Beginners Tutorial - 124 - LinearGradientBrush.ahk
+4750455.  C# Beginners Tutorial - 124 - LinearGradientBrush.ahk
 https://www.youtube.com/watch?v=RlUKwUz2gsg
 
-C# Beginners Tutorial - 125 - Multiple Colors in a LinearGradientBrush.ahk
+4750485.  C# Beginners Tutorial - 125 - Multiple Colors in a LinearGradientBrush.ahk
 https://www.youtube.com/watch?v=WpnxasmPzFo
 
-C# Beginners Tutorial - 126 - PathGradientBrush pt 1.ahk
+4750516.  C# Beginners Tutorial - 126 - PathGradientBrush pt 1.ahk
 https://www.youtube.com/watch?v=WkcWtSv2j5Q
 
-C# Beginners Tutorial - 127 - PathGradientBrush pt 2.ahk
+4750548.  C# Beginners Tutorial - 127 - PathGradientBrush pt 2.ahk
 https://www.youtube.com/watch?v=wKmcXe8Mof0
 
-C# Beginners Tutorial - 128 - Project 2 Paint Program, pt 1.ahk
+4750581.  C# Beginners Tutorial - 128 - Project 2 Paint Program, pt 1.ahk
 https://www.youtube.com/watch?v=jFVd6d0yvzU
 
-C# Beginners Tutorial - 129 - Project 2 Paint Program, pt 2.ahk
+4750615.  C# Beginners Tutorial - 129 - Project 2 Paint Program, pt 2.ahk
 https://www.youtube.com/watch?v=E4L4i4NplZg
 
-C# Beginners Tutorial - 13 - For and Foreach Loop.ahk
+4750650.  C# Beginners Tutorial - 13 - For and Foreach Loop.ahk
 https://www.youtube.com/watch?v=rdLa8BtneF0
 
-C# Beginners Tutorial - 130 - Project 2 Paint Program, pt 3.ahk
+4750686.  C# Beginners Tutorial - 130 - Project 2 Paint Program, pt 3.ahk
 https://www.youtube.com/watch?v=vEauSn7XyhA
 
-C# Beginners Tutorial - 131 - Project 2 Paint Program, pt 4.ahk
+4750723.  C# Beginners Tutorial - 131 - Project 2 Paint Program, pt 4.ahk
 https://www.youtube.com/watch?v=sDxn_omSLeE
 
-C# Beginners Tutorial - 132 - Project 2 Paint Program, pt 5.ahk
+4750761.  C# Beginners Tutorial - 132 - Project 2 Paint Program, pt 5.ahk
 https://www.youtube.com/watch?v=V2IEQWGDYdg
 
-C# Beginners Tutorial - 133 - Making Controls pt 1.ahk
+4750800.  C# Beginners Tutorial - 133 - Making Controls pt 1.ahk
 https://www.youtube.com/watch?v=6WMT1jojpZs
 
-C# Beginners Tutorial - 134 - Making Controls pt 2.ahk
+4750840.  C# Beginners Tutorial - 134 - Making Controls pt 2.ahk
 https://www.youtube.com/watch?v=bZTyafLW-JQ
 
-C# Beginners Tutorial - 135 - Making Controls pt 3.ahk
+4750881.  C# Beginners Tutorial - 135 - Making Controls pt 3.ahk
 https://www.youtube.com/watch?v=_WKrldzEwC0
 
-C# Beginners Tutorial - 136 - Making Controls pt 4.ahk
+4750923.  C# Beginners Tutorial - 136 - Making Controls pt 4.ahk
 https://www.youtube.com/watch?v=sD_Pf4yK8-E
 
-C# Beginners Tutorial - 137 - Making Controls pt 5.ahk
+4750966.  C# Beginners Tutorial - 137 - Making Controls pt 5.ahk
 https://www.youtube.com/watch?v=kK8Y0HrEEf8
 
-C# Beginners Tutorial - 138 - Making Controls pt 6.ahk
+4751010.  C# Beginners Tutorial - 138 - Making Controls pt 6.ahk
 https://www.youtube.com/watch?v=KQeKwhi10vU
 
-C# Beginners Tutorial - 139 - Inheriting From Existing Controls.ahk
+4751055.  C# Beginners Tutorial - 139 - Inheriting From Existing Controls.ahk
 https://www.youtube.com/watch?v=ow0JBlsRDj4
 
-C# Beginners Tutorial - 14 - Do and Do While.ahk
+4751101.  C# Beginners Tutorial - 14 - Do and Do While.ahk
 https://www.youtube.com/watch?v=9n36Yru7UpM
 
-C# Beginners Tutorial - 140 - Splash Screen.ahk
+4751148.  C# Beginners Tutorial - 140 - Splash Screen.ahk
 https://www.youtube.com/watch?v=ERuh0Rs4Vfw
 
-C# Beginners Tutorial - 141 - Making a DLL.ahk
+4751196.  C# Beginners Tutorial - 141 - Making a DLL.ahk
 https://www.youtube.com/watch?v=reG1qqkoHtU
 
-C# Beginners Tutorial - 142 - Internal Access Modifier.ahk
+4751245.  C# Beginners Tutorial - 142 - Internal Access Modifier.ahk
 https://www.youtube.com/watch?v=iFvuHpMviME
 
-C# Beginners Tutorial - 143 - Comments and Descriptions.ahk
+4751295.  C# Beginners Tutorial - 143 - Comments and Descriptions.ahk
 https://www.youtube.com/watch?v=3T5UjG69Ryk
 
-C# Beginners Tutorial - 144 - Goto Keyword and Regions.ahk
+4751346.  C# Beginners Tutorial - 144 - Goto Keyword and Regions.ahk
 https://www.youtube.com/watch?v=qrOox-nRW4Q
 
-C# Beginners Tutorial - 145 - Capturing Screen.ahk
+4751398.  C# Beginners Tutorial - 145 - Capturing Screen.ahk
 https://www.youtube.com/watch?v=K_6d4OBoScQ
 
-C# Beginners Tutorial - 146 - Making Keyboard Shortcuts.ahk
+4751451.  C# Beginners Tutorial - 146 - Making Keyboard Shortcuts.ahk
 https://www.youtube.com/watch?v=XdMrl8CPKXw
 
-C# Beginners Tutorial - 147 - Checking Controls on Leave.ahk
+4751505.  C# Beginners Tutorial - 147 - Checking Controls on Leave.ahk
 https://www.youtube.com/watch?v=Qyv2PCLNWwk
 
-C# Beginners Tutorial - 148 - Overloading Operators pt 1.ahk
+4751560.  C# Beginners Tutorial - 148 - Overloading Operators pt 1.ahk
 https://www.youtube.com/watch?v=GIHMCJVDRzM
 
-C# Beginners Tutorial - 149 - Overloading Operators pt 2.ahk
+4751616.  C# Beginners Tutorial - 149 - Overloading Operators pt 2.ahk
 https://www.youtube.com/watch?v=95gOUaxV3vE
 
-C# Beginners Tutorial - 15 - Try, Catch and Finally.ahk
+4751673.  C# Beginners Tutorial - 15 - Try, Catch and Finally.ahk
 https://www.youtube.com/watch?v=0FQM0RUEgYg
 
-C# Beginners Tutorial - 150 - Overloading Operators pt 3.ahk
+4751731.  C# Beginners Tutorial - 150 - Overloading Operators pt 3.ahk
 https://www.youtube.com/watch?v=NMdBBkKRJ34
 
-C# Beginners Tutorial - 151 - Overloading Operators pt 4.ahk
+4751790.  C# Beginners Tutorial - 151 - Overloading Operators pt 4.ahk
 https://www.youtube.com/watch?v=y66w6NCTwjQ
 
-C# Beginners Tutorial - 152 - Making Conversion Operators.ahk
+4751850.  C# Beginners Tutorial - 152 - Making Conversion Operators.ahk
 https://www.youtube.com/watch?v=QOrF1ykFwJ0
 
-C# Beginners Tutorial - 153 - Ref and Out Keywords.ahk
+4751911.  C# Beginners Tutorial - 153 - Ref and Out Keywords.ahk
 https://www.youtube.com/watch?v=ZcouA7mu2aQ
 
-C# Beginners Tutorial - 154 - Project 3 Hang Man Game, Making the UI.ahk
+4751973.  C# Beginners Tutorial - 154 - Project 3 Hang Man Game, Making the UI.ahk
 https://www.youtube.com/watch?v=E8XQ9x-7yYk
 
-C# Beginners Tutorial - 155 - Project 3 Hangman, Drawing Hang Post.ahk
+4752036.  C# Beginners Tutorial - 155 - Project 3 Hangman, Drawing Hang Post.ahk
 https://www.youtube.com/watch?v=aIdKAWOPS3Y
 
-C# Beginners Tutorial - 156 - Project 3 Hang Man, Drawing Face.ahk
+4752100.  C# Beginners Tutorial - 156 - Project 3 Hang Man, Drawing Face.ahk
 https://www.youtube.com/watch?v=kqHeuNFqRlo
 
-C# Beginners Tutorial - 157 - Project 3 Hang Man, Drawing Bosy and Arms.ahk
+4752165.  C# Beginners Tutorial - 157 - Project 3 Hang Man, Drawing Bosy and Arms.ahk
 https://www.youtube.com/watch?v=kEh8_0PVGXI
 
-C# Beginners Tutorial - 158 - Project 3 Hang Man, Drawing Legs.ahk
+4752231.  C# Beginners Tutorial - 158 - Project 3 Hang Man, Drawing Legs.ahk
 https://www.youtube.com/watch?v=-RlAJmf9WfY
 
-C# Beginners Tutorial - 159 - Project 3 Hang Man, Getting Random Word.ahk
+4752298.  C# Beginners Tutorial - 159 - Project 3 Hang Man, Getting Random Word.ahk
 https://www.youtube.com/watch?v=QUsaNXdvgWM
 
-C# Beginners Tutorial - 16 - Methods pt 1.ahk
+4752366.  C# Beginners Tutorial - 16 - Methods pt 1.ahk
 https://www.youtube.com/watch?v=SRwDqyyZFXY
 
-C# Beginners Tutorial - 160 - Project 3 Hang Man, Making the Labels pt 1.ahk
+4752435.  C# Beginners Tutorial - 160 - Project 3 Hang Man, Making the Labels pt 1.ahk
 https://www.youtube.com/watch?v=miEgnaicp7E
 
-C# Beginners Tutorial - 161 - Project 3 Hang Man, Making the Labels pt 2.ahk
+4752505.  C# Beginners Tutorial - 161 - Project 3 Hang Man, Making the Labels pt 2.ahk
 https://www.youtube.com/watch?v=lzc3oHveb4k
 
-C# Beginners Tutorial - 162 - Project 3 Hang Man, Submit Button.ahk
+4752576.  C# Beginners Tutorial - 162 - Project 3 Hang Man, Submit Button.ahk
 https://www.youtube.com/watch?v=ycLCnVP8TDs
 
-C# Beginners Tutorial - 163 - Project 3 Hang Man, Submitting Wrong Letter.ahk
+4752648.  C# Beginners Tutorial - 163 - Project 3 Hang Man, Submitting Wrong Letter.ahk
 https://www.youtube.com/watch?v=Lfew3eegnV0
 
-C# Beginners Tutorial - 164 - Project 3 Hang Man, Resetting Game.ahk
+4752721.  C# Beginners Tutorial - 164 - Project 3 Hang Man, Resetting Game.ahk
 https://www.youtube.com/watch?v=UUxrx_t2rZY
 
-C# Beginners Tutorial - 165 - Project 3 Hang Man, Submit Word Button.ahk
+4752795.  C# Beginners Tutorial - 165 - Project 3 Hang Man, Submit Word Button.ahk
 https://www.youtube.com/watch?v=nwWSIljiKaM
 
-C# Beginners Tutorial - 166 - Optional Parameters.ahk
+4752870.  C# Beginners Tutorial - 166 - Optional Parameters.ahk
 https://www.youtube.com/watch?v=4i0F3Nb0UIw
 
-C# Beginners Tutorial - 167 - IEnumerable and Yield Return.ahk
+4752946.  C# Beginners Tutorial - 167 - IEnumerable and Yield Return.ahk
 https://www.youtube.com/watch?v=F7L9seU_mak
 
-C# Beginners Tutorial - 168 - Make a Class for a Foreach Loop.ahk
+4753023.  C# Beginners Tutorial - 168 - Make a Class for a Foreach Loop.ahk
 https://www.youtube.com/watch?v=Pn7ykmfEDVY
 
-C# Beginners Tutorial - 169 - Project 4 Address Book, Making UI.ahk
+4753101.  C# Beginners Tutorial - 169 - Project 4 Address Book, Making UI.ahk
 https://www.youtube.com/watch?v=GVpY0Y9uQM0
 
-C# Beginners Tutorial - 17 - Methods pt 2.ahk
+4753180.  C# Beginners Tutorial - 17 - Methods pt 2.ahk
 https://www.youtube.com/watch?v=ND8aXadDbyg
 
-C# Beginners Tutorial - 170 - Project 4 Address Book, Making Class and Files.ahk
+4753260.  C# Beginners Tutorial - 170 - Project 4 Address Book, Making Class and Files.ahk
 https://www.youtube.com/watch?v=qY7C9fcbILg
 
-C# Beginners Tutorial - 171 - Project 4 Address Book, Adding Data to Classes.ahk
+4753341.  C# Beginners Tutorial - 171 - Project 4 Address Book, Adding Data to Classes.ahk
 https://www.youtube.com/watch?v=GdTEfLHgYDY
 
-C# Beginners Tutorial - 172 - Project 4 Address Book, Updating Information and Removing People.ahk
+4753423.  C# Beginners Tutorial - 172 - Project 4 Address Book, Updating Information and Removing People.ahk
 https://www.youtube.com/watch?v=0ZoDmeAZAD8
 
-C# Beginners Tutorial - 173 - Project 4 Address Book, Save Changes Button.ahk
+4753506.  C# Beginners Tutorial - 173 - Project 4 Address Book, Save Changes Button.ahk
 https://www.youtube.com/watch?v=BKID413hlOw
 
-C# Beginners Tutorial - 174 - Project 4 Address Book, Writing to XML File.ahk
+4753590.  C# Beginners Tutorial - 174 - Project 4 Address Book, Writing to XML File.ahk
 https://www.youtube.com/watch?v=PvDRQhNq3G8
 
-C# Beginners Tutorial - 175 - Project 4 Address Book, Reading People.ahk
+4753675.  C# Beginners Tutorial - 175 - Project 4 Address Book, Reading People.ahk
 https://www.youtube.com/watch?v=PMUDcLoQwB4
 
-C# Beginners Tutorial - 176 - Notified When Files Change.ahk
+4753761.  C# Beginners Tutorial - 176 - Notified When Files Change.ahk
 https://www.youtube.com/watch?v=Sw5Ym7hFrHs
 
-C# Beginners Tutorial - 177 - Zipping Files and Folders.ahk
+4753848.  C# Beginners Tutorial - 177 - Zipping Files and Folders.ahk
 https://www.youtube.com/watch?v=0haa-piN1JE
 
-C# Beginners Tutorial - 178 - Preprocessor Directives.ahk
+4753936.  C# Beginners Tutorial - 178 - Preprocessor Directives.ahk
 https://www.youtube.com/watch?v=zVJEQTr0tbI
 
-C# Beginners Tutorial - 179 - Project 5 Captcha Generator, Setting Up.ahk
+4754025.  C# Beginners Tutorial - 179 - Project 5 Captcha Generator, Setting Up.ahk
 https://www.youtube.com/watch?v=PsxRx7o7ITk
 
-C# Beginners Tutorial - 18 - Continue and Break.ahk
+4754115.  C# Beginners Tutorial - 18 - Continue and Break.ahk
 https://www.youtube.com/watch?v=Pexgcu7EBg0
 
-C# Beginners Tutorial - 180 - Project 5 Captcha Generator, Drawing Random String.ahk
+4754206.  C# Beginners Tutorial - 180 - Project 5 Captcha Generator, Drawing Random String.ahk
 https://www.youtube.com/watch?v=oUp-o_ZMvtA
 
-C# Beginners Tutorial - 181 - Project 5 Captcha Generator, Drawing Shapes.ahk
+4754298.  C# Beginners Tutorial - 181 - Project 5 Captcha Generator, Drawing Shapes.ahk
 https://www.youtube.com/watch?v=3fj5yAUhS84
 
-C# Beginners Tutorial - 182 - Project 5 Captcha Generator, Getting Image Name.ahk
+4754391.  C# Beginners Tutorial - 182 - Project 5 Captcha Generator, Getting Image Name.ahk
 https://www.youtube.com/watch?v=gCpzJRMd6WE
 
-C# Beginners Tutorial - 183 - Project 5 Captcha Generator, Returning Images.ahk
+4754485.  C# Beginners Tutorial - 183 - Project 5 Captcha Generator, Returning Images.ahk
 https://www.youtube.com/watch?v=jTdBIfmzrvg
 
-C# Beginners Tutorial - 184 - Project 5 Captcha Generator, Saving the Images.ahk
+4754580.  C# Beginners Tutorial - 184 - Project 5 Captcha Generator, Saving the Images.ahk
 https://www.youtube.com/watch?v=ECIv5zZ1H68
 
-C# Beginners Tutorial - 185 - Project 5 Captcha Generator, Using the Images.ahk
+4754676.  C# Beginners Tutorial - 185 - Project 5 Captcha Generator, Using the Images.ahk
 https://www.youtube.com/watch?v=p69txeff2E8
 
-C# Beginners Tutorial - 186 - Project 6 Reading and Writing Class, Making Base Class.ahk
+4754773.  C# Beginners Tutorial - 186 - Project 6 Reading and Writing Class, Making Base Class.ahk
 https://www.youtube.com/watch?v=ty4MHFy1doU
 
-C# Beginners Tutorial - 187 - Project 6 Reading and Writing Classes, Begining Reading Class.ahk
+4754871.  C# Beginners Tutorial - 187 - Project 6 Reading and Writing Classes, Begining Reading Class.ahk
 https://www.youtube.com/watch?v=gQCyBz6--qE
 
-C# Beginners Tutorial - 188 - Project 6 Reading and Writing Classes, Reading Methods.ahk
+4754970.  C# Beginners Tutorial - 188 - Project 6 Reading and Writing Classes, Reading Methods.ahk
 https://www.youtube.com/watch?v=Cl9AkUL49U0
 
-C# Beginners Tutorial - 189 - Project 6 Reading and Writing Classes, Changing Byte Order ect.ahk
+4755070.  C# Beginners Tutorial - 189 - Project 6 Reading and Writing Classes, Changing Byte Order ect.ahk
 https://www.youtube.com/watch?v=04iURUOB11A
 
-C# Beginners Tutorial - 19 - Overview of Namespaces and Classes.ahk
+4755171.  C# Beginners Tutorial - 19 - Overview of Namespaces and Classes.ahk
 https://www.youtube.com/watch?v=dAeMBeZHdVc
 
-C# Beginners Tutorial - 190 - Project 6 Reading and Writing Class, Reading Strings.ahk
+4755273.  C# Beginners Tutorial - 190 - Project 6 Reading and Writing Class, Reading Strings.ahk
 https://www.youtube.com/watch?v=xtn7wU27uCg
 
-C# Beginners Tutorial - 191 - Project 6 Reading and Writng Classes, Finishing and Testing Reader.ahk
+4755376.  C# Beginners Tutorial - 191 - Project 6 Reading and Writng Classes, Finishing and Testing Reader.ahk
 https://www.youtube.com/watch?v=L1HxCNvkMqQ
 
-C# Beginners Tutorial - 192 - Project 6 Reading and Writing Classes, Begin Writing Class.ahk
+4755480.  C# Beginners Tutorial - 192 - Project 6 Reading and Writing Classes, Begin Writing Class.ahk
 https://www.youtube.com/watch?v=Vjky_asimoE
 
-C# Beginners Tutorial - 193 - Project 6 Reading and Writing Classes, Writing Bytes.ahk
+4755585.  C# Beginners Tutorial - 193 - Project 6 Reading and Writing Classes, Writing Bytes.ahk
 https://www.youtube.com/watch?v=Et2rhtxHt1E
 
-C# Beginners Tutorial - 194 - Project 6 Reading and Writing Classes, Writing Strings.ahk
+4755691.  C# Beginners Tutorial - 194 - Project 6 Reading and Writing Classes, Writing Strings.ahk
 https://www.youtube.com/watch?v=jKq3FS8TB4s
 
-C# Beginners Tutorial - 195 - Project 6 Reading and Writing Class, Finishing Class Up.ahk
+4755798.  C# Beginners Tutorial - 195 - Project 6 Reading and Writing Class, Finishing Class Up.ahk
 https://www.youtube.com/watch?v=U-Ya5K0pLsY
 
-C# Beginners Tutorial - 196 - Project 6 Reading and Writing Class, Using the Writing Class.ahk
+4755906.  C# Beginners Tutorial - 196 - Project 6 Reading and Writing Class, Using the Writing Class.ahk
 https://www.youtube.com/watch?v=t68MaJMSAfM
 
-C# Beginners Tutorial - 197 - IDisposable pt 1.ahk
+4756015.  C# Beginners Tutorial - 197 - IDisposable pt 1.ahk
 https://www.youtube.com/watch?v=CkB6Y5tv5Jk
 
-C# Beginners Tutorial - 198 - IDisposable pt 2.ahk
+4756125.  C# Beginners Tutorial - 198 - IDisposable pt 2.ahk
 https://www.youtube.com/watch?v=1GJENmBJCB8
 
-C# Beginners Tutorial - 199 - ICloneable.ahk
+4756236.  C# Beginners Tutorial - 199 - ICloneable.ahk
 https://www.youtube.com/watch?v=psLMm4FRTq8
 
-C# Beginners Tutorial - 2 - Changing Forms Properties.ahk
+4756348.  C# Beginners Tutorial - 2 - Changing Forms Properties.ahk
 https://www.youtube.com/watch?v=zUbVMdF_kU4
 
-C# Beginners Tutorial - 20 - Constructors.ahk
+4756461.  C# Beginners Tutorial - 20 - Constructors.ahk
 https://www.youtube.com/watch?v=Waq_xVXNJCQ
 
-C# Beginners Tutorial - 200 - Changing Your Project's Properties.ahk
+4756575.  C# Beginners Tutorial - 200 - Changing Your Project's Properties.ahk
 https://www.youtube.com/watch?v=B2ZsdS2s2G0
 
-C# Beginners Tutorial - 21 - Access Modifiers and Static.ahk
+4756690.  C# Beginners Tutorial - 21 - Access Modifiers and Static.ahk
 https://www.youtube.com/watch?v=5ZzMeHUhMyo
 
-C# Beginners Tutorial - 22 - Overloading Methods and Enumerations.ahk
+4756806.  C# Beginners Tutorial - 22 - Overloading Methods and Enumerations.ahk
 https://www.youtube.com/watch?v=5rXpHAT5YTs
 
-C# Beginners Tutorial - 23 - Creating Your Own Properties.ahk
+4756923.  C# Beginners Tutorial - 23 - Creating Your Own Properties.ahk
 https://www.youtube.com/watch?v=SwGkUxjiDYA
 
-C# Beginners Tutorial - 24 - Throwing Exceptions.ahk
+4757041.  C# Beginners Tutorial - 24 - Throwing Exceptions.ahk
 https://www.youtube.com/watch?v=lvt_pYIqf5A
 
-C# Beginners Tutorial - 25 - Inheritance and Overriding.ahk
+4757160.  C# Beginners Tutorial - 25 - Inheritance and Overriding.ahk
 https://www.youtube.com/watch?v=aKaneSO9HLc
 
-C# Beginners Tutorial - 26 - More on Inheritance and Interfaces.ahk
+4757280.  C# Beginners Tutorial - 26 - More on Inheritance and Interfaces.ahk
 https://www.youtube.com/watch?v=eonOsiceiIk
 
-C# Beginners Tutorial - 27 - Indexers.ahk
+4757401.  C# Beginners Tutorial - 27 - Indexers.ahk
 https://www.youtube.com/watch?v=igmAVtGsSvs
 
-C# Beginners Tutorial - 28 - Structs.ahk
+4757523.  C# Beginners Tutorial - 28 - Structs.ahk
 https://www.youtube.com/watch?v=g1X4FE1OW2E
 
-C# Beginners Tutorial - 29 - Partial.ahk
+4757646.  C# Beginners Tutorial - 29 - Partial.ahk
 https://www.youtube.com/watch?v=KAa6L8SRM3Y
 
-C# Beginners Tutorial - 3 - Showing MessageBoxes.ahk
+4757770.  C# Beginners Tutorial - 3 - Showing MessageBoxes.ahk
 https://www.youtube.com/watch?v=glzUzy1C7IM
 
-C# Beginners Tutorial - 30 - Abstract.ahk
+4757895.  C# Beginners Tutorial - 30 - Abstract.ahk
 https://www.youtube.com/watch?v=-qbrsfy_uKo
 
-C# Beginners Tutorial - 31 - Delegates.ahk
+4758021.  C# Beginners Tutorial - 31 - Delegates.ahk
 https://www.youtube.com/watch?v=CtIX1ei1I9Y
 
-C# Beginners Tutorial - 32 - Events.ahk
+4758148.  C# Beginners Tutorial - 32 - Events.ahk
 https://www.youtube.com/watch?v=DGY2YXUz3lQ
 
-C# Beginners Tutorial - 33 - Ternary Operator.ahk
+4758276.  C# Beginners Tutorial - 33 - Ternary Operator.ahk
 https://www.youtube.com/watch?v=MqdPPGSyXKs
 
-C# Beginners Tutorial - 34 - OpenFileDialogs.ahk
+4758405.  C# Beginners Tutorial - 34 - OpenFileDialogs.ahk
 https://www.youtube.com/watch?v=a1Ryv6DX6vU
 
-C# Beginners Tutorial - 35 - More Variable Types.ahk
+4758535.  C# Beginners Tutorial - 35 - More Variable Types.ahk
 https://www.youtube.com/watch?v=z3ybtGzL09o
 
-C# Beginners Tutorial - 36 - StreamReader pt 1.ahk
+4758666.  C# Beginners Tutorial - 36 - StreamReader pt 1.ahk
 https://www.youtube.com/watch?v=--YPtMsg_6E
 
-C# Beginners Tutorial - 37 - StreamReader pt 2.ahk
+4758798.  C# Beginners Tutorial - 37 - StreamReader pt 2.ahk
 https://www.youtube.com/watch?v=d_uzSF0v7J4
 
-C# Beginners Tutorial - 38 - StreamReader pt 3.ahk
+4758931.  C# Beginners Tutorial - 38 - StreamReader pt 3.ahk
 https://www.youtube.com/watch?v=Xi1wJSYEU4Y
 
-C# Beginners Tutorial - 39 - StreamWriter pt 1.ahk
+4759065.  C# Beginners Tutorial - 39 - StreamWriter pt 1.ahk
 https://www.youtube.com/watch?v=ZhL0eECzcYM
 
-C# Beginners Tutorial - 4 - Variables.ahk
+4759200.  C# Beginners Tutorial - 4 - Variables.ahk
 https://www.youtube.com/watch?v=Em9VcqdGatg
 
-C# Beginners Tutorial - 40 - StreamWriter pt 2.ahk
+4759336.  C# Beginners Tutorial - 40 - StreamWriter pt 2.ahk
 https://www.youtube.com/watch?v=uEcwwjB7Fg4
 
-C# Beginners Tutorial - 41 - BinaryReader pt 1.ahk
+4759473.  C# Beginners Tutorial - 41 - BinaryReader pt 1.ahk
 https://www.youtube.com/watch?v=oEVDVreWrTA
 
-C# Beginners Tutorial - 42 - BinaryReader pt 2.ahk
+4759611.  C# Beginners Tutorial - 42 - BinaryReader pt 2.ahk
 https://www.youtube.com/watch?v=goOUqBqCww8
 
-C# Beginners Tutorial - 43 - BinaryWriter.ahk
+4759750.  C# Beginners Tutorial - 43 - BinaryWriter.ahk
 https://www.youtube.com/watch?v=0Pj1F0trB_c
 
-C# Beginners Tutorial - 44 - SaveFileDialog.ahk
+4759890.  C# Beginners Tutorial - 44 - SaveFileDialog.ahk
 https://www.youtube.com/watch?v=LydFPT5eyXE
 
-C# Beginners Tutorial - 45 - Convert Class.ahk
+4760031.  C# Beginners Tutorial - 45 - Convert Class.ahk
 https://www.youtube.com/watch?v=-5gPI1q4Cz4
 
-C# Beginners Tutorial - 46 - Special Folder Locations.ahk
+4760173.  C# Beginners Tutorial - 46 - Special Folder Locations.ahk
 https://www.youtube.com/watch?v=i2815OKe_IU
 
-C# Beginners Tutorial - 47 - Is, as, and Casting.ahk
+4760316.  C# Beginners Tutorial - 47 - Is, as, and Casting.ahk
 https://www.youtube.com/watch?v=4Vzn-YM42Zw
 
-C# Beginners Tutorial - 48 - Convert Class.ahk
+4760460.  C# Beginners Tutorial - 48 - Convert Class.ahk
 https://www.youtube.com/watch?v=QUhmLsx1vm8
 
-C# Beginners Tutorial - 49 - Substrings.ahk
+4760605.  C# Beginners Tutorial - 49 - Substrings.ahk
 https://www.youtube.com/watch?v=H8e5MegKKOA
 
-C# Beginners Tutorial - 5 - Changing Properties With Code.ahk
+4760751.  C# Beginners Tutorial - 5 - Changing Properties With Code.ahk
 https://www.youtube.com/watch?v=x-OynOfFoA8
 
-C# Beginners Tutorial - 50 - IndexOf and Trim.ahk
+4760898.  C# Beginners Tutorial - 50 - IndexOf and Trim.ahk
 https://www.youtube.com/watch?v=J23tKs_s1bk
 
-C# Beginners Tutorial - 51 - Remove and Replace.ahk
+4761046.  C# Beginners Tutorial - 51 - Remove and Replace.ahk
 https://www.youtube.com/watch?v=JD9wyDH9guI
 
-C# Beginners Tutorial - 52 - Split and ToCharArray.ahk
+4761195.  C# Beginners Tutorial - 52 - Split and ToCharArray.ahk
 https://www.youtube.com/watch?v=Fwkb0-sFyFs
 
-C# Beginners Tutorial - 53 - Math Class.ahk
+4761345.  C# Beginners Tutorial - 53 - Math Class.ahk
 https://www.youtube.com/watch?v=AcjUu4VWPzQ
 
-C# Beginners Tutorial - 54 - Generating Random Numbers.ahk
+4761496.  C# Beginners Tutorial - 54 - Generating Random Numbers.ahk
 https://www.youtube.com/watch?v=G7ofO5qCL0w
 
-C# Beginners Tutorial - 55 - Generating Random String.ahk
+4761648.  C# Beginners Tutorial - 55 - Generating Random String.ahk
 https://www.youtube.com/watch?v=U9RdDVstjM8
 
-C# Beginners Tutorial - 56 - FolderBrowserDialog.ahk
+4761801.  C# Beginners Tutorial - 56 - FolderBrowserDialog.ahk
 https://www.youtube.com/watch?v=tRyBXDo4yog
 
-C# Beginners Tutorial - 57 - Directory Class pt 1.ahk
+4761955.  C# Beginners Tutorial - 57 - Directory Class pt 1.ahk
 https://www.youtube.com/watch?v=swZGPrUqo0E
 
-C# Beginners Tutorial - 58 - Directory Class pt 2.ahk
+4762110.  C# Beginners Tutorial - 58 - Directory Class pt 2.ahk
 https://www.youtube.com/watch?v=jsxdeAF5kvM
 
-C# Beginners Tutorial - 59 - Directory Class pt 3.ahk
+4762266.  C# Beginners Tutorial - 59 - Directory Class pt 3.ahk
 https://www.youtube.com/watch?v=sqgWi4kSsEI
 
-C# Beginners Tutorial - 6 - If Statements.ahk
+4762423.  C# Beginners Tutorial - 6 - If Statements.ahk
 https://www.youtube.com/watch?v=QX-x-48xP5U
 
-C# Beginners Tutorial - 60 - File Class pt 1.ahk
+4762581.  C# Beginners Tutorial - 60 - File Class pt 1.ahk
 https://www.youtube.com/watch?v=3NyqdwQhmZ8
 
-C# Beginners Tutorial - 61 - File Class pt 2.ahk
+4762740.  C# Beginners Tutorial - 61 - File Class pt 2.ahk
 https://www.youtube.com/watch?v=u2Xp8j5ZYko
 
-C# Beginners Tutorial - 62 - Path Class.ahk
+4762900.  C# Beginners Tutorial - 62 - Path Class.ahk
 https://www.youtube.com/watch?v=JsTgC1hIEw0
 
-C# Beginners Tutorial - 63 - Process Class pt 1.ahk
+4763061.  C# Beginners Tutorial - 63 - Process Class pt 1.ahk
 https://www.youtube.com/watch?v=9jpGfSIMX4w
 
-C# Beginners Tutorial - 64 - Process Class pt 2.ahk
+4763223.  C# Beginners Tutorial - 64 - Process Class pt 2.ahk
 https://www.youtube.com/watch?v=XPpC4TQNniI
 
-C# Beginners Tutorial - 65 - Null Coalesce Operator.ahk
+4763386.  C# Beginners Tutorial - 65 - Null Coalesce Operator.ahk
 https://www.youtube.com/watch?v=mySZi03pAvc
 
-C# Beginners Tutorial - 66 - Bitwise Operators pt 1.ahk
+4763550.  C# Beginners Tutorial - 66 - Bitwise Operators pt 1.ahk
 https://www.youtube.com/watch?v=heRtRoBuV6E
 
-C# Beginners Tutorial - 67 - Bitwise Operators pt 2.ahk
+4763715.  C# Beginners Tutorial - 67 - Bitwise Operators pt 2.ahk
 https://www.youtube.com/watch?v=cAe1j8V2PFk
 
-C# Beginners Tutorial - 68 - Bitwise Operators pt 3.ahk
+4763881.  C# Beginners Tutorial - 68 - Bitwise Operators pt 3.ahk
 https://www.youtube.com/watch?v=vqztkB-OOzM
 
-C# Beginners Tutorial - 69 - Threading pt 1.ahk
+4764048.  C# Beginners Tutorial - 69 - Threading pt 1.ahk
 https://www.youtube.com/watch?v=UgVkI7ZJyMc
 
-C# Beginners Tutorial - 7 - More on If Statements.ahk
+4764216.  C# Beginners Tutorial - 7 - More on If Statements.ahk
 https://www.youtube.com/watch?v=PAwO1ZbvMI4
 
-C# Beginners Tutorial - 70 - Threading pt 2.ahk
+4764385.  C# Beginners Tutorial - 70 - Threading pt 2.ahk
 https://www.youtube.com/watch?v=2e_dvohtZGc
 
-C# Beginners Tutorial - 71 - Threading pt 3.ahk
+4764555.  C# Beginners Tutorial - 71 - Threading pt 3.ahk
 https://www.youtube.com/watch?v=NgymJoo0tiM
 
-C# Beginners Tutorial - 72 - WebClient pt 1 Status Log.ahk
+4764726.  C# Beginners Tutorial - 72 - WebClient pt 1 Status Log.ahk
 https://www.youtube.com/watch?v=832cyifOnso
 
-C# Beginners Tutorial - 73 - WebClient Class pt 2 Downloading Files.ahk
+4764898.  C# Beginners Tutorial - 73 - WebClient Class pt 2 Downloading Files.ahk
 https://www.youtube.com/watch?v=pzl5VMf4Dlg
 
-C# Beginners Tutorial - 74 - Project 1 Email Sender, pt 1.ahk
+4765071.  C# Beginners Tutorial - 74 - Project 1 Email Sender, pt 1.ahk
 https://www.youtube.com/watch?v=2tw6l-bzp4w
 
-C# Beginners Tutorial - 75 - Project 1 Email Sender, pt 2.ahk
+4765245.  C# Beginners Tutorial - 75 - Project 1 Email Sender, pt 2.ahk
 https://www.youtube.com/watch?v=mGDnQchFZJg
 
-C# Beginners Tutorial - 76 - Project 1 Email Sender, pt 3.ahk
+4765420.  C# Beginners Tutorial - 76 - Project 1 Email Sender, pt 3.ahk
 https://www.youtube.com/watch?v=PQGYtZdOkeQ
 
-C# Beginners Tutorial - 77 - DateTime Struct.ahk
+4765596.  C# Beginners Tutorial - 77 - DateTime Struct.ahk
 https://www.youtube.com/watch?v=fJL2Q-sElgg
 
-C# Beginners Tutorial - 78 - DateTimePicker.ahk
+4765773.  C# Beginners Tutorial - 78 - DateTimePicker.ahk
 https://www.youtube.com/watch?v=9I8BVf5raHo
 
-C# Beginners Tutorial - 79 - Picture Box and Image Class.ahk
+4765951.  C# Beginners Tutorial - 79 - Picture Box and Image Class.ahk
 https://www.youtube.com/watch?v=pHNEJ9QoWFU
 
-C# Beginners Tutorial - 8 - If Statements pt 3.ahk
+4766130.  C# Beginners Tutorial - 8 - If Statements pt 3.ahk
 https://www.youtube.com/watch?v=i4nys8oPT_U
 
-C# Beginners Tutorial - 80 - Clipboard Class.ahk
+4766310.  C# Beginners Tutorial - 80 - Clipboard Class.ahk
 https://www.youtube.com/watch?v=2wgpb3wpoFg
 
-C# Beginners Tutorial - 81 - ColorDialog.ahk
+4766491.  C# Beginners Tutorial - 81 - ColorDialog.ahk
 https://www.youtube.com/watch?v=Rsdxdh1w9tM
 
-C# Beginners Tutorial - 82 - Color Struct.ahk
+4766673.  C# Beginners Tutorial - 82 - Color Struct.ahk
 https://www.youtube.com/watch?v=1ZJ_-fByjOQ
 
-C# Beginners Tutorial - 83 - FontDialog.ahk
+4766856.  C# Beginners Tutorial - 83 - FontDialog.ahk
 https://www.youtube.com/watch?v=ueiGFAvGou0
 
-C# Beginners Tutorial - 84 - Timer Control.ahk
+4767040.  C# Beginners Tutorial - 84 - Timer Control.ahk
 https://www.youtube.com/watch?v=tVlYojL7iCI
 
-C# Beginners Tutorial - 85 - Playing Sounds.ahk
+4767225.  C# Beginners Tutorial - 85 - Playing Sounds.ahk
 https://www.youtube.com/watch?v=4cdjFADJ41Q
 
-C# Beginners Tutorial - 86 - MaskedTextBox Control.ahk
+4767411.  C# Beginners Tutorial - 86 - MaskedTextBox Control.ahk
 https://www.youtube.com/watch?v=TR-f0k0Xj5c
 
-C# Beginners Tutorial - 87 - Multiple Forms.ahk
+4767598.  C# Beginners Tutorial - 87 - Multiple Forms.ahk
 https://www.youtube.com/watch?v=ooX_paV5Eoc
 
-C# Beginners Tutorial - 88 - Multi Document Interface MDI.ahk
+4767786.  C# Beginners Tutorial - 88 - Multi Document Interface MDI.ahk
 https://www.youtube.com/watch?v=zuRx2q1r8Bc
 
-C# Beginners Tutorial - 89 - ComboBox Control.ahk
+4767975.  C# Beginners Tutorial - 89 - ComboBox Control.ahk
 https://www.youtube.com/watch?v=CgUS4lLjIfA
 
-C# Beginners Tutorial - 9 - Switch Statements.ahk
+4768165.  C# Beginners Tutorial - 9 - Switch Statements.ahk
 https://www.youtube.com/watch?v=uEnWW8ba-wI
 
-C# Beginners Tutorial - 90 - ProgressBar Control.ahk
+4768356.  C# Beginners Tutorial - 90 - ProgressBar Control.ahk
 https://www.youtube.com/watch?v=H-BGhsCRecs
 
-C# Beginners Tutorial - 91 - ListView Control pt 1.ahk
+4768548.  C# Beginners Tutorial - 91 - ListView Control pt 1.ahk
 https://www.youtube.com/watch?v=powg_2OlmiE
 
-C# Beginners Tutorial - 92 - ListView Control pt 2.ahk
+4768741.  C# Beginners Tutorial - 92 - ListView Control pt 2.ahk
 https://www.youtube.com/watch?v=rQ3w23TlKvg
 
-C# Beginners Tutorial - 93 - ListView Control pt 3.ahk
+4768935.  C# Beginners Tutorial - 93 - ListView Control pt 3.ahk
 https://www.youtube.com/watch?v=YNjGrM7kwMM
 
-C# Beginners Tutorial - 94 - ListView Control pt 4.ahk
+4769130.  C# Beginners Tutorial - 94 - ListView Control pt 4.ahk
 https://www.youtube.com/watch?v=FQ_gnTm7zaA
 
-C# Beginners Tutorial - 95 - ToolStrip and StatusStrip Controls.ahk
+4769326.  C# Beginners Tutorial - 95 - ToolStrip and StatusStrip Controls.ahk
 https://www.youtube.com/watch?v=wCZrSmOIra8
 
-C# Beginners Tutorial - 96 - NotifyIcon Control.ahk
+4769523.  C# Beginners Tutorial - 96 - NotifyIcon Control.ahk
 https://www.youtube.com/watch?v=vBBFo0QfzW0
 
-C# Beginners Tutorial - 97 - Opening Files With Your App.ahk
+4769721.  C# Beginners Tutorial - 97 - Opening Files With Your App.ahk
 https://www.youtube.com/watch?v=NpNqrrtrY24
 
-C# Beginners Tutorial - 98 - Settings.ahk
+4769920.  C# Beginners Tutorial - 98 - Settings.ahk
 https://www.youtube.com/watch?v=1-aPZWXYVbo
 
-C# Beginners Tutorial - 99 - TreeView Control pt 1.ahk
+4770120.  C# Beginners Tutorial - 99 - TreeView Control pt 1.ahk
 https://www.youtube.com/watch?v=aGEdb-4mH5E
 C# Beginners Tutorial  GUI

@@ -1,61 +1,61 @@
 
-.ahk
+1612.  .ahk
 
 
-David Buss Message.ahk
+1614.  David Buss Message.ahk
 https://bababrinkman.bandcamp.com/track/david-buss-message
 
-David Sloan Wilson Message.ahk
+1617.  David Sloan Wilson Message.ahk
 https://bababrinkman.bandcamp.com/track/david-sloan-wilson-message
 
-Fame in the Brain.ahk
+1621.  Fame in the Brain.ahk
 https://bababrinkman.bandcamp.com/track/fame-in-the-brain
 
-GOCASE.ahk
+1626.  GOCASE.ahk
 https://bababrinkman.bandcamp.com/track/gocase
 
-Hypothesis 1 (Creationism).ahk
+1632.  Hypothesis 1 (Creationism).ahk
 https://bababrinkman.bandcamp.com/track/hypothesis-1-creationism
 
-Hypothesis 2 (Spiritualism).ahk
+1639.  Hypothesis 2 (Spiritualism).ahk
 https://bababrinkman.bandcamp.com/track/hypothesis-2-spiritualism
 
-Hypothesis 3 (Social Constructivism).ahk
+1647.  Hypothesis 3 (Social Constructivism).ahk
 https://bababrinkman.bandcamp.com/track/hypothesis-3-social-constructivism
 
-Hypothesis 4 (Biological Determinism).ahk
+1656.  Hypothesis 4 (Biological Determinism).ahk
 https://bababrinkman.bandcamp.com/track/hypothesis-4-biological-determinism
 
-Hypothesis 5 (Evolutionism).ahk
+1666.  Hypothesis 5 (Evolutionism).ahk
 https://bababrinkman.bandcamp.com/track/hypothesis-5-evolutionism
 
-No Bugs On Me.ahk
+1677.  No Bugs On Me.ahk
 https://bababrinkman.bandcamp.com/track/no-bugs-on-me
 
-Olivia Judson Message.ahk
+1689.  Olivia Judson Message.ahk
 https://bababrinkman.bandcamp.com/track/olivia-judson-message
 
-Parental Investment.ahk
+1702.  Parental Investment.ahk
 https://bababrinkman.bandcamp.com/track/parental-investment
 
-She's Ovulating.ahk
+1716.  She's Ovulating.ahk
 https://bababrinkman.bandcamp.com/track/shes-ovulating
 
-Short-Term Mating Dance.ahk
+1731.  Short-Term Mating Dance.ahk
 https://bababrinkman.bandcamp.com/track/short-term-mating-dance
 
-The Evolution of Gayness.ahk
+1747.  The Evolution of Gayness.ahk
 https://bababrinkman.bandcamp.com/track/the-evolution-of-gayness
 
-The Planter's Dilemma.ahk
+1764.  The Planter's Dilemma.ahk
 https://bababrinkman.bandcamp.com/track/the-planters-dilemma
 
-Twin Studies.ahk
+1782.  Twin Studies.ahk
 https://bababrinkman.bandcamp.com/track/twin-studies
 
-Wannabe G's.ahk
+1801.  Wannabe G's.ahk
 https://bababrinkman.bandcamp.com/track/wannabe-gs
 
-You Can't See Me.ahk
+1821.  You Can't See Me.ahk
 https://bababrinkman.bandcamp.com/track/you-cant-see-me
 The Rap Guide to Human Nature

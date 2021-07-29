@@ -1,37 +1,37 @@
 
-1) Why linux
+1.  1) Why linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/1)_Why_linux/1)_Why_linux.txt
 
-10 ways Linux is just better!
+2.  10 ways Linux is just better!
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/10_ways_Linux_is_just_better!/10_ways_Linux_is_just_better!.txt
 
-8 AREAS WHERE LINUX IS BETTER THAN WINDOWS 10
+3.  8 AREAS WHERE LINUX IS BETTER THAN WINDOWS 10
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/8_AREAS_WHERE_LINUX_IS_BETTER_THAN_WINDOWS_10/8_AREAS_WHERE_LINUX_IS_BETTER_THAN_WINDOWS_10.txt
 
-Lets talk linux
+4.  Lets talk linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Lets_talk_linux/Lets_talk_linux.txt
 
-Linux
+5.  Linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Linux/Linux.txt
 
-LINUX ON MACBOOK PRO
+6.  LINUX ON MACBOOK PRO
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/LINUX_ON_MACBOOK_PRO/LINUX_ON_MACBOOK_PRO.txt
 
-Linux Rants
+7.  Linux Rants
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Linux_Rants/Linux_Rants.txt
 
-Linux Resources
+8.  Linux Resources
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Linux_Resources/Linux_Resources.txt
 
-Linux tips
+9.  Linux tips
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Linux_tips/Linux_tips.txt
 
-Switch 2 Linux
+10.  Switch 2 Linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Switch_2_Linux/Switch_2_Linux.txt
 
-Why Linux
+11.  Why Linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/Why_Linux/Why_Linux.txt
 
-WINDOWS VS LINUX
+12.  WINDOWS VS LINUX
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Operating_Systems/Linux/Why_Linux_is_Better/WINDOWS_VS_LINUX/WINDOWS_VS_LINUX.txt
 Why Linux is Better

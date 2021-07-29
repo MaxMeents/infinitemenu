@@ -1,106 +1,106 @@
 
-Alternative medicine
+1.  Alternative medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Alternative_medicine/Alternative_medicine.txt
 
-Cause (medicine)
+2.  Cause (medicine)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Cause_(medicine)/Cause_(medicine).txt
 
-Chemicals in medicine
+3.  Chemicals in medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Chemicals_in_medicine/Chemicals_in_medicine.txt
 
-Clinical medicine
+4.  Clinical medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Clinical_medicine/Clinical_medicine.txt
 
-Health insurance
+5.  Health insurance
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Health_insurance/Health_insurance.txt
 
-History of medicine
+6.  History of medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/History_of_medicine/History_of_medicine.txt
 
-Intersex and medicine
+7.  Intersex and medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Intersex_and_medicine/Intersex_and_medicine.txt
 
-Intersex variations
+8.  Intersex variations
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Intersex_variations/Intersex_variations.txt
 
-Medical activism
+9.  Medical activism
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_activism/Medical_activism.txt
 
-Medical and health organizations
+10.  Medical and health organizations
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_and_health_organizations/Medical_and_health_organizations.txt
 
-Medical aspects of death
+11.  Medical aspects of death
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_aspects_of_death/Medical_aspects_of_death.txt
 
-Medical associations
+12.  Medical associations
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_associations/Medical_associations.txt
 
-Medical culture
+13.  Medical culture
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_culture/Medical_culture.txt
 
-Medical education
+14.  Medical education
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_education/Medical_education.txt
 
-Medical lists
+15.  Medical lists
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_lists/Medical_lists.txt
 
-Medical monitoring
+16.  Medical monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Medical_monitoring.txt
 
-Medical phenomena
+17.  Medical phenomena
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_phenomena/Medical_phenomena.txt
 
-Medical prevention
+18.  Medical prevention
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_prevention/Medical_prevention.txt
 
-Medical research
+19.  Medical research
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_research/Medical_research.txt
 
-Medical symbols
+20.  Medical symbols
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_symbols/Medical_symbols.txt
 
-Medical technology
+21.  Medical technology
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_technology/Medical_technology.txt
 
-Medical terminology
+22.  Medical terminology
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_terminology/Medical_terminology.txt
 
-Medical texts
+23.  Medical texts
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_texts/Medical_texts.txt
 
-Medical-related conspiracy theories
+24.  Medical-related conspiracy theories
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical-related_conspiracy_theories/Medical-related_conspiracy_theories.txt
 
-Medicine by century
+25.  Medicine by century
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_by_century/Medicine_by_century.txt
 
-Medicine by country
+26.  Medicine by country
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_by_country/Medicine_by_country.txt
 
-Medicine by decade
+27.  Medicine by decade
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_by_decade/Medicine_by_decade.txt
 
-Medicine by year
+28.  Medicine by year
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_by_year/Medicine_by_year.txt
 
-Medicine in society
+29.  Medicine in society
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_in_society/Medicine_in_society.txt
 
-Medicine stubs
+30.  Medicine stubs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine_stubs/Medicine_stubs.txt
 
-Practice of medicine
+31.  Practice of medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Practice_of_medicine/Practice_of_medicine.txt
 
-Religion and medicine
+32.  Religion and medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Religion_and_medicine/Religion_and_medicine.txt
 
-Theory of medicine
+33.  Theory of medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Theory_of_medicine/Theory_of_medicine.txt
 
-Veterinary medicine
+34.  Veterinary medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Veterinary_medicine/Veterinary_medicine.txt
 
-Works about medicine
+35.  Works about medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Works_about_medicine/Works_about_medicine.txt
 Medicine
