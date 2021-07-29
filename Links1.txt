@@ -1,3 +1,3 @@
 Test Folder
 Test Name
-http:\\www.testlink.com
+https://maxmeents.github.io/infinitemenu/Links2.txt
