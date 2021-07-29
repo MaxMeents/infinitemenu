@@ -1,28 +1,28 @@
 
 College Humor
-https://maxmeents.github.io/infinitemenu/Comedy/College_Humor/College_Humor.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/College_Humor/College_Humor.txt
 
 Corbettreport
-https://maxmeents.github.io/infinitemenu/Comedy/Corbettreport/Corbettreport.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Corbettreport/Corbettreport.txt
 
 Cyanide & Happiness
-https://maxmeents.github.io/infinitemenu/Comedy/Cyanide_&_Happiness/Cyanide_&_Happiness.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Cyanide_&_Happiness/Cyanide_&_Happiness.txt
 
 Epic Rap Battles of History
-https://maxmeents.github.io/infinitemenu/Comedy/Epic_Rap_Battles_of_History/Epic_Rap_Battles_of_History.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Epic_Rap_Battles_of_History/Epic_Rap_Battles_of_History.txt
 
 Fail Army
-https://maxmeents.github.io/infinitemenu/Comedy/Fail_Army/Fail_Army.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Fail_Army/Fail_Army.txt
 
 RayWilliamJohnson
-https://maxmeents.github.io/infinitemenu/Comedy/RayWilliamJohnson/RayWilliamJohnson.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/RayWilliamJohnson/RayWilliamJohnson.txt
 
 The Lonely Island
-https://maxmeents.github.io/infinitemenu/Comedy/The_Lonely_Island/The_Lonely_Island.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/The_Lonely_Island/The_Lonely_Island.txt
 
 Tobuscus
-https://maxmeents.github.io/infinitemenu/Comedy/Tobuscus/Tobuscus.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Tobuscus/Tobuscus.txt
 
 Youtube Channels
-https://maxmeents.github.io/infinitemenu/Comedy/Youtube_Channels/Youtube_Channels.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Youtube_Channels/Youtube_Channels.txt
 Comedy

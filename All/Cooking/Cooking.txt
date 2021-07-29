@@ -1,7 +1,7 @@
 
 Cooking Playlists
-https://maxmeents.github.io/infinitemenu/Cooking/Cooking_Playlists/Cooking_Playlists.txt
+https://maxmeents.github.io/infinitemenu/All/Cooking/Cooking_Playlists/Cooking_Playlists.txt
 
 Crock Pot Recipes
-https://maxmeents.github.io/infinitemenu/Cooking/Crock_Pot_Recipes/Crock_Pot_Recipes.txt
+https://maxmeents.github.io/infinitemenu/All/Cooking/Crock_Pot_Recipes/Crock_Pot_Recipes.txt
 Cooking
