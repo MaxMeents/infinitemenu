@@ -1,37 +1,37 @@
 
 Ángel Barrios
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Ángel_Barrios/Ángel_Barrios.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Ángel_Barrios/Ángel_Barrios.txt
 
 Ángel Villoldo
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Ángel_Villoldo/Ángel_Villoldo.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Ángel_Villoldo/Ángel_Villoldo.txt
 
 Árpád Doppler
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Árpád_Doppler/Árpád_Doppler.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Árpád_Doppler/Árpád_Doppler.txt
 
 Ástor Piazzolla
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Ástor_Piazzolla/Ástor_Piazzolla.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Ástor_Piazzolla/Ástor_Piazzolla.txt
 
 Édouard Lalo
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Édouard_Lalo/Édouard_Lalo.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Édouard_Lalo/Édouard_Lalo.txt
 
 Élisabeth Jacquet de La Guerre
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Élisabeth_Jacquet_de_La_Guerre/Élisabeth_Jacquet_de_La_Guerre.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Élisabeth_Jacquet_de_La_Guerre/Élisabeth_Jacquet_de_La_Guerre.txt
 
 Émile Waldteufel
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Émile_Waldteufel/Émile_Waldteufel.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Émile_Waldteufel/Émile_Waldteufel.txt
 
 Étienne Méhul
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Étienne_Méhul/Étienne_Méhul.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Étienne_Méhul/Étienne_Méhul.txt
 
 Étienne-Joseph Floquet
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Étienne-Joseph_Floquet/Étienne-Joseph_Floquet.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Étienne-Joseph_Floquet/Étienne-Joseph_Floquet.txt
 
 Øystein Baadsvik
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Øystein_Baadsvik/Øystein_Baadsvik.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Øystein_Baadsvik/Øystein_Baadsvik.txt
 
 Ludovít Rajter
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Ludovít_Rajter/Ludovít_Rajter.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Ludovít_Rajter/Ludovít_Rajter.txt
 
 Šimon Brixi
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Non-ABC/Šimon_Brixi/Šimon_Brixi.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Šimon_Brixi/Šimon_Brixi.txt
 Non-ABC

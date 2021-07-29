@@ -1,1 +1,733 @@
+
+.ahk
+https://en.wikipedia.org/wiki/File:Night_Spice_market_in_Casablanca.JPG
+
+Abelmoschus moschatus.ahk
+https://en.wikipedia.org/wiki/Abelmoschus_moschatus
+
+Achillea millefolium.ahk
+https://en.wikipedia.org/wiki/Achillea_millefolium
+
+Afghanistan.ahk
+https://en.wikipedia.org/wiki/Afghan_cuisine
+
+Aframomum corrorima.ahk
+https://en.wikipedia.org/wiki/Aframomum_corrorima
+
+Ajwain.ahk
+https://en.wikipedia.org/wiki/Ajwain
+
+Alexanders.ahk
+https://en.wikipedia.org/wiki/Alexanders
+
+Alkanna tinctoria.ahk
+https://en.wikipedia.org/wiki/Alkanna_tinctoria
+
+Alligator pepper.ahk
+https://en.wikipedia.org/wiki/Alligator_pepper
+
+Allspice.ahk
+https://en.wikipedia.org/wiki/Allspice
+
+Alpinia galanga.ahk
+https://en.wikipedia.org/wiki/Alpinia_galanga
+
+Ancient Greek cuisine.ahk
+https://en.wikipedia.org/wiki/Ancient_Greek_cuisine
+
+Ancient Roman cuisine.ahk
+https://en.wikipedia.org/wiki/Ancient_Roman_cuisine
+
+Angelica.ahk
+https://en.wikipedia.org/wiki/Angelica
+
+Anise.ahk
+https://en.wikipedia.org/wiki/Anise
+
+Annatto.ahk
+https://en.wikipedia.org/wiki/Annatto
+
+aperitifs.ahk
+https://en.wikipedia.org/wiki/Aperitif
+
+Artemisia absinthium.ahk
+https://en.wikipedia.org/wiki/Artemisia_absinthium
+
+Artemisia.ahk
+https://en.wikipedia.org/wiki/Artemisia_(genus)
+
+Asafoetida.ahk
+https://en.wikipedia.org/wiki/Asafoetida
+
+Australia.ahk
+https://en.wikipedia.org/wiki/Australian_cuisine
+
+Avocado.ahk
+https://en.wikipedia.org/wiki/Avocado
+
+Backhousia citriodora.ahk
+https://en.wikipedia.org/wiki/Backhousia_citriodora
+
+Backhousia myrtifolia.ahk
+https://en.wikipedia.org/wiki/Backhousia_myrtifolia
+
+Bali.ahk
+https://en.wikipedia.org/wiki/Balinese_cuisine
+
+Barberry.ahk
+https://en.wikipedia.org/wiki/Barberry
+
+Basil, Holy.ahk
+https://en.wikipedia.org/wiki/Holy_basil
+
+Basil, lemon.ahk
+https://en.wikipedia.org/wiki/Lemon_Basil
+
+Basil, Thai.ahk
+https://en.wikipedia.org/wiki/Thai_basil
+
+Basil.ahk
+https://en.wikipedia.org/wiki/Basil
+
+Bay leaf.ahk
+https://en.wikipedia.org/wiki/Laurus_nobilis
+
+beers.ahk
+https://en.wikipedia.org/wiki/Beer
+
+Berberis.ahk
+https://en.wikipedia.org/wiki/Berberis
+
+Blue fenugreek.ahk
+https://en.wikipedia.org/wiki/Trigonella_caerulea
+
+Boldo.ahk
+https://en.wikipedia.org/wiki/Boldo
+
+Borage.ahk
+https://en.wikipedia.org/wiki/Borage
+
+Brassica hirta.ahk
+https://en.wikipedia.org/wiki/Brassica_hirta
+
+Brassica juncea.ahk
+https://en.wikipedia.org/wiki/Brassica_juncea
+
+Brassica nigra.ahk
+https://en.wikipedia.org/wiki/Brassica_nigra
+
+Brazil.ahk
+https://en.wikipedia.org/wiki/Brazil
+
+Bunium persicum.ahk
+https://en.wikipedia.org/wiki/Bunium_persicum
+
+C. flexuosus.ahk
+https://en.wikipedia.org/wiki/Cymbopogon_flexuosus
+
+California bay laurel.ahk
+https://en.wikipedia.org/wiki/California_bay_laurel
+
+Cambodia.ahk
+https://en.wikipedia.org/wiki/Cambodian_cuisine
+
+Canella winterana.ahk
+https://en.wikipedia.org/wiki/Canella_winterana
+
+Caper.ahk
+https://en.wikipedia.org/wiki/Caper
+
+Capsicum annuum.ahk
+https://en.wikipedia.org/wiki/Capsicum_annuum
+
+Caraway.ahk
+https://en.wikipedia.org/wiki/Caraway
+
+Cardamom, black.ahk
+https://en.wikipedia.org/wiki/Black_cardamom
+
+Cardamom.ahk
+https://en.wikipedia.org/wiki/Cardamom
+
+Catnip.ahk
+https://en.wikipedia.org/wiki/Catnip
+
+Cayenne pepper.ahk
+https://en.wikipedia.org/wiki/Cayenne_pepper
+
+Celery.ahk
+https://en.wikipedia.org/wiki/Celery
+
+Ceratonia siliqua.ahk
+https://en.wikipedia.org/wiki/Ceratonia_siliqua
+
+Chervil.ahk
+https://en.wikipedia.org/wiki/Chervil
+
+Chicory.ahk
+https://en.wikipedia.org/wiki/Chicory
+
+Chili pepper.ahk
+https://en.wikipedia.org/wiki/Chili_pepper
+
+China.ahk
+https://en.wikipedia.org/wiki/Chinese_cuisine
+
+Chives.ahk
+https://en.wikipedia.org/wiki/Chives
+
+Cicely.ahk
+https://en.wikipedia.org/wiki/Cicely
+
+Cilantro.ahk
+https://en.wikipedia.org/wiki/Cilantro#Leaves
+
+Cinnamomum aromaticum.ahk
+https://en.wikipedia.org/wiki/Cinnamomum_aromaticum
+
+Cinnamomum burmannii.ahk
+https://en.wikipedia.org/wiki/Cinnamomum_burmannii
+
+Cinnamomum loureiroi.ahk
+https://en.wikipedia.org/wiki/Cinnamomum_loureiroi
+
+Cinnamomum tamala.ahk
+https://en.wikipedia.org/wiki/Cinnamomum_tamala
+
+Cinnamon.ahk
+https://en.wikipedia.org/wiki/Saigon_Cinnamon
+
+Clove.ahk
+https://en.wikipedia.org/wiki/Clove
+
+Coleus amboinicus.ahk
+https://en.wikipedia.org/wiki/Coleus_amboinicus
+
+Coriander, Vietnamese.ahk
+https://en.wikipedia.org/wiki/Vietnamese_coriander
+
+Coriander.ahk
+https://en.wikipedia.org/wiki/Coriander_(spice)
+
+Cubeb.ahk
+https://en.wikipedia.org/wiki/Cubeb
+
+Cudweed.ahk
+https://en.wikipedia.org/wiki/Cudweed
+
+Cumin.ahk
+https://en.wikipedia.org/wiki/Cumin
+
+Curry leaf.ahk
+https://en.wikipedia.org/wiki/Curry_tree
+
+Cymbopogon citratus.ahk
+https://en.wikipedia.org/wiki/Cymbopogon_citratus
+
+Cymbopogon.ahk
+https://en.wikipedia.org/wiki/Cymbopogon
+
+Cyperus.ahk
+https://en.wikipedia.org/wiki/Cyperus
+
+Deulkkae.ahk
+https://en.wikipedia.org/wiki/Deulkkae
+
+Dill seed.ahk
+https://en.wikipedia.org/wiki/Dill_seed
+
+Dill.ahk
+https://en.wikipedia.org/wiki/Dill
+
+Dysphania ambrosioides.ahk
+https://en.wikipedia.org/wiki/Dysphania_ambrosioides
+
+edit.ahk
+https://en.wikipedia.org/w/index.php?title=List_of_culinary_herbs_and_spices&action=edit§ion=2
+
+Egypt.ahk
+https://en.wikipedia.org/wiki/Egyptian_cuisine
+
+Elsholtzia ciliata.ahk
+https://en.wikipedia.org/wiki/Elsholtzia_ciliata
+
+Eritrea.ahk
+https://en.wikipedia.org/wiki/Eritrean_cuisine
+
+Eryngium foetidum.ahk
+https://en.wikipedia.org/wiki/Eryngium_foetidum
+
+Ethiopia.ahk
+https://en.wikipedia.org/wiki/Ethiopian_cuisine
+
+Etlingera elatior.ahk
+https://en.wikipedia.org/wiki/Etlingera_elatior
+
+Eucalyptus dives.ahk
+https://en.wikipedia.org/wiki/Eucalyptus_dives
+
+Eucalyptus olida.ahk
+https://en.wikipedia.org/wiki/Eucalyptus_olida
+
+Eucalyptus staigeriana.ahk
+https://en.wikipedia.org/wiki/Eucalyptus_staigeriana
+
+Fennel.ahk
+https://en.wikipedia.org/wiki/Fennel
+
+Fenugreek.ahk
+https://en.wikipedia.org/wiki/Fenugreek
+
+Filé powder.ahk
+https://en.wikipedia.org/wiki/Fil%C3%A9_powder
+
+Fingerroot.ahk
+https://en.wikipedia.org/wiki/Fingerroot
+
+fortified wines.ahk
+https://en.wikipedia.org/wiki/Fortified_wine
+
+Galangal, greater.ahk
+https://en.wikipedia.org/wiki/Greater_galangal
+
+Galangal, lesser.ahk
+https://en.wikipedia.org/wiki/Lesser_galangal
+
+Galium odoratum.ahk
+https://en.wikipedia.org/wiki/Galium_odoratum
+
+Garcinia gummi-gutta.ahk
+https://en.wikipedia.org/wiki/Garcinia_gummi-gutta
+
+Garcinia indica.ahk
+https://en.wikipedia.org/wiki/Garcinia_indica
+
+Garlic chives.ahk
+https://en.wikipedia.org/wiki/Garlic_chives
+
+Garlic.ahk
+https://en.wikipedia.org/wiki/Garlic
+
+Geum urbanum.ahk
+https://en.wikipedia.org/wiki/Geum_urbanum
+
+Ginger.ahk
+https://en.wikipedia.org/wiki/Ginger
+
+Gnaphalium.ahk
+https://en.wikipedia.org/wiki/Gnaphalium
+
+Golpar.ahk
+https://en.wikipedia.org/wiki/Golpar
+
+Grains of paradise.ahk
+https://en.wikipedia.org/wiki/Grains_of_paradise
+
+Grains of Selim.ahk
+https://en.wikipedia.org/wiki/Grains_of_Selim
+
+Group.ahk
+https://en.wikipedia.org/wiki/Cultivar_Group
+
+Hatch.ahk
+https://en.wikipedia.org/wiki/Hatch,_New_Mexico
+
+Helichrysum italicum.ahk
+https://en.wikipedia.org/wiki/Helichrysum_italicum
+
+Horseradish.ahk
+https://en.wikipedia.org/wiki/Horseradish
+
+Houttuynia cordata.ahk
+https://en.wikipedia.org/wiki/Houttuynia
+
+Hyssop.ahk
+https://en.wikipedia.org/wiki/Hyssopus_officinalis
+
+I. florentina.ahk
+https://en.wikipedia.org/wiki/Iris_florentina
+
+I. pallida.ahk
+https://en.wikipedia.org/wiki/Iris_pallida
+
+India.ahk
+https://en.wikipedia.org/wiki/Indian_cuisine
+
+Indian confectionery.ahk
+https://en.wikipedia.org/wiki/Indian_sweets
+
+Indonesia.ahk
+https://en.wikipedia.org/wiki/Indonesian_cuisine
+
+Iran.ahk
+https://en.wikipedia.org/wiki/Iranian_cuisine
+
+Iris germanica.ahk
+https://en.wikipedia.org/wiki/Iris_germanica
+
+Italy.ahk
+https://en.wikipedia.org/wiki/Italian_cuisine
+
+Jakhya.ahk
+https://en.wikipedia.org/wiki/Jakhya
+
+Jalapeño.ahk
+https://en.wikipedia.org/wiki/Jalape%C3%B1o
+
+Jasmine.ahk
+https://en.wikipedia.org/wiki/Jasmine
+
+Java.ahk
+https://en.wikipedia.org/wiki/Javanese_cuisine
+
+Jiaogulan.ahk
+https://en.wikipedia.org/wiki/Jiaogulan
+
+Jimbu.ahk
+https://en.wikipedia.org/wiki/Jimbu
+
+Juniper berry.ahk
+https://en.wikipedia.org/wiki/Juniper_berry
+
+Kaempferia galanga.ahk
+https://en.wikipedia.org/wiki/Kaempferia_galanga
+
+Kaffir lime.ahk
+https://en.wikipedia.org/wiki/Kaffir_lime
+
+Kawakawa.ahk
+https://en.wikipedia.org/wiki/Kawakawa_(tree)
+
+Kkaennip.ahk
+https://en.wikipedia.org/wiki/Kkaennip
+
+Lanxangia tsaoko.ahk
+https://en.wikipedia.org/wiki/Lanxangia_tsaoko
+
+Lavender.ahk
+https://en.wikipedia.org/wiki/Lavender
+
+Lemon balm.ahk
+https://en.wikipedia.org/wiki/Lemon_balm
+
+Lemon verbena.ahk
+https://en.wikipedia.org/wiki/Lemon_verbena
+
+Leptotes bicolor.ahk
+https://en.wikipedia.org/wiki/Leptotes_bicolor
+
+Lesser calamint.ahk
+https://en.wikipedia.org/wiki/Lesser_Calamint
+
+Licorice.ahk
+https://en.wikipedia.org/wiki/Licorice
+
+Limnophila aromatica.ahk
+https://en.wikipedia.org/wiki/Limnophila_aromatica
+
+Lippia abyssinica.ahk
+https://en.wikipedia.org/wiki/Lippia_abyssinica
+
+Lippia graveolens.ahk
+https://en.wikipedia.org/wiki/Lippia_graveolens
+
+Lovage.ahk
+https://en.wikipedia.org/wiki/Lovage
+
+Mahleb.ahk
+https://en.wikipedia.org/wiki/Mahleb
+
+Marjoram.ahk
+https://en.wikipedia.org/wiki/Marjoram
+
+Mastic.ahk
+https://en.wikipedia.org/wiki/Mastic_(resin)
+
+Mentha spicata.ahk
+https://en.wikipedia.org/wiki/Mentha_spicata
+
+Mentha.ahk
+https://en.wikipedia.org/wiki/Mentha
+
+Mexico.ahk
+https://en.wikipedia.org/wiki/Mexican_cuisine
+
+Monascus purpureus.ahk
+https://en.wikipedia.org/wiki/Monascus_purpureus
+
+mustard plant.ahk
+https://en.wikipedia.org/wiki/Mustard_plant
+
+mustard seed.ahk
+https://en.wikipedia.org/wiki/Mustard_seed
+
+Mustard, black.ahk
+https://en.wikipedia.org/wiki/Black_mustard
+
+Mustard, white.ahk
+https://en.wikipedia.org/wiki/White_mustard
+
+Nepal.ahk
+https://en.wikipedia.org/wiki/Nepalese_cuisine
+
+New Mexico chile.ahk
+https://en.wikipedia.org/wiki/New_Mexico_chile
+
+New Mexico.ahk
+https://en.wikipedia.org/wiki/New_Mexico
+
+New Zealand.ahk
+https://en.wikipedia.org/wiki/New_Zealand_cuisine
+
+Nigella sativa.ahk
+https://en.wikipedia.org/wiki/Nigella_sativa
+
+Njangsa.ahk
+https://en.wikipedia.org/wiki/Njangsa
+
+Nutmeg.ahk
+https://en.wikipedia.org/wiki/Nutmeg
+
+Oregano.ahk
+https://en.wikipedia.org/wiki/Oregano
+
+Orris root.ahk
+https://en.wikipedia.org/wiki/Orris_root
+
+Pakistan.ahk
+https://en.wikipedia.org/wiki/Pakistani_cuisine
+
+Pandanus.ahk
+https://en.wikipedia.org/wiki/Pandanus
+
+Pangium edule.ahk
+https://en.wikipedia.org/wiki/Pangium_edule
+
+Papaver somniferum.ahk
+https://en.wikipedia.org/wiki/Papaver_somniferum
+
+Paprika.ahk
+https://en.wikipedia.org/wiki/Paprika
+
+Paracress.ahk
+https://en.wikipedia.org/wiki/Paracress
+
+Paraguay.ahk
+https://en.wikipedia.org/wiki/Paraguayan_cuisine
+
+Parsley.ahk
+https://en.wikipedia.org/wiki/Parsley
+
+Pennyroyal.ahk
+https://en.wikipedia.org/wiki/Mentha_pulegium
+
+Pepper, Brazilian.ahk
+https://en.wikipedia.org/wiki/Brazilian_pepper
+
+Pepper, Dorrigo.ahk
+https://en.wikipedia.org/wiki/Dorrigo_Pepper
+
+Pepper, long.ahk
+https://en.wikipedia.org/wiki/Long_Pepper
+
+Pepper.ahk
+https://en.wikipedia.org/wiki/Black_pepper
+
+Peppermint.ahk
+https://en.wikipedia.org/wiki/Peppermint
+
+Perilla frutescens.ahk
+https://en.wikipedia.org/wiki/Perilla_frutescens
+
+Perilla.ahk
+https://en.wikipedia.org/wiki/Perilla
+
+Peruvian pepper.ahk
+https://en.wikipedia.org/wiki/Peruvian_pepper
+
+Piper auritum.ahk
+https://en.wikipedia.org/wiki/Piper_auritum
+
+Pistacia lentiscus.ahk
+https://en.wikipedia.org/wiki/Pistacia_lentiscus
+
+Poppy seed.ahk
+https://en.wikipedia.org/wiki/Poppy_seed
+
+Porophyllum linaria.ahk
+https://en.wikipedia.org/wiki/Porophyllum_linaria
+
+Porophyllum ruderale.ahk
+https://en.wikipedia.org/wiki/Porophyllum_ruderale
+
+Pseudowintera colorata.ahk
+https://en.wikipedia.org/wiki/Pseudowintera_colorata
+
+Purslane.ahk
+https://en.wikipedia.org/wiki/Purslane
+
+Quassia amara.ahk
+https://en.wikipedia.org/wiki/Quassia_amara
+
+Rosemary.ahk
+https://en.wikipedia.org/wiki/Rosemary
+
+Rue.ahk
+https://en.wikipedia.org/wiki/Rue
+
+Rumex acetosella.ahk
+https://en.wikipedia.org/wiki/Rumex_acetosella
+
+Safflower.ahk
+https://en.wikipedia.org/wiki/Safflower
+
+Saffron.ahk
+https://en.wikipedia.org/wiki/Saffron
+
+Sage.ahk
+https://en.wikipedia.org/wiki/Common_sage
+
+Salad burnet.ahk
+https://en.wikipedia.org/wiki/Salad_burnet
+
+Salep.ahk
+https://en.wikipedia.org/wiki/Salep
+
+Salvia sclarea.ahk
+https://en.wikipedia.org/wiki/Salvia_sclarea
+
+Sambucus.ahk
+https://en.wikipedia.org/wiki/Sambucus
+
+Sassafras.ahk
+https://en.wikipedia.org/wiki/Sassafras
+
+Savory, summer.ahk
+https://en.wikipedia.org/wiki/Summer_savory
+
+Savory, winter.ahk
+https://en.wikipedia.org/wiki/Winter_savory
+
+Sesame Seed.ahk
+https://en.wikipedia.org/wiki/Sesame_Seed
+
+Shiso.ahk
+https://en.wikipedia.org/wiki/Shiso
+
+Silphium.ahk
+https://en.wikipedia.org/wiki/Silphium
+
+Sinapis alba.ahk
+https://en.wikipedia.org/wiki/Sinapis_alba
+
+Solanum centrale.ahk
+https://en.wikipedia.org/wiki/Solanum_centrale
+
+Sorrel.ahk
+https://en.wikipedia.org/wiki/Sorrel
+
+South America.ahk
+https://en.wikipedia.org/wiki/South_American_cuisine
+
+South Asia.ahk
+https://en.wikipedia.org/wiki/South_Asian_cuisine
+
+Southeast Asia.ahk
+https://en.wikipedia.org/wiki/Southeast_Asia
+
+southern Brazil.ahk
+https://en.wikipedia.org/wiki/Brazilian_cuisine
+
+Spikenard.ahk
+https://en.wikipedia.org/wiki/Spikenard
+
+Star anise.ahk
+https://en.wikipedia.org/wiki/Star_anise
+
+Sumac.ahk
+https://en.wikipedia.org/wiki/Sumac
+
+Syzygium anisatum.ahk
+https://en.wikipedia.org/wiki/Syzygium_anisatum
+
+Syzygium polyanthum.ahk
+https://en.wikipedia.org/wiki/Syzygium
+
+Szechuan pepper.ahk
+https://en.wikipedia.org/wiki/Szechuan_pepper
+
+Tagetes minuta.ahk
+https://en.wikipedia.org/wiki/Tagetes_minuta
+
+Tanacetum balsamita.ahk
+https://en.wikipedia.org/wiki/Tanacetum_balsamita
+
+Tarragon.ahk
+https://en.wikipedia.org/wiki/Tarragon
+
+Tasmanian pepper.ahk
+https://en.wikipedia.org/wiki/Tasmanian_pepper
+
+Tasmannia lanceolata.ahk
+https://en.wikipedia.org/wiki/Tasmannia_lanceolata
+
+Thailand.ahk
+https://en.wikipedia.org/wiki/Thai_cuisine
+
+Thyme, lemon.ahk
+https://en.wikipedia.org/wiki/Lemon_Thyme
+
+Thyme.ahk
+https://en.wikipedia.org/wiki/Thyme
+
+Thymus serpyllum.ahk
+https://en.wikipedia.org/wiki/Thymus_serpyllum
+
+Tilia.ahk
+https://en.wikipedia.org/wiki/Tilia
+
+Trachyspermum ammi.ahk
+https://en.wikipedia.org/wiki/Trachyspermum_ammi
+
+Turmeric.ahk
+https://en.wikipedia.org/wiki/Turmeric
+
+use of saffron.ahk
+https://en.wikipedia.org/wiki/Saffron_(use)
+
+Vanilla.ahk
+https://en.wikipedia.org/wiki/Vanilla
+
+Vietnam.ahk
+https://en.wikipedia.org/wiki/Vietnamese_cuisine
+
+Voatsiperifery.ahk
+https://en.wikipedia.org/wiki/Voatsiperifery
+
+Wasabi.ahk
+https://en.wikipedia.org/wiki/Wasabi
+
+Water-pepper.ahk
+https://en.wikipedia.org/wiki/Water-pepper
+
+Watercress.ahk
+https://en.wikipedia.org/wiki/Watercress
+
+Wattleseed.ahk
+https://en.wikipedia.org/wiki/Wattleseed
+
+Willow herb.ahk
+https://en.wikipedia.org/wiki/Epilobium_parviflorum
+
+Wintergreen.ahk
+https://en.wikipedia.org/wiki/Wintergreen
+
+Yerba buena.ahk
+https://en.wikipedia.org/wiki/Yerba_buena
+
+Za'atar.ahk
+https://en.wikipedia.org/wiki/Za%27atar
+
+Zedoary.ahk
+https://en.wikipedia.org/wiki/Zedoary
 Culinary Herbs and Spices

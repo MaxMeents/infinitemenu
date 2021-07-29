@@ -1,1 +1,475 @@
+
+Playlist Organizer.ahk
+https://www.youtube.com/watch?v=Hs33JPY9ziw
+
+PreCalculus - Algebra Fundamental Review (1 of 80) The Absolute Value.ahk
+https://www.youtube.com/watch?v=QOg7fUuVLbM
+
+PreCalculus - Algebra Fundamental Review (10 of 80) Solving Linear Equations Theory.ahk
+https://www.youtube.com/watch?v=YXNzrT2sWOY
+
+PreCalculus - Algebra Fundamental Review (11 of 80) Solving Linear Equations Examples.ahk
+https://www.youtube.com/watch?v=S5QggzSfdlc
+
+PreCalculus - Algebra Fundamental Review (12 of 80) Solving for a Variable in a Formula Examples.ahk
+https://www.youtube.com/watch?v=9Ovhxa_KH7g
+
+PreCalculus - Algebra Fundamental Review (13 of 80) Solving Quadratic Equations Different Types.ahk
+https://www.youtube.com/watch?v=4lKyJxDKWCs
+
+PreCalculus - Algebra Fundamental Review (14 of 80) Solving Quadratic Equations Factoring.ahk
+https://www.youtube.com/watch?v=dLrxj5IttEM
+
+PreCalculus - Algebra Fundamental Review (15 of 80) Sol Quadratic Equations Factoring (Foil Method).ahk
+https://www.youtube.com/watch?v=ozw5qjC4Eng
+
+PreCalculus - Algebra Fundamental Review (16 of 80) Sol Quadratic Eqns Quadratic Formula.ahk
+https://www.youtube.com/watch?v=QO0aPjaiwec
+
+PreCalculus - Algebra Fundamental Review (17 of 80) Sol Quadratic Eqns Completing the Square.ahk
+https://www.youtube.com/watch?v=5AYLq5wwgqo
+
+PreCalculus - Algebra Fundamental Review (18 of 80) Solving Quadratic Eqns Fractions Ex 1.ahk
+https://www.youtube.com/watch?v=yd9D66yTcuw
+
+PreCalculus - Algebra Fundamental Review (19 of 80) Solving Quadratic Eqns Fractions Ex. 2.ahk
+https://www.youtube.com/watch?v=FUhzH57_SkA
+
+PreCalculus - Algebra Fundamental Review (2 of 80) The Absolute Value Examples.ahk
+https://www.youtube.com/watch?v=Ieei5GT1vXk
+
+PreCalculus - Algebra Fundamental Review (20 of 80) Solving Quadratic Eqns With Square Roots.ahk
+https://www.youtube.com/watch?v=iep0zKT580g
+
+PreCalculus - Algebra Fundamental Review (21 of 80) Review of Word Problems Cost.ahk
+https://www.youtube.com/watch?v=1ktR0IZmXvI
+
+PreCalculus - Algebra Fundamental Review (22 of 80) Review of Word Problems Investments.ahk
+https://www.youtube.com/watch?v=0qpRFru9p_0
+
+PreCalculus - Algebra Fundamental Review (23 of 80) Review of Word Problems Salaries.ahk
+https://www.youtube.com/watch?v=n1yUglA6ZFQ
+
+PreCalculus - Algebra Fundamental Review (24 of 80) Review of Word Problems Ages.ahk
+https://www.youtube.com/watch?v=48MGDugIgEE
+
+PreCalculus - Algebra Fundamental Review (25 of 80) Review of Word Problems Coins.ahk
+https://www.youtube.com/watch?v=rWWU1Fz_Zp4
+
+PreCalculus - Algebra Fundamental Review (26 of 80) Review of Word Problems Dimensions Ex. 2.ahk
+https://www.youtube.com/watch?v=2W8OMrTnZBo
+
+PreCalculus - Algebra Fundamental Review (27 of 80) Review of Word Problems Dimensions Ex. 2.ahk
+https://www.youtube.com/watch?v=9Jjnj4nD1Xc
+
+PreCalculus - Algebra Fundamental Review (28 of 80) Review of Word Problems How Tall Is The Tree.ahk
+https://www.youtube.com/watch?v=YTRpfZEqBL4
+
+PreCalculus - Algebra Fundamental Review (29 of 80) Review of Word ProblemsMixtures.ahk
+https://www.youtube.com/watch?v=VoSZSq4RPZ0
+
+PreCalculus - Algebra Fundamental Review (3 of 80) Simplifying Square Roots & Exponents.ahk
+https://www.youtube.com/watch?v=t9Os6gVoxVE
+
+PreCalculus - Algebra Fundamental Review (30 of 80) Review of Word Problems Rate of Doing Work.ahk
+https://www.youtube.com/watch?v=3Hk9SedVEa0
+
+PreCalculus - Algebra Fundamental Review (31 of 80) Review of Word Problems Distance, Speed, Time.ahk
+https://www.youtube.com/watch?v=rMzH2lE8yWE
+
+PreCalculus - Algebra Fundamental Review (32 of 80) Review of Word Problems Distance, Speed, Time.ahk
+https://www.youtube.com/watch?v=IbUw7djJtNI
+
+PreCalculus - Algebra Fundamental Review (33 of 80) Review of Word Problems Volume of a Box.ahk
+https://www.youtube.com/watch?v=9Ycz_l9bGtQ
+
+PreCalculus - Algebra Fundamental Review (34 of 80) Review of Word Problems Volume of a Cylinder.ahk
+https://www.youtube.com/watch?v=PY-mLyRQH9M
+
+PreCalculus - Algebra Fundamental Review (35 of 80) Review of Word Problems Volume of a Cone.ahk
+https://www.youtube.com/watch?v=Pp8UVLu6FDA
+
+PreCalculus - Algebra Fundamental Review (36 of 80) Review of Word Problems Distance, Speed, Time.ahk
+https://www.youtube.com/watch?v=U5zLWSOHgvU
+
+PreCalculus - Algebra Fundamental Review (37 of 80) Review of Word Problems Distance, Speed, Time.ahk
+https://www.youtube.com/watch?v=vB8VnPiuRLo
+
+PreCalculus - Algebra Fundamental Review (38 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=CSaSd_n0ndI
+
+PreCalculus - Algebra Fundamental Review (39 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=uFvFcv2vSho
+
+PreCalculus - Algebra Fundamental Review (4 of 80) Simplifying Square Roots & Exponents Ex. 1.ahk
+https://www.youtube.com/watch?v=zml1Cxhl3f0
+
+PreCalculus - Algebra Fundamental Review (40 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=yhRYa4LOviQ
+
+PreCalculus - Algebra Fundamental Review (41 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=Cb4Fk6CCmA8
+
+PreCalculus - Algebra Fundamental Review (42 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=O2AmuxJ1xeg
+
+PreCalculus - Algebra Fundamental Review (43 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=Xj0Yox-eYhs
+
+PreCalculus - Algebra Fundamental Review (44 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=_VtgRw_RQ3I
+
+PreCalculus - Algebra Fundamental Review (45 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=mGJ3SEua3Sc
+
+PreCalculus - Algebra Fundamental Review (46 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=e37iKlJ2FyA
+
+PreCalculus - Algebra Fundamental Review (47 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=pDVX1MGv1RA
+
+PreCalculus - Algebra Fundamental Review (48 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=2ISsLxF-QB8
+
+PreCalculus - Algebra Fundamental Review (49 of 80) Solve Inequalities (Linear1-Variable).ahk
+https://www.youtube.com/watch?v=0yooQ6zCQgg
+
+PreCalculus - Algebra Fundamental Review (5 of 80) Simplifying Square Roots & Exponents Ex. 2.ahk
+https://www.youtube.com/watch?v=MtcHtAjzAeQ
+
+PreCalculus - Algebra Fundamental Review (50 of 80) Absolute Values.ahk
+https://www.youtube.com/watch?v=D8SgAWegwG8
+
+PreCalculus - Algebra Fundamental Review (51 of 80) Absolute Values.ahk
+https://www.youtube.com/watch?v=VzvYGqKnelA
+
+PreCalculus - Algebra Fundamental Review (52 of 80) Absolute Values.ahk
+https://www.youtube.com/watch?v=MFwLDKXV1zo
+
+PreCalculus - Algebra Fundamental Review (53 of 80) Distance Formula Explained.ahk
+https://www.youtube.com/watch?v=sZMRfUAc3RY
+
+PreCalculus - Algebra Fundamental Review (54 of 80) Distance Formula Example.ahk
+https://www.youtube.com/watch?v=GMlHDEM3QJI
+
+PreCalculus - Algebra Fundamental Review (55 of 80) Mid-Point Formula (1-Dimensional).ahk
+https://www.youtube.com/watch?v=GbgeySNGMyM
+
+PreCalculus - Algebra Fundamental Review (56 of 80) General Mid-Point Formula Example.ahk
+https://www.youtube.com/watch?v=KxkdUO5alyk
+
+PreCalculus - Algebra Fundamental Review (57 of 80) General Mid-Point Formula Example.ahk
+https://www.youtube.com/watch?v=FdmH59PTISE
+
+PreCalculus - Algebra Fundamental Review (58 of 80) Graphing a Straight Line.ahk
+https://www.youtube.com/watch?v=fuT5QAVX6fQ
+
+PreCalculus - Algebra Fundamental Review (59 of 80) Graphing a Straight Line.ahk
+https://www.youtube.com/watch?v=rl2L_gJaN3I
+
+PreCalculus - Algebra Fundamental Review (6 of 80) Factoring and Its Theory.ahk
+https://www.youtube.com/watch?v=byiJ4sW2ZPY
+
+PreCalculus - Algebra Fundamental Review (60 of 80) Graphing a Circle.ahk
+https://www.youtube.com/watch?v=3702GYsasWc
+
+PreCalculus - Algebra Fundamental Review (61 of 80) Graphing a Circle (General Formula).ahk
+https://www.youtube.com/watch?v=gFfKl2zERMw
+
+PreCalculus - Algebra Fundamental Review (62 of 80) Graphing a Circle (General Formula) Example.ahk
+https://www.youtube.com/watch?v=0Mj7XfhR5qE
+
+PreCalculus - Algebra Fundamental Review (63 of 80) Graphing Shifting Up and Down.ahk
+https://www.youtube.com/watch?v=l_lUt0Xdf8I
+
+PreCalculus - Algebra Fundamental Review (64 of 80) Graphing Shifting Left and Right.ahk
+https://www.youtube.com/watch?v=JaVm5EcRfts
+
+PreCalculus - Algebra Fundamental Review (65 of 80) Graphing General Form y=a(x-h)^2+c.ahk
+https://www.youtube.com/watch?v=aVVcp4W_fm4
+
+PreCalculus - Algebra Fundamental Review (66 of 80) 6 Ways to Graph a Parabola Introducton.ahk
+https://www.youtube.com/watch?v=9KhDzOm6P84
+
+PreCalculus - Algebra Fundamental Review (67 of 80) 6 Ways to Graph a Parabola 1) Table of Values.ahk
+https://www.youtube.com/watch?v=3EYyp2S-Few
+
+PreCalculus - Algebra Fundamental Review (68 of 80) 6 Ways to Graph a Parabola 2) y=a(x-h)^2+c.ahk
+https://www.youtube.com/watch?v=SABn7k-bRS8
+
+PreCalculus - Algebra Fundamental Review (69 of 80) 6 Ways to Graph a Parabola 3) Factor.ahk
+https://www.youtube.com/watch?v=D2CPsrvmlEs
+
+PreCalculus - Algebra Fundamental Review (7 of 80) Factoring Examples.ahk
+https://www.youtube.com/watch?v=WMgVRahiebs
+
+PreCalculus - Algebra Fundamental Review (70 of 80) 6 Ways to Graph a Parabola 4) Quadratic Formula.ahk
+https://www.youtube.com/watch?v=48ZdJqGAeUg
+
+PreCalculus - Algebra Fundamental Review (71 of 80) 6 Ways to Graph a Parabola 5) Finding the Vertex.ahk
+https://www.youtube.com/watch?v=wmy0_Ur0LYU
+
+PreCalculus - Algebra Fundamental Review (72 of 80) 6 Ways to Graph a Parabola 4) Using the Slope.ahk
+https://www.youtube.com/watch?v=w_-PkWYtHdc
+
+PreCalculus - Algebra Fundamental Review (73 of 80) 7 Ways to Solve 2 Linear Eq 1) Table of Values.ahk
+https://www.youtube.com/watch?v=AOa9XjVRDp8
+
+PreCalculus - Algebra Fundamental Review (74 of 80) 7 Ways to Solve 2 Linear Eq 2) Graphing.ahk
+https://www.youtube.com/watch?v=Hhi9_7Ricg0
+
+PreCalculus - Algebra Fundamental Review (75 of 80) 7 Ways to Solve 2 Linear Eq 3) Set Eqs Equal.ahk
+https://www.youtube.com/watch?v=peNNC1OSNhE
+
+PreCalculus - Algebra Fundamental Review (76 of 80) 7 Ways to Solve 2 Linear Eq 4) Substitution.ahk
+https://www.youtube.com/watch?v=rLii3asl6KM
+
+PreCalculus - Algebra Fundamental Review (77 of 80) 7 Ways to Solve 2 Linear Eq 5) Elimination.ahk
+https://www.youtube.com/watch?v=k2M4c2MghzM
+
+PreCalculus - Algebra Fundamental Review (78 of 80) 7 Ways to Solve 2 Linear Eq 6) Matrices.ahk
+https://www.youtube.com/watch?v=p2RFJb5WVyw
+
+PreCalculus - Algebra Fundamental Review (79 of 80) 7 Ways to Solve 2 Linear Eq 7) Determinants.ahk
+https://www.youtube.com/watch?v=wJN73uUfjLM
+
+PreCalculus - Algebra Fundamental Review (8 of 80) Simplify Fractions Theory.ahk
+https://www.youtube.com/watch?v=z3lPw_359T0
+
+PreCalculus - Algebra Fundamental Review (80 of 80) 7 Ways to Solve 2 Linear Equations Review.ahk
+https://www.youtube.com/watch?v=AJJeqBevkh0
+
+PreCalculus - Algebra Fundamental Review (9 of 80) Simplify Fractions Examples.ahk
+https://www.youtube.com/watch?v=5NuYbYzLGZg
+
+PreCalculus - Exponential Function (1 of 13) What is an Exponential Function.ahk
+https://www.youtube.com/watch?v=cmndAPrgrSE
+
+PreCalculus - Exponential Function (10 of 13) Continuous Compounding Interest.ahk
+https://www.youtube.com/watch?v=LDmyh-Dxngs
+
+PreCalculus - Exponential Function (11 of 13) Continuous Bacteria Growth After 12 Hours.ahk
+https://www.youtube.com/watch?v=KakZpLMOoJ4
+
+PreCalculus - Exponential Function (12 of 13) Substance Left After 25 Hrs. of Decay.ahk
+https://www.youtube.com/watch?v=s6S_R7WeHEg
+
+PreCalculus - Exponential Function (13 of 13) What is a Logistic Growth Function.ahk
+https://www.youtube.com/watch?v=-qt9Vm3bpds
+
+PreCalculus - Exponential Function (2 of 13) Characteristics of Exponential Function 1.ahk
+https://www.youtube.com/watch?v=vNmTrVF1L4Y
+
+PreCalculus - Exponential Function (3 of 13) Characteristics of Exponential Function 2.ahk
+https://www.youtube.com/watch?v=PAq7jRsng0E
+
+PreCalculus - Exponential Function (4 of 13) Comparing y=2^x and y=x^2.ahk
+https://www.youtube.com/watch?v=I01WfEzOqU8
+
+PreCalculus - Exponential Function (5 of 13) Find Bacteria Growth After 12 Hours.ahk
+https://www.youtube.com/watch?v=w16LxULlVMA
+
+PreCalculus - Exponential Function (6 of 13) Yearly, Monthly, Weekly, Daily Compounded Interest.ahk
+https://www.youtube.com/watch?v=dNULxlTR1TY
+
+PreCalculus - Exponential Function (7 of 13) What is a Natural Exponential Function.ahk
+https://www.youtube.com/watch?v=1U2Wjp9QzxA
+
+PreCalculus - Exponential Function (8 of 13) Exponential Function as an Infinite Series.ahk
+https://www.youtube.com/watch?v=bt2dM0iiEeU
+
+PreCalculus - Exponential Function (9 of 13) Slope of an Exponential Function.ahk
+https://www.youtube.com/watch?v=WuWIPfYOAFc
+
+PreCalculus - IntroductionPreview of What is in this PreCalculus Series.ahk
+https://www.youtube.com/watch?v=W-Zxdsbr0Gw
+
+PreCalculus - Logarithmic & Exponential Functions (1 of 20) x= for 3^x=5 and 2^(x-1)=7.ahk
+https://www.youtube.com/watch?v=v94KnTztpRU
+
+PreCalculus - Logarithmic & Exponential Functions (10 of 20) Time for Money ($$$) to Double.ahk
+https://www.youtube.com/watch?v=6hoicKRv30A
+
+PreCalculus - Logarithmic & Exponential Functions (11 of 20) Calculating Radioactive Decay.ahk
+https://www.youtube.com/watch?v=XljQQA27BRw
+
+PreCalculus - Logarithmic & Exponential Functions (12 of 20) Calculating Animal Populations.ahk
+https://www.youtube.com/watch?v=ApLXo8j19ws
+
+PreCalculus - Logarithmic & Exponential Functions (13 of 20) Calculating Atmospheric Pressure.ahk
+https://www.youtube.com/watch?v=ZHSoZcOjwM4
+
+PreCalculus - Logarithmic & Exponential Functions (14 of 20) Calculating Current in RL Circuit.ahk
+https://www.youtube.com/watch?v=mrZQYYPIUdg
+
+PreCalculus - Logarithmic & Exponential Functions (15 of 20) Calculating Doubling Time.ahk
+https://www.youtube.com/watch?v=Zmv6MRzos8A
+
+PreCalculus - Logarithmic & Exponential Functions (16 of 20) Newton's Law of Cooling.ahk
+https://www.youtube.com/watch?v=ouQfMWXp-QM
+
+PreCalculus - Logarithmic & Exponential Functions (17 of 20) Calculating pH Scale.ahk
+https://www.youtube.com/watch?v=qrgK8b8RD7k
+
+PreCalculus - Logarithmic & Exponential Functions (18 of 20) Calculating Magnitude of Earthquakes.ahk
+https://www.youtube.com/watch?v=szour5WFx9c
+
+PreCalculus - Logarithmic & Exponential Functions (19 of 20) Calculating Decibels (Sound Intensity).ahk
+https://www.youtube.com/watch?v=SYu5YIYLDPE
+
+PreCalculus - Logarithmic & Exponential Functions (2 of 20) x= for 6e^(2-5x)=5.ahk
+https://www.youtube.com/watch?v=PNAGqZLTeUM
+
+PreCalculus - Logarithmic & Exponential Functions (20 of 20) Sound Intensity and Distance.ahk
+https://www.youtube.com/watch?v=jDFm_afHd6Q
+
+PreCalculus - Logarithmic & Exponential Functions (3 of 20) x= for [e^(2x)]-(3e^x)-10=0.ahk
+https://www.youtube.com/watch?v=63saRGIoufo
+
+PreCalculus - Logarithmic & Exponential Functions (4 of 20) x= for [5(e^x)(xe^x)]+xe^x=0.ahk
+https://www.youtube.com/watch?v=zafWXOt3fAo
+
+PreCalculus - Logarithmic & Exponential Functions (5 of 20) x= for log(x+3)=5 and ln(x-2)=3.ahk
+https://www.youtube.com/watch?v=1Gpt4TFYcFg
+
+PreCalculus - Logarithmic & Exponential Functions (6 of 20) x= for log(x+1)-log(x-1)=2.ahk
+https://www.youtube.com/watch?v=vtDU3DQ09Io
+
+PreCalculus - Logarithmic & Exponential Functions (7 of 20) x= for log(base 2)(x^2-7x+14)=2.ahk
+https://www.youtube.com/watch?v=Z6_fQAIavNk
+
+PreCalculus - Logarithmic & Exponential Functions (8 of 20) Beer-Lambert Law Diminishing Intensity.ahk
+https://www.youtube.com/watch?v=PbWwhVn5qW4
+
+PreCalculus - Logarithmic & Exponential Functions (9 of 20) Calculating Compounded Interest.ahk
+https://www.youtube.com/watch?v=cUItSN2E6wE
+
+PreCalculus - Logarithmic Function (1 of 23) What is an Logarithmic Function.ahk
+https://www.youtube.com/watch?v=vNk4wWkaZfs
+
+PreCalculus - Logarithmic Function (10 of 23) Example 5, Charging Re-Chargable Batteries.ahk
+https://www.youtube.com/watch?v=jAthNOivjVM
+
+PreCalculus - Logarithmic Function (11 of 23) Law of Logarithms.ahk
+https://www.youtube.com/watch?v=OpwyGwKT4Lg
+
+PreCalculus - Logarithmic Function (12 of 23) Solving Logarithms by Changing the Base.ahk
+https://www.youtube.com/watch?v=zOS-XWBn40Y
+
+PreCalculus - Logarithmic Function (13 of 23) Evaluating Logarithms.ahk
+https://www.youtube.com/watch?v=Ymt99Y9ZiAE
+
+PreCalculus - Logarithmic Function (14 of 23) Expand and Combine Logarithmic Expressions.ahk
+https://www.youtube.com/watch?v=q_H10bGoT-I
+
+PreCalculus - Logarithmic Function (2 of 23) Rules of Logarithms.ahk
+https://www.youtube.com/watch?v=uLRiUMyDf64
+
+PreCalculus - Logarithmic Function (3 of 23) Graphs of Logarithmic Functions.ahk
+https://www.youtube.com/watch?v=9FbN0QUQv4c
+
+PreCalculus - Logarithmic Function (4 of 23) More Graphs of Logarithmic Functions.ahk
+https://www.youtube.com/watch?v=eApeOvTcR0A
+
+PreCalculus - Logarithmic Function (5 of 23) The Natural Logarithmic Function.ahk
+https://www.youtube.com/watch?v=nA_yXiV5mYQ
+
+PreCalculus - Logarithmic Function (6 of 23) Logarithmic Function Example 1.ahk
+https://www.youtube.com/watch?v=O8uOxdIuqNM
+
+PreCalculus - Logarithmic Function (7 of 23) Logarithmic Function Example 2.ahk
+https://www.youtube.com/watch?v=VrCu5cFmDo8
+
+PreCalculus - Logarithmic Function (8 of 23) Example 3, Carbon Dating Carbon-14.ahk
+https://www.youtube.com/watch?v=Rxgtiyx4jhc
+
+PreCalculus - Logarithmic Function (9 of 23) Example 4, Bacteria Growth.ahk
+https://www.youtube.com/watch?v=m3KFQJw_tTc
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (1 of 29) Parabola - General Graphing Rules.ahk
+https://www.youtube.com/watch?v=i2JM-h_snxQ
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (10 of 29) Parabola - Finding Domain & Range, Ex..ahk
+https://www.youtube.com/watch?v=XGAhehIrRzE
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (11 of 29) Using Synthetic Division to Find Roots.ahk
+https://www.youtube.com/watch?v=Ai_4K-KxDjg
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (12 of 29) Using Synthetic Division to Find Roots.ahk
+https://www.youtube.com/watch?v=vIVr7TYDk4A
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (13 of 29) Using Synthetic Division to Find Roots.ahk
+https://www.youtube.com/watch?v=lMDQzQ8thvY
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (14 of 29) 3rd Order Polynomials - General Rules.ahk
+https://www.youtube.com/watch?v=ehBhxaKZPew
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (15 of 29) 4th Order Polynomials - General Rules.ahk
+https://www.youtube.com/watch?v=dkmOa7gdrrQ
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (16 of 29) N-th Order Polynomials - General Rules.ahk
+https://www.youtube.com/watch?v=zNK02viVVUY
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (17 of 29) Inflection Pts, Local Extrema, Roots.ahk
+https://www.youtube.com/watch?v=UWYW1eFlw78
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (18 of 29) Polynomial Terminology.ahk
+https://www.youtube.com/watch?v=tA49PgA0lZQ
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (19 of 29) Polynomials, Domain & Range, Factoring.ahk
+https://www.youtube.com/watch?v=p6a44mfwJDw
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (2 of 29) Parabola - Finding Max & Min Values.ahk
+https://www.youtube.com/watch?v=GoaE1YaNTDY
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (20 of 29) Polynomials, Domain & Range=, Table.ahk
+https://www.youtube.com/watch?v=cMJ4KgCNm48
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (21 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=0GT7AP6t8XM
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (22 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=ptb5Rhj-fyo
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (23 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=ugI73pO-gpk
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (24 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=9yABv7y12Nw
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (25 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=fbiWEebeURE
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (26 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=A8tN68qVCjM
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (27 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=pqaX0hvPgk4
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (28 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=0SdKJ69cCeI
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (29 of 29) Polyn,  Domain & Range=, Syn Division.ahk
+https://www.youtube.com/watch?v=wAnMsM4K_yM
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (3 of 29) Parabola - Finding Max & Min Values, 1.ahk
+https://www.youtube.com/watch?v=q-akMemKegg
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (4 of 29) Parabola - Finding Roots & y-Intercept.ahk
+https://www.youtube.com/watch?v=6CVkdyRLxAQ
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (5 of 29) Parabola - Finding Roots & y-Intercept.ahk
+https://www.youtube.com/watch?v=cL38-t0jaIk
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (6 of 29) Parabola - Find Roots & y-Intercept, 1.ahk
+https://www.youtube.com/watch?v=4oTyE06P5SE
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (7 of 29) Parabola - Find Roots & y-Intercept, 2.ahk
+https://www.youtube.com/watch?v=N19aFORvod8
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (8 of 29) Parabola - Finding Domain & Range.ahk
+https://www.youtube.com/watch?v=vdtSCHzM_zs
+
+PreCalculus 3 Graphing Polynomial & Rational Fcts (9 of 29) Parabola - Finding Domain & Range, Ex..ahk
+https://www.youtube.com/watch?v=QI21PODxLuc
 Michel van Biezen PRECALCULUS 1-5 - ALGEBRA REVIEW

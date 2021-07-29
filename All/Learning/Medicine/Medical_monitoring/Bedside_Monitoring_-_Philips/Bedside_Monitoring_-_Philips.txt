@@ -1,1 +1,46 @@
+
+How to Put PHILIPS INTELLIVUE Patient Monitor into Demo Mode  Alpha Medical Props.ahk
+https://www.youtube.com/watch?v=S7-RsqsrLwQ
+
+Philips Information Center (PIC iX) - Navigation.ahk
+https://www.youtube.com/watch?v=J5el9XMgc8M
+
+Philips Information Center (PIC iX) - Overview.ahk
+https://www.youtube.com/watch?v=g6SGhVa5JQs
+
+Philips Information Center (PIC iX) - Understanding Alarms.ahk
+https://www.youtube.com/watch?v=9VQGPBaRfgY
+
+Philips Information Center (PIC iX) - Using Alarm Review.ahk
+https://www.youtube.com/watch?v=3ExHo5bwe6s
+
+Philips IntelliVue Patient Monitoring - #1 - Introduction to Basic Operation.ahk
+https://www.youtube.com/watch?v=1cNjDefBJKA
+
+Philips IntelliVue Patient Monitoring - #2 - Hardware Front Panel.ahk
+https://www.youtube.com/watch?v=LCBLkfnoU9k
+
+Philips IntelliVue Patient Monitoring - #3 - Main Screen Display.ahk
+https://www.youtube.com/watch?v=IFvTiNMQBEk
+
+Philips IntelliVue Patient Monitoring - #4 - Changing Wave Order.ahk
+https://www.youtube.com/watch?v=WEWCvo7Gt5k
+
+Philips IntelliVue Patient Monitoring - #5 - Changing Alarm Limits.ahk
+https://www.youtube.com/watch?v=RUVgw-Qy_YI
+
+Philips IntelliVue Patient Monitoring - #6 - Changing a Wave.ahk
+https://www.youtube.com/watch?v=wgOP-H-OZoo
+
+Philips IntelliVue Patient Monitoring - #7 - Changing Profiles.ahk
+https://www.youtube.com/watch?v=HzF12GLfj6M
+
+Philips IntelliVue Patient Monitoring - #8 - Hardware Rear Panel.ahk
+https://www.youtube.com/watch?v=_rfoRxk4OA0
+
+Philips IntelliVue Patient Monitoring - Basic Operation.ahk
+https://www.youtube.com/watch?v=7-f1OG7I0Ug
+
+Philips IntelliVue Patient Monitoring - Using Measurement Labels.ahk
+https://www.youtube.com/watch?v=mknQlpa3vZ0
 Bedside Monitoring - Philips

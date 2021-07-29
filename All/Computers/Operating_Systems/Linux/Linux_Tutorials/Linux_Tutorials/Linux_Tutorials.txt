@@ -1,1 +1,202 @@
+
+archive files using tar command in linux  create tar & extract from tar file  tar command in linux.ahk
+https://www.youtube.com/watch?v=pItowVnHDD0
+
+Basic Linux Commands Tutorial.ahk
+https://www.youtube.com/watch?v=bb_ApuH15YE
+
+basic permissions in linux  permission classes  chmod command with octal & symbolic representation.ahk
+https://www.youtube.com/watch?v=xvNO2J8bzhU
+
+cd & ls command  meaning of dot , dot dot , tilde , minus ( . , .. , ~ , -)  hidden files in linux.ahk
+https://www.youtube.com/watch?v=qTS5QctNe0U
+
+change user and group ownership of files and directories in Linux  chown command  chgrp command.ahk
+https://www.youtube.com/watch?v=T5L6SZE_cpE
+
+compress - decompress files using gzip & bzip2 in linux  tar command to manage compressed files.ahk
+https://www.youtube.com/watch?v=n8OqvSW7GFc
+
+copy files & directories  move files & directories in linux  cp command   mv command.ahk
+https://www.youtube.com/watch?v=IDIFWeoQaS0
+
+creating and viewing files in linux  touch command in linux  cat command in linux  tac command.ahk
+https://www.youtube.com/watch?v=FQGeQP2h7pA
+
+creating directories in linux  mkdir command in linux.ahk
+https://www.youtube.com/watch?v=Ep5KNBfo33s
+
+delete files and directories in linux  rm command in linux  rmdir command in linux.ahk
+https://www.youtube.com/watch?v=IZfh-xfNnFU
+
+Difference between shell variables and environment variables in linux  alias in linux.ahk
+https://www.youtube.com/watch?v=NNp0SN5x1wM
+
+difference between terminal , shell and computer console  terminal vs shell vs console.ahk
+https://www.youtube.com/watch?v=dY35SCRXkjg
+
+editing text using sed command in linux  stream editor in linux  sed command in detail.ahk
+https://www.youtube.com/watch?v=l7Fpujdp8CQ
+
+etcgroup file & etcgshadow file in linx  passwords in group  newgrp command  gpasswd command.ahk
+https://www.youtube.com/watch?v=Ore7JZPZSIg
+
+etcpasswd file & etcshadow file in linux  chage and passwd command  lock and disable accounts.ahk
+https://www.youtube.com/watch?v=hiiPD-1MzH4
+
+find files and directories in linux  find command in linux  find using wildacrds in linux.ahk
+https://www.youtube.com/watch?v=CFBFBziQNQo
+
+finding unique lines in linux  sort lines in linux  sort command in linux  uniq command in linux.ahk
+https://www.youtube.com/watch?v=GkoEHfBfIu4
+
+foreground and background processes in linux  nohup and disown command  jobs fg and  bg command.ahk
+https://www.youtube.com/watch?v=ghh-8trIFYk
+
+groups in linux  create , modify and delete groups  types of groups  remove & add user to a group.ahk
+https://www.youtube.com/watch?v=Zd_NyJCUWaQ
+
+history command in linux  interactive history search using ctrl+r  history expansion  variables.ahk
+https://www.youtube.com/watch?v=KU8RQYbNzpY
+
+How to Configure MySQL Master-Slave Replication on Ubuntu Linux.ahk
+https://www.youtube.com/watch?v=JXDuVypcHNA
+
+How to Install WordPress on Ubuntu (LAMP Stack).ahk
+https://www.youtube.com/watch?v=EmhsaJ0oWkM
+
+Linux Disk Management.ahk
+https://www.youtube.com/watch?v=8OPCDhfrWFk
+
+Linux Find Command Tutorial.ahk
+https://www.youtube.com/watch?v=f3KwmOb42j4
+
+Linux Jobs and Processes.ahk
+https://www.youtube.com/watch?v=_B0mQakfqeI
+
+Linux shells in detail  View default shell  Install other shells  Change default shell in linux.ahk
+https://www.youtube.com/watch?v=Nb4nGOWoxoc
+
+Linux System Administration Crash Course.ahk
+https://www.youtube.com/watch?v=qAMWG86sEm8
+
+Linux System Logs and the Syslog Standard.ahk
+https://www.youtube.com/watch?v=k0_gdh_wuAw
+
+Linux tar Command Tutorial with Examples .tar, .tar.gz, .tgz.ahk
+https://www.youtube.com/watch?v=yws7HOndElA
+
+Linux Tutorial   How to start Linux VM in Seamless Mode.ahk
+https://www.youtube.com/watch?v=ymcrmgvAKZU
+
+Linux Tutorial - File System Hierarchy.ahk
+https://www.youtube.com/watch?v=rWPXz_-yQHE
+
+Linux Tutorial - How to access remote Linux machine.ahk
+https://www.youtube.com/watch?v=WWC3mtoPK14
+
+Linux Tutorial - Inaugural.ahk
+https://www.youtube.com/watch?v=7bYfrG3E6qI
+
+Linux Tutorial - Shell command line structure.ahk
+https://www.youtube.com/watch?v=oyYUiMT3feE
+
+Linux Tutorial - What is Home Directory.ahk
+https://www.youtube.com/watch?v=GAq5rrS1K4Q
+
+Linux Tutorial - What is Linux Filesystem.ahk
+https://www.youtube.com/watch?v=Bmyr-9z04vM
+
+Linux Tutorial - What is Root.ahk
+https://www.youtube.com/watch?v=sLLkIH8M9iw
+
+Linux Tutorials - How to Install Linux on windows machine.ahk
+https://www.youtube.com/watch?v=7mxe6tI8Oho
+
+Linux Tutorials - What is a Linux Distribution.ahk
+https://www.youtube.com/watch?v=Gubc0uq9ky8
+
+Linux Tutorials - What is Linux.ahk
+https://www.youtube.com/watch?v=5l4KhjyGYPc
+
+Managing Linux Users and Groups.ahk
+https://www.youtube.com/watch?v=fjBFOacfnY4
+
+managing services using systemctl command in linux  status , start , stop , enable ... options.ahk
+https://www.youtube.com/watch?v=xFyRZS6ThlU
+
+Mastering Linux Man Pages - A Definitive Guide.ahk
+https://www.youtube.com/watch?v=RzAkjX_9B7E
+
+Mathematical Calculations in Linux  bc calculator in linux  programming features of bc calculator.ahk
+https://www.youtube.com/watch?v=B5HrLg2gu9o
+
+most helpful commands in linux  man command  info command  -h & --help option  help using nano.ahk
+https://www.youtube.com/watch?v=tNfZanKRRhI
+
+nano command line text editor in linux  nano text editor in detail  nano command in linux.ahk
+https://www.youtube.com/watch?v=3XT1YhEJTZU
+
+Package manager in linux  concept of repositories in linux  apt command in linux.ahk
+https://www.youtube.com/watch?v=o5z3xQTZMMA
+
+process parameters in linux  ps command in linux.ahk
+https://www.youtube.com/watch?v=rUDiNxqTX2U
+
+Process Signals in Linux  SIGINT , SIGKILL , SIGTERM , SIGCONT , SIGTSTP...  kill command in linux.ahk
+https://www.youtube.com/watch?v=JWQfR_3ddYA
+
+processes in linux  process tree  pstree command in linux.ahk
+https://www.youtube.com/watch?v=EbWDTvHh2pQ
+
+rename files and directories in linux  renaming using mv command in linux.ahk
+https://www.youtube.com/watch?v=qm4KTRtbV8I
+
+root directory vs root home directory vs normal user home directory  pwd & whoami command in linux.ahk
+https://www.youtube.com/watch?v=JgB6iEWYoTk
+
+search lines in files and standard output  grep command in linux  family of grep commands.ahk
+https://www.youtube.com/watch?v=TvkBv1iUf80
+
+set date , time and timezone in linux  view calendar  ncal , date & timedatectl command in linux.ahk
+https://www.youtube.com/watch?v=VMPncvU2e4g
+
+setting shell options in Linux  braceexpand, notify , allexport , history , noclobber, noglob etc..ahk
+https://www.youtube.com/watch?v=RsbOGqL-Zm4
+
+soft link vs hard link in linux  inode in linux  ln command in linux  link count field in ls -l.ahk
+https://www.youtube.com/watch?v=p_g_--ztI6Y
+
+some important shell & environment variables in linux  change prompt  change command PATH in linux.ahk
+https://www.youtube.com/watch?v=1qRMZyDRx00
+
+special permissions in Linux  setuid , setgid and sticky bit in linux  A working demonstration.ahk
+https://www.youtube.com/watch?v=SttmM-orqzE
+
+standard input output redirection in linux  pipe in linux  stdin, stdout & stderr stream in linux.ahk
+https://www.youtube.com/watch?v=59uEwE5Fx04
+
+Text processing using awk command in linux  awk patterns & actions  BEGIN,END,NR,FS,OFS,RS,ORS ....ahk
+https://www.youtube.com/watch?v=X-3AXAsU3Wo
+
+Tutorial Free SSL Certificate Installation in CentOS 7  Red Hat Enterprise Linux (RHEL).ahk
+https://www.youtube.com/watch?v=eHVc08HVTwI
+
+umask command in linux  set default permissions for files and directories in linux  umask -S.ahk
+https://www.youtube.com/watch?v=N0HPBIALf0c
+
+users in linux  create , modify and delete user's account in linux  configuration files of users.ahk
+https://www.youtube.com/watch?v=KkJJ-kdT12k
+
+wc command in linux  tr command in linux  replace character in file  count number of line & words.ahk
+https://www.youtube.com/watch?v=tZZk1o2aVi8
+
+wildcards in linux  asterisk , question mark , square brackets , curly brackets , escape character.ahk
+https://www.youtube.com/watch?v=_J9JwnIzJ9o
+
+working with data files  cut command  paste command  join command  colrm command in linux.ahk
+https://www.youtube.com/watch?v=2_lgnCzwUEM
+
+working with processes interactively  top command in linux  interactive mode of top command.ahk
+https://www.youtube.com/watch?v=dHwKukeYlX4
 Linux Tutorials

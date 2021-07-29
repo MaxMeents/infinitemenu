@@ -1,1 +1,70 @@
+
+C# if – if else – if else if ladder – EECTutorials  C# Tutorial for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=zCMHl0UGimE
+
+C# Tutorial 1 - Introduction  First C# Program  C# Vs Java  C# Tutorial in Hindi for Beginners.ahk
+https://www.youtube.com/watch?v=tOA_8E-_Urw
+
+C# Tutorial 10 - OUT Parameter in C Sharp Method - C# Tutorial for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=EGNG_tu4cf4
+
+C# Tutorial 11 - Objects and Classes in C Sharp - C# Tutorial for Beginners Hindi.ahk
+https://www.youtube.com/watch?v=dV1bC6lEIhU
+
+C# Tutorial 12 - Constructor(Default, Parameterized) and Destructors in CSharp in Hindi.ahk
+https://www.youtube.com/watch?v=T60QBFyZNvw
+
+C# Tutorial 13 - Use of Static Keyword  Object Count Coding Example - C Sharp Hindi tutorials.ahk
+https://www.youtube.com/watch?v=Z6cKsKGTizI
+
+C# Tutorial 14 - Inheritance in C Sharp - Single, Multilevel Inheritance - C# Tutorials Hindi.ahk
+https://www.youtube.com/watch?v=TctXLJhoQUk
+
+C# Tutorial 15 - Method Overloading in C Sharp(#) - Coding Tutorial in Hindi.ahk
+https://www.youtube.com/watch?v=glw1MVD6QCk
+
+C# Tutorial 16 - Method Overriding in C Sharp(#) - Programming Tutorials in Hindi.ahk
+https://www.youtube.com/watch?v=060oiHsIz5E
+
+C# Tutorial 17 - Abstract Keyword - Abstract Class, Method in C Sharp - Hindi tutorials.ahk
+https://www.youtube.com/watch?v=zHPydJ0QrBo
+
+C# Tutorial 18 - Interface, Multiple Inheritance using Interface - C Sharp Hindi Tutorials.ahk
+https://www.youtube.com/watch?v=WntRWZgYNg8
+
+C# Tutorial 19 - Exception Handling in C Sharp(#) in Hindi - Try, Catch, Finally Keyword.ahk
+https://www.youtube.com/watch?v=UTOfoXB8AUQ
+
+C# Tutorial 20 - Exception Handling - Throw Keyword, Custom Exception in c Sharp(#).ahk
+https://www.youtube.com/watch?v=ryXEL27pIMM
+
+C# Tutorial 21 - Collection in C Sharp - LIST, STACK, QUEUE with Coding Example - Hindi.ahk
+https://www.youtube.com/watch?v=xpP62c3K6w8
+
+C# Tutorial 22 - Collections - HASHSET, SORTEDSET in C Sharp - Hindi Programming Tutorials.ahk
+https://www.youtube.com/watch?v=_S82KaExS84
+
+C# Tutorial 23 - Collection in C Sharp - LINKED LIST with Coding - Hindi Programming Classes.ahk
+https://www.youtube.com/watch?v=TCYcX4xSYcA
+
+C# Tutorial 24 - Collections - Dictionary, SortedDictionary and Sorted List - Coding Example.ahk
+https://www.youtube.com/watch?v=6h16PkezFik
+
+C# tutorial 4 - Switch Statement  Simple Calculator Program  C# Tutorial for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=_v9wTjMcptc
+
+C# tutorial 5 - Loops in C Sharp - FOR, While, Do-While, Nested Loops - Code Examples.ahk
+https://www.youtube.com/watch?v=5xegmbvDFzQ
+
+C# tutorial 6 - Break and Continue Statement in Loops and Nested Loops  C Sharp Tutorial in Hindi.ahk
+https://www.youtube.com/watch?v=UcIroViXluA
+
+C# Tutorial 7 - GOTO Statement in C Sharp - C# Tutorial for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=2FUosKil-GA
+
+C# Tutorial 8 - Functions in C Sharp - Function with No Parameter, With Parameter, Return Statement.ahk
+https://www.youtube.com/watch?v=1xzMpwe8RgU
+
+C# Tutorial 9 - Ways to Call Function - Call by Value, Call by Reference - C# Tutorial Hindi.ahk
+https://www.youtube.com/watch?v=sjl0gWddPwc
 C# Tutorial in Hindi for Beginners

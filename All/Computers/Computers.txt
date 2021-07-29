@@ -1,13 +1,13 @@
 
 AI
-https://maxmeents.github.io/infinitemenu/Computers/AI/AI.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/AI/AI.txt
 
 Beginners Guide To Computers
-https://maxmeents.github.io/infinitemenu/Computers/Beginners_Guide_To_Computers/Beginners_Guide_To_Computers.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Beginners_Guide_To_Computers/Beginners_Guide_To_Computers.txt
 
 Operating Systems
-https://maxmeents.github.io/infinitemenu/Computers/Operating_Systems/Operating_Systems.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Operating_Systems/Operating_Systems.txt
 
 Programming
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Programming.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Programming.txt
 Computers

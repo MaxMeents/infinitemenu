@@ -1,1 +1,34 @@
+
+CppCon 2016 Tim Shen “Regular Expressions in C++, Present and Future.ahk
+https://www.youtube.com/watch?v=N_rkHzhXueo
+
+RegEx Basics, Regular Expressions for Beginners.ahk
+https://www.youtube.com/watch?v=HyQ3Uf7gvuc
+
+REGEX Tutorial Regular Expressions Pt 2.ahk
+https://www.youtube.com/watch?v=FCFdgymqpUI
+
+REGEX Tutorial Regular Expressions Pt 3.ahk
+https://www.youtube.com/watch?v=lvGtejG69zg
+
+REGEX Tutorial Regular Expressions.ahk
+https://www.youtube.com/watch?v=DRR9fOXkfRE
+
+Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text.ahk
+https://www.youtube.com/watch?v=sa-TUpSx1JA
+
+Regular Expressions - Episode 1 - Introduction.ahk
+https://www.youtube.com/watch?v=c-Ov1JUMDv4
+
+Regular Expressions - Episode 2 - Operators.ahk
+https://www.youtube.com/watch?v=G7_HnivvnyE
+
+Regular Expressions - Episode 3 - Mechanics.ahk
+https://www.youtube.com/watch?v=iixnLh55wp0
+
+Regular Expressions - Episode 4 - Patterns.ahk
+https://www.youtube.com/watch?v=FgxQyukp39A
+
+Regular Expressions - Episode 5 - More Tools.ahk
+https://www.youtube.com/watch?v=RGN5tS-2Zmo
 Regex tutorials 2

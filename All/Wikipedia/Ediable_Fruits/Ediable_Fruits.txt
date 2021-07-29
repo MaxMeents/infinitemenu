@@ -1,34 +1,64 @@
 
 1 Pomes
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/1_Pomes/1_Pomes.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/1_Pomes/1_Pomes.txt
 
 10 References
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/10_References/10_References.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/10_References/10_References.txt
 
 11 External links
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/11_External_links/11_External_links.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/11_External_links/11_External_links.txt
 
 2 Drupes
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/2_Drupes/2_Drupes.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/2_Drupes/2_Drupes.txt
 
 3 Citruses
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/3_Citruses/3_Citruses.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/3_Citruses/3_Citruses.txt
 
 4 Berries
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/4_Berries/4_Berries.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/4_Berries/4_Berries.txt
 
 5 Melons
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/5_Melons/5_Melons.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/5_Melons/5_Melons.txt
 
 6 Tropical and tropical-like fruit
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/6_Tropical_and_tropical-like_fruit/6_Tropical_and_tropical-like_fruit.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/6_Tropical_and_tropical-like_fruit/6_Tropical_and_tropical-like_fruit.txt
 
 7 Cacti and other succulent fruit
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/7_Cacti_and_other_succulent_fruit/7_Cacti_and_other_succulent_fruit.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/7_Cacti_and_other_succulent_fruit/7_Cacti_and_other_succulent_fruit.txt
 
 8 Plants with edible fruit-like structures
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/8_Plants_with_edible_fruit-like_structures/8_Plants_with_edible_fruit-like_structures.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/8_Plants_with_edible_fruit-like_structures/8_Plants_with_edible_fruit-like_structures.txt
 
 9 See also
-https://maxmeents.github.io/infinitemenu/Wikipedia/Ediable_Fruits/9_See_also/9_See_also.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Ediable_Fruits/9_See_also/9_See_also.txt
+
+.ahk
+
+
+List of culinary fruits.ahk
+https://en.wikipedia.org/wiki/List_of_culinary_fruits
+
+List of culinary herbs and spices.ahk
+https://en.wikipedia.org/wiki/List_of_culinary_herbs_and_spices
+
+List of culinary nuts.ahk
+https://en.wikipedia.org/wiki/List_of_culinary_nuts
+
+List of edible cacti.ahk
+https://en.wikipedia.org/wiki/List_of_edible_cacti
+
+List of edible flowers.ahk
+https://en.wikipedia.org/wiki/List_of_edible_flowers
+
+List of edible seeds.ahk
+https://en.wikipedia.org/wiki/List_of_edible_seeds
+
+List of leaf vegetables.ahk
+https://en.wikipedia.org/wiki/List_of_leaf_vegetables
+
+List of root vegetables.ahk
+https://en.wikipedia.org/wiki/List_of_root_vegetables
+
+List of vegetables.ahk
+https://en.wikipedia.org/wiki/List_of_vegetables
 Ediable Fruits

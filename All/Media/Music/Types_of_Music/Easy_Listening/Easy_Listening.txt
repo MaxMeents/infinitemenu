@@ -1,19 +1,19 @@
 
 Background
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Background/Background.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Background/Background.txt
 
 Bop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Bop/Bop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Bop/Bop.txt
 
 Furniture
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Furniture/Furniture.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Furniture/Furniture.txt
 
 Lounge
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Lounge/Lounge.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Lounge/Lounge.txt
 
 Middle of the Road
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Middle_of_the_Road/Middle_of_the_Road.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Middle_of_the_Road/Middle_of_the_Road.txt
 
 Swing
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Easy_Listening/Swing/Swing.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Swing/Swing.txt
 Easy Listening

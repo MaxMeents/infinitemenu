@@ -1,1 +1,64 @@
+
+Asynchronous JavaScript & EVENT LOOP from scratch ??  Namaste JavaScript Ep.15.ahk
+https://www.youtube.com/watch?v=8zKuNo4ay8E
+
+BLOCK SCOPE & Shadowing in JS ?? Namaste JavaScript ?? Ep. 9.ahk
+https://www.youtube.com/watch?v=lW_erSjyMeM
+
+Callback Functions in JS ft. Event Listeners ?? Namaste JavaScript Ep. 14.ahk
+https://www.youtube.com/watch?v=btj35dh3_U8
+
+Closures in JS ??  Namaste JavaScript Episode 10.ahk
+https://www.youtube.com/watch?v=qikxEIxsXco
+
+CRAZY JS INTERVIEW ??ft. Closures  Namaste ?? JavaScript Ep. 12.ahk
+https://www.youtube.com/watch?v=t1nFAMws5FI
+
+FIRST CLASS FUNCTIONS ??ft. Anonymous Functions  Namaste JavaScript Ep. 13.ahk
+https://www.youtube.com/watch?v=SHINoHxvTso
+
+Higher-Order Functions ft. Functional Programming  Namaste JavaScript Ep. 18.ahk
+https://www.youtube.com/watch?v=HkWxvB1RJq0
+
+Hoisting in JavaScript ??(variables & functions)  Namaste JavaScript Ep. 3.ahk
+https://www.youtube.com/watch?v=Fnlnw8uY6jo
+
+How functions work in JS ?? & Variable Environment  Namaste JavaScript Ep. 4.ahk
+https://www.youtube.com/watch?v=gSDncyuGw0s
+
+How JavaScript Code is executed ??& Call Stack  Namaste JavaScript Ep. 2.ahk
+https://www.youtube.com/watch?v=iLWTnMzWtj4
+
+How JavaScript Works ??& Execution Context  Namaste JavaScript Ep.1.ahk
+https://www.youtube.com/watch?v=ZvbzSrg0afE
+
+JS Engine EXPOSED ?? Google's V8 Architecture ??  Namaste JavaScript Ep. 16.ahk
+https://www.youtube.com/watch?v=2WJL19wDH68
+
+let & const in JS ??Temporal Dead Zone   Namaste JavaScript Ep. 8.ahk
+https://www.youtube.com/watch?v=BNC6slYCj50
+
+map, filter & reduce ?? Namaste JavaScript Ep. 19 ??.ahk
+https://www.youtube.com/watch?v=zdp0zrpKzIE
+
+Namaste JavaScript ?? Course - JS Video Tutorials by Akshay Saini.ahk
+https://www.youtube.com/watch?v=pN6jk0uUrD8
+
+QnA - Namaste JavaScript  Diwali Special ?? - Akshay Saini.ahk
+https://www.youtube.com/watch?v=VIJxU2NYG-Y
+
+setTimeout + Closures Interview Question ??  Namaste ?? JavaScript Ep. 11.ahk
+https://www.youtube.com/watch?v=eBTBG4nda2A
+
+SHORTEST JS Program ??window & this keyword  Namaste JavaScript Ep. 5.ahk
+https://www.youtube.com/watch?v=QCRpVw2KXf8
+
+The Scope Chain, ??Scope & Lexical Environment  Namaste JavaScript Ep. 7.ahk
+https://www.youtube.com/watch?v=uH-tVP8MUs8
+
+TRUST ISSUES with setTimeout()  Namaste JavaScript Ep.17.ahk
+https://www.youtube.com/watch?v=nqsPmuicJJc
+
+undefined vs not defined in JS ??  Namaste JavaScript Ep. 6.ahk
+https://www.youtube.com/watch?v=B7iF6G3EyIk
 Namaste ?? JavaScript

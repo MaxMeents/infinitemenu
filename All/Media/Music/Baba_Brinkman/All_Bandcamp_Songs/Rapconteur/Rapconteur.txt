@@ -1,1 +1,19 @@
+
+.ahk
+
+
+Beowulf.ahk
+https://bababrinkman.bandcamp.com/track/beowulf
+
+Gilgamesh.ahk
+https://bababrinkman.bandcamp.com/track/gilgamesh
+
+Kalevala.ahk
+https://bababrinkman.bandcamp.com/track/kalevala
+
+Merchant's Tale.ahk
+https://bababrinkman.bandcamp.com/track/merchants-tale
+
+Mosquito.ahk
+https://bababrinkman.bandcamp.com/track/mosquito
 Rapconteur

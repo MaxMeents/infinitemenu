@@ -1,1 +1,223 @@
+
+Algebra - Lesson 1-1 Operations with Real Numbers.ahk
+https://www.youtube.com/watch?v=E_gyiytvEGw
+
+Algebra - Lesson 1-3 Day 2 Weighted Averages.ahk
+https://www.youtube.com/watch?v=hsX55Rp66Bw
+
+Algebra - Lesson 1-6 Compound Inequalities.ahk
+https://www.youtube.com/watch?v=9r0s7syfkKU
+
+Algebra - Lesson 1-7 Day 2 Absolute Value Inequalities.ahk
+https://www.youtube.com/watch?v=e3UaZ1xc-QA
+
+Algebra - Lesson 2-3 Day 1 Standard Form.ahk
+https://www.youtube.com/watch?v=bvWbG-cvpsQ
+
+Algebra - Lesson 3-1 Relations and Functions.ahk
+https://www.youtube.com/watch?v=YkIl_a6vdas
+
+Algebra - Lesson 3-3 Transforming Linear Functions.ahk
+https://www.youtube.com/watch?v=eM5lPQBUJ5k
+
+Algebra - Lesson 5-2 Piecewise-Defined Functions.ahk
+https://www.youtube.com/watch?v=asByw_ESZKQ
+
+Algebra - Lesson 6-5 Transformations of Exponential Functions.ahk
+https://www.youtube.com/watch?v=dF_7xkwTm7Q
+
+Algebra - Lesson 9-1 Solving Quadratic Equations Using Graphs.ahk
+https://www.youtube.com/watch?v=MOYmfyzRyxI
+
+Algebra - Lesson 9-2 Solving Quadratic Equations by Factoring.ahk
+https://www.youtube.com/watch?v=I-GaQBTo0Tc
+
+Algebra - Lesson 9-4 Solving Quadratic Equations Using Square Roots.ahk
+https://www.youtube.com/watch?v=d3SyKOodhco
+
+Algebra - Lesson 9-5 Completing the Square.ahk
+https://www.youtube.com/watch?v=PDb9ZrDcXHk
+
+Algebra - Lesson 9-6 Quadratic Formula (1876682).ahk
+https://www.youtube.com/watch?v=lMHaez55Y18
+
+Algebra - Lesson 9-6 Quadratic Formula.ahk
+https://www.youtube.com/watch?v=lMHaez55Y18
+
+Algebra 0-1 Expressions, Variables, and Order of Operations.ahk
+https://www.youtube.com/watch?v=dVoKsQcEJWg
+
+Algebra 0-2 Properties of Number.ahk
+https://www.youtube.com/watch?v=K2YoPLcYrAo
+
+Algebra 0-3 The Distributive Property.ahk
+https://www.youtube.com/watch?v=iqA3Q9B65Lw
+
+Algebra 0-4 Ratios and Proportions.ahk
+https://www.youtube.com/watch?v=mBnUH5QCllg
+
+Algebra 0-5 Percent of Change.ahk
+https://www.youtube.com/watch?v=UzPFmoWVs_M
+
+Algebra 1-1 Operations with Real Numbers.ahk
+https://www.youtube.com/watch?v=ioszAbEjL1M
+
+Algebra 1-2 Solving Linear Equations.ahk
+https://www.youtube.com/watch?v=EDklFm2kcrA
+
+Algebra 1-3 Part 1 Solving Equations with Variables on Both Sides.ahk
+https://www.youtube.com/watch?v=zTVoXkC9Cz8
+
+Algebra 1-3 Part 2 Weighted Averages.ahk
+https://www.youtube.com/watch?v=2i-P3ONe19Q
+
+Algebra 1-4 Part 1 Literal Equations and Formulas.ahk
+https://www.youtube.com/watch?v=9m7sELzJlHQ
+
+Algebra 1-4 Part 2 Dimensional Analysis.ahk
+https://www.youtube.com/watch?v=xkXcvrA3FCc
+
+Algebra 1-5 Solving Inequalities with One Variable.ahk
+https://www.youtube.com/watch?v=1Jb7BCS6Zeo
+
+Algebra 1-6 Compound Inequalities.ahk
+https://www.youtube.com/watch?v=X3S_KI14mrE
+
+Algebra 1-7 Part 1 Absolute Value Equations.ahk
+https://www.youtube.com/watch?v=i27HhTCMnXg
+
+Algebra 1-7 Part 2 Absolute Value Inequalities.ahk
+https://www.youtube.com/watch?v=J_8Q4gN63uU
+
+Algebra 2-0 Slope.ahk
+https://www.youtube.com/watch?v=urg0NK9zFM8
+
+Algebra 2-1 Slope-Intercept Form.ahk
+https://www.youtube.com/watch?v=RtKKotZb05Q
+
+Algebra 2-2 Point-Slope Form.ahk
+https://www.youtube.com/watch?v=HJbhF7Dz4OI
+
+Algebra 2-3 Part 1 Standard Form.ahk
+https://www.youtube.com/watch?v=CuLLJ1HBn2w
+
+Algebra 2-3 Part 2 Related Equations.ahk
+https://www.youtube.com/watch?v=-GXBHzJsGuI
+
+Algebra 2-4 Parallel and Perpendicular Lines.ahk
+https://www.youtube.com/watch?v=lT_8Muc6O4Q
+
+Algebra 3-1 Relations and Functions.ahk
+https://www.youtube.com/watch?v=b3fq4kexsvo
+
+Algebra 3-2 Linear Functions.ahk
+https://www.youtube.com/watch?v=0KsHK4iIQxQ
+
+Algebra 3-3 Transforming Linear Equations.ahk
+https://www.youtube.com/watch?v=fsLneRAh4Ro
+
+Algebra 3-4 Arithmetic Sequences.ahk
+https://www.youtube.com/watch?v=mEbXv0UyfrM
+
+Algebra 3-5 Scatter Plots and Lines of Fit.ahk
+https://www.youtube.com/watch?v=S9J3JQ0h7JM
+
+Algebra 3-6 Analyzing Lines of Fit.ahk
+https://www.youtube.com/watch?v=0OmUqJ0FSKc
+
+Algebra 4-1 Solving Systems of Linear Equations by Graphing.ahk
+https://www.youtube.com/watch?v=3A2tNlcYH5Y
+
+Algebra 4-2 Solving Systems of Equations by Substitution.ahk
+https://www.youtube.com/watch?v=G_l_AIhyawc
+
+Algebra 4-3 Solving Systems of Equations by Elimination.ahk
+https://www.youtube.com/watch?v=BNQXt0c3Erc
+
+Algebra 4-4 Linear Inequalities with Two Variables.ahk
+https://www.youtube.com/watch?v=RDJHcF3mSRU
+
+Algebra 4-5 Systems of Linear Inequalities.ahk
+https://www.youtube.com/watch?v=i8scfVgowYg
+
+Algebra 5-1 The Absolute Value Function.ahk
+https://www.youtube.com/watch?v=OkMROBmruKs
+
+Algebra 5-2 Piecewise-Defined Functions.ahk
+https://www.youtube.com/watch?v=Ihu5tZaE7BY
+
+Algebra 5-3 Step Functions.ahk
+https://www.youtube.com/watch?v=Urvn0ODipeo
+
+Algebra 5-4 Transformations of Piecewise-Defined Functions.ahk
+https://www.youtube.com/watch?v=AyDtjkgagUE
+
+Algebra 6-1 Part 1 Exponent Properties.ahk
+https://www.youtube.com/watch?v=VERhJuTD3zY
+
+Algebra 6-1 Part 2 Rational Exponents and Exponent Properties.ahk
+https://www.youtube.com/watch?v=Sd6cFA5mYCI
+
+Algebra 6-2 Exponential Functions.ahk
+https://www.youtube.com/watch?v=Tv2zBOePXew
+
+Algebra 6-3 Exponential Growth and Decay.ahk
+https://www.youtube.com/watch?v=mydphm35NgE
+
+Algebra 6-4 Geometric Sequences.ahk
+https://www.youtube.com/watch?v=jRUm6I4I7BU
+
+Algebra 6-5 Transformations of Exponential Functions.ahk
+https://www.youtube.com/watch?v=je6fEc61f-4
+
+Algebra 7-1 Adding and Subtracting Polynomials.ahk
+https://www.youtube.com/watch?v=N3QbujlQOqY
+
+Algebra 7-2 Multiplying Polynomials.ahk
+https://www.youtube.com/watch?v=uUsVwSqxMvo
+
+Algebra 7-3 Multiplying Special Cases.ahk
+https://www.youtube.com/watch?v=oSEHbNPsp-U
+
+Algebra 7-4 Factoring Polynomials with GCF.ahk
+https://www.youtube.com/watch?v=cQp9wxHIDEM
+
+Algebra 7-5 Factoring x^2 + bx + c.ahk
+https://www.youtube.com/watch?v=XOMDm-h91Zs
+
+Algebra 7-6 Factoring ax^2 + bx + c.ahk
+https://www.youtube.com/watch?v=u8tlwby3sdQ
+
+Algebra 7-7 Factoring Special Cases.ahk
+https://www.youtube.com/watch?v=AUNdyI4j5OU
+
+Algebra 7-8 Factoring - Choose a Method.ahk
+https://www.youtube.com/watch?v=vmaJuUGC0bk
+
+Algebra 8-1 Key Features of Graphs of a Quadratic Function.ahk
+https://www.youtube.com/watch?v=k8jhczXz82w
+
+Algebra 8-2 Quadratic Functions in Vertex Form.ahk
+https://www.youtube.com/watch?v=o-55ugQevOs
+
+Algebra 8-3 Quadratic Functions in Standard Form.ahk
+https://www.youtube.com/watch?v=4eoan200s_M
+
+Algebra 8-4 Modeling with Quadratic Functions.ahk
+https://www.youtube.com/watch?v=UjSs63X1SHI
+
+Algebra 8-5 Comparing Linear, Quadratic, and Exponential Models.ahk
+https://www.youtube.com/watch?v=52Tl6r2leTs
+
+Algebra 9-3 Day 1 Simplifying Radical Expressions.ahk
+https://www.youtube.com/watch?v=IyZkp9T-fi8
+
+Algebra 9-3 Day 2 Operations with Radical Expressions.ahk
+https://www.youtube.com/watch?v=0hdMkWKc0zE
+
+Algebra 9-3 Day 3 Radical Equations.ahk
+https://www.youtube.com/watch?v=s3m0K07jjso
+
+Algebra Lesson 8-4 Modeling with Quadratic Functions.ahk
+https://www.youtube.com/watch?v=nKvO37ektdg
 Pearson enVision Algebra 1

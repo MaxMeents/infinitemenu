@@ -1,46 +1,46 @@
 
 A cappella
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/A_cappella/A_cappella.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/A_cappella/A_cappella.txt
 
 Barbershop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Barbershop/Barbershop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Barbershop/Barbershop.txt
 
 Cantique
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Cantique/Cantique.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Cantique/Cantique.txt
 
 Chicano
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Chicano/Chicano.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Chicano/Chicano.txt
 
 Classic
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Classic/Classic.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Classic/Classic.txt
 
 Conjunto
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Conjunto/Conjunto.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto/Conjunto.txt
 
 Conjunto Progressive
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Conjunto_Progressive/Conjunto_Progressive.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Conjunto_Progressive/Conjunto_Progressive.txt
 
 Doo-wop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Doo-wop/Doo-wop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Doo-wop/Doo-wop.txt
 
 Gregorian Chant
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Gregorian_Chant/Gregorian_Chant.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Gregorian_Chant/Gregorian_Chant.txt
 
 New Mex
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/New_Mex/New_Mex.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/New_Mex/New_Mex.txt
 
 Standards
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Standards/Standards.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Standards/Standards.txt
 
 Tex-Mex
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Tex-Mex/Tex-Mex.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Tex-Mex/Tex-Mex.txt
 
 Traditional Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Traditional_Pop/Traditional_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Traditional_Pop/Traditional_Pop.txt
 
 Vocal Jazz
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Vocal_Jazz/Vocal_Jazz.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Jazz/Vocal_Jazz.txt
 
 Vocal Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Spoken_Word/Vocal_Pop/Vocal_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Vocal_Pop/Vocal_Pop.txt
 Spoken Word

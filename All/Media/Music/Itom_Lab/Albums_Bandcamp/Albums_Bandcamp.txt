@@ -1,25 +1,49 @@
 
 All Songs on Bandcamp
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/All_Songs_on_Bandcamp/All_Songs_on_Bandcamp.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/All_Songs_on_Bandcamp/All_Songs_on_Bandcamp.txt
 
 Atomic Consciousness
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/Atomic_Consciousness/Atomic_Consciousness.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/Atomic_Consciousness/Atomic_Consciousness.txt
 
 Brahmin
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/Brahmin/Brahmin.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/Brahmin/Brahmin.txt
 
 Dragon Scales
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/Dragon_Scales/Dragon_Scales.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/Dragon_Scales/Dragon_Scales.txt
 
 NEYEN
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/NEYEN/NEYEN.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/NEYEN/NEYEN.txt
 
 The Crop Circle of Life
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/The_Crop_Circle_of_Life/The_Crop_Circle_of_Life.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/The_Crop_Circle_of_Life/The_Crop_Circle_of_Life.txt
 
 The Journey Is the Destination
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/The_Journey_Is_the_Destination/The_Journey_Is_the_Destination.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/The_Journey_Is_the_Destination/The_Journey_Is_the_Destination.txt
 
 The Phoenix of My Imagination
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Albums_Bandcamp/The_Phoenix_of_My_Imagination/The_Phoenix_of_My_Imagination.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Albums_Bandcamp/The_Phoenix_of_My_Imagination/The_Phoenix_of_My_Imagination.txt
+
+.ahk
+
+
+Atomic Consciousness.ahk
+https://itomlab.bandcamp.com/album/atomic-consciousness
+
+Brahmin.ahk
+https://itomlab.bandcamp.com/album/brahmin
+
+Dragon Scales.ahk
+https://itomlab.bandcamp.com/album/dragon-scales
+
+NEYEN.ahk
+https://itomlab.bandcamp.com/album/neyen
+
+The Crop Circle of Life.ahk
+https://itomlab.bandcamp.com/album/the-crop-circle-of-life
+
+The Journey Is the Destination.ahk
+https://itomlab.bandcamp.com/album/the-journey-is-the-destination
+
+The Phoenix of My Imagination.ahk
+https://itomlab.bandcamp.com/album/the-phoenix-of-my-imagination
 Albums Bandcamp

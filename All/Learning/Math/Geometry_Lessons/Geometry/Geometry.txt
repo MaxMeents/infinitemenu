@@ -1,1 +1,655 @@
+
+2 Column Proof ASA Triangle Congruence.ahk
+https://www.youtube.com/watch?v=k6Wv2xjlgvk
+
+2 Column Triangle Congruence Proof AAS.ahk
+https://www.youtube.com/watch?v=lsAWjiuf9c8
+
+2 Column Triangle Proof SAS.ahk
+https://www.youtube.com/watch?v=pi2V8pRCewE
+
+2003 AIME II problem 7  AIME  Math for fun and glory  Khan Academy.ahk
+https://www.youtube.com/watch?v=jpKjXtywTlQ
+
+30 60 90 and 45 45 90 Special Right Triangles (Proportion Method).ahk
+https://www.youtube.com/watch?v=CgVW1hjKmrw
+
+30-60-90 Special Right Triangles.ahk
+https://www.youtube.com/watch?v=8N9U8ELNILE
+
+30-60-90 triangle example problem  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=dgHksfBFbjk
+
+30-60-90 triangle side ratios proof  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=SFL4stapeUs
+
+30-60-90 Triangles II.ahk
+https://www.youtube.com/watch?v=3mLUJSoh6i0
+
+45-45-90 Special Right Triangles.ahk
+https://www.youtube.com/watch?v=nQEqpVK7ZPA
+
+45-45-90 triangle side ratios  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=McINBOFCGH8
+
+45-45-90 triangles  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=tSHitjFIjd8
+
+Acute right and obtuse angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=ALhv3Rlydig
+
+Altitude Geometric Mean Theorem.ahk
+https://www.youtube.com/watch?v=7dRlpi8SZQ4
+
+Ambiguous Case Law of Sines.ahk
+https://www.youtube.com/watch?v=S1oDtGHC2iA
+
+Angle basics  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=H-de6Tkxej8
+
+Angle Bisector How to Construct Using Compass (Geometry).ahk
+https://www.youtube.com/watch?v=VYbRcqXQ_W4
+
+Angle bisector theorem examples  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=PlY3e_-9JUA
+
+Angle bisector theorem proof  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=TpIBLnRAslI
+
+Angle Bisector Theorem.ahk
+https://www.youtube.com/watch?v=05ol2vinGkI
+
+Angle game (part 2)  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=ko-cYG3d6ec
+
+Angle of Elevation and Depression Problems.ahk
+https://www.youtube.com/watch?v=A3iuSkQYeVM
+
+Angles (part 2)  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=zrqzG6xKa1A
+
+Angles (part 3)  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=NLg6hfoKKlE
+
+Angles formed between transversals and parallel lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=gRKZaojKeP0
+
+Angles formed by parallel lines and transversals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=H-E5rlpCVu4
+
+Angles of parallel lines 2  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=0eDwckZOffc
+
+Another isosceles example problem  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=ceDV0QBpcMA
+
+Area and Perimeter.ahk
+https://www.youtube.com/watch?v=kqqmJiJez6o
+
+Area of a circle.ahk
+https://www.youtube.com/watch?v=tCrDyJsSFok
+
+Area of a parallelogram  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=tFhBAeZVTMw
+
+Area of a regular hexagon  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=LrxZMdQ6tiw
+
+Area of a Sector of a Circle (Using Proportions).ahk
+https://www.youtube.com/watch?v=nDVUcqqwPJA
+
+Area of a Segment in a Circle.ahk
+https://www.youtube.com/watch?v=oUHs1EVe2jE
+
+Area of an equilateral triangle  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=UKQ65tiIQ6o
+
+Area of diagonal generated triangles of rectangle are equal  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=YTRimTJ5nX4
+
+Area of inscribed equilateral triangle (some basic trig used)  Circles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=UmiZK6Hgm6c
+
+Area of Koch snowflake (part 1) - advanced  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=64bH_27Ehoc
+
+Area of Koch snowflake (part 2) - advanced  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=vBlR2xNAGmo
+
+Basic geometry language and labels  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=il0EJrY64qE
+
+Beginning Geometry Proof Using Segment Addition Postulate.ahk
+https://www.youtube.com/watch?v=8Kt2OF9hb6o
+
+Beginning Geometry Proof Using Transitive Property.ahk
+https://www.youtube.com/watch?v=Xi1Oo5W7vnI
+
+Biconditional Statement How to Write.ahk
+https://www.youtube.com/watch?v=B_7zzg92qjc
+
+Centroid (One Third Two Thirds) Examples.ahk
+https://www.youtube.com/watch?v=noN9YtDmy3U
+
+Challenging perimeter problem  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=1uWZNW5PF-s
+
+Challenging similarity problem  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=7aGEvpHaNJ8
+
+Challenging triangle angle problem  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=95logvV8nXY
+
+Circles radius, diameter, circumference and Pi  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=jyLRpr2P0MQ
+
+Circles, Angle Measures, Inscribed Angles, Intersecting Chords, Secants & Tangents.ahk
+https://www.youtube.com/watch?v=XckhcRlr4w8
+
+Circumcenter of a right triangle  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=VejCw2NlE60
+
+Circumcenter of a triangle  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=KXZ6w91DioU
+
+Common orthocenter and centroid  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=pDZIvyeqX1o
+
+Complementary and supplementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=BTnAlNSgNsY
+
+Composition of Reflections over 2 Intersecting Lines.ahk
+https://www.youtube.com/watch?v=5o5zEbJiRBQ
+
+Composition of Reflections over 2 Parallel Lines.ahk
+https://www.youtube.com/watch?v=y1hz3okGvxM
+
+Cone Lateral Area, Surface Area and Volume.ahk
+https://www.youtube.com/watch?v=owbQqq-5OoI
+
+Congruent legs and base angles of isosceles triangles  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=7UISwx2Mr4c
+
+Congruent Supplements Theorem Using in a Beginning Geometry Proof.ahk
+https://www.youtube.com/watch?v=nmiHB8uqKAA
+
+Congruent triangle example 2  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Xc3oHzKXVh8
+
+Congruent triangle proof example  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=RFesGHsuFZw
+
+Congruent triangles and SSS  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=CJrVOf_3dN0
+
+Constructing a Parallel Line through a Point (Geometry).ahk
+https://www.youtube.com/watch?v=fZGB_J_OWxY
+
+Constructing Perpendicular from Point to Line (Geometry).ahk
+https://www.youtube.com/watch?v=CFefKshkSdI
+
+Constructions How to Copy An Angle.ahk
+https://www.youtube.com/watch?v=eL-BxJjScqw
+
+Constructions Perpendicular Bisector (Geometry).ahk
+https://www.youtube.com/watch?v=hhjujo8XFkA
+
+Converse of the Pythagorean Theorem.ahk
+https://www.youtube.com/watch?v=7Id065L0xhU
+
+Converse, Inverse, Contrapositive, Biconditional Statements.ahk
+https://www.youtube.com/watch?v=4yfDM5zV6H4
+
+Corresponding, Alternate Interior, Alternate Exterior, Consecutive Interior Angles.ahk
+https://www.youtube.com/watch?v=r-wJ1oj1zAM
+
+CPCTC Congruent Triangles Geometry Proof.ahk
+https://www.youtube.com/watch?v=lYIr2-kb-lE
+
+Cylinder Lateral Area, Surface Area and Volume.ahk
+https://www.youtube.com/watch?v=UCJ8AzThSpI
+
+Cylinder volume and surface area  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=gL3HxBQyeg0
+
+Distance Formula - How to Use.ahk
+https://www.youtube.com/watch?v=Mvnt0BPzfL8
+
+Equilateral and isosceles example problems  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=7FTNWE7RTfQ
+
+Equilateral triangle sides and angles congruent  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=CYNUwiUzlPk
+
+Euclid as the father of geometry  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=WqzK3UAXaHs
+
+Euler line  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=tUqyJgmGY7k
+
+Euler's line proof  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=t_EgAi574sM
+
+Euler's Theorem.ahk
+https://www.youtube.com/watch?v=aW0oqTAdmKc
+
+Example involving an isosceles triangle and parallel lines  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=CVKAro3HUxQ
+
+Exploring medial triangles  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Rsi5mzEaCPw
+
+Figuring out all the angles for congruent triangles example  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=aDCXPdzyS0s
+
+Find Area of Regular Polygon Given Apothem.ahk
+https://www.youtube.com/watch?v=CAXJh2avnu8
+
+Find Area of Regular Polygon Given Side Length.ahk
+https://www.youtube.com/watch?v=OTjh1skneIY
+
+Find Areas of Similar Figures Given Perimeters.ahk
+https://www.youtube.com/watch?v=cBzHqm_YnGc
+
+Find Equation of Line Perpendicular to a Line Through a Given Point.ahk
+https://www.youtube.com/watch?v=BUj71L1n9d0
+
+Find Possible Lengths of Third Side in a Triangle.ahk
+https://www.youtube.com/watch?v=VW0UM88eLYY
+
+Find the Area of a Regular Polygon Given Apothem, Side, Perimeter, or Radius (4 Examples).ahk
+https://www.youtube.com/watch?v=n1YKOggLjUQ
+
+Find the Area of Regular Polygon Given Radius.ahk
+https://www.youtube.com/watch?v=lsSeRxpoIaY
+
+Find the Equation of a Circle Given Endpoints of Diameter.ahk
+https://www.youtube.com/watch?v=OKsIh-pqGaE
+
+Find the volume of a triangular prism and cube  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=ZqzAOZ9pP9Q
+
+Finding an Exterior Angle in a Polygon.ahk
+https://www.youtube.com/watch?v=80LA3zcmabY
+
+Finding Arc Length Using Proportions.ahk
+https://www.youtube.com/watch?v=ovKkFTumqSs
+
+Finding Area of Kites and Rhombus.ahk
+https://www.youtube.com/watch?v=JuzIWhyNUcc
+
+Finding area using similarity and congruence  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=EqNzr56h1Ic
+
+Finding congruent triangles  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=d5UCZ9hO8X4
+
+Finding Endpoint Given Midpoint.ahk
+https://www.youtube.com/watch?v=4V-zBkQCqWA
+
+Finding Interior and Exterior Angles in a Polygon.ahk
+https://www.youtube.com/watch?v=otzb_GkRiqQ
+
+Finding more angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=0gzSreH8nUI
+
+Geometric Probability.ahk
+https://www.youtube.com/watch?v=8P6HGcwQYZ0
+
+Geometry Final Exam Review.ahk
+https://www.youtube.com/watch?v=bisO7SaR9Os
+
+Geometry Lesson 1 - Points, Lines, and Planes.ahk
+https://www.youtube.com/watch?v=MD1Ob370TIA
+
+Geometry Midterm Exam Giant Review.ahk
+https://www.youtube.com/watch?v=Nt_b1xHDHQc
+
+Hemisphere Surface Area (Formula).ahk
+https://www.youtube.com/watch?v=Zvg_ahjd9EI
+
+Heron's formula  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=-YI6UC4qVEY
+
+Hinge Theorem (Geometry).ahk
+https://www.youtube.com/watch?v=aEecHBieC1E
+
+How to Find Circumcenter Given 3 Vertices (Algebraically).ahk
+https://www.youtube.com/watch?v=4TtMmTOuqBk
+
+How to Find Orthocenter Given 3 Vertices (Algebraically).ahk
+https://www.youtube.com/watch?v=Ci7jYfZOiOU
+
+How to Find Scale Factor with Similar Figures.ahk
+https://www.youtube.com/watch?v=P1f3sJpIYGI
+
+How to Identify and Calculate Rotational Symmetry.ahk
+https://www.youtube.com/watch?v=ygB9QbbaM-I
+
+How to Use a Compass.ahk
+https://www.youtube.com/watch?v=G8r3qacVdKw
+
+Incenter and incircles of a triangle  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=21vbBiCVijE
+
+Incenter, Circumcenter, Centroid, Orthocenter (Properties & Diagrams).ahk
+https://www.youtube.com/watch?v=p52H7YcoDO8
+
+Indirect Proof Example.ahk
+https://www.youtube.com/watch?v=AY088xuQ10s
+
+Inradius, perimeter, and area  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=5NjgcPri07E
+
+Inscribed angle theorem proof  High School Geometry  High School Math  Khan Academy.ahk
+https://www.youtube.com/watch?v=MyzGVbCHh5M
+
+Interesting perimeter and area problems  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=vWXMDIazHjA
+
+Interior and Exterior Angles of Polygons (Formulas).ahk
+https://www.youtube.com/watch?v=lLtLfMZe9n0
+
+Interior Angle in a Polygon How to Find (Formula).ahk
+https://www.youtube.com/watch?v=b1lFDVFg85U
+
+Intro to 30-60-90 triangles  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Qwet4cIpnCM
+
+Intro to lines, line segments, and rays  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=JcqCf762y9w
+
+Introduction to angles (old)  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=2439OIVBgPg
+
+Introduction to vertical angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=_7aUxFzTG5w
+
+Inverse Trig Ratios Solving for Angles.ahk
+https://www.youtube.com/watch?v=1c3IcsPoexw
+
+Is a Triangle Right, Acute, or Obtuse Given Sides (Pythagorean Converse).ahk
+https://www.youtube.com/watch?v=qT5kQxyPGtA
+
+Koch snowflake fractal  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=azBNsPa1WC4
+
+Language and notation of the circle  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=U2W7HPyC0cM
+
+Lateral Area and Surface Area of Cones, Pyramids, Cylinders & Prisms.ahk
+https://www.youtube.com/watch?v=Fz17br5lVHk
+
+Law of Detachment and Syllogism.ahk
+https://www.youtube.com/watch?v=blmq6ms0_es
+
+Leg Geometric Mean Theorem.ahk
+https://www.youtube.com/watch?v=e15GF1af6VA
+
+Locus in Space Examples.ahk
+https://www.youtube.com/watch?v=NSZURhxewdM
+
+Measuring angles in degrees  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=92aLiyeQj0w
+
+Measuring angles using a protractor  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=dw41PMWek6U
+
+Median centroid right triangle example  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=k45QTFCHSVs
+
+Medians divide into smaller triangles of equal area  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Xt4sT0fV9Pw
+
+Midpoint Formula.ahk
+https://www.youtube.com/watch?v=7N3R55-5w9E
+
+Midsegment Theorem Triangles (Geometry).ahk
+https://www.youtube.com/watch?v=W1qEjGZOtqk
+
+More angle measurements using a protractor  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=wJ37GJyViU8
+
+More on why SSA is not a postulate  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=f8svAm237xM
+
+Opposite Rays - What are They.ahk
+https://www.youtube.com/watch?v=8dTeS8O8xHw
+
+Other triangle congruence postulates  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=8Ld8Csu4sEs
+
+Parallel Lines Cut by a Transversal - Finding Angle Measures.ahk
+https://www.youtube.com/watch?v=3Ex7SpsA9MI
+
+Part 1 of proof of Heron's formula  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=AreOMvPCxv8
+
+Part 2 of proof of Heron's formula  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=nZu7IZLhJRI
+
+Perimeter and area the basics  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=LoaBd-sPzkU
+
+Perpendicular Bisector Finding the Equation.ahk
+https://www.youtube.com/watch?v=qc9gcY-24bk
+
+Perpendicular radius bisects chord  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=q7eF5Ci944U
+
+Point Along a Directed Segment.ahk
+https://www.youtube.com/watch?v=z4elAAM8Q1s
+
+Point-line distance and angle bisectors  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=yj4oS-27Q3k
+
+Polygons Finding Number of Sides.ahk
+https://www.youtube.com/watch?v=1cNuas5hPTk
+
+Prism Lateral Area, Surface Area and Volume.ahk
+https://www.youtube.com/watch?v=ed2PvvwhoCc
+
+Problem involving angle derived from square and circle  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=3n0LvI99-KM
+
+Proof - Sum of Measures of Angles in a Triangle are 180.ahk
+https://www.youtube.com/watch?v=OPG-9IFnJnI
+
+Proof Corresponding angle equivalence implies parallel lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=9_3OxtdqmqE
+
+Proof Diagonals of a parallelogram bisect each other  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=TErJ-Yr67BI
+
+Proof Opposite angles of parallelogram congruent  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=oIV1zM8qlpk
+
+Proof Opposite sides of parallelogram congruent  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=LhrGS4-Dd9I
+
+Proof Rhombus area half product of diagonal length  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=3FManXv4mZM
+
+Proof Rhombus diagonals are perpendicular bisectors  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=GDcVdBAnBdU
+
+Proof Right triangles inscribed in circles  High School Math  Khan Academy.ahk
+https://www.youtube.com/watch?v=b0U1NxbRU4w
+
+Proof Triangle altitudes are concurrent (orthocenter)  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=aGwT2-RERXY
+
+Proof Vertical angles are equal  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=wRBMmiNHQaE
+
+Properties of Proportions.ahk
+https://www.youtube.com/watch?v=yDxgtBFyvC4
+
+Properties of Quadrilaterals (Tree Diagram).ahk
+https://www.youtube.com/watch?v=Pw2GtoGDTXI
+
+Proving that the centroid is 2-3rds along the median  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=i0VS3eEGjiQ
+
+Pyramid Lateral Area, Surface Area and Volume.ahk
+https://www.youtube.com/watch?v=H8y6Tu_hfWs
+
+Pythagorean Inequality Theorem - Obtuse, Acute or Right.ahk
+https://www.youtube.com/watch?v=ZYKTA-5aAeQ
+
+Pythagorean theorem II  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=nMhJLn5ives
+
+Pythagorean theorem proof using similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=LrS5_l-gk94
+
+Pythagorean Theorem.ahk
+https://www.youtube.com/watch?v=u9PxUbjadGY
+
+Pythagorean Triples.ahk
+https://www.youtube.com/watch?v=F9YtVqyps1s
+
+Quadrilateral overview  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Ka82QC4QvGA
+
+Radicals Simplifying.ahk
+https://www.youtube.com/watch?v=yTnovf2jjlE
+
+Rationalize the Denominator with Radicals (Monomials & Binomials).ahk
+https://www.youtube.com/watch?v=WI10UlLgHwg
+
+Reflect a Point Over a Line (Algebraically).ahk
+https://www.youtube.com/watch?v=_DXiUS78E9o
+
+Review of triangle properties  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=KUhdMbx5ges
+
+Rhombus diagonals  Quadrilaterals  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=_QTFeOvPcbY
+
+Rotation about a Point with Protractor.ahk
+https://www.youtube.com/watch?v=5va-z_ViXLU
+
+Rotations (Easier Method) 90 180 270.ahk
+https://www.youtube.com/watch?v=tdWrAzE8r3U
+
+Segment Length Formulas in Circles (Secants, Chords, Tangents).ahk
+https://www.youtube.com/watch?v=ASZl3SnKwI8
+
+Similar Solids Find Volume Given Surface Area.ahk
+https://www.youtube.com/watch?v=XInrsVZzgx4
+
+Similar triangle basics  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=9ThXDY9Y3oU
+
+Similar triangle example problems  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Ly86lwq_2gc
+
+Similar triangles  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=BI-rtfZVXy0
+
+Similar triangles (part 2)  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=qO2cTx6DwCA
+
+Similarity example problems  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=R-6CAr_zEEk
+
+Similarity example where same side plays different roles  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Tal_fgREll0
+
+Similarity postulates  Similarity  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=7bO0TmJ6Ba4
+
+SOH CAH TOA (Trigonometry).ahk
+https://www.youtube.com/watch?v=q5JMy_NAP1c
+
+Special Right Triangles 30-60-90 & 45-45-90 (3 Easy Methods Explained).ahk
+https://www.youtube.com/watch?v=-l1xwn7zNZ4
+
+Sphere Surface Area and Volume.ahk
+https://www.youtube.com/watch?v=Ax1RQsxETIk
+
+SSS to show a radius is perpendicular to a chord that it bisects  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=TgDk06Qayxw
+
+Sum of interior angles of a polygon  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=qG3HnRccrQU
+
+Sum of the exterior angles of convex polygon  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=W9B3VYdC5T8
+
+Surface Area and Volume Review (Geometry).ahk
+https://www.youtube.com/watch?v=eBAq_caikJ4
+
+Surface Area of Cones and Pyramids.ahk
+https://www.youtube.com/watch?v=3N_yxLDPTyY
+
+Surface Area of Prisms and Cylinders.ahk
+https://www.youtube.com/watch?v=8ekawfg_2Zc
+
+The angle game  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=kqU_ymV581c
+
+The golden ratio  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=5zosU6XTgSY
+
+The Pythagorean theorem intro  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=AA6RfgP-AHU
+
+Three points defining a circle  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=4_xhiP6g2ow
+
+Trapezoid Area Formula with Examples.ahk
+https://www.youtube.com/watch?v=P6h-g18jQXs
+
+Triangle angle example 1  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=hmj3_zbz2eg
+
+Triangle angle example 2  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=eTwnt4G5xE4
+
+Triangle angle example 3  Angles and intersecting lines  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=iqeGTtyzQ1I
+
+Triangle area proofs  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=YOYQys52sPs
+
+Triangle Congruence Statement - How to Write (Geometry).ahk
+https://www.youtube.com/watch?v=GilfgIkM6wI
+
+Triangle Inequality Solve for x.ahk
+https://www.youtube.com/watch?v=ePK-88DNsis
+
+Triangle Inequality Theorem Possible Values of x.ahk
+https://www.youtube.com/watch?v=RZkOM7jWf7o
+
+Triangle medians and centroids  Special properties and parts of triangles  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=GiGLhXFBtRg
+
+Triangle medians and centroids (2D proof)  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=Vc09LURoMQ8
+
+Triangle Proportionality Theorem.ahk
+https://www.youtube.com/watch?v=HuolsUc3tJU
+
+Trigonometry How to Solve Right Triangles.ahk
+https://www.youtube.com/watch?v=CTCd73TzZQI
+
+Two column proof showing segments are perpendicular  Congruence  Geometry  Khan Academy.ahk
+https://www.youtube.com/watch?v=fSu1LKnhM5Q
+
+Volume of a Cone and Pyramid - How to Find (Formula).ahk
+https://www.youtube.com/watch?v=TDXSE4s9b84
+
+Volume of an Oblique Prism - How to Find (Formula).ahk
+https://www.youtube.com/watch?v=sHCiT2soUmI
+
+Volumes of Prisms and Cylinders (Formula & Examples).ahk
+https://www.youtube.com/watch?v=PgxIad4c1ZI
+
+What are Adjacent Angles.ahk
+https://www.youtube.com/watch?v=O7hsq9de_40
+
+Write the Equation of a Circle in Standard Form Given Center & Radius.ahk
+https://www.youtube.com/watch?v=QmOI153y4ZA
 Geometry

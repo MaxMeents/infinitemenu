@@ -1,1 +1,49 @@
+
+.ahk
+
+
+Babel.ahk
+https://bababrinkman.bandcamp.com/track/babel
+
+Dead Poets.ahk
+https://bababrinkman.bandcamp.com/track/dead-poets
+
+El Plantador.ahk
+https://bababrinkman.bandcamp.com/track/el-plantador
+
+Fatalist.ahk
+https://bababrinkman.bandcamp.com/track/fatalist
+
+Induction.ahk
+https://bababrinkman.bandcamp.com/track/induction
+
+Insomnia.ahk
+https://bababrinkman.bandcamp.com/track/insomnia
+
+Last Days.ahk
+https://bababrinkman.bandcamp.com/track/last-days
+
+Lotus Eaters.ahk
+https://bababrinkman.bandcamp.com/track/lotus-eaters
+
+Microphone.ahk
+https://bababrinkman.bandcamp.com/track/microphone
+
+Pagan Party.ahk
+https://bababrinkman.bandcamp.com/track/pagan-party
+
+Procrastinator.ahk
+https://bababrinkman.bandcamp.com/track/procrastinator
+
+Scientist.ahk
+https://bababrinkman.bandcamp.com/track/scientist
+
+Shaman.ahk
+https://bababrinkman.bandcamp.com/track/shaman
+
+Solar Eclipse.ahk
+https://bababrinkman.bandcamp.com/track/solar-eclipse
+
+Toxified.ahk
+https://bababrinkman.bandcamp.com/track/toxified
 Swordplay

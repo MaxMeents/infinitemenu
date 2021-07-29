@@ -1,1 +1,169 @@
+
+.ahk
+
+
+African cherry orange.ahk
+https://en.wikipedia.org/wiki/African_cherry_orange
+
+Amanatsu.ahk
+https://en.wikipedia.org/wiki/Amanatsu
+
+Bajoura citron.ahk
+https://en.wikipedia.org/w/index.php?title=Bajoura_citron&action=edit&redlink=1
+
+Bergamot orange.ahk
+https://en.wikipedia.org/wiki/Bergamot_orange
+
+Bitter orange.ahk
+https://en.wikipedia.org/wiki/Bitter_orange
+
+Blood lime.ahk
+https://en.wikipedia.org/wiki/Blood_lime
+
+Blood orange.ahk
+https://en.wikipedia.org/wiki/Blood_orange
+
+Buddha's hand.ahk
+https://en.wikipedia.org/wiki/Buddha%27s_hand
+
+Calamondin.ahk
+https://en.wikipedia.org/wiki/Calamondin
+
+Cam sành.ahk
+https://en.wikipedia.org/wiki/Cam_s%C3%A0nh
+
+Centennial variegated kumquat.ahk
+https://en.wikipedia.org/wiki/Kumquat#Centennial_variegated_kumquat
+
+Citron.ahk
+https://en.wikipedia.org/wiki/Citron
+
+Clementine.ahk
+https://en.wikipedia.org/wiki/Clementine
+
+Desert lime.ahk
+https://en.wikipedia.org/wiki/Desert_lime
+
+Etrog.ahk
+https://en.wikipedia.org/wiki/Etrog
+
+Finger lime.ahk
+https://en.wikipedia.org/wiki/Finger_lime
+
+Florentine citron.ahk
+https://en.wikipedia.org/wiki/Florentine_citron
+
+Grapefruit.ahk
+https://en.wikipedia.org/wiki/Grapefruit
+
+Hyuganatsu.ahk
+https://en.wikipedia.org/wiki/Hyuganatsu
+
+Ichang papeda.ahk
+https://en.wikipedia.org/wiki/Ichang_Papeda
+
+Iyokan.ahk
+https://en.wikipedia.org/wiki/Iyokan
+
+Jiangsu kumquat.ahk
+https://en.wikipedia.org/wiki/Kumquat#Jiangsu_kumquat
+
+Kabosu.ahk
+https://en.wikipedia.org/wiki/Kabosu
+
+Kaffir lime.ahk
+https://en.wikipedia.org/wiki/Kaffir_lime
+
+Key lime.ahk
+https://en.wikipedia.org/wiki/Key_lime
+
+Kinnow.ahk
+https://en.wikipedia.org/wiki/Kinnow
+
+Kiyomi.ahk
+https://en.wikipedia.org/wiki/Kiyomi
+
+Kumquat.ahk
+https://en.wikipedia.org/wiki/Kumquat
+
+Lemon.ahk
+https://en.wikipedia.org/wiki/Lemon
+
+Lime.ahk
+https://en.wikipedia.org/wiki/Lime_(fruit)
+
+Limequat.ahk
+https://en.wikipedia.org/wiki/Limequat
+
+Mandarin orange.ahk
+https://en.wikipedia.org/wiki/Mandarin_orange
+
+Mangshanyegan.ahk
+https://en.wikipedia.org/wiki/Mangshanyegan
+
+Meyer lemon.ahk
+https://en.wikipedia.org/wiki/Meyer_lemon
+
+Myrtle-leaved orange.ahk
+https://en.wikipedia.org/wiki/Citrus_myrtifolia
+
+Orange.ahk
+https://en.wikipedia.org/wiki/Orange_(fruit)
+
+Oroblanco.ahk
+https://en.wikipedia.org/wiki/Oroblanco
+
+Oval kumquat.ahk
+https://en.wikipedia.org/wiki/Kumquat#Oval_kumquat
+
+Persian lime.ahk
+https://en.wikipedia.org/wiki/Persian_lime
+
+Pomelo.ahk
+https://en.wikipedia.org/wiki/Pomelo
+
+Ponderosa lemon.ahk
+https://en.wikipedia.org/wiki/Ponderosa_lemon
+
+Rangpur.ahk
+https://en.wikipedia.org/wiki/Rangpur_(fruit)
+
+Round lime.ahk
+https://en.wikipedia.org/wiki/Round_lime
+
+Satsuma mandarin.ahk
+https://en.wikipedia.org/wiki/Satsuma_mandarin
+
+Shangjuan.ahk
+https://en.wikipedia.org/wiki/Shangjuan
+
+Shonan gold.ahk
+https://en.wikipedia.org/wiki/Shonan_gold
+
+Sudachi.ahk
+https://en.wikipedia.org/wiki/Sudachi
+
+Sweet limetta.ahk
+https://en.wikipedia.org/wiki/Sweet_limetta
+
+Taiwan tangerine.ahk
+https://en.wikipedia.org/wiki/Taiwan_tangerine
+
+Tangelo.ahk
+https://en.wikipedia.org/wiki/Tangelo
+
+Tangerine.ahk
+https://en.wikipedia.org/wiki/Tangerine
+
+Tangor.ahk
+https://en.wikipedia.org/wiki/Tangor
+
+Ugli fruit.ahk
+https://en.wikipedia.org/wiki/Ugli_fruit
+
+Yuzu.ahk
+https://en.wikipedia.org/wiki/Yuzu
+
+Ogonkan.ahk
+https://en.wikipedia.org/wiki/%C5%8Cgonkan
 3 Citruses

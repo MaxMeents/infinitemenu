@@ -1,4 +1,16 @@
 
 Bartle Taxonomy
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Game_Development/Making_an_Addictive_Game/Bartle_Taxonomy/Bartle_Taxonomy.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Game_Development/Making_an_Addictive_Game/Bartle_Taxonomy/Bartle_Taxonomy.txt
+
+Bartle taxonomy of player types - Wikipedia.ahk
+https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types
+
+CryptoGrounds - YouTube.ahk
+https://www.youtube.com/c/CryptoGrounds/playlists
+
+Jonathan Blow- Video Games and the Human Condition - YouTube.ahk
+https://www.youtube.com/watch?v=SqFu5O-oPmU
+
+Player type - MTG Wiki.ahk
+https://mtg.fandom.com/wiki/Player_type
 Making an Addictive Game

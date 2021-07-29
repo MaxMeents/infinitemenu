@@ -1,25 +1,25 @@
 
 Acousmatic Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Acousmatic_Music/Acousmatic_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Acousmatic_Music/Acousmatic_Music.txt
 
 Computer Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Computer_Music/Computer_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Computer_Music/Computer_Music.txt
 
 Electroacoustic Improvisation
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Electroacoustic_Improvisation/Electroacoustic_Improvisation.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Electroacoustic_Improvisation/Electroacoustic_Improvisation.txt
 
 Field Recording
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Field_Recording/Field_Recording.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Field_Recording/Field_Recording.txt
 
 Live Coding
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Live_Coding/Live_Coding.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Live_Coding/Live_Coding.txt
 
 Live Electronics
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Live_Electronics/Live_Electronics.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Live_Electronics/Live_Electronics.txt
 
 Soundscape Composition
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Soundscape_Composition/Soundscape_Composition.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Soundscape_Composition/Soundscape_Composition.txt
 
 Tape Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electroacoustic/Tape_Music/Tape_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electroacoustic/Tape_Music/Tape_Music.txt
 Electroacoustic

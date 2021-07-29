@@ -1,1 +1,40 @@
+
+Crazy Regex - Dom Crawling Part 1.ahk
+https://www.youtube.com/watch?v=lEbO1eYyj1g
+
+Curl Login Tutorial.ahk
+https://www.youtube.com/watch?v=XcgQUsorF_8
+
+Javascript Regular Expressions.ahk
+https://www.youtube.com/watch?v=z2QTl3wWBsw
+
+PHP Basics Regular Expressions.ahk
+https://www.youtube.com/watch?v=hPgTU4bMXWw
+
+Regex Match Until String.  Or Match Until More Regex (1248576).ahk
+https://www.youtube.com/watch?v=Exxo8gXRhWA
+
+Regex Match Until String.  Or Match Until More Regex.ahk
+https://www.youtube.com/watch?v=Exxo8gXRhWA
+
+REGEX Tutorial Regular Expressions Pt 2.ahk
+https://www.youtube.com/watch?v=FCFdgymqpUI
+
+REGEX Tutorial Regular Expressions Pt 3.ahk
+https://www.youtube.com/watch?v=lvGtejG69zg
+
+REGEX Tutorial Regular Expressions.ahk
+https://www.youtube.com/watch?v=DRR9fOXkfRE
+
+Sublime Text 2 - Find and Replace.ahk
+https://www.youtube.com/watch?v=hDqE0DBpJfo
+
+Web Design and Programming Pt 24.ahk
+https://www.youtube.com/watch?v=s4wdrOL7Pdg
+
+Web Design and Programming Pt 7 Regex.ahk
+https://www.youtube.com/watch?v=wtQvqh_CTiE
+
+Web Design and Programming Pt 8 PHP Regex.ahk
+https://www.youtube.com/watch?v=wSYxMzpv8IQ
 REGEX Tutorials by Derek

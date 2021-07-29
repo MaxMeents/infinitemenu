@@ -1,1 +1,91 @@
+
+1Password Comes to Linux -- Don't Use it..ahk
+https://www.youtube.com/watch?v=RC3lzTtOR98
+
+5 Reasons Why Ubuntu Should Ditch Gnome, 2 Reasons Why They Shouldn't.ahk
+https://www.youtube.com/watch?v=JaLqEwB7Hrg
+
+5 Reasons Why Windows 11 Sucks (And Why Linux is Better).ahk
+https://www.youtube.com/watch?v=DFFlF9-3fz8
+
+Adobe is Holding Linux Back -- And We Have No Real Alternatives.ahk
+https://www.youtube.com/watch?v=J3FVYaur-rg
+
+Arch Based Distros are Better for Most than Vanilla Arch.ahk
+https://www.youtube.com/watch?v=WZlnKd5-gc0
+
+Audio On Linux Should Be More Like Audio on Mobile.ahk
+https://www.youtube.com/watch?v=ezNTDJeibA0
+
+Bluetooth Audio on Linux is Still Broken (Rant).ahk
+https://www.youtube.com/watch?v=R6SXPyuv7SE
+
+CLI Is Sometimes Better for You.ahk
+https://www.youtube.com/watch?v=U2JYj32CihU
+
+Did Mozilla Just Kill Firefox.ahk
+https://www.youtube.com/watch?v=-L-1Jy1CQgA
+
+Firefox is Broken.ahk
+https://www.youtube.com/watch?v=1stGRqNw8hU
+
+GNOME is Okay Now.ahk
+https://www.youtube.com/watch?v=_8NezxAIZNQ
+
+Linux Deserves a Better Office Suite.ahk
+https://www.youtube.com/watch?v=4pYgdIx6R9U
+
+Linux is Too Hard for Noobs to Install (Ramble).ahk
+https://www.youtube.com/watch?v=uCBiirURtas
+
+Linux Mint is a Useless Distro.ahk
+https://www.youtube.com/watch?v=4HMlj-udakA
+
+My Linux is Better Than Your Linux [Ramble].ahk
+https://www.youtube.com/watch?v=nCJX9wCL4to
+
+Rant File Pickers on Linux Are Terrible.ahk
+https://www.youtube.com/watch?v=QmcV3scJKXc
+
+Rant Ubuntu is a Good Distro, Stop Saying Otherwise.ahk
+https://www.youtube.com/watch?v=3fFwhlQFCF4
+
+Suckless Software is Terrible -- Unless You Work For It.ahk
+https://www.youtube.com/watch?v=1tyHU8e5SXI
+
+The Browser Wars Are Over -- Firefox Lost.ahk
+https://www.youtube.com/watch?v=4FvPoBqSUwM
+
+The Easiest Ways of Contributing to Open Source Software.ahk
+https://www.youtube.com/watch?v=QukvQBj5cIc
+
+The FISH Shell is Meh.ahk
+https://www.youtube.com/watch?v=Gmw3OpkmWcI
+
+The Quest For No Mouse.ahk
+https://www.youtube.com/watch?v=HjvapjssFaA
+
+There and Back Again A Distro Hopper's Journey (Ramble).ahk
+https://www.youtube.com/watch?v=OWRD6UOS2Vk
+
+What is the Best Flavor of Ubuntu.ahk
+https://www.youtube.com/watch?v=fxE-t1m_FGE
+
+Why Are There No Good Dual Pane File Managers on Linux.ahk
+https://www.youtube.com/watch?v=m8eMOVHuvDM
+
+Why Are There No Good Non-Google Search Engines.ahk
+https://www.youtube.com/watch?v=vo8VZO0ph6s
+
+Why Does Arch Linux Have Such a Bad Reputation.ahk
+https://www.youtube.com/watch?v=O2ir7V7lUzo
+
+Why Isn't the Snap Store Open Source.ahk
+https://www.youtube.com/watch?v=jB--Wpfk008
+
+Why Won't People Pay for Open Source Software.ahk
+https://www.youtube.com/watch?v=GwpCWqUWn8k
+
+Why ZSH Is My Shell of Choice.ahk
+https://www.youtube.com/watch?v=nOGLaUGysqI
 Linux Rants

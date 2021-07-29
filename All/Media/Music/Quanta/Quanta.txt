@@ -1,34 +1,34 @@
 
 Album Links
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Album_Links/Album_Links.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Album_Links/Album_Links.txt
 
 Beneath The Surface
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Beneath_The_Surface/Beneath_The_Surface.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Beneath_The_Surface/Beneath_The_Surface.txt
 
 Connecting Patterns
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Connecting_Patterns/Connecting_Patterns.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Connecting_Patterns/Connecting_Patterns.txt
 
 Dream Before You Sleep
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Dream_Before_You_Sleep/Dream_Before_You_Sleep.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Dream_Before_You_Sleep/Dream_Before_You_Sleep.txt
 
 Elements
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Elements/Elements.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Elements/Elements.txt
 
 Fragmented
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Fragmented/Fragmented.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Fragmented/Fragmented.txt
 
 Overflow
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Overflow/Overflow.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Overflow/Overflow.txt
 
 Portals
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Portals/Portals.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Portals/Portals.txt
 
 Quanta
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Quanta/Quanta.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Quanta/Quanta.txt
 
 Turning Point
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Turning_Point/Turning_Point.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Turning_Point/Turning_Point.txt
 
 Vibratory Fields
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Vibratory_Fields/Vibratory_Fields.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Vibratory_Fields/Vibratory_Fields.txt
 Quanta

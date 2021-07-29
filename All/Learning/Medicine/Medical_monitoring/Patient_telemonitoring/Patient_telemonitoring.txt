@@ -1,1 +1,217 @@
+
+12 lead ekg.ahk
+https://www.youtube.com/watch?v=DYx512z6Lpw
+
+12 Lead Wireless ECG with Android.ahk
+https://www.youtube.com/watch?v=Omwq2j5gA50
+
+Aerotel HeartView ECG by Phone   Russian Ural TV.ahk
+https://www.youtube.com/watch?v=shkKi5Vc9qc
+
+Aerotel in Romania   Med TeleSystems Tele Cardiology Service.ahk
+https://www.youtube.com/watch?v=14LcNQcpows
+
+BCS Awards 2008  Vodafone & Nuance Mobile Care.ahk
+https://www.youtube.com/watch?v=rJZNbES5Xa8
+
+BodyKom ECG Remote Monitoring from Kiwok (1616125).ahk
+https://www.youtube.com/watch?v=b2rNObqszSM
+
+BodyKom ECG Remote Monitoring from Kiwok.ahk
+https://www.youtube.com/watch?v=b2rNObqszSM
+
+Cameroun Cardiopad.ahk
+https://www.youtube.com/watch?v=CkasmiBa4TM
+
+Cardiac Event Monitor.ahk
+https://www.youtube.com/watch?v=xWQmusuioOk
+
+Cardiac monitor ECG stress rehab defib AED Cardiac Science.ahk
+https://www.youtube.com/watch?v=PvGS7h-ueoc
+
+Cardiaccs AS testing their cardiac monitoring device at the Rikshospitalet University Hospital in Os.ahk
+https://www.youtube.com/watch?v=5A_JqHqO5-4
+
+CardioScout Multi ECG EKG Overview   Made for iPhone iPad iPod 12 6 3 leads ECG and Holter.ahk
+https://www.youtube.com/watch?v=CV85kPQFQg4
+
+Digital, Healthy, Happy  eHEALTH.ahk
+https://www.youtube.com/watch?v=kUw0V70-fxA
+
+eCardio Sales Video.ahk
+https://www.youtube.com/watch?v=-4fcdxcZbR0
+
+ECG Colson Cardipocket portable chez Medistore.ahk
+https://www.youtube.com/watch?v=r8qvLrv52XI
+
+ECG Mobile Core Features.ahk
+https://www.youtube.com/watch?v=FF9VFUaK07U
+
+ECG on Your iPhone   Mobile Heart Monitor (1215923).ahk
+https://www.youtube.com/watch?v=1gylutM9gKU
+
+ECG on Your iPhone   Mobile Heart Monitor.ahk
+https://www.youtube.com/watch?v=1gylutM9gKU
+
+ECG portable OMRON Heart Scan HCG 801 E Complet.ahk
+https://www.youtube.com/watch?v=ax4lwNUHPm8
+
+ECG Wireless Inspection Camera by NTE   WIC 1.ahk
+https://www.youtube.com/watch?v=UZKFaxQVob0
+
+ElectroCardioGraphy ECG data to be communicated via WiFi with a remote server (1316327).ahk
+https://www.youtube.com/watch?v=E3g2deCYnxw
+
+ElectroCardioGraphy ECG data to be communicated via WiFi with a remote server.ahk
+https://www.youtube.com/watch?v=E3g2deCYnxw
+
+Final Year Projects   Optimization of ECG Classification by Means of Feature Selection.ahk
+https://www.youtube.com/watch?v=N3aoVvS2tYE
+
+GE Wireless Patient Monitoring Technology.ahk
+https://www.youtube.com/watch?v=NuLV1ockK6Q
+
+Hand held ECG Read your Heart.ahk
+https://www.youtube.com/watch?v=obi0x1Yux_o
+
+Heart Monitoring.ahk
+https://www.youtube.com/watch?v=ElWEDqSBmCs
+
+HeartCheck Handheld ECG Training Video.ahk
+https://www.youtube.com/watch?v=mi9SbqWeqmU
+
+How to Use Midmark IQecg® For ECG Testing.ahk
+https://www.youtube.com/watch?v=gzC6Opuf9ag
+
+Introduction to Telecare (1838724).ahk
+https://www.youtube.com/watch?v=kB4HbPTRPJk
+
+Introduction to Telecare.ahk
+https://www.youtube.com/watch?v=kB4HbPTRPJk
+
+king of hearts monitor.ahk
+https://www.youtube.com/watch?v=OJJUlcBwZAE
+
+Lifeline telecare 24 hour emergency response service (1519174).ahk
+https://www.youtube.com/watch?v=l6woLba5SOU
+
+Lifeline telecare 24 hour emergency response service.ahk
+https://www.youtube.com/watch?v=l6woLba5SOU
+
+LIFENET Alert  Receiving a 12 Lead ECG.ahk
+https://www.youtube.com/watch?v=_WDunnvPTcM
+
+LivOn 'Smarter Telecare System' (1984235).ahk
+https://www.youtube.com/watch?v=9kEYp1EDN34
+
+LivOn 'Smarter Telecare System'.ahk
+https://www.youtube.com/watch?v=9kEYp1EDN34
+
+MD100 ECG Monitor.ahk
+https://www.youtube.com/watch?v=QJokTuCB8IQ
+
+ME 80   Mobile ECG device.ahk
+https://www.youtube.com/watch?v=HE_DsjVu52w
+
+Medical Monitoring Center Application.ahk
+https://www.youtube.com/watch?v=FBPas1ai4FY
+
+Mega Electronics AATOS   ECG monitoring system.ahk
+https://www.youtube.com/watch?v=iZQqV7yS1xU
+
+Mobile Arduino ECG.ahk
+https://www.youtube.com/watch?v=jarYuMrJmMg
+
+Mobile Care.ahk
+https://www.youtube.com/watch?v=MiCxfP3-ERs
+
+Mobile ECG Monitor.ahk
+https://www.youtube.com/watch?v=u5W4hrNQtFY
+
+My Portable ECG EKG Unit.ahk
+https://www.youtube.com/watch?v=p-ACsqFhhiw
+
+New Compact Portable Handheld ECG EKG Pen Monitor!.ahk
+https://www.youtube.com/watch?v=xHAN5_lHs-U
+
+Nowa metoda wielodobowego telemetrycznego pomiaru istotnych parametrów kardiologicznych.ahk
+https://www.youtube.com/watch?v=2uXRdT1x44k
+
+Online Mobile ECG Measurement and Diagnosis with Cloud Computation.ahk
+https://www.youtube.com/watch?v=ZnsuDSwf_cs
+
+PC 80B Demo 1.ahk
+https://www.youtube.com/watch?v=Dhk-PKxCg5c
+
+PC 80B ECG   md100   md100E   md100B.ahk
+https://www.youtube.com/watch?v=8TveOSVM_fw
+
+PocketECG Instruction Video.ahk
+https://www.youtube.com/watch?v=e4wd1C_FsCM
+
+PocketECG.ahk
+https://www.youtube.com/watch?v=TEt5BNHjykU
+
+Portable ECG Monitor Demonstration.ahk
+https://www.youtube.com/watch?v=zgf4Gjr8fKY
+
+Portable ECG Monitor Demonstration1.ahk
+https://www.youtube.com/watch?v=yFW-Duv1KuM
+
+Protege Telecare   Produto  Security Care.ahk
+https://www.youtube.com/watch?v=Vva-E7KLZjc
+
+Remote ekg or ecg on patients as a followup after a PTCA or other cardiac procedure.ahk
+https://www.youtube.com/watch?v=WLDvdLVu8KU
+
+Remote Health Monitoring Technology Featured on Detroit TV.ahk
+https://www.youtube.com/watch?v=LNvnH9NfNFA
+
+Remote Healthcare Monitoring  Piix by Corventis Smart BandAid.ahk
+https://www.youtube.com/watch?v=aH2Dgy8jdkY
+
+Remote Patient Monitoring System with Focus on Antenatal Care.ahk
+https://www.youtube.com/watch?v=-It0Sx-pCxE
+
+RFID Patient Monitoring System.ahk
+https://www.youtube.com/watch?v=VTgb5GFsd9c
+
+Robotic Telemedicine in Action  OffSite Care, Inc.ahk
+https://www.youtube.com/watch?v=UWU-6TDPu18
+
+Spyder ECG   Instructions for use.ahk
+https://www.youtube.com/watch?v=YgVp9mad6Ac
+
+TeleCare Info Video (1005076).ahk
+https://www.youtube.com/watch?v=vdemRNkeBkA
+
+TeleCare Info Video.ahk
+https://www.youtube.com/watch?v=vdemRNkeBkA
+
+Telemedicine  Bridging the Gap.ahk
+https://www.youtube.com/watch?v=pzyT2eADbhQ
+
+Telemedicine 2  Integrated IT for Healthcare.ahk
+https://www.youtube.com/watch?v=rh7z50Uj5YQ
+
+Telemedicine puts a doctor virtually at your bedside.ahk
+https://www.youtube.com/watch?v=u1-MFo7_n-Y
+
+Telemedicine with Bluetooth + GPRS   Dyna Vision ECG & SpO2.ahk
+https://www.youtube.com/watch?v=Dk-VfMnsgdY
+
+The HeartCheck Handheld ECG Device.ahk
+https://www.youtube.com/watch?v=89RXJM1YMg4
+
+The HeartCheck PEN handheld ECG Device.ahk
+https://www.youtube.com/watch?v=jgPTSSlVa6M
+
+Vital Jacket on EuroNews.ahk
+https://www.youtube.com/watch?v=35RXrQSo3uc
+
+WIRELESS ECG MONITOR.ahk
+https://www.youtube.com/watch?v=15grYsdVQto
+
+??????? ??????? ?? ??? ??????? ???? ???????.ahk
+https://www.youtube.com/watch?v=5uBhgvsntQ8
 Patient telemonitoring

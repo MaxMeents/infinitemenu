@@ -1,1 +1,298 @@
+
+.ahk
+
+
+Acerola.ahk
+https://en.wikipedia.org/wiki/Acerola
+
+African mango.ahk
+https://en.wikipedia.org/wiki/African_mango
+
+African mangosteen.ahk
+https://en.wikipedia.org/wiki/African_mangosteen
+
+African oil palm fruit.ahk
+https://en.wikipedia.org/wiki/Elaeis_guineensis
+
+Alaskan bunchberry.ahk
+https://en.wikipedia.org/wiki/Cornus_%C3%97_unalaschkensis
+
+Ambarella.ahk
+https://en.wikipedia.org/wiki/Ambarella
+
+American oil palm fruit.ahk
+https://en.wikipedia.org/wiki/Elaeis_oleifera
+
+American plum.ahk
+https://en.wikipedia.org/wiki/American_plum
+
+Apricot.ahk
+https://en.wikipedia.org/wiki/Apricot
+
+Açaí.ahk
+https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD
+
+Bambangan.ahk
+https://en.wikipedia.org/wiki/Mangifera_pajang
+
+Beach plum.ahk
+https://en.wikipedia.org/wiki/Beach_plum
+
+Bignay.ahk
+https://en.wikipedia.org/wiki/Antidesma_bunius
+
+Binjai.ahk
+https://en.wikipedia.org/wiki/Mangifera_caesia
+
+Black cherry.ahk
+https://en.wikipedia.org/wiki/Black_cherry
+
+Bolivian mountain coconut.ahk
+https://en.wikipedia.org/wiki/Bolivian_mountain_coconut
+
+Brush cherry.ahk
+https://en.wikipedia.org/wiki/Syzygium_australe
+
+Bush butter fruit.ahk
+https://en.wikipedia.org/wiki/Dacryodes_edulis
+
+Canadian bunchberry.ahk
+https://en.wikipedia.org/wiki/Cornus_canadensis
+
+Casimiroa.ahk
+https://en.wikipedia.org/wiki/Casimiroa_edulis
+
+Cedar Bay cherry.ahk
+https://en.wikipedia.org/wiki/Eugenia_reinwardtiana
+
+Changunga.ahk
+https://en.wikipedia.org/wiki/Byrsonima_crassifolia
+
+Cherry elaeagnus.ahk
+https://en.wikipedia.org/wiki/Cherry_elaeagnus
+
+Cherry of the Rio Grande.ahk
+https://en.wikipedia.org/wiki/Eugenia_involucrata
+
+Cherry.ahk
+https://en.wikipedia.org/wiki/Cherry
+
+Chinese date.ahk
+https://en.wikipedia.org/wiki/Ziziphus_mauritiana
+
+Choke cherry.ahk
+https://en.wikipedia.org/wiki/Choke_cherry
+
+Coconut.ahk
+https://en.wikipedia.org/wiki/Coconut
+
+Cocoplum.ahk
+https://en.wikipedia.org/wiki/Cocoplum
+
+Cornelian cherry.ahk
+https://en.wikipedia.org/wiki/Cornelian_cherry
+
+Country-almond.ahk
+https://en.wikipedia.org/wiki/Country-almond
+
+Creek plum.ahk
+https://en.wikipedia.org/wiki/Creek_plum
+
+Crowberry.ahk
+https://en.wikipedia.org/wiki/Empetrum_nigrum
+
+Curry berry.ahk
+https://en.wikipedia.org/wiki/Murraya_koenigii
+
+Damson.ahk
+https://en.wikipedia.org/wiki/Damson
+
+Date.ahk
+https://en.wikipedia.org/wiki/Phoenix_dactylifera
+
+Desert quandong.ahk
+https://en.wikipedia.org/wiki/Desert_quandong
+
+Emblic.ahk
+https://en.wikipedia.org/wiki/Emblic
+
+Emu apple.ahk
+https://en.wikipedia.org/wiki/Owenia_acidula
+
+Engkala.ahk
+https://en.wikipedia.org/w/index.php?title=Engkala&action=edit&redlink=1
+
+Fibrous satinash.ahk
+https://en.wikipedia.org/wiki/Syzygium_fibrosum
+
+Flatwoods plum.ahk
+https://en.wikipedia.org/wiki/Flatwoods_plum
+
+Gomortega.ahk
+https://en.wikipedia.org/wiki/Gomortega
+
+Green plum.ahk
+https://en.wikipedia.org/wiki/Buchanania_obovata
+
+Greengage.ahk
+https://en.wikipedia.org/wiki/Greengage
+
+Guavaberry.ahk
+https://en.wikipedia.org/wiki/Guavaberry
+
+Gubinge.ahk
+https://en.wikipedia.org/wiki/Gubinge
+
+Hairless rambutan.ahk
+https://en.wikipedia.org/wiki/Hairless_rambutan
+
+Jambolan.ahk
+https://en.wikipedia.org/wiki/Jambolan
+
+Jelly palm fruit.ahk
+https://en.wikipedia.org/wiki/Butia_capitata
+
+Jocote.ahk
+https://en.wikipedia.org/wiki/Jocote
+
+Jujube.ahk
+https://en.wikipedia.org/wiki/Jujube
+
+Kelsey plum.ahk
+https://en.wikipedia.org/w/index.php?title=Kelsey_plum_(fruit)&action=edit&redlink=1
+
+King coconut.ahk
+https://en.wikipedia.org/wiki/King_coconut
+
+Korlan.ahk
+https://en.wikipedia.org/wiki/Korlan
+
+Little gooseberry.ahk
+https://en.wikipedia.org/wiki/Buchanania_arborescens
+
+Longan.ahk
+https://en.wikipedia.org/wiki/Longan
+
+Lychee.ahk
+https://en.wikipedia.org/wiki/Lychee
+
+Malay rose apple.ahk
+https://en.wikipedia.org/wiki/Malay_rose_apple
+
+Mamey sapote.ahk
+https://en.wikipedia.org/wiki/Mamey_sapote
+
+Mango.ahk
+https://en.wikipedia.org/wiki/Mangifera_indica
+
+Maprang.ahk
+https://en.wikipedia.org/wiki/Bouea_macrophylla
+
+Marula.ahk
+https://en.wikipedia.org/wiki/Sclerocarya_birrea
+
+Miracle fruit.ahk
+https://en.wikipedia.org/wiki/Synsepalum_dulcificum
+
+Moriche palm fruit.ahk
+https://en.wikipedia.org/wiki/Mauritia_flexuosa
+
+Nectarine.ahk
+https://en.wikipedia.org/wiki/Peach#Nectarines
+
+Neem.ahk
+https://en.wikipedia.org/wiki/Neem
+
+Nepali hog plum.ahk
+https://en.wikipedia.org/wiki/Nepali_hog_plum
+
+Nutmeg.ahk
+https://en.wikipedia.org/wiki/Myristica_fragrans
+
+Otaheite gooseberry.ahk
+https://en.wikipedia.org/wiki/Otaheite_gooseberry
+
+Peach.ahk
+https://en.wikipedia.org/wiki/Peach
+
+Peanut butter fruit.ahk
+https://en.wikipedia.org/wiki/Bunchosia_glandulifera
+
+Pequi.ahk
+https://en.wikipedia.org/wiki/Pequi
+
+Pigeon plum.ahk
+https://en.wikipedia.org/wiki/Pigeon_plum
+
+Pili.ahk
+https://en.wikipedia.org/wiki/Canarium_ovatum
+
+Pitanga.ahk
+https://en.wikipedia.org/wiki/Eugenia_uniflora
+
+Plum.ahk
+https://en.wikipedia.org/wiki/Plum
+
+Pulasan.ahk
+https://en.wikipedia.org/wiki/Pulasan
+
+Rambutan.ahk
+https://en.wikipedia.org/wiki/Rambutan
+
+Red bush apple.ahk
+https://en.wikipedia.org/wiki/Red_bush_apple
+
+Riberry.ahk
+https://en.wikipedia.org/wiki/Riberry
+
+Sageretia.ahk
+https://en.wikipedia.org/wiki/Sageretia
+
+Saw palmetto fruit.ahk
+https://en.wikipedia.org/wiki/Serenoa_repens
+
+Sea coconut.ahk
+https://en.wikipedia.org/wiki/Sea_coconut
+
+Shoebutton ardisia.ahk
+https://en.wikipedia.org/wiki/Ardisia_elliptica
+
+Silver buffaloberry.ahk
+https://en.wikipedia.org/wiki/Silver_buffaloberry
+
+Sloe.ahk
+https://en.wikipedia.org/wiki/Sloe
+
+Spanish cherry.ahk
+https://en.wikipedia.org/wiki/Spanish_cherry
+
+Spanish lime.ahk
+https://en.wikipedia.org/wiki/Spanish_lime
+
+Tamarind-plum.ahk
+https://en.wikipedia.org/wiki/Dialium_indum
+
+Velvet tamarind.ahk
+https://en.wikipedia.org/wiki/Dialium_cochinchinense
+
+Watery rose apple.ahk
+https://en.wikipedia.org/wiki/Watery_rose_apple
+
+Wax apple.ahk
+https://en.wikipedia.org/wiki/Wax_apple
+
+Wild peach.ahk
+https://en.wikipedia.org/wiki/Terminalia_carpentariae
+
+Wongi.ahk
+https://en.wikipedia.org/wiki/Wongi
+
+Yangmei.ahk
+https://en.wikipedia.org/wiki/Myrica_rubra
+
+Yellow plum.ahk
+https://en.wikipedia.org/wiki/Ximenia_americana
+
+Zwetschge.ahk
+https://en.wikipedia.org/wiki/Zwetschge
 2 Drupes

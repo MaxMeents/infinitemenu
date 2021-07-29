@@ -1,7 +1,7 @@
 
 Best Inspirational Speeches
-https://maxmeents.github.io/infinitemenu/Talks/Best_Inspirational_Speeches/Best_Inspirational_Speeches.txt
+https://maxmeents.github.io/infinitemenu/All/Talks/Best_Inspirational_Speeches/Best_Inspirational_Speeches.txt
 
 Ted Talks
-https://maxmeents.github.io/infinitemenu/Talks/Ted_Talks/Ted_Talks.txt
+https://maxmeents.github.io/infinitemenu/All/Talks/Ted_Talks/Ted_Talks.txt
 Talks

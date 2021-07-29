@@ -1,1 +1,91 @@
+
+Async JS Crash Course - Callbacks, Promises, Async Await.ahk
+https://www.youtube.com/watch?v=PoRJizFvM7s
+
+Build A Filterable List With Vanilla JavaScript.ahk
+https://www.youtube.com/watch?v=G1eW3Oi6uoc
+
+Build A Speed Typing Game In JavaScript.ahk
+https://www.youtube.com/watch?v=Yw-SYSG-028
+
+Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners.ahk
+https://www.youtube.com/watch?v=wPElVpR1rwA
+
+Building a Weather App using Javascript.ahk
+https://www.youtube.com/watch?v=lpLUx-0t7aE
+
+Create Particle Effects With Particles.js.ahk
+https://www.youtube.com/watch?v=qK3cgD09Qf0
+
+Develop a Quiz App with Javascript - Object Oriented Programming.ahk
+https://www.youtube.com/watch?v=jvk1pFNqXaw
+
+Full Screen Image Slider With HTML, CSS & JS.ahk
+https://www.youtube.com/watch?v=7ZO2RTMNSAY
+
+Full Screen Responsive Image Slider  No Libraries.ahk
+https://www.youtube.com/watch?v=wWWNrANNO1k
+
+How to Build a Temperature Converter with Html, Css, and Javascript (Part 2).ahk
+https://www.youtube.com/watch?v=8mRGfLL1nzE
+
+How To Create An Image Slider In HTML, CSS & Javascript.ahk
+https://www.youtube.com/watch?v=KcdBOoK3Pfw
+
+JavaScript BookList App  No Frameworks.ahk
+https://www.youtube.com/watch?v=JaMCxVWtW58
+
+JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar.ahk
+https://www.youtube.com/watch?v=M2bJBuaOeOQ
+
+Javascript Rock Paper Scissors Game Tutorial  Web Development Tutorial.ahk
+https://www.youtube.com/watch?v=qWPtKtYEsN4
+
+JavaScript Zipcode App Using Fetch & Bulma CSS.ahk
+https://www.youtube.com/watch?v=K3GfUH7AZKs
+
+Learn JavaScript By Building A Bookmarker Application.ahk
+https://www.youtube.com/watch?v=DIVfDZZeGxM
+
+Learn Sass In 20 Minutes  Sass Crash Course.ahk
+https://www.youtube.com/watch?v=Zz6eOVaaelI
+
+Learn to Code a Digital Clock with Html, Css, and Javascript (PART 2).ahk
+https://www.youtube.com/watch?v=EOePhBhyB88
+
+Learn to code a to-do list app in JavaScript - Part 1.ahk
+https://www.youtube.com/watch?v=2wCpkOk2uCg
+
+Learn to code a to-do list app in JavaScript - Part 2.ahk
+https://www.youtube.com/watch?v=bGLZ2pwCaiI
+
+Learning Javascript - 8. Calculator Project Setup.ahk
+https://www.youtube.com/watch?v=K9VZivS7jWc
+
+Pure JavaScript Type Writer Effect.ahk
+https://www.youtube.com/watch?v=POX3dT-pB4E
+
+Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT.ahk
+https://www.youtube.com/watch?v=gXkqy0b4M5g
+
+Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript.ahk
+https://www.youtube.com/watch?v=wc5k2AMPED0
+
+Simple Weight Converter App With JavaScript & Bootstrap 4.ahk
+https://www.youtube.com/watch?v=7l-ZAuU8TXc
+
+Smooth Page Transitions With Javascript Tutorial.ahk
+https://www.youtube.com/watch?v=1dJT-99KpiI
+
+Smooth Scroll with JavaScript.ahk
+https://www.youtube.com/watch?v=hPT1SSHptWA
+
+The 10 Days of JavaScript Day 0.ahk
+https://www.youtube.com/watch?v=dc-2t26Vuhs
+
+Vanilla Javascript Smooth Scroll Tutorial.ahk
+https://www.youtube.com/watch?v=oUSvlrDTLi4
+
+Vanilla JS Number Facts App - Ajax & Fetch.ahk
+https://www.youtube.com/watch?v=tUE2Nic21BA
 JavaScript Project Tutorials

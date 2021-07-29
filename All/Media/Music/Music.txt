@@ -1,109 +1,109 @@
 
 0
-https://maxmeents.github.io/infinitemenu/Media/Music/0/0.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/0/0.txt
 
 Alais Clay
-https://maxmeents.github.io/infinitemenu/Media/Music/Alais_Clay/Alais_Clay.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Alais_Clay/Alais_Clay.txt
 
 Apokalypse
-https://maxmeents.github.io/infinitemenu/Media/Music/Apokalypse/Apokalypse.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Apokalypse/Apokalypse.txt
 
 Astarius Miraculii
-https://maxmeents.github.io/infinitemenu/Media/Music/Astarius_Miraculii/Astarius_Miraculii.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Astarius_Miraculii/Astarius_Miraculii.txt
 
 Atma
-https://maxmeents.github.io/infinitemenu/Media/Music/Atma/Atma.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Atma/Atma.txt
 
 Awesome
-https://maxmeents.github.io/infinitemenu/Media/Music/Awesome/Awesome.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Awesome/Awesome.txt
 
 Baba Brinkman
-https://maxmeents.github.io/infinitemenu/Media/Music/Baba_Brinkman/Baba_Brinkman.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Baba_Brinkman/Baba_Brinkman.txt
 
 Bazookajoe
-https://maxmeents.github.io/infinitemenu/Media/Music/Bazookajoe/Bazookajoe.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Bazookajoe/Bazookajoe.txt
 
 Bob Marley
-https://maxmeents.github.io/infinitemenu/Media/Music/Bob_Marley/Bob_Marley.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Bob_Marley/Bob_Marley.txt
 
 Boy in a Band
-https://maxmeents.github.io/infinitemenu/Media/Music/Boy_in_a_Band/Boy_in_a_Band.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Boy_in_a_Band/Boy_in_a_Band.txt
 
 Celine Dion
-https://maxmeents.github.io/infinitemenu/Media/Music/Celine_Dion/Celine_Dion.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Celine_Dion/Celine_Dion.txt
 
 Colt Truth
-https://maxmeents.github.io/infinitemenu/Media/Music/Colt_Truth/Colt_Truth.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Colt_Truth.txt
 
 Dirty Heads
-https://maxmeents.github.io/infinitemenu/Media/Music/Dirty_Heads/Dirty_Heads.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Dirty_Heads/Dirty_Heads.txt
 
 Empire of the Sun
-https://maxmeents.github.io/infinitemenu/Media/Music/Empire_of_the_Sun/Empire_of_the_Sun.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Empire_of_the_Sun/Empire_of_the_Sun.txt
 
 Enya
-https://maxmeents.github.io/infinitemenu/Media/Music/Enya/Enya.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Enya/Enya.txt
 
 Ephixa
-https://maxmeents.github.io/infinitemenu/Media/Music/Ephixa/Ephixa.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Ephixa/Ephixa.txt
 
 Illuminati Congo
-https://maxmeents.github.io/infinitemenu/Media/Music/Illuminati_Congo/Illuminati_Congo.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Illuminati_Congo/Illuminati_Congo.txt
 
 Itom Lab
-https://maxmeents.github.io/infinitemenu/Media/Music/Itom_Lab/Itom_Lab.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Itom_Lab/Itom_Lab.txt
 
 Khatum
-https://maxmeents.github.io/infinitemenu/Media/Music/Khatum/Khatum.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Khatum/Khatum.txt
 
 Kid Cudi
-https://maxmeents.github.io/infinitemenu/Media/Music/Kid_Cudi/Kid_Cudi.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Kid_Cudi/Kid_Cudi.txt
 
 Kings of Leon
-https://maxmeents.github.io/infinitemenu/Media/Music/Kings_of_Leon/Kings_of_Leon.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Kings_of_Leon/Kings_of_Leon.txt
 
 Korn
-https://maxmeents.github.io/infinitemenu/Media/Music/Korn/Korn.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Korn/Korn.txt
 
 Mac Lethal
-https://maxmeents.github.io/infinitemenu/Media/Music/Mac_Lethal/Mac_Lethal.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Mac_Lethal/Mac_Lethal.txt
 
 Music Composers
-https://maxmeents.github.io/infinitemenu/Media/Music/Music_Composers/Music_Composers.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Music_Composers.txt
 
 Natasha Bedingfield
-https://maxmeents.github.io/infinitemenu/Media/Music/Natasha_Bedingfield/Natasha_Bedingfield.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Natasha_Bedingfield/Natasha_Bedingfield.txt
 
 None Like Josh
-https://maxmeents.github.io/infinitemenu/Media/Music/None_Like_Josh/None_Like_Josh.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/None_Like_Josh/None_Like_Josh.txt
 
 Nursehella
-https://maxmeents.github.io/infinitemenu/Media/Music/Nursehella/Nursehella.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Nursehella/Nursehella.txt
 
 PTP
-https://maxmeents.github.io/infinitemenu/Media/Music/PTP/PTP.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/PTP/PTP.txt
 
 Quanta
-https://maxmeents.github.io/infinitemenu/Media/Music/Quanta/Quanta.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Quanta/Quanta.txt
 
 Skrillix
-https://maxmeents.github.io/infinitemenu/Media/Music/Skrillix/Skrillix.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Skrillix/Skrillix.txt
 
 Steve Grant
-https://maxmeents.github.io/infinitemenu/Media/Music/Steve_Grant/Steve_Grant.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Steve_Grant/Steve_Grant.txt
 
 Truthseekah
-https://maxmeents.github.io/infinitemenu/Media/Music/Truthseekah/Truthseekah.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Truthseekah/Truthseekah.txt
 
 Types of Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Types_of_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Types_of_Music.txt
 
 Watsky
-https://maxmeents.github.io/infinitemenu/Media/Music/Watsky/Watsky.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Watsky.txt
 
 Wingmakers
-https://maxmeents.github.io/infinitemenu/Media/Music/Wingmakers/Wingmakers.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Wingmakers/Wingmakers.txt
 
 Wingmakers 2
-https://maxmeents.github.io/infinitemenu/Media/Music/Wingmakers_2/Wingmakers_2.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Wingmakers_2/Wingmakers_2.txt
 Music

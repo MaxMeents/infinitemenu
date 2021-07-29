@@ -1,1 +1,25 @@
+
+HOW TO PROGRAM - Getting Started!.ahk
+https://www.youtube.com/watch?v=N775KsWQVkw
+
+How to Program in C# - Arrays (E05).ahk
+https://www.youtube.com/watch?v=YiE0oetGMAg
+
+How to Program in C# - BASICS (E01).ahk
+https://www.youtube.com/watch?v=jGD0vn-QIkg
+
+How to Program in C# - Classes (E07).ahk
+https://www.youtube.com/watch?v=WKjfCHxeEz4
+
+How to Program in C# - Conditions (E03).ahk
+https://www.youtube.com/watch?v=u_Qv5IrMUqg
+
+How to Program in C# - Loops (E04).ahk
+https://www.youtube.com/watch?v=9ozOSKCiO0I
+
+How to Program in C# - Methods (E06).ahk
+https://www.youtube.com/watch?v=bPQx0paXrbw
+
+How to Program in C# - Variables (E02).ahk
+https://www.youtube.com/watch?v=g-9Jp4dmOBo
 HOW TO PROGRAM in C#

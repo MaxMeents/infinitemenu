@@ -1,1 +1,64 @@
+
+.ahk
+
+
+2013.ahk
+https://bababrinkman.bandcamp.com/track/2013
+
+BNPBC One.ahk
+https://bababrinkman.bandcamp.com/track/bnpbc-one
+
+BNPBC Three.ahk
+https://bababrinkman.bandcamp.com/track/bnpbc-three
+
+BNPBC Two.ahk
+https://bababrinkman.bandcamp.com/track/bnpbc-two
+
+BPNBC Four.ahk
+https://bababrinkman.bandcamp.com/track/bpnbc-four
+
+Dispatches.ahk
+https://bababrinkman.bandcamp.com/track/dispatches
+
+First Cell.ahk
+https://bababrinkman.bandcamp.com/track/first-cell
+
+Fourth Cell.ahk
+https://bababrinkman.bandcamp.com/track/fourth-cell
+
+Get Naked.ahk
+https://bababrinkman.bandcamp.com/track/get-naked
+
+Judgment.ahk
+https://bababrinkman.bandcamp.com/track/judgment
+
+Louder 2.0.ahk
+https://bababrinkman.bandcamp.com/track/louder-20
+
+Mud Island.ahk
+https://bababrinkman.bandcamp.com/track/mud-island
+
+Phone Call.ahk
+https://bababrinkman.bandcamp.com/track/phone-call
+
+Second Cell.ahk
+https://bababrinkman.bandcamp.com/track/second-cell
+
+Social Contract 2.0.ahk
+https://bababrinkman.bandcamp.com/track/social-contract-20
+
+The Birth of Mud Sun.ahk
+https://bababrinkman.bandcamp.com/track/the-birth-of-mud-sun
+
+The Fallout.ahk
+https://bababrinkman.bandcamp.com/track/the-fallout
+
+The Gangsta Way.ahk
+https://bababrinkman.bandcamp.com/track/the-gangsta-way
+
+Third Cell.ahk
+https://bababrinkman.bandcamp.com/track/third-cell
+
+Welcome to Capitalism.ahk
+https://bababrinkman.bandcamp.com/track/welcome-to-capitalism
 The Rebel Cell

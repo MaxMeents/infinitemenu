@@ -1,16 +1,16 @@
 
 Autohotkey
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Autohotkey/Autohotkey.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Autohotkey/Autohotkey.txt
 
 c sharp Tutorials
-https://maxmeents.github.io/infinitemenu/Computers/Programming/c_sharp_Tutorials/c_sharp_Tutorials.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/c_sharp_Tutorials/c_sharp_Tutorials.txt
 
 Game Development
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Game_Development/Game_Development.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Game_Development/Game_Development.txt
 
 Javascript Tutorials
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Javascript_Tutorials/Javascript_Tutorials.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Javascript_Tutorials/Javascript_Tutorials.txt
 
 Regex Tutorials
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Regex_Tutorials/Regex_Tutorials.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Regex_Tutorials/Regex_Tutorials.txt
 Programming

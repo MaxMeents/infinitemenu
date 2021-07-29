@@ -1,4 +1,193 @@
 
 .ts
-https://maxmeents.github.io/infinitemenu/Media/Music/Alais_Clay/All_Songs_on_Bandcamp/.ts/.ts.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Alais_Clay/All_Songs_on_Bandcamp/.ts/.ts.txt
+
+.ahk
+
+
+Aho featuring McAD.ahk
+https://alaisclay.bandcamp.com/track/aho-featuring-mcad
+
+Alais Clay + Steve Gra.ahk
+Alais Clay + Steve Grant
+
+Alais Clay + Steve Grant Colla.ahk
+Alais Clay + Steve Grant Collabs
+
+Aunque No Me Digas Nada.ahk
+https://alaisclay.bandcamp.com/track/aunque-no-me-digas-nada
+
+Babylon Falls.ahk
+https://alaisclay.bandcamp.com/track/babylon-falls
+
+Back To Land [feat. Vandana Shiva sample}.ahk
+https://alaisclay.bandcamp.com/track/back-to-land-feat-vandana-shiva-sample
+
+Calling All Warriors.ahk
+https://alaisclay.bandcamp.com/track/calling-all-warriors
+
+Came Here To Do.ahk
+https://alaisclay.bandcamp.com/track/came-here-to-do
+
+Came Here To Say.ahk
+https://alaisclay.bandcamp.com/track/came-here-to-say
+
+Coals Into Diamonds.ahk
+https://alaisclay.bandcamp.com/track/coals-into-diamonds
+
+Cut The Ties feat. GhostRyder.ahk
+https://alaisclay.bandcamp.com/track/cut-the-ties-feat-ghostryder
+
+Cut the Ties ft. GhostRyder & Steve Grant.ahk
+https://alaisclay.bandcamp.com/track/cut-the-ties-ft-ghostryder-steve-grant
+
+Deadly Rain.ahk
+https://alaisclay.bandcamp.com/track/deadly-rain
+
+Elevated Frequenci.ahk
+Elevated Frequencies
+
+Empire.ahk
+https://alaisclay.bandcamp.com/track/empire
+
+End of an E.ahk
+End of an Era
+
+Esta Experiencia.ahk
+https://alaisclay.bandcamp.com/track/esta-experiencia
+
+Eyes Wide Open.ahk
+https://alaisclay.bandcamp.com/track/eyes-wide-open
+
+Firme En La Lucha.ahk
+https://alaisclay.bandcamp.com/track/firme-en-la-lucha
+
+Gather All Around.ahk
+https://alaisclay.bandcamp.com/track/gather-all-around
+
+Globalización feat. Zaravil.ahk
+https://alaisclay.bandcamp.com/track/globalizaci-n-feat-zaravil
+
+Heat Brewin' featuring Mike Wird.ahk
+https://alaisclay.bandcamp.com/track/heat-brewin-featuring-mike-wird
+
+Heavy Koolaid feat. Payday Monsanto.ahk
+https://alaisclay.bandcamp.com/track/heavy-koolaid-feat-payday-monsanto
+
+Hell No.ahk
+https://alaisclay.bandcamp.com/track/hell-no
+
+In The Light.ahk
+https://alaisclay.bandcamp.com/track/in-the-light
+
+Intro.ahk
+https://alaisclay.bandcamp.com/track/intro
+
+Jungle.ahk
+https://alaisclay.bandcamp.com/track/jungle
+
+Let Go of This Pain.ahk
+https://alaisclay.bandcamp.com/track/let-go-of-this-pain
+
+Log 333 featuring Steve Grant[5star Alais_Clay].ahk
+https://alaisclay.bandcamp.com/track/log-333-featuring-steve-grant
+
+Log 333[5star Alais_Clay].ahk
+https://alaisclay.bandcamp.com/track/log-333
+
+Medicine Drum featuring McAD, TOTEM.ahk
+https://alaisclay.bandcamp.com/track/medicine-drum-featuring-mcad-totem
+
+Message.ahk
+https://alaisclay.bandcamp.com/track/message
+
+Mountains We Move.ahk
+https://alaisclay.bandcamp.com/track/mountains-we-move
+
+Neva Gonna Hush Us feat. McAD.ahk
+https://alaisclay.bandcamp.com/track/neva-gonna-hush-us-feat-mcad
+
+New World Police State.ahk
+https://alaisclay.bandcamp.com/track/new-world-police-state
+
+No Lullaby.ahk
+https://alaisclay.bandcamp.com/track/no-lullaby
+
+Otherside.ahk
+https://alaisclay.bandcamp.com/track/otherside
+
+Outta My Way.ahk
+https://alaisclay.bandcamp.com/track/outta-my-way
+
+Pain R.I.P..ahk
+https://alaisclay.bandcamp.com/track/pain-r-i-p
+
+Perfect Timing.ahk
+https://alaisclay.bandcamp.com/track/perfect-timing
+
+Prayers Coming Through ft. Totem.ahk
+https://alaisclay.bandcamp.com/track/prayers-coming-through-ft-totem
+
+Rainbow Warriors.ahk
+https://alaisclay.bandcamp.com/track/rainbow-warriors
+
+Reach Out feat. Beth Preston.ahk
+https://alaisclay.bandcamp.com/track/reach-out-feat-beth-preston
+
+Ready To Protect.ahk
+https://alaisclay.bandcamp.com/track/ready-to-protect
+
+Reality Check.ahk
+https://alaisclay.bandcamp.com/track/reality-check
+
+Renegade Slave.ahk
+https://alaisclay.bandcamp.com/track/renegade-slave
+
+Resurfacing [Part .ahk
+Resurfacing [Part I]
+
+Reverse Hypnos.ahk
+Reverse Hypnosis
+
+Rise Up feat. DISL Automatic, Heidi D.ahk
+https://alaisclay.bandcamp.com/track/rise-up-feat-disl-automatic-heidi-d
+
+Shine On.ahk
+https://alaisclay.bandcamp.com/track/shine-on
+
+Ship With No Captain.ahk
+https://alaisclay.bandcamp.com/track/ship-with-no-captain
+
+Sleeping Assassin.ahk
+https://alaisclay.bandcamp.com/track/sleeping-assassin
+
+The Middlemen.ahk
+https://alaisclay.bandcamp.com/track/the-middlemen
+
+The Thing About.ahk
+https://alaisclay.bandcamp.com/track/the-thing-about
+
+Thin, Thin Line.ahk
+https://alaisclay.bandcamp.com/track/thin-thin-line
+
+Truth Of Your Power.ahk
+https://alaisclay.bandcamp.com/track/truth-of-your-power
+
+Up To You.ahk
+https://alaisclay.bandcamp.com/track/up-to-you
+
+We Will March.ahk
+https://alaisclay.bandcamp.com/track/we-will-march
+
+We Will Not Rest.ahk
+https://alaisclay.bandcamp.com/track/we-will-not-rest
+
+Whole Different Game.ahk
+https://alaisclay.bandcamp.com/track/whole-different-game
+
+With Earth As My Witness.ahk
+https://alaisclay.bandcamp.com/track/with-earth-as-my-witness
+
+You Are.ahk
+https://alaisclay.bandcamp.com/track/you-are
 All Songs on Bandcamp

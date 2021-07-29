@@ -1,127 +1,127 @@
 
 Adult Contemporary
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Adult_Contemporary/Adult_Contemporary.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Adult_Contemporary/Adult_Contemporary.txt
 
 Arab Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Arab_Pop/Arab_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Arab_Pop/Arab_Pop.txt
 
 Baroque
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Baroque/Baroque.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Baroque/Baroque.txt
 
 Britpop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Britpop/Britpop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Britpop/Britpop.txt
 
 Bubblegum Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Bubblegum_Pop/Bubblegum_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Bubblegum_Pop/Bubblegum_Pop.txt
 
 Chamber Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Chamber_Pop/Chamber_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Chamber_Pop/Chamber_Pop.txt
 
 Chanson
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Chanson/Chanson.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Chanson/Chanson.txt
 
 Christian Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Christian_Pop/Christian_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Christian_Pop/Christian_Pop.txt
 
 Classical Crossover
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Classical_Crossover/Classical_Crossover.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Classical_Crossover/Classical_Crossover.txt
 
 Dance Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Dance_Pop/Dance_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Dance_Pop/Dance_Pop.txt
 
 Dream Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Dream_Pop/Dream_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Dream_Pop/Dream_Pop.txt
 
 Electro Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Electro_Pop/Electro_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Electro_Pop/Electro_Pop.txt
 
 Europop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Europop/Europop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Europop/Europop.txt
 
 Iranian Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Iranian_Pop/Iranian_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Iranian_Pop/Iranian_Pop.txt
 
 Jangle Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Jangle_Pop/Jangle_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Jangle_Pop/Jangle_Pop.txt
 
 Latin Ballad
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Latin_Ballad/Latin_Ballad.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Latin_Ballad/Latin_Ballad.txt
 
 Levenslied
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Levenslied/Levenslied.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Levenslied/Levenslied.txt
 
 Louisiana Swamp Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Louisiana_Swamp_Pop/Louisiana_Swamp_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Louisiana_Swamp_Pop/Louisiana_Swamp_Pop.txt
 
 Mexican Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Mexican_Pop/Mexican_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Mexican_Pop/Mexican_Pop.txt
 
 Motorpop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Motorpop/Motorpop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Motorpop/Motorpop.txt
 
 New Romanticism
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/New_Romanticism/New_Romanticism.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/New_Romanticism/New_Romanticism.txt
 
 Orchestral Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Orchestral_Pop/Orchestral_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Orchestral_Pop/Orchestral_Pop.txt
 
 Pop Punk
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Pop_Punk/Pop_Punk.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Pop_Punk/Pop_Punk.txt
 
 Pop Rap
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Pop_Rap/Pop_Rap.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Pop_Rap/Pop_Rap.txt
 
 Pop-Rock
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Pop-Rock/Pop-Rock.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Pop-Rock/Pop-Rock.txt
 
 Popera
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Popera/Popera.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Popera/Popera.txt
 
 Post-Disco
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Post-Disco/Post-Disco.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Post-Disco/Post-Disco.txt
 
 Power Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Power_Pop/Power_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Power_Pop/Power_Pop.txt
 
 Progressive
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Progressive/Progressive.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Progressive/Progressive.txt
 
 Psychedelic Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Psychedelic_Pop/Psychedelic_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Psychedelic_Pop/Psychedelic_Pop.txt
 
 Schlager
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Schlager/Schlager.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Schlager/Schlager.txt
 
 Soft Rock
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Soft_Rock/Soft_Rock.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Soft_Rock/Soft_Rock.txt
 
 Sophisti-Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Sophisti-Pop/Sophisti-Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Sophisti-Pop/Sophisti-Pop.txt
 
 Space Age Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Space_Age_Pop/Space_Age_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Space_Age_Pop/Space_Age_Pop.txt
 
 Sunshine Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Sunshine_Pop/Sunshine_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Sunshine_Pop/Sunshine_Pop.txt
 
 Surf Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Surf_Pop/Surf_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Surf_Pop/Surf_Pop.txt
 
 Synthpop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Synthpop/Synthpop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Synthpop/Synthpop.txt
 
 Teen Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Teen_Pop/Teen_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Teen_Pop/Teen_Pop.txt
 
 Traditional Pop Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Traditional_Pop_Music/Traditional_Pop_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Traditional_Pop_Music/Traditional_Pop_Music.txt
 
 Turkish Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Turkish_Pop/Turkish_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Turkish_Pop/Turkish_Pop.txt
 
 Vispop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Vispop/Vispop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Vispop/Vispop.txt
 
 Wonky Pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Wonky_Pop/Wonky_Pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Wonky_Pop/Wonky_Pop.txt
 Pop

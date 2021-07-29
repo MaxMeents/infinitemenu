@@ -1,31 +1,31 @@
 
 2010
-https://maxmeents.github.io/infinitemenu/0000/2010/2010.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2010/2010.txt
 
 2011
-https://maxmeents.github.io/infinitemenu/0000/2011/2011.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2011/2011.txt
 
 2012
-https://maxmeents.github.io/infinitemenu/0000/2012/2012.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2012/2012.txt
 
 2013
-https://maxmeents.github.io/infinitemenu/0000/2013/2013.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2013/2013.txt
 
 2014
-https://maxmeents.github.io/infinitemenu/0000/2014/2014.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2014/2014.txt
 
 2015
-https://maxmeents.github.io/infinitemenu/0000/2015/2015.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2015/2015.txt
 
 2016
-https://maxmeents.github.io/infinitemenu/0000/2016/2016.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2016/2016.txt
 
 2017
-https://maxmeents.github.io/infinitemenu/0000/2017/2017.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2017/2017.txt
 
 2018
-https://maxmeents.github.io/infinitemenu/0000/2018/2018.txt
+https://maxmeents.github.io/infinitemenu/All/0000/2018/2018.txt
 
 ?2015
-https://maxmeents.github.io/infinitemenu/0000/?2015/?2015.txt
+https://maxmeents.github.io/infinitemenu/All/0000/?2015/?2015.txt
 0000

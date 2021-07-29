@@ -1,1 +1,79 @@
+
+Math 195 Lecture 0 - Class Intro.ahk
+https://www.youtube.com/watch?v=jiHQ3c086Fc
+
+Math 195 Lecture 1 - The Real Numbers, Fractions, LCD, and Interval Notation.ahk
+https://www.youtube.com/watch?v=06pF69T-WoY
+
+Math 195 Lecture 10 - Notes on graphing; Intercepts; Symmetry.ahk
+https://www.youtube.com/watch?v=i19imMIfgCc
+
+Math 195 Lecture 11 - Lines their equations, properties, and graphs.ahk
+https://www.youtube.com/watch?v=lotB8fb4P6Q
+
+Math 195 Lecture 12 - Functions their representations and evaluations.ahk
+https://www.youtube.com/watch?v=RMNDgA2J40s
+
+Math 195 Lecture 13 - Combinations and compositions of functions; the Difference Quotient.ahk
+https://www.youtube.com/watch?v=SnjT7TnD6-0
+
+Math 195 Lecture 14 - Piecewise functions; Domains; and Parabolas.ahk
+https://www.youtube.com/watch?v=WiZBkWzljr8
+
+Math 195 Lecture 15 - Transformations, Zeros, Graphing, and Inverses of Functions.ahk
+https://www.youtube.com/watch?v=xC0c1e2WqWE
+
+Math 195 Lecture 16 - Study advice; Comments on Test 1; Inverse Functions Conclusion.ahk
+https://www.youtube.com/watch?v=_WM9_BOKM5g
+
+Math 195 Lecture 17 - Goal setting; Polynomial Long Division; New Factoring Technique.ahk
+https://www.youtube.com/watch?v=3MYbggscoaI
+
+Math 195 Lecture 18 - The road to success; Intro to Exponential Functions; The Natural Exponential.ahk
+https://www.youtube.com/watch?v=b_qczuEm-Pc
+
+Math 195 Lecture 19 - Logarithms and log functions; How to know you understand; Assessing yourself.ahk
+https://www.youtube.com/watch?v=z1eLN-7fmRw
+
+Math 195 Lecture 2 - More interval notation, Absolute values, Laws of Exponents, and Radicals.ahk
+https://www.youtube.com/watch?v=arDvuRoHvDw
+
+Math 195 Lecture 20 - Exponential and Log Equations.ahk
+https://www.youtube.com/watch?v=trIjnSNp218
+
+Math 195 Lecture 21 - The Saga of Trigonometry (and conclusion of expo growthdecay).ahk
+https://www.youtube.com/watch?v=VCliZMK3HIE
+
+Math 195 Lecture 22 - Trig continued--reference angles, evaluations, and graphs.ahk
+https://www.youtube.com/watch?v=G7hZ_ShyYyQ
+
+Math 195 Lecture 23 - Trig graphs and Inverse Trig Functions.ahk
+https://www.youtube.com/watch?v=37RLrt7uubo
+
+Math 195 Lecture 24 - The Addition, Double angle, and Half angle Formulas.ahk
+https://www.youtube.com/watch?v=0R0LAOF4_yE
+
+Math 195 Lecture 25 - Trig Identities and Trig equations.ahk
+https://www.youtube.com/watch?v=b-Ez_2C2WTI
+
+Math 195 Lecture 3 - Radical expressions, Algebraic expressions, and Factoring part 1.ahk
+https://www.youtube.com/watch?v=c_uEdv2g0OU
+
+Math 195 Lecture 4 - Rant and Factoring part 2.ahk
+https://www.youtube.com/watch?v=QtQ8PZD7hA0
+
+Math 195 Lecture 5 - Factoring part 3 and Rational Expressions.ahk
+https://www.youtube.com/watch?v=pLM9DgatNjc
+
+Math 195 Lecture 6 - Equations Linear and Non-linear.ahk
+https://www.youtube.com/watch?v=M-Z29fGB8iE
+
+Math 195 Lecture 7 - Equations - Quadratics and Radicals.ahk
+https://www.youtube.com/watch?v=8UarK5lULq4
+
+Math 195 Lecture 8 - Equations; Inequalities; The coordinate plane; Distance and Midpoint formulas.ahk
+https://www.youtube.com/watch?v=1aUkw3uZjU4
+
+Math 195 Lecture 9 - Distance; Midpoint; and Circles.ahk
+https://www.youtube.com/watch?v=pUvtGvLEWco
 Math 195 - Precalculus - CCNY - Spring 2019

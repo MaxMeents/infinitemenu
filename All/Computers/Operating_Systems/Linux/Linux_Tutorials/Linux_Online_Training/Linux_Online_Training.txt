@@ -1,1 +1,184 @@
+
+Linux   Copy,Move & Rename Files.ahk
+https://www.youtube.com/watch?v=MOJWE_57nH0
+
+Linux   Creating Files.ahk
+https://www.youtube.com/watch?v=ODYVXpUlzyY
+
+Linux   Delete Files.ahk
+https://www.youtube.com/watch?v=IAR0v-nAyV0
+
+Linux   Directory Management.ahk
+https://www.youtube.com/watch?v=6efqfFSl9Gs
+
+Linux   Directory Structure.ahk
+https://www.youtube.com/watch?v=W9bC-v3DHHE
+
+Linux   Display File Content.ahk
+https://www.youtube.com/watch?v=95p2bC7FcSU
+
+Linux   Distributions.ahk
+https://www.youtube.com/watch?v=D2nTVOOxkqE
+
+Linux   Introduction.ahk
+https://www.youtube.com/watch?v=xzEd3yojcHo
+
+Linux   Standard Linux Streams.ahk
+https://www.youtube.com/watch?v=3hT0enlwW5Y
+
+Linux  - Shell function.ahk
+https://www.youtube.com/watch?v=91J4TFBtwk8
+
+Linux  - System logging.ahk
+https://www.youtube.com/watch?v=Sr4WdcWtXUE
+
+Linux  File Management.ahk
+https://www.youtube.com/watch?v=ZALT79IWtvU
+
+Linux -  GREP.ahk
+https://www.youtube.com/watch?v=tBRrIXhGYz0
+
+Linux -  Shell.ahk
+https://www.youtube.com/watch?v=1SyccjXuuaM
+
+Linux - Adding users to group.ahk
+https://www.youtube.com/watch?v=oPr5HKuQPgA
+
+Linux - Advanced user and group management.ahk
+https://www.youtube.com/watch?v=C4abbp7sY0A
+
+Linux - Arithmetic operators.ahk
+https://www.youtube.com/watch?v=Jw2pgAZPSbo
+
+Linux - Basic shell scripting.ahk
+https://www.youtube.com/watch?v=7usZ9PI4dbw
+
+Linux - Basic utilities.ahk
+https://www.youtube.com/watch?v=GoEYu8lYXh0
+
+Linux - Boolean operators.ahk
+https://www.youtube.com/watch?v=WzEiQRlFcQ4
+
+Linux - Break statement.ahk
+https://www.youtube.com/watch?v=KoLXSRx_zUw
+
+Linux - Case esac statement.ahk
+https://www.youtube.com/watch?v=9UI1vlgNRcQ
+
+Linux - Change owner or group of file.ahk
+https://www.youtube.com/watch?v=L1yquC55Y-A
+
+Linux - Continuous statement.ahk
+https://www.youtube.com/watch?v=ZkHe6VshHzM
+
+Linux - Control shell loop.ahk
+https://www.youtube.com/watch?v=3u3vtw-u_Pw
+
+Linux - File editors.ahk
+https://www.youtube.com/watch?v=v2yeTZ4bsYE
+
+Linux - File level access control lists.ahk
+https://www.youtube.com/watch?v=eZ2xEzv3BIE
+
+Linux - File Permissions.ahk
+https://www.youtube.com/watch?v=c-uA9RnK4UY
+
+Linux - File system.ahk
+https://www.youtube.com/watch?v=Vv054ScwCv4
+
+Linux - File systems.ahk
+https://www.youtube.com/watch?v=Fc01xb9iTAk
+
+Linux - File test operator.ahk
+https://www.youtube.com/watch?v=_2d2o54qwns
+
+Linux - Finding files in linux.ahk
+https://www.youtube.com/watch?v=gtx6OS0JA54
+
+Linux - I O Redirection.ahk
+https://www.youtube.com/watch?v=peNvyHQKAQw
+
+Linux - If else statement.ahk
+https://www.youtube.com/watch?v=XqMZ8GC9I8A
+
+Linux - Introduction Shell Substitution.ahk
+https://www.youtube.com/watch?v=61BXVkcq1hc
+
+Linux - Managing users password.ahk
+https://www.youtube.com/watch?v=knc62IZjrmU
+
+Linux - Manual pages.ahk
+https://www.youtube.com/watch?v=WfomltsNKwE
+
+Linux - Nano editors.ahk
+https://www.youtube.com/watch?v=zm_U8h4Ry24
+
+Linux - Pipes and filters.ahk
+https://www.youtube.com/watch?v=vPYsoiT99Xk
+
+Linux - Regular expressions.ahk
+https://www.youtube.com/watch?v=9BIq4ncw_pc
+
+Linux - Relational operators.ahk
+https://www.youtube.com/watch?v=XAzQVTQPPFo
+
+Linux - Set file permission using octal.ahk
+https://www.youtube.com/watch?v=2-9o4cnnBJw
+
+Linux - Set file permissions using symbolic.ahk
+https://www.youtube.com/watch?v=-8ZVFAl-zYg
+
+Linux - Set variables.ahk
+https://www.youtube.com/watch?v=vLWbOzpvkog
+
+Linux - Shell arrays.ahk
+https://www.youtube.com/watch?v=KMmeDzbbcn0
+
+Linux - Shell decision making.ahk
+https://www.youtube.com/watch?v=matK8nXXpG4
+
+Linux - Shell operators.ahk
+https://www.youtube.com/watch?v=ztclukfj3-I
+
+Linux - Shell quoting mechanism.ahk
+https://www.youtube.com/watch?v=MqdOrKqSx-o
+
+Linux - Special variables.ahk
+https://www.youtube.com/watch?v=EJF_nFPdYp8
+
+Linux - String operators.ahk
+https://www.youtube.com/watch?v=6s3sKkLtKNk
+
+Linux - Suid and guid permission.ahk
+https://www.youtube.com/watch?v=FqVTZRyBwts
+
+Linux - System performance (1400910).ahk
+https://www.youtube.com/watch?v=RTUC29GIu9o
+
+Linux - System performance.ahk
+https://www.youtube.com/watch?v=uw8rm7sKbuU
+
+Linux - Traps and signals.ahk
+https://www.youtube.com/watch?v=h0XanAWDJ3Q
+
+Linux - Types of linux shells.ahk
+https://www.youtube.com/watch?v=QgCA2u_QJcc
+
+Linux - Variables.ahk
+https://www.youtube.com/watch?v=pJA0pGFmyDg
+
+Linux - Vim editors.ahk
+https://www.youtube.com/watch?v=gqqdIUJgawc
+
+Tutorix Brings Simply Easy Learning (1197246).ahk
+https://www.youtube.com/watch?v=lezQQ0d1pxc
+
+Tutorix Brings Simply Easy Learning (1981670).ahk
+https://www.youtube.com/watch?v=lezQQ0d1pxc
+
+Tutorix Brings Simply Easy Learning.ahk
+https://www.youtube.com/watch?v=lezQQ0d1pxc
+
+Tutorix Simply Easy Learning Steps.ahk
+https://www.youtube.com/watch?v=1iJn6quPp50
 Linux Online Training

@@ -1,1 +1,109 @@
+
+Linux Tutorials  About the user and the terminal  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=WnjofnvIIvg
+
+Linux Tutorials  Basic Commands  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=fqILqtWcqh8
+
+Linux Tutorials  bc - The Calculator  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=_UwhS0IvwQk
+
+Linux Tutorials  cat - A versatile command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=exj5WMUJ11g
+
+Linux Tutorials  Changing Permissions  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=RWReI80utd4
+
+Linux Tutorials  cmp, diff and comm commands  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=0k6obEKGTyk
+
+Linux Tutorials  Command Substitution and Shell Aliasing  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=rTAKKboE-0M
+
+Linux Tutorials  Command Usage  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=L5_ZzpR9jaU
+
+Linux Tutorials  Commands in Linux when things go wrong  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=7zG1RAVcrKM
+
+Linux Tutorials  Compressing and Archiving Files in Linux  tar and zip commands  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=KucqplDh7LI
+
+Linux Tutorials  cp - Copying a File  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=ngx4G10XY2s
+
+Linux Tutorials  cut command  Splitting a file vertically  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=eHGCxEVlHd0
+
+Linux Tutorials  File and Directory Permissions  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=o6lbSlGI3qc
+
+Linux Tutorials  file and wc commands  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=A9411dSJYRk
+
+Linux Tutorials  find command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=oPdFGUrq-XQ
+
+Linux Tutorials  General Purpose Utilities  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=g6cPFj9ptdc
+
+Linux Tutorials  Getting Help and Escaping  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=USMVhdydb4Y
+
+Linux Tutorials  Getting Started  Introduction  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=0EDwEQoui_g
+
+Linux Tutorials  head command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=ZZACz-filWU
+
+Linux Tutorials  Linux Architecture  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=maupflAJdQ4
+
+Linux Tutorials  Linux Directory Structure  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=yWiUPWHljWg
+
+Linux Tutorials  mv-Renaming and moving files  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=gBScrrFHMT4
+
+Linux Tutorials  paste command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=ilV6dcTJzzE
+
+Linux Tutorials  Pipe and tee  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=19mmVar-s5Y
+
+Linux Tutorials  Print line between M and N lines head and tail combined  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=tMXF-YKyP0w
+
+Linux Tutorials  Redirection - The three standard files in Linux  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=SP0gDpamofY
+
+Linux Tutorials  rm - Removing a file  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=gcE5QvggzL4
+
+Linux Tutorials  sort command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=fEx5rnbDKO4
+
+Linux Tutorials  tail command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=1pD28tFgAb8
+
+Linux Tutorials  The File System  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=JwgTeXfQdIg
+
+Linux Tutorials  The ls command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=C1btVko0CVE
+
+Linux Tutorials  touch command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=tpUyBbD4LQE
+
+Linux Tutorials  tr command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=iNWdEWWYo50
+
+Linux Tutorials  uniq command  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=k2k1LaKsAWI
+
+Linux Tutorials  Wildcards and Pattern Matching  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=LH4eF75Z_7U
+
+Linux Tutorials  Working with Directories  GeeksforGeeks.ahk
+https://www.youtube.com/watch?v=JCMRlMptRus
 Linux Tutorials  GeeksforGeeks

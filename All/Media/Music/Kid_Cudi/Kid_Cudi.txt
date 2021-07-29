@@ -1,7 +1,7 @@
 
 Biggest Playlist
-https://maxmeents.github.io/infinitemenu/Media/Music/Kid_Cudi/Biggest_Playlist/Biggest_Playlist.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Kid_Cudi/Biggest_Playlist/Biggest_Playlist.txt
 
 VoY
-https://maxmeents.github.io/infinitemenu/Media/Music/Kid_Cudi/VoY/VoY.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Kid_Cudi/VoY/VoY.txt
 Kid Cudi

@@ -1,1 +1,106 @@
+
+Ads.ahk
+https://www.facebook.com/Free-Instant-Translation-Display-and-Copy-to-Clipboard-115085306936795/ad_center/?ref_source=www_comet_ads_bookmark
+
+Blood Donations.ahk
+https://www.facebook.com/blooddonations/?logger_action_context_serialized=`%7B`%22source`%22`%3A`%22bookmarks`%22`%7D
+
+Campus.ahk
+https://www.facebook.com/campus/
+
+Climate Science Information Center.ahk
+https://www.facebook.com/climatescienceinfo/?entry_point=Ym9va21hcms`%3D
+
+Community Help.ahk
+https://www.facebook.com/community_help/?page_source=facebook_bookmark
+
+COVID-19 Information Center.ahk
+https://www.facebook.com/coronavirus_info/?page_source=bookmark&hoisted_module_types`%5B0`%5D=update&hoisted_module_types`%5B1`%5D=vaccine_finder&hoisted_module_types`%5B2`%5D=vaccine_tracker&hoisted_module_types`%5B3`%5D=latest_news
+
+Emotional Health.ahk
+https://www.facebook.com/emotional_health/?source=bookmark
+
+Events.ahk
+https://www.facebook.com/events?source=46&action_history=null
+
+Facebook Pay.ahk
+https://secure.facebook.com/facebook_pay/?referrer=bookmark
+
+Favorites.ahk
+https://www.facebook.com/?sk=favorites
+
+Friends.ahk
+https://www.facebook.com/friends/
+
+Fundraisers.ahk
+https://www.facebook.com/fundraisers/
+
+Gaming Video.ahk
+https://www.facebook.com/gaming/?external_ref=games_video_bookmark
+
+Groups.ahk
+https://www.facebook.com/groups/?ref=bookmarks
+
+Jobs.ahk
+https://www.facebook.com/jobs/?source=bookmark
+
+l.ahk
+lll
+
+Lift Black Voices.ahk
+https://www.facebook.com/liftblackvoices/?entry_point=Ym9va21hcms`%3D
+
+Live Videos.ahk
+https://www.facebook.com/watch/live/?ref=live_bookmark
+
+Marketplace.ahk
+https://www.facebook.com/marketplace/?ref=bookmark
+
+Memories.ahk
+https://www.facebook.com/memories/?source=bookmark
+
+Messenger Kids.ahk
+https://www.facebook.com/messenger_kids/?referrer=bookmark
+
+Messenger.ahk
+https://www.facebook.com/messages/t/
+
+Most Recent.ahk
+https://www.facebook.com/?sk=h_chr
+
+Music To Help You Grow.ahk
+https://www.facebook.com/Music-To-Help-You-Grow-106672431094876/
+
+News.ahk
+https://www.facebook.com/news/
+
+Oculus.ahk
+https://www.facebook.com/270208243080697/
+
+Offers.ahk
+https://www.facebook.com/offers/v2/wallet
+
+Olympics.ahk
+https://www.facebook.com/hubs/olympics_hub/?entry_point=Ym9va21hcms`%3D
+
+Pages.ahk
+https://www.facebook.com/pages/?category=your_pages&ref=bookmarks
+
+Play Games.ahk
+https://www.facebook.com/gaming/play/?store_visit_source=games_bookmark
+
+Recent Ad Activity.ahk
+https://www.facebook.com/ads/activity/
+
+Saved.ahk
+https://www.facebook.com/saved/?cref=28
+
+Town Hall.ahk
+https://www.facebook.com/townhall/?ref=bookmarks
+
+Voting Information Center.ahk
+https://www.facebook.com/votinginformationcenter/?entry_point=Ym9va21hcms`%3D
+
+Weather.ahk
+https://www.facebook.com/weather/?orig_src=bookmark
 Facebook Options

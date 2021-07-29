@@ -1,10 +1,40 @@
 
 Freedom Of Speech
-https://maxmeents.github.io/infinitemenu/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Freedom_Of_Speech/Freedom_Of_Speech.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Freedom_Of_Speech/Freedom_Of_Speech.txt
 
 Mysterium -Messengers
-https://maxmeents.github.io/infinitemenu/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Mysterium_-Messengers/Mysterium_-Messengers.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Mysterium_-Messengers/Mysterium_-Messengers.txt
 
 Omega Sequence
-https://maxmeents.github.io/infinitemenu/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Omega_Sequence/Omega_Sequence.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Omega_Sequence/Omega_Sequence.txt
+
+.ahk
+
+
+DEAFCON ft Spirit Of Truth.ahk
+https://colttruth.bandcamp.com/track/deafcon-ft-spirit-of-truth
+
+Freedom Of Speech.ahk
+https://colttruth.bandcamp.com/album/freedom-of-speech
+
+Kill The Game ft. Julius Sleazer, hystEric.ahk
+https://colttruth.bandcamp.com/track/kill-the-game-ft-julius-sleazer-hysteric
+
+Magick In The Mist.ahk
+https://colttruth.bandcamp.com/track/magick-in-the-mist
+
+Messengers.ahk
+https://colttruth.bandcamp.com/album/mysterium
+
+Mind War.ahk
+https://colttruth.bandcamp.com/track/mind-war
+
+Mysteri.ahk
+Mysterium
+
+Omega Sequence.ahk
+https://colttruth.bandcamp.com/album/omega-sequence
+
+Pawns ft I.N.F.ahk
+https://colttruth.bandcamp.com/track/pawns-ft-i-n-f
 Bandcamp Albums

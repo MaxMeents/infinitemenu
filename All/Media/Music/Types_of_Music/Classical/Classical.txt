@@ -1,31 +1,31 @@
 
 Avant-Garde
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Avant-Garde/Avant-Garde.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Avant-Garde/Avant-Garde.txt
 
 Ballet
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Ballet/Ballet.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Ballet/Ballet.txt
 
 Baroque
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Baroque/Baroque.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Baroque/Baroque.txt
 
 Cantata
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Cantata/Cantata.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Cantata/Cantata.txt
 
 Chamber Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Chamber_Music/Chamber_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Chamber_Music/Chamber_Music.txt
 
 Chant
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Chant/Chant.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Chant/Chant.txt
 
 Choral
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Choral/Choral.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Choral/Choral.txt
 
 Classical Crossover
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Classical_Crossover/Classical_Crossover.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Classical_Crossover/Classical_Crossover.txt
 
 Concerto
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Concerto/Concerto.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Concerto/Concerto.txt
 
 Concerto Grosso
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Classical/Concerto_Grosso/Concerto_Grosso.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Concerto_Grosso/Concerto_Grosso.txt
 Classical

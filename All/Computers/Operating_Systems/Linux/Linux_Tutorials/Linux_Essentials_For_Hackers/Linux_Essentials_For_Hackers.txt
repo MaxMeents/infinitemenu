@@ -1,1 +1,133 @@
+
+Anonymize Your Traffic With Proxychains & Tor.ahk
+https://www.youtube.com/watch?v=NN9fQwiomAU
+
+Apache2 ModSecurity Tutorial  Apache2 WAF.ahk
+https://www.youtube.com/watch?v=MB7nQrlP5Yc
+
+Best Ways To Learn Linux.ahk
+https://www.youtube.com/watch?v=x-3TBVtM0-Y
+
+Complete tmux Tutorial.ahk
+https://www.youtube.com/watch?v=Yl7NFenTgIo
+
+Docker Security Essentials  How To Secure Docker Containers.ahk
+https://www.youtube.com/watch?v=KINjI1tlo2w
+
+How To Clear Tracks & Logs On Linux.ahk
+https://www.youtube.com/watch?v=TgquV_OA-lU
+
+How To Secure phpMyAdmin.ahk
+https://www.youtube.com/watch?v=fiWcdtfpSQA
+
+Linux Essentials Curl Fundamentals.ahk
+https://www.youtube.com/watch?v=Xy7fDxz39FM
+
+Linux Essentials For Hackers - #1 - Introduction.ahk
+https://www.youtube.com/watch?v=T0Db6dVYyoA
+
+Linux Essentials For Hackers - #10 - Shells & Bash Configuration.ahk
+https://www.youtube.com/watch?v=sNXwCWw5hio
+
+Linux Essentials For Hackers - #11 - Disk Usage.ahk
+https://www.youtube.com/watch?v=fUJBmIIsqxk
+
+Linux Essentials For Hackers - #12 - File Compression & Archiving With tar.ahk
+https://www.youtube.com/watch?v=7kNDYaurgXA
+
+Linux Essentials For Hackers - #13 - Users And Groups & Permissions With Visudo.ahk
+https://www.youtube.com/watch?v=XvyVjAvZ41c
+
+Linux Essentials For Hackers - #14 - Networking (ifconfig, netstat & netdiscover).ahk
+https://www.youtube.com/watch?v=8tgEsVdy4a8
+
+Linux Essentials For Hackers - #15 - TOR & Proxychains.ahk
+https://www.youtube.com/watch?v=tX053IqrHT0
+
+Linux Essentials For Hackers - #16 - Service And Process Management (HTOP & systemctl).ahk
+https://www.youtube.com/watch?v=BBp8iyE8Mus
+
+Linux Essentials For Hackers - #17 - SSH And SSH Security.ahk
+https://www.youtube.com/watch?v=fLv9P-8cKI8
+
+Linux Essentials For Hackers - #2 - Useful keyboard Shortcuts.ahk
+https://www.youtube.com/watch?v=44H-D1t2OCw
+
+Linux Essentials For Hackers - #3 - File Management & Manipulation.ahk
+https://www.youtube.com/watch?v=oGj5JBBQLHs
+
+Linux Essentials For Hackers - #4 - File & Directory Permissions.ahk
+https://www.youtube.com/watch?v=qIVR1OaIUpA
+
+Linux Essentials For Hackers - #5 - File & Directory Ownership.ahk
+https://www.youtube.com/watch?v=uK3HnkrhCW8
+
+Linux Essentials For Hackers - #6 - grep & piping.ahk
+https://www.youtube.com/watch?v=U9SI-wYRD1M
+
+Linux Essentials For Hackers - #7 - Finding Files With Locate.ahk
+https://www.youtube.com/watch?v=C6E0kl1U0Vc
+
+Linux Essentials For Hackers - #8 - Enumerating Distribution & Kernel Information.ahk
+https://www.youtube.com/watch?v=OIxu1TiXArQ
+
+Linux Essentials For Hackers - #9 - Find + OverTheWire Bandit Challenge.ahk
+https://www.youtube.com/watch?v=egnq3LlBpgI
+
+Linux Security - Configuring SUDO Access.ahk
+https://www.youtube.com/watch?v=FGRtNvKdtbk
+
+Linux Security - Securing Apache2.ahk
+https://www.youtube.com/watch?v=M1GpRWWRdC8
+
+Linux Security - Securing Nginx.ahk
+https://www.youtube.com/watch?v=-lrSPJTeGhQ
+
+Linux Security - SSH Security Essentials.ahk
+https://www.youtube.com/watch?v=Ryu3SDPYNb8
+
+Linux Security - UFW Complete Guide (Uncomplicated Firewall).ahk
+https://www.youtube.com/watch?v=-CzvPjZ9hp8
+
+Managing DNS With resolvconf.ahk
+https://www.youtube.com/watch?v=5vU9e7fHG0s
+
+Nginx ModSecurity Tutorial  Nginx WAF.ahk
+https://www.youtube.com/watch?v=5eRxOYbaIEI
+
+OverTheWire Bandit Walkthrough - Level 0 - 6.ahk
+https://www.youtube.com/watch?v=ff2Au8BIy_A
+
+OverTheWire Bandit Walkthrough - Level 12.ahk
+https://www.youtube.com/watch?v=n4tROT45ipU
+
+OverTheWire Bandit Walkthrough - Level 13 - 18.ahk
+https://www.youtube.com/watch?v=q1c8yiMu_24
+
+OverTheWire Bandit Walkthrough - Level 19 - 20.ahk
+https://www.youtube.com/watch?v=uFxs3wzgDGU
+
+OverTheWire Bandit Walkthrough - Level 21 - 23.ahk
+https://www.youtube.com/watch?v=5qhs7z_Z8zg
+
+OverTheWire Bandit Walkthrough - Level 24 - 26.ahk
+https://www.youtube.com/watch?v=L-NLFeKnGjg
+
+OverTheWire Bandit Walkthrough - Level 27 - 31.ahk
+https://www.youtube.com/watch?v=5odcFanlh_M
+
+OverTheWire Bandit Walkthrough - Level 32 - 33.ahk
+https://www.youtube.com/watch?v=8KFjql050gI
+
+OverTheWire Bandit Walkthrough - Level 7 - 11.ahk
+https://www.youtube.com/watch?v=V0ncN90Nc9Q
+
+SSH Brute Force Protection With Fail2Ban.ahk
+https://www.youtube.com/watch?v=Z0cDqF6HAxs
+
+Switching To ZSH.ahk
+https://www.youtube.com/watch?v=njDuayF9Q6k
+
+UFW Firewall (Uncomplicated Firewall) - Complete Tutorial.ahk
+https://www.youtube.com/watch?v=f9-iYQ25K-g
 Linux Essentials For Hackers

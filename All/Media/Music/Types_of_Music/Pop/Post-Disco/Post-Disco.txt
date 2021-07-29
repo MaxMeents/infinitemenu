@@ -1,7 +1,7 @@
 
 Boogie
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Post-Disco/Boogie/Boogie.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Post-Disco/Boogie/Boogie.txt
 
 Dance-pop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Pop/Post-Disco/Dance-pop/Dance-pop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Post-Disco/Dance-pop/Dance-pop.txt
 Post-Disco

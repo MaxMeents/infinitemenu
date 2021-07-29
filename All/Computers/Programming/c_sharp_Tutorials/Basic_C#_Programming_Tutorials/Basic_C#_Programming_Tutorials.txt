@@ -1,1 +1,61 @@
+
+Access Modifiers in C# C# Basics for Beginners in Hindii.ahk
+https://www.youtube.com/watch?v=P8XjVMe2VsM
+
+Array and List in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=HMbTIcyBM5o
+
+Classes and Objects in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=KO8oBhToN7s
+
+Constructor in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=RTvJJHajibg
+
+Control Statements in C# C# Basics for Beginners in Hindi (1845120).ahk
+https://www.youtube.com/watch?v=cjPuegdcjNI
+
+Control Statements in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=Jmoj-j2U7rU
+
+Creation of C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=ICiTW4-5TmY
+
+Datatypes Literals and Variables C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=sAIbF-zmWgo
+
+Encapsulation in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=-BEG5is3COI
+
+Getting User Input in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=CADs3wuFeRs
+
+Identifiers And Keywords in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=ctF7cdGdy68
+
+Installing Visual Studio C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=bKx3_RHoxtI
+
+Methods in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=KsDGZ6hsNAk
+
+Operators in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=ulE7qXjtgkU
+
+Polymorphism in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=CSuj7l-ebAU
+
+Recursion in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=tbtrgAsmh8Q
+
+Type Conversion in C# C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=rW1CfKzx-DQ
+
+Understanding Your First Program C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=feLlmdBW2_A
+
+What is Inheritance and Different Types of Inheritance in C#.ahk
+https://www.youtube.com/watch?v=rVHNrs8Ymjs
+
+Write Your First Program C# Basics for Beginners in Hindi.ahk
+https://www.youtube.com/watch?v=MiF9FBZF4AI
 Basic C# Programming Tutorials

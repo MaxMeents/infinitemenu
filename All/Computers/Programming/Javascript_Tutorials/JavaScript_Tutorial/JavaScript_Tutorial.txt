@@ -1,1 +1,226 @@
+
+Abstract classes in JavaScript.ahk
+https://www.youtube.com/watch?v=CdFI56hK1xk
+
+addeventlistener and removeeventlistener in JavaScript.ahk
+https://www.youtube.com/watch?v=idOv9kF4gYE
+
+Arrays in javascript.ahk
+https://www.youtube.com/watch?v=ugFlyUdO3H4
+
+Assigning event handlers in JavaScript using DOM object property.ahk
+https://www.youtube.com/watch?v=cJRq1pC4ByA
+
+Client side validation using regular expression.ahk
+https://www.youtube.com/watch?v=0Niin-szO60
+
+Closures in JavaScript.ahk
+https://www.youtube.com/watch?v=HjJQ-lvTgWg
+
+Conditional statements in javascript.ahk
+https://www.youtube.com/watch?v=TPDz_84UJGw
+
+Converting strings to numbers in JavaScript.ahk
+https://www.youtube.com/watch?v=nCF3GnTQJ4g
+
+Creating two dimensional array in javascript.ahk
+https://www.youtube.com/watch?v=2IcTWhNnRI8
+
+Debugging JavaScript in chrome.ahk
+https://www.youtube.com/watch?v=KbEx0s06VLs
+
+Different ways of defining functions in JavaScript.ahk
+https://www.youtube.com/watch?v=LI-0ilvrvYk
+
+Disadvantages of JavaScript.ahk
+https://www.youtube.com/watch?v=iMsvZNhvpkg
+
+do while loop in JavaScript.ahk
+https://www.youtube.com/watch?v=RDLhSJVMJMY
+
+Error handling in JavaScript.ahk
+https://www.youtube.com/watch?v=79RjHaAYT-4
+
+Event bubbling in JavaScript.ahk
+https://www.youtube.com/watch?v=E-LBbqgM6OU
+
+Events in JavaScript.ahk
+https://www.youtube.com/watch?v=qS6OEzulgpc
+
+For loop in JavaScript.ahk
+https://www.youtube.com/watch?v=zpk6_dXiSog
+
+Functions in JavaScript.ahk
+https://www.youtube.com/watch?v=vTz--7qeJ3g
+
+Global namespace pollution in JavaScript.ahk
+https://www.youtube.com/watch?v=Mj9kDbweZ8k
+
+How to check if cookies are enabled.ahk
+https://www.youtube.com/watch?v=b6ix-mRTpUE
+
+How to check if JavaScript is enabled.ahk
+https://www.youtube.com/watch?v=YzgKqlqQDsY
+
+How to create image slideshow using JavaScript.ahk
+https://www.youtube.com/watch?v=jAYjisNyhgc
+
+How to debug javascript in visual studio.ahk
+https://www.youtube.com/watch?v=SPmV5lLLSAA
+
+Image gallery with thumbnails in JavaScript.ahk
+https://www.youtube.com/watch?v=Dc2WHsuiXos
+
+Inheritance in JavaScript.ahk
+https://www.youtube.com/watch?v=yXlFR81tDBM
+
+Inline vs external javascript.ahk
+https://www.youtube.com/watch?v=GeOSQcmLAtw
+
+JavaScript and object oriented programming.ahk
+https://www.youtube.com/watch?v=Xyx56GE_Cew
+
+JavaScript arguments object.ahk
+https://www.youtube.com/watch?v=IHc9loT6X54
+
+JavaScript array filter method.ahk
+https://www.youtube.com/watch?v=q_MXH_Ponpg
+
+JavaScript array mutators.ahk
+https://www.youtube.com/watch?v=hmSWb8B8Pk4
+
+JavaScript array push and pop methods.ahk
+https://www.youtube.com/watch?v=a4ZatfhxfnQ
+
+JavaScript Basics.ahk
+https://www.youtube.com/watch?v=M_YqpKMnSP8
+
+JavaScript closure example.ahk
+https://www.youtube.com/watch?v=w1s9PgtEoJs
+
+JavaScript cookie attributes.ahk
+https://www.youtube.com/watch?v=dw7Dyf0GgdI
+
+JavaScript Cookies.ahk
+https://www.youtube.com/watch?v=VqzSex_2tDc
+
+JavaScript event capturing.ahk
+https://www.youtube.com/watch?v=AKCxbZIOjvA
+
+JavaScript event object.ahk
+https://www.youtube.com/watch?v=C9Ad3420Kmw
+
+JavaScript Minification.ahk
+https://www.youtube.com/watch?v=7128a9SoV0M
+
+JavaScript mouse events.ahk
+https://www.youtube.com/watch?v=8Puo5LNlilQ
+
+JavaScript popup window.ahk
+https://www.youtube.com/watch?v=DYJQ9Rng8Xc
+
+JavaScript RegExp object.ahk
+https://www.youtube.com/watch?v=JKxLjxBI1mI
+
+JavaScript strings and regular expressions.ahk
+https://www.youtube.com/watch?v=aoCbTuFlWKE
+
+JavaScript substring example.ahk
+https://www.youtube.com/watch?v=RZgqH4v7o1I
+
+JavaScript timing events.ahk
+https://www.youtube.com/watch?v=JyjFGflTf_E
+
+JavaScript to detect which mouse button is clicked.ahk
+https://www.youtube.com/watch?v=PP4LlQNfr7o
+
+JavaScript window onerror event.ahk
+https://www.youtube.com/watch?v=jioE32ij9FM
+
+Local and global variables in javascript.ahk
+https://www.youtube.com/watch?v=g4FG9lwIfEw
+
+Loops in JavaScript.ahk
+https://www.youtube.com/watch?v=B6ArKUjrYlo
+
+Namespaces in JavaScript.ahk
+https://www.youtube.com/watch?v=9p-uDkWqqKU
+
+Object literal vs object constructor.ahk
+https://www.youtube.com/watch?v=O3JSPhwKowA
+
+Object reflection in JavaScript.ahk
+https://www.youtube.com/watch?v=P2AEAJwuQWw
+
+Overriding JavaScript functions.ahk
+https://www.youtube.com/watch?v=sxvcFR9plWE
+
+Polymorphism in JavaScript.ahk
+https://www.youtube.com/watch?v=zdovG9cuEBA
+
+Preventing browser default action.ahk
+https://www.youtube.com/watch?v=n-FMxoBVz2k
+
+Private members in JavaScript.ahk
+https://www.youtube.com/watch?v=HpxfKy_Dvo4
+
+Properties in JavaScript.ahk
+https://www.youtube.com/watch?v=gdjfsDlkH7A
+
+Prototype in JavaScript.ahk
+https://www.youtube.com/watch?v=2rkEbcptR64
+
+Recursive function in JavaScript.ahk
+https://www.youtube.com/watch?v=uyjsR9eNTIw
+
+Set and get multiple cookies in JavaScript.ahk
+https://www.youtube.com/watch?v=6x_kdgX-Faw
+
+Static members in JavaScript.ahk
+https://www.youtube.com/watch?v=33r9mqhXTA8
+
+Store multiple key value pairs in a cookie.ahk
+https://www.youtube.com/watch?v=P4Zlc6pdHgM
+
+Strict Mode in JavaScript.ahk
+https://www.youtube.com/watch?v=tCZttmAdvzI
+
+Strings in JavaScript.ahk
+https://www.youtube.com/watch?v=hoa2VhyHX4w
+
+Substrings in JavaScript.ahk
+https://www.youtube.com/watch?v=urdASI-p2SY
+
+Switch statement in JavaScript.ahk
+https://www.youtube.com/watch?v=FY8xT1kBaBU
+
+Ternary operator in JavaScript.ahk
+https://www.youtube.com/watch?v=kDcOIyd7xzw
+
+Tools for learning JavaScript.ahk
+https://www.youtube.com/watch?v=X4hGyeOX7tg
+
+Tools for writing regular expressions.ahk
+https://www.youtube.com/watch?v=y4e9CYqtjMI
+
+Update and delete cookies.ahk
+https://www.youtube.com/watch?v=aOjv2tAhhTw
+
+Using regular expressions in JavaScript.ahk
+https://www.youtube.com/watch?v=VazmW8JfwJE
+
+What is the use of JavaScript in ASP NET.ahk
+https://www.youtube.com/watch?v=PMsVM7rjupU
+
+Where should the script tag be placed in html.ahk
+https://www.youtube.com/watch?v=uUQ4HRAJzsg
+
+Why do we need both client side and server side validation.ahk
+https://www.youtube.com/watch?v=ZPWxEg5qAhw
+
+window location in JavaScript.ahk
+https://www.youtube.com/watch?v=EdAe8_6F95E
+
+Working with dates in javascript.ahk
+https://www.youtube.com/watch?v=M3VEFVBRw-o
 JavaScript Tutorial

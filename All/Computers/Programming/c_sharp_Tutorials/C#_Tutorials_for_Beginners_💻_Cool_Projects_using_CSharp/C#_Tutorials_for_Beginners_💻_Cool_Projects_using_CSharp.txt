@@ -1,1 +1,31 @@
+
+Build a Currency Converter using C# & SQL Server  UI Design Tutorial (UI Design) ?? [Part 2].ahk
+https://www.youtube.com/watch?v=daxJbbmf5uc
+
+Build a Currency Converter using C# & WPF  User Interface Design Tutorial (UI Design) ?? [Part 1].ahk
+https://www.youtube.com/watch?v=shx4C49T5ig
+
+C# prime numbers program - Simple step by step guide (1102107).ahk
+https://www.youtube.com/watch?v=UiqQXn_2pKI
+
+C# prime numbers program - Simple step by step guide.ahk
+https://www.youtube.com/watch?v=UiqQXn_2pKI
+
+C# Tutorial for Beginners  Learn the Basics of C# programming ??? Csharp Tutorial for Beginners.ahk
+https://www.youtube.com/watch?v=UKaZ2S4AJAA
+
+Create a Pixel Color Bot in C# Visual Studio  Csharp Tutorial for Beginners.ahk
+https://www.youtube.com/watch?v=S6vOkbi0n2g
+
+Create an Object-Oriented Program (OOP) in C#.NET  C#.NET Tutorial for Beginners  C# Tutorial.ahk
+https://www.youtube.com/watch?v=ldCzPsQMyQY
+
+Create Helix Jump - Unity Game Tutorial.ahk
+https://www.youtube.com/watch?v=fP8LSNArapg
+
+Top Course - Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core.ahk
+https://www.youtube.com/watch?v=DqD-NJf7-OM
+
+?5 C# Project Ideas to Build Today (beginners & intermediate developers).ahk
+https://www.youtube.com/watch?v=EmcHLlypVF8
 C# Tutorials for Beginners ?? Cool Projects using CSharp

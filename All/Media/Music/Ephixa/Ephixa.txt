@@ -1,4 +1,19 @@
 
 VoY
-https://maxmeents.github.io/infinitemenu/Media/Music/Ephixa/VoY/VoY.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Ephixa/VoY/VoY.txt
+
+.ahk
+
+
+Dragon Roost Island Dubstep - Ephixa [Zeldastep].ahk
+https://soundcloud.com/ephixa/dragon-roost-island-dubstep?in=nfnneo/sets/ephixa
+
+Ephixa - Song Of Storms Dubstep Remix.ahk
+https://soundcloud.com/faab88/ephixa-song-of-storms-dubstep?in=nfnneo/sets/ephixa
+
+Gerudo Valley Dubstep - Ephixa [Zeldastep].ahk
+https://soundcloud.com/ephixa/gerudo-valley-dubstep-ephixa?in=nfnneo/sets/ephixa
+
+Lost Woods Dubstep - Ephixa.ahk
+https://soundcloud.com/ephixa/lost-woods-dubstep?in=nfnneo/sets/ephixa
 Ephixa

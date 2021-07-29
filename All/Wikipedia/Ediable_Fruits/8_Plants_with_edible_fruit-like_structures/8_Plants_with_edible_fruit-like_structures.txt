@@ -1,1 +1,37 @@
+
+.ahk
+
+
+Juniper berry.ahk
+https://en.wikipedia.org/wiki/Juniper_berry
+
+Kahikatea.ahk
+https://en.wikipedia.org/wiki/Kahikatea
+
+Manoao.ahk
+https://en.wikipedia.org/wiki/Manoao
+
+Nageia.ahk
+https://en.wikipedia.org/wiki/Nageia
+
+Plum pine fruit.ahk
+https://en.wikipedia.org/wiki/Podocarpus_elatus
+
+Podocarpus.ahk
+https://en.wikipedia.org/wiki/Podocarpus
+
+Prumnopitys.ahk
+https://en.wikipedia.org/wiki/Prumnopitys
+
+Raisin tree fruit.ahk
+https://en.wikipedia.org/wiki/Hovenia_dulcis
+
+Rhubarb.ahk
+https://en.wikipedia.org/wiki/Rhubarb
+
+Rimu.ahk
+https://en.wikipedia.org/wiki/Rimu
+
+Totara.ahk
+https://en.wikipedia.org/wiki/Totara
 8 Plants with edible fruit-like structures

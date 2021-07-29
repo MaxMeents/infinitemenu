@@ -1,10 +1,10 @@
 
 Movies
-https://maxmeents.github.io/infinitemenu/Media/Movies/Movies.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Movies/Movies.txt
 
 Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Music.txt
 
 Tv-Shows
-https://maxmeents.github.io/infinitemenu/Media/Tv-Shows/Tv-Shows.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Tv-Shows/Tv-Shows.txt
 Media

@@ -1,1 +1,73 @@
+
+.ahk
+
+
+Beowulf.ahk
+https://bababrinkman.bandcamp.com/track/beowulf-2
+
+Epilogue.ahk
+https://bababrinkman.bandcamp.com/track/epilogue
+
+General Prologue.ahk
+https://bababrinkman.bandcamp.com/track/general-prologue
+
+Gilgamesh.ahk
+https://bababrinkman.bandcamp.com/track/gilgamesh-2
+
+Interlude A.ahk
+https://bababrinkman.bandcamp.com/track/interlude-a
+
+Interlude B.ahk
+https://bababrinkman.bandcamp.com/track/interlude-b
+
+Merchant.ahk
+https://bababrinkman.bandcamp.com/track/merchant
+
+Nun's Priest.ahk
+https://bababrinkman.bandcamp.com/track/nuns-priest
+
+Pardoner.ahk
+https://bababrinkman.bandcamp.com/track/pardoner
+
+Prologue.ahk
+https://bababrinkman.bandcamp.com/track/prologue
+
+Retraction.ahk
+https://bababrinkman.bandcamp.com/track/retraction
+
+Rhyme Renaissance Prologue.ahk
+https://bababrinkman.bandcamp.com/track/rhyme-renaissance-prologue
+
+The Knight's Tale Scene 1.ahk
+https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-1
+
+The Knight's Tale Scene 2.ahk
+https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-2
+
+The Knight's Tale Scene 3.ahk
+https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-3
+
+The Miller's Prologue.ahk
+https://bababrinkman.bandcamp.com/track/the-millers-prologue
+
+The Miller's Tale.ahk
+https://bababrinkman.bandcamp.com/track/the-millers-tale
+
+The Pardoner's Prologue.ahk
+https://bababrinkman.bandcamp.com/track/the-pardoners-prologue
+
+The Pardoner's Tale.ahk
+https://bababrinkman.bandcamp.com/track/the-pardoners-tale
+
+The Rhyme Renaissance.ahk
+https://bababrinkman.bandcamp.com/track/the-rhyme-renaissance
+
+The Wife of Bath's Prologue.ahk
+https://bababrinkman.bandcamp.com/track/the-wife-of-baths-prologue
+
+The Wife of Bath's Tale.ahk
+https://bababrinkman.bandcamp.com/track/the-wife-of-baths-tale
+
+Wife of Bath.ahk
+https://bababrinkman.bandcamp.com/track/wife-of-bath
 The Canterbury Tales Remixed

@@ -1,1 +1,361 @@
+
+1 Introduction To C#  What Is C#  C# Tutorial For Beginners  C Sharp Tutorial  Learn C# Easily.ahk
+https://www.youtube.com/watch?v=HB1aPYPPJ24
+
+10 Conditional Statements In C#  If, Else if, Else  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=IzzNzSXkCMM
+
+11 Get User Input In C#  Preparing You For Project  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=fZioOGu6DlI
+
+12 Let's Do Our First C# Project  C# Calculator  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=RrolBBpoF4k
+
+13 Going Over Our First C# Project  C# Calculator  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=kqb2BO7BJ34
+
+14 Structs And Enums In C#  How To Use An Enum  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=Zx-szQqeBXU
+
+15 Iteration Statements in C#  Loops in C#  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=fhW5pekSBaU
+
+16 Multidimensional Arrays in C#  Arrays in C#  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=i6n_fwLTKIc
+
+17 DateTime in C#  Creating Dates and Times in C#  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=KKzSQ6r93dY
+
+18 String Class Methods in C#  String Methods  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=-G-yY_EQcL0
+
+19 StringBuilder Class Methods in C#  C# Tutorial For Beginners  C Sharp Tutorial  mmtuts.ahk
+https://www.youtube.com/watch?v=WzXhcgHvSHE
+
+2 Installing Visual Studio  Setup Our First Project  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=nbbIesdfCSI
+
+3 How To Create Variables In C#  Data Types In C#  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=_D-HCF3jZKk
+
+4 Help Yourself When Writing C#  VS Object Browser  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=0YtB5kgR0z8
+
+5 Different Operators In C#  C# Logical Operators  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=SvD3m4apJZ4
+
+6 How To Create Classes And Objects In C#  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=t2SPg6IuT3k
+
+7 How To Create Namespaces In C#  C# Directories  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=cp19RhiHHok
+
+8 How To Create Static Methods In C#  Static Method  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=jzf2LJEcJd0
+
+9 How To Create Arrays In C#  C# Array Tutorial  C# Tutorial For Beginners  C Sharp Tutorial.ahk
+https://www.youtube.com/watch?v=BDfO1ryG6Rc
+
+C# Programming All-in-One Tutorial Series (6 HOURS!).ahk
+https://www.youtube.com/watch?v=qOruiBrXlAw
+
+C# Programming Tutorial 1 - Intro.ahk
+https://www.youtube.com/watch?v=4vQJMyk2DPU
+
+C# Programming Tutorial 10 - Value Types and Reference Types.ahk
+https://www.youtube.com/watch?v=zzpgdn-_xWM
+
+C# Programming Tutorial 100 - Conclusion.ahk
+https://www.youtube.com/watch?v=NX6hPkfYxys
+
+C# Programming Tutorial 11 - Built in Types and .NET Type Aliases.ahk
+https://www.youtube.com/watch?v=JvCyfx0ilIk
+
+C# Programming Tutorial 12 - Signed and Unsigned Integral Data Types.ahk
+https://www.youtube.com/watch?v=sCEOCBV9BhU
+
+C# Programming Tutorial 13 - Float, Double, Decimal.ahk
+https://www.youtube.com/watch?v=59-TM6qqhks
+
+C# Programming Tutorial 14 - Math Class.ahk
+https://www.youtube.com/watch?v=IgUVvi-yQDc
+
+C# Programming Tutorial 15 - Char Data Type and ASCII Unicode.ahk
+https://www.youtube.com/watch?v=PgaO7AmUxLg
+
+C# Programming Tutorial 16 - String Data Type.ahk
+https://www.youtube.com/watch?v=Eo7pE4g4Y1M
+
+C# Programming Tutorial 17 - String Properties and Methods.ahk
+https://www.youtube.com/watch?v=fVT2jzXobM4
+
+C# Programming Tutorial 18 - String Escape Sequences.ahk
+https://www.youtube.com/watch?v=vstp8cf9V1U
+
+C# Programming Tutorial 19 - Creating Basic Classes, Methods, and Properties.ahk
+https://www.youtube.com/watch?v=L-NIkOMlocg
+
+C# Programming Tutorial 2 - Hello World and dotnet CLI.ahk
+https://www.youtube.com/watch?v=eXtW87Wi3Bw
+
+C# Programming Tutorial 20 - if, else if, else.ahk
+https://www.youtube.com/watch?v=O1RjrorSCio
+
+C# Programming Tutorial 21 - Logical and Comparison Operators.ahk
+https://www.youtube.com/watch?v=R9jONIV2ezs
+
+C# Programming Tutorial 22 - switch Statement.ahk
+https://www.youtube.com/watch?v=y0HNk96vVLw
+
+C# Programming Tutorial 23 - Ternary Operator.ahk
+https://www.youtube.com/watch?v=JhSbHfM6J24
+
+C# Programming Tutorial 24 - Single Line if Statement.ahk
+https://www.youtube.com/watch?v=gH1sHVUuifA
+
+C# Programming Tutorial 25 - while Loops.ahk
+https://www.youtube.com/watch?v=FHYdbd3Wk0c
+
+C# Programming Tutorial 26 - do while Loops.ahk
+https://www.youtube.com/watch?v=zMQ3jCb_ph4
+
+C# Programming Tutorial 27 - for Loops.ahk
+https://www.youtube.com/watch?v=GMai3e2dd1E
+
+C# Programming Tutorial 28 - Nested Control Flow.ahk
+https://www.youtube.com/watch?v=dPe77YtzRc4
+
+C# Programming Tutorial 29 - Nested for Loops (Triangles and Pyramids).ahk
+https://www.youtube.com/watch?v=HUyLBV-DQ4U
+
+C# Programming Tutorial 3 - Application Architecture.ahk
+https://www.youtube.com/watch?v=l9yOMPx3QSE
+
+C# Programming Tutorial 30 - Nested while Loops (Triangles and Pyramids).ahk
+https://www.youtube.com/watch?v=P6dzUszo6yw
+
+C# Programming Tutorial 31 - Variable Scope with Nested Control Flow.ahk
+https://www.youtube.com/watch?v=ydb79KtKnGA
+
+C# Programming Tutorial 32 - break.ahk
+https://www.youtube.com/watch?v=uMXAPGNrdMs
+
+C# Programming Tutorial 33 - continue.ahk
+https://www.youtube.com/watch?v=d69r2ZTXtkk
+
+C# Programming Tutorial 34 - Intro To Arrays.ahk
+https://www.youtube.com/watch?v=JBlKahPiW10
+
+C# Programming Tutorial 35 - Working with Arrays.ahk
+https://www.youtube.com/watch?v=tbEmyvCW41k
+
+C# Programming Tutorial 36 - FIll Array from User Input with for.ahk
+https://www.youtube.com/watch?v=1ZO-McTuxtw
+
+C# Programming Tutorial 37 - Searching an Array.ahk
+https://www.youtube.com/watch?v=Z6aYqhxqSLc
+
+C# Programming Tutorial 38 - Array Sort.ahk
+https://www.youtube.com/watch?v=BToo6zcAdow
+
+C# Programming Tutorial 39 - Array Methods, Array Reverse, Array Exists, Comparing Arrays.ahk
+https://www.youtube.com/watch?v=Yklvwmgts6w
+
+C# Programming Tutorial 4 - Methods, Static Methods, Instance Methods.ahk
+https://www.youtube.com/watch?v=6G2NbfadwRA
+
+C# Programming Tutorial 40 - Multidimensional Arrays And Jagged Arrays.ahk
+https://www.youtube.com/watch?v=G3UlEaH1ULc
+
+C# Programming Tutorial 41 - Creating 2D Arrays and Jagged Arrays.ahk
+https://www.youtube.com/watch?v=WjAfLNZAlAY
+
+C# Programming Tutorial 42 - Iterate 2D and Jagged Array.ahk
+https://www.youtube.com/watch?v=DG75QLJAty0
+
+C# Programming Tutorial 43 - Lists.ahk
+https://www.youtube.com/watch?v=bmaiTQTQ3Ek
+
+C# Programming Tutorial 44 - Working with Generic Lists.ahk
+https://www.youtube.com/watch?v=HDN2tm6YR0g
+
+C# Programming Tutorial 45 - List Methods (Add, Insert, Remove, Clear).ahk
+https://www.youtube.com/watch?v=YnV9MZW9jsc
+
+C# Programming Tutorial 46 - Methods to Search a List (Contains IndexOf, LastIndexOf).ahk
+https://www.youtube.com/watch?v=jB_HaLhdp0Y
+
+C# Programming Tutorial 47 - Comparing Lists for Same Values (SequenceEqual Method).ahk
+https://www.youtube.com/watch?v=w_M9wYXAPLI
+
+C# Programming Tutorial 48 - Iterate Through List with for Loop.ahk
+https://www.youtube.com/watch?v=2IVLatn1ON0
+
+C# Programming Tutorial 49 - foreach Loop Explained.ahk
+https://www.youtube.com/watch?v=pzAPtop45VE
+
+C# Programming Tutorial 5 - Command Line Arguments with dotnet CLI.ahk
+https://www.youtube.com/watch?v=Enocgj5T6y0
+
+C# Programming Tutorial 50 - More on foreach (IEnumerable, other Collection).ahk
+https://www.youtube.com/watch?v=v76SlWoXjdE
+
+C# Programming Tutorial 51 - Nested foreach Loops.ahk
+https://www.youtube.com/watch?v=brEsfZnxhBQ
+
+C# Programming Tutorial 52 - Convert Between List and Array.ahk
+https://www.youtube.com/watch?v=cew-uPiEZeo
+
+C# Programming Tutorial 53 - Methods to Sort and Reverse List.ahk
+https://www.youtube.com/watch?v=55w_i_-5vB8
+
+C# Programming Tutorial 54 - Intro to Object Oriented Programming (OOP).ahk
+https://www.youtube.com/watch?v=Czce9kE-mAU
+
+C# Programming Tutorial 55 - Class vs Object.ahk
+https://www.youtube.com/watch?v=BpXJwzvYv8Y
+
+C# Programming Tutorial 56 - Fields.ahk
+https://www.youtube.com/watch?v=_EB1f0-aVv0
+
+C# Programming Tutorial 57 - Auto Implemented Properties.ahk
+https://www.youtube.com/watch?v=tQgDN-u-K18
+
+C# Programming Tutorial 58 - Public vs Private.ahk
+https://www.youtube.com/watch?v=Vvdw60mWpaA
+
+C# Programming Tutorial 59 - Methods.ahk
+https://www.youtube.com/watch?v=ByJyqgJ4bf0
+
+C# Programming Tutorial 6 - User Input to Make Dynamic Apps.ahk
+https://www.youtube.com/watch?v=K4RZKJ50fEw
+
+C# Programming Tutorial 60 - Creating a Class and Instantiating an Object.ahk
+https://www.youtube.com/watch?v=pWIFhrgWAuI
+
+C# Programming Tutorial 61 - Creating Fields.ahk
+https://www.youtube.com/watch?v=h8nvR2YbzBc
+
+C# Programming Tutorial 62 - Creating Properties.ahk
+https://www.youtube.com/watch?v=y-MBp2y9t1U
+
+C# Programming Tutorial 63 - Creating a void Output Method.ahk
+https://www.youtube.com/watch?v=xgLKJFdQ1zU
+
+C# Programming Tutorial 64 - Parameters and Arguments.ahk
+https://www.youtube.com/watch?v=YGrwHbG_A9U
+
+C# Programming Tutorial 65 - Return Statements.ahk
+https://www.youtube.com/watch?v=PhCjs0HqZGo
+
+C# Programming Tutorial 66 - Encapsulation.ahk
+https://www.youtube.com/watch?v=EgfRA_PG25M
+
+C# Programming Tutorial 67 - Creating a Getter.ahk
+https://www.youtube.com/watch?v=Wm7qBywSbkU
+
+C# Programming Tutorial 68 - Creating a Setter.ahk
+https://www.youtube.com/watch?v=jTY6ZJFZGZk
+
+C# Programming Tutorial 69 - Creating a Custom Getter and Setter.ahk
+https://www.youtube.com/watch?v=BiEk2H1SAuQ
+
+C# Programming Tutorial 7 - Variables and Expressions.ahk
+https://www.youtube.com/watch?v=0-I4nyY8ROw
+
+C# Programming Tutorial 70 - List of Custom Class.ahk
+https://www.youtube.com/watch?v=S5i7QZfHfe8
+
+C# Programming Tutorial 71 - Creating Custom Type in Loop and Adding to List.ahk
+https://www.youtube.com/watch?v=FFA1Pt8rAEs
+
+C# Programming Tutorial 72 - Taking Custom Types as Arguments.ahk
+https://www.youtube.com/watch?v=xWgJ_qRQXbs
+
+C# Programming Tutorial 73 - Intro to Static Methods.ahk
+https://www.youtube.com/watch?v=BEaJ3PzQ2XM
+
+C# Programming Tutorial 74 - Creating a Static Method.ahk
+https://www.youtube.com/watch?v=sGvosEfEu0E
+
+C# Programming Tutorial 75 - Static Method (Method to Take an ArrayList of Custom Type).ahk
+https://www.youtube.com/watch?v=gEdLZGzUCXQ
+
+C# Programming Tutorial 76 - Intro to Method Overloading and Default Parameters.ahk
+https://www.youtube.com/watch?v=spguwZ0ReLo
+
+C# Programming Tutorial 77 - Optional Parameters.ahk
+https://www.youtube.com/watch?v=0lZsYo1eorA
+
+C# Programming Tutorial 78 - Searching a List for Custom Object.ahk
+https://www.youtube.com/watch?v=h4AWlnmiuEM
+
+C# Programming Tutorial 79 - Method Overriding.ahk
+https://www.youtube.com/watch?v=kAewZ2EroRk
+
+C# Programming Tutorial 8 - Variable Initialization and Declaration.ahk
+https://www.youtube.com/watch?v=cx4ljSamPhU
+
+C# Programming Tutorial 80 - Override ToString.ahk
+https://www.youtube.com/watch?v=0RYHqsn9ST0
+
+C# Programming Tutorial 81 - Override Equals.ahk
+https://www.youtube.com/watch?v=XryJY4_O5UY
+
+C# Programming Tutorial 82 - Creating a Method Overload.ahk
+https://www.youtube.com/watch?v=s8yYgqVh6FI
+
+C# Programming Tutorial 83 - Override GetHashCode.ahk
+https://www.youtube.com/watch?v=fc3xfw-UL0c
+
+C# Programming Tutorial 84 - Returning Custom Objects.ahk
+https://www.youtube.com/watch?v=mL731J4SWYI
+
+C# Programming Tutorial 85 - Reference vs Value Types.ahk
+https://www.youtube.com/watch?v=x6a9NsZTsTw
+
+C# Programming Tutorial 86 - Intro to Inheritance.ahk
+https://www.youtube.com/watch?v=P69Tb8dsTTM
+
+C# Programming Tutorial 87 - Creating an Inheritance Hierarchy.ahk
+https://www.youtube.com/watch?v=5at72tb5uY8
+
+C# Programming Tutorial 88 - Virtual Methods.ahk
+https://www.youtube.com/watch?v=OjbElnuLRt0
+
+C# Programming Tutorial 89 - Inherit and Override Methods.ahk
+https://www.youtube.com/watch?v=Ywi63z7YLJM
+
+C# Programming Tutorial 9 - Simple Data Types.ahk
+https://www.youtube.com/watch?v=ro-L6jKnmwY
+
+C# Programming Tutorial 90 - Abstract Classes.ahk
+https://www.youtube.com/watch?v=aULYXKkr9G4
+
+C# Programming Tutorial 91 - Abstract Methods.ahk
+https://www.youtube.com/watch?v=IFAvkt_MaDE
+
+C# Programming Tutorial 92 - Intro to Polymorphism.ahk
+https://www.youtube.com/watch?v=HWkSNEcmG6M
+
+C# Programming Tutorial 93 - Polymorphism.ahk
+https://www.youtube.com/watch?v=-MrxMf4b_a4
+
+C# Programming Tutorial 94 - Intro to Constructors.ahk
+https://www.youtube.com/watch?v=ES-bbEb92PQ
+
+C# Programming Tutorial 95 - Default Constructor.ahk
+https://www.youtube.com/watch?v=lQxirAr-iWw
+
+C# Programming Tutorial 96 - Custom Constructors.ahk
+https://www.youtube.com/watch?v=FWnMjuIrTq4
+
+C# Programming Tutorial 97 - Constructors to Assign to Read Only Properties.ahk
+https://www.youtube.com/watch?v=IY0kXsMz3w4
+
+C# Programming Tutorial 98 - Intro to Interfaces.ahk
+https://www.youtube.com/watch?v=29Vfzp95_Uo
+
+C# Programming Tutorial 99 - Create an Interface.ahk
+https://www.youtube.com/watch?v=V53XD92Ag9s
 C# Tutorials

@@ -1,1 +1,16 @@
+
+Darktable.ahk
+https://opensource.com/life/16/4/how-use-darktable-digital-darkroom
+
+GNU Image Manipulation Program (GIMP).ahk
+http://www.gimp.org/
+
+Krita.ahk
+http://krita.org/
+
+Pinta.ahk
+https://pinta-project.com/pintaproject/pinta/
+
+Shotwell.ahk
+https://wiki.gnome.org/Apps/Shotwell
 Free Alternatives To Photoshop

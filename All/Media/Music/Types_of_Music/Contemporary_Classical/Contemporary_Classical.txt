@@ -1,58 +1,58 @@
 
 Early Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Early_Music/Early_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Early_Music/Early_Music.txt
 
 Expressionist
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Expressionist/Expressionist.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Expressionist/Expressionist.txt
 
 High Classical
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/High_Classical/High_Classical.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/High_Classical/High_Classical.txt
 
 Impressionist
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Impressionist/Impressionist.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Impressionist/Impressionist.txt
 
 Mass Requiem
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Mass_Requiem/Mass_Requiem.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Mass_Requiem/Mass_Requiem.txt
 
 Medieval
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Medieval/Medieval.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Medieval/Medieval.txt
 
 Minimalism
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Minimalism/Minimalism.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Minimalism/Minimalism.txt
 
 Modern Classical
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Modern_Classical/Modern_Classical.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Modern_Classical/Modern_Classical.txt
 
 Modern Composition
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Modern_Composition/Modern_Composition.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Modern_Composition/Modern_Composition.txt
 
 Opera
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Opera/Opera.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Opera/Opera.txt
 
 Oratorio
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Oratorio/Oratorio.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Oratorio/Oratorio.txt
 
 Orchestral
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Orchestral/Orchestral.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Orchestral/Orchestral.txt
 
 Organum
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Organum/Organum.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Organum/Organum.txt
 
 Renaissance
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Renaissance/Renaissance.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Renaissance/Renaissance.txt
 
 Romantic
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Romantic/Romantic.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Romantic/Romantic.txt
 
 Sonata
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Sonata/Sonata.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Sonata/Sonata.txt
 
 Symphonic
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Symphonic/Symphonic.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Symphonic/Symphonic.txt
 
 Symphony
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Symphony/Symphony.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Symphony/Symphony.txt
 
 Wedding Music
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Contemporary_Classical/Wedding_Music/Wedding_Music.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Wedding_Music/Wedding_Music.txt
 Contemporary Classical

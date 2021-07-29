@@ -1,10 +1,10 @@
 
 Bubblegum Dance
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Eurodance/Bubblegum_Dance/Bubblegum_Dance.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Eurodance/Bubblegum_Dance/Bubblegum_Dance.txt
 
 Italo Dance
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Eurodance/Italo_Dance/Italo_Dance.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Eurodance/Italo_Dance/Italo_Dance.txt
 
 Turbofolk
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Eurodance/Turbofolk/Turbofolk.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Eurodance/Turbofolk/Turbofolk.txt
 Eurodance

@@ -1,1 +1,70 @@
+
+14 Cool Apps Built on OpenAI's GPT-3 API.ahk
+https://www.youtube.com/watch?v=G6Z_S6hs29s
+
+GPT 3 Demo and Explanation - An AI revolution from OpenAI.ahk
+https://www.youtube.com/watch?v=8psgEDhT1MM
+
+GPT-3 - explained in layman terms..ahk
+https://www.youtube.com/watch?v=SboKeK6FFHQ
+
+GPT-3 bottleneck is training data  François Chollet and Lex Fridman.ahk
+https://www.youtube.com/watch?v=UyPMS3Gvdko
+
+GPT-3 Demo New AI Algorithm Changes How We Interact With Technology.ahk
+https://www.youtube.com/watch?v=8V20HkoiNtc
+
+GPT-3 is only the beginning of AGI.ahk
+https://www.youtube.com/watch?v=8e1Wle14laE
+
+GPT-3 is over-hyped  George Hotz and Lex Fridman.ahk
+https://www.youtube.com/watch?v=8BcqU9VF8zI
+
+GPT-3 Predicts the 2020 Presidential Election Results.ahk
+https://www.youtube.com/watch?v=t3mep3VZm7o
+
+GPT-3 predicts the zombie apocalypse  Grant Sanderson and Lex Fridman.ahk
+https://www.youtube.com/watch?v=hZzQmS0mRK0
+
+GPT-3 vs Human Brain.ahk
+https://www.youtube.com/watch?v=kpiY_LemaTc
+
+GPT-3 WROTE THIS.ahk
+https://www.youtube.com/watch?v=2eplfCWLNj4
+
+GPT-3 Your New Lifelong Companion.ahk
+https://www.youtube.com/watch?v=TqsuhWNesso
+
+GPT3 An Even Bigger Language Model - Computerphile.ahk
+https://www.youtube.com/watch?v=_8yVOC4ciXc
+
+Hacking with OpenAI GPT-3  Hacking Without Humans.ahk
+https://www.youtube.com/watch?v=n7WOn8seVIk
+
+I got access to GPT-3 from OpenAI.ahk
+https://www.youtube.com/watch?v=5sz8QFfI6RA
+
+OpenAI GPT-3 - Good At Almost Everything! ??.ahk
+https://www.youtube.com/watch?v=_x9AwxfjxvE
+
+OpenAI GPT-3 Beginners Tutorial.ahk
+https://www.youtube.com/watch?v=9g66yO0Jues
+
+Real, Live GPT-3 Apps You Can Use.ahk
+https://www.youtube.com/watch?v=zQLuqOogQnU
+
+this text generation AI is INSANE (GPT-3).ahk
+https://www.youtube.com/watch?v=lQnLwUfwgyA
+
+What GPT-3 Means for Developers.ahk
+https://www.youtube.com/watch?v=Yg3C38P5EkA
+
+What It's Like To be a Computer An Interview with GPT-3.ahk
+https://www.youtube.com/watch?v=PqbB07n_uQ4
+
+What It's Like To be an AI An Interview with GPT-3.ahk
+https://www.youtube.com/watch?v=bb4rZrTniOo
+
+Why GPT-3 changes everything (and how it works).ahk
+https://www.youtube.com/watch?v=rLE0b8_OQMk
 2021 GPT-3

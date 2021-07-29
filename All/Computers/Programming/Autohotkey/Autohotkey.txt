@@ -1,13 +1,13 @@
 
 Autohotkey Tutorials
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Autohotkey/Autohotkey_Tutorials/Autohotkey_Tutorials.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Autohotkey/Autohotkey_Tutorials/Autohotkey_Tutorials.txt
 
 List of Commands
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Autohotkey/List_of_Commands/List_of_Commands.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Autohotkey/List_of_Commands/List_of_Commands.txt
 
 Various Playlists
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Autohotkey/Various_Playlists/Various_Playlists.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Autohotkey/Various_Playlists/Various_Playlists.txt
 
 Ways to get Help
-https://maxmeents.github.io/infinitemenu/Computers/Programming/Autohotkey/Ways_to_get_Help/Ways_to_get_Help.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Autohotkey/Ways_to_get_Help/Ways_to_get_Help.txt
 Autohotkey

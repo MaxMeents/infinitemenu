@@ -1,1 +1,46 @@
+
+1. How to program in C# - BASICS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=pSiIHe2uZ2w
+
+10. How to program in C# - CLASSES - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=s2hHjpZaSyI
+
+11. How to program in C# - INHERITANCE - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=EiBCF7rYRtI
+
+12. How to program in C# - ENUMS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=ETy3x4XeK9E
+
+13. How to program in C# - PROPERTIES - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=gvQziNULkdY
+
+14. How to program in C# - INTERFACES - Tutorial.ahk
+https://www.youtube.com/watch?v=IQpss9YAc4g
+
+15. How to program in C# - GENERICS - Tutorial.ahk
+https://www.youtube.com/watch?v=ZrjCG0Fu5Ew
+
+2. How to program in C# - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=nA2pSmBmvKg
+
+3. How to program in C# - VARIABLES - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=udoMi4mGYYw
+
+4. How to program in C# - IF STATEMENTS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=OXTK7cnphYY
+
+5. How to program in C# - SWITCH STATEMENTS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=Qs-LAYkp9YU
+
+6. How to program in C# - FOR LOOPS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=eIsGXwisKPE
+
+7. How to program in C# - WHILE LOOPS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=SPE_HXHwJSU
+
+8. How to program in C# - METHODS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=QwygwfqOHsI
+
+9. How to program in C# - ARRAYS - Beginner Tutorial.ahk
+https://www.youtube.com/watch?v=RQ0JHMGiobo
 How to program in C# - Beginner Course

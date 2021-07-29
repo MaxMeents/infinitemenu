@@ -1,1 +1,31 @@
+
+[AMVGuide] Speed Tutorial (All Steps Condensed).ahk
+https://www.youtube.com/watch?v=GljyaApznIA
+
+[AMVGuide] Tutorial 1010 - Converting to Editing-Friendly Footage using VirtualDub.ahk
+https://www.youtube.com/watch?v=wJoZu00G7TQ
+
+[AMVGuide] Tutorial 210 - File Extensions.ahk
+https://www.youtube.com/watch?v=IxKK_sUa7Lo
+
+[AMVGuide] Tutorial 310 - Programs & Tools.ahk
+https://www.youtube.com/watch?v=i-NI9_kQwMY
+
+[AMVGuide] Tutorial 410 - Getting .wav Audio using Audacity.ahk
+https://www.youtube.com/watch?v=NLzLrQnHFSg
+
+[AMVGuide] Tutorial 510 - Audio Editing.ahk
+https://www.youtube.com/watch?v=_2YOJnKGTqo
+
+[AMVGuide] Tutorial 610 - Installing AviSynth, AVSPluginPack, & AvsPmod.ahk
+https://www.youtube.com/watch?v=AaWTFn5artQ
+
+[AMVGuide] Tutorial 710 - Making Scripts with AvsPmod.ahk
+https://www.youtube.com/watch?v=xWGdJDYz1R0
+
+[AMVGuide] Tutorial 810 - Preparing Your Footage with AviSynth (Overview).ahk
+https://www.youtube.com/watch?v=NAYGEI60imc
+
+[AMVGuide] Tutorial 910 - Installing VirtualDub & UTvideo.ahk
+https://www.youtube.com/watch?v=cBmot20YY-g
 [AMVGuide] Anime Music Video Tutorials

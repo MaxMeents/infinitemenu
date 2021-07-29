@@ -1,40 +1,40 @@
 
 Alternative Dance
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Alternative_Dance/Alternative_Dance.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Alternative_Dance/Alternative_Dance.txt
 
 Dance-Punk
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dance-Punk/Dance-Punk.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dance-Punk/Dance-Punk.txt
 
 Dance-Rock
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dance-Rock/Dance-Rock.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dance-Rock/Dance-Rock.txt
 
 Dark Wave
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dark_Wave/Dark_Wave.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Dark_Wave/Dark_Wave.txt
 
 Electroclash
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electroclash/Electroclash.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electroclash/Electroclash.txt
 
 Electronicore
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electronicore/Electronicore.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electronicore/Electronicore.txt
 
 Electropunk
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electropunk/Electropunk.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Electropunk/Electropunk.txt
 
 Ethereal Wave
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Ethereal_Wave/Ethereal_Wave.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Ethereal_Wave/Ethereal_Wave.txt
 
 Indietronica
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Indietronica/Indietronica.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Indietronica/Indietronica.txt
 
 New Rave
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/New_Rave/New_Rave.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/New_Rave/New_Rave.txt
 
 Space Rock
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Space_Rock/Space_Rock.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Space_Rock/Space_Rock.txt
 
 Synthpop
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Synthpop/Synthpop.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Synthpop/Synthpop.txt
 
 Synthpunk
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Synthpunk/Synthpunk.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic_Rock/Synthpunk/Synthpunk.txt
 Electronic Rock

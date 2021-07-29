@@ -1,1 +1,25 @@
+
+[regex_00] Introduction to regular expressions (regex) in Python.ahk
+https://www.youtube.com/watch?v=7_Y_Tkb4JHQ
+
+[regex_01] Learn about four regex special characters .  $ ^.ahk
+https://www.youtube.com/watch?v=eEHqksB6zQQ
+
+[regex_02] re.compile pattern.ahk
+https://www.youtube.com/watch?v=2GcweU-x8DQ
+
+[regex_03] capturing digits and words with d and w.ahk
+https://www.youtube.com/watch?v=XSOcBs5Lbow
+
+[regex_04] python regular expression tutorial - [sets] and {repeats}.ahk
+https://www.youtube.com/watch?v=vxUWStT8RSc
+
+[regex_05] python regular expression tutorial - special characters s, S, W, D.ahk
+https://www.youtube.com/watch?v=RZX2tUOX8M0
+
+[regex_06] python regular expression tutorial - findall and groups.ahk
+https://www.youtube.com/watch?v=pqfG12zjaDE
+
+[regex_07] python regular expression tutorial - reusing patterns through variables.ahk
+https://www.youtube.com/watch?v=8xxWoN6a5c4
 Regular Expression Tutorials

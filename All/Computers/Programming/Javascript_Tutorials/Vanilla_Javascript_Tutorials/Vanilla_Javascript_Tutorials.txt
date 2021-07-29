@@ -1,1 +1,40 @@
+
+Awesome 3D ANIMATION Javascript Tutorial!.ahk
+https://www.youtube.com/watch?v=XK7T3mY1V-w
+
+Beginner Vanilla Javascript Project Tutorial.ahk
+https://www.youtube.com/watch?v=Ttf3CEsEwMQ
+
+Build A Meditation App With Javascript HTML & CSS!.ahk
+https://www.youtube.com/watch?v=oMBXdZzYqEk
+
+Build A Music App With Javascript Tutorial.ahk
+https://www.youtube.com/watch?v=2VJlzeEVL8A
+
+Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners.ahk
+https://www.youtube.com/watch?v=wPElVpR1rwA
+
+Create a 2.5D Parallax Effect In Javascript Tutorial  Javascript Tutorial.ahk
+https://www.youtube.com/watch?v=BfEQ1qgYsts
+
+How to create a CSS Preloader Animation With Javascript Tutorial  Javascript Preloader Tutorial.ahk
+https://www.youtube.com/watch?v=NZNhuzyeD-Y
+
+How To Create An Image Slider In HTML, CSS & Javascript.ahk
+https://www.youtube.com/watch?v=KcdBOoK3Pfw
+
+Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT.ahk
+https://www.youtube.com/watch?v=gXkqy0b4M5g
+
+Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript.ahk
+https://www.youtube.com/watch?v=wc5k2AMPED0
+
+Typewriting effect with Javascript Tutorial.ahk
+https://www.youtube.com/watch?v=PuOGBacTYAY
+
+Vanilla Javascript Smooth Scroll Tutorial.ahk
+https://www.youtube.com/watch?v=oUSvlrDTLi4
+
+Visual effect in vanilla javascript tutorial.ahk
+https://www.youtube.com/watch?v=C_JKlr4WKKs
 Vanilla Javascript Tutorials

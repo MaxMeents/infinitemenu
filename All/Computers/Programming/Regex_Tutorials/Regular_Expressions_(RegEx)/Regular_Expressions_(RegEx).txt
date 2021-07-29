@@ -1,1 +1,181 @@
+
+01 - Regular Expressions ( [] {} ()   ).ahk
+https://www.youtube.com/watch?v=JWPpmx5MXzw
+
+03 - Regular Expressions ( ^ $ escape ).ahk
+https://www.youtube.com/watch?v=Knm5r0QwGC0
+
+2.1 Introduction to Regular Expressions - Programming with Text.ahk
+https://www.youtube.com/watch?v=7DG3kCDx53c
+
+44. Unicode Characters and Regular Expressions.ahk
+https://www.youtube.com/watch?v=7J_8yLraqGo
+
+A quick introduction to using regular expressions in Google spreadsheets.ahk
+https://www.youtube.com/watch?v=l-oW5nzWCsc
+
+Advanced Search and Replace With RegEx.ahk
+https://www.youtube.com/watch?v=0F2sSUyrpKM
+
+App Script Editor Tutorial - Google Sheets - Excel VBA Equivalent - Read & Write to Ranges & Cells.ahk
+https://www.youtube.com/watch?v=aPJ-2U45BpA
+
+Basics#21. RegEx #1. Extract Phone Number.ahk
+https://www.youtube.com/watch?v=NNg0INgVjKY
+
+Best of Fluent 2012 Reg(exp){2}lained Demystifying Regular Expressions.ahk
+https://www.youtube.com/watch?v=EkluES9Rvak
+
+Checking User Input For Numbers - VBA.ahk
+https://www.youtube.com/watch?v=HfXyOID7esg
+
+Conditional Text Formula Regexmatch.ahk
+https://www.youtube.com/watch?v=dd-4RL0wZzg
+
+Dueling Excel - Extract Numbers - RegEx - Duel 164.ahk
+https://www.youtube.com/watch?v=t7sVNyMXIXs
+
+Easy Excel Dashboard with Power Query no VBA or Formulas.ahk
+https://www.youtube.com/watch?v=YrpGyjDu2Bo
+
+Excel VBA RegEx Lesson 21b   Your First Regular Expression Pattern   First Two Char is a.ahk
+https://www.youtube.com/watch?v=sEIqXOzDWLA
+
+Excel VBA RegEx Lesson 22   Your first Grouping with Regular Expression.ahk
+https://www.youtube.com/watch?v=Xz0Y3SHyyLU
+
+Extract Number from Text String using Excel VBA.ahk
+https://www.youtube.com/watch?v=ozDbXT9xKjo
+
+Extract Numbers using Excel VBA.ahk
+https://www.youtube.com/watch?v=U1rD9gajClk
+
+Extract Text Between Two Characters in Excel.ahk
+https://www.youtube.com/watch?v=Yf-aqzuuQzE
+
+Find all 3 letter words in MS Word document using VBA and regular expressions.ahk
+https://www.youtube.com/watch?v=oHWMxkMjyaY
+
+Find and Replace In Excel With VBA.ahk
+https://www.youtube.com/watch?v=oMoDk7IOoPU
+
+Google Sheets - RegEx REGEXEXTRACT, Functions Exctract, Replace, Match Tutorial - Part 1.ahk
+https://www.youtube.com/watch?v=w5B43VsJqOs
+
+Google Sheets - RegEx REGEXMATCH Function & Email Data Validation Tutorial - Part 4.ahk
+https://www.youtube.com/watch?v=Q_gtj9F5DnA
+
+Google Sheets - RegEx REGEXREPLACE, Functions Exctract, Replace, Match Tutorial - Part 3.ahk
+https://www.youtube.com/watch?v=p5H_xXoGuSs
+
+H?c Regular Expression trong VBA 01  Cách s? d?ng Regular Expression trong VBA.ahk
+https://www.youtube.com/watch?v=uqJYaT8SGxs
+
+Increase TextBox Date Using Up and Down Arrow Keys - Excel VBA.ahk
+https://www.youtube.com/watch?v=VAnWYTfPGhk
+
+Matching Full Words  REGEX DEMYSTIFIED.ahk
+https://www.youtube.com/watch?v=enfkyPr10dc
+
+Presidente Vizcarra entrega obras de abastecimiento de agua potable a ciudadanos de Valle Amauta 3.ahk
+https://www.youtube.com/watch?v=ebuXk910C_c
+
+Rechercher et remplacer une chaine de caractère avec les expressions régulières - REGEX.ahk
+https://www.youtube.com/watch?v=1G6_qSj5e9Q
+
+RegEx Basics, Regular Expressions for Beginners.ahk
+https://www.youtube.com/watch?v=HyQ3Uf7gvuc
+
+Regex Builder - Build Regular Expressions With Ease.ahk
+https://www.youtube.com/watch?v=msjOAwc28Ew
+
+Regex for Dummies 4.ahk
+https://www.youtube.com/watch?v=oaoOxI0eBis
+
+Regex Howto  Dominate Your Code with Regular Expressions.ahk
+https://www.youtube.com/watch?v=EppQdkv4G2w
+
+RegEx Lesson 35   Extract Zip Code from Malaysia Address.ahk
+https://www.youtube.com/watch?v=XWwuylCWbmg
+
+Regex Match AutoSuggest Provider....ahk
+https://www.youtube.com/watch?v=Y1ACk9v2ayM
+
+Regex Match Until String.  Or Match Until More Regex.ahk
+https://www.youtube.com/watch?v=Exxo8gXRhWA
+
+Regex search and replace in Studio.ahk
+https://www.youtube.com/watch?v=igjRQkbajZY
+
+Regex Tips - Excel and Google Analytics.ahk
+https://www.youtube.com/watch?v=KFXKxB2O2P4
+
+REGEX Tutorial Regular Expressions.ahk
+https://www.youtube.com/watch?v=DRR9fOXkfRE
+
+Regular Expression Basics.ahk
+https://www.youtube.com/watch?v=KJG1dETacLI
+
+Regular Expressions  in VBScript -  Building Patterns.ahk
+https://www.youtube.com/watch?v=q6y_ufBYcK4
+
+Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text.ahk
+https://www.youtube.com/watch?v=sa-TUpSx1JA
+
+Regular Expressions - 2 - Building Blocks.ahk
+https://www.youtube.com/watch?v=zxEkxi9MM38
+
+Regular Expressions - Episode 1 - Introduction.ahk
+https://www.youtube.com/watch?v=c-Ov1JUMDv4
+
+Regular Expressions - Episode 2 - Operators.ahk
+https://www.youtube.com/watch?v=G7_HnivvnyE
+
+Regular Expressions for Dummies.ahk
+https://www.youtube.com/watch?v=lAmwLbtjuHY
+
+Regular Expressions in Excel  Function to extract ZipPin code from address.ahk
+https://www.youtube.com/watch?v=AZaDI_QnOf8
+
+Regular Expressions in vbscript.ahk
+https://www.youtube.com/watch?v=pOC5xfVBLQM
+
+Regular Expressions Introduction  REGEX DEMYSTIFIED.ahk
+https://www.youtube.com/watch?v=0LKdKixl5Ug
+
+Regular Expressions Matching postal codes  lynda.com.ahk
+https://www.youtube.com/watch?v=SXJxI_gKOfw
+
+RGSS3 Scripting Tutorials ~ Tutorial 52 - Getting Multiple Regex Matches.ahk
+https://www.youtube.com/watch?v=CmnNmm365rs
+
+UDF7 Split Up - Convert a String into an array (excel VBA) [advanced].ahk
+https://www.youtube.com/watch?v=DPXADhKzoX4
+
+UDF8 RegExGet - return matches of regular expressions in excel (excel VBA).ahk
+https://www.youtube.com/watch?v=xrt2HzjElLc
+
+UFT 12.01  QTP  Regex Part 2.ahk
+https://www.youtube.com/watch?v=qD5TijHMiVU
+
+UFT 12.01  QTP  Regex Part 4.ahk
+https://www.youtube.com/watch?v=tVKGqGRIxlg
+
+VB.NET Regex Match Function.ahk
+https://www.youtube.com/watch?v=3j2nB3qObeo
+
+VB.NET Tutorial 54 - Regex (Part 1) (Visual Basic 20082010).ahk
+https://www.youtube.com/watch?v=FpAvBOhDrYk
+
+VBA -  HOW TO Remove Special Characters From String.ahk
+https://www.youtube.com/watch?v=AQXjJlqGBno
+
+VBA to find nth Occurence of a Text in Excel - Advanced Excel VBA example.ahk
+https://www.youtube.com/watch?v=SbKRmHwjQKM
+
+VBScript Basics, Part 72  RegExp ( Submatches ).ahk
+https://www.youtube.com/watch?v=3NPvAmq1e4E
+
+VBScript using REGEX to search for keywords in text.ahk
+https://www.youtube.com/watch?v=cK5imhxSu0k
 Regular Expressions (RegEx)

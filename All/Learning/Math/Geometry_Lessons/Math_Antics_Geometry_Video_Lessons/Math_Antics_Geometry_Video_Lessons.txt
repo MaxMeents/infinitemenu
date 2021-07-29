@@ -1,1 +1,37 @@
+
+Math Antics - Angle Basics.ahk
+https://www.youtube.com/watch?v=DGKwdHMiqCg
+
+Math Antics - Angles & Degrees.ahk
+https://www.youtube.com/watch?v=_n3KZR1DSEo
+
+Math Antics - Area.ahk
+https://www.youtube.com/watch?v=xCdxURXMdFY
+
+Math Antics - Circles, Circumference And Area.ahk
+https://www.youtube.com/watch?v=O-cawByg2aA
+
+Math Antics - Circles, What Is PI.ahk
+https://www.youtube.com/watch?v=cC0fZ_lkFpQ
+
+Math Antics - Perimeter.ahk
+https://www.youtube.com/watch?v=AAY1bsazcgM
+
+Math Antics - Points, Lines, & Planes.ahk
+https://www.youtube.com/watch?v=k5etrWdIY6o
+
+Math Antics - Polygons.ahk
+https://www.youtube.com/watch?v=IaoZhhx_I9s
+
+Math Antics - Quadrilaterals.ahk
+https://www.youtube.com/watch?v=yiREqzDsMP8
+
+Math Antics - The Pythagorean Theorem.ahk
+https://www.youtube.com/watch?v=WqhlG3Vakw8
+
+Math Antics - Triangles.ahk
+https://www.youtube.com/watch?v=mLeNaZcy-hE
+
+Math Antics - Volume.ahk
+https://www.youtube.com/watch?v=qJwecTgce6c
 Math Antics Geometry Video Lessons

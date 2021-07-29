@@ -1,28 +1,28 @@
 
 2-Tone
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/2-Tone/2-Tone.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/2-Tone/2-Tone.txt
 
 Dancehall
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Dancehall/Dancehall.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Dancehall/Dancehall.txt
 
 Dub
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Dub/Dub.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Dub/Dub.txt
 
 Lovers Rock
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Lovers_Rock/Lovers_Rock.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Lovers_Rock/Lovers_Rock.txt
 
 Raggamuffin
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Raggamuffin/Raggamuffin.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Raggamuffin/Raggamuffin.txt
 
 Reggae en Español
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Reggae_en_Español/Reggae_en_Español.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Reggae_en_Español/Reggae_en_Español.txt
 
 Reggae Fusion
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Reggae_Fusion/Reggae_Fusion.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Reggae_Fusion/Reggae_Fusion.txt
 
 Roots Reggae
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Roots_Reggae/Roots_Reggae.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Roots_Reggae/Roots_Reggae.txt
 
 Ska
-https://maxmeents.github.io/infinitemenu/Media/Music/Types_of_Music/Reggae/Ska/Ska.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Ska/Ska.txt
 Reggae

@@ -1,1 +1,499 @@
+
+1. C# For Beginners Introduction.ahk
+https://www.youtube.com/watch?v=fpc86RF7mVI
+
+10. (C# Basics Beginner Tutorial) Scope and Statements.ahk
+https://www.youtube.com/watch?v=nVfQkRYPMAU
+
+11. (C# Basics Beginner Tutorial) Variables.ahk
+https://www.youtube.com/watch?v=96vtXG0HFrU
+
+12. (C# Basics Beginner Tutorial) Creating and Using Variables.ahk
+https://www.youtube.com/watch?v=nGfcpTiEpz0
+
+13. (C# Basics Beginner Tutorial) Numeric Types.ahk
+https://www.youtube.com/watch?v=t_2fYL8731Q
+
+14. (C# Basics Beginner Tutorial) Using Numeric Types.ahk
+https://www.youtube.com/watch?v=cTTdpvxjRkI
+
+15. (C# Basics Beginner Tutorial) Suffixes.ahk
+https://www.youtube.com/watch?v=Ulydjj1ZITY
+
+16. (C# Basics Beginner Tutorial) Basic Arithmetic Operators.ahk
+https://www.youtube.com/watch?v=N9l0LEtQe-I
+
+17. (C# Basics Beginner Tutorial) Explicit Conversions.ahk
+https://www.youtube.com/watch?v=efFEvfpLAhI
+
+18. (C# Basics Beginner Tutorial) Increment and Decrement Operators.ahk
+https://www.youtube.com/watch?v=UxCUcZmcXlg
+
+19. (C# Basics Beginner Tutorial) Strings.ahk
+https://www.youtube.com/watch?v=WrMcer2uIrE
+
+2. C# For Beginners  Section Outline - Installing and Using Visual Studio.ahk
+https://www.youtube.com/watch?v=B1CO-3E6r9Q
+
+20. (C# Basics Beginner Tutorial) Using Strings.ahk
+https://www.youtube.com/watch?v=3mkljgGm3vs
+
+21. (C# Basics Beginner Tutorial) Arrays.ahk
+https://www.youtube.com/watch?v=NFO2bDZlYgs
+
+22. (C# Basics Beginner Tutorial) Using Array Variables.ahk
+https://www.youtube.com/watch?v=BbN-KdTxnQI
+
+23. (C# Basics Beginner Tutorial) Debugging Code.ahk
+https://www.youtube.com/watch?v=2h0GZ7i5MQQ
+
+24. (C# Basics Beginner Tutorial) Debugging Code Demo.ahk
+https://www.youtube.com/watch?v=jW97otBCCAY
+
+25. (C# Basics Beginner Tutorial) Section Outline - Control Flow.ahk
+https://www.youtube.com/watch?v=Bx_B77zzN3A
+
+26. (C# Basics Beginner Tutorial) Relational Operators.ahk
+https://www.youtube.com/watch?v=SEFM9ZoI8_s
+
+27. (C# Basics Beginner Tutorial) Using Relational Operators.ahk
+https://www.youtube.com/watch?v=uyG5WTc9X2E
+
+28. (C# Basics Beginner Tutorial) Logical Operators.ahk
+https://www.youtube.com/watch?v=lFo4fUDYqO0
+
+29. (C# Basics Beginner Tutorial) Using Logical Operators.ahk
+https://www.youtube.com/watch?v=nkGZy884GFc
+
+3. C# For Beginners Downloading And Installing Visual Studio 2015.ahk
+https://www.youtube.com/watch?v=5P_q6Q01vdU
+
+30. (C# Basics Beginner Tutorial) If Else Statement.ahk
+https://www.youtube.com/watch?v=BzGE3kcqjCY
+
+31. (C# Basics Beginner Tutorial) Else If Statement.ahk
+https://www.youtube.com/watch?v=3-mdmerf8rs
+
+32. (C# Basics Beginner Tutorial) Switch Case Statement.ahk
+https://www.youtube.com/watch?v=svNoCxjN7-w
+
+33. (C# Basics Beginner Tutorial) While Loop.ahk
+https://www.youtube.com/watch?v=lfNRUfbmxyk
+
+34. (C# Basics Beginner Tutorial) Using A While Loop.ahk
+https://www.youtube.com/watch?v=a-3mfrt-2XE
+
+35. (C# Basics Beginner Tutorial) Do While Loop.ahk
+https://www.youtube.com/watch?v=Q0tNeULI85s
+
+36. (C# Basics Beginner Tutorial) For Loop.ahk
+https://www.youtube.com/watch?v=Tl8KXmTcZZM
+
+37. (C# Basics Beginner Tutorial) Foreach Loop.ahk
+https://www.youtube.com/watch?v=cEAssu-KWIg
+
+38. (C# Basics Beginner Tutorial) Jumping Statements.ahk
+https://www.youtube.com/watch?v=qohRcb-zfvM
+
+39. (C# Basics Beginner Tutorial) Try Catch Blocks.ahk
+https://www.youtube.com/watch?v=MYmRJDBnKWw
+
+4. C# For Beginners Creating a Solution and Project.ahk
+https://www.youtube.com/watch?v=VyhG0vcd8-Q
+
+40. (C# Basics Beginner Tutorial) Section Outline - Classes.ahk
+https://www.youtube.com/watch?v=is8C1cPgpeo
+
+41. (C# Basics Beginner Tutorial) What Are Classes.ahk
+https://www.youtube.com/watch?v=uYknzBP7oH8
+
+42. (C# Basics Beginner Tutorial) Creating A Class.ahk
+https://www.youtube.com/watch?v=4L9ZpLfxgFA
+
+43. (C# Basics Beginner Tutorial) Declaring A Method.ahk
+https://www.youtube.com/watch?v=MiDJyUzgUT8
+
+44. (C# Basics Beginner Tutorial) Parameters.ahk
+https://www.youtube.com/watch?v=IQvopXBgeVw
+
+45. (C# Basics Beginner Tutorial) Declaring A Property.ahk
+https://www.youtube.com/watch?v=PevvPARvoAk
+
+46. (C# Basics Beginner Tutorial) Declaring An Object.ahk
+https://www.youtube.com/watch?v=TX8oSkUOrx8
+
+47. (C# Basics Beginner Tutorial) Using An Object.ahk
+https://www.youtube.com/watch?v=dsMJkfDHmYw
+
+48. (C# Basics Beginner Tutorial) Property Shortcuts.ahk
+https://www.youtube.com/watch?v=tTN36Myf_Lw
+
+49. (C# Basics Beginner Tutorial) Method Overloading And Signatures.ahk
+https://www.youtube.com/watch?v=QrGJBGxe9SY
+
+5. (C# Basics Beginner Tutorial) Visual Studio Windows and Navigation.ahk
+https://www.youtube.com/watch?v=sBUXVM3kEa8
+
+50. (C# Basics Beginner Tutorial) Class Constructors.ahk
+https://www.youtube.com/watch?v=WawbhaxTul0
+
+51. (C# Basics Beginner Tutorial) Classes and Reference Types.ahk
+https://www.youtube.com/watch?v=PAEPP6102VI
+
+52. (C# Basics Beginner Tutorial) Section Outline - Object Oriented Programming.ahk
+https://www.youtube.com/watch?v=OPQRHb_7gOc
+
+53. (C# Basics Beginner Tutorial) Object Oriented Programming and The Pillars of OOP.ahk
+https://www.youtube.com/watch?v=8DZFnTiyiN4
+
+54. (C# Basics Beginner Tutorial) Encapsulation.ahk
+https://www.youtube.com/watch?v=aZ84k4euSEY
+
+55. (C# Basics Beginner Tutorial) Inheritance.ahk
+https://www.youtube.com/watch?v=PBapjY-AnMQ
+
+56. (C# Basics Beginner Tutorial) Polymorphism.ahk
+https://www.youtube.com/watch?v=3meJ6GYd1uw
+
+57. (C# Basics Beginner Tutorial) Abstraction.ahk
+https://www.youtube.com/watch?v=r6rd0fCaqAM
+
+58. (C# Basics Beginner Tutorial) Interfaces.ahk
+https://www.youtube.com/watch?v=OexOnor-LCM
+
+59. (C# Basics Beginner Tutorial) Section Outline - Odds And Ends.ahk
+https://www.youtube.com/watch?v=sIfmN64WU1A
+
+6. (C# Basics Beginner Tutorial) Solution and Project Properties.ahk
+https://www.youtube.com/watch?v=4On73tR3p0E
+
+60. (C# Basics Beginner Tutorial) Generics.ahk
+https://www.youtube.com/watch?v=yecylMUrbUY
+
+61. (C# Basics Beginner Tutorial) Collections.ahk
+https://www.youtube.com/watch?v=VQx4D3IZ824
+
+62. (C# Basics Beginner Tutorial) Adding Projects and References.ahk
+https://www.youtube.com/watch?v=WUWp9E66y_A
+
+63. (C# Basics Beginner Tutorial) NuGet Packages.ahk
+https://www.youtube.com/watch?v=UCEUOvwxKtg
+
+64. (C# Basics Beginner Tutorial) Conclusion.ahk
+https://www.youtube.com/watch?v=kEOjTSoUcQg
+
+7. (C# Basics Beginner Tutorial) Section Outline - Basic Concepts.ahk
+https://www.youtube.com/watch?v=GrJgGibIdao
+
+8. (C# Basics Beginner Tutorial) Writing Your First Code.ahk
+https://www.youtube.com/watch?v=Bn0bJy7QTvI
+
+9. (C# Basics Beginner Tutorial) .NET Framework.ahk
+https://www.youtube.com/watch?v=YXwJGIqk3lI
+
+Async and await in C# example.ahk
+https://www.youtube.com/watch?v=C5VhaxQWcpE
+
+c# wait for thread to finish without blocking.ahk
+https://www.youtube.com/watch?v=SgHYVPKJRX8
+
+Part 1 - C# Tutorial - Introduction.avi.ahk
+https://www.youtube.com/watch?v=SXmVym6L8dw
+
+Part 10 - C# Tutorial - If statement in C#.ahk
+https://www.youtube.com/watch?v=_TIAA-vgNeY
+
+Part 100   Func delegate in c#.ahk
+https://www.youtube.com/watch?v=3Q4LKCIYrzQ
+
+Part 11 - C# Tutorial - switch statement in C#.ahk
+https://www.youtube.com/watch?v=soKhwNYxs2I
+
+Part 12 - C# Tutorial - switch statement in c# continued.ahk
+https://www.youtube.com/watch?v=iORcA42zptA
+
+Part 13 - C# Tutorial - while loop in c#.ahk
+https://www.youtube.com/watch?v=5xlc9qzOQmk
+
+Part 14 - C# Tutorial - do while loop in c#.ahk
+https://www.youtube.com/watch?v=s7fVZZeNXec
+
+Part 15 - C# Tutorial - for and foreach loops in c#.avi.ahk
+https://www.youtube.com/watch?v=2zbFaDbADsQ
+
+Part 16 - C# Tutorial - Methods in c#.avi.ahk
+https://www.youtube.com/watch?v=c4hOXIG8yPo
+
+Part 17 - C# Tutorial - Method parameters.avi.ahk
+https://www.youtube.com/watch?v=7xYSFbUPP0E
+
+Part 18 - C# Tutorial - Namespaces.avi.ahk
+https://www.youtube.com/watch?v=IQTbvVemMAg
+
+Part 19 - C# Tutorial - Introduction to classes.avi.ahk
+https://www.youtube.com/watch?v=Us2i7D-urgs
+
+Part 2 - C# Tutorial - Reading and writing to a console.avi.ahk
+https://www.youtube.com/watch?v=6QcHJ33YrYk
+
+Part 20 - C# Tutorial - Static and instance class members.avi.ahk
+https://www.youtube.com/watch?v=cFQLmHCguGs
+
+Part 21 - C# Tutorial - Inheritance in c#.avi.ahk
+https://www.youtube.com/watch?v=OLTk0xAVY00
+
+Part 22 - C# Tutorial - Method hiding in c#.avi.ahk
+https://www.youtube.com/watch?v=0FhagHE3nw8
+
+Part 23 - C# Tutorial - Polymorphism in c#.avi.ahk
+https://www.youtube.com/watch?v=4a_iTOtGhM8
+
+Part 24 - C# Tutorial - Difference between method overriding and method hiding.avi.ahk
+https://www.youtube.com/watch?v=7Igt-X-9WF8
+
+Part 25 - C# Tutorial - Method overloading in c#.avi.ahk
+https://www.youtube.com/watch?v=lSYpddX1jVI
+
+Part 26 - C# Tutorial - Why Properties.avi.ahk
+https://www.youtube.com/watch?v=uYXQH2QFmqk
+
+Part 27 - C# Tutorial - Properties in C#.avi.ahk
+https://www.youtube.com/watch?v=iGR425gMKeA
+
+Part 28 - C# Tutorial - Structs in C#.avi.ahk
+https://www.youtube.com/watch?v=M8DZqt3tCr4
+
+Part 29 - C# Tutorial - Difference between classes and structs in c#.avi.ahk
+https://www.youtube.com/watch?v=AGNW0jH1sn0
+
+Part 3 - C# Tutorial - Built - in types.avi.ahk
+https://www.youtube.com/watch?v=y3k5d6xub-E
+
+Part 30 - C# Tutorial - Interfaces in c#.avi.ahk
+https://www.youtube.com/watch?v=D6d8CIVoYSI
+
+Part 31 - C# Tutorial - Explicit interfaces implementation.avi.ahk
+https://www.youtube.com/watch?v=5C7W98VVI88
+
+Part 32 - C# Tutorial - Abstract classes in c#.avi.ahk
+https://www.youtube.com/watch?v=7amjs2y_dgo
+
+Part 33 - C# Tutorial - Difference between abstract classes and interfaces.avi.ahk
+https://www.youtube.com/watch?v=hlLqvwocSr4
+
+Part 34 - C# Tutorial - Problems of multiple class inheritance.avi.ahk
+https://www.youtube.com/watch?v=5KFCD-DxEhw
+
+Part 35 - C# Tutorial - Multiple class inheritance using interfaces.avi.ahk
+https://www.youtube.com/watch?v=Huj3Jbz-NFw
+
+Part 36 - C# Tutorial - Delegates in c#.avi.ahk
+https://www.youtube.com/watch?v=D2h46fvQX04
+
+Part 37 - C# Tutorial - Delegates usage in c#.avi.ahk
+https://www.youtube.com/watch?v=vBOzvNO8lvk
+
+Part 38 - C# Tutorial - Delegates usage in c# continued.avi.ahk
+https://www.youtube.com/watch?v=s0tkKZoMN1Y
+
+Part 39   C# Tutorial   Multicast Delegates in C#.ahk
+https://www.youtube.com/watch?v=7uJYp9NIhfQ
+
+Part 4 - C# Tutorial - String type in c#.avi.ahk
+https://www.youtube.com/watch?v=5g3TTPaGVzE
+
+Part 40   C# Tutorial   Exception Handling in C#.ahk
+https://www.youtube.com/watch?v=WxdSb3ZCWYc
+
+Part 41   C# Tutorial   Inner Exceptions in C#.ahk
+https://www.youtube.com/watch?v=MO3sOTWfZPc
+
+Part 42   C# Tutorial   Custom Exceptions in C#.ahk
+https://www.youtube.com/watch?v=9qHb-2Edg7o
+
+Part 43   C# Tutorial   Exception handling abuse.ahk
+https://www.youtube.com/watch?v=anbiOWXem98
+
+Part 44   C# Tutorial   Preventing exception handling abuse.ahk
+https://www.youtube.com/watch?v=xiIpETRweVo
+
+Part 45   C# Tutorial   Why Enums.ahk
+https://www.youtube.com/watch?v=g-LJlrMXZ5k
+
+Part 46   C# Tutorial   Enums Example.ahk
+https://www.youtube.com/watch?v=HsTVTCP-c4w
+
+Part 47   C# Tutorial   Enums in c#.ahk
+https://www.youtube.com/watch?v=2f5R8NdIdzc
+
+Part 48   C# Tutorial   Difference between Types and Type Members.ahk
+https://www.youtube.com/watch?v=Y6WWi6t-C1c
+
+Part 49   C# Tutorial   Access Modifiers in C#.ahk
+https://www.youtube.com/watch?v=G238zPCJBu4
+
+Part 5 - C# Tutorial - Common Operators in c#.avi.ahk
+https://www.youtube.com/watch?v=xFWwWcZ74gU
+
+Part 50   C# Tutorial   Internal and Protected Internal Access Modifiers in C#.ahk
+https://www.youtube.com/watch?v=2h27E7Yw2E8
+
+Part 51   C# Tutorial   Access Modifiers for types.ahk
+https://www.youtube.com/watch?v=SfJY1X7XSco
+
+Part 52   C# Tutorial   Attributes in C#.ahk
+https://www.youtube.com/watch?v=TWZXj27-6Cw
+
+Part 53   C# Tutorial   Reflection in C#.ahk
+https://www.youtube.com/watch?v=y8-uq6Ur7Dc
+
+Part 54   C# Tutorial Reflection Example.ahk
+https://www.youtube.com/watch?v=vHHd3GNOuXU
+
+Part 55   C# Tutorial   Late binding using reflection.ahk
+https://www.youtube.com/watch?v=s0eIgl5iqqQ
+
+Part 56   C# Tutorial   Generics in C#.ahk
+https://www.youtube.com/watch?v=-zHRmXkJ5Bw
+
+Part 57 C# Tutorial Why should you override ToString Method.ahk
+https://www.youtube.com/watch?v=MwPZLPNR3ns
+
+Part 58 C# Tutorial Why should you override Equals Method.ahk
+https://www.youtube.com/watch?v=IhXWil0kcTo
+
+Part 59 C# Tutorial Difference between Convert ToString and ToString.ahk
+https://www.youtube.com/watch?v=j8QODekVo58
+
+Part 6 - C# Tutorial - Nullable Types.avi.ahk
+https://www.youtube.com/watch?v=HuLJbiqpIM0
+
+Part 60 C# Tutorial Difference between String and StringBuilder.ahk
+https://www.youtube.com/watch?v=4lFAs6FYTXg
+
+Part 61  Partial classes in c#.ahk
+https://www.youtube.com/watch?v=yNCkrtmqpW0
+
+Part 62   Creating partial classes in c#.ahk
+https://www.youtube.com/watch?v=eB7UhLBW87U
+
+Part 63   Partial methods in c#.ahk
+https://www.youtube.com/watch?v=NDlR24_sPTo
+
+Part 64 - C# Tutorial - How and where are indexers used in .net.ahk
+https://www.youtube.com/watch?v=iHj8HHCjQU0
+
+Part 65 - C# Tutorial - Indexers in c#.ahk
+https://www.youtube.com/watch?v=km1hd9-dVz4
+
+Part 66 - C# Tutorial - Overloading indexers in c#.ahk
+https://www.youtube.com/watch?v=teBsjG20TW4
+
+Part 67 Optional parameters in c#.ahk
+https://www.youtube.com/watch?v=jbtjGii300k
+
+Part 68  Making method parameters optional using method overloading.ahk
+https://www.youtube.com/watch?v=khcOI3-Kh84
+
+Part 69  Making method parameters optional by specifying parameter defaults.ahk
+https://www.youtube.com/watch?v=Dmycz0ro1Yc
+
+Part 7   C# Tutorial   Datatypes conversion.ahk
+https://www.youtube.com/watch?v=IcDaNmGDMoM
+
+Part 70  Making method parameters optional by using OptionalAttribute.ahk
+https://www.youtube.com/watch?v=p_9f5SSXxLw
+
+Part 71   Code snippets in visual studio.ahk
+https://www.youtube.com/watch?v=lBmb_3Uv5xI
+
+Part 72   What is dictionary in c#.ahk
+https://www.youtube.com/watch?v=fMjt6ywaSow
+
+Part 73   What is dictionary in c# continued.ahk
+https://www.youtube.com/watch?v=E8QbpMxO_As
+
+Part 74   List collection class in c#.ahk
+https://www.youtube.com/watch?v=gXyoJA579QI
+
+Part 75   List collection class in c# continued.ahk
+https://www.youtube.com/watch?v=2DKvOREiLBg
+
+Part 76   Working with generic list class and ranges in c#.ahk
+https://www.youtube.com/watch?v=ASGgnLD4C-E
+
+Part 77   Sort a list of simple types in c#.ahk
+https://www.youtube.com/watch?v=CHqg6qOn4no
+
+Part 78   Sort a list of complex types in c#.ahk
+https://www.youtube.com/watch?v=6bUI6r19z-s
+
+Part 79   Sort a list of complex types using Comparison delegate.ahk
+https://www.youtube.com/watch?v=CMQ-RRh2FR8
+
+Part 8 - C# Tutorial - Arrays in C#.avi.ahk
+https://www.youtube.com/watch?v=7sqUaw4g_iQ
+
+Part 80   Some useful methods of List collection class.ahk
+https://www.youtube.com/watch?v=KdiOQWwMXCE
+
+Part 81   When to use a dictionary over list in c#.ahk
+https://www.youtube.com/watch?v=mOatGvMrt68
+
+Part 82   Generic queue collection class.ahk
+https://www.youtube.com/watch?v=_Ffr_qo0BbM
+
+Part 83   Generic stack collection class.ahk
+https://www.youtube.com/watch?v=Sn6Qa26EeQc
+
+Part 84   Real time example of queue collection class in c#.ahk
+https://www.youtube.com/watch?v=SIs7ZsMCUWA
+
+Part 85   Real time example of stack collection class in c#.ahk
+https://www.youtube.com/watch?v=Lz8BVFmCX6E
+
+Part 86   Multithreading in C#.ahk
+https://www.youtube.com/watch?v=8mjqXiggWNc
+
+Part 87   Advantages and disadvantages of multithreading.ahk
+https://www.youtube.com/watch?v=3QyeiwdymGU
+
+Part 88   ThreadStart delegate.ahk
+https://www.youtube.com/watch?v=DzW4DdlPCEo
+
+Part 89   ParameterizedThreadStart delegate.ahk
+https://www.youtube.com/watch?v=pGKn2sOZBGg
+
+Part 9 - C# Tutorial - Comments in C#.avi.ahk
+https://www.youtube.com/watch?v=PRgAAokHBNw
+
+Part 90   Passing data to the Thread function in a type safe manner.ahk
+https://www.youtube.com/watch?v=asSMDgkwIvw
+
+Part 91   Retrieving data from Thread function using callback method.ahk
+https://www.youtube.com/watch?v=cnaLAIpRUws
+
+Part 92   Significance of Thread Join and Thread IsAlive functions.ahk
+https://www.youtube.com/watch?v=fjvMr12TU1Q
+
+Part 93   Protecting shared resources from concurrent access in multithreading.ahk
+https://www.youtube.com/watch?v=pjzplzR8E3U
+
+Part 94   Difference between Monitor and lock in C#.ahk
+https://www.youtube.com/watch?v=N9jJKPVxD7c
+
+Part 95   Deadlock in a multithreaded program.ahk
+https://www.youtube.com/watch?v=PMCyZLYVODI
+
+Part 96   How to resolve a deadlock in a multithreaded program.ahk
+https://www.youtube.com/watch?v=px4bXKYb2-Y
+
+Part 97   Performance of a multithreaded program.ahk
+https://www.youtube.com/watch?v=aDCAMwTgiZU
+
+Part 98   Anonymous methods in c#.ahk
+https://www.youtube.com/watch?v=4trl43Ycksg
+
+Part 99   Lambda expression in c#.ahk
+https://www.youtube.com/watch?v=LDgQ-spnrYY
 C# Tutorial For Beginners
