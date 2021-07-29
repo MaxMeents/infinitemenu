@@ -1,16 +1,16 @@
 
 Abraham Hicks
-https://maxmeents.github.io/infinitemenu/All/Channelling/Abraham_Hicks/Abraham_Hicks.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Abraham_Hicks/Abraham_Hicks.txt
 
 Abraham Hicks Channelling
-https://maxmeents.github.io/infinitemenu/All/Channelling/Abraham_Hicks_Channelling/Abraham_Hicks_Channelling.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Abraham_Hicks_Channelling/Abraham_Hicks_Channelling.txt
 
 Bashar
-https://maxmeents.github.io/infinitemenu/All/Channelling/Bashar/Bashar.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Bashar/Bashar.txt
 
 Bashar Channelling
-https://maxmeents.github.io/infinitemenu/All/Channelling/Bashar_Channelling/Bashar_Channelling.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Bashar_Channelling/Bashar_Channelling.txt
 
 Rosemary Altea Channelling
-https://maxmeents.github.io/infinitemenu/All/Channelling/Rosemary_Altea_Channelling/Rosemary_Altea_Channelling.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Rosemary_Altea_Channelling/Rosemary_Altea_Channelling.txt
 Channelling

@@ -1,4 +1,4 @@
 
 VoY
-https://maxmeents.github.io/infinitemenu/All/Channelling/Bashar/VoY/VoY.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Bashar/VoY/VoY.txt
 Bashar

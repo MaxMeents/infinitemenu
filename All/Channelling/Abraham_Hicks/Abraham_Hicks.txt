@@ -1,4 +1,4 @@
 
 VoY
-https://maxmeents.github.io/infinitemenu/All/Channelling/Abraham_Hicks/VoY/VoY.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Abraham_Hicks/VoY/VoY.txt
 Abraham Hicks
