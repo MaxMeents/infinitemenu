@@ -1,7 +1,7 @@
 
 Funniest Movie Scenes
-https://maxmeents.github.io/infinitemenu/All/Media/Movies/Funniest_Movie_Scenes/Funniest_Movie_Scenes.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Funniest_Movie_Scenes/Funniest_Movie_Scenes.txt
 
 Greatest Movies of All Time
-https://maxmeents.github.io/infinitemenu/All/Media/Movies/Greatest_Movies_of_All_Time/Greatest_Movies_of_All_Time.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Greatest_Movies_of_All_Time/Greatest_Movies_of_All_Time.txt
 Movies

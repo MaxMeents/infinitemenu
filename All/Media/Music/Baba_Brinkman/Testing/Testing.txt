@@ -1,4 +1,4 @@
 
 123
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Baba_Brinkman/Testing/123/123.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Baba_Brinkman/Testing/123/123.txt
 Testing

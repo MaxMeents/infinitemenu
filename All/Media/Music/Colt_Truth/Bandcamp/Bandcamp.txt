@@ -1,7 +1,7 @@
 
 All Bandcamp Songs
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Colt_Truth/Bandcamp/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
 
 Bandcamp Albums
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Bandcamp_Albums.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Bandcamp_Albums.txt
 Bandcamp

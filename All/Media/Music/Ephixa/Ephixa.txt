@@ -1,6 +1,6 @@
 
 VoY
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Ephixa/VoY/VoY.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Ephixa/VoY/VoY.txt
 
 .ahk
 

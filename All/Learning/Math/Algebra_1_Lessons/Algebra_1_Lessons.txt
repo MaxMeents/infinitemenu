@@ -1,40 +1,40 @@
 
 Algebra
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra/Algebra.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra/Algebra.txt
 
 Algebra 1 Chapter 9 Lesson Videos
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Chapter_9_Lesson_Videos/Algebra_1_Chapter_9_Lesson_Videos.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Chapter_9_Lesson_Videos/Algebra_1_Chapter_9_Lesson_Videos.txt
 
 Algebra 1 Course, Unit 1
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Course,_Unit_1/Algebra_1_Course,_Unit_1.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Course,_Unit_1/Algebra_1_Course,_Unit_1.txt
 
 Algebra 1 Distance Learning Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Distance_Learning_Lessons/Algebra_1_Distance_Learning_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Distance_Learning_Lessons/Algebra_1_Distance_Learning_Lessons.txt
 
 Algebra 1 Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons/Algebra_1_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons/Algebra_1_Lessons.txt
 
 Algebra 1 Lessons Playlist
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons_Playlist/Algebra_1_Lessons_Playlist.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons_Playlist/Algebra_1_Lessons_Playlist.txt
 
 Algebra 1 Unit 1 Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Unit_1_Lessons/Algebra_1_Unit_1_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Unit_1_Lessons/Algebra_1_Unit_1_Lessons.txt
 
 Algebra 2 Course - Unit 1
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_2_Course_-_Unit_1/Algebra_2_Course_-_Unit_1.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_2_Course_-_Unit_1/Algebra_2_Course_-_Unit_1.txt
 
 Geometry Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Geometry_Lessons/Geometry_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Geometry_Lessons/Geometry_Lessons.txt
 
 Learn Algebra 1
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Learn_Algebra_1/Learn_Algebra_1.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Learn_Algebra_1/Learn_Algebra_1.txt
 
 Pearson enVision Algebra 1
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Pearson_enVision_Algebra_1/Pearson_enVision_Algebra_1.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Pearson_enVision_Algebra_1/Pearson_enVision_Algebra_1.txt
 
 Saxon algebra 12 'blue book' lessons for Hannah
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Saxon_algebra_12_'blue_book'_lessons_for_Hannah/Saxon_algebra_12_'blue_book'_lessons_for_Hannah.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Saxon_algebra_12_'blue_book'_lessons_for_Hannah/Saxon_algebra_12_'blue_book'_lessons_for_Hannah.txt
 
 Saxon Math - COMPLETE Algebra 1 Video Lessons + Practice Problems (3rd Edition)
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Saxon_Math_-_COMPLETE_Algebra_1_Video_Lessons_+_Practice_Problems_(3rd_Edition)/Saxon_Math_-_COMPLETE_Algebra_1_Video_Lessons_+_Practice_Problems_(3rd_Edition).txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Saxon_Math_-_COMPLETE_Algebra_1_Video_Lessons_+_Practice_Problems_(3rd_Edition)/Saxon_Math_-_COMPLETE_Algebra_1_Video_Lessons_+_Practice_Problems_(3rd_Edition).txt
 Algebra 1 Lessons

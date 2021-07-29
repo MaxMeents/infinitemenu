@@ -1,13 +1,13 @@
 
 Algebra 1 Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Algebra_1_Lessons/Algebra_1_Lessons.txt
 
 Geometry Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Geometry_Lessons/Geometry_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Geometry_Lessons/Geometry_Lessons.txt
 
 Precalculus Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Precalculus_Lessons/Precalculus_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Precalculus_Lessons/Precalculus_Lessons.txt
 
 Trigonometry Lessons
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Trigonometry_Lessons/Trigonometry_Lessons.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Trigonometry_Lessons/Trigonometry_Lessons.txt
 Math

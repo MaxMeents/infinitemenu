@@ -1,6 +1,6 @@
 
 .ts
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Alais_Clay/All_Songs_on_Bandcamp/.ts/.ts.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Alais_Clay/All_Songs_on_Bandcamp/.ts/.ts.txt
 
 .ahk
 

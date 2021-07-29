@@ -1,73 +1,73 @@
 
 24 Hour HAZWOPER Training
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/24_Hour_HAZWOPER_Training/24_Hour_HAZWOPER_Training.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/24_Hour_HAZWOPER_Training/24_Hour_HAZWOPER_Training.txt
 
 About Guardian Medical Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/About_Guardian_Medical_Monitoring/About_Guardian_Medical_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/About_Guardian_Medical_Monitoring/About_Guardian_Medical_Monitoring.txt
 
 Bedside Monitoring - Philips
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Bedside_Monitoring_-_Philips/Bedside_Monitoring_-_Philips.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Bedside_Monitoring_-_Philips/Bedside_Monitoring_-_Philips.txt
 
 critical care nursing videos
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/critical_care_nursing_videos/critical_care_nursing_videos.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/critical_care_nursing_videos/critical_care_nursing_videos.txt
 
 Data Science for Patient Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Data_Science_for_Patient_Monitoring/Data_Science_for_Patient_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Data_Science_for_Patient_Monitoring/Data_Science_for_Patient_Monitoring.txt
 
 Explainer Videos Samples
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Explainer_Videos_Samples/Explainer_Videos_Samples.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Explainer_Videos_Samples/Explainer_Videos_Samples.txt
 
 G2000 Medical Alarm
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/G2000_Medical_Alarm/G2000_Medical_Alarm.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/G2000_Medical_Alarm/G2000_Medical_Alarm.txt
 
 Guardian Medical Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Guardian_Medical_Monitoring/Guardian_Medical_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Guardian_Medical_Monitoring/Guardian_Medical_Monitoring.txt
 
 Helth monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Helth_monitoring/Helth_monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Helth_monitoring/Helth_monitoring.txt
 
 Imp
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Imp/Imp.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Imp/Imp.txt
 
 medical
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/medical/medical.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/medical/medical.txt
 
 Medical Alert Systems, emergency alert, medical emergency, elderly monitoring with round the clock (247) live agent support
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support.txt
 
 Medical Literature Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Medical_Literature_Monitoring/Medical_Literature_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Medical_Literature_Monitoring/Medical_Literature_Monitoring.txt
 
 Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Monitoring/Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Monitoring/Monitoring.txt
 
 Monitoring Videos
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Monitoring_Videos/Monitoring_Videos.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Monitoring_Videos/Monitoring_Videos.txt
 
 Patient Medical Remote Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Patient_Medical_Remote_Monitoring/Patient_Medical_Remote_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Patient_Medical_Remote_Monitoring/Patient_Medical_Remote_Monitoring.txt
 
 Patient Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Patient_Monitoring/Patient_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Patient_Monitoring/Patient_Monitoring.txt
 
 Patient Monitoring and Life Support products
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Patient_Monitoring_and_Life_Support_products/Patient_Monitoring_and_Life_Support_products.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Patient_Monitoring_and_Life_Support_products/Patient_Monitoring_and_Life_Support_products.txt
 
 Patient telemonitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Patient_telemonitoring/Patient_telemonitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Patient_telemonitoring/Patient_telemonitoring.txt
 
 PHILLIPS PATIENT MONITORING ETC
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/PHILLIPS_PATIENT_MONITORING_ETC/PHILLIPS_PATIENT_MONITORING_ETC.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/PHILLIPS_PATIENT_MONITORING_ETC/PHILLIPS_PATIENT_MONITORING_ETC.txt
 
 Physical Aspect of 666
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Physical_Aspect_of_666/Physical_Aspect_of_666.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Physical_Aspect_of_666/Physical_Aspect_of_666.txt
 
 Remote Patient Monitoring
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Remote_Patient_Monitoring/Remote_Patient_Monitoring.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Remote_Patient_Monitoring/Remote_Patient_Monitoring.txt
 
 Training Videos
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Training_Videos/Training_Videos.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Training_Videos/Training_Videos.txt
 
 Wearable medical device to help detecting diseases
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medical_monitoring/Wearable_medical_device_to_help_detecting_diseases/Wearable_medical_device_to_help_detecting_diseases.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medical_monitoring/Wearable_medical_device_to_help_detecting_diseases/Wearable_medical_device_to_help_detecting_diseases.txt
 Medical monitoring

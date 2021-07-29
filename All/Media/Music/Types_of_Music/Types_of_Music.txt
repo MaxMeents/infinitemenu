@@ -1,76 +1,76 @@
 
 Alternative
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Alternative/Alternative.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Alternative/Alternative.txt
 
 Blues
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Blues/Blues.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Blues/Blues.txt
 
 Children’s Music
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Children’s_Music/Children’s_Music.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Children’s_Music/Children’s_Music.txt
 
 Christmas
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Christmas/Christmas.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Christmas/Christmas.txt
 
 Classical
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Classical/Classical.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Classical/Classical.txt
 
 Comedy
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Comedy/Comedy.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Comedy/Comedy.txt
 
 Contemporary Classical
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Contemporary_Classical/Contemporary_Classical.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Contemporary_Classical/Contemporary_Classical.txt
 
 Country
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Country/Country.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Country/Country.txt
 
 Dance (EDM – Electronic Dance Music)
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Dance_(EDM_–_Electronic_Dance_Music).txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Dance_(EDM_–_Electronic_Dance_Music).txt
 
 Easy Listening
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Easy_Listening/Easy_Listening.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Easy_Listening/Easy_Listening.txt
 
 Electronic
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Electronic/Electronic.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Electronic/Electronic.txt
 
 Folk
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Folk/Folk.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Folk/Folk.txt
 
 Hip-Hop-Rap
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Hip-Hop-Rap/Hip-Hop-Rap.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Hip-Hop-Rap/Hip-Hop-Rap.txt
 
 Jazz
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Jazz/Jazz.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Jazz/Jazz.txt
 
 K-Pop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/K-Pop/K-Pop.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/K-Pop/K-Pop.txt
 
 Latin
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Latin/Latin.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Latin/Latin.txt
 
 Metal
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Metal/Metal.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Metal/Metal.txt
 
 New Age
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/New_Age/New_Age.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/New_Age/New_Age.txt
 
 Opera
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Opera/Opera.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Opera/Opera.txt
 
 Pop
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Pop/Pop.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Pop/Pop.txt
 
 R and B-Soul
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/R_and_B-Soul/R_and_B-Soul.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/R_and_B-Soul/R_and_B-Soul.txt
 
 Reggae
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Reggae/Reggae.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Reggae/Reggae.txt
 
 Rock
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Rock/Rock.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Rock/Rock.txt
 
 Soundtrack
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Soundtrack/Soundtrack.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Soundtrack/Soundtrack.txt
 
 Spoken Word
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Types_of_Music/Spoken_Word/Spoken_Word.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Spoken_Word/Spoken_Word.txt
 Types of Music

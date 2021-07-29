@@ -1,4 +1,4 @@
 
 Bandcamp
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp.txt
 Colt Truth

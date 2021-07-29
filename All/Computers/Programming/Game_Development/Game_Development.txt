@@ -1,4 +1,4 @@
 
 Making an Addictive Game
-https://maxmeents.github.io/infinitemenu/All/Computers/Programming/Game_Development/Making_an_Addictive_Game/Making_an_Addictive_Game.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Programming/Game_Development/Making_an_Addictive_Game/Making_an_Addictive_Game.txt
 Game Development

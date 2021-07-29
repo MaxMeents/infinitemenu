@@ -1,7 +1,7 @@
 
 Playlist on Youtube
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Empire_of_the_Sun/Playlist_on_Youtube/Playlist_on_Youtube.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Empire_of_the_Sun/Playlist_on_Youtube/Playlist_on_Youtube.txt
 
 Soundcloud All Tracks
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Empire_of_the_Sun/Soundcloud_All_Tracks/Soundcloud_All_Tracks.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Empire_of_the_Sun/Soundcloud_All_Tracks/Soundcloud_All_Tracks.txt
 Empire of the Sun

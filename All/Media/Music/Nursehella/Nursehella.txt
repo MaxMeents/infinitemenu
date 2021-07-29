@@ -1,10 +1,10 @@
 
 Albums on Bandcamp
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Nursehella/Albums_on_Bandcamp/Albums_on_Bandcamp.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Nursehella/Albums_on_Bandcamp/Albums_on_Bandcamp.txt
 
 All Bandcamp Songs
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Nursehella/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Nursehella/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
 
 VoY
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Nursehella/VoY/VoY.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Nursehella/VoY/VoY.txt
 Nursehella

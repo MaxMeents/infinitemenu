@@ -1,7 +1,7 @@
 
 Facebook Friends
-https://maxmeents.github.io/infinitemenu/All/Facebook/Facebook_Friends/Facebook_Friends.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook_Friends/Facebook_Friends.txt
 
 Facebook Options
-https://maxmeents.github.io/infinitemenu/All/Facebook/Facebook_Options/Facebook_Options.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook_Options/Facebook_Options.txt
 Facebook

@@ -1,6 +1,6 @@
 
 .ts
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Alais_Clay/Albums_on_Bandcamp/Elevated_Frequencies/.ts/.ts.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Alais_Clay/Albums_on_Bandcamp/Elevated_Frequencies/.ts/.ts.txt
 
 .ahk
 

@@ -1,6 +1,6 @@
 
 chronological order
-https://maxmeents.github.io/infinitemenu/All/Learning/Science/Physics/Minute_Physics/chronological_order/chronological_order.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Science/Physics/Minute_Physics/chronological_order/chronological_order.txt
 
 2011 Nobel Prize- Dark Energy feat. Sean Carroll.ahk
 https://www.youtube.com/watch?v=v6o2bUPdxV0

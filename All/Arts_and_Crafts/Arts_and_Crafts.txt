@@ -1,4 +1,4 @@
 
 Artificial Flower Arangements Tutorials
-https://maxmeents.github.io/infinitemenu/All/Arts_and_Crafts/Artificial_Flower_Arangements_Tutorials/Artificial_Flower_Arangements_Tutorials.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Arts_and_Crafts/Artificial_Flower_Arangements_Tutorials/Artificial_Flower_Arangements_Tutorials.txt
 Arts and Crafts

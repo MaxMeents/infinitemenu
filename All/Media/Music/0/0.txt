@@ -1,4 +1,4 @@
 
 02
-https://maxmeents.github.io/infinitemenu/All/Media/Music/0/02/02.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/0/02/02.txt
 0

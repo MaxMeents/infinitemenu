@@ -1,4 +1,4 @@
 
 VoY
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Skrillix/VoY/VoY.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Skrillix/VoY/VoY.txt
 Skrillix

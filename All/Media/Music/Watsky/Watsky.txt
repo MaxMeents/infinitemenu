@@ -1,28 +1,28 @@
 
 A New Kind of Sexy Mixtape
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/A_New_Kind_of_Sexy_Mixtape/A_New_Kind_of_Sexy_Mixtape.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/A_New_Kind_of_Sexy_Mixtape/A_New_Kind_of_Sexy_Mixtape.txt
 
 Guilty Pleasures
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Guilty_Pleasures/Guilty_Pleasures.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Guilty_Pleasures/Guilty_Pleasures.txt
 
 Invisible Inc
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Invisible_Inc/Invisible_Inc.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Invisible_Inc/Invisible_Inc.txt
 
 LIVE! From the Fonda
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/LIVE!_From_the_Fonda/LIVE!_From_the_Fonda.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/LIVE!_From_the_Fonda/LIVE!_From_the_Fonda.txt
 
 Live! from the Troubadour
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Live!_from_the_Troubadour/Live!_from_the_Troubadour.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Live!_from_the_Troubadour/Live!_from_the_Troubadour.txt
 
 Nothing Like the First Time & Mody & Mody
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Nothing_Like_the_First_Time_&_Mody_&_Mody/Nothing_Like_the_First_Time_&_Mody_&_Mody.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Nothing_Like_the_First_Time_&_Mody_&_Mody/Nothing_Like_the_First_Time_&_Mody_&_Mody.txt
 
 PLACEMENT
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/PLACEMENT/PLACEMENT.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/PLACEMENT/PLACEMENT.txt
 
 Watsky
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Watsky/Watsky.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Watsky/Watsky.txt
 
 Watsky (Available on iTunes)
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Watsky/Watsky_(Available_on_iTunes)/Watsky_(Available_on_iTunes).txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Watsky_(Available_on_iTunes)/Watsky_(Available_on_iTunes).txt
 Watsky

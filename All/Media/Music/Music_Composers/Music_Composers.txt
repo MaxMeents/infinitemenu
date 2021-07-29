@@ -1,82 +1,82 @@
 
 A
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/A/A.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/A/A.txt
 
 B
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/B/B.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/B/B.txt
 
 C
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/C/C.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/C/C.txt
 
 D
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/D/D.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/D/D.txt
 
 E
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/E/E.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/E/E.txt
 
 F
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/F/F.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/F.txt
 
 G
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/G/G.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/G/G.txt
 
 H
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/H/H.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/H.txt
 
 I
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/I/I.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/I/I.txt
 
 J
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/J/J.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/J/J.txt
 
 K
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/K/K.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/K/K.txt
 
 L
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/L/L.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/L/L.txt
 
 M
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/M/M.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/M/M.txt
 
 N
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/N/N.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/N/N.txt
 
 Non-ABC
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Non-ABC/Non-ABC.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Non-ABC.txt
 
 O
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/O/O.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/O/O.txt
 
 P
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/P/P.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/P/P.txt
 
 Q
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Q/Q.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Q/Q.txt
 
 R
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/R/R.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/R/R.txt
 
 S
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/S/S.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/S/S.txt
 
 T
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/T/T.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/T/T.txt
 
 U
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/U/U.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/U/U.txt
 
 V
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/V/V.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/V/V.txt
 
 W
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/W/W.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/W/W.txt
 
 X
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/X/X.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/X/X.txt
 
 Y
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Y/Y.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Y.txt
 
 Z
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Music_Composers/Z/Z.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Z.txt
 Music Composers

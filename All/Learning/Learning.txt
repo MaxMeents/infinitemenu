@@ -1,13 +1,13 @@
 
 Math
-https://maxmeents.github.io/infinitemenu/All/Learning/Math/Math.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Math/Math.txt
 
 Medicine
-https://maxmeents.github.io/infinitemenu/All/Learning/Medicine/Medicine.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Medicine/Medicine.txt
 
 Science
-https://maxmeents.github.io/infinitemenu/All/Learning/Science/Science.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Science/Science.txt
 
 Spiritual
-https://maxmeents.github.io/infinitemenu/All/Learning/Spiritual/Spiritual.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Spiritual/Spiritual.txt
 Learning

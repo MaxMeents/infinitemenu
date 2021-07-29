@@ -1,4 +1,4 @@
 
 Anime Music Videos
-https://maxmeents.github.io/infinitemenu/All/Anime/Anime_Music_Videos/Anime_Music_Videos.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Anime/Anime_Music_Videos/Anime_Music_Videos.txt
 Anime

@@ -1,7 +1,7 @@
 
 Albums
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Wingmakers_2/Albums/Albums.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Wingmakers_2/Albums/Albums.txt
 
 All Songs
-https://maxmeents.github.io/infinitemenu/All/Media/Music/Wingmakers_2/All_Songs/All_Songs.txt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Wingmakers_2/All_Songs/All_Songs.txt
 Wingmakers 2
