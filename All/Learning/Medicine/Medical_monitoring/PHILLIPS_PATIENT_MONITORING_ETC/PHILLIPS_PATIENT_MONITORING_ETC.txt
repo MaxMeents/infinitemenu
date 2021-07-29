@@ -1,67 +1,67 @@
 
-111689.  DreamStation cellular modem accessory  Philips  Sleep therapy system.ahk
+1.  DreamStation cellular modem accessory  Philips  Sleep therapy system.ahk
 https://www.youtube.com/watch?v=XrQxLYD_Hao
 
-111691.  Enterprise Network Overview.ahk
+2.  Enterprise Network Overview.ahk
 https://www.youtube.com/watch?v=7tJKR6z0uW8
 
-111694.  Epic Electronic Health Records.ahk
+3.  Epic Electronic Health Records.ahk
 https://www.youtube.com/watch?v=gwd9J-y7tvA
 
-111698.  Export Lumify Exams Philips Lumify product training (9 of 11).ahk
+4.  Export Lumify Exams Philips Lumify product training (9 of 11).ahk
 https://www.youtube.com/watch?v=R22l4bd2jwQ
 
-111703.  Future of Radiology through University of Vermont and Philips Partnership  Philips Healthcare.ahk
+5.  Future of Radiology through University of Vermont and Philips Partnership  Philips Healthcare.ahk
 https://www.youtube.com/watch?v=ZxHAJR7Rk9o
 
-111709.  Healthcare IT Solutions Impacting Patient’s Lives Philips and HPE.ahk
+6.  Healthcare IT Solutions Impacting Patient’s Lives Philips and HPE.ahk
 https://www.youtube.com/watch?v=K8ZoOJXvhAw
 
-111716.  Healthcare Network Tammie Phillips.ahk
+7.  Healthcare Network Tammie Phillips.ahk
 https://www.youtube.com/watch?v=rKILzDAZVRI
 
-111724.  Lively Home Remote Patient Monitoring System Improves Quality of Care  Lively.ahk
+8.  Lively Home Remote Patient Monitoring System Improves Quality of Care  Lively.ahk
 https://www.youtube.com/watch?v=RwyJJOXksRo
 
-111733.  Machine Learning For Medical Image Analysis - How It Works.ahk
+9.  Machine Learning For Medical Image Analysis - How It Works.ahk
 https://www.youtube.com/watch?v=VKnoyiNxflk
 
-111743.  NKC Hospital & Philips, patient care comes first.ahk
+10.  NKC Hospital & Philips, patient care comes first.ahk
 https://www.youtube.com/watch?v=HAlHluSWXko
 
-111754.  Patient Monitor Tutorial.ahk
+11.  Patient Monitor Tutorial.ahk
 https://www.youtube.com/watch?v=StTuvR_l-OY
 
-111766.  Philips and Westchester Medical Center Health Network Partnership.ahk
+12.  Philips and Westchester Medical Center Health Network Partnership.ahk
 https://www.youtube.com/watch?v=aSnhOEueEm4
 
-111779.  Philips ClearVue 650 Ultrasound Knobology Training - Part 1.ahk
+13.  Philips ClearVue 650 Ultrasound Knobology Training - Part 1.ahk
 https://www.youtube.com/watch?v=KFjp5kDYmGM
 
-111793.  Philips Digital Twin concept.ahk
+14.  Philips Digital Twin concept.ahk
 https://www.youtube.com/watch?v=H6JzPCbyVSM
 
-111808.  Philips EWS customer story Lakeland Health.ahk
+15.  Philips EWS customer story Lakeland Health.ahk
 https://www.youtube.com/watch?v=xYp6815uJb8
 
-111824.  Philips hopes to address health care gaps with patient data system.ahk
+16.  Philips hopes to address health care gaps with patient data system.ahk
 https://www.youtube.com/watch?v=txhgYUxieII
 
-111841.  Philips Patient Monitoring Interoperability Working together. Working as one..ahk
+17.  Philips Patient Monitoring Interoperability Working together. Working as one..ahk
 https://www.youtube.com/watch?v=aicFaQgef2w
 
-111859.  Philips Security Solution. Multi-layered defense..ahk
+18.  Philips Security Solution. Multi-layered defense..ahk
 https://www.youtube.com/watch?v=HP7Ifk7bug8
 
-111878.  Teaching Hospital Modernizes its Data Center to Control Costs and Focus on Patients.ahk
+19.  Teaching Hospital Modernizes its Data Center to Control Costs and Focus on Patients.ahk
 https://www.youtube.com/watch?v=C_63oq6CY-Q
 
-111898.  The Jane and Peter Galetto, Jr. Simulation Center at Inspira Health Network.ahk
+20.  The Jane and Peter Galetto, Jr. Simulation Center at Inspira Health Network.ahk
 https://www.youtube.com/watch?v=c8yx37AEKYo
 
-111919.  The keys to improving hospital flow.ahk
+21.  The keys to improving hospital flow.ahk
 https://www.youtube.com/watch?v=u8te5w7hoOA
 
-111941.  What is a Smart Hospital.ahk
+22.  What is a Smart Hospital.ahk
 https://www.youtube.com/watch?v=nHH1TzDRiqc
 PHILLIPS PATIENT MONITORING ETC

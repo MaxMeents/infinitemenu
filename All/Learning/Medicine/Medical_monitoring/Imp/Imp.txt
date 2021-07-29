@@ -1,19 +1,19 @@
 
-107800.  Antihypertensive Calcium Channel Blockers. Part  2.ahk
+1.  Antihypertensive Calcium Channel Blockers. Part  2.ahk
 https://www.youtube.com/watch?v=Wg6Bv789ZwY
 
-107802.  ART-LINE™ Blood Pressure Monitoring and Needle-Free Blood Sampling - BIOMETRIX.ahk
+2.  ART-LINE™ Blood Pressure Monitoring and Needle-Free Blood Sampling - BIOMETRIX.ahk
 https://www.youtube.com/watch?v=DuExBjzS7Mo
 
-107805.  Arterial Pressure Monitoring.ahk
+3.  Arterial Pressure Monitoring.ahk
 https://www.youtube.com/watch?v=ELXrITaozz8
 
-107809.  CVP and Arterial Line Waveform Interpretation.ahk
+4.  CVP and Arterial Line Waveform Interpretation.ahk
 https://www.youtube.com/watch?v=8xpKr1t7YQE
 
-107814.  How to Setup an Arterial Line Transducer.ahk
+5.  How to Setup an Arterial Line Transducer.ahk
 https://www.youtube.com/watch?v=vJ_anWmQbUM
 
-107820.  usbiomeddevices.com _Philips IntelliVue MP patient monitors.ahk
+6.  usbiomeddevices.com _Philips IntelliVue MP patient monitors.ahk
 https://www.youtube.com/watch?v=pO1QH_MmlmI
 Imp

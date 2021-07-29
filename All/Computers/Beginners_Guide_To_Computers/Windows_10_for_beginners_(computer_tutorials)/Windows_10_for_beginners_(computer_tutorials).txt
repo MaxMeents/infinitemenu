@@ -1,91 +1,91 @@
 
-10535.  10 Basic Tips for Beginners of Windows 10.ahk
+1.  10 Basic Tips for Beginners of Windows 10.ahk
 https://www.youtube.com/watch?v=XymfDgWcTiw
 
-10537.  10 Best Features of Windows 10.ahk
+2.  10 Best Features of Windows 10.ahk
 https://www.youtube.com/watch?v=2medem4yQ2c
 
-10540.  A Very Basic Computer Lesson for Senior Citizens or Anyone Else from InHomeComputerHelp com Part 1.ahk
+3.  A Very Basic Computer Lesson for Senior Citizens or Anyone Else from InHomeComputerHelp com Part 1.ahk
 https://www.youtube.com/watch?v=h_Z7xsHV6HM
 
-10544.  Advance Java for Beginners  Complete Java Programming Course in 10 Hours.ahk
+4.  Advance Java for Beginners  Complete Java Programming Course in 10 Hours.ahk
 https://www.youtube.com/watch?v=WqQsuIW2CFE
 
-10549.  Basic Computers skills.ahk
+5.  Basic Computers skills.ahk
 https://www.youtube.com/watch?v=1Ben2qLZkjc
 
-10555.  Beginner's Guide to Microsoft Word.ahk
+6.  Beginner's Guide to Microsoft Word.ahk
 https://www.youtube.com/watch?v=S-nHYzK-BVg
 
-10562.  Chromebook (Chrome OS) for Beginners???  H2TechVideos???.ahk
+7.  Chromebook (Chrome OS) for Beginners???  H2TechVideos???.ahk
 https://www.youtube.com/watch?v=_FOZJjJqSXo
 
-10570.  Free Computer Training Online - Learn Microsoft Access and More!.ahk
+8.  Free Computer Training Online - Learn Microsoft Access and More!.ahk
 https://www.youtube.com/watch?v=mZ_WfqYdRzk
 
-10579.  Getting Started - Computer Training for Older People.ahk
+9.  Getting Started - Computer Training for Older People.ahk
 https://www.youtube.com/watch?v=pUKzPbCxoMs
 
-10589.  Gmail Tutorial 2018 - Quick Start Training.ahk
+10.  Gmail Tutorial 2018 - Quick Start Training.ahk
 https://www.youtube.com/watch?v=sv5G5lBQAUE
 
-10600.  Google Photos Tutorial.ahk
+11.  Google Photos Tutorial.ahk
 https://www.youtube.com/watch?v=IEJH0n6xuJk
 
-10612.  Helping seniors learn technology through computer tutoring!.ahk
+12.  Helping seniors learn technology through computer tutoring!.ahk
 https://www.youtube.com/watch?v=dDX_BKaNEYI
 
-10625.  How to Use A Computer Windows 10  Beginners.ahk
+13.  How to Use A Computer Windows 10  Beginners.ahk
 https://www.youtube.com/watch?v=4PYar4Mhxiw
 
-10639.  How To Use Microsoft Windows 10 On a PC  Tutorial For Beginners.ahk
+14.  How To Use Microsoft Windows 10 On a PC  Tutorial For Beginners.ahk
 https://www.youtube.com/watch?v=yGcvbifq_oU
 
-10654.  Introduction to Windows 10  Tutorial & Guide for Beginners 2017  2018.ahk
+15.  Introduction to Windows 10  Tutorial & Guide for Beginners 2017  2018.ahk
 https://www.youtube.com/watch?v=nhAKidH3s4Q
 
-10670.  iTunes 12 Tutorial + Tips & Tricks.ahk
+16.  iTunes 12 Tutorial + Tips & Tricks.ahk
 https://www.youtube.com/watch?v=7u4iWUNXsRg
 
-10687.  Learn Windows 10, Windows 10 Tutorial.ahk
+17.  Learn Windows 10, Windows 10 Tutorial.ahk
 https://www.youtube.com/watch?v=1TneCqdEZuU
 
-10705.  Microsoft PowerShell for Beginners - Video 1 Learn PowerShell.ahk
+18.  Microsoft PowerShell for Beginners - Video 1 Learn PowerShell.ahk
 https://www.youtube.com/watch?v=IHrGresKu2w
 
-10724.  New to Android - A Full Tutorial of the Droid OS for Beginners (tablet).ahk
+19.  New to Android - A Full Tutorial of the Droid OS for Beginners (tablet).ahk
 https://www.youtube.com/watch?v=ABa3OvY-jLo
 
-10744.  Prevent Windows 10 Spying On You, Privacy & Security Matter!.ahk
+20.  Prevent Windows 10 Spying On You, Privacy & Security Matter!.ahk
 https://www.youtube.com/watch?v=u1kGMCfb2xw
 
-10765.  School Inc. Episode 1 The Price of Excellence - Full Video.ahk
+21.  School Inc. Episode 1 The Price of Excellence - Full Video.ahk
 https://www.youtube.com/watch?v=QrDfCy5Q9wI
 
-10787.  Senior Computer Lesson 1.ahk
+22.  Senior Computer Lesson 1.ahk
 https://www.youtube.com/watch?v=9Z1VOEnDhhc
 
-10810.  Tableau Training for Beginners Part 1  Learn Tableau  Tableau Tutorial for Beginners - 1  Edureka.ahk
+23.  Tableau Training for Beginners Part 1  Learn Tableau  Tableau Tutorial for Beginners - 1  Edureka.ahk
 https://www.youtube.com/watch?v=jj6-0cvcNEA
 
-10834.  The Beginner's Guide to Excel - Excel Basics Tutorial.ahk
+24.  The Beginner's Guide to Excel - Excel Basics Tutorial.ahk
 https://www.youtube.com/watch?v=rwbho0CgEAE
 
-10859.  Top 20 Windows 10 Tips and Tricks.ahk
+25.  Top 20 Windows 10 Tips and Tricks.ahk
 https://www.youtube.com/watch?v=skKRxAU8hJk
 
-10885.  Tutorial - Adobe Acrobat Pro DC for Beginners! - 2017-01-12.ahk
+26.  Tutorial - Adobe Acrobat Pro DC for Beginners! - 2017-01-12.ahk
 https://www.youtube.com/watch?v=YayE-WNSffE
 
-10912.  Windows 10 - Beginners Guide [Tutorial] (1051917).ahk
+27.  Windows 10 - Beginners Guide [Tutorial] (1051917).ahk
 https://www.youtube.com/watch?v=FZqKyhfD7-E
 
-10940.  Windows 10 - Beginners Guide [Tutorial].ahk
+28.  Windows 10 - Beginners Guide [Tutorial].ahk
 https://www.youtube.com/watch?v=_hktFxImjTI
 
-10969.  Windows 7 For Beginners Part 1.ahk
+29.  Windows 7 For Beginners Part 1.ahk
 https://www.youtube.com/watch?v=d41AkNRnNOc
 
-10999.  Windows Basics Getting Started with the Desktop.ahk
+30.  Windows Basics Getting Started with the Desktop.ahk
 https://www.youtube.com/watch?v=GDKIxBr6yhI
 Windows 10 for beginners (computer tutorials)

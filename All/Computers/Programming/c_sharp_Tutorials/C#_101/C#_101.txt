@@ -1,82 +1,82 @@
 
-4749390.  Arrays, List, and Collections  C# 101 [12 of 19].ahk
+1.  Arrays, List, and Collections  C# 101 [12 of 19].ahk
 https://www.youtube.com/watch?v=qLeF_wpnVto
 
-4749392.  Asynchronous Task Composition  C# 201 [6 of 8].ahk
+2.  Asynchronous Task Composition  C# 201 [6 of 8].ahk
 https://www.youtube.com/watch?v=cVtTsaNQQ1M
 
-4749395.  Branches (if)  C# 101 [8 of 19].ahk
+3.  Branches (if)  C# 101 [8 of 19].ahk
 https://www.youtube.com/watch?v=y4OTe8LSokg
 
-4749399.  Combining Branches and Loops  C# 101 [11 of 19].ahk
+4.  Combining Branches and Loops  C# 101 [11 of 19].ahk
 https://www.youtube.com/watch?v=qK7tUpaOXi8
 
-4749404.  Debugging  C# 101 [15 of 19].ahk
+5.  Debugging  C# 101 [15 of 19].ahk
 https://www.youtube.com/watch?v=pm_pv0Eb7Fw
 
-4749410.  Distinguish Asynchronous And Multi-Threading  C# 201 [8 of 8].ahk
+6.  Distinguish Asynchronous And Multi-Threading  C# 201 [8 of 8].ahk
 https://www.youtube.com/watch?v=Kfs84d7jaT8
 
-4749417.  Handling Asynchronous Exceptions  C# 201 [7 of 8].ahk
+7.  Handling Asynchronous Exceptions  C# 201 [7 of 8].ahk
 https://www.youtube.com/watch?v=yS3_T5YmREU
 
-4749425.  Hello World  C# 101 [2 of 19].ahk
+8.  Hello World  C# 101 [2 of 19].ahk
 https://www.youtube.com/watch?v=KT2VR7m19So
 
-4749434.  Hello World Explained  C# 101 [9 of 19].ahk
+9.  Hello World Explained  C# 101 [9 of 19].ahk
 https://www.youtube.com/watch?v=qmZ2RVZ4giY
 
-4749444.  Introduction To Async, Await, And Tasks  C# 201 [5 of 8].ahk
+10.  Introduction To Async, Await, And Tasks  C# 201 [5 of 8].ahk
 https://www.youtube.com/watch?v=X9N5r6kMOxw
 
-4749455.  Introduction to Language Integrated Query (LINQ)  C# 201 [1 of 8].ahk
+11.  Introduction to Language Integrated Query (LINQ)  C# 201 [1 of 8].ahk
 https://www.youtube.com/watch?v=p5myHVOtmiU
 
-4749467.  Learn LINQ Query syntax  C# 201 [2 of 8].ahk
+12.  Learn LINQ Query syntax  C# 201 [2 of 8].ahk
 https://www.youtube.com/watch?v=uUsnDXYRADA
 
-4749480.  LINQ Query Composition and Execution  C# 201 [3 of 8].ahk
+13.  LINQ Query Composition and Execution  C# 201 [3 of 8].ahk
 https://www.youtube.com/watch?v=gFkRzY-zwzc
 
-4749494.  LINQ, Entity Framework and Remote Data Sources  C# 201 [4 of 8].ahk
+14.  LINQ, Entity Framework and Remote Data Sources  C# 201 [4 of 8].ahk
 https://www.youtube.com/watch?v=Q_59nDCezuU
 
-4749509.  Lists of Other Types  C# 101 [14 of 19].ahk
+15.  Lists of Other Types  C# 101 [14 of 19].ahk
 https://www.youtube.com/watch?v=oIQdb93xewE
 
-4749525.  Numbers and Decimals  C# 101 [7 of 19].ahk
+16.  Numbers and Decimals  C# 101 [7 of 19].ahk
 https://www.youtube.com/watch?v=kdKcpF9roeU
 
-4749542.  Numbers and Integer Math  C# 101 [5 of 19].ahk
+17.  Numbers and Integer Math  C# 101 [5 of 19].ahk
 https://www.youtube.com/watch?v=jEE0pWTq54U
 
-4749560.  Numbers and Integer Precision  C# 101 [6 of 19].ahk
+18.  Numbers and Integer Precision  C# 101 [6 of 19].ahk
 https://www.youtube.com/watch?v=31EmPADtv4w
 
-4749579.  Object Oriented Programming Catching Exceptions  C# 101 [19 of 19].ahk
+19.  Object Oriented Programming Catching Exceptions  C# 101 [19 of 19].ahk
 https://www.youtube.com/watch?v=INfLHh3TDkk
 
-4749599.  Object Oriented Programming Methods and Exceptions  C# 101 [18 of 19].ahk
+20.  Object Oriented Programming Methods and Exceptions  C# 101 [18 of 19].ahk
 https://www.youtube.com/watch?v=8YsoBBiVVzQ
 
-4749620.  Object Oriented Programming Methods and Members  C# 101 [17 of 19].ahk
+21.  Object Oriented Programming Methods and Members  C# 101 [17 of 19].ahk
 https://www.youtube.com/watch?v=xLhm3bEG__c
 
-4749642.  Object Oriented Programming Objects and Classes  C# 101 [16 of 19].ahk
+22.  Object Oriented Programming Objects and Classes  C# 101 [16 of 19].ahk
 https://www.youtube.com/watch?v=TzgxcAiHCWA
 
-4749665.  Searching Strings  C# 101 [4 of 19].ahk
+23.  Searching Strings  C# 101 [4 of 19].ahk
 https://www.youtube.com/watch?v=JL30gSE3WaQ
 
-4749689.  Sort, Search, and Index Lists  C# 101 [13 of 19].ahk
+24.  Sort, Search, and Index Lists  C# 101 [13 of 19].ahk
 https://www.youtube.com/watch?v=NJ5ghiutzfY
 
-4749714.  The Basics of Strings  C# 101 [3 of 19].ahk
+25.  The Basics of Strings  C# 101 [3 of 19].ahk
 https://www.youtube.com/watch?v=JSpC7Cz64h0
 
-4749740.  What are Loops  C# 101 [10 of 19].ahk
+26.  What are Loops  C# 101 [10 of 19].ahk
 https://www.youtube.com/watch?v=z31m5Up_gSQ
 
-4749767.  What is C#  C# 101 [1 of 19].ahk
+27.  What is C#  C# 101 [1 of 19].ahk
 https://www.youtube.com/watch?v=BM4CHBmAPh4
 C# 101

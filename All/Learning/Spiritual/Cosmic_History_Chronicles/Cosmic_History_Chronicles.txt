@@ -1,586 +1,586 @@
 
-47598.  .ahk
+1.  .ahk
 
 
-47600.  13 Baktun Wavespell Map of History 2.1.9.ahk
+2.  13 Baktun Wavespell Map of History 2.1.9.ahk
 https://www.youtube.com/watch?v=XqcUPdpH-x8&index=48&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47603.  13.7 Billion Year Wavespell of Cosmic Creation 2.1.3.ahk
+3.  13.7 Billion Year Wavespell of Cosmic Creation 2.1.3.ahk
 https://www.youtube.com/watch?v=7diR3mZq8Bg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=42&t=0s
 
-47607.  1956 - 1967 3.5.5.ahk
+4.  1956 - 1967 3.5.5.ahk
 https://www.youtube.com/watch?v=lrf6VqPQknw&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=153&t=0s
 
-47612.  365th Day of Creation 2.1.6.ahk
+5.  365th Day of Creation 2.1.6.ahk
 https://www.youtube.com/watch?v=1H2_WRnQbTc&index=45&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47618.  Aligning with the Axis of the Spiritual Universe 2.6.6.ahk
+6.  Aligning with the Axis of the Spiritual Universe 2.6.6.ahk
 https://www.youtube.com/watch?v=RVCudMIEVXs&index=82&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47625.  Anthropism and Positivism 2.0.3.ahk
+7.  Anthropism and Positivism 2.0.3.ahk
 https://www.youtube.com/watch?v=0MgEtLY1MwQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=36&t=0s
 
-47633.  Arbitrary Calendar 2.1.7.ahk
+8.  Arbitrary Calendar 2.1.7.ahk
 https://www.youtube.com/watch?v=GzZW7F0HvD8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=46&t=0s
 
-47642.  Art as Life 3.8.2.ahk
+9.  Art as Life 3.8.2.ahk
 https://www.youtube.com/watch?v=1YfGyHkppbo&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=170&t=0s
 
-47652.  Art Forms - A Cosmoplanetary Perspective 3.2.1.ahk
+10.  Art Forms - A Cosmoplanetary Perspective 3.2.1.ahk
 https://www.youtube.com/watch?v=hPCbiGAA9y0&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=131&t=0s
 
-47663.  Art in the Noughties 3.2.4.ahk
+11.  Art in the Noughties 3.2.4.ahk
 https://www.youtube.com/watch?v=4q0w_aATVuc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=134&t=0s
 
-47675.  Art, Imagination and the Imaginal Realm 3.1.1.ahk
+12.  Art, Imagination and the Imaginal Realm 3.1.1.ahk
 https://www.youtube.com/watch?v=gVHxa50u1Lg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=126&t=0s
 
-47688.  Astrophysics, Telepathy and Displacement 2.12.1.ahk
+13.  Astrophysics, Telepathy and Displacement 2.12.1.ahk
 https://www.youtube.com/watch?v=K9DBSxHDaZo&index=115&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47702.  Becoming a Seer 3.7.3.ahk
+14.  Becoming a Seer 3.7.3.ahk
 https://www.youtube.com/watch?v=QfYwJAQ4rZY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=166&t=0s
 
-47717.  Beliefs, Culture and Memes 3.10.2.ahk
+15.  Beliefs, Culture and Memes 3.10.2.ahk
 https://www.youtube.com/watch?v=E9r5zDjEi_M&index=184&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47733.  Black Holes and Mind Projections 2.6.5.ahk
+16.  Black Holes and Mind Projections 2.6.5.ahk
 https://www.youtube.com/watch?v=I2NXj__yjgk&index=81&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47750.  Canned Personalities 3.6.3.ahk
+17.  Canned Personalities 3.6.3.ahk
 https://www.youtube.com/watch?v=ewUvQhd_bF0&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=157&t=0s
 
-47768.  Cephalization and Radial Order 3.11.4.ahk
+18.  Cephalization and Radial Order 3.11.4.ahk
 https://www.youtube.com/watch?v=qAESNinvy5M&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=193&t=0s
 
-47787.  Communication and Consciousness 3.10.1.1.ahk
+19.  Communication and Consciousness 3.10.1.1.ahk
 https://www.youtube.com/watch?v=qqLsxbEcVCc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=183&t=0s
 
-47807.  Communist Manifesto 3.6.2.ahk
+20.  Communist Manifesto 3.6.2.ahk
 https://www.youtube.com/watch?v=aO1AGUxiYno&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=156&t=0s
 
-47828.  Computer Generated Universe 3.6.8.1.ahk
+21.  Computer Generated Universe 3.6.8.1.ahk
 https://www.youtube.com/watch?v=fTBnnI5QtGo&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=162&t=0s
 
-47850.  Constructing the Cosmos - Introducing the Rang 2.1.2.ahk
+22.  Constructing the Cosmos - Introducing the Rang 2.1.2.ahk
 https://www.youtube.com/watch?v=6BkQ1hLx_Ac&index=41&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47873.  Cosmic Calendar and the Creation of the Universe 2.1.4.ahk
+23.  Cosmic Calendar and the Creation of the Universe 2.1.4.ahk
 https://www.youtube.com/watch?v=W9LmqKJ_abA&index=43&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47897.  Cosmic Genetics, Atomic Physics and the 13 Dimensions 2.9.1.ahk
+24.  Cosmic Genetics, Atomic Physics and the 13 Dimensions 2.9.1.ahk
 https://www.youtube.com/watch?v=22VWUFR9wHg&index=97&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47922.  Cosmic Science 2.8.1.ahk
+25.  Cosmic Science 2.8.1.ahk
 https://www.youtube.com/watch?v=iBNfjtMC15I&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=90&t=0s
 
-47948.  Cosmic Universal Law 2.11.2.ahk
+26.  Cosmic Universal Law 2.11.2.ahk
 https://www.youtube.com/watch?v=uJWFX0tr8h0&index=112&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-47975.  Cosmic View of Art Forms 3.2.3 (Part 1.ahk
+27.  Cosmic View of Art Forms 3.2.3 (Part 1.ahk
 https://www.youtube.com/watch?v=HtL69xQ1kAs&index=132&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48003.  Cosmic View of Art Forms 3.2.3 (Part 2.ahk
+28.  Cosmic View of Art Forms 3.2.3 (Part 2.ahk
 https://www.youtube.com/watch?v=17A0RR1L-3g&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=133&t=0s
 
-48032.  Cosmology of The Avatar's Wheel of Time 2.2.5.ahk
+29.  Cosmology of The Avatar's Wheel of Time 2.2.5.ahk
 https://www.youtube.com/watch?v=qxn2csfG-iA&index=54&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48062.  Cosmology, Submission and Supermental Descent 2.6.1.ahk
+30.  Cosmology, Submission and Supermental Descent 2.6.1.ahk
 https://www.youtube.com/watch?v=Odwo2U7cFms&index=77&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48093.  Cosmosphere 2.11.4.ahk
+31.  Cosmosphere 2.11.4.ahk
 https://www.youtube.com/watch?v=rEp4LD8RRsE&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=114&t=0s
 
-48125.  Creation of Spirit Forms 2.12.4.ahk
+32.  Creation of Spirit Forms 2.12.4.ahk
 https://www.youtube.com/watch?v=2XJb8GkXnmg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=118&t=0s
 
-48158.  Creative Thought Ocean 3.3.1.2.ahk
+33.  Creative Thought Ocean 3.3.1.2.ahk
 https://www.youtube.com/watch?v=iUO1ZaNCBdg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=138&t=0s
 
-48192.  Critique of Dominant Scientific Cosmology 2.6.2.ahk
+34.  Critique of Dominant Scientific Cosmology 2.6.2.ahk
 https://www.youtube.com/watch?v=iQJqYf-BKA0&index=78&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48227.  Crystal Geometry 3.12.2.1.ahk
+35.  Crystal Geometry 3.12.2.1.ahk
 https://www.youtube.com/watch?v=I-MBkSsJbXg&index=200&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48263.  Crystal Gürz 3.3.2.ahk
+36.  Crystal Gürz 3.3.2.ahk
 https://www.youtube.com/watch?v=Iu7n2LSDjrQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=139&t=0s
 
-48300.  Crystallization of the Cosmic Art Whole 3.12.1.ahk
+37.  Crystallization of the Cosmic Art Whole 3.12.1.ahk
 https://www.youtube.com/watch?v=SK2b9If3130&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=198&t=0s
 
-48338.  Cybersphere and Galactic Maya 3.6.9.ahk
+38.  Cybersphere and Galactic Maya 3.6.9.ahk
 https://www.youtube.com/watch?v=ESEyj31XaUQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=163&t=0s
 
-48377.  Cybersphere and Identity Crisis 3.6.1.ahk
+39.  Cybersphere and Identity Crisis 3.6.1.ahk
 https://www.youtube.com/watch?v=CvF4Bg-w4Pc&index=155&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48417.  Democracy and Hierarchical Values 3.8.4.ahk
+40.  Democracy and Hierarchical Values 3.8.4.ahk
 https://www.youtube.com/watch?v=gGv_1olEEok&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=173&t=0s
 
-48458.  Descent of Divine Knowing 2.0.5.ahk
+41.  Descent of Divine Knowing 2.0.5.ahk
 https://www.youtube.com/watch?v=qUejl1SRoi8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=38&t=0s
 
-48500.  Destruction of Maldek 2.5.5.ahk
+42.  Destruction of Maldek 2.5.5.ahk
 https://www.youtube.com/watch?v=tDIyHX_iif4&index=76&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48543.  Dharma 3.8.2.1.ahk
+43.  Dharma 3.8.2.1.ahk
 https://www.youtube.com/watch?v=LLYF9KmPll4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=171&t=0s
 
-48587.  Dharma Art 3.8.5.1.ahk
+44.  Dharma Art 3.8.5.1.ahk
 https://www.youtube.com/watch?v=5AZ3_PUuQYc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=175&t=0s
 
-48632.  Dharma Art and a Universal Aesthetic Norm 3.8.1.ahk
+45.  Dharma Art and a Universal Aesthetic Norm 3.8.1.ahk
 https://www.youtube.com/watch?v=Yj3CtXPbeDM&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=169&t=0s
 
-48678.  Divine Descent and Evolutionary Necessity 2.0.1.ahk
+46.  Divine Descent and Evolutionary Necessity 2.0.1.ahk
 https://www.youtube.com/watch?v=sWEPKCZBNYc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=34&t=0s
 
-48725.  Divine Intervention - For Humans Only 2.3.4.ahk
+47.  Divine Intervention - For Humans Only 2.3.4.ahk
 https://www.youtube.com/watch?v=ibdn22BH13w&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=60&t=0s
 
-48773.  Dress Codes and Demediocrity 3.4.3.ahk
+48.  Dress Codes and Demediocrity 3.4.3.ahk
 https://www.youtube.com/watch?v=cLgGyD8lgKw&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=142&t=0s
 
-48822.  Earth as Universal Court 3.11.1.ahk
+49.  Earth as Universal Court 3.11.1.ahk
 https://www.youtube.com/watch?v=LGAUtZ7K9ko&index=190&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-48872.  Electronic Lines of Force, Electromagnetism and Spin 2.8.4.ahk
+50.  Electronic Lines of Force, Electromagnetism and Spin 2.8.4.ahk
 https://www.youtube.com/watch?v=zL2uOiuC46s&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=93&t=0s
 
-48923.  Elevating Human Art 3.8.5.ahk
+51.  Elevating Human Art 3.8.5.ahk
 https://www.youtube.com/watch?v=Y_0ojwsGz-o&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=174&t=0s
 
-48975.  Eng 2.0.3 (Part 1.ahk
+52.  Eng 2.0.3 (Part 1.ahk
 https://www.youtube.com/watch?v=EJcYpopBlPk&index=5&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49028.  Eng 2.0.3 (Part 2.ahk
+53.  Eng 2.0.3 (Part 2.ahk
 https://www.youtube.com/watch?v=PIHBmzqLF8g&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=6&t=0s
 
-49082.  Eng 2.0.5 Cosmic Science - Descent of the Knowing -COSMIC HISTORY CHRONICLES.ahk
+54.  Eng 2.0.5 Cosmic Science - Descent of the Knowing -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=T1YG4jLdH3o&index=25&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49137.  Eng 2.1.2- Constructing the Cosmos - Introducing the Rang - COSMIC HISTORY CHRONICLES.ahk
+55.  Eng 2.1.2- Constructing the Cosmos - Introducing the Rang - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=q8Ctv_kVVIk&index=32&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49193.  Eng 2.1.3. 13.7 Billion Year Wavespell of Cosmic Creation -COSMIC HISTORY CHRONICLES.ahk
+56.  Eng 2.1.3. 13.7 Billion Year Wavespell of Cosmic Creation -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=AK3-2KiH1uo&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=11&t=0s
 
-49250.  Eng 2.1.4 (Part 1.ahk
+57.  Eng 2.1.4 (Part 1.ahk
 https://www.youtube.com/watch?v=H8T6RybChQU&index=29&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49308.  Eng 2.1.4 (Part 2.ahk
+58.  Eng 2.1.4 (Part 2.ahk
 https://www.youtube.com/watch?v=kd7ux5VSk10&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=30&t=0s
 
-49367.  Eng 2.1.6 - 365th Day of Creation - COSMIC HISTORY CHRONICLES.ahk
+59.  Eng 2.1.6 - 365th Day of Creation - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=2-ehWUZqalU&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=10&t=0s
 
-49427.  Eng 2.1.7- Arbitrary Calendar - COSMIC HISTORY CHRONICLES.ahk
+60.  Eng 2.1.7- Arbitrary Calendar - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=omcyqXHVEC0&index=4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49488.  Eng 2.11.2 (Part 1.ahk
+61.  Eng 2.11.2 (Part 1.ahk
 https://www.youtube.com/watch?v=BvmyWwgE7EQ&index=23&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49550.  Eng 2.11.2 (Part 2.ahk
+62.  Eng 2.11.2 (Part 2.ahk
 https://www.youtube.com/watch?v=56WCsabhApA&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=24&t=0s
 
-49613.  Eng 2.11.4 Cosmosphere - COSMIC HISTORY CHRONICLES.ahk
+63.  Eng 2.11.4 Cosmosphere - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=b_8vZzRvhBE&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=20&t=0s
 
-49677.  Eng 2.12.1 (Part 1.ahk
+64.  Eng 2.12.1 (Part 1.ahk
 https://www.youtube.com/watch?v=e3XuIKc3V8k&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=2&t=4s
 
-49742.  Eng 2.12.1 (Part 2.ahk
+65.  Eng 2.12.1 (Part 2.ahk
 https://www.youtube.com/watch?v=8-h1N0x5JqQ&index=3&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49808.  Eng 2.13.7- Conclusions - COSMIC HISTORY CHRONICLES.ahk
+66.  Eng 2.13.7- Conclusions - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=J-cl8NH-8r0&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=33&t=0s
 
-49875.  Eng 2.2.5- Cosmology of The Avatar's Wheel of Time - COSMIC HISTORY CHRONICLES.ahk
+67.  Eng 2.2.5- Cosmology of The Avatar's Wheel of Time - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=E4JSMo6ABx4&index=22&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-49943.  Eng 2.5.5- Destruction of Maldek -COSMIC HISTORY CHRONICLES.ahk
+68.  Eng 2.5.5- Destruction of Maldek -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=OjwkccUyVEk&index=17&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50012.  Eng 2.6.1- Cosmology, Submission and Supermental- COSMIC HISTORY CHRONICLES.ahk
+69.  Eng 2.6.1- Cosmology, Submission and Supermental- COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=A9f2odd0LcM&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=21&t=0s
 
-50082.  Eng 2.6.2 Critique of Dominant Scientific Cosmology -COSMIC HISTORY CHRONICLES.ahk
+70.  Eng 2.6.2 Critique of Dominant Scientific Cosmology -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=OuLv7W_5D7k&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=19&t=0s
 
-50153.  Eng 2.6.5 (Part 1.ahk
+71.  Eng 2.6.5 (Part 1.ahk
 https://www.youtube.com/watch?v=FNxwCS3pq2w&index=12&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50225.  Eng 2.6.5 (Part 2.ahk
+72.  Eng 2.6.5 (Part 2.ahk
 https://www.youtube.com/watch?v=EJV_i_JIXJk&index=13&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50298.  Eng 2.6.5 (Part 3.ahk
+73.  Eng 2.6.5 (Part 3.ahk
 https://www.youtube.com/watch?v=JvTPeNixSAA&index=14&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50372.  Eng 2.6.6 - Aligning with the Axis of the Spiritual Universe -COSMIC HISTORY CHRONICLES.ahk
+74.  Eng 2.6.6 - Aligning with the Axis of the Spiritual Universe -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=k3BogAWFkHw&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=7&t=0s
 
-50447.  Eng 2.9.1- Cosmic Genetics, Atomic Physics and the 13 Dimensions-COSMIC HISTORY CHRONICLES.ahk
+75.  Eng 2.9.1- Cosmic Genetics, Atomic Physics and the 13 Dimensions-COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=nDrrqr-nh_Y&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=28&t=0s
 
-50523.  ENG 4.2.1- Cosmic History - Mind Gate to a New Reality- COSMIC HISTORY CHRONICLES.ahk
+76.  ENG 4.2.1- Cosmic History - Mind Gate to a New Reality- COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=KLDKE12yEMM&index=27&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50600.  Eng 4.2.2 Cosmic History as Hermetic StreamM - COSMIC HISTORY CHRONICLES.ahk
+77.  Eng 4.2.2 Cosmic History as Hermetic StreamM - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=VNTSFymE4mw&index=26&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50678.  Eng 4.2.6 - Convergent Evolution - COSMIC HISTORY CHRONICLES.ahk
+78.  Eng 4.2.6 - Convergent Evolution - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=qNDErM2bzl8&index=31&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50757.  Eng 4.4.12 - Aleister Crowley -COSMIC HISTORY CHRONICLES.ahk
+79.  Eng 4.4.12 - Aleister Crowley -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=ymaAFHFW-iE&index=9&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50837.  Eng 4.4.13- Alice Bailey - COSMIC HISTORY CHRONICLES.ahk
+80.  Eng 4.4.13- Alice Bailey - COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=oCck_Hwm4BQ&index=8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-50918.  Eng 4.4.14- Dane Rudhyar-COSMIC HISTORY CHRONICLES.ahk
+81.  Eng 4.4.14- Dane Rudhyar-COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=9O96LVMZgv0&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=18&t=0s
 
-51000.  Eng 4.6.2.- Blavatsky - Birth and Early Years -COSMIC HISTORY CHRONICLES.ahk
+82.  Eng 4.6.2.- Blavatsky - Birth and Early Years -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=IaINIR5efck&index=16&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=74s
 
-51083.  Eng 4.6.4- Blavatsky - Display of Power -COSMIC HISTORY CHRONICLES.ahk
+83.  Eng 4.6.4- Blavatsky - Display of Power -COSMIC HISTORY CHRONICLES.ahk
 https://www.youtube.com/watch?v=Pk71MRxb2Hc&index=15&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51167.  Eschatology - Looking at the End of Times 2.4.6.ahk
+84.  Eschatology - Looking at the End of Times 2.4.6.ahk
 https://www.youtube.com/watch?v=z91WqixEjmQ&index=70&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51252.  Evolutionary Cosmology and Psychology 2.13.2.ahk
+85.  Evolutionary Cosmology and Psychology 2.13.2.ahk
 https://www.youtube.com/watch?v=0hmSDMKiTxA&index=120&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51338.  Evolutionary Reunion of Twin Souls 2.11.3.ahk
+86.  Evolutionary Reunion of Twin Souls 2.11.3.ahk
 https://www.youtube.com/watch?v=4VEIVlBKcNs&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=113&t=0s
 
-51425.  Exploring the Big Bang 2.6.3.ahk
+87.  Exploring the Big Bang 2.6.3.ahk
 https://www.youtube.com/watch?v=KF7Cy496mdY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=79&t=0s
 
-51513.  Exploring the Dimensions 2.9.5.ahk
+88.  Exploring the Dimensions 2.9.5.ahk
 https://www.youtube.com/watch?v=5Q7uGT7E3v8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=101&t=0s
 
-51602.  Feng Shui 3.8.6.ahk
+89.  Feng Shui 3.8.6.ahk
 https://www.youtube.com/watch?v=bxcJ1b567ts&index=176&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51692.  Form and Performance Arts - Projection of Entertainers 3.4.4.ahk
+90.  Form and Performance Arts - Projection of Entertainers 3.4.4.ahk
 https://www.youtube.com/watch?v=Vul8g4RbFak&index=143&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51783.  Forward - Making the Book of the Mystery 3.0.ahk
+91.  Forward - Making the Book of the Mystery 3.0.ahk
 https://www.youtube.com/watch?v=eu0BM17YfkE&index=125&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-51875.  Galactic Creation 2.12.2.ahk
+92.  Galactic Creation 2.12.2.ahk
 https://www.youtube.com/watch?v=b4cp1MFTNlM&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=116&t=0s
 
-51968.  Galactic Dzogchen 2.13.3.ahk
+93.  Galactic Dzogchen 2.13.3.ahk
 https://www.youtube.com/watch?v=JKv6yeS3qbc&index=121&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-52062.  Galactic Maya 2.0.6.ahk
+94.  Galactic Maya 2.0.6.ahk
 https://www.youtube.com/watch?v=mFhs5sVSfS4&index=39&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-52157.  Galactic Memes and Divine Schemes 3.10.1.ahk
+95.  Galactic Memes and Divine Schemes 3.10.1.ahk
 https://www.youtube.com/watch?v=IJ9qcfR0cpM&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=182&t=0s
 
-52253.  Healing Vision of Art 3.7.5.ahk
+96.  Healing Vision of Art 3.7.5.ahk
 https://www.youtube.com/watch?v=nU71jWZNeCg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=168&t=0s
 
-52350.  Heptocubic Mental Structures 2.13.4.ahk
+97.  Heptocubic Mental Structures 2.13.4.ahk
 https://www.youtube.com/watch?v=NzeF1efxvF8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=122&t=0s
 
-52448.  Higher Mind 2.0.4.ahk
+98.  Higher Mind 2.0.4.ahk
 https://www.youtube.com/watch?v=gJXkpjvnKpI&index=37&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-52547.  Higher You Go the Greater the Responsability 3.9.2.ahk
+99.  Higher You Go the Greater the Responsability 3.9.2.ahk
 https://www.youtube.com/watch?v=IzDGSGNVYJs&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=178&t=0s
 
-52647.  History of Harmony 2.1.10.ahk
+100.  History of Harmony 2.1.10.ahk
 https://www.youtube.com/watch?v=WL_JPxDr9-s&index=49&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-52748.  History of Lost Planet Analphs 3.5.1.1.ahk
+101.  History of Lost Planet Analphs 3.5.1.1.ahk
 https://www.youtube.com/watch?v=FLreEgDmLgE&index=147&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-52850.  History of Nature and the Nature of History 2.1.8.ahk
+102.  History of Nature and the Nature of History 2.1.8.ahk
 https://www.youtube.com/watch?v=VJrOdghf_70&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=47&t=0s
 
-52953.  History of the Messengers of the Awakening 2.4.1 (Part 1.ahk
+103.  History of the Messengers of the Awakening 2.4.1 (Part 1.ahk
 https://www.youtube.com/watch?v=bSlrT6SaEaA&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=62&t=0s
 
-53057.  History of the Messengers of the Awakening 2.4.1 (Part 2.ahk
+104.  History of the Messengers of the Awakening 2.4.1 (Part 2.ahk
 https://www.youtube.com/watch?v=Dddsf-_MomU&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=63&t=0s
 
-53162.  History of the Messengers of the Awakening 2.4.1 (Part 3.ahk
+105.  History of the Messengers of the Awakening 2.4.1 (Part 3.ahk
 https://www.youtube.com/watch?v=IkpOxkYlTJ4&index=64&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53268.  History of the Messengers of the Awakening 2.4.1 (Part 4.ahk
+106.  History of the Messengers of the Awakening 2.4.1 (Part 4.ahk
 https://www.youtube.com/watch?v=gfNR0FMch64&index=65&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53375.  How the Mind Works 2.10.5.ahk
+107.  How the Mind Works 2.10.5.ahk
 https://www.youtube.com/watch?v=32ALi-N_UWY&index=108&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53483.  Human as Energy Conduit 2.9.4.ahk
+108.  Human as Energy Conduit 2.9.4.ahk
 https://www.youtube.com/watch?v=1AwHU5OLAdc&index=100&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53592.  Human Infatuated by Machine 3.6.4.ahk
+109.  Human Infatuated by Machine 3.6.4.ahk
 https://www.youtube.com/watch?v=wpfZhXq2x8I&index=158&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53702.  Identity of a Computer Geek 3.6.7.ahk
+110.  Identity of a Computer Geek 3.6.7.ahk
 https://www.youtube.com/watch?v=4ayuitJvC6o&index=161&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53813.  Importance of Discipline 2.10.3.ahk
+111.  Importance of Discipline 2.10.3.ahk
 https://www.youtube.com/watch?v=sj7HVs6beP4&index=106&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-53925.  Interplanetary History and the Galactic Maya 2.5.1.ahk
+112.  Interplanetary History and the Galactic Maya 2.5.1.ahk
 https://www.youtube.com/watch?v=MMtyxzpYrs4&index=72&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-54038.  Intervention of the Absolute in History 2.3.1.ahk
+113.  Intervention of the Absolute in History 2.3.1.ahk
 https://www.youtube.com/watch?v=wcYTJT03wZw&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=57&t=0s
 
-54152.  Introduction of Clothes 3.4.2.ahk
+114.  Introduction of Clothes 3.4.2.ahk
 https://www.youtube.com/watch?v=XBl0bypcX90&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=141&t=0s
 
-54267.  Jimi Hendrix and Jim Morrison as Works of Art 3.4.6.ahk
+115.  Jimi Hendrix and Jim Morrison as Works of Art 3.4.6.ahk
 https://www.youtube.com/watch?v=GwOldAkIgWk&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=145&t=0s
 
-54383.  Karma - Dharma 2.10.7.ahk
+116.  Karma - Dharma 2.10.7.ahk
 https://www.youtube.com/watch?v=yj45ZRiE9Ms&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=110&t=0s
 
-54500.  Last Battle 2.5.2.ahk
+117.  Last Battle 2.5.2.ahk
 https://www.youtube.com/watch?v=q27XuybwEIk&index=73&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-54618.  Learning to Project - Art of Wielding Power 3.9.1.ahk
+118.  Learning to Project - Art of Wielding Power 3.9.1.ahk
 https://www.youtube.com/watch?v=95SYgHYjNzI&index=177&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-54737.  Levels of Information - Divine Schemes 3.10.5.ahk
+119.  Levels of Information - Divine Schemes 3.10.5.ahk
 https://www.youtube.com/watch?v=UmesKyG1clY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=187&t=0s
 
-54857.  Lives of the Messengers - Some Considerations 2.4.2.ahk
+120.  Lives of the Messengers - Some Considerations 2.4.2.ahk
 https://www.youtube.com/watch?v=UfNbNkJBhnY&index=66&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-54978.  Local Horizons 3.11.2.ahk
+121.  Local Horizons 3.11.2.ahk
 https://www.youtube.com/watch?v=RwDS2eXvgIg&index=191&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-55100.  Lost Planet Analphs 3.5.1.ahk
+122.  Lost Planet Analphs 3.5.1.ahk
 https://www.youtube.com/watch?v=88E1jLR73gI&index=146&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-55223.  Mandala - Mystery of History 3.7.1.ahk
+123.  Mandala - Mystery of History 3.7.1.ahk
 https://www.youtube.com/watch?v=pIz6IeehLiQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=164&t=0s
 
-55347.  Mandala of Time 3.7.2.ahk
+124.  Mandala of Time 3.7.2.ahk
 https://www.youtube.com/watch?v=RnTLYZXgr4Y&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=165&t=0s
 
-55472.  Mapping out the New Reality - The Holomind Perceiver 3.11.5.ahk
+125.  Mapping out the New Reality - The Holomind Perceiver 3.11.5.ahk
 https://www.youtube.com/watch?v=fOyKYUU7Wcg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=194&t=0s
 
-55598.  Mars 3.5.2.1.ahk
+126.  Mars 3.5.2.1.ahk
 https://www.youtube.com/watch?v=f-VdUDmW2gY&index=149&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-55725.  Martian Clues 3.5.2.ahk
+127.  Martian Clues 3.5.2.ahk
 https://www.youtube.com/watch?v=r1NLJJ3LuPE&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=148&t=0s
 
-55853.  Mass Media and the Imaginal Realm 3.1.3.ahk
+128.  Mass Media and the Imaginal Realm 3.1.3.ahk
 https://www.youtube.com/watch?v=luQabY1DMWA&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=128&t=0s
 
-55982.  Memory and Replication 3.10.3.ahk
+129.  Memory and Replication 3.10.3.ahk
 https://www.youtube.com/watch?v=_Lu0CDw7wFY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=185&t=0s
 
-56112.  Mental Determinants and Future Projection 3.9.4.ahk
+130.  Mental Determinants and Future Projection 3.9.4.ahk
 https://www.youtube.com/watch?v=Cax2hnrXQVI&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=181&t=0s
 
-56243.  Metabolic Pattern and Atomic Physics 2.9.3.ahk
+131.  Metabolic Pattern and Atomic Physics 2.9.3.ahk
 https://www.youtube.com/watch?v=5MEdb9f4BFM&index=99&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-56375.  Mind and Consciousness 2.6.4.ahk
+132.  Mind and Consciousness 2.6.4.ahk
 https://www.youtube.com/watch?v=r0GrvpLm6fc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=80&t=0s
 
-56508.  Modern Physics & Cosmic (ET.ahk
+133.  Modern Physics & Cosmic (ET.ahk
 https://www.youtube.com/watch?v=AaWTKN19fmI&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=84&t=0s
 
-56642.  Music and the History of Cosmic Resonance 3.5.3.ahk
+134.  Music and the History of Cosmic Resonance 3.5.3.ahk
 https://www.youtube.com/watch?v=63YQzUTD_L0&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=150&t=0s
 
-56777.  Nature is Art 3.9.2.1.ahk
+135.  Nature is Art 3.9.2.1.ahk
 https://www.youtube.com/watch?v=keFRoFrTwcQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=179&t=0s
 
-56913.  Numerical Cosmology of the Law of Time 2.2.4.ahk
+136.  Numerical Cosmology of the Law of Time 2.2.4.ahk
 https://www.youtube.com/watch?v=JYLiCZIYQXs&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=53&t=0s
 
-57050.  On the Nature of Mind and Cosmic Order 2.10.0.ahk
+137.  On the Nature of Mind and Cosmic Order 2.10.0.ahk
 https://www.youtube.com/watch?v=AuecMGoAuk8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=103&t=0s
 
-57188.  Origin of Form 2.8.7.ahk
+138.  Origin of Form 2.8.7.ahk
 https://www.youtube.com/watch?v=3zfeJlQciEM&index=96&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-57327.  Origin of Images 3.1.2.ahk
+139.  Origin of Images 3.1.2.ahk
 https://www.youtube.com/watch?v=lRBLnXQGRek&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=127&t=0s
 
-57467.  Pacal Votan - Legacy of the Galactic Maya 2.4.7.ahk
+140.  Pacal Votan - Legacy of the Galactic Maya 2.4.7.ahk
 https://www.youtube.com/watch?v=fxzfs1dETOc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=71&t=0s
 
-57608.  Pacal Votan and Rock and Roll 3.5.4.ahk
+141.  Pacal Votan and Rock and Roll 3.5.4.ahk
 https://www.youtube.com/watch?v=5Efm5f-pVEM&index=152&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-57750.  Pacal Votan's Samadhi 2.5.4.ahk
+142.  Pacal Votan's Samadhi 2.5.4.ahk
 https://www.youtube.com/watch?v=nkaNTzTrhEA&index=75&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=4s
 
-57893.  Parapsychology and Evolutionary Potentiality 2.10.6.ahk
+143.  Parapsychology and Evolutionary Potentiality 2.10.6.ahk
 https://www.youtube.com/watch?v=ksyZ1BEY4gE&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=109&t=0s
 
-58037.  Pentatonic Scale and Octave 3.5.3.1.ahk
+144.  Pentatonic Scale and Octave 3.5.3.1.ahk
 https://www.youtube.com/watch?v=Nmzibp8-30M&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=151&t=0s
 
-58182.  Physics and the Senses 2.7.4.ahk
+145.  Physics and the Senses 2.7.4.ahk
 https://www.youtube.com/watch?v=KQ4sY5p6kGk&index=87&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-58328.  Pink Floyd 3.5.6.ahk
+146.  Pink Floyd 3.5.6.ahk
 https://www.youtube.com/watch?v=JXdTjk53U08&index=154&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-58475.  Pop Culture and Andy Warhol 3.4.5.ahk
+147.  Pop Culture and Andy Warhol 3.4.5.ahk
 https://www.youtube.com/watch?v=3iYiW3slYeA&index=144&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-58623.  Premise of Cosmic Science 2.7.6.ahk
+148.  Premise of Cosmic Science 2.7.6.ahk
 https://www.youtube.com/watch?v=odMHoAvRkAs&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=89&t=0s
 
-58772.  Principles of Visualization in the Imaginal Realm 3.9.3.ahk
+149.  Principles of Visualization in the Imaginal Realm 3.9.3.ahk
 https://www.youtube.com/watch?v=dRLhHVe5K8Y&index=180&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-58922.  Proliferation of the Cybersphere 3.6.6.ahk
+150.  Proliferation of the Cybersphere 3.6.6.ahk
 https://www.youtube.com/watch?v=1kJjjGk3-8o&index=160&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-59073.  Psychocybernetics 2.10.1.ahk
+151.  Psychocybernetics 2.10.1.ahk
 https://www.youtube.com/watch?v=vlHjhgnn9fc&index=104&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-59225.  Psychocybernetics 2.10.4.ahk
+152.  Psychocybernetics 2.10.4.ahk
 https://www.youtube.com/watch?v=erOWMKZj2rI&index=107&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-59378.  PUM - Plasma Universe Model and Cosmic Science 2.7.5.ahk
+153.  PUM - Plasma Universe Model and Cosmic Science 2.7.5.ahk
 https://www.youtube.com/watch?v=R2bVB5l5Lso&index=88&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-59532.  Quantum Mechanics 2.8.3.ahk
+154.  Quantum Mechanics 2.8.3.ahk
 https://www.youtube.com/watch?v=rKhugLylcmQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=92&t=0s
 
-59687.  Realizing Mental Spheres Through Natural Mind 2.13.6.ahk
+155.  Realizing Mental Spheres Through Natural Mind 2.13.6.ahk
 https://www.youtube.com/watch?v=7Zdu8WskCzw&index=124&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-59843.  Reconnect Human Soul to Imaginal Realm 3.1.5.ahk
+156.  Reconnect Human Soul to Imaginal Realm 3.1.5.ahk
 https://www.youtube.com/watch?v=TTIJVWaa5kc&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=130&t=0s
 
-60000.  Relations in the Community 3.11.7.ahk
+157.  Relations in the Community 3.11.7.ahk
 https://www.youtube.com/watch?v=jUQReI_iaeY&index=197&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-60158.  Return to Rock and Roll 3.12.2.2.ahk
+158.  Return to Rock and Roll 3.12.2.2.ahk
 https://www.youtube.com/watch?v=bW-N6gPEVSQ&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=201&t=0s
 
-60317.  Rock and Roll - A Planet Art Whole 3.10.6 (Part 1.ahk
+159.  Rock and Roll - A Planet Art Whole 3.10.6 (Part 1.ahk
 https://www.youtube.com/watch?v=JbdWhj4NFlU&index=188&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-60477.  Rock and Roll - A Planet Art Whole 3.10.6 (Part 2.ahk
+160.  Rock and Roll - A Planet Art Whole 3.10.6 (Part 2.ahk
 https://www.youtube.com/watch?v=Ad0Xaa52r80&index=189&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-60638.  Sacred Origins 2.8.6.ahk
+161.  Sacred Origins 2.8.6.ahk
 https://www.youtube.com/watch?v=ll0xERQ8oVc&index=95&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-60800.  Sacred Science as Cosmic History 2.7.0.ahk
+162.  Sacred Science as Cosmic History 2.7.0.ahk
 https://www.youtube.com/watch?v=VgvUcVpM6_A&index=83&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-60963.  Securing Identity 3.6.5.ahk
+163.  Securing Identity 3.6.5.ahk
 https://www.youtube.com/watch?v=yh3Wfq6WFEg&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=159&t=0s
 
-61127.  Self Creation of the Artist 3.4.1.ahk
+164.  Self Creation of the Artist 3.4.1.ahk
 https://www.youtube.com/watch?v=HaUfiFQQ0FI&index=140&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-61292.  Seven Radial Plasmas 2.8.5.ahk
+165.  Seven Radial Plasmas 2.8.5.ahk
 https://www.youtube.com/watch?v=fGsdERni5ow&index=94&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-61458.  Sirius Beta and the Lost Chord 3.12.2.ahk
+166.  Sirius Beta and the Lost Chord 3.12.2.ahk
 https://www.youtube.com/watch?v=NZfUxRRy474&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=199&t=0s
 
-61625.  Six Mental Spheres 2.10.2.ahk
+167.  Six Mental Spheres 2.10.2.ahk
 https://www.youtube.com/watch?v=rnYXvZ4wfj4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=105&t=0s
 
-61793.  Six Types of Electricity 2.8.2.ahk
+168.  Six Types of Electricity 2.8.2.ahk
 https://www.youtube.com/watch?v=i9K-ZiV3m-Y&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=91&t=0s
 
-61962.  Space, Mind and Elegance 3.8.3.ahk
+169.  Space, Mind and Elegance 3.8.3.ahk
 https://www.youtube.com/watch?v=xAuLJzLse2U&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=172&t=0s
 
-62132.  Supramental and Supermental 2.3.3.ahk
+170.  Supramental and Supermental 2.3.3.ahk
 https://www.youtube.com/watch?v=tR02ScY1Fa4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=59&t=0s
 
-62303.  Synchronic Order 2.2.3.ahk
+171.  Synchronic Order 2.2.3.ahk
 https://www.youtube.com/watch?v=VvuvRIiqNwo&index=52&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-62475.  Telepathic Reconstitutions of Reality 2.13.1.ahk
+172.  Telepathic Reconstitutions of Reality 2.13.1.ahk
 https://www.youtube.com/watch?v=z9bbQmYJKAg&index=119&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-62648.  The Art Codes 3.10.4.ahk
+173.  The Art Codes 3.10.4.ahk
 https://www.youtube.com/watch?v=GHHosOyBMBI&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=186&t=0s
 
-62822.  The Avatar's Wheel of Time 2.2.1.ahk
+174.  The Avatar's Wheel of Time 2.2.1.ahk
 https://www.youtube.com/watch?v=HHSUzMMES5k&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=50&t=0s
 
-62997.  The Coordinating and Operating Councils 3.11.6.ahk
+175.  The Coordinating and Operating Councils 3.11.6.ahk
 https://www.youtube.com/watch?v=tnWmVsBhEZI&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=195&t=0s
 
-63173.  The Court of Universal Culture 3.11.6.1.ahk
+176.  The Court of Universal Culture 3.11.6.1.ahk
 https://www.youtube.com/watch?v=5rLO8Fkl6o0&index=196&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-63350.  The Dead and the Origin and Evolution of Spirit 2.11.1.ahk
+177.  The Dead and the Origin and Evolution of Spirit 2.11.1.ahk
 https://www.youtube.com/watch?v=Eatf__eN3CM&index=111&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-63528.  The Electro Conductive (Behavioral.ahk
+178.  The Electro Conductive (Behavioral.ahk
 https://www.youtube.com/watch?v=MnvuAS2PPXo&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=98&t=0s
 
-63707.  The Fourth Dimension 2.7.2.ahk
+179.  The Fourth Dimension 2.7.2.ahk
 https://www.youtube.com/watch?v=rmgOR1bMKv4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=85&t=0s
 
-63887.  The Messengers and the 13 Baktuns 2.4.5.ahk
+180.  The Messengers and the 13 Baktuns 2.4.5.ahk
 https://www.youtube.com/watch?v=gbckCLMMhu0&index=69&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-64068.  The Rules of Communities 3.11.3.ahk
+181.  The Rules of Communities 3.11.3.ahk
 https://www.youtube.com/watch?v=D39AXmJqjVA&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=192&t=0s
 
-64250.  The Shifting Art Whole 3.1.4.ahk
+182.  The Shifting Art Whole 3.1.4.ahk
 https://www.youtube.com/watch?v=5n0krzNNwCo&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=129&t=0s
 
-64433.  The Wisdom Cycles 2.2.7.ahk
+183.  The Wisdom Cycles 2.2.7.ahk
 https://www.youtube.com/watch?v=YU5r_40S_8k&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=56&t=0s
 
-64617.  Transference of Consciousness 2.13.5.ahk
+184.  Transference of Consciousness 2.13.5.ahk
 https://www.youtube.com/watch?v=ycRVmjWB0GY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=123&t=0s
 
-64802.  Tzolkin and the Dimensions 2.9.6.ahk
+185.  Tzolkin and the Dimensions 2.9.6.ahk
 https://www.youtube.com/watch?v=XT1UJnJeEZs&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=102&t=0s
 
-64988.  Universe as a Self-Evolving Art Form 3.3.1 (Part 1.ahk
+186.  Universe as a Self-Evolving Art Form 3.3.1 (Part 1.ahk
 https://www.youtube.com/watch?v=29W1oUctsEg&index=135&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-65175.  Universe as a Self-Evolving Art Form 3.3.1 (Part 2.ahk
+187.  Universe as a Self-Evolving Art Form 3.3.1 (Part 2.ahk
 https://www.youtube.com/watch?v=Gg5UvGexofI&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=137&t=0s
 
-65363.  Universe as Factor of Intelligence 2.1.5.ahk
+188.  Universe as Factor of Intelligence 2.1.5.ahk
 https://www.youtube.com/watch?v=8JQoGPIQmLY&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=44&t=0s
 
-65552.  Universe as Self-Creating Art Form 3.3.1.1.ahk
+189.  Universe as Self-Creating Art Form 3.3.1.1.ahk
 https://www.youtube.com/watch?v=AhFc24FPPo8&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=136&t=0s
 
-65742.  Universes and Dimensions 2.12.3.ahk
+190.  Universes and Dimensions 2.12.3.ahk
 https://www.youtube.com/watch?v=khzcAmOkd-Q&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=117&t=0s
 
-65933.  Unveiling the Avatar's Wheel of Time 2.2.6.ahk
+191.  Unveiling the Avatar's Wheel of Time 2.2.6.ahk
 https://www.youtube.com/watch?v=f3QjfXrcI9o&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=55&t=0s
 
-66125.  Unverifiable Scripture 2.4.3.ahk
+192.  Unverifiable Scripture 2.4.3.ahk
 https://www.youtube.com/watch?v=G6MIMwwZ2y8&index=67&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-66318.  View from a Galactic Maya 2.5.3.ahk
+193.  View from a Galactic Maya 2.5.3.ahk
 https://www.youtube.com/watch?v=dAuZ__4RFH0&index=74&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&t=0s
 
-66512.  Wheel of Time 2.2.2.ahk
+194.  Wheel of Time 2.2.2.ahk
 https://www.youtube.com/watch?v=_ADMwJXk8_4&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=51&t=0s
 
-66707.  Without Vision, the People Perish 3.7.4.ahk
+195.  Without Vision, the People Perish 3.7.4.ahk
 https://www.youtube.com/watch?v=kTx5J7iqf4w&list=PLgT9yS-baXevAxoytTHYObTo8Cyvo1jSw&index=167&t=0s
 Cosmic History Chronicles

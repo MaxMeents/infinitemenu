@@ -1,193 +1,193 @@
 
-183.  A counter project in javascript.ahk
+1.  A counter project in javascript.ahk
 https://www.youtube.com/watch?v=eUm1evTJ2Z8
 
-185.  Basics of functions in javascript.ahk
+2.  Basics of functions in javascript.ahk
 https://www.youtube.com/watch?v=TwDHINjr1AQ
 
-188.  Better code with object chain in javascript.ahk
+3.  Better code with object chain in javascript.ahk
 https://www.youtube.com/watch?v=ko5tv0tP6XA
 
-192.  Borrow a method using bind.ahk
+4.  Borrow a method using bind.ahk
 https://www.youtube.com/watch?v=QoUboMfIemw
 
-197.  Callback and arrow function introduction in array.ahk
+5.  Callback and arrow function introduction in array.ahk
 https://www.youtube.com/watch?v=Tny4_-QjNHg
 
-203.  Classes and module exports in javascript.ahk
+6.  Classes and module exports in javascript.ahk
 https://www.youtube.com/watch?v=dQCdwX0p_tc
 
-210.  Closure in javascript.ahk
+7.  Closure in javascript.ahk
 https://www.youtube.com/watch?v=bC-ilFHSt4s
 
-218.  Code hoisting in javascript.ahk
+8.  Code hoisting in javascript.ahk
 https://www.youtube.com/watch?v=9Ta1umc3tkQ
 
-227.  Coercion and falsy values in JavaScript.ahk
+9.  Coercion and falsy values in JavaScript.ahk
 https://www.youtube.com/watch?v=0O-9uXmqbFI
 
-237.  Confusing part of THIS in javascript.ahk
+10.  Confusing part of THIS in javascript.ahk
 https://www.youtube.com/watch?v=jTPt5XO7KoU
 
-248.  Destructure the data in javascript.ahk
+11.  Destructure the data in javascript.ahk
 https://www.youtube.com/watch?v=brtUfHte9uc
 
-260.  Event listener in javascript.ahk
+12.  Event listener in javascript.ahk
 https://www.youtube.com/watch?v=aBnsO6QWGEY
 
-273.  Event loop  Will javascript wait.ahk
+13.  Event loop  Will javascript wait.ahk
 https://www.youtube.com/watch?v=WvTMIKHvPxU
 
-287.  Fill and Filter in Array in Javascript.ahk
+14.  Fill and Filter in Array in Javascript.ahk
 https://www.youtube.com/watch?v=2k6osJPXsgk
 
-302.  Fixing the bug in game  Javascript.ahk
+15.  Fixing the bug in game  Javascript.ahk
 https://www.youtube.com/watch?v=ZqOUYVjllVE
 
-318.  For Each loop in javascript.ahk
+16.  For Each loop in javascript.ahk
 https://www.youtube.com/watch?v=QAFjcAxcNcY
 
-335.  For in and for of loop in javascript.ahk
+17.  For in and for of loop in javascript.ahk
 https://www.youtube.com/watch?v=NlagmmCwOU4
 
-353.  For loop basics in Javascript.ahk
+18.  For loop basics in Javascript.ahk
 https://www.youtube.com/watch?v=26QWcjTdJGM
 
-372.  Functions in variable  User Role in javascript.ahk
+19.  Functions in variable  User Role in javascript.ahk
 https://www.youtube.com/watch?v=hEX8ohGSOyc
 
-392.  Generating elements and Text node in DOM.ahk
+20.  Generating elements and Text node in DOM.ahk
 https://www.youtube.com/watch?v=fEj0IsPa37M
 
-413.  Get Computed properties in javascript.ahk
+21.  Get Computed properties in javascript.ahk
 https://www.youtube.com/watch?v=NONbkVx5FAM
 
-435.  Get to know game files.ahk
+22.  Get to know game files.ahk
 https://www.youtube.com/watch?v=ksV07bvCR3c
 
-458.  Get to know node Elements in Javascript.ahk
+23.  Get to know node Elements in Javascript.ahk
 https://www.youtube.com/watch?v=fPBPlNABfpk
 
-482.  How to grab web elements in javascript.ahk
+24.  How to grab web elements in javascript.ahk
 https://www.youtube.com/watch?v=nkOL-mZjq60
 
-507.  How to Handle API in javascript.ahk
+25.  How to Handle API in javascript.ahk
 https://www.youtube.com/watch?v=wjbsRjf8QN8
 
-533.  Inheritance in javascript.ahk
+26.  Inheritance in javascript.ahk
 https://www.youtube.com/watch?v=FX2hGgUPbeY
 
-560.  Introduction to Array in javascript.ahk
+27.  Introduction to Array in javascript.ahk
 https://www.youtube.com/watch?v=Lr-uGVNM8Ko
 
-588.  Lexical scoping in javascript.ahk
+28.  Lexical scoping in javascript.ahk
 https://www.youtube.com/watch?v=qT5S7GgIioE
 
-617.  Light intro to THIS in javascript.ahk
+29.  Light intro to THIS in javascript.ahk
 https://www.youtube.com/watch?v=lTACw0-yAzc
 
-647.  Logic of game  javascript.ahk
+30.  Logic of game  javascript.ahk
 https://www.youtube.com/watch?v=K0KQP7qfrYo
 
-678.  Logical conditional Login in javascript.ahk
+31.  Logical conditional Login in javascript.ahk
 https://www.youtube.com/watch?v=uT9n7iIxEw8
 
-710.  Maps in javascript.ahk
+32.  Maps in javascript.ahk
 https://www.youtube.com/watch?v=fMfMdE3wifs
 
-743.  Methods and objects in javascript.ahk
+33.  Methods and objects in javascript.ahk
 https://www.youtube.com/watch?v=gqBaQHXHwm0
 
-777.  New keyword in Javascript.ahk
+34.  New keyword in Javascript.ahk
 https://www.youtube.com/watch?v=Uhp9xPCILno
 
-812.  Objects from MDN docs.ahk
+35.  Objects from MDN docs.ahk
 https://www.youtube.com/watch?v=IH7TJla_rwY
 
-848.  Objects in Javascript.ahk
+36.  Objects in Javascript.ahk
 https://www.youtube.com/watch?v=HPddGlSIV3M
 
-885.  Operators in javascript  Calculate discount.ahk
+37.  Operators in javascript  Calculate discount.ahk
 https://www.youtube.com/watch?v=WxyFRb0_eUQ
 
-923.  Our first User Signup.ahk
+38.  Our first User Signup.ahk
 https://www.youtube.com/watch?v=Sb5_BIprKDs
 
-962.  Private props getters and setters in javascript.ahk
+39.  Private props getters and setters in javascript.ahk
 https://www.youtube.com/watch?v=mGR2nH1HIR4
 
-1002.  Promise async and await in javascript.ahk
+40.  Promise async and await in javascript.ahk
 https://www.youtube.com/watch?v=Gjbr21JLfgg
 
-1043.  Scope chaining in javascript.ahk
+41.  Scope chaining in javascript.ahk
 https://www.youtube.com/watch?v=vGGOOYOXoQ4
 
-1085.  Self Executing Anonymous Function and functional programming.ahk
+42.  Self Executing Anonymous Function and functional programming.ahk
 https://www.youtube.com/watch?v=XRwgc6ERk_g
 
-1128.  Slice and Splice in Javascript.ahk
+43.  Slice and Splice in Javascript.ahk
 https://www.youtube.com/watch?v=t1qDSAUclzI
 
-1172.  Solution of Scope problem in javascript.ahk
+44.  Solution of Scope problem in javascript.ahk
 https://www.youtube.com/watch?v=r2YoiwVmAa0
 
-1217.  Spread and REST operators in Javascript.ahk
+45.  Spread and REST operators in Javascript.ahk
 https://www.youtube.com/watch?v=DoIGxx7P-ps
 
-1263.  Switch for role based access in javascript.ahk
+46.  Switch for role based access in javascript.ahk
 https://www.youtube.com/watch?v=_wyPpPlFwrI
 
-1310.  Template literals in javascript.ahk
+47.  Template literals in javascript.ahk
 https://www.youtube.com/watch?v=vXhbV_xgkMo
 
-1358.  Ternary operator in javascript.ahk
+48.  Ternary operator in javascript.ahk
 https://www.youtube.com/watch?v=R0HJtkYtjwk
 
-1407.  Type and Operator precedence in javascript.ahk
+49.  Type and Operator precedence in javascript.ahk
 https://www.youtube.com/watch?v=nvKktNrJXcY
 
-1457.  Understand the context in javascript.ahk
+50.  Understand the context in javascript.ahk
 https://www.youtube.com/watch?v=_JMXlGt3OSo
 
-1508.  Variable and datatypes in javascript.ahk
+51.  Variable and datatypes in javascript.ahk
 https://www.youtube.com/watch?v=ycLqC41TO1U
 
-1560.  Welcome to Javascript Course.ahk
+52.  Welcome to Javascript Course.ahk
 https://www.youtube.com/watch?v=papg2tsoFzg
 
-1613.  Welcome to new JavaScript course.ahk
+53.  Welcome to new JavaScript course.ahk
 https://www.youtube.com/watch?v=2md4HQNRqJA
 
-1667.  What are conditionals in javascript.ahk
+54.  What are conditionals in javascript.ahk
 https://www.youtube.com/watch?v=gx7N3QGrVWE
 
-1722.  What are Javascript engines.ahk
+55.  What are Javascript engines.ahk
 https://www.youtube.com/watch?v=BMKWdLX9w3M
 
-1778.  What ES version of javascript is good for us.ahk
+56.  What ES version of javascript is good for us.ahk
 https://www.youtube.com/watch?v=7z-VseyACaE
 
-1835.  What is DOM (1597556).ahk
+57.  What is DOM (1597556).ahk
 https://www.youtube.com/watch?v=GkXAGe7SLm0
 
-1893.  What is DOM.ahk
+58.  What is DOM.ahk
 https://www.youtube.com/watch?v=GkXAGe7SLm0
 
-1952.  What is new in Javascript 2021.ahk
+59.  What is new in Javascript 2021.ahk
 https://www.youtube.com/watch?v=YwHJCTXg6Es
 
-2012.  What is proto in javascript (1709932).ahk
+60.  What is proto in javascript (1709932).ahk
 https://www.youtube.com/watch?v=w9CaKd2bq-E
 
-2073.  What is proto in javascript.ahk
+61.  What is proto in javascript.ahk
 https://www.youtube.com/watch?v=w9CaKd2bq-E
 
-2135.  While and do while loops in javascript (1925169).ahk
+62.  While and do while loops in javascript (1925169).ahk
 https://www.youtube.com/watch?v=kCl3W4kR4-c
 
-2198.  While and do while loops in javascript.ahk
+63.  While and do while loops in javascript.ahk
 https://www.youtube.com/watch?v=kCl3W4kR4-c
 
-2262.  Why iife appears in javascript interviews.ahk
+64.  Why iife appears in javascript interviews.ahk
 https://www.youtube.com/watch?v=Ex652LPfUdA
 Javascript course

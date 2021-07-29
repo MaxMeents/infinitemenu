@@ -1,67 +1,67 @@
 
-30247.  .ahk
+1.  .ahk
 
 
-30249.  9 Spheres.ahk
+2.  9 Spheres.ahk
 https://atma4.bandcamp.com/track/9-spheres
 
-30252.  Abstract Formulas of Infinite Jewelz.ahk
+3.  Abstract Formulas of Infinite Jewelz.ahk
 https://atma4.bandcamp.com/track/abstract-formulas-of-infinite-jewelz
 
-30256.  Alien Cybernetics.ahk
+4.  Alien Cybernetics.ahk
 https://atma4.bandcamp.com/track/alien-cybernetics
 
-30261.  Ancient Astronauts.ahk
+5.  Ancient Astronauts.ahk
 https://atma4.bandcamp.com/track/ancient-astronauts
 
-30267.  Backdraft.ahk
+6.  Backdraft.ahk
 https://atma4.bandcamp.com/track/backdraft
 
-30274.  Clash of the Titans.ahk
+7.  Clash of the Titans.ahk
 https://atma4.bandcamp.com/track/clash-of-the-titans
 
-30282.  Cosmic Visionaries.ahk
+8.  Cosmic Visionaries.ahk
 https://atma4.bandcamp.com/track/cosmic-visionaries
 
-30291.  Crossroads.ahk
+9.  Crossroads.ahk
 https://atma4.bandcamp.com/track/crossroads
 
-30301.  Deliverance.ahk
+10.  Deliverance.ahk
 https://atma4.bandcamp.com/track/deliverance
 
-30312.  Eternal Soul Fire.ahk
+11.  Eternal Soul Fire.ahk
 https://atma4.bandcamp.com/track/eternal-soul-fire
 
-30324.  Exact Science.ahk
+12.  Exact Science.ahk
 https://atma4.bandcamp.com/track/exact-science
 
-30337.  Hammer of the Gods.ahk
+13.  Hammer of the Gods.ahk
 https://atma4.bandcamp.com/track/hammer-of-the-gods
 
-30351.  Inception.ahk
+14.  Inception.ahk
 https://atma4.bandcamp.com/track/inception
 
-30366.  Katharsis.ahk
+15.  Katharsis.ahk
 https://atma4.bandcamp.com/track/katharsis
 
-30382.  Nuclear Jetstreams.ahk
+16.  Nuclear Jetstreams.ahk
 https://atma4.bandcamp.com/track/nuclear-jetstreams
 
-30399.  Obelisk.ahk
+17.  Obelisk.ahk
 https://atma4.bandcamp.com/track/obelisk
 
-30417.  Poison.ahk
+18.  Poison.ahk
 https://atma4.bandcamp.com/track/poison
 
-30436.  Repelling the Outbreak.ahk
+19.  Repelling the Outbreak.ahk
 https://atma4.bandcamp.com/track/repelling-the-outbreak
 
-30456.  Space Harmonics.ahk
+20.  Space Harmonics.ahk
 https://atma4.bandcamp.com/track/space-harmonics
 
-30477.  The Golden Falcon.ahk
+21.  The Golden Falcon.ahk
 https://atma4.bandcamp.com/track/the-golden-falcon
 
-30499.  Waking Life.ahk
+22.  Waking Life.ahk
 https://atma4.bandcamp.com/track/waking-life
 Katharsis - Jewelz Infinite

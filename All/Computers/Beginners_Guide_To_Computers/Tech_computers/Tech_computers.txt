@@ -1,49 +1,49 @@
 
-10168.  $1500 Gaming PC Build Guide - RTX 2070 i5 9600K (w Benchmarks).ahk
+1.  $1500 Gaming PC Build Guide - RTX 2070 i5 9600K (w Benchmarks).ahk
 https://www.youtube.com/watch?v=VfM_R1Lx5Hc
 
-10170.  2019 Budget $300 Gaming PC.ahk
+2.  2019 Budget $300 Gaming PC.ahk
 https://www.youtube.com/watch?v=aZP1RlW9eYk
 
-10173.  4 Powerful Graphics Cards Vs One of The Most Unoptimized PC Games Of All Time.ahk
+3.  4 Powerful Graphics Cards Vs One of The Most Unoptimized PC Games Of All Time.ahk
 https://www.youtube.com/watch?v=HHshhWersOs
 
-10177.  Are High-End Prebuilt Gaming PC's Worth it.ahk
+4.  Are High-End Prebuilt Gaming PC's Worth it.ahk
 https://www.youtube.com/watch?v=b-YHUffr7Dk
 
-10182.  Battlefield V GTX 970 SLI 1440p LOW to ULTRA.ahk
+5.  Battlefield V GTX 970 SLI 1440p LOW to ULTRA.ahk
 https://www.youtube.com/watch?v=cpzFzxhXFmc
 
-10188.  How To Build A Gaming PC - FULL Beginners Guide.ahk
+6.  How To Build A Gaming PC - FULL Beginners Guide.ahk
 https://www.youtube.com/watch?v=OZaFqY8UF6I
 
-10195.  How to get INSANE GAMING PERFORMANCE out of AMD Ryzen 3 2200G APU - Ryzen 2200G Optimization Guide.ahk
+7.  How to get INSANE GAMING PERFORMANCE out of AMD Ryzen 3 2200G APU - Ryzen 2200G Optimization Guide.ahk
 https://www.youtube.com/watch?v=J4573mmTHLo
 
-10203.  How to Optimize Windows 10 for Gaming and Productivity! (Comprehensive Guide).ahk
+8.  How to Optimize Windows 10 for Gaming and Productivity! (Comprehensive Guide).ahk
 https://www.youtube.com/watch?v=pJTCwSX9Ym8
 
-10212.  i5 10600k vs Ryzen 5 3600X - Intel i5 10600k benchmark.ahk
+9.  i5 10600k vs Ryzen 5 3600X - Intel i5 10600k benchmark.ahk
 https://www.youtube.com/watch?v=gLd7QxkWjA0
 
-10222.  Is a 7-Year-Old Alienware Gaming Laptop Still Worth Buying.ahk
+10.  Is a 7-Year-Old Alienware Gaming Laptop Still Worth Buying.ahk
 https://www.youtube.com/watch?v=YTDmvkUqDPY
 
-10233.  Make Your Desktop Look More Unique and Beautiful.ahk
+11.  Make Your Desktop Look More Unique and Beautiful.ahk
 https://www.youtube.com/watch?v=0u6bp5n_hS4
 
-10245.  No Compromise i7-8700K Mini-ITX PC Build.ahk
+12.  No Compromise i7-8700K Mini-ITX PC Build.ahk
 https://www.youtube.com/watch?v=zLD_-POVYG0
 
-10258.  Nvidia GTX 1660 Ti vs RTX 2060 - 16 Games Tested!.ahk
+13.  Nvidia GTX 1660 Ti vs RTX 2060 - 16 Games Tested!.ahk
 https://www.youtube.com/watch?v=hYWtoUWoU-4
 
-10272.  Overwatch 4k ultra settings fx 8300 4.5ghz (overclock) sli gtx 970.ahk
+14.  Overwatch 4k ultra settings fx 8300 4.5ghz (overclock) sli gtx 970.ahk
 https://www.youtube.com/watch?v=wNP8q3kJWfE
 
-10287.  RX 580 Ryzen 5 1600X - GTA 5 Overwatch Fallout 4 Battlegrounds BF1 Benchmarks.ahk
+15.  RX 580 Ryzen 5 1600X - GTA 5 Overwatch Fallout 4 Battlegrounds BF1 Benchmarks.ahk
 https://www.youtube.com/watch?v=L1xBEfDHbl0
 
-10303.  RX 6800 XT vs. RTX 3080 Ray Tracing Performance.ahk
+16.  RX 6800 XT vs. RTX 3080 Ray Tracing Performance.ahk
 https://www.youtube.com/watch?v=32GU9Pd423A
 Tech computers

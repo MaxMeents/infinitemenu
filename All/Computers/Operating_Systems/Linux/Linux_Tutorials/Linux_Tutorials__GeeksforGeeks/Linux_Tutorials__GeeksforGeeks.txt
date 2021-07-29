@@ -1,109 +1,109 @@
 
-17588.  Linux Tutorials  About the user and the terminal  GeeksforGeeks.ahk
+1.  Linux Tutorials  About the user and the terminal  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=WnjofnvIIvg
 
-17590.  Linux Tutorials  Basic Commands  GeeksforGeeks.ahk
+2.  Linux Tutorials  Basic Commands  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=fqILqtWcqh8
 
-17593.  Linux Tutorials  bc - The Calculator  GeeksforGeeks.ahk
+3.  Linux Tutorials  bc - The Calculator  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=_UwhS0IvwQk
 
-17597.  Linux Tutorials  cat - A versatile command  GeeksforGeeks.ahk
+4.  Linux Tutorials  cat - A versatile command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=exj5WMUJ11g
 
-17602.  Linux Tutorials  Changing Permissions  GeeksforGeeks.ahk
+5.  Linux Tutorials  Changing Permissions  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=RWReI80utd4
 
-17608.  Linux Tutorials  cmp, diff and comm commands  GeeksforGeeks.ahk
+6.  Linux Tutorials  cmp, diff and comm commands  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=0k6obEKGTyk
 
-17615.  Linux Tutorials  Command Substitution and Shell Aliasing  GeeksforGeeks.ahk
+7.  Linux Tutorials  Command Substitution and Shell Aliasing  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=rTAKKboE-0M
 
-17623.  Linux Tutorials  Command Usage  GeeksforGeeks.ahk
+8.  Linux Tutorials  Command Usage  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=L5_ZzpR9jaU
 
-17632.  Linux Tutorials  Commands in Linux when things go wrong  GeeksforGeeks.ahk
+9.  Linux Tutorials  Commands in Linux when things go wrong  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=7zG1RAVcrKM
 
-17642.  Linux Tutorials  Compressing and Archiving Files in Linux  tar and zip commands  GeeksforGeeks.ahk
+10.  Linux Tutorials  Compressing and Archiving Files in Linux  tar and zip commands  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=KucqplDh7LI
 
-17653.  Linux Tutorials  cp - Copying a File  GeeksforGeeks.ahk
+11.  Linux Tutorials  cp - Copying a File  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=ngx4G10XY2s
 
-17665.  Linux Tutorials  cut command  Splitting a file vertically  GeeksforGeeks.ahk
+12.  Linux Tutorials  cut command  Splitting a file vertically  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=eHGCxEVlHd0
 
-17678.  Linux Tutorials  File and Directory Permissions  GeeksforGeeks.ahk
+13.  Linux Tutorials  File and Directory Permissions  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=o6lbSlGI3qc
 
-17692.  Linux Tutorials  file and wc commands  GeeksforGeeks.ahk
+14.  Linux Tutorials  file and wc commands  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=A9411dSJYRk
 
-17707.  Linux Tutorials  find command  GeeksforGeeks.ahk
+15.  Linux Tutorials  find command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=oPdFGUrq-XQ
 
-17723.  Linux Tutorials  General Purpose Utilities  GeeksforGeeks.ahk
+16.  Linux Tutorials  General Purpose Utilities  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=g6cPFj9ptdc
 
-17740.  Linux Tutorials  Getting Help and Escaping  GeeksforGeeks.ahk
+17.  Linux Tutorials  Getting Help and Escaping  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=USMVhdydb4Y
 
-17758.  Linux Tutorials  Getting Started  Introduction  GeeksforGeeks.ahk
+18.  Linux Tutorials  Getting Started  Introduction  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=0EDwEQoui_g
 
-17777.  Linux Tutorials  head command  GeeksforGeeks.ahk
+19.  Linux Tutorials  head command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=ZZACz-filWU
 
-17797.  Linux Tutorials  Linux Architecture  GeeksforGeeks.ahk
+20.  Linux Tutorials  Linux Architecture  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=maupflAJdQ4
 
-17818.  Linux Tutorials  Linux Directory Structure  GeeksforGeeks.ahk
+21.  Linux Tutorials  Linux Directory Structure  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=yWiUPWHljWg
 
-17840.  Linux Tutorials  mv-Renaming and moving files  GeeksforGeeks.ahk
+22.  Linux Tutorials  mv-Renaming and moving files  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=gBScrrFHMT4
 
-17863.  Linux Tutorials  paste command  GeeksforGeeks.ahk
+23.  Linux Tutorials  paste command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=ilV6dcTJzzE
 
-17887.  Linux Tutorials  Pipe and tee  GeeksforGeeks.ahk
+24.  Linux Tutorials  Pipe and tee  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=19mmVar-s5Y
 
-17912.  Linux Tutorials  Print line between M and N lines head and tail combined  GeeksforGeeks.ahk
+25.  Linux Tutorials  Print line between M and N lines head and tail combined  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=tMXF-YKyP0w
 
-17938.  Linux Tutorials  Redirection - The three standard files in Linux  GeeksforGeeks.ahk
+26.  Linux Tutorials  Redirection - The three standard files in Linux  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=SP0gDpamofY
 
-17965.  Linux Tutorials  rm - Removing a file  GeeksforGeeks.ahk
+27.  Linux Tutorials  rm - Removing a file  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=gcE5QvggzL4
 
-17993.  Linux Tutorials  sort command  GeeksforGeeks.ahk
+28.  Linux Tutorials  sort command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=fEx5rnbDKO4
 
-18022.  Linux Tutorials  tail command  GeeksforGeeks.ahk
+29.  Linux Tutorials  tail command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=1pD28tFgAb8
 
-18052.  Linux Tutorials  The File System  GeeksforGeeks.ahk
+30.  Linux Tutorials  The File System  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=JwgTeXfQdIg
 
-18083.  Linux Tutorials  The ls command  GeeksforGeeks.ahk
+31.  Linux Tutorials  The ls command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=C1btVko0CVE
 
-18115.  Linux Tutorials  touch command  GeeksforGeeks.ahk
+32.  Linux Tutorials  touch command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=tpUyBbD4LQE
 
-18148.  Linux Tutorials  tr command  GeeksforGeeks.ahk
+33.  Linux Tutorials  tr command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=iNWdEWWYo50
 
-18182.  Linux Tutorials  uniq command  GeeksforGeeks.ahk
+34.  Linux Tutorials  uniq command  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=k2k1LaKsAWI
 
-18217.  Linux Tutorials  Wildcards and Pattern Matching  GeeksforGeeks.ahk
+35.  Linux Tutorials  Wildcards and Pattern Matching  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=LH4eF75Z_7U
 
-18253.  Linux Tutorials  Working with Directories  GeeksforGeeks.ahk
+36.  Linux Tutorials  Working with Directories  GeeksforGeeks.ahk
 https://www.youtube.com/watch?v=JCMRlMptRus
 Linux Tutorials  GeeksforGeeks

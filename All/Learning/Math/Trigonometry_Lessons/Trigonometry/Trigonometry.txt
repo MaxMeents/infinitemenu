@@ -1,730 +1,730 @@
 
-442176.  10th maths tutorial - class 10 maths trigonometry - basics of trigonometry l  PART 13.ahk
+1.  10th maths tutorial - class 10 maths trigonometry - basics of trigonometry l  PART 13.ahk
 https://www.youtube.com/watch?v=O6KOE_KRfqU&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442178.  10th maths tutorial - class 10 maths trigonometry - basics of trigonometry l  PART 14.ahk
+2.  10th maths tutorial - class 10 maths trigonometry - basics of trigonometry l  PART 14.ahk
 https://www.youtube.com/watch?v=yoy0NEXgMCI&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442181.  3.2 Trigonometry and Polar Coordinates - The Nature of Code.ahk
+3.  3.2 Trigonometry and Polar Coordinates - The Nature of Code.ahk
 https://www.youtube.com/watch?v=znOBmOrtz_M&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442185.  Algebra 2 - Trigonometry Intro.ahk
+4.  Algebra 2 - Trigonometry Intro.ahk
 https://www.youtube.com/watch?v=UFO3wGzAowA&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-442190.  Ambiguous Case for Law of Sines, Please read description.ahk
+5.  Ambiguous Case for Law of Sines, Please read description.ahk
 https://www.youtube.com/watch?v=57nlvT_o8uw&list=PL085526F86A268B57
 
-442196.  Angle Measures in Degrees Minutes & Seconds DMS.ahk
+6.  Angle Measures in Degrees Minutes & Seconds DMS.ahk
 https://www.youtube.com/watch?v=CMWK3ErKAhc&list=PL085526F86A268B57
 
-442203.  Angle of Elevation and Depression Word Problems Trigonometry, Finding Sides, Angles, Right Triangles.ahk
+7.  Angle of Elevation and Depression Word Problems Trigonometry, Finding Sides, Angles, Right Triangles.ahk
 https://www.youtube.com/watch?v=uyKvSe6Ltgs&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442211.  Angle of ElevationAngle of Depression Problems.ahk
+8.  Angle of ElevationAngle of Depression Problems.ahk
 https://www.youtube.com/watch?v=3H28-wzsF3s&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442220.  Applications of Law of Sines and Cosines.ahk
+9.  Applications of Law of Sines and Cosines.ahk
 https://www.youtube.com/watch?v=qMS0yOoF2c4&list=PL085526F86A268B57
 
-442230.  Area of oblique triangles SAS SSS Heron's Formula.ahk
+10.  Area of oblique triangles SAS SSS Heron's Formula.ahk
 https://www.youtube.com/watch?v=pyftYzmOwr4&list=PL085526F86A268B57
 
-442241.  Art of Problem Solving Area of an Obtuse Triangle.ahk
+11.  Art of Problem Solving Area of an Obtuse Triangle.ahk
 https://www.youtube.com/watch?v=LFH2Yn3hHUw&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-442253.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy (1019209).ahk
+12.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy (1019209).ahk
 https://www.youtube.com/watch?v=Jsiy4TxgIME&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-442266.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy (1742625).ahk
+13.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy (1742625).ahk
 https://www.youtube.com/watch?v=Jsiy4TxgIME&list=PLD6DA74C1DBF770E7
 
-442280.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy.ahk
+14.  Basic trigonometry  Basic trigonometry  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=Jsiy4TxgIME&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442295.  Basic Trigonometry (1628268).ahk
+15.  Basic Trigonometry (1628268).ahk
 https://www.youtube.com/watch?v=F21S9Wpi0y8&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-442311.  Basic Trigonometry (1995853).ahk
+16.  Basic Trigonometry (1995853).ahk
 https://www.youtube.com/watch?v=F21S9Wpi0y8&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442328.  Basic Trigonometry - GCSE Maths Revision.ahk
+17.  Basic Trigonometry - GCSE Maths Revision.ahk
 https://www.youtube.com/watch?v=_tlR9CZClMg&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442346.  Basic trigonometry II  Basic trigonometry  Trigonometry  Khan Academy.ahk
+18.  Basic trigonometry II  Basic trigonometry  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=G-T_6hCdMQc&list=PLD6DA74C1DBF770E7
 
-442365.  Basic Trigonometry Sin Cos Tan (NancyPi).ahk
+19.  Basic Trigonometry Sin Cos Tan (NancyPi).ahk
 https://www.youtube.com/watch?v=bSM7RNSbWhM&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-442385.  Basic Trigonometry.ahk
+20.  Basic Trigonometry.ahk
 https://www.youtube.com/watch?v=6s4RCFMm0AQ&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442406.  BASICS OF TRIGONOMETRY - PART 1 - 10 TH  MATHS TUTORIAL - SSCICSECBSE CLASSES -  FORMULAS (1759584).ahk
+21.  BASICS OF TRIGONOMETRY - PART 1 - 10 TH  MATHS TUTORIAL - SSCICSECBSE CLASSES -  FORMULAS (1759584).ahk
 https://www.youtube.com/watch?v=Mv1HZYcEGpQ&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442428.  BASICS OF TRIGONOMETRY - PART 1 - 10 TH  MATHS TUTORIAL - SSCICSECBSE CLASSES -  FORMULAS.ahk
+22.  BASICS OF TRIGONOMETRY - PART 1 - 10 TH  MATHS TUTORIAL - SSCICSECBSE CLASSES -  FORMULAS.ahk
 https://www.youtube.com/watch?v=Mv1HZYcEGpQ&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442451.  Calculator Tutorial 13 Trigonometry on a scientific calculator.ahk
+23.  Calculator Tutorial 13 Trigonometry on a scientific calculator.ahk
 https://www.youtube.com/watch?v=5psyoEDqVhA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442475.  Complex Numbers in Polar Form.ahk
+24.  Complex Numbers in Polar Form.ahk
 https://www.youtube.com/watch?v=wed_lYcslRM&list=PL085526F86A268B57
 
-442500.  Converting Coordinates between Polar and Rectangular Form.ahk
+25.  Converting Coordinates between Polar and Rectangular Form.ahk
 https://www.youtube.com/watch?v=YodvraMFQEs&list=PL085526F86A268B57
 
-442526.  Converting Equations Between Polar & Rectangular Form.ahk
+26.  Converting Equations Between Polar & Rectangular Form.ahk
 https://www.youtube.com/watch?v=t2SvNC-3Q5Y&list=PL085526F86A268B57
 
-442553.  Coterminal Angles - Positive and Negative, Converting Degrees to Radians, Unit Circle, Trigonometry (1655071).ahk
+27.  Coterminal Angles - Positive and Negative, Converting Degrees to Radians, Unit Circle, Trigonometry (1655071).ahk
 https://www.youtube.com/watch?v=6BRtPfofXog&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442581.  Coterminal Angles - Positive and Negative, Converting Degrees to Radians, Unit Circle, Trigonometry.ahk
+28.  Coterminal Angles - Positive and Negative, Converting Degrees to Radians, Unit Circle, Trigonometry.ahk
 https://www.youtube.com/watch?v=6BRtPfofXog&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442610.  Coterminal Angles In Radians & Degrees - Basic Introduction, Trigonometry.ahk
+29.  Coterminal Angles In Radians & Degrees - Basic Introduction, Trigonometry.ahk
 https://www.youtube.com/watch?v=RkMhGwp8pv4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442640.  Dame Tu Cosita Finger Dance Challenge.ahk
+30.  Dame Tu Cosita Finger Dance Challenge.ahk
 https://www.youtube.com/watch?v=SYFEws_Cqyo&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-442671.  De Moivre's Theorem powers of Polar Complex Numbers.ahk
+31.  De Moivre's Theorem powers of Polar Complex Numbers.ahk
 https://www.youtube.com/watch?v=l5CQGJQs6BQ&list=PL085526F86A268B57
 
-442703.  De Moivre's Theorem Roots of Polar Complex Numbers.ahk
+32.  De Moivre's Theorem Roots of Polar Complex Numbers.ahk
 https://www.youtube.com/watch?v=xPn8pHCZL18&list=PL085526F86A268B57
 
-442736.  Decimal Degrees to DMS Formula -  Converting Degrees Minutes and Seconds to Decimal - Trigonometry.ahk
+33.  Decimal Degrees to DMS Formula -  Converting Degrees Minutes and Seconds to Decimal - Trigonometry.ahk
 https://www.youtube.com/watch?v=W9kousU6AI0&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442770.  Derivatives of Trigonometric Functions - Product Rule Quotient & Chain Rule - Calculus Tutorial.ahk
+34.  Derivatives of Trigonometric Functions - Product Rule Quotient & Chain Rule - Calculus Tutorial.ahk
 https://www.youtube.com/watch?v=_niP0JaOgHY&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442805.  Derivatives of Trigonometric Functions.ahk
+35.  Derivatives of Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=4HoaY7E_0Jc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442841.  Determining the equation of a trigonometric function.ahk
+36.  Determining the equation of a trigonometric function.ahk
 https://www.youtube.com/watch?v=yvW5l9W1hgE&list=PLD6DA74C1DBF770E7
 
-442878.  Dot Product & Angle Between Vectors.ahk
+37.  Dot Product & Angle Between Vectors.ahk
 https://www.youtube.com/watch?v=p8BZTFNSKIw&list=PL085526F86A268B57
 
-442916.  Easiest way to remember trigonometric ratio and degrees table.ahk
+38.  Easiest way to remember trigonometric ratio and degrees table.ahk
 https://www.youtube.com/watch?v=DMusiDqTEv0&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-442955.  Equation of Sine and Cosine from a Graph.ahk
+39.  Equation of Sine and Cosine from a Graph.ahk
 https://www.youtube.com/watch?v=tZ-25bp24pE&list=PL085526F86A268B57
 
-442995.  Evaluating Inverse Trigonometric Functions.ahk
+40.  Evaluating Inverse Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=7t_pZGGxMdE&list=PL085526F86A268B57
 
-443036.  Evaluating Trig Functions w Unit Circle Degrees & Radians.ahk
+41.  Evaluating Trig Functions w Unit Circle Degrees & Radians.ahk
 https://www.youtube.com/watch?v=NO4H4YROdqk&list=PL085526F86A268B57
 
-443078.  Evaluating Trigonometry Expressions with Half and Double Angles Pt1.ahk
+42.  Evaluating Trigonometry Expressions with Half and Double Angles Pt1.ahk
 https://www.youtube.com/watch?v=9gQdkOasPZM&list=PL085526F86A268B57
 
-443121.  Evaluating Trigonometry Expressions with Half and Double Angles Pt2.ahk
+43.  Evaluating Trigonometry Expressions with Half and Double Angles Pt2.ahk
 https://www.youtube.com/watch?v=RCl4VGGQS-U&list=PL085526F86A268B57
 
-443165.  Even and Odd Trigonometric Functions & Identities - Evaluating Sine, Cosine, & Tangent.ahk
+44.  Even and Odd Trigonometric Functions & Identities - Evaluating Sine, Cosine, & Tangent.ahk
 https://www.youtube.com/watch?v=5p8hokJ3Cqo&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-443210.  Ferris Wheel Trig Problem (part 2).ahk
+45.  Ferris Wheel Trig Problem (part 2).ahk
 https://www.youtube.com/watch?v=_Kw4hLGMkm4&list=PLD6DA74C1DBF770E7
 
-443256.  Ferris Wheel Trig Problem.ahk
+46.  Ferris Wheel Trig Problem.ahk
 https://www.youtube.com/watch?v=clXSqjs1wgQ&list=PLD6DA74C1DBF770E7
 
-443303.  Finding Sides - Trigonometry in Right Angled Triangles (SOHCAHTOA) - TutorialRevision (35).ahk
+47.  Finding Sides - Trigonometry in Right Angled Triangles (SOHCAHTOA) - TutorialRevision (35).ahk
 https://www.youtube.com/watch?v=E7y3ENOSGK4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-443351.  Fun Trig Problem.ahk
+48.  Fun Trig Problem.ahk
 https://www.youtube.com/watch?v=itpI12TeNIg&list=PLD6DA74C1DBF770E7
 
-443400.  Fundamental Trigonometric Identities Intro & Proofs.ahk
+49.  Fundamental Trigonometric Identities Intro & Proofs.ahk
 https://www.youtube.com/watch?v=W6GbAtk08Vo&list=PL085526F86A268B57
 
-443450.  GCCC Plane Trigonometry - MAC1114 SEC 1.1.ahk
+50.  GCCC Plane Trigonometry - MAC1114 SEC 1.1.ahk
 https://www.youtube.com/watch?v=z2_n8rHpOiA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-443501.  Graph of the sine function.ahk
+51.  Graph of the sine function.ahk
 https://www.youtube.com/watch?v=2zoiW4PdVKo&list=PLD6DA74C1DBF770E7
 
-443553.  Graphing Polar Equations, Test for Symmetry & 4 Examples Corrected.ahk
+52.  Graphing Polar Equations, Test for Symmetry & 4 Examples Corrected.ahk
 https://www.youtube.com/watch?v=qEOsR1G57So&list=PL085526F86A268B57
 
-443606.  Graphing Secant & Cosecant w t-table.ahk
+53.  Graphing Secant & Cosecant w t-table.ahk
 https://www.youtube.com/watch?v=EAyDXQnkPmY&list=PL085526F86A268B57
 
-443660.  Graphing Sine & Cosine wout a Calculator Pt 2.ahk
+54.  Graphing Sine & Cosine wout a Calculator Pt 2.ahk
 https://www.youtube.com/watch?v=c1VD_LEs5ZY&list=PL085526F86A268B57
 
-443715.  Graphing Sine & Cosine wout a Calculator Pt1.ahk
+55.  Graphing Sine & Cosine wout a Calculator Pt1.ahk
 https://www.youtube.com/watch?v=yR7y8hyOpDU&list=PL085526F86A268B57
 
-443771.  Graphing the Trigonometric Functions (1573397).ahk
+56.  Graphing the Trigonometric Functions (1573397).ahk
 https://www.youtube.com/watch?v=R0RM6FeiD8k&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-443828.  Graphing the Trigonometric Functions.ahk
+57.  Graphing the Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=R0RM6FeiD8k&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-443886.  Graphing trig functions.ahk
+58.  Graphing trig functions.ahk
 https://www.youtube.com/watch?v=vHYI93UV5Kg&list=PLD6DA74C1DBF770E7
 
-443945.  Graphing Trigonometric Functions, Phase Shift, Period, Transformations, Tangent, Cosecant, Cosine.ahk
+59.  Graphing Trigonometric Functions, Phase Shift, Period, Transformations, Tangent, Cosecant, Cosine.ahk
 https://www.youtube.com/watch?v=fo_q9mEAFp4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444005.  Graphs of trig functions.ahk
+60.  Graphs of trig functions.ahk
 https://www.youtube.com/watch?v=QmxMPPkZpME&list=PLD6DA74C1DBF770E7
 
-444066.  How To Solve Two Triangle Trigonometry Problems.ahk
+61.  How To Solve Two Triangle Trigonometry Problems.ahk
 https://www.youtube.com/watch?v=OTP885mApV8&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444128.  How to use a Scientific Calculator.ahk
+62.  How to use a Scientific Calculator.ahk
 https://www.youtube.com/watch?v=z0XkRIG4Snw&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-444191.  How to Use Trig Functions in Excel  Excel Calculations.ahk
+63.  How to Use Trig Functions in Excel  Excel Calculations.ahk
 https://www.youtube.com/watch?v=Nlm2cl6OzaE&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444255.  IIT JEE trigonometric constraints  Trig identities and examples  Trigonometry  Khan Academy.ahk
+64.  IIT JEE trigonometric constraints  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=EjtjdJZ2x8w&list=PLD6DA74C1DBF770E7
 
-444320.  IIT JEE trigonometric maximum  Trig identities and examples  Trigonometry  Khan Academy.ahk
+65.  IIT JEE trigonometric maximum  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=tzR9jUCSniQ&list=PLD6DA74C1DBF770E7
 
-444386.  IIT JEE trigonometry problem 1  Trig identities and examples  Trigonometry  Khan Academy.ahk
+66.  IIT JEE trigonometry problem 1  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=X7GT9JKoAbo&list=PLD6DA74C1DBF770E7
 
-444453.  Intro Tangent & Cotangent Graphs.ahk
+67.  Intro Tangent & Cotangent Graphs.ahk
 https://www.youtube.com/watch?v=kMPtrgBO7ME&list=PL085526F86A268B57
 
-444521.  Introducing Trig Functions - SOHCAHTOA - Trigonometry in Right-angled Triangles - Tutorial 25.ahk
+68.  Introducing Trig Functions - SOHCAHTOA - Trigonometry in Right-angled Triangles - Tutorial 25.ahk
 https://www.youtube.com/watch?v=tKAMM3kacbs&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444590.  Introduction of trigonometry.ahk
+69.  Introduction of trigonometry.ahk
 https://www.youtube.com/watch?v=xQGCt_IskqA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444660.  Introduction to Angles.ahk
+70.  Introduction to Angles.ahk
 https://www.youtube.com/watch?v=oxhXz9_uyiM&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444731.  Introduction to the unit circle  Trigonometry  Khan Academy.ahk
+71.  Introduction to the unit circle  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=1m9p9iubMLU&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444803.  Introduction to Trigonometric Functions (1323702).ahk
+72.  Introduction to Trigonometric Functions (1323702).ahk
 https://www.youtube.com/watch?v=cMqetVG8vRU&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-444876.  Introduction to Trigonometric Functions.ahk
+73.  Introduction to Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=cMqetVG8vRU&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-444950.  Introduction to Vectors.ahk
+74.  Introduction to Vectors.ahk
 https://www.youtube.com/watch?v=0uAJpsanhl0&list=PL085526F86A268B57
 
-445025.  Inverse trig functions arccos  Trigonometry  Khan Academy.ahk
+75.  Inverse trig functions arccos  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=eTDaJ4ebK28&list=PLD6DA74C1DBF770E7
 
-445101.  Inverse trig functions arcsin  Trigonometry  Khan Academy.ahk
+76.  Inverse trig functions arcsin  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=JGU74wbZMLg&list=PLD6DA74C1DBF770E7
 
-445178.  Inverse trig functions arctan  Trigonometry  Khan Academy.ahk
+77.  Inverse trig functions arctan  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=Idxeo49szW0&list=PLD6DA74C1DBF770E7
 
-445256.  Junior Cycle Maths - Trigonometry Tutorial.ahk
+78.  Junior Cycle Maths - Trigonometry Tutorial.ahk
 https://www.youtube.com/watch?v=UZ1E8A_oNMw&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-445335.  Labelling Sides - Trigonometry in Right Angled Triangles (SOHCAHTOA) - Tutorial 15 - Revision.ahk
+79.  Labelling Sides - Trigonometry in Right Angled Triangles (SOHCAHTOA) - Tutorial 15 - Revision.ahk
 https://www.youtube.com/watch?v=1ALLrv2dQxc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-445415.  Law of Cosine & SAS Area of Triangle Advanced Example.ahk
+80.  Law of Cosine & SAS Area of Triangle Advanced Example.ahk
 https://www.youtube.com/watch?v=27RXpY2OLD4&list=PL085526F86A268B57
 
-445496.  Law of Cosines.ahk
+81.  Law of Cosines.ahk
 https://www.youtube.com/watch?v=07w-wk8kRRE&list=PL085526F86A268B57
 
-445578.  Law of sines  Trig identities and examples  Trigonometry  Khan Academy.ahk
+82.  Law of sines  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=VjmFKle7xIw&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-445661.  Learn to find the missing angles for a triangle using inverse trig functions.ahk
+83.  Learn to find the missing angles for a triangle using inverse trig functions.ahk
 https://www.youtube.com/watch?v=RWyY3n9nTf8&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-445745.  Linear & Angular Speed Part 1.ahk
+84.  Linear & Angular Speed Part 1.ahk
 https://www.youtube.com/watch?v=76Zh40KPQoY&list=PL085526F86A268B57
 
-445830.  Linear & Angular Speed Part 2.ahk
+85.  Linear & Angular Speed Part 2.ahk
 https://www.youtube.com/watch?v=iMgckNT8K6s&list=PL085526F86A268B57
 
-445916.  Mama ceta Mamacita.ahk
+86.  Mama ceta Mamacita.ahk
 https://www.youtube.com/watch?v=ye7tiIfg3Aw&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-446003.  Math - Trigonometry - How to use Sin, Cos or Tan to find the length of a side..ahk
+87.  Math - Trigonometry - How to use Sin, Cos or Tan to find the length of a side..ahk
 https://www.youtube.com/watch?v=o4wAM3ifeb0&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-446091.  math tutorial - high school trigonometry in Chinese English.ahk
+88.  math tutorial - high school trigonometry in Chinese English.ahk
 https://www.youtube.com/watch?v=9Pcm7zx68xU&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446180.  Maths Help Bearing Problems - VividMath.com.ahk
+89.  Maths Help Bearing Problems - VividMath.com.ahk
 https://www.youtube.com/watch?v=QO0k_k4bbYM&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446270.  Maths Tutorial Trigonometry Law of Sines  Sine Rule (1642754).ahk
+90.  Maths Tutorial Trigonometry Law of Sines  Sine Rule (1642754).ahk
 https://www.youtube.com/watch?v=bDPRWJdVzfs&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446361.  Maths Tutorial Trigonometry Law of Sines  Sine Rule.ahk
+91.  Maths Tutorial Trigonometry Law of Sines  Sine Rule.ahk
 https://www.youtube.com/watch?v=bDPRWJdVzfs&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446453.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1056445).ahk
+92.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1056445).ahk
 https://www.youtube.com/watch?v=5tp74g4N8EY&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-446546.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1693463).ahk
+93.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1693463).ahk
 https://www.youtube.com/watch?v=5tp74g4N8EY&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-446640.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1979573).ahk
+94.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios) (1979573).ahk
 https://www.youtube.com/watch?v=5tp74g4N8EY&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446735.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios).ahk
+95.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios).ahk
 https://www.youtube.com/watch?v=5tp74g4N8EY&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446831.  Measuring angles - Degrees and Protractors.ahk
+96.  Measuring angles - Degrees and Protractors.ahk
 https://www.youtube.com/watch?v=852yX-5-_N4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-446928.  Memorizing the Unit Circle Using Left Hand Trick.ahk
+97.  Memorizing the Unit Circle Using Left Hand Trick.ahk
 https://www.youtube.com/watch?v=LE6dmczMc68&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-447026.  More trig graphs.ahk
+98.  More trig graphs.ahk
 https://www.youtube.com/watch?v=NIG3l8oWKYE&list=PLD6DA74C1DBF770E7
 
-447125.  Navigation Word Problem.ahk
+99.  Navigation Word Problem.ahk
 https://www.youtube.com/watch?v=XTWZ_M8d-4g&list=PLD6DA74C1DBF770E7
 
-447225.  Oblique Triangles Law of Sines READ DESCRIPTIOND.ahk
+100.  Oblique Triangles Law of Sines READ DESCRIPTIOND.ahk
 https://www.youtube.com/watch?v=FtYbQ8X7U_w&list=PL085526F86A268B57
 
-447326.  Polar coordinates 1  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+101.  Polar coordinates 1  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
 https://www.youtube.com/watch?v=jexMSlSDubM&list=PLD6DA74C1DBF770E7
 
-447428.  Polar coordinates 2  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+102.  Polar coordinates 2  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
 https://www.youtube.com/watch?v=zGpbSGj_vfE&list=PLD6DA74C1DBF770E7
 
-447531.  Polar coordinates 3  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+103.  Polar coordinates 3  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
 https://www.youtube.com/watch?v=9iqN12hCn10&list=PLD6DA74C1DBF770E7
 
-447635.  PreCalculus - Trigonometry (6 of 54) The Trigonometry Function Sine Explained.ahk
+104.  PreCalculus - Trigonometry (6 of 54) The Trigonometry Function Sine Explained.ahk
 https://www.youtube.com/watch?v=MvfDl5BgjzU&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-447740.  Product & Quotient of Polar Complex Numbers.ahk
+105.  Product & Quotient of Polar Complex Numbers.ahk
 https://www.youtube.com/watch?v=htSPzT5izaE&list=PL085526F86A268B57
 
-447846.  Product to Sum and Sum to Product Formulas.ahk
+106.  Product to Sum and Sum to Product Formulas.ahk
 https://www.youtube.com/watch?v=KRYoFdfhNXE&list=PL085526F86A268B57
 
-447953.  Projection of a Vector onto another Vector.ahk
+107.  Projection of a Vector onto another Vector.ahk
 https://www.youtube.com/watch?v=aTlAsi4t4NI&list=PL085526F86A268B57
 
-448061.  Proof cos(a+b) = (cos a)(cos b)-(sin a)(sin b).ahk
+108.  Proof cos(a+b) = (cos a)(cos b)-(sin a)(sin b).ahk
 https://www.youtube.com/watch?v=V3-xCPDzQ1Q&list=PLD6DA74C1DBF770E7
 
-448170.  Proof Law of sines  Trig identities and examples  Trigonometry  Khan Academy.ahk
+109.  Proof Law of sines  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=APNkWrD-U1k&list=PLD6DA74C1DBF770E7
 
-448280.  Proof of the law of cosines  Trig identities and examples  Trigonometry  Khan Academy.ahk
+110.  Proof of the law of cosines  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=pGaDcOMdw48&list=PLD6DA74C1DBF770E7
 
-448391.  Proof sin(a+b)  = (cos a)(sin b) + (sin a)(cos b).ahk
+111.  Proof sin(a+b)  = (cos a)(sin b) + (sin a)(cos b).ahk
 https://www.youtube.com/watch?v=zw0waJCEc-w&list=PLD6DA74C1DBF770E7
 
-448503.  Radian and degree  Unit circle definition of trig functions  Trigonometry  Khan Academy.ahk
+112.  Radian and degree  Unit circle definition of trig functions  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=9zspW8u6kQM&list=PLD6DA74C1DBF770E7
 
-448616.  Radians and Degrees.ahk
+113.  Radians and Degrees.ahk
 https://www.youtube.com/watch?v=JmLN3QxshlE&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-448730.  Reciprocal Identities - Evaluating Secant and Cosecant Functions.ahk
+114.  Reciprocal Identities - Evaluating Secant and Cosecant Functions.ahk
 https://www.youtube.com/watch?v=UeuuFqbTYgA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-448845.  Reference Angles Trigonometry, In Radians, Unit Circle - Evaluating Trig Functions (1306559).ahk
+115.  Reference Angles Trigonometry, In Radians, Unit Circle - Evaluating Trig Functions (1306559).ahk
 https://www.youtube.com/watch?v=wT4xMAssvDk&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-448961.  Reference Angles Trigonometry, In Radians, Unit Circle - Evaluating Trig Functions.ahk
+116.  Reference Angles Trigonometry, In Radians, Unit Circle - Evaluating Trig Functions.ahk
 https://www.youtube.com/watch?v=wT4xMAssvDk&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-449078.  Right Triangle Trigonometry Part 1 Finding Missing Sides.ahk
+117.  Right Triangle Trigonometry Part 1 Finding Missing Sides.ahk
 https://www.youtube.com/watch?v=pkjuVZUdcvo&list=PL085526F86A268B57
 
-449196.  Right Triangle Trigonometry Part 2 Solving for Acute Angles.ahk
+118.  Right Triangle Trigonometry Part 2 Solving for Acute Angles.ahk
 https://www.youtube.com/watch?v=VmtcrpTRUyI&list=PL085526F86A268B57
 
-449315.  Setting up the Unit Circle Part 1 and Reference Angle.ahk
+119.  Setting up the Unit Circle Part 1 and Reference Angle.ahk
 https://www.youtube.com/watch?v=j5SoWzBSUmY&list=PL085526F86A268B57
 
-449435.  Setting Up the Unit Circle Part 2.ahk
+120.  Setting Up the Unit Circle Part 2.ahk
 https://www.youtube.com/watch?v=FaZ7frx8nd8&list=PL085526F86A268B57
 
-449556.  Simple TRICK to Write TRIGONOMETRY TABLE - Nothing to Remember  TRIGONOMETRY TRICKS (1077145).ahk
+121.  Simple TRICK to Write TRIGONOMETRY TABLE - Nothing to Remember  TRIGONOMETRY TRICKS (1077145).ahk
 https://www.youtube.com/watch?v=1I7Jp62sGXM&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-449678.  Simple TRICK to Write TRIGONOMETRY TABLE - Nothing to Remember  TRIGONOMETRY TRICKS.ahk
+122.  Simple TRICK to Write TRIGONOMETRY TABLE - Nothing to Remember  TRIGONOMETRY TRICKS.ahk
 https://www.youtube.com/watch?v=1I7Jp62sGXM&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-449801.  Sin Cos Tan - Basic Trigonometry - MathHelp.com.ahk
+123.  Sin Cos Tan - Basic Trigonometry - MathHelp.com.ahk
 https://www.youtube.com/watch?v=XFh_JC7OSrg&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-449925.  Sine Cosine Tangent - SOHCAHTOA - MathHelp.com.ahk
+124.  Sine Cosine Tangent - SOHCAHTOA - MathHelp.com.ahk
 https://www.youtube.com/watch?v=_S35Ht4imhs&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-450050.  Sine Cosine Tangent Explained - Right Triangle Basic Trigonometry - sin cos tan sec csc cot.ahk
+125.  Sine Cosine Tangent Explained - Right Triangle Basic Trigonometry - sin cos tan sec csc cot.ahk
 https://www.youtube.com/watch?v=HAole1-hadc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-450176.  Sine Rule vs Cosine Rule - Advanced Trigonometry Tutorial  Revision (78).ahk
+126.  Sine Rule vs Cosine Rule - Advanced Trigonometry Tutorial  Revision (78).ahk
 https://www.youtube.com/watch?v=sSRub0BPkB0&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-450303.  Sine, Cosine, Tangent Trigonometry Right Triangle Math Explained (1136606).ahk
+127.  Sine, Cosine, Tangent Trigonometry Right Triangle Math Explained (1136606).ahk
 https://www.youtube.com/watch?v=nfMkORv6ybc&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-450431.  Sine, Cosine, Tangent Trigonometry Right Triangle Math Explained.ahk
+128.  Sine, Cosine, Tangent Trigonometry Right Triangle Math Explained.ahk
 https://www.youtube.com/watch?v=nfMkORv6ybc&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-450560.  Single Angle Trigonometric Equations All Solutions.ahk
+129.  Single Angle Trigonometric Equations All Solutions.ahk
 https://www.youtube.com/watch?v=FcrXDkwPspU&list=PL085526F86A268B57
 
-450690.  Soh Cah Toa How to Use Your Calculator (1054435).ahk
+130.  Soh Cah Toa How to Use Your Calculator (1054435).ahk
 https://www.youtube.com/watch?v=5ZZdaOYaT_4&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-450821.  Soh Cah Toa How to Use Your Calculator.ahk
+131.  Soh Cah Toa How to Use Your Calculator.ahk
 https://www.youtube.com/watch?v=5ZZdaOYaT_4&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-450953.  Solve Right Triangles 1.ahk
+132.  Solve Right Triangles 1.ahk
 https://www.youtube.com/watch?v=fjUN809FPRs&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-451086.  Solving Trigonometric Equations Using Identities, Multiple Angles, By Factoring, General Solution.ahk
+133.  Solving Trigonometric Equations Using Identities, Multiple Angles, By Factoring, General Solution.ahk
 https://www.youtube.com/watch?v=VMAMARmmDac&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-451220.  Solving Trigonometric Equations.ahk
+134.  Solving Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=IE0FxGegdMg&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-451355.  Standard Position Angles & Radians Part 1.ahk
+135.  Standard Position Angles & Radians Part 1.ahk
 https://www.youtube.com/watch?v=ABDKOmamIwo&list=PL085526F86A268B57
 
-451491.  Standard Position Angles Pt2 Converting Degrees and Radians.ahk
+136.  Standard Position Angles Pt2 Converting Degrees and Radians.ahk
 https://www.youtube.com/watch?v=d0mmCN6rOXM&list=PL085526F86A268B57
 
-451628.  Sum and Difference Identities & Formulas - Sine, Cosine, Tangent - Degrees & Radians, Trigonometry.ahk
+137.  Sum and Difference Identities & Formulas - Sine, Cosine, Tangent - Degrees & Radians, Trigonometry.ahk
 https://www.youtube.com/watch?v=sU2pyMR8GZ4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-451766.  Sum and Difference Trigonometric Identities.ahk
+138.  Sum and Difference Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=SYeBT1xjTa8&list=PL085526F86A268B57
 
-451905.  Tangent & Cotangent Graphs w Transformations.ahk
+139.  Tangent & Cotangent Graphs w Transformations.ahk
 https://www.youtube.com/watch?v=qKa8HL_oHf0&list=PL085526F86A268B57
 
-452045.  Tau versus pi  Graphs of trig functions  Trigonometry  Khan Academy.ahk
+140.  Tau versus pi  Graphs of trig functions  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=1jDDfkKKgmc&list=PLD6DA74C1DBF770E7
 
-452186.  the BASICS of TRIGONOMETRY (Review and Tutorial).ahk
+141.  the BASICS of TRIGONOMETRY (Review and Tutorial).ahk
 https://www.youtube.com/watch?v=T8B8Tcz8kog&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-452328.  The language of Geometry  Math Terminology  NJ Wildberger.ahk
+142.  The language of Geometry  Math Terminology  NJ Wildberger.ahk
 https://www.youtube.com/watch?v=J6NBnomti_M&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-452471.  The Pythagorean theorem intro  Right triangles and trigonometry  Geometry  Khan Academy.ahk
+143.  The Pythagorean theorem intro  Right triangles and trigonometry  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=AA6RfgP-AHU&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-452615.  The unit circle definition of trigonometric function.ahk
+144.  The unit circle definition of trigonometric function.ahk
 https://www.youtube.com/watch?v=6Qv_bPlQS8E&list=PLD6DA74C1DBF770E7
 
-452760.  TI Calculator Tutorial Inverse Trigonometry..ahk
+145.  TI Calculator Tutorial Inverse Trigonometry..ahk
 https://www.youtube.com/watch?v=nPeDoGwtPNc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-452906.  TI Calculator Tutorial Trig Expressions.ahk
+146.  TI Calculator Tutorial Trig Expressions.ahk
 https://www.youtube.com/watch?v=ciTOsUF3V5A&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-453053.  Triangle angle example 2  Angles and intersecting lines  Geometry  Khan Academy.ahk
+147.  Triangle angle example 2  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=eTwnt4G5xE4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-453201.  Trick for doing trigonometry mentally! (1301176).ahk
+148.  Trick for doing trigonometry mentally! (1301176).ahk
 https://www.youtube.com/watch?v=jI81WXyFrL0&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-453350.  Trick for doing trigonometry mentally!.ahk
+149.  Trick for doing trigonometry mentally!.ahk
 https://www.youtube.com/watch?v=jI81WXyFrL0&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-453500.  Trick to memorize trigonometric functions.ahk
+150.  Trick to memorize trigonometric functions.ahk
 https://www.youtube.com/watch?v=McIbWHgjQng&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-453651.  Tricks For Memorizing The Unit Circle Chart (1517677).ahk
+151.  Tricks For Memorizing The Unit Circle Chart (1517677).ahk
 https://www.youtube.com/watch?v=1v47WtKDu8U&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-453803.  Tricks For Memorizing The Unit Circle Chart.ahk
+152.  Tricks For Memorizing The Unit Circle Chart.ahk
 https://www.youtube.com/watch?v=1v47WtKDu8U&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-453956.  Trig challenge problem area of a hexagon  Math for fun and glory  Khan Academy.ahk
+153.  Trig challenge problem area of a hexagon  Math for fun and glory  Khan Academy.ahk
 https://www.youtube.com/watch?v=Ec-BKdC8vOo&list=PLD6DA74C1DBF770E7
 
-454110.  Trig challenge problem area of a triangle  Khan Academy.ahk
+154.  Trig challenge problem area of a triangle  Khan Academy.ahk
 https://www.youtube.com/watch?v=smtrrefmC40&list=PLD6DA74C1DBF770E7
 
-454265.  Trig Expressions & Finding Trig Functions Given another Trig Ratio.ahk
+155.  Trig Expressions & Finding Trig Functions Given another Trig Ratio.ahk
 https://www.youtube.com/watch?v=SvzAtriI_zo&list=PL085526F86A268B57
 
-454421.  Trig identities part 2 (part 4 if you watch the proofs)  Trigonometry  Khan Academy.ahk
+156.  Trig identities part 2 (part 4 if you watch the proofs)  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=ZWSoyUxAQW0&list=PLD6DA74C1DBF770E7
 
-454578.  Trig identities part 3 (part 5 if you watch the proofs)  Trigonometry  Khan Academy.ahk
+157.  Trig identities part 3 (part 5 if you watch the proofs)  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=JXCiFbEMTZ4&list=PLD6DA74C1DBF770E7
 
-454736.  Trigonometric Cofunctions.ahk
+158.  Trigonometric Cofunctions.ahk
 https://www.youtube.com/watch?v=ajOhvRHcry8&list=PL085526F86A268B57
 
-454895.  Trigonometric Equations Multiple Angles 0 to 2pi Restriction.ahk
+159.  Trigonometric Equations Multiple Angles 0 to 2pi Restriction.ahk
 https://www.youtube.com/watch?v=wvwCwUxxIkE&list=PL085526F86A268B57
 
-455055.  Trigonometric Equations Multiple Angles All Solutions.ahk
+160.  Trigonometric Equations Multiple Angles All Solutions.ahk
 https://www.youtube.com/watch?v=u8kif93O1lY&list=PL085526F86A268B57
 
-455216.  Trigonometric Equations Single Angle 0 to 2pi Restriction 5 Examples.ahk
+161.  Trigonometric Equations Single Angle 0 to 2pi Restriction 5 Examples.ahk
 https://www.youtube.com/watch?v=iZihVtFaAko&list=PL085526F86A268B57
 
-455378.  Trigonometric Functions and Graphing Amplitude, Period, Vertical and Horizontal Shifts, Ex 2.ahk
+162.  Trigonometric Functions and Graphing Amplitude, Period, Vertical and Horizontal Shifts, Ex 2.ahk
 https://www.youtube.com/watch?v=ijTIr-aykUk&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-455541.  Trigonometric Functions of Any Angle - Unit Circle, Radians, Degrees, Coterminal & Reference Angles.ahk
+163.  Trigonometric Functions of Any Angle - Unit Circle, Radians, Degrees, Coterminal & Reference Angles.ahk
 https://www.youtube.com/watch?v=lJ9K4eupKkI&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-455705.  Trigonometric Functions of Any Angle.ahk
+164.  Trigonometric Functions of Any Angle.ahk
 https://www.youtube.com/watch?v=cNjzynK5QqE&list=PL085526F86A268B57
 
-455870.  Trigonometric Graphs  ExamSolutions.ahk
+165.  Trigonometric Graphs  ExamSolutions.ahk
 https://www.youtube.com/watch?v=zYXKxvMmHkE&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-456036.  Trigonometric Identities and Proofs Tutorial - Solving a problem. A1003.ahk
+166.  Trigonometric Identities and Proofs Tutorial - Solving a problem. A1003.ahk
 https://www.youtube.com/watch?v=vsFHKwnOv_s&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-456203.  Trigonometric Identities for  sin and cos of Negative Angles  ExamSolutions.ahk
+167.  Trigonometric Identities for  sin and cos of Negative Angles  ExamSolutions.ahk
 https://www.youtube.com/watch?v=X06Sip4KnGQ&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-456371.  Trigonometric Identities How to Derive  Remember Them - Part 1 of 3 (1818130).ahk
+168.  Trigonometric Identities How to Derive  Remember Them - Part 1 of 3 (1818130).ahk
 https://www.youtube.com/watch?v=I4mcja8abDc&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-456540.  Trigonometric Identities How to Derive  Remember Them - Part 1 of 3.ahk
+169.  Trigonometric Identities How to Derive  Remember Them - Part 1 of 3.ahk
 https://www.youtube.com/watch?v=I4mcja8abDc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-456710.  Trigonometric Identities How to Derive  Remember Them - Part 2 of 3.ahk
+170.  Trigonometric Identities How to Derive  Remember Them - Part 2 of 3.ahk
 https://www.youtube.com/watch?v=2wcNbjcL5_c&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-456881.  Trigonometric Identities How to Derive  Remember Them - Part 3 of 3.ahk
+171.  Trigonometric Identities How to Derive  Remember Them - Part 3 of 3.ahk
 https://www.youtube.com/watch?v=otfj1VDFfIs&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-457053.  Trigonometric Identities.ahk
+172.  Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=OLzXqIqZZz0&list=PLD6DA74C1DBF770E7
 
-457226.  Trigonometric system example  Trig identities and examples  Trigonometry  Khan Academy.ahk
+173.  Trigonometric system example  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=Y2ed-g8Lpdc&list=PLD6DA74C1DBF770E7
 
-457400.  Trigonometry  The Essentials that You Need for Calculus.ahk
+174.  Trigonometry  The Essentials that You Need for Calculus.ahk
 https://www.youtube.com/watch?v=23UX1CM6Q1M&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-457575.  Trigonometry -  Law of Sines in Filipino.ahk
+175.  Trigonometry -  Law of Sines in Filipino.ahk
 https://www.youtube.com/watch?v=cRH1xN871C4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-457751.  Trigonometry - Easy to understand 3D animation (1721008).ahk
+176.  Trigonometry - Easy to understand 3D animation (1721008).ahk
 https://www.youtube.com/watch?v=ovLbCvq7FNA&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-457928.  Trigonometry - Easy to understand 3D animation (1975747).ahk
+177.  Trigonometry - Easy to understand 3D animation (1975747).ahk
 https://www.youtube.com/watch?v=ovLbCvq7FNA&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-458106.  Trigonometry - Easy to understand 3D animation.ahk
+178.  Trigonometry - Easy to understand 3D animation.ahk
 https://www.youtube.com/watch?v=ovLbCvq7FNA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-458285.  Trigonometry - Finding Side lengths.ahk
+179.  Trigonometry - Finding Side lengths.ahk
 https://www.youtube.com/watch?v=mD4CFBm9W9A&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-458465.  Trigonometry - Identities Flash Cards Intuitive Math Help Trig Identity Video.ahk
+180.  Trigonometry - Identities Flash Cards Intuitive Math Help Trig Identity Video.ahk
 https://www.youtube.com/watch?v=03dijrhnD0w&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-458646.  Trigonometry - Tutorial - Beginner - Triangles - GCSE - Maths.ahk
+181.  Trigonometry - Tutorial - Beginner - Triangles - GCSE - Maths.ahk
 https://www.youtube.com/watch?v=hdS6JQULMzY&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-458828.  Trigonometry Basics part - 1 ( Marathi) By Mahesh Kenjale Sir.ahk
+182.  Trigonometry Basics part - 1 ( Marathi) By Mahesh Kenjale Sir.ahk
 https://www.youtube.com/watch?v=Jh8qlS0aIgc&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-459011.  Trigonometry Bearing Problems Navigation 4 Examples.ahk
+183.  Trigonometry Bearing Problems Navigation 4 Examples.ahk
 https://www.youtube.com/watch?v=qYKsli4L3RM&list=PL085526F86A268B57
 
-459195.  Trigonometry Explained Tutorial Presentation 1   MMC Maths.ahk
+184.  Trigonometry Explained Tutorial Presentation 1   MMC Maths.ahk
 https://www.youtube.com/watch?v=dfScEnrWQ3o&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-459380.  Trigonometry finding angles in right-angled triangles.ahk
+185.  Trigonometry finding angles in right-angled triangles.ahk
 https://www.youtube.com/watch?v=eC_wI9OzCIs&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-459566.  Trigonometry finding missing sides of right Triangles.ahk
+186.  Trigonometry finding missing sides of right Triangles.ahk
 https://www.youtube.com/watch?v=Ylix5mlXNCo&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-459753.  Trigonometry For Beginners! (1072901).ahk
+187.  Trigonometry For Beginners! (1072901).ahk
 https://www.youtube.com/watch?v=PUB0TaZ7bhA&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-459941.  Trigonometry For Beginners!.ahk
+188.  Trigonometry For Beginners!.ahk
 https://www.youtube.com/watch?v=PUB0TaZ7bhA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-460130.  Trigonometry for SSC CGL  CHSL  CPO  [In Hindi] Part - 1.ahk
+189.  Trigonometry for SSC CGL  CHSL  CPO  [In Hindi] Part - 1.ahk
 https://www.youtube.com/watch?v=etXoZTojO9o&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-460320.  Trigonometry Full Basics  Trigonometry Solutions  Trigonometry By Abhinay Sharma ( Abhinay Maths).ahk
+190.  Trigonometry Full Basics  Trigonometry Solutions  Trigonometry By Abhinay Sharma ( Abhinay Maths).ahk
 https://www.youtube.com/watch?v=cyuqY9cqvvE&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-460511.  Trigonometry I - Leaving Certificate Maths Tutorial.ahk
+191.  Trigonometry I - Leaving Certificate Maths Tutorial.ahk
 https://www.youtube.com/watch?v=NemhyDCcij8&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-460703.  Trigonometry identity reviewfun  Trig identities and examples  Trigonometry  Khan Academy.ahk
+192.  Trigonometry identity reviewfun  Trig identities and examples  Trigonometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=a70-dYvDJZY&list=PLD6DA74C1DBF770E7
 
-460896.  Trigonometry II - Leaving Certificate Maths Tutorial.ahk
+193.  Trigonometry II - Leaving Certificate Maths Tutorial.ahk
 https://www.youtube.com/watch?v=MFw5Drl50_c&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-461090.  TRIGONOMETRY IN HINDI SESSION 1  RATIO CONCEPT BY DINESH MIGLANI (BUYING PENDRIVE CALL@9215514435).ahk
+194.  TRIGONOMETRY IN HINDI SESSION 1  RATIO CONCEPT BY DINESH MIGLANI (BUYING PENDRIVE CALL@9215514435).ahk
 https://www.youtube.com/watch?v=ykzGH_hxO0w&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-461285.  Trigonometry Lessons Part 1 Definitions (1086282).ahk
+195.  Trigonometry Lessons Part 1 Definitions (1086282).ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-461481.  Trigonometry Lessons Part 1 Definitions (1350131).ahk
+196.  Trigonometry Lessons Part 1 Definitions (1350131).ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PLNBgyC_GvkBPlaBTZRJN9p3w6WyDGig5r
 
-461678.  Trigonometry Lessons Part 1 Definitions (1365415).ahk
+197.  Trigonometry Lessons Part 1 Definitions (1365415).ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-461876.  Trigonometry Lessons Part 1 Definitions (1664498).ahk
+198.  Trigonometry Lessons Part 1 Definitions (1664498).ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-462075.  Trigonometry Lessons Part 1 Definitions (1742439).ahk
+199.  Trigonometry Lessons Part 1 Definitions (1742439).ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-462275.  Trigonometry Lessons Part 1 Definitions.ahk
+200.  Trigonometry Lessons Part 1 Definitions.ahk
 https://www.youtube.com/watch?v=0UM5xzerIC0&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-462476.  Trigonometry Lessons Part 2 Identities.ahk
+201.  Trigonometry Lessons Part 2 Identities.ahk
 https://www.youtube.com/watch?v=MahKG1aPakA&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-462678.  Trigonometry Lessons Part 3 Identities.ahk
+202.  Trigonometry Lessons Part 3 Identities.ahk
 https://www.youtube.com/watch?v=kBh6L3cQYXg&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-462881.  Trigonometry Lessons Part 4 Identities sin (A + B).ahk
+203.  Trigonometry Lessons Part 4 Identities sin (A + B).ahk
 https://www.youtube.com/watch?v=eQc_wFzYl4w&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-463085.  Trigonometry Lessons Part 5 Identities cos (A + B).ahk
+204.  Trigonometry Lessons Part 5 Identities cos (A + B).ahk
 https://www.youtube.com/watch?v=VfbdbjNUsFA&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-463290.  Trigonometry Lessons Part 6 Double Angle Identities.ahk
+205.  Trigonometry Lessons Part 6 Double Angle Identities.ahk
 https://www.youtube.com/watch?v=yJl-FQSLgNo&list=PLWLccugzjUnXkzzEvgf6BQAOWT_7aLarh
 
-463496.  TRIGONOMETRY PART-1 BASIC CONCEPT OF TRIGONOMETRYTRIGONOMETRY FORMULAS.ahk
+206.  TRIGONOMETRY PART-1 BASIC CONCEPT OF TRIGONOMETRYTRIGONOMETRY FORMULAS.ahk
 https://www.youtube.com/watch?v=g29LOEOO99E&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-463703.  TRIGONOMETRY PART-2 TRIGONOMETRY PROBLEMSTRIGONOMETRY FORMULAS.ahk
+207.  TRIGONOMETRY PART-2 TRIGONOMETRY PROBLEMSTRIGONOMETRY FORMULAS.ahk
 https://www.youtube.com/watch?v=xqUXhlVnFHg&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-463911.  Trigonometry Proofs Involving Half and Double Angles.ahk
+208.  Trigonometry Proofs Involving Half and Double Angles.ahk
 https://www.youtube.com/watch?v=aswSc7HZQ7c&list=PL085526F86A268B57
 
-464120.  TRIGONOMETRY Proving Identities part1 in Filipino.ahk
+209.  TRIGONOMETRY Proving Identities part1 in Filipino.ahk
 https://www.youtube.com/watch?v=Wwgn9yY8Cic&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-464330.  Trigonometry Sine, Cosine and Tangent.ahk
+210.  Trigonometry Sine, Cosine and Tangent.ahk
 https://www.youtube.com/watch?v=c8IYXPB6a4s&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-464541.  Trigonometry SOH CAH TOA Filipino.ahk
+211.  Trigonometry SOH CAH TOA Filipino.ahk
 https://www.youtube.com/watch?v=OCEuP4Fzx3Q&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-464753.  Trigonometry SOHCAHTOA GCSE Higher Maths.ahk
+212.  Trigonometry SOHCAHTOA GCSE Higher Maths.ahk
 https://www.youtube.com/watch?v=WqBDpujbtIo&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-464966.  Trigonometry Solving Right Triangles... How (NancyPi).ahk
+213.  Trigonometry Solving Right Triangles... How (NancyPi).ahk
 https://www.youtube.com/watch?v=a5WQlcFTXyk&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-465180.  Trigonometry Tutorial  Angle Measures.ahk
+214.  Trigonometry Tutorial  Angle Measures.ahk
 https://www.youtube.com/watch?v=7IPK1Dq_tmA&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-465395.  Trigonometry Tutorial #1.ahk
+215.  Trigonometry Tutorial #1.ahk
 https://www.youtube.com/watch?v=mSYzQJF_2U8&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-465611.  Trigonometry Unit Circle (1228659).ahk
+216.  Trigonometry Unit Circle (1228659).ahk
 https://www.youtube.com/watch?v=593w799sBms&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-465828.  Trigonometry Unit Circle.ahk
+217.  Trigonometry Unit Circle.ahk
 https://www.youtube.com/watch?v=593w799sBms&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-466046.  Trigonometry What Is It.ahk
+218.  Trigonometry What Is It.ahk
 https://www.youtube.com/watch?v=77XAdyWz5SM&list=PLm7sM_yyvVD8LZiXj0cPnunwWrF2tZYWJ
 
-466265.  Trigonometry word problems (part 1).ahk
+219.  Trigonometry word problems (part 1).ahk
 https://www.youtube.com/watch?v=1vamogV81Y8&list=PLD6DA74C1DBF770E7
 
-466485.  Trigonometry word problems (part 2).ahk
+220.  Trigonometry word problems (part 2).ahk
 https://www.youtube.com/watch?v=4CNnPgabrLE&list=PLD6DA74C1DBF770E7
 
-466706.  Trigonometry!  Simple Hand Trick for Memorizing Values.ahk
+221.  Trigonometry!  Simple Hand Trick for Memorizing Values.ahk
 https://www.youtube.com/watch?v=xXGfp9PKdXM&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-466928.  Understanding Basic Sine & Cosine Graphs.ahk
+222.  Understanding Basic Sine & Cosine Graphs.ahk
 https://www.youtube.com/watch?v=qQOKUIrcuRs&list=PL085526F86A268B57
 
-467151.  Understanding Polar Coordinates.ahk
+223.  Understanding Polar Coordinates.ahk
 https://www.youtube.com/watch?v=tKi05dfUhAA&list=PL085526F86A268B57
 
-467375.  Understanding Trig Identities.ahk
+224.  Understanding Trig Identities.ahk
 https://www.youtube.com/watch?v=KlM76clMlD4&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-467600.  Unit Circle Definition of Trig Functions.ahk
+225.  Unit Circle Definition of Trig Functions.ahk
 https://www.youtube.com/watch?v=ZffZvSH285c&list=PLD6DA74C1DBF770E7
 
-467826.  Unit Circle Song  Michael Bautista.ahk
+226.  Unit Circle Song  Michael Bautista.ahk
 https://www.youtube.com/watch?v=1CiXAP8XaBg&list=PLzFkB2HZWYoeCMFvmB43Ev0Fgpn2W3hbI
 
-468053.  Unit Circle Trigonometry - Sin Cos Tan - Radians & Degrees.ahk
+227.  Unit Circle Trigonometry - Sin Cos Tan - Radians & Degrees.ahk
 https://www.youtube.com/watch?v=V5ArB_GFGYQ&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-468281.  Unit Circle Workout.ahk
+228.  Unit Circle Workout.ahk
 https://www.youtube.com/watch?v=weVAr-bwrJo&list=PLbQIdWRgbp-rH-DBkd66pWQafeFQJFMt7
 
-468510.  Using the Sine Rule to Find Acute Angles - Advanced Trigonometry - TutorialRevision (38).ahk
+229.  Using the Sine Rule to Find Acute Angles - Advanced Trigonometry - TutorialRevision (38).ahk
 https://www.youtube.com/watch?v=f0cKLyEK2GM&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 
-468740.  Using Trig Functions Part II.ahk
+230.  Using Trig Functions Part II.ahk
 https://www.youtube.com/watch?v=RoXmKYjpLGk&list=PLD6DA74C1DBF770E7
 
-468971.  Using Trig Functions.ahk
+231.  Using Trig Functions.ahk
 https://www.youtube.com/watch?v=znR9tW4AiZI&list=PLD6DA74C1DBF770E7
 
-469203.  Vector Application Examples PLEASE READ DESCRIPTION.ahk
+232.  Vector Application Examples PLEASE READ DESCRIPTION.ahk
 https://www.youtube.com/watch?v=3f8ng0vUkDE&list=PL085526F86A268B57
 
-469436.  Verifying Trigonometric Identities Involving Sum & Difference.ahk
+233.  Verifying Trigonometric Identities Involving Sum & Difference.ahk
 https://www.youtube.com/watch?v=OYfeClZiNEU&list=PL085526F86A268B57
 
-469670.  Verifying Trigonometric Identities Pt 1 (1292233).ahk
+234.  Verifying Trigonometric Identities Pt 1 (1292233).ahk
 https://www.youtube.com/watch?v=TCdhf9iVkYc&list=PL085526F86A268B57
 
-469905.  Verifying Trigonometric Identities Pt 1.ahk
+235.  Verifying Trigonometric Identities Pt 1.ahk
 https://www.youtube.com/watch?v=qa_dBedoT7A&list=PL085526F86A268B57
 
-470141.  Verifying Trigonometric Identities Pt2.ahk
+236.  Verifying Trigonometric Identities Pt2.ahk
 https://www.youtube.com/watch?v=q8k-sS7qRts&list=PL085526F86A268B57
 
-470378.  Verifying Trigonometric Identities Pt3.ahk
+237.  Verifying Trigonometric Identities Pt3.ahk
 https://www.youtube.com/watch?v=mAnw4ImaPK0&list=PL085526F86A268B57
 
-470616.  Water Depth Word Problem Modeled with Cosine Sine Function.ahk
+238.  Water Depth Word Problem Modeled with Cosine Sine Function.ahk
 https://www.youtube.com/watch?v=Do0eJ-pRVT8&list=PL085526F86A268B57
 
-470855.  What are Sine, Cosine, and Tangent.  How do I use them  Right triangle trig explained.ahk
+239.  What are Sine, Cosine, and Tangent.  How do I use them  Right triangle trig explained.ahk
 https://www.youtube.com/watch?v=jtas9739rC0&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-471095.  When Do I use Sin, Cos or Tan.ahk
+240.  When Do I use Sin, Cos or Tan.ahk
 https://www.youtube.com/watch?v=2CGEkAAnL-Q&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-471336.  Writing a formula from a sequence.ahk
+241.  Writing a formula from a sequence.ahk
 https://www.youtube.com/watch?v=V02nV_qR_xQ&list=PL9Es8Epf_k4MRzHKr4A-p2-i581bEfqgw
 
-471578.  Writing Vector in terms of Magnitude & Direction Example.ahk
+242.  Writing Vector in terms of Magnitude & Direction Example.ahk
 https://www.youtube.com/watch?v=i1D_jXC5FRU&list=PL085526F86A268B57
 
-471821.  ? A Way to remember the Entire Unit Circle for Trigonometry ?.ahk
+243.  ? A Way to remember the Entire Unit Circle for Trigonometry ?.ahk
 https://www.youtube.com/watch?v=cIVpemcoAlY&list=PL0LyJR9eFi5BdLTInPHkS_G8YE2WcIAh9
 Trigonometry

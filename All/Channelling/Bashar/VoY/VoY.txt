@@ -1,172 +1,172 @@
 
-15101.  .ahk
+1.  .ahk
 
 
-15103.  Bashar -- 'The Eye of The Needle' Live Stream Event - April 25, 2020.ahk
+2.  Bashar -- 'The Eye of The Needle' Live Stream Event - April 25, 2020.ahk
 https://www.youtube.com/watch?v=C_9WbtepER8
 
-15106.  Bashar -- 1-3-5-7-11 A Refresher Course- Highlights.ahk
+3.  Bashar -- 1-3-5-7-11 A Refresher Course- Highlights.ahk
 https://www.youtube.com/watch?v=8PT7rN23w94
 
-15110.  Bashar -- 2019 Crossing the Threshold The Year of Decision and Revelation - Highlights.ahk
+4.  Bashar -- 2019 Crossing the Threshold The Year of Decision and Revelation - Highlights.ahk
 https://www.youtube.com/watch?v=JPAFUMbTtKc
 
-15115.  Bashar -- 2020- The Eye of The Storm - Highlights.ahk
+5.  Bashar -- 2020- The Eye of The Storm - Highlights.ahk
 https://www.youtube.com/watch?v=9cMJ8UzT7RU
 
-15121.  Bashar -- 2027, The Contact Fulcrum - Highlights.ahk
+6.  Bashar -- 2027, The Contact Fulcrum - Highlights.ahk
 https://www.youtube.com/watch?v=jSst2M08Qyk
 
-15128.  Bashar -- Bashar's Birthday Gift - Highlights.ahk
+7.  Bashar -- Bashar's Birthday Gift - Highlights.ahk
 https://www.youtube.com/watch?v=nj0wGLnXmgA
 
-15136.  Bashar -- Children of the Future - Highlights.ahk
+8.  Bashar -- Children of the Future - Highlights.ahk
 https://www.youtube.com/watch?v=XL5TgnR1BGc
 
-15145.  Bashar -- Dare to Dream - Highlights.ahk
+9.  Bashar -- Dare to Dream - Highlights.ahk
 https://www.youtube.com/watch?v=mgxalcp13Ps
 
-15155.  Bashar -- Dreamworld - Highlights.ahk
+10.  Bashar -- Dreamworld - Highlights.ahk
 https://www.youtube.com/watch?v=m74caifvQT8
 
-15166.  Bashar -- Earth Zero - Highlights.ahk
+11.  Bashar -- Earth Zero - Highlights.ahk
 https://www.youtube.com/watch?v=gb0EcZ7Wh1o
 
-15178.  Bashar -- Exploring The Portal of Probabilities - Highlights.ahk
+12.  Bashar -- Exploring The Portal of Probabilities - Highlights.ahk
 https://www.youtube.com/watch?v=H5v8CIHXn4k
 
-15191.  Bashar -- Fairy Tales for Grownups - Highlights.ahk
+13.  Bashar -- Fairy Tales for Grownups - Highlights.ahk
 https://www.youtube.com/watch?v=BYKE2MwTklU
 
-15205.  Bashar -- Fairy Tales for Grownups - June 20 Live Stream Event!.ahk
+14.  Bashar -- Fairy Tales for Grownups - June 20 Live Stream Event!.ahk
 https://www.youtube.com/watch?v=H5Gc_sSE0b0
 
-15220.  Bashar -- Interdimensional Portals and Where to Find Them - Highlights.ahk
+15.  Bashar -- Interdimensional Portals and Where to Find Them - Highlights.ahk
 https://www.youtube.com/watch?v=jx-TveA-5CE
 
-15236.  Bashar -- Is The Earth Flat - Highlights.ahk
+16.  Bashar -- Is The Earth Flat - Highlights.ahk
 https://www.youtube.com/watch?v=qKYy16jIBcE
 
-15253.  Bashar -- Is the Sun a Simulation.ahk
+17.  Bashar -- Is the Sun a Simulation.ahk
 https://www.youtube.com/watch?v=ihPWRuEX0xw
 
-15271.  Bashar -- Live Stream Event August 15, 2020 - Increasing the Probability of Contact.ahk
+18.  Bashar -- Live Stream Event August 15, 2020 - Increasing the Probability of Contact.ahk
 https://www.youtube.com/watch?v=XbR_HYMgReM
 
-15290.  Bashar -- Orinoco's Quest - Highlights.ahk
+19.  Bashar -- Orinoco's Quest - Highlights.ahk
 https://www.youtube.com/watch?v=3Y1vy4D1lHc
 
-15310.  Bashar -- Parables and Time Crystals - Highlights.ahk
+20.  Bashar -- Parables and Time Crystals - Highlights.ahk
 https://www.youtube.com/watch?v=0YJ-QoFPeYo
 
-15331.  Bashar -- Puzzle Pieces.ahk
+21.  Bashar -- Puzzle Pieces.ahk
 https://www.youtube.com/watch?v=7oyw5B2zLys
 
-15353.  Bashar -- Shards The Next Chapters - Highlights.ahk
+22.  Bashar -- Shards The Next Chapters - Highlights.ahk
 https://www.youtube.com/watch?v=usCNpAG9E60
 
-15376.  Bashar -- Shedding New Light on Negative Beliefs - Highlights.ahk
+23.  Bashar -- Shedding New Light on Negative Beliefs - Highlights.ahk
 https://www.youtube.com/watch?v=g37ao4qEwXo
 
-15400.  Bashar -- Stepping From The Shadows - Highlights.ahk
+24.  Bashar -- Stepping From The Shadows - Highlights.ahk
 https://www.youtube.com/watch?v=-A-W4dpofvo
 
-15425.  Bashar -- The 1-3-5-7-11 Download - Highlights, Featuring Linda Moulton Howe.ahk
+25.  Bashar -- The 1-3-5-7-11 Download - Highlights, Featuring Linda Moulton Howe.ahk
 https://www.youtube.com/watch?v=gvTBy4p4FZg
 
-15451.  Bashar -- The Black Box Part II - Highlights.ahk
+26.  Bashar -- The Black Box Part II - Highlights.ahk
 https://www.youtube.com/watch?v=6oDDkH7xpU8
 
-15478.  Bashar -- The Council of 13 and The Crystal Skulls - Highlights.ahk
+27.  Bashar -- The Council of 13 and The Crystal Skulls - Highlights.ahk
 https://www.youtube.com/watch?v=EP_yeveLIM8
 
-15506.  Bashar -- The Eye of The Needle - Highlights.ahk
+28.  Bashar -- The Eye of The Needle - Highlights.ahk
 https://www.youtube.com/watch?v=jr3-PmcO4RA
 
-15535.  Bashar -- The First Level of Mastery - Highlights.ahk
+29.  Bashar -- The First Level of Mastery - Highlights.ahk
 https://www.youtube.com/watch?v=cUEMpk3Z5Ns
 
-15565.  Bashar -- The Five Forms of Abundance - Highlights.ahk
+30.  Bashar -- The Five Forms of Abundance - Highlights.ahk
 https://www.youtube.com/watch?v=0EPfodgux_I
 
-15596.  Bashar -- The Five Hybrid Races - Highlights.ahk
+31.  Bashar -- The Five Hybrid Races - Highlights.ahk
 https://www.youtube.com/watch?v=JSwqz_ZhH_I
 
-15628.  Bashar -- The Five Levels of Mastery - Highlights.ahk
+32.  Bashar -- The Five Levels of Mastery - Highlights.ahk
 https://www.youtube.com/watch?v=VBRZ0GuU-dc
 
-15661.  Bashar -- The Hour of Power - Highlights.ahk
+33.  Bashar -- The Hour of Power - Highlights.ahk
 https://www.youtube.com/watch?v=sBi-E2QLPR4
 
-15695.  Bashar -- The Mind Body Meditation -- Bashar discusses Time Travel with Alan Steinfeld.ahk
+34.  Bashar -- The Mind Body Meditation -- Bashar discusses Time Travel with Alan Steinfeld.ahk
 https://www.youtube.com/watch?v=uJpnyMINyV8
 
-15730.  Bashar -- The Next Phase - Highlights.ahk
+35.  Bashar -- The Next Phase - Highlights.ahk
 https://www.youtube.com/watch?v=_W6zd_-lU4w
 
-15766.  Bashar -- The Parallel Reality Wheel - Highlights.ahk
+36.  Bashar -- The Parallel Reality Wheel - Highlights.ahk
 https://www.youtube.com/watch?v=DpJ50i-qa1k
 
-15803.  Bashar -- The Precursors - Highlights.ahk
+37.  Bashar -- The Precursors - Highlights.ahk
 https://www.youtube.com/watch?v=xZdKy23Tk5I
 
-15841.  Bashar -- The Science of Spirit - Highlights.ahk
+38.  Bashar -- The Science of Spirit - Highlights.ahk
 https://www.youtube.com/watch?v=c5h7zxONp4o
 
-15880.  Bashar -- The Shifting Window of Contact - Highlights.ahk
+39.  Bashar -- The Shifting Window of Contact - Highlights.ahk
 https://www.youtube.com/watch?v=oZkRSCwfo90
 
-15920.  Bashar -- The Spectrum of Fear - Highlights.ahk
+40.  Bashar -- The Spectrum of Fear - Highlights.ahk
 https://www.youtube.com/watch?v=bJBp-zGV1do
 
-15961.  Bashar -- The Structure of Existence - Highlights.ahk
+41.  Bashar -- The Structure of Existence - Highlights.ahk
 https://www.youtube.com/watch?v=8lMYYa6LjS8
 
-16003.  Bashar -- The Window of Discovery - Highlights.ahk
+42.  Bashar -- The Window of Discovery - Highlights.ahk
 https://www.youtube.com/watch?v=-cyT-i1qEME
 
-16046.  Bashar -- The Winter Spirit - Highlights.ahk
+43.  Bashar -- The Winter Spirit - Highlights.ahk
 https://www.youtube.com/watch?v=D630gnO1ihg
 
-16090.  Bashar -- Think Outside the Box - Highlights.ahk
+44.  Bashar -- Think Outside the Box - Highlights.ahk
 https://www.youtube.com/watch?v=AHLvzoNPiVg
 
-16135.  Bashar -- This Transmission Has No Title - Highlights.ahk
+45.  Bashar -- This Transmission Has No Title - Highlights.ahk
 https://www.youtube.com/watch?v=YZON_RZhKJY
 
-16181.  Bashar -- Upcoming Bashar Sedona Event! September 14-15, 2019!.ahk
+46.  Bashar -- Upcoming Bashar Sedona Event! September 14-15, 2019!.ahk
 https://www.youtube.com/watch?v=0jBNDNbAsXk
 
-16228.  Bashar -- Upcoming LA December 2019 Event - December 6-7-8.ahk
+47.  Bashar -- Upcoming LA December 2019 Event - December 6-7-8.ahk
 https://www.youtube.com/watch?v=7shOeXNmlew
 
-16276.  Bashar -- Upcoming Live Stream Event! - May 23, 2020 - 'This Transmission Has No Title'.ahk
+48.  Bashar -- Upcoming Live Stream Event! - May 23, 2020 - 'This Transmission Has No Title'.ahk
 https://www.youtube.com/watch?v=hGZ9Pxf_jnI
 
-16325.  Bashar -- What is The Holotope - Kirby Seid explains....ahk
+49.  Bashar -- What is The Holotope - Kirby Seid explains....ahk
 https://www.youtube.com/watch?v=1O9HAOJW_2Y
 
-16375.  Bashar -- Will He or Wont He - Highlights.ahk
+50.  Bashar -- Will He or Wont He - Highlights.ahk
 https://www.youtube.com/watch?v=3_Qv3PVBzEk
 
-16426.  Bashar -- Willa and the Winter Spirit - Highlights.ahk
+51.  Bashar -- Willa and the Winter Spirit - Highlights.ahk
 https://www.youtube.com/watch?v=ae0Hwm8I8wU
 
-16478.  Bashar -- You Are All Time Travelers - Highlights.ahk
+52.  Bashar -- You Are All Time Travelers - Highlights.ahk
 https://www.youtube.com/watch?v=BGpLyLAiarU
 
-16531.  Bashar -- Your Greater Being in Spirit.ahk
+53.  Bashar -- Your Greater Being in Spirit.ahk
 https://www.youtube.com/watch?v=uZzld4EdiA4
 
-16585.  Bashar-- How to Be 'Extra Smart'.ahk
+54.  Bashar-- How to Be 'Extra Smart'.ahk
 https://www.youtube.com/watch?v=0VFHHr76VaQ
 
-16640.  Bashar-- What Are Chemtrails.ahk
+55.  Bashar-- What Are Chemtrails.ahk
 https://www.youtube.com/watch?v=_7PbgmEB6OY
 
-16696.  Happy New Year from Bashar!.ahk
+56.  Happy New Year from Bashar!.ahk
 https://www.youtube.com/watch?v=kqzYz40VlRo
 
-16753.  Join us for a Bashar Los Angeles event June 21 - 22 - 23, 2019!.ahk
+57.  Join us for a Bashar Los Angeles event June 21 - 22 - 23, 2019!.ahk
 https://www.youtube.com/watch?v=eL-WoAswj6U
 VoY

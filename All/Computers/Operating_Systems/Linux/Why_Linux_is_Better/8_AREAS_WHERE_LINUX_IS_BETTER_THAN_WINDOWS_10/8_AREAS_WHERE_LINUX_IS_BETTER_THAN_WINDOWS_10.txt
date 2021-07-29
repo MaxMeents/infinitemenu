@@ -1,97 +1,97 @@
 
-36581.  2018 Getting started with pfsense 2.4 from install to secure! including multiple separate networks.ahk
+1.  2018 Getting started with pfsense 2.4 from install to secure! including multiple separate networks.ahk
 https://www.youtube.com/watch?v=9kSZ1oM-4ZM
 
-36583.  8 Areas where Linux is BETTER than Windows 10.ahk
+2.  8 Areas where Linux is BETTER than Windows 10.ahk
 https://www.youtube.com/watch?v=LEnJcB03Bb4
 
-36586.  Bond Configuration with Proxmox VE.ahk
+3.  Bond Configuration with Proxmox VE.ahk
 https://www.youtube.com/watch?v=-8SwpgaxFuk
 
-36590.  Containers - Namespaces.ahk
+4.  Containers - Namespaces.ahk
 https://www.youtube.com/watch?v=kl8roLaLy-g
 
-36595.  Containers cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods.ahk
+5.  Containers cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods.ahk
 https://www.youtube.com/watch?v=el7768BNUPw
 
-36601.  Containers unplugged Linux namespaces - Michael Kerrisk.ahk
+6.  Containers unplugged Linux namespaces - Michael Kerrisk.ahk
 https://www.youtube.com/watch?v=0kJPa-1FuoI
 
-36608.  Creating a Proxmox VM and Ubuntu setup.ahk
+7.  Creating a Proxmox VM and Ubuntu setup.ahk
 https://www.youtube.com/watch?v=WZ0JCL-NR_4
 
-36616.  Creating a Ubuntu LXC in Proxmox for Docker.ahk
+8.  Creating a Ubuntu LXC in Proxmox for Docker.ahk
 https://www.youtube.com/watch?v=1EYAGl96dZY
 
-36625.  Creating an LXC Container in Proxmox Virtual Environment.ahk
+9.  Creating an LXC Container in Proxmox Virtual Environment.ahk
 https://www.youtube.com/watch?v=cyjXxsQ8Igw
 
-36635.  Docker Internals Session1 Introduction to Containers and Docker (cgroups & Namespaces).ahk
+10.  Docker Internals Session1 Introduction to Containers and Docker (cgroups & Namespaces).ahk
 https://www.youtube.com/watch?v=0Xb421-9CTo
 
-36646.  File System Mounting - Linux.ahk
+11.  File System Mounting - Linux.ahk
 https://www.youtube.com/watch?v=A8ITr5ZpzvA
 
-36658.  First time Proxmox Setup.ahk
+12.  First time Proxmox Setup.ahk
 https://www.youtube.com/watch?v=yMyIx4MnywA
 
-36671.  How to choose your first Linux distribution - Switching to Linux part 2.ahk
+13.  How to choose your first Linux distribution - Switching to Linux part 2.ahk
 https://www.youtube.com/watch?v=o9Nq1Reu0Wg
 
-36685.  How to get Mac OS X Mojave features in elementary OS.ahk
+14.  How to get Mac OS X Mojave features in elementary OS.ahk
 https://www.youtube.com/watch?v=UVKgP9EngJM
 
-36700.  How To Setup A Virtualization Server With Proxmox.ahk
+15.  How To Setup A Virtualization Server With Proxmox.ahk
 https://www.youtube.com/watch?v=IzenuPIOgJk
 
-36716.  Howto Proxmox VE Setup and Configuration - Virtual Lab.ahk
+16.  Howto Proxmox VE Setup and Configuration - Virtual Lab.ahk
 https://www.youtube.com/watch?v=Sjy0jll0Rx4
 
-36733.  Installing Docker and Portainer on Proxmox.ahk
+17.  Installing Docker and Portainer on Proxmox.ahk
 https://www.youtube.com/watch?v=HfnHPuuQ0lM
 
-36751.  Installing Kali Linux on Proxmox.ahk
+18.  Installing Kali Linux on Proxmox.ahk
 https://www.youtube.com/watch?v=13S2d7s2Td8
 
-36770.  Installing Linux server on Proxmox.ahk
+19.  Installing Linux server on Proxmox.ahk
 https://www.youtube.com/watch?v=dwvRMNxlC0U
 
-36790.  Is Linux too complicated, or is it just a wrong first impression .ahk
+20.  Is Linux too complicated, or is it just a wrong first impression .ahk
 https://www.youtube.com/watch?v=DhuFVqrEs3g
 
-36811.  Lesson 4 Whats under the hood - Namespaces, Cgroups and OverlayFS.ahk
+21.  Lesson 4 Whats under the hood - Namespaces, Cgroups and OverlayFS.ahk
 https://www.youtube.com/watch?v=2ZdJ_3sBr6A
 
-36833.  ovh virtual server proxmox network configuration.ahk
+22.  ovh virtual server proxmox network configuration.ahk
 https://www.youtube.com/watch?v=CvBiUQCo718
 
-36856.  Practical Introduction to Linux Network Namespaces - Openstack example.ahk
+23.  Practical Introduction to Linux Network Namespaces - Openstack example.ahk
 https://www.youtube.com/watch?v=FcFXlrI-Qx0
 
-36880.  Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine..ahk
+24.  Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine..ahk
 https://www.youtube.com/watch?v=I-e1_CTa4s0
 
-36905.  Proxmox VE Install and Setup Tutorial.ahk
+25.  Proxmox VE Install and Setup Tutorial.ahk
 https://www.youtube.com/watch?v=7OVaWaqO2aU
 
-36931.  Setting up your own virtualization server with Proxmox Virtual Environment.ahk
+26.  Setting up your own virtualization server with Proxmox Virtual Environment.ahk
 https://www.youtube.com/watch?v=MO4CaHn1EjM
 
-36958.  Ubuntu The End of an Era.ahk
+27.  Ubuntu The End of an Era.ahk
 https://www.youtube.com/watch?v=Xy7v5tdfSZM
 
-36986.  Understanding user namespaces - Michael Kerrisk.ahk
+28.  Understanding user namespaces - Michael Kerrisk.ahk
 https://www.youtube.com/watch?v=83NOk8pmHi8
 
-37015.  Virtualize Everything! - Proxmox Install Tutorial.ahk
+29.  Virtualize Everything! - Proxmox Install Tutorial.ahk
 https://www.youtube.com/watch?v=azORbxrItOo
 
-37045.  What does Microsoft want with Linux and Open Source.ahk
+30.  What does Microsoft want with Linux and Open Source.ahk
 https://www.youtube.com/watch?v=VowHByyLqYs
 
-37076.  [Tutorial] How To Create ZFS Pool And Config Samba Server Step By Step.ahk
+31.  [Tutorial] How To Create ZFS Pool And Config Samba Server Step By Step.ahk
 https://www.youtube.com/watch?v=YmGGB9If5CI
 
-37108.  [Tutorial] How To Install Proxmox On Dedicated Server Via KVM For Beginner.ahk
+32.  [Tutorial] How To Install Proxmox On Dedicated Server Via KVM For Beginner.ahk
 https://www.youtube.com/watch?v=8fejgD0nDeI
 8 AREAS WHERE LINUX IS BETTER THAN WINDOWS 10

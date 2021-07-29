@@ -1,55 +1,55 @@
 
-12.  1 Achievers.ahk
+1.  1 Achievers.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Achievers
 
-14.  1.1 Single-player appeal to the Achiever.ahk
+2.  1.1 Single-player appeal to the Achiever.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Single-player_appeal_to_the_Achiever
 
-17.  1.2 Multi-player appeal to the Achiever.ahk
+3.  1.2 Multi-player appeal to the Achiever.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Multi-player_appeal_to_the_Achiever
 
-21.  10 References.ahk
+4.  10 References.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#References
 
-26.  11 External links.ahk
+5.  11 External links.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#External_links
 
-32.  2 Explorers.ahk
+6.  2 Explorers.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Explorers
 
-39.  2.1 Single-player appeal to the Explorer.ahk
+7.  2.1 Single-player appeal to the Explorer.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Single-player_appeal_to_the_Explorer
 
-47.  2.2 Multi-player appeal to the Explorer.ahk
+8.  2.2 Multi-player appeal to the Explorer.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Multi-player_appeal_to_the_Explorer
 
-56.  3 Socializers.ahk
+9.  3 Socializers.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Socializers
 
-66.  3.1 Single-player appeal to the Socializer.ahk
+10.  3.1 Single-player appeal to the Socializer.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Single-player_appeal_to_the_Socializer
 
-77.  3.2 Multi-player appeal to the Socializer.ahk
+11.  3.2 Multi-player appeal to the Socializer.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Multi-player_appeal_to_the_Socializer
 
-89.  4 Killers.ahk
+12.  4 Killers.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Killers
 
-102.  4.1 Multi-player appeal to the Killer.ahk
+13.  4.1 Multi-player appeal to the Killer.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Multi-player_appeal_to_the_Killer
 
-116.  5 Application.ahk
+14.  5 Application.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Application
 
-131.  6 History.ahk
+15.  6 History.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#History
 
-147.  7 Expanded categories.ahk
+16.  7 Expanded categories.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Expanded_categories
 
-164.  8 Criticism.ahk
+17.  8 Criticism.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#Criticism
 
-182.  9 See also.ahk
+18.  9 See also.ahk
 https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types#See_also
 Bartle Taxonomy

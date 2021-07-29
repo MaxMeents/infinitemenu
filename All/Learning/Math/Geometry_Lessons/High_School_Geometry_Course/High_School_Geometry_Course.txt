@@ -1,598 +1,598 @@
 
-263576.  Are you ready for High School Geometry.ahk
+1.  Are you ready for High School Geometry.ahk
 https://www.youtube.com/watch?v=xt3mm-1pGEM
 
-263578.  Geometry  6.6b, Isosceles Trapezoids & Mid-segment of Trapezoids & 4 Theorems.ahk
+2.  Geometry  6.6b, Isosceles Trapezoids & Mid-segment of Trapezoids & 4 Theorems.ahk
 https://www.youtube.com/watch?v=ryLKnGvhgDs
 
-263581.  Geometry 1.1, Understanding points, lines, and planes.ahk
+3.  Geometry 1.1, Understanding points, lines, and planes.ahk
 https://www.youtube.com/watch?v=Y964Rpnesbk
 
-263585.  Geometry 1.2, Measuring and constructing segments.ahk
+4.  Geometry 1.2, Measuring and constructing segments.ahk
 https://www.youtube.com/watch?v=pbWkLf9L3EE
 
-263590.  Geometry 1.3, Measuring & constructing angles, angle bisector.ahk
+5.  Geometry 1.3, Measuring & constructing angles, angle bisector.ahk
 https://www.youtube.com/watch?v=6fO-xhWSYzo
 
-263596.  Geometry 1.4, Pairs of angles.ahk
+6.  Geometry 1.4, Pairs of angles.ahk
 https://www.youtube.com/watch?v=Yk588n0UaGY
 
-263603.  Geometry 1.5, Using Formulas in Geometry, Perimeter, Area, Circumference.ahk
+7.  Geometry 1.5, Using Formulas in Geometry, Perimeter, Area, Circumference.ahk
 https://www.youtube.com/watch?v=we-nndoIa28
 
-263611.  Geometry 1.6, Midpoint and Distance in the Coordinate Plane.ahk
+8.  Geometry 1.6, Midpoint and Distance in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=lk8Y5MS7ezk
 
-263620.  Geometry 1.7, Transformations in the Coordinate Plane.ahk
+9.  Geometry 1.7, Transformations in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=KGuB9fIAl-E
 
-263630.  Geometry 10.1a, Literal Equations.ahk
+10.  Geometry 10.1a, Literal Equations.ahk
 https://www.youtube.com/watch?v=Wm-YqGRepE0
 
-263641.  Geometry 10.1b, Area Addition Postulate & Area of a Parallelogram.ahk
+11.  Geometry 10.1b, Area Addition Postulate & Area of a Parallelogram.ahk
 https://www.youtube.com/watch?v=omLMN5ijaYM
 
-263653.  Geometry 10.1c, Area of Triangles & Trapezoids.ahk
+12.  Geometry 10.1c, Area of Triangles & Trapezoids.ahk
 https://www.youtube.com/watch?v=M7KOvEOd-mg
 
-263666.  Geometry 10.1d, Area of Rhombuses & Kites.ahk
+13.  Geometry 10.1d, Area of Rhombuses & Kites.ahk
 https://www.youtube.com/watch?v=OcKkIRX-9RQ
 
-263680.  Geometry 10.2a, Develop Pi or Construct to estimate Pi p.ahk
+14.  Geometry 10.2a, Develop Pi or Construct to estimate Pi p.ahk
 https://www.youtube.com/watch?v=zb6eATudP9I
 
-263695.  Geometry 10.2b, Circumference & Area of a Circle.ahk
+15.  Geometry 10.2b, Circumference & Area of a Circle.ahk
 https://www.youtube.com/watch?v=1X2Xfxk3-Qc
 
-263711.  Geometry 10.2c, Area of Regular Polygons with the Apothem.ahk
+16.  Geometry 10.2c, Area of Regular Polygons with the Apothem.ahk
 https://www.youtube.com/watch?v=_yetNuzt8SY
 
-263728.  Geometry 10.3a, Composite Figures & Area.ahk
+17.  Geometry 10.3a, Composite Figures & Area.ahk
 https://www.youtube.com/watch?v=VbS-RkzIqbw
 
-263746.  Geometry 10.3b, Triangle Area Formulas unknown height, Heron's Formula.ahk
+18.  Geometry 10.3b, Triangle Area Formulas unknown height, Heron's Formula.ahk
 https://www.youtube.com/watch?v=N8gwjgfO2fE
 
-263765.  Geometry 10.4, Perimeter & Area in the Coordinate Plane.ahk
+19.  Geometry 10.4, Perimeter & Area in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=PgOQED-7UlY
 
-263785.  Geometry 10.5, Effects of changing Dimensions Proportionally.ahk
+20.  Geometry 10.5, Effects of changing Dimensions Proportionally.ahk
 https://www.youtube.com/watch?v=_UX3UdfkUnI
 
-263806.  Geometry 10.6a, Probability.ahk
+21.  Geometry 10.6a, Probability.ahk
 https://www.youtube.com/watch?v=4wMSBagFX5k
 
-263828.  Geometry 10.6b, Geometric Probability.ahk
+22.  Geometry 10.6b, Geometric Probability.ahk
 https://www.youtube.com/watch?v=IL2GzVzt9gE
 
-263851.  Geometry 10.6c, Use Geometric Probability to estimate pi.ahk
+23.  Geometry 10.6c, Use Geometric Probability to estimate pi.ahk
 https://www.youtube.com/watch?v=jI5T7HxoVJY
 
-263875.  Geometry 11.1a, Three-dimensional figures (and properties of).ahk
+24.  Geometry 11.1a, Three-dimensional figures (and properties of).ahk
 https://www.youtube.com/watch?v=hdxbcTAVdoU
 
-263900.  Geometry 11.1b, Classify, Identify, Three-dimensional figure from a net.ahk
+25.  Geometry 11.1b, Classify, Identify, Three-dimensional figure from a net.ahk
 https://www.youtube.com/watch?v=KSIMX-WWOL4
 
-263926.  Geometry 11.1c, Cross sections of Three-dimensional figures.ahk
+26.  Geometry 11.1c, Cross sections of Three-dimensional figures.ahk
 https://www.youtube.com/watch?v=Exx1H0JB-xU
 
-263953.  Geometry 11.2a, Volume of Prisms & Cavalieri's Principle.ahk
+27.  Geometry 11.2a, Volume of Prisms & Cavalieri's Principle.ahk
 https://www.youtube.com/watch?v=D16LYhRZgE8
 
-263981.  Geometry 11.2b, Volume of Cylinders & Cavalieri's Principle.ahk
+28.  Geometry 11.2b, Volume of Cylinders & Cavalieri's Principle.ahk
 https://www.youtube.com/watch?v=jV803JQ2W2Q
 
-264010.  Geometry 11.2c, Finding Volumes of Composite 3D figures.ahk
+29.  Geometry 11.2c, Finding Volumes of Composite 3D figures.ahk
 https://www.youtube.com/watch?v=JT9i6bfin8w
 
-264040.  Geometry 11.3a, Volume of Pyramids.ahk
+30.  Geometry 11.3a, Volume of Pyramids.ahk
 https://www.youtube.com/watch?v=JSoVdP1uHyA
 
-264071.  Geometry 11.3b, Volume of Cones.ahk
+31.  Geometry 11.3b, Volume of Cones.ahk
 https://www.youtube.com/watch?v=9rzM3bCbocg
 
-264103.  Geometry 11.3c, Cube roots.ahk
+32.  Geometry 11.3c, Cube roots.ahk
 https://www.youtube.com/watch?v=hPy-azwuLDo
 
-264136.  Geometry 11.4a, Volume of a Sphere or Hemisphere.ahk
+33.  Geometry 11.4a, Volume of a Sphere or Hemisphere.ahk
 https://www.youtube.com/watch?v=dW3qrnlCv1Q
 
-264170.  Geometry 11.4b, Surface Area of a Sphere.ahk
+34.  Geometry 11.4b, Surface Area of a Sphere.ahk
 https://www.youtube.com/watch?v=b3OdBQS-QKk
 
-264205.  Geometry 12.1a, Introducing Chord, Secant, Tangent, lines that intersect circles.ahk
+35.  Geometry 12.1a, Introducing Chord, Secant, Tangent, lines that intersect circles.ahk
 https://www.youtube.com/watch?v=AEU61AWsx8k
 
-264241.  Geometry 12.1b, Congruent, Concentric, and Tangent Circles, & 3 Theorems.ahk
+36.  Geometry 12.1b, Congruent, Concentric, and Tangent Circles, & 3 Theorems.ahk
 https://www.youtube.com/watch?v=j35FzEjSdXQ
 
-264278.  Geometry 12.1c, Construct a tangent to a circle at a point.ahk
+37.  Geometry 12.1c, Construct a tangent to a circle at a point.ahk
 https://www.youtube.com/watch?v=vUOIm4zllWA
 
-264316.  Geometry 12.1d, Make a Circle Graph from data.ahk
+38.  Geometry 12.1d, Make a Circle Graph from data.ahk
 https://www.youtube.com/watch?v=qaqno45G8Cs
 
-264355.  Geometry 12.2a, Major Arc, Minor Arc, Arc Addition Postulate.ahk
+39.  Geometry 12.2a, Major Arc, Minor Arc, Arc Addition Postulate.ahk
 https://www.youtube.com/watch?v=EOPnL4_YWxc
 
-264395.  Geometry 12.2b, Congruent angles, arc, chords, & 3 Theorems.ahk
+40.  Geometry 12.2b, Congruent angles, arc, chords, & 3 Theorems.ahk
 https://www.youtube.com/watch?v=O9KzimmPl9o
 
-264436.  Geometry 12.3a, Sector of a circle & Sector area.ahk
+41.  Geometry 12.3a, Sector of a circle & Sector area.ahk
 https://www.youtube.com/watch?v=SkVnNGsOA8o
 
-264478.  Geometry 12.3b, Area of a Segment of a circle.ahk
+42.  Geometry 12.3b, Area of a Segment of a circle.ahk
 https://www.youtube.com/watch?v=Tdxns7t0O1o
 
-264521.  Geometry 12.3c, Arc length of a Circle.ahk
+43.  Geometry 12.3c, Arc length of a Circle.ahk
 https://www.youtube.com/watch?v=fdJnThLjyPg
 
-264565.  Geometry 12.3d, Introducing Radians & convert degrees and radians.ahk
+44.  Geometry 12.3d, Introducing Radians & convert degrees and radians.ahk
 https://www.youtube.com/watch?v=U7TFbExRhPg
 
-264610.  Geometry 12.4a, Inscribed angle, intercepted arc, subtends.ahk
+45.  Geometry 12.4a, Inscribed angle, intercepted arc, subtends.ahk
 https://www.youtube.com/watch?v=bq92rXi3jUI
 
-264656.  Geometry 12.4b, Inscribed Triangle, Inscribed Quadrilateral, & two theorems.ahk
+46.  Geometry 12.4b, Inscribed Triangle, Inscribed Quadrilateral, & two theorems.ahk
 https://www.youtube.com/watch?v=HWly0u_337c
 
-264703.  Geometry 12.4c, Construct the Center of a circle wcompass & straightedge.ahk
+47.  Geometry 12.4c, Construct the Center of a circle wcompass & straightedge.ahk
 https://www.youtube.com/watch?v=SajcEbURPtw
 
-264751.  Geometry 12.4d, Construct tangent to a circle from an exterior point.ahk
+48.  Geometry 12.4d, Construct tangent to a circle from an exterior point.ahk
 https://www.youtube.com/watch?v=RsgCca9-LvQ
 
-264800.  Geometry 12.5a, Find measures using Tangents and Secants, & 3 Theorems.ahk
+49.  Geometry 12.5a, Find measures using Tangents and Secants, & 3 Theorems.ahk
 https://www.youtube.com/watch?v=1RpkDeNvIW0
 
-264850.  Geometry 12.5b, Angle relationships in circles.ahk
+50.  Geometry 12.5b, Angle relationships in circles.ahk
 https://www.youtube.com/watch?v=ivs-fOU2tZQ
 
-264901.  Geometry 12.6a, Chord-Chord Product Theorem.ahk
+51.  Geometry 12.6a, Chord-Chord Product Theorem.ahk
 https://www.youtube.com/watch?v=3lRlOR8ajeM
 
-264953.  Geometry 12.6b, Secant-Secant Product Theorem.ahk
+52.  Geometry 12.6b, Secant-Secant Product Theorem.ahk
 https://www.youtube.com/watch?v=gOD8uH9HGh4
 
-265006.  Geometry 12.6c, Secant-Tangent Product Theorem.ahk
+53.  Geometry 12.6c, Secant-Tangent Product Theorem.ahk
 https://www.youtube.com/watch?v=j7lTkUhjvTU
 
-265060.  Geometry 12.7, Circles in the Coordinate plane & Equation of a Circle.ahk
+54.  Geometry 12.7, Circles in the Coordinate plane & Equation of a Circle.ahk
 https://www.youtube.com/watch?v=9epefbZrS8w
 
-265115.  Geometry 13.1a, Fundamental Counting Principle.ahk
+55.  Geometry 13.1a, Fundamental Counting Principle.ahk
 https://www.youtube.com/watch?v=fizYovWKglA
 
-265171.  Geometry 13.1b, Introducing Permutations & Factorials.ahk
+56.  Geometry 13.1b, Introducing Permutations & Factorials.ahk
 https://www.youtube.com/watch?v=xj26wR-O1tE
 
-265228.  Geometry 13.1c, Combinations of a set.ahk
+57.  Geometry 13.1c, Combinations of a set.ahk
 https://www.youtube.com/watch?v=OqlUszxMi4A
 
-265286.  Geometry 13.1d, Relative Area.ahk
+58.  Geometry 13.1d, Relative Area.ahk
 https://www.youtube.com/watch?v=dCmR3bcZ3wo
 
-265345.  Geometry 13.2a, Theoretical Probability & Complement of an event.ahk
+59.  Geometry 13.2a, Theoretical Probability & Complement of an event.ahk
 https://www.youtube.com/watch?v=BeP81E--ajc
 
-265405.  Geometry 13.2b, Geometric Probability & Experimental Probability.ahk
+60.  Geometry 13.2b, Geometric Probability & Experimental Probability.ahk
 https://www.youtube.com/watch?v=VMd-LS5CXk8
 
-265466.  Geometry 13.3a, Probability of Independent Events.ahk
+61.  Geometry 13.3a, Probability of Independent Events.ahk
 https://www.youtube.com/watch?v=S-bDkO0OkDI
 
-265528.  Geometry 13.3b, Probability of Dependent Events & Conditional Probability.ahk
+62.  Geometry 13.3b, Probability of Dependent Events & Conditional Probability.ahk
 https://www.youtube.com/watch?v=PLCwRlVVmjw
 
-265591.  Geometry 13.3c, Use a table to find Conditional Probability P(A and B).ahk
+63.  Geometry 13.3c, Use a table to find Conditional Probability P(A and B).ahk
 https://www.youtube.com/watch?v=FJf-nQ_IjZM
 
-265655.  Geometry 13.3d, Determine if events are Independent or Dependent.ahk
+64.  Geometry 13.3d, Determine if events are Independent or Dependent.ahk
 https://www.youtube.com/watch?v=OPJ0SlyYtlY
 
-265720.  Geometry 13.4a, Joint relative frequency & Marginal relative frequency in two-way tables.ahk
+65.  Geometry 13.4a, Joint relative frequency & Marginal relative frequency in two-way tables.ahk
 https://www.youtube.com/watch?v=O-pTPtBEwx8
 
-265786.  Geometry 13.4b, Conditional Relative Frequency & Two-Way tables.ahk
+66.  Geometry 13.4b, Conditional Relative Frequency & Two-Way tables.ahk
 https://www.youtube.com/watch?v=K6D27y8XgKQ
 
-265853.  Geometry 13.5a, Simple event, Compound event, Mutually exclusive events.ahk
+67.  Geometry 13.5a, Simple event, Compound event, Mutually exclusive events.ahk
 https://www.youtube.com/watch?v=Iw8kAOpjOnI
 
-265921.  Geometry 13.5b, Probability of Inclusive Events.ahk
+68.  Geometry 13.5b, Probability of Inclusive Events.ahk
 https://www.youtube.com/watch?v=RuQvCkM5UCw
 
-265990.  Geometry 2.1, Inductive Reasoning & Conjectures.ahk
+69.  Geometry 2.1, Inductive Reasoning & Conjectures.ahk
 https://www.youtube.com/watch?v=XEL4OesvTog
 
-266060.  Geometry 2.2a, Conditional Statements, IF,THEN  p?q.ahk
+70.  Geometry 2.2a, Conditional Statements, IF,THEN  p?q.ahk
 https://www.youtube.com/watch?v=7LxZ2yX3hPM
 
-266131.  Geometry 2.2b, More examples of Conditionals, Converse, Inverse, Contrapositive.ahk
+71.  Geometry 2.2b, More examples of Conditionals, Converse, Inverse, Contrapositive.ahk
 https://www.youtube.com/watch?v=QCivMZ_uvIQ
 
-266203.  Geometry 2.3a, Using Deductive reasoning to verify conjectures.ahk
+72.  Geometry 2.3a, Using Deductive reasoning to verify conjectures.ahk
 https://www.youtube.com/watch?v=MuaonZCBPIg
 
-266276.  Geometry 2.3b, Using Deductive reasoning to solve Logic puzzles.ahk
+73.  Geometry 2.3b, Using Deductive reasoning to solve Logic puzzles.ahk
 https://www.youtube.com/watch?v=loyetRWK3VU
 
-266350.  Geometry 2.4, Biconditional statements & Definitions, iff,  p?q and q?p.ahk
+74.  Geometry 2.4, Biconditional statements & Definitions, iff,  p?q and q?p.ahk
 https://www.youtube.com/watch?v=p4izrcXwZEg
 
-266425.  Geometry 2.5, Algebraic Proof and justifying each step.ahk
+75.  Geometry 2.5, Algebraic Proof and justifying each step.ahk
 https://www.youtube.com/watch?v=cWgRiFxxvvA
 
-266501.  Geometry 2.6a, Geometric Proof for a two-column proof.ahk
+76.  Geometry 2.6a, Geometric Proof for a two-column proof.ahk
 https://www.youtube.com/watch?v=wLVm0wLtIas
 
-266578.  Geometry 2.6b, Design plans for two-column proofs.ahk
+77.  Geometry 2.6b, Design plans for two-column proofs.ahk
 https://www.youtube.com/watch?v=AAuGuppN8ME
 
-266656.  Geometry 2.7a, Read & Write Flowchart proofs.ahk
+78.  Geometry 2.7a, Read & Write Flowchart proofs.ahk
 https://www.youtube.com/watch?v=8N7lYzRg1vw
 
-266735.  Geometry 2.7b, Read & Write Paragraph proof, Vertical Angles Theorem.ahk
+79.  Geometry 2.7b, Read & Write Paragraph proof, Vertical Angles Theorem.ahk
 https://www.youtube.com/watch?v=Wt4LBFz_ODY
 
-266815.  Geometry 2.7c, Intro to Symbolic Logic, Conjunctions & Disjunctions.ahk
+80.  Geometry 2.7c, Intro to Symbolic Logic, Conjunctions & Disjunctions.ahk
 https://www.youtube.com/watch?v=sqPLNOGY0CM
 
-266896.  Geometry 3.1a, Parallel, Perpendicular, and Skew lines.ahk
+81.  Geometry 3.1a, Parallel, Perpendicular, and Skew lines.ahk
 https://www.youtube.com/watch?v=9ArsUw49pqA
 
-266978.  Geometry 3.1b, Angle pairs formed by a Transversal.ahk
+82.  Geometry 3.1b, Angle pairs formed by a Transversal.ahk
 https://www.youtube.com/watch?v=4WGqYyXGVro
 
-267061.  Geometry 3.1c, Find angle measures with Systems of Equations & Elimination.ahk
+83.  Geometry 3.1c, Find angle measures with Systems of Equations & Elimination.ahk
 https://www.youtube.com/watch?v=DZmeJkcMPjk
 
-267145.  Geometry 3.2a, Corresponding Angles Postulate and Parallel lines.ahk
+84.  Geometry 3.2a, Corresponding Angles Postulate and Parallel lines.ahk
 https://www.youtube.com/watch?v=1tTHrmOKUeE
 
-267230.  Geometry 3.2b, Parallel lines & Angle pairs & 3 Theorems.ahk
+85.  Geometry 3.2b, Parallel lines & Angle pairs & 3 Theorems.ahk
 https://www.youtube.com/watch?v=FDGeO4QLscE
 
-267316.  Geometry 3.3a, Converse of the Corresponding angles postulate.ahk
+86.  Geometry 3.3a, Converse of the Corresponding angles postulate.ahk
 https://www.youtube.com/watch?v=oVtpQX-yW4w
 
-267403.  Geometry 3.3b, Proving lines parallel & 3 Converse theorems.ahk
+87.  Geometry 3.3b, Proving lines parallel & 3 Converse theorems.ahk
 https://www.youtube.com/watch?v=8Efhxly08E8
 
-267491.  Geometry 3.3c, Rhombus Method to construct parallel lines.ahk
+88.  Geometry 3.3c, Rhombus Method to construct parallel lines.ahk
 https://www.youtube.com/watch?v=DZJAxcMVALY
 
-267580.  Geometry 3.4a, Construct a Perpendicular bisector of a segment.ahk
+89.  Geometry 3.4a, Construct a Perpendicular bisector of a segment.ahk
 https://www.youtube.com/watch?v=irq3kSSS8kA
 
-267670.  Geometry 3.4b, Perpendicular Transversal Theorem & 2 more theorems for perpendicular lines.ahk
+90.  Geometry 3.4b, Perpendicular Transversal Theorem & 2 more theorems for perpendicular lines.ahk
 https://www.youtube.com/watch?v=LKv16kRUGMI
 
-267761.  Geometry 3.4c, Construct Perpendicular line to a given line through a given point.ahk
+91.  Geometry 3.4c, Construct Perpendicular line to a given line through a given point.ahk
 https://www.youtube.com/watch?v=DlFrzkMGfUc
 
-267853.  Geometry 3.5a, Rise, Run, and finding the Slope of a line.ahk
+92.  Geometry 3.5a, Rise, Run, and finding the Slope of a line.ahk
 https://www.youtube.com/watch?v=TM5Fweps6UU
 
-267946.  Geometry 3.5b, Slopes of Parallel and Perpendicular lines.ahk
+93.  Geometry 3.5b, Slopes of Parallel and Perpendicular lines.ahk
 https://www.youtube.com/watch?v=1_5fMMgHYnI
 
-268040.  Geometry 3.6a, Point-slope form & Slope-intercept form.ahk
+94.  Geometry 3.6a, Point-slope form & Slope-intercept form.ahk
 https://www.youtube.com/watch?v=vdrwzXvW38I
 
-268135.  Geometry 3.6b, Graphing the equation of a line.ahk
+95.  Geometry 3.6b, Graphing the equation of a line.ahk
 https://www.youtube.com/watch?v=SaOUScgU57E
 
-268231.  Geometry 3.6c, Pairs of lines & system of 2 equations in 2 variables.ahk
+96.  Geometry 3.6c, Pairs of lines & system of 2 equations in 2 variables.ahk
 https://www.youtube.com/watch?v=FHbYYRDE7nU
 
-268328.  Geometry 3.6d, Scatter plots & Line of best fit.ahk
+97.  Geometry 3.6d, Scatter plots & Line of best fit.ahk
 https://www.youtube.com/watch?v=F6o0KhMJPD0
 
-268426.  Geometry 4.1a, Drawing & identifying Transformations.ahk
+98.  Geometry 4.1a, Drawing & identifying Transformations.ahk
 https://www.youtube.com/watch?v=L23dLH5Qzwc
 
-268525.  Geometry 4.1b, Transformations in the Coordinate Plane & Congruence.ahk
+99.  Geometry 4.1b, Transformations in the Coordinate Plane & Congruence.ahk
 https://www.youtube.com/watch?v=WwMmxlLWPS4
 
-268625.  Geometry 4.2a, Classifying triangles by angle or side.ahk
+100.  Geometry 4.2a, Classifying triangles by angle or side.ahk
 https://www.youtube.com/watch?v=DoOeRTcGuaE
 
-268726.  Geometry 4.2b, Construct an Equilateral triangle with a compass.ahk
+101.  Geometry 4.2b, Construct an Equilateral triangle with a compass.ahk
 https://www.youtube.com/watch?v=mf97k4LehIg
 
-268828.  Geometry 4.3a, Triangle Sum Theorem & auxiliary lines.ahk
+102.  Geometry 4.3a, Triangle Sum Theorem & auxiliary lines.ahk
 https://www.youtube.com/watch?v=sUm74GCnW0Q
 
-268931.  Geometry 4.3b, Two Corollaries from the Triangle Sum Theorem.ahk
+103.  Geometry 4.3b, Two Corollaries from the Triangle Sum Theorem.ahk
 https://www.youtube.com/watch?v=VbBjBbDnT_o
 
-269035.  Geometry 4.3c, Exterior Angles Theorem & Third Angles Theorem.ahk
+104.  Geometry 4.3c, Exterior Angles Theorem & Third Angles Theorem.ahk
 https://www.youtube.com/watch?v=Yav0QHT8EAA
 
-269140.  Geometry 4.4, Properties of Congruent Polygons.ahk
+105.  Geometry 4.4, Properties of Congruent Polygons.ahk
 https://www.youtube.com/watch?v=Oyxb5r2x4P4
 
-269246.  Geometry 4.5a, Side-Side-Side (SSS) congruence, Triangle rigidity, & Included angles.ahk
+106.  Geometry 4.5a, Side-Side-Side (SSS) congruence, Triangle rigidity, & Included angles.ahk
 https://www.youtube.com/watch?v=qzXu5yQCLwA
 
-269353.  Geometry 4.5b, Side-Angle-Side (SAS) congruence & construct triangles using SAS.ahk
+107.  Geometry 4.5b, Side-Angle-Side (SAS) congruence & construct triangles using SAS.ahk
 https://www.youtube.com/watch?v=ZY0T1V1Ja_I
 
-269461.  Geometry 4.6a, Angle-Side-Angle (ASA) Congruence & construct triangles using ASA.ahk
+108.  Geometry 4.6a, Angle-Side-Angle (ASA) Congruence & construct triangles using ASA.ahk
 https://www.youtube.com/watch?v=icYWnmmx4s0
 
-269570.  Geometry 4.6b, Angle-Angle-Side (AAS) Congruence.ahk
+109.  Geometry 4.6b, Angle-Angle-Side (AAS) Congruence.ahk
 https://www.youtube.com/watch?v=JyvVK34aGGk
 
-269680.  Geometry 4.6c, Hypotenuse-Leg (HL) Congruence Theorem.ahk
+110.  Geometry 4.6c, Hypotenuse-Leg (HL) Congruence Theorem.ahk
 https://www.youtube.com/watch?v=8sZVqYocy4c
 
-269791.  Geometry 4.6d, Construct a Right triangle with a compass and straightedge.ahk
+111.  Geometry 4.6d, Construct a Right triangle with a compass and straightedge.ahk
 https://www.youtube.com/watch?v=7bkNNYN-j6E
 
-269903.  Geometry 4.7a, CPCTC Triangle Congruence & the Distance Formula.ahk
+112.  Geometry 4.7a, CPCTC Triangle Congruence & the Distance Formula.ahk
 https://www.youtube.com/watch?v=vuC40Hg4OHU
 
-270016.  Geometry 4.7b, Proving the Parallel & Perpendicular Lines Theorems.ahk
+113.  Geometry 4.7b, Proving the Parallel & Perpendicular Lines Theorems.ahk
 https://www.youtube.com/watch?v=LibaT50_Zxw
 
-270130.  Geometry 4.7c, Quadratic equation for side length of a triangle.ahk
+114.  Geometry 4.7c, Quadratic equation for side length of a triangle.ahk
 https://www.youtube.com/watch?v=boo_DS6k5yo
 
-270245.  Geometry 4.8, Coordinate Proof & figures in the Coordinate Plane.ahk
+115.  Geometry 4.8, Coordinate Proof & figures in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=sbdS0QizbfU
 
-270361.  Geometry 4.9a, Isosceles Triangle Theorem & its Converse.ahk
+116.  Geometry 4.9a, Isosceles Triangle Theorem & its Converse.ahk
 https://www.youtube.com/watch?v=_PHS45HGW6E
 
-270478.  Geometry 4.9b, Equilateral & Equiangular Corollaries.ahk
+117.  Geometry 4.9b, Equilateral & Equiangular Corollaries.ahk
 https://www.youtube.com/watch?v=M5_CFhzS3tc
 
-270596.  Geometry 4.9c, Congruent Triangles to prove Constructions valid.ahk
+118.  Geometry 4.9c, Congruent Triangles to prove Constructions valid.ahk
 https://www.youtube.com/watch?v=shSwXn-XXAw
 
-270715.  Geometry 5.1a, Perpendicular Bisector Theorem & its Converse.ahk
+119.  Geometry 5.1a, Perpendicular Bisector Theorem & its Converse.ahk
 https://www.youtube.com/watch?v=ArvfTrGNh0I
 
-270835.  Geometry 5.1b, Angle Bisector Theorem & its Converse.ahk
+120.  Geometry 5.1b, Angle Bisector Theorem & its Converse.ahk
 https://www.youtube.com/watch?v=P79BlQKuvqQ
 
-270956.  Geometry 5.2a, Circumcenter of a Triangle & Circumcenter Theorem.ahk
+121.  Geometry 5.2a, Circumcenter of a Triangle & Circumcenter Theorem.ahk
 https://www.youtube.com/watch?v=BRlgvjLZwVw
 
-271078.  Geometry 5.2b, Incenter Theorem, Inscribed Circles, and Angle Bisectors (New Version).ahk
+122.  Geometry 5.2b, Incenter Theorem, Inscribed Circles, and Angle Bisectors (New Version).ahk
 https://www.youtube.com/watch?v=X8z1C38bbyQ
 
-271201.  Geometry 5.3a, Centroid Theorem & construct Centroid of a Triangle.ahk
+123.  Geometry 5.3a, Centroid Theorem & construct Centroid of a Triangle.ahk
 https://www.youtube.com/watch?v=Crax3yFg-y0
 
-271325.  Geometry 5.3b, Altitude of a Triangle & finding the Orthocenter.ahk
+124.  Geometry 5.3b, Altitude of a Triangle & finding the Orthocenter.ahk
 https://www.youtube.com/watch?v=lFmpNVHjAAs
 
-271450.  Geometry 5.4a, The Triangle Midsegment Theorem.ahk
+125.  Geometry 5.4a, The Triangle Midsegment Theorem.ahk
 https://www.youtube.com/watch?v=XKVQmZfdIxU
 
-271576.  Geometry 5.4b, Construct the Midsegment of a triangle with a compass.ahk
+126.  Geometry 5.4b, Construct the Midsegment of a triangle with a compass.ahk
 https://www.youtube.com/watch?v=j8Y9crWqBcg
 
-271703.  Geometry 5.4c, Review - Solving Compound Inequalities.ahk
+127.  Geometry 5.4c, Review - Solving Compound Inequalities.ahk
 https://www.youtube.com/watch?v=iVapt9PYJYU
 
-271831.  Geometry 5.5a, Write an Indirect Proof & 2 Theorems.ahk
+128.  Geometry 5.5a, Write an Indirect Proof & 2 Theorems.ahk
 https://www.youtube.com/watch?v=CyWcDBnsbV4
 
-271960.  Geometry 5.5b, Triangle Inequality Theorem.ahk
+129.  Geometry 5.5b, Triangle Inequality Theorem.ahk
 https://www.youtube.com/watch?v=wjLcpUS6T7s
 
-272090.  Geometry 5.6a, Hinge Theorem & Converse of the Hinge Theorem.ahk
+130.  Geometry 5.6a, Hinge Theorem & Converse of the Hinge Theorem.ahk
 https://www.youtube.com/watch?v=jDLQH_wtHA0
 
-272221.  Geometry 5.6b, Simplest Radical Form, Quick Review.ahk
+131.  Geometry 5.6b, Simplest Radical Form, Quick Review.ahk
 https://www.youtube.com/watch?v=pC9uaPmPLjE
 
-272353.  Geometry 5.7a, Pythagorean Theorem & Pythagorean Triples.ahk
+132.  Geometry 5.7a, Pythagorean Theorem & Pythagorean Triples.ahk
 https://www.youtube.com/watch?v=5rFCpItefd4
 
-272486.  Geometry 5.7b, Justify the Pythagorean Theorem by building 2D figures.ahk
+133.  Geometry 5.7b, Justify the Pythagorean Theorem by building 2D figures.ahk
 https://www.youtube.com/watch?v=Ka4SIMP2DWE
 
-272620.  Geometry 5.7c, Converse of the Pythagorean Theorem.ahk
+134.  Geometry 5.7c, Converse of the Pythagorean Theorem.ahk
 https://www.youtube.com/watch?v=ojMcpXBR_1w
 
-272755.  Geometry 5.7d, Pythagorean Inequalities Theorem.ahk
+135.  Geometry 5.7d, Pythagorean Inequalities Theorem.ahk
 https://www.youtube.com/watch?v=FBrGyK7fzbs
 
-272891.  Geometry 5.8a, 45°-45°-90° Triangle Theorem.ahk
+136.  Geometry 5.8a, 45°-45°-90° Triangle Theorem.ahk
 https://www.youtube.com/watch?v=OTSJH-LjLH0
 
-273028.  Geometry 5.8b, 30°-60°-90° Triangle Theorem.ahk
+137.  Geometry 5.8b, 30°-60°-90° Triangle Theorem.ahk
 https://www.youtube.com/watch?v=KLWEVm6SaEQ
 
-273166.  Geometry 5.8c, Graph Irrational Numbers on a number line wcompass.ahk
+138.  Geometry 5.8c, Graph Irrational Numbers on a number line wcompass.ahk
 https://www.youtube.com/watch?v=Uf_0vxlCdnM
 
-273305.  Geometry 6.1a, Identifying & Classifying Polygons.ahk
+139.  Geometry 6.1a, Identifying & Classifying Polygons.ahk
 https://www.youtube.com/watch?v=TZXQpFOdF8s
 
-273445.  Geometry 6.1b, Polygon Angle Sum Theorem.ahk
+140.  Geometry 6.1b, Polygon Angle Sum Theorem.ahk
 https://www.youtube.com/watch?v=4Y3DthjQcEY
 
-273586.  Geometry 6.1c, Polygon Exterior Angle Sum Theorem.ahk
+141.  Geometry 6.1c, Polygon Exterior Angle Sum Theorem.ahk
 https://www.youtube.com/watch?v=DRAJL0u3O_A
 
-273728.  Geometry 6.1d, Relations & Functions.ahk
+142.  Geometry 6.1d, Relations & Functions.ahk
 https://www.youtube.com/watch?v=6eC7zEjSeCs
 
-273871.  Geometry 6.1e, Construct regular polygons with a compass & straightedge.ahk
+143.  Geometry 6.1e, Construct regular polygons with a compass & straightedge.ahk
 https://www.youtube.com/watch?v=i2kRB5KPJT8
 
-274015.  Geometry 6.2a, 4 Theorems of the Properties of Parallelograms.ahk
+144.  Geometry 6.2a, 4 Theorems of the Properties of Parallelograms.ahk
 https://www.youtube.com/watch?v=CKy195xphLQ
 
-274160.  Geometry 6.2b, Parallelograms in the Coordinate Plane & prove Opposite Angles Congruent.ahk
+145.  Geometry 6.2b, Parallelograms in the Coordinate Plane & prove Opposite Angles Congruent.ahk
 https://www.youtube.com/watch?v=d7w02x2k7Ac
 
-274306.  Geometry 6.3a, Conditions for Parallelograms & 5 Theorems.ahk
+146.  Geometry 6.3a, Conditions for Parallelograms & 5 Theorems.ahk
 https://www.youtube.com/watch?v=IsF3IWw82Zg
 
-274453.  Geometry 6.3b, Proving Parallelograms in the Coordinate Plane.ahk
+147.  Geometry 6.3b, Proving Parallelograms in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=gmXa3M1D_ds
 
-274601.  Geometry 6.4a, Properties of Rectangles & 2 Theorems.ahk
+148.  Geometry 6.4a, Properties of Rectangles & 2 Theorems.ahk
 https://www.youtube.com/watch?v=-kNkdJhYrG4
 
-274750.  Geometry 6.4b, Properties of Rhombuses & 3 Theorems.ahk
+149.  Geometry 6.4b, Properties of Rhombuses & 3 Theorems.ahk
 https://www.youtube.com/watch?v=yz3BC6k0vmM
 
-274900.  Geometry 6.4c, Properties of Squares & Congruent Perpendicular Bisectors.ahk
+150.  Geometry 6.4c, Properties of Squares & Congruent Perpendicular Bisectors.ahk
 https://www.youtube.com/watch?v=Fv42pzqyt2s
 
-275051.  Geometry 6.4d, Construct a Rhombus with a compass & straightedge.ahk
+151.  Geometry 6.4d, Construct a Rhombus with a compass & straightedge.ahk
 https://www.youtube.com/watch?v=6Z0kOnvyqXY
 
-275203.  Geometry 6.5a, Conditions for Rectangles & Rhombuses, 5 Theorems.ahk
+152.  Geometry 6.5a, Conditions for Rectangles & Rhombuses, 5 Theorems.ahk
 https://www.youtube.com/watch?v=XU1YGUfMzDY
 
-275356.  Geometry 6.5b, Apply & Identify Special Parallelograms in the Coordinate plane.ahk
+153.  Geometry 6.5b, Apply & Identify Special Parallelograms in the Coordinate plane.ahk
 https://www.youtube.com/watch?v=ONtFz4FwPwM
 
-275510.  Geometry 6.6a, Properties of Kites & 2 Theorems.ahk
+154.  Geometry 6.6a, Properties of Kites & 2 Theorems.ahk
 https://www.youtube.com/watch?v=3emoJrLoHxk
 
-275665.  Geometry 6.6c, Construct a Kite with a compass and straightedge.ahk
+155.  Geometry 6.6c, Construct a Kite with a compass and straightedge.ahk
 https://www.youtube.com/watch?v=-IRXWg2oLY4
 
-275821.  Geometry 7.1, Ratios in Similar Polygons.ahk
+156.  Geometry 7.1, Ratios in Similar Polygons.ahk
 https://www.youtube.com/watch?v=0NPBbnef6V4
 
-275978.  Geometry 7.2a, Dilations & Similarity Transformations.ahk
+157.  Geometry 7.2a, Dilations & Similarity Transformations.ahk
 https://www.youtube.com/watch?v=ppdt9z0HxSU
 
-276136.  Geometry 7.2b, Proving Circles Similar.ahk
+158.  Geometry 7.2b, Proving Circles Similar.ahk
 https://www.youtube.com/watch?v=ePmzMe1FTnI
 
-276295.  Geometry 7.3a, AA, SSS, SAS Triangle Similarity.ahk
+159.  Geometry 7.3a, AA, SSS, SAS Triangle Similarity.ahk
 https://www.youtube.com/watch?v=8HX751kZyzo
 
-276455.  Geometry 7.3b, Proofs with Similar Triangles.ahk
+160.  Geometry 7.3b, Proofs with Similar Triangles.ahk
 https://www.youtube.com/watch?v=ZoKmUu-o4Po
 
-276616.  Geometry 7.3c, Proving the Pythagorean Theorem using Similar Triangles.ahk
+161.  Geometry 7.3c, Proving the Pythagorean Theorem using Similar Triangles.ahk
 https://www.youtube.com/watch?v=7E-L8C2zJm4
 
-276778.  Geometry 7.4a, Triangle Proportionality Theorem & its Converse.ahk
+162.  Geometry 7.4a, Triangle Proportionality Theorem & its Converse.ahk
 https://www.youtube.com/watch?v=WASfbl75RxU
 
-276941.  Geometry 7.4b, Two-Transversal Proportionality Corollary.ahk
+163.  Geometry 7.4b, Two-Transversal Proportionality Corollary.ahk
 https://www.youtube.com/watch?v=TySYchu5Nf4
 
-277105.  Geometry 7.4c, Triangle Angle Bisector Theorem.ahk
+164.  Geometry 7.4c, Triangle Angle Bisector Theorem.ahk
 https://www.youtube.com/watch?v=_vEAC5Tp87o
 
-277270.  Geometry 7.5a, Indirect Measurement & Scale Drawing.ahk
+165.  Geometry 7.5a, Indirect Measurement & Scale Drawing.ahk
 https://www.youtube.com/watch?v=b-WbJQRb2pY
 
-277436.  Geometry 7.5b, Proportional Perimeters and Areas Theorem.ahk
+166.  Geometry 7.5b, Proportional Perimeters and Areas Theorem.ahk
 https://www.youtube.com/watch?v=3OxxO2gsBkM
 
-277603.  Geometry 7.6a, Dilations & Similarity in the Coordinate plane.ahk
+167.  Geometry 7.6a, Dilations & Similarity in the Coordinate plane.ahk
 https://www.youtube.com/watch?v=kCUuiyP7Jdc
 
-277771.  Geometry 7.6b, Segment Partition.ahk
+168.  Geometry 7.6b, Segment Partition.ahk
 https://www.youtube.com/watch?v=uejqZuqS4Ec
 
-277940.  Geometry 7.6c, Direct Variation.ahk
+169.  Geometry 7.6c, Direct Variation.ahk
 https://www.youtube.com/watch?v=vR-JxzN2P2k
 
-278110.  Geometry 8.1, Similarity in Right Triangles.ahk
+170.  Geometry 8.1, Similarity in Right Triangles.ahk
 https://www.youtube.com/watch?v=hz1RePt7kGE
 
-278281.  Geometry 8.2a, Trigonometric Ratios, introducing Sine, Cosine, Tangent.ahk
+171.  Geometry 8.2a, Trigonometric Ratios, introducing Sine, Cosine, Tangent.ahk
 https://www.youtube.com/watch?v=z_r8PGb-NqM
 
-278453.  Geometry 8.2b, Finding & Calculating Trig Ratios, Soh-Cah-Toa.ahk
+172.  Geometry 8.2b, Finding & Calculating Trig Ratios, Soh-Cah-Toa.ahk
 https://www.youtube.com/watch?v=R8NshjG6guo
 
-278626.  Geometry 8.2c, Calculating Trig Ratios with a Trig Table.ahk
+173.  Geometry 8.2c, Calculating Trig Ratios with a Trig Table.ahk
 https://www.youtube.com/watch?v=NobppRSsNus
 
-278800.  Geometry 8.2d, Trigonometric Ratios & Complementary Angles.ahk
+174.  Geometry 8.2d, Trigonometric Ratios & Complementary Angles.ahk
 https://www.youtube.com/watch?v=DyWU3yRYfGY
 
-278975.  Geometry 8.2e, Inverse Functions & Trig Ratios.ahk
+175.  Geometry 8.2e, Inverse Functions & Trig Ratios.ahk
 https://www.youtube.com/watch?v=gOU5zMpOV9o
 
-279151.  Geometry 8.3a, Identify & Calculate Angle Measures from Trig Ratios.ahk
+176.  Geometry 8.3a, Identify & Calculate Angle Measures from Trig Ratios.ahk
 https://www.youtube.com/watch?v=rBlW9zZrt-s
 
-279328.  Geometry 8.3b, Solving Right Triangles, find 3 sides & 3 angles.ahk
+177.  Geometry 8.3b, Solving Right Triangles, find 3 sides & 3 angles.ahk
 https://www.youtube.com/watch?v=_81civ0heco
 
-279506.  Geometry 8.4a, Angle of Elevation & Depression.ahk
+178.  Geometry 8.4a, Angle of Elevation & Depression.ahk
 https://www.youtube.com/watch?v=QzNoJnXih9Y
 
-279685.  Geometry 8.4b, Indirect Measurement using a homemade Clinometer & trig ratio.ahk
+179.  Geometry 8.4b, Indirect Measurement using a homemade Clinometer & trig ratio.ahk
 https://www.youtube.com/watch?v=FQVtE9vEWfg
 
-279865.  Geometry 8.5a, Find Trig ratios for obtuse angles with a scientific calculator.ahk
+180.  Geometry 8.5a, Find Trig ratios for obtuse angles with a scientific calculator.ahk
 https://www.youtube.com/watch?v=Bfqh0Brnhz4
 
-280046.  Geometry 8.5b, Law of Sines.ahk
+181.  Geometry 8.5b, Law of Sines.ahk
 https://www.youtube.com/watch?v=xZrn6toZN3E
 
-280228.  Geometry 8.5c, Law of Cosines.ahk
+182.  Geometry 8.5c, Law of Cosines.ahk
 https://www.youtube.com/watch?v=KBh0xBEItHQ
 
-280411.  Geometry 8.6a, Vectors, component form, magnitude, direction.ahk
+183.  Geometry 8.6a, Vectors, component form, magnitude, direction.ahk
 https://www.youtube.com/watch?v=IgE2Xmi_DFk
 
-280595.  Geometry 8.6b, Equal vectors, parallel vectors, Vector addition, and resultant vectors.ahk
+184.  Geometry 8.6b, Equal vectors, parallel vectors, Vector addition, and resultant vectors.ahk
 https://www.youtube.com/watch?v=u4Eab_AWf_o
 
-280780.  Geometry 9.1a, Reflections & isometry.ahk
+185.  Geometry 9.1a, Reflections & isometry.ahk
 https://www.youtube.com/watch?v=VTqV0jYqYH4
 
-280966.  Geometry 9.1b, The rules for reflections in a coordinate plane.ahk
+186.  Geometry 9.1b, The rules for reflections in a coordinate plane.ahk
 https://www.youtube.com/watch?v=efoRUBREO9k
 
-281153.  Geometry 9.2a, Identifying Translations.ahk
+187.  Geometry 9.2a, Identifying Translations.ahk
 https://www.youtube.com/watch?v=BKXF6rtz2_M
 
-281341.  Geometry 9.2b, Drawing Translations in the coordinate plane.ahk
+188.  Geometry 9.2b, Drawing Translations in the coordinate plane.ahk
 https://www.youtube.com/watch?v=qJlNkAOyoWg
 
-281530.  Geometry 9.2c, Transformations of Functions.ahk
+189.  Geometry 9.2c, Transformations of Functions.ahk
 https://www.youtube.com/watch?v=kZ-Foa1YnF0
 
-281720.  Geometry 9.3a, Identifying Rotations.ahk
+190.  Geometry 9.3a, Identifying Rotations.ahk
 https://www.youtube.com/watch?v=3Lso2J66nF0
 
-281911.  Geometry 9.3b, Drawing rotations in the coordinate plane.ahk
+191.  Geometry 9.3b, Drawing rotations in the coordinate plane.ahk
 https://www.youtube.com/watch?v=LfJvHCyhbY8
 
-282103.  Geometry 9.4,  Compositions of Transformations and Glide Reflections & 3 theorems.ahk
+192.  Geometry 9.4,  Compositions of Transformations and Glide Reflections & 3 theorems.ahk
 https://www.youtube.com/watch?v=gu4oKRgE9LE
 
-282296.  Geometry 9.5a, Lines of Symmetry & Rotational Symmetry.ahk
+193.  Geometry 9.5a, Lines of Symmetry & Rotational Symmetry.ahk
 https://www.youtube.com/watch?v=zErXsceWdRs
 
-282490.  Geometry 9.5b, Solids of Revolution, Cylinder, Cone, Sphere, Torus.ahk
+194.  Geometry 9.5b, Solids of Revolution, Cylinder, Cone, Sphere, Torus.ahk
 https://www.youtube.com/watch?v=rCOctXQPZ7c
 
-282685.  Geometry 9.6a, Frieze Patterns and Translation Symmetry.ahk
+195.  Geometry 9.6a, Frieze Patterns and Translation Symmetry.ahk
 https://www.youtube.com/watch?v=td8JVOYpWfE
 
-282881.  Geometry 9.6b, Tessellations, Regular, Semi-regular, or neither.ahk
+196.  Geometry 9.6b, Tessellations, Regular, Semi-regular, or neither.ahk
 https://www.youtube.com/watch?v=uAeKo2FVGqY
 
-283078.  Geometry 9.7a, Dilations Identify, Construct, & draw on a coordinate plane.ahk
+197.  Geometry 9.7a, Dilations Identify, Construct, & draw on a coordinate plane.ahk
 https://www.youtube.com/watch?v=1vhtmUnWlm0
 
-283276.  Geometry 9.7b, Order of Right Triangle Transformations.ahk
+198.  Geometry 9.7b, Order of Right Triangle Transformations.ahk
 https://www.youtube.com/watch?v=7hEPCZJXKQc
 
-283475.  Geometry 9.7c, Translate or Dilate, make solids, 2D pancakes & 3D cakes, Dilate a solid.ahk
+199.  Geometry 9.7c, Translate or Dilate, make solids, 2D pancakes & 3D cakes, Dilate a solid.ahk
 https://www.youtube.com/watch?v=ayzaCAjv2j4
 High School Geometry Course

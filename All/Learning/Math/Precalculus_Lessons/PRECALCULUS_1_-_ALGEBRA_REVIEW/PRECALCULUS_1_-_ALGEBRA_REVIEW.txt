@@ -1,247 +1,247 @@
 
-401618.  Playlist Organizer.ahk
+1.  Playlist Organizer.ahk
 https://www.youtube.com/watch?v=Hs33JPY9ziw
 
-401620.  PreCalculus - Algebra Fundamental Review (1 of 80) The Absolute Value.ahk
+2.  PreCalculus - Algebra Fundamental Review (1 of 80) The Absolute Value.ahk
 https://www.youtube.com/watch?v=QOg7fUuVLbM
 
-401623.  PreCalculus - Algebra Fundamental Review (10 of 80) Solving Linear Equations Theory.ahk
+3.  PreCalculus - Algebra Fundamental Review (10 of 80) Solving Linear Equations Theory.ahk
 https://www.youtube.com/watch?v=YXNzrT2sWOY
 
-401627.  PreCalculus - Algebra Fundamental Review (11 of 80) Solving Linear Equations Examples.ahk
+4.  PreCalculus - Algebra Fundamental Review (11 of 80) Solving Linear Equations Examples.ahk
 https://www.youtube.com/watch?v=S5QggzSfdlc
 
-401632.  PreCalculus - Algebra Fundamental Review (12 of 80) Solving for a Variable in a Formula Examples.ahk
+5.  PreCalculus - Algebra Fundamental Review (12 of 80) Solving for a Variable in a Formula Examples.ahk
 https://www.youtube.com/watch?v=9Ovhxa_KH7g
 
-401638.  PreCalculus - Algebra Fundamental Review (13 of 80) Solving Quadratic Equations Different Types.ahk
+6.  PreCalculus - Algebra Fundamental Review (13 of 80) Solving Quadratic Equations Different Types.ahk
 https://www.youtube.com/watch?v=4lKyJxDKWCs
 
-401645.  PreCalculus - Algebra Fundamental Review (14 of 80) Solving Quadratic Equations Factoring.ahk
+7.  PreCalculus - Algebra Fundamental Review (14 of 80) Solving Quadratic Equations Factoring.ahk
 https://www.youtube.com/watch?v=dLrxj5IttEM
 
-401653.  PreCalculus - Algebra Fundamental Review (15 of 80) Sol Quadratic Equations Factoring (Foil Method).ahk
+8.  PreCalculus - Algebra Fundamental Review (15 of 80) Sol Quadratic Equations Factoring (Foil Method).ahk
 https://www.youtube.com/watch?v=ozw5qjC4Eng
 
-401662.  PreCalculus - Algebra Fundamental Review (16 of 80) Sol Quadratic Eqns Quadratic Formula.ahk
+9.  PreCalculus - Algebra Fundamental Review (16 of 80) Sol Quadratic Eqns Quadratic Formula.ahk
 https://www.youtube.com/watch?v=QO0aPjaiwec
 
-401672.  PreCalculus - Algebra Fundamental Review (17 of 80) Sol Quadratic Eqns Completing the Square.ahk
+10.  PreCalculus - Algebra Fundamental Review (17 of 80) Sol Quadratic Eqns Completing the Square.ahk
 https://www.youtube.com/watch?v=5AYLq5wwgqo
 
-401683.  PreCalculus - Algebra Fundamental Review (18 of 80) Solving Quadratic Eqns Fractions Ex 1.ahk
+11.  PreCalculus - Algebra Fundamental Review (18 of 80) Solving Quadratic Eqns Fractions Ex 1.ahk
 https://www.youtube.com/watch?v=yd9D66yTcuw
 
-401695.  PreCalculus - Algebra Fundamental Review (19 of 80) Solving Quadratic Eqns Fractions Ex. 2.ahk
+12.  PreCalculus - Algebra Fundamental Review (19 of 80) Solving Quadratic Eqns Fractions Ex. 2.ahk
 https://www.youtube.com/watch?v=FUhzH57_SkA
 
-401708.  PreCalculus - Algebra Fundamental Review (2 of 80) The Absolute Value Examples.ahk
+13.  PreCalculus - Algebra Fundamental Review (2 of 80) The Absolute Value Examples.ahk
 https://www.youtube.com/watch?v=Ieei5GT1vXk
 
-401722.  PreCalculus - Algebra Fundamental Review (20 of 80) Solving Quadratic Eqns With Square Roots.ahk
+14.  PreCalculus - Algebra Fundamental Review (20 of 80) Solving Quadratic Eqns With Square Roots.ahk
 https://www.youtube.com/watch?v=iep0zKT580g
 
-401737.  PreCalculus - Algebra Fundamental Review (21 of 80) Review of Word Problems Cost.ahk
+15.  PreCalculus - Algebra Fundamental Review (21 of 80) Review of Word Problems Cost.ahk
 https://www.youtube.com/watch?v=1ktR0IZmXvI
 
-401753.  PreCalculus - Algebra Fundamental Review (22 of 80) Review of Word Problems Investments.ahk
+16.  PreCalculus - Algebra Fundamental Review (22 of 80) Review of Word Problems Investments.ahk
 https://www.youtube.com/watch?v=0qpRFru9p_0
 
-401770.  PreCalculus - Algebra Fundamental Review (23 of 80) Review of Word Problems Salaries.ahk
+17.  PreCalculus - Algebra Fundamental Review (23 of 80) Review of Word Problems Salaries.ahk
 https://www.youtube.com/watch?v=n1yUglA6ZFQ
 
-401788.  PreCalculus - Algebra Fundamental Review (24 of 80) Review of Word Problems Ages.ahk
+18.  PreCalculus - Algebra Fundamental Review (24 of 80) Review of Word Problems Ages.ahk
 https://www.youtube.com/watch?v=48MGDugIgEE
 
-401807.  PreCalculus - Algebra Fundamental Review (25 of 80) Review of Word Problems Coins.ahk
+19.  PreCalculus - Algebra Fundamental Review (25 of 80) Review of Word Problems Coins.ahk
 https://www.youtube.com/watch?v=rWWU1Fz_Zp4
 
-401827.  PreCalculus - Algebra Fundamental Review (26 of 80) Review of Word Problems Dimensions Ex. 2.ahk
+20.  PreCalculus - Algebra Fundamental Review (26 of 80) Review of Word Problems Dimensions Ex. 2.ahk
 https://www.youtube.com/watch?v=2W8OMrTnZBo
 
-401848.  PreCalculus - Algebra Fundamental Review (27 of 80) Review of Word Problems Dimensions Ex. 2.ahk
+21.  PreCalculus - Algebra Fundamental Review (27 of 80) Review of Word Problems Dimensions Ex. 2.ahk
 https://www.youtube.com/watch?v=9Jjnj4nD1Xc
 
-401870.  PreCalculus - Algebra Fundamental Review (28 of 80) Review of Word Problems How Tall Is The Tree.ahk
+22.  PreCalculus - Algebra Fundamental Review (28 of 80) Review of Word Problems How Tall Is The Tree.ahk
 https://www.youtube.com/watch?v=YTRpfZEqBL4
 
-401893.  PreCalculus - Algebra Fundamental Review (29 of 80) Review of Word ProblemsMixtures.ahk
+23.  PreCalculus - Algebra Fundamental Review (29 of 80) Review of Word ProblemsMixtures.ahk
 https://www.youtube.com/watch?v=VoSZSq4RPZ0
 
-401917.  PreCalculus - Algebra Fundamental Review (3 of 80) Simplifying Square Roots & Exponents.ahk
+24.  PreCalculus - Algebra Fundamental Review (3 of 80) Simplifying Square Roots & Exponents.ahk
 https://www.youtube.com/watch?v=t9Os6gVoxVE
 
-401942.  PreCalculus - Algebra Fundamental Review (30 of 80) Review of Word Problems Rate of Doing Work.ahk
+25.  PreCalculus - Algebra Fundamental Review (30 of 80) Review of Word Problems Rate of Doing Work.ahk
 https://www.youtube.com/watch?v=3Hk9SedVEa0
 
-401968.  PreCalculus - Algebra Fundamental Review (31 of 80) Review of Word Problems Distance, Speed, Time.ahk
+26.  PreCalculus - Algebra Fundamental Review (31 of 80) Review of Word Problems Distance, Speed, Time.ahk
 https://www.youtube.com/watch?v=rMzH2lE8yWE
 
-401995.  PreCalculus - Algebra Fundamental Review (32 of 80) Review of Word Problems Distance, Speed, Time.ahk
+27.  PreCalculus - Algebra Fundamental Review (32 of 80) Review of Word Problems Distance, Speed, Time.ahk
 https://www.youtube.com/watch?v=IbUw7djJtNI
 
-402023.  PreCalculus - Algebra Fundamental Review (33 of 80) Review of Word Problems Volume of a Box.ahk
+28.  PreCalculus - Algebra Fundamental Review (33 of 80) Review of Word Problems Volume of a Box.ahk
 https://www.youtube.com/watch?v=9Ycz_l9bGtQ
 
-402052.  PreCalculus - Algebra Fundamental Review (34 of 80) Review of Word Problems Volume of a Cylinder.ahk
+29.  PreCalculus - Algebra Fundamental Review (34 of 80) Review of Word Problems Volume of a Cylinder.ahk
 https://www.youtube.com/watch?v=PY-mLyRQH9M
 
-402082.  PreCalculus - Algebra Fundamental Review (35 of 80) Review of Word Problems Volume of a Cone.ahk
+30.  PreCalculus - Algebra Fundamental Review (35 of 80) Review of Word Problems Volume of a Cone.ahk
 https://www.youtube.com/watch?v=Pp8UVLu6FDA
 
-402113.  PreCalculus - Algebra Fundamental Review (36 of 80) Review of Word Problems Distance, Speed, Time.ahk
+31.  PreCalculus - Algebra Fundamental Review (36 of 80) Review of Word Problems Distance, Speed, Time.ahk
 https://www.youtube.com/watch?v=U5zLWSOHgvU
 
-402145.  PreCalculus - Algebra Fundamental Review (37 of 80) Review of Word Problems Distance, Speed, Time.ahk
+32.  PreCalculus - Algebra Fundamental Review (37 of 80) Review of Word Problems Distance, Speed, Time.ahk
 https://www.youtube.com/watch?v=vB8VnPiuRLo
 
-402178.  PreCalculus - Algebra Fundamental Review (38 of 80) Solve Inequalities (Linear1-Variable).ahk
+33.  PreCalculus - Algebra Fundamental Review (38 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=CSaSd_n0ndI
 
-402212.  PreCalculus - Algebra Fundamental Review (39 of 80) Solve Inequalities (Linear1-Variable).ahk
+34.  PreCalculus - Algebra Fundamental Review (39 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=uFvFcv2vSho
 
-402247.  PreCalculus - Algebra Fundamental Review (4 of 80) Simplifying Square Roots & Exponents Ex. 1.ahk
+35.  PreCalculus - Algebra Fundamental Review (4 of 80) Simplifying Square Roots & Exponents Ex. 1.ahk
 https://www.youtube.com/watch?v=zml1Cxhl3f0
 
-402283.  PreCalculus - Algebra Fundamental Review (40 of 80) Solve Inequalities (Linear1-Variable).ahk
+36.  PreCalculus - Algebra Fundamental Review (40 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=yhRYa4LOviQ
 
-402320.  PreCalculus - Algebra Fundamental Review (41 of 80) Solve Inequalities (Linear1-Variable).ahk
+37.  PreCalculus - Algebra Fundamental Review (41 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=Cb4Fk6CCmA8
 
-402358.  PreCalculus - Algebra Fundamental Review (42 of 80) Solve Inequalities (Linear1-Variable).ahk
+38.  PreCalculus - Algebra Fundamental Review (42 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=O2AmuxJ1xeg
 
-402397.  PreCalculus - Algebra Fundamental Review (43 of 80) Solve Inequalities (Linear1-Variable).ahk
+39.  PreCalculus - Algebra Fundamental Review (43 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=Xj0Yox-eYhs
 
-402437.  PreCalculus - Algebra Fundamental Review (44 of 80) Solve Inequalities (Linear1-Variable).ahk
+40.  PreCalculus - Algebra Fundamental Review (44 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=_VtgRw_RQ3I
 
-402478.  PreCalculus - Algebra Fundamental Review (45 of 80) Solve Inequalities (Linear1-Variable).ahk
+41.  PreCalculus - Algebra Fundamental Review (45 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=mGJ3SEua3Sc
 
-402520.  PreCalculus - Algebra Fundamental Review (46 of 80) Solve Inequalities (Linear1-Variable).ahk
+42.  PreCalculus - Algebra Fundamental Review (46 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=e37iKlJ2FyA
 
-402563.  PreCalculus - Algebra Fundamental Review (47 of 80) Solve Inequalities (Linear1-Variable).ahk
+43.  PreCalculus - Algebra Fundamental Review (47 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=pDVX1MGv1RA
 
-402607.  PreCalculus - Algebra Fundamental Review (48 of 80) Solve Inequalities (Linear1-Variable).ahk
+44.  PreCalculus - Algebra Fundamental Review (48 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=2ISsLxF-QB8
 
-402652.  PreCalculus - Algebra Fundamental Review (49 of 80) Solve Inequalities (Linear1-Variable).ahk
+45.  PreCalculus - Algebra Fundamental Review (49 of 80) Solve Inequalities (Linear1-Variable).ahk
 https://www.youtube.com/watch?v=0yooQ6zCQgg
 
-402698.  PreCalculus - Algebra Fundamental Review (5 of 80) Simplifying Square Roots & Exponents Ex. 2.ahk
+46.  PreCalculus - Algebra Fundamental Review (5 of 80) Simplifying Square Roots & Exponents Ex. 2.ahk
 https://www.youtube.com/watch?v=MtcHtAjzAeQ
 
-402745.  PreCalculus - Algebra Fundamental Review (50 of 80) Absolute Values.ahk
+47.  PreCalculus - Algebra Fundamental Review (50 of 80) Absolute Values.ahk
 https://www.youtube.com/watch?v=D8SgAWegwG8
 
-402793.  PreCalculus - Algebra Fundamental Review (51 of 80) Absolute Values.ahk
+48.  PreCalculus - Algebra Fundamental Review (51 of 80) Absolute Values.ahk
 https://www.youtube.com/watch?v=VzvYGqKnelA
 
-402842.  PreCalculus - Algebra Fundamental Review (52 of 80) Absolute Values.ahk
+49.  PreCalculus - Algebra Fundamental Review (52 of 80) Absolute Values.ahk
 https://www.youtube.com/watch?v=MFwLDKXV1zo
 
-402892.  PreCalculus - Algebra Fundamental Review (53 of 80) Distance Formula Explained.ahk
+50.  PreCalculus - Algebra Fundamental Review (53 of 80) Distance Formula Explained.ahk
 https://www.youtube.com/watch?v=sZMRfUAc3RY
 
-402943.  PreCalculus - Algebra Fundamental Review (54 of 80) Distance Formula Example.ahk
+51.  PreCalculus - Algebra Fundamental Review (54 of 80) Distance Formula Example.ahk
 https://www.youtube.com/watch?v=GMlHDEM3QJI
 
-402995.  PreCalculus - Algebra Fundamental Review (55 of 80) Mid-Point Formula (1-Dimensional).ahk
+52.  PreCalculus - Algebra Fundamental Review (55 of 80) Mid-Point Formula (1-Dimensional).ahk
 https://www.youtube.com/watch?v=GbgeySNGMyM
 
-403048.  PreCalculus - Algebra Fundamental Review (56 of 80) General Mid-Point Formula Example.ahk
+53.  PreCalculus - Algebra Fundamental Review (56 of 80) General Mid-Point Formula Example.ahk
 https://www.youtube.com/watch?v=KxkdUO5alyk
 
-403102.  PreCalculus - Algebra Fundamental Review (57 of 80) General Mid-Point Formula Example.ahk
+54.  PreCalculus - Algebra Fundamental Review (57 of 80) General Mid-Point Formula Example.ahk
 https://www.youtube.com/watch?v=FdmH59PTISE
 
-403157.  PreCalculus - Algebra Fundamental Review (58 of 80) Graphing a Straight Line.ahk
+55.  PreCalculus - Algebra Fundamental Review (58 of 80) Graphing a Straight Line.ahk
 https://www.youtube.com/watch?v=fuT5QAVX6fQ
 
-403213.  PreCalculus - Algebra Fundamental Review (59 of 80) Graphing a Straight Line.ahk
+56.  PreCalculus - Algebra Fundamental Review (59 of 80) Graphing a Straight Line.ahk
 https://www.youtube.com/watch?v=rl2L_gJaN3I
 
-403270.  PreCalculus - Algebra Fundamental Review (6 of 80) Factoring and Its Theory.ahk
+57.  PreCalculus - Algebra Fundamental Review (6 of 80) Factoring and Its Theory.ahk
 https://www.youtube.com/watch?v=byiJ4sW2ZPY
 
-403328.  PreCalculus - Algebra Fundamental Review (60 of 80) Graphing a Circle.ahk
+58.  PreCalculus - Algebra Fundamental Review (60 of 80) Graphing a Circle.ahk
 https://www.youtube.com/watch?v=3702GYsasWc
 
-403387.  PreCalculus - Algebra Fundamental Review (61 of 80) Graphing a Circle (General Formula).ahk
+59.  PreCalculus - Algebra Fundamental Review (61 of 80) Graphing a Circle (General Formula).ahk
 https://www.youtube.com/watch?v=gFfKl2zERMw
 
-403447.  PreCalculus - Algebra Fundamental Review (62 of 80) Graphing a Circle (General Formula) Example.ahk
+60.  PreCalculus - Algebra Fundamental Review (62 of 80) Graphing a Circle (General Formula) Example.ahk
 https://www.youtube.com/watch?v=0Mj7XfhR5qE
 
-403508.  PreCalculus - Algebra Fundamental Review (63 of 80) Graphing Shifting Up and Down.ahk
+61.  PreCalculus - Algebra Fundamental Review (63 of 80) Graphing Shifting Up and Down.ahk
 https://www.youtube.com/watch?v=l_lUt0Xdf8I
 
-403570.  PreCalculus - Algebra Fundamental Review (64 of 80) Graphing Shifting Left and Right.ahk
+62.  PreCalculus - Algebra Fundamental Review (64 of 80) Graphing Shifting Left and Right.ahk
 https://www.youtube.com/watch?v=JaVm5EcRfts
 
-403633.  PreCalculus - Algebra Fundamental Review (65 of 80) Graphing General Form y=a(x-h)^2+c.ahk
+63.  PreCalculus - Algebra Fundamental Review (65 of 80) Graphing General Form y=a(x-h)^2+c.ahk
 https://www.youtube.com/watch?v=aVVcp4W_fm4
 
-403697.  PreCalculus - Algebra Fundamental Review (66 of 80) 6 Ways to Graph a Parabola Introducton.ahk
+64.  PreCalculus - Algebra Fundamental Review (66 of 80) 6 Ways to Graph a Parabola Introducton.ahk
 https://www.youtube.com/watch?v=9KhDzOm6P84
 
-403762.  PreCalculus - Algebra Fundamental Review (67 of 80) 6 Ways to Graph a Parabola 1) Table of Values.ahk
+65.  PreCalculus - Algebra Fundamental Review (67 of 80) 6 Ways to Graph a Parabola 1) Table of Values.ahk
 https://www.youtube.com/watch?v=3EYyp2S-Few
 
-403828.  PreCalculus - Algebra Fundamental Review (68 of 80) 6 Ways to Graph a Parabola 2) y=a(x-h)^2+c.ahk
+66.  PreCalculus - Algebra Fundamental Review (68 of 80) 6 Ways to Graph a Parabola 2) y=a(x-h)^2+c.ahk
 https://www.youtube.com/watch?v=SABn7k-bRS8
 
-403895.  PreCalculus - Algebra Fundamental Review (69 of 80) 6 Ways to Graph a Parabola 3) Factor.ahk
+67.  PreCalculus - Algebra Fundamental Review (69 of 80) 6 Ways to Graph a Parabola 3) Factor.ahk
 https://www.youtube.com/watch?v=D2CPsrvmlEs
 
-403963.  PreCalculus - Algebra Fundamental Review (7 of 80) Factoring Examples.ahk
+68.  PreCalculus - Algebra Fundamental Review (7 of 80) Factoring Examples.ahk
 https://www.youtube.com/watch?v=WMgVRahiebs
 
-404032.  PreCalculus - Algebra Fundamental Review (70 of 80) 6 Ways to Graph a Parabola 4) Quadratic Formula.ahk
+69.  PreCalculus - Algebra Fundamental Review (70 of 80) 6 Ways to Graph a Parabola 4) Quadratic Formula.ahk
 https://www.youtube.com/watch?v=48ZdJqGAeUg
 
-404102.  PreCalculus - Algebra Fundamental Review (71 of 80) 6 Ways to Graph a Parabola 5) Finding the Vertex.ahk
+70.  PreCalculus - Algebra Fundamental Review (71 of 80) 6 Ways to Graph a Parabola 5) Finding the Vertex.ahk
 https://www.youtube.com/watch?v=wmy0_Ur0LYU
 
-404173.  PreCalculus - Algebra Fundamental Review (72 of 80) 6 Ways to Graph a Parabola 4) Using the Slope.ahk
+71.  PreCalculus - Algebra Fundamental Review (72 of 80) 6 Ways to Graph a Parabola 4) Using the Slope.ahk
 https://www.youtube.com/watch?v=w_-PkWYtHdc
 
-404245.  PreCalculus - Algebra Fundamental Review (73 of 80) 7 Ways to Solve 2 Linear Eq 1) Table of Values.ahk
+72.  PreCalculus - Algebra Fundamental Review (73 of 80) 7 Ways to Solve 2 Linear Eq 1) Table of Values.ahk
 https://www.youtube.com/watch?v=AOa9XjVRDp8
 
-404318.  PreCalculus - Algebra Fundamental Review (74 of 80) 7 Ways to Solve 2 Linear Eq 2) Graphing.ahk
+73.  PreCalculus - Algebra Fundamental Review (74 of 80) 7 Ways to Solve 2 Linear Eq 2) Graphing.ahk
 https://www.youtube.com/watch?v=Hhi9_7Ricg0
 
-404392.  PreCalculus - Algebra Fundamental Review (75 of 80) 7 Ways to Solve 2 Linear Eq 3) Set Eqs Equal.ahk
+74.  PreCalculus - Algebra Fundamental Review (75 of 80) 7 Ways to Solve 2 Linear Eq 3) Set Eqs Equal.ahk
 https://www.youtube.com/watch?v=peNNC1OSNhE
 
-404467.  PreCalculus - Algebra Fundamental Review (76 of 80) 7 Ways to Solve 2 Linear Eq 4) Substitution.ahk
+75.  PreCalculus - Algebra Fundamental Review (76 of 80) 7 Ways to Solve 2 Linear Eq 4) Substitution.ahk
 https://www.youtube.com/watch?v=rLii3asl6KM
 
-404543.  PreCalculus - Algebra Fundamental Review (77 of 80) 7 Ways to Solve 2 Linear Eq 5) Elimination.ahk
+76.  PreCalculus - Algebra Fundamental Review (77 of 80) 7 Ways to Solve 2 Linear Eq 5) Elimination.ahk
 https://www.youtube.com/watch?v=k2M4c2MghzM
 
-404620.  PreCalculus - Algebra Fundamental Review (78 of 80) 7 Ways to Solve 2 Linear Eq 6) Matrices.ahk
+77.  PreCalculus - Algebra Fundamental Review (78 of 80) 7 Ways to Solve 2 Linear Eq 6) Matrices.ahk
 https://www.youtube.com/watch?v=p2RFJb5WVyw
 
-404698.  PreCalculus - Algebra Fundamental Review (79 of 80) 7 Ways to Solve 2 Linear Eq 7) Determinants.ahk
+78.  PreCalculus - Algebra Fundamental Review (79 of 80) 7 Ways to Solve 2 Linear Eq 7) Determinants.ahk
 https://www.youtube.com/watch?v=wJN73uUfjLM
 
-404777.  PreCalculus - Algebra Fundamental Review (8 of 80) Simplify Fractions Theory.ahk
+79.  PreCalculus - Algebra Fundamental Review (8 of 80) Simplify Fractions Theory.ahk
 https://www.youtube.com/watch?v=z3lPw_359T0
 
-404857.  PreCalculus - Algebra Fundamental Review (80 of 80) 7 Ways to Solve 2 Linear Equations Review.ahk
+80.  PreCalculus - Algebra Fundamental Review (80 of 80) 7 Ways to Solve 2 Linear Equations Review.ahk
 https://www.youtube.com/watch?v=AJJeqBevkh0
 
-404938.  PreCalculus - Algebra Fundamental Review (9 of 80) Simplify Fractions Examples.ahk
+81.  PreCalculus - Algebra Fundamental Review (9 of 80) Simplify Fractions Examples.ahk
 https://www.youtube.com/watch?v=5NuYbYzLGZg
 
-405020.  PreCalculus - IntroductionPreview of What is in this PreCalculus Series.ahk
+82.  PreCalculus - IntroductionPreview of What is in this PreCalculus Series.ahk
 https://www.youtube.com/watch?v=W-Zxdsbr0Gw
 PRECALCULUS 1 - ALGEBRA REVIEW

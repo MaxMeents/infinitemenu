@@ -1,22 +1,22 @@
 
-107514.  G2000 Contents.ahk
+1.  G2000 Contents.ahk
 https://www.youtube.com/watch?v=ViaMOxu0rUo
 
-107516.  G2000 Installation.ahk
+2.  G2000 Installation.ahk
 https://www.youtube.com/watch?v=oESd-2gpC6k
 
-107519.  G2000 Intro.ahk
+3.  G2000 Intro.ahk
 https://www.youtube.com/watch?v=-2YcuT6jons
 
-107523.  G2000 Linking.ahk
+4.  G2000 Linking.ahk
 https://www.youtube.com/watch?v=vmzoUpp3-wo
 
-107528.  G2000 Location.ahk
+5.  G2000 Location.ahk
 https://www.youtube.com/watch?v=LTclNieNE10
 
-107534.  G2000 Testing.ahk
+6.  G2000 Testing.ahk
 https://www.youtube.com/watch?v=-NShAZnHZlI
 
-107541.  G2000 Troubleshooting.ahk
+7.  G2000 Troubleshooting.ahk
 https://www.youtube.com/watch?v=VtHtbzh65yg
 G2000 Medical Alarm

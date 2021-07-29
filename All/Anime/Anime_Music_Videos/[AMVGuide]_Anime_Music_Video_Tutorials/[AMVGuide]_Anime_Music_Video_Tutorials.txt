@@ -1,31 +1,31 @@
 
-335639799.  [AMVGuide] Speed Tutorial (All Steps Condensed).ahk
+1.  [AMVGuide] Speed Tutorial (All Steps Condensed).ahk
 https://www.youtube.com/watch?v=GljyaApznIA
 
-335639801.  [AMVGuide] Tutorial 1010 - Converting to Editing-Friendly Footage using VirtualDub.ahk
+2.  [AMVGuide] Tutorial 1010 - Converting to Editing-Friendly Footage using VirtualDub.ahk
 https://www.youtube.com/watch?v=wJoZu00G7TQ
 
-335639804.  [AMVGuide] Tutorial 210 - File Extensions.ahk
+3.  [AMVGuide] Tutorial 210 - File Extensions.ahk
 https://www.youtube.com/watch?v=IxKK_sUa7Lo
 
-335639808.  [AMVGuide] Tutorial 310 - Programs & Tools.ahk
+4.  [AMVGuide] Tutorial 310 - Programs & Tools.ahk
 https://www.youtube.com/watch?v=i-NI9_kQwMY
 
-335639813.  [AMVGuide] Tutorial 410 - Getting .wav Audio using Audacity.ahk
+5.  [AMVGuide] Tutorial 410 - Getting .wav Audio using Audacity.ahk
 https://www.youtube.com/watch?v=NLzLrQnHFSg
 
-335639819.  [AMVGuide] Tutorial 510 - Audio Editing.ahk
+6.  [AMVGuide] Tutorial 510 - Audio Editing.ahk
 https://www.youtube.com/watch?v=_2YOJnKGTqo
 
-335639826.  [AMVGuide] Tutorial 610 - Installing AviSynth, AVSPluginPack, & AvsPmod.ahk
+7.  [AMVGuide] Tutorial 610 - Installing AviSynth, AVSPluginPack, & AvsPmod.ahk
 https://www.youtube.com/watch?v=AaWTFn5artQ
 
-335639834.  [AMVGuide] Tutorial 710 - Making Scripts with AvsPmod.ahk
+8.  [AMVGuide] Tutorial 710 - Making Scripts with AvsPmod.ahk
 https://www.youtube.com/watch?v=xWGdJDYz1R0
 
-335639843.  [AMVGuide] Tutorial 810 - Preparing Your Footage with AviSynth (Overview).ahk
+9.  [AMVGuide] Tutorial 810 - Preparing Your Footage with AviSynth (Overview).ahk
 https://www.youtube.com/watch?v=NAYGEI60imc
 
-335639853.  [AMVGuide] Tutorial 910 - Installing VirtualDub & UTvideo.ahk
+10.  [AMVGuide] Tutorial 910 - Installing VirtualDub & UTvideo.ahk
 https://www.youtube.com/watch?v=cBmot20YY-g
 [AMVGuide] Anime Music Video Tutorials

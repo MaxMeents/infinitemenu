@@ -1,19 +1,19 @@
 
-829.  .ahk
+1.  .ahk
 
 
-831.  Climate Skeptic.ahk
+2.  Climate Skeptic.ahk
 https://bababrinkman.bandcamp.com/track/climate-skeptic
 
-834.  Get It From Reading.ahk
+3.  Get It From Reading.ahk
 https://bababrinkman.bandcamp.com/track/get-it-from-reading-2
 
-838.  Mad Scientist (Talkin' Nerdy).ahk
+4.  Mad Scientist (Talkin' Nerdy).ahk
 https://bababrinkman.bandcamp.com/track/mad-scientist-talkin-nerdy
 
-843.  Mr. Infomatic.ahk
+5.  Mr. Infomatic.ahk
 https://bababrinkman.bandcamp.com/track/mr-infomatic
 
-849.  Naturalizm (Featuring Syqnys).ahk
+6.  Naturalizm (Featuring Syqnys).ahk
 https://bababrinkman.bandcamp.com/track/naturalizm-featuring-syqnys
 The Infomatic EP

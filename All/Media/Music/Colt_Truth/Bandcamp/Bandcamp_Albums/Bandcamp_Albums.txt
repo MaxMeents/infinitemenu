@@ -8,33 +8,33 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Co
 3.  Omega Sequence
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Colt_Truth/Bandcamp/Bandcamp_Albums/Omega_Sequence/Omega_Sequence.txt
 
-4.  .ahk
+1.  .ahk
 
 
-6.  DEAFCON ft Spirit Of Truth.ahk
+2.  DEAFCON ft Spirit Of Truth.ahk
 https://colttruth.bandcamp.com/track/deafcon-ft-spirit-of-truth
 
-9.  Freedom Of Speech.ahk
+3.  Freedom Of Speech.ahk
 https://colttruth.bandcamp.com/album/freedom-of-speech
 
-13.  Kill The Game ft. Julius Sleazer, hystEric.ahk
+4.  Kill The Game ft. Julius Sleazer, hystEric.ahk
 https://colttruth.bandcamp.com/track/kill-the-game-ft-julius-sleazer-hysteric
 
-18.  Magick In The Mist.ahk
+5.  Magick In The Mist.ahk
 https://colttruth.bandcamp.com/track/magick-in-the-mist
 
-24.  Messengers.ahk
+6.  Messengers.ahk
 https://colttruth.bandcamp.com/album/mysterium
 
-31.  Mind War.ahk
+7.  Mind War.ahk
 https://colttruth.bandcamp.com/track/mind-war
 
-39.  Mysteri.ahk
+8.  Mysteri.ahk
 Mysterium
 
-48.  Omega Sequence.ahk
+9.  Omega Sequence.ahk
 https://colttruth.bandcamp.com/album/omega-sequence
 
-58.  Pawns ft I.N.F.ahk
+10.  Pawns ft I.N.F.ahk
 https://colttruth.bandcamp.com/track/pawns-ft-i-n-f
 Bandcamp Albums

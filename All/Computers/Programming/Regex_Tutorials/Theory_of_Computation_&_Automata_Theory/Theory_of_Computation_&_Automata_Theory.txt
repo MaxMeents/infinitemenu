@@ -1,343 +1,343 @@
 
-126266.  Ambiguous Grammar.ahk
+1.  Ambiguous Grammar.ahk
 https://www.youtube.com/watch?v=wQjppolFdas
 
-126268.  An Example Proof using Identities of Regular Expressions.ahk
+2.  An Example Proof using Identities of Regular Expressions.ahk
 https://www.youtube.com/watch?v=TkqcPh0BFUw
 
-126271.  Arden’s Theorem.ahk
+3.  Arden’s Theorem.ahk
 https://www.youtube.com/watch?v=Idl_0mPzZjE
 
-126275.  CFG to GNF Conversion (Removal of Left Recursion).ahk
+4.  CFG to GNF Conversion (Removal of Left Recursion).ahk
 https://www.youtube.com/watch?v=rauqqM0nfuI
 
-126280.  Chomsky Normal Form & CFG to CNF Conversion.ahk
+5.  Chomsky Normal Form & CFG to CNF Conversion.ahk
 https://www.youtube.com/watch?v=Mh-UQVmAxnw
 
-126286.  Construction of Mealy Machine (Example 1).ahk
+6.  Construction of Mealy Machine (Example 1).ahk
 https://www.youtube.com/watch?v=s-Ul9dIS9AE
 
-126293.  Construction of Mealy Machine (Example 2).ahk
+7.  Construction of Mealy Machine (Example 2).ahk
 https://www.youtube.com/watch?v=fkdufhcBraw
 
-126301.  Construction of Mealy Machine.ahk
+8.  Construction of Mealy Machine.ahk
 https://www.youtube.com/watch?v=LioitkXDfmA
 
-126310.  Construction of Moore Machine (Example 1).ahk
+9.  Construction of Moore Machine (Example 1).ahk
 https://www.youtube.com/watch?v=BQPSt8dRX1Q
 
-126320.  Construction of Moore Machine (Example 2).ahk
+10.  Construction of Moore Machine (Example 2).ahk
 https://www.youtube.com/watch?v=UKTzwXSJiIk
 
-126331.  Construction of Moore Machine.ahk
+11.  Construction of Moore Machine.ahk
 https://www.youtube.com/watch?v=MFnRF07SoFo
 
-126343.  Context Free Grammar & Context Free Language.ahk
+12.  Context Free Grammar & Context Free Language.ahk
 https://www.youtube.com/watch?v=5_tfVe7ED3g
 
-126356.  Conversion of CFG to Chomsky Normal Form.ahk
+13.  Conversion of CFG to Chomsky Normal Form.ahk
 https://www.youtube.com/watch?v=FNPSlnj3Vt0
 
-126370.  Conversion of Epsilon NFA to NFA - Examples (Part 1).ahk
+14.  Conversion of Epsilon NFA to NFA - Examples (Part 1).ahk
 https://www.youtube.com/watch?v=I6GFKekMr7s
 
-126385.  Conversion of Epsilon NFA to NFA - Examples (Part 2).ahk
+15.  Conversion of Epsilon NFA to NFA - Examples (Part 2).ahk
 https://www.youtube.com/watch?v=Jz4YQ09nOxA
 
-126401.  Conversion of Epsilon NFA to NFA.ahk
+16.  Conversion of Epsilon NFA to NFA.ahk
 https://www.youtube.com/watch?v=WSGcmaHNBFM
 
-126418.  Conversion of Mealy Machine to Moore Machine (Example 1).ahk
+17.  Conversion of Mealy Machine to Moore Machine (Example 1).ahk
 https://www.youtube.com/watch?v=rkgbhngdJ5Y
 
-126436.  Conversion of Mealy Machine to Moore Machine (Example 2).ahk
+18.  Conversion of Mealy Machine to Moore Machine (Example 2).ahk
 https://www.youtube.com/watch?v=t48LqMDqNrA
 
-126455.  Conversion of Mealy Machine to Moore Machine (Using Transition Table).ahk
+19.  Conversion of Mealy Machine to Moore Machine (Using Transition Table).ahk
 https://www.youtube.com/watch?v=j8IkqBJNMwA
 
-126475.  Conversion of Mealy Machine to Moore Machine.ahk
+20.  Conversion of Mealy Machine to Moore Machine.ahk
 https://www.youtube.com/watch?v=-etILQcfgTg
 
-126496.  Conversion of Moore Machine to Mealy Machine (Example 1).ahk
+21.  Conversion of Moore Machine to Mealy Machine (Example 1).ahk
 https://www.youtube.com/watch?v=lqvVtBdazvg
 
-126518.  Conversion of Moore Machine to Mealy Machine (Example 2).ahk
+22.  Conversion of Moore Machine to Mealy Machine (Example 2).ahk
 https://www.youtube.com/watch?v=GHStZkC080k
 
-126541.  Conversion of Moore Machine to Mealy Machine.ahk
+23.  Conversion of Moore Machine to Mealy Machine.ahk
 https://www.youtube.com/watch?v=HEVWx4irOx4
 
-126565.  Conversion of NFA to DFA (Example 1).ahk
+24.  Conversion of NFA to DFA (Example 1).ahk
 https://www.youtube.com/watch?v=pnyXgIXpKnc
 
-126590.  Conversion of NFA to DFA (Example 2).ahk
+25.  Conversion of NFA to DFA (Example 2).ahk
 https://www.youtube.com/watch?v=i-fk9o46oVY
 
-126616.  Conversion of NFA to DFA (Example 3).ahk
+26.  Conversion of NFA to DFA (Example 3).ahk
 https://www.youtube.com/watch?v=dY1bCC6syLI
 
-126643.  Conversion of NFA to DFA (Example 4).ahk
+27.  Conversion of NFA to DFA (Example 4).ahk
 https://www.youtube.com/watch?v=Y92dtMnarAU
 
-126671.  Conversion of NFA to DFA.ahk
+28.  Conversion of NFA to DFA.ahk
 https://www.youtube.com/watch?v=--CSVsFIDng
 
-126700.  Conversion of Regular Expression to Finite Automata - Examples (Part 1).ahk
+29.  Conversion of Regular Expression to Finite Automata - Examples (Part 1).ahk
 https://www.youtube.com/watch?v=62JAy4oH6lU
 
-126730.  Conversion of Regular Expression to Finite Automata - Examples (Part 2).ahk
+30.  Conversion of Regular Expression to Finite Automata - Examples (Part 2).ahk
 https://www.youtube.com/watch?v=RsSQPwUIR8U
 
-126761.  Conversion of Regular Expression to Finite Automata - Examples (Part 3).ahk
+31.  Conversion of Regular Expression to Finite Automata - Examples (Part 3).ahk
 https://www.youtube.com/watch?v=zSHS_7omxRY
 
-126793.  Conversion of Regular Expression to Finite Automata.ahk
+32.  Conversion of Regular Expression to Finite Automata.ahk
 https://www.youtube.com/watch?v=RxfXyvfTsgQ
 
-126826.  Decidability and Undecidability.ahk
+33.  Decidability and Undecidability.ahk
 https://www.youtube.com/watch?v=JfX7VK7ocRU
 
-126860.  Derivation Tree (Left & Right Derivation Trees).ahk
+34.  Derivation Tree (Left & Right Derivation Trees).ahk
 https://www.youtube.com/watch?v=u4-rpIlV9NI
 
-126895.  Derivations from a Grammar.ahk
+35.  Derivations from a Grammar.ahk
 https://www.youtube.com/watch?v=ejXgLRSIxsA
 
-126931.  Designing Regular Expressions.ahk
+36.  Designing Regular Expressions.ahk
 https://www.youtube.com/watch?v=FOhEmW_nMRs
 
-126968.  Deterministic Finite Automata (Example 1).ahk
+37.  Deterministic Finite Automata (Example 1).ahk
 https://www.youtube.com/watch?v=40i4PKpM0cI
 
-127006.  Deterministic Finite Automata (Example 2).ahk
+38.  Deterministic Finite Automata (Example 2).ahk
 https://www.youtube.com/watch?v=2KindKcLjos
 
-127045.  Deterministic Finite Automata (Example 3).ahk
+39.  Deterministic Finite Automata (Example 3).ahk
 https://www.youtube.com/watch?v=_2cKtLkdwnc
 
-127085.  Deterministic Finite Automata (Example 4).ahk
+40.  Deterministic Finite Automata (Example 4).ahk
 https://www.youtube.com/watch?v=Fpmr1nHqYrw
 
-127126.  DFA to Regular Expression Conversion (when the DFA has Multiple Final States).ahk
+41.  DFA to Regular Expression Conversion (when the DFA has Multiple Final States).ahk
 https://www.youtube.com/watch?v=fRVljh8y7Qw
 
-127168.  DFA to Regular Expression Conversion.ahk
+42.  DFA to Regular Expression Conversion.ahk
 https://www.youtube.com/watch?v=SmT1DXLl3f4
 
-127211.  Epsilon NFA.ahk
+43.  Epsilon NFA.ahk
 https://www.youtube.com/watch?v=84oNUttWlN4
 
-127255.  Equivalence of CFG and PDA (Part 1).ahk
+44.  Equivalence of CFG and PDA (Part 1).ahk
 https://www.youtube.com/watch?v=FjGrU7vczyg
 
-127300.  Equivalence of CFG and PDA (Part 2a).ahk
+45.  Equivalence of CFG and PDA (Part 2a).ahk
 https://www.youtube.com/watch?v=kyvLetfjOhc
 
-127346.  Equivalence of CFG and PDA (Part 2b).ahk
+46.  Equivalence of CFG and PDA (Part 2b).ahk
 https://www.youtube.com/watch?v=DjbukiTf-48
 
-127393.  Equivalence of Two Finite Automata (Example).ahk
+47.  Equivalence of Two Finite Automata (Example).ahk
 https://www.youtube.com/watch?v=5Jg3KqRQTvM
 
-127441.  Equivalence of Two Finite Automata.ahk
+48.  Equivalence of Two Finite Automata.ahk
 https://www.youtube.com/watch?v=nX4JrcHgpZY
 
-127490.  Finite Automata With Outputs.ahk
+49.  Finite Automata With Outputs.ahk
 https://www.youtube.com/watch?v=EzMWYmRkHFQ
 
-127540.  Finite State Machine (Finite Automata).ahk
+50.  Finite State Machine (Finite Automata).ahk
 https://www.youtube.com/watch?v=Qa6csfkK7_I
 
-127591.  Finite State Machine (Prerequisites).ahk
+51.  Finite State Machine (Prerequisites).ahk
 https://www.youtube.com/watch?v=TpIBUeyOuv8
 
-127643.  Formal Definition of Non-Deterministic Finite Automata (NFA).ahk
+52.  Formal Definition of Non-Deterministic Finite Automata (NFA).ahk
 https://www.youtube.com/watch?v=egXhe55dAIk
 
-127696.  Greibach Normal Form & CFG to GNF Conversion.ahk
+53.  Greibach Normal Form & CFG to GNF Conversion.ahk
 https://www.youtube.com/watch?v=ZCbJan6CGNM
 
-127750.  Identities of Regular Expression.ahk
+54.  Identities of Regular Expression.ahk
 https://www.youtube.com/watch?v=yp4pYgXfYD8
 
-127805.  Introduction to Theory of Computation.ahk
+55.  Introduction to Theory of Computation.ahk
 https://www.youtube.com/watch?v=58N2N7zJGrQ
 
-127861.  Method to find whether a string belong to a Grammar or not.ahk
+56.  Method to find whether a string belong to a Grammar or not.ahk
 https://www.youtube.com/watch?v=htoFbcwES28
 
-127918.  Minimization of Deterministic Finite Automata (DFA).ahk
+57.  Minimization of Deterministic Finite Automata (DFA).ahk
 https://www.youtube.com/watch?v=hOzc4BUIXRk
 
-127976.  Minimization of DFA (Example 1).ahk
+58.  Minimization of DFA (Example 1).ahk
 https://www.youtube.com/watch?v=0XaGAkY09Wc
 
-128035.  Minimization of DFA (Example 2).ahk
+59.  Minimization of DFA (Example 2).ahk
 https://www.youtube.com/watch?v=ex9sPLq5CRg
 
-128095.  Minimization of DFA (With Multiple Final States).ahk
+60.  Minimization of DFA (With Multiple Final States).ahk
 https://www.youtube.com/watch?v=DV8cZp-2VmM
 
-128156.  Minimization of DFA (With Unreachable States).ahk
+61.  Minimization of DFA (With Unreachable States).ahk
 https://www.youtube.com/watch?v=kYMqDgB2GbU
 
-128218.  Multitape Turing Machine.ahk
+62.  Multitape Turing Machine.ahk
 https://www.youtube.com/watch?v=CLLutxGVDY4
 
-128281.  Myhill Nerode Theorem - Table Filling Method (Example).ahk
+63.  Myhill Nerode Theorem - Table Filling Method (Example).ahk
 https://www.youtube.com/watch?v=Dx2RJ2DXRYs
 
-128345.  Myhill Nerode Theorem - Table Filling Method.ahk
+64.  Myhill Nerode Theorem - Table Filling Method.ahk
 https://www.youtube.com/watch?v=UiXkJUTkp44
 
-128410.  NFA to Regular Expression Conversion.ahk
+65.  NFA to Regular Expression Conversion.ahk
 https://www.youtube.com/watch?v=OKFrju0HB7k
 
-128476.  Non-Deterministic Finite Automata (Solved Example 1).ahk
+66.  Non-Deterministic Finite Automata (Solved Example 1).ahk
 https://www.youtube.com/watch?v=4bjqVsoy6bA
 
-128543.  Non-Deterministic Finite Automata (Solved Example 2).ahk
+67.  Non-Deterministic Finite Automata (Solved Example 2).ahk
 https://www.youtube.com/watch?v=Bcen1W_uFEU
 
-128611.  Non-Deterministic Finite Automata (Solved Example 3).ahk
+68.  Non-Deterministic Finite Automata (Solved Example 3).ahk
 https://www.youtube.com/watch?v=NGF-b3QVeJU
 
-128680.  Non-Deterministic Finite Automata.ahk
+69.  Non-Deterministic Finite Automata.ahk
 https://www.youtube.com/watch?v=ehy0jGIYRtE
 
-128750.  Nondeterministic Turing Machine (Part 1).ahk
+70.  Nondeterministic Turing Machine (Part 1).ahk
 https://www.youtube.com/watch?v=gQnPM6sydkk
 
-128821.  Nondeterministic Turing Machine (Part 2).ahk
+71.  Nondeterministic Turing Machine (Part 2).ahk
 https://www.youtube.com/watch?v=9Bk11XgiC1E
 
-128893.  Operations on Regular Languages.ahk
+72.  Operations on Regular Languages.ahk
 https://www.youtube.com/watch?v=6aRJQNYYz4s
 
-128966.  Pumping Lemma (For Context Free Languages) - Examples (Part 1).ahk
+73.  Pumping Lemma (For Context Free Languages) - Examples (Part 1).ahk
 https://www.youtube.com/watch?v=eQ0XkUk3qGk
 
-129040.  Pumping Lemma (For Context Free Languages) - Examples (Part 2).ahk
+74.  Pumping Lemma (For Context Free Languages) - Examples (Part 2).ahk
 https://www.youtube.com/watch?v=DPs8sBcIjs8
 
-129115.  Pumping Lemma (For Context Free Languages).ahk
+75.  Pumping Lemma (For Context Free Languages).ahk
 https://www.youtube.com/watch?v=jRhqx1_KcCk
 
-129191.  Pumping Lemma (For Regular Languages)  Example 1.ahk
+76.  Pumping Lemma (For Regular Languages)  Example 1.ahk
 https://www.youtube.com/watch?v=Ty9tpikilAo
 
-129268.  Pumping Lemma (For Regular Languages)  Example 2.ahk
+77.  Pumping Lemma (For Regular Languages)  Example 2.ahk
 https://www.youtube.com/watch?v=kZzH8E-s-9o
 
-129346.  Pumping Lemma (For Regular Languages).ahk
+78.  Pumping Lemma (For Regular Languages).ahk
 https://www.youtube.com/watch?v=dikEDuepOtI
 
-129425.  Pushdown Automata (Formal Definition).ahk
+79.  Pushdown Automata (Formal Definition).ahk
 https://www.youtube.com/watch?v=JtRyd7Svlew
 
-129505.  Pushdown Automata (Graphical Notation).ahk
+80.  Pushdown Automata (Graphical Notation).ahk
 https://www.youtube.com/watch?v=eY7fwj5jvC4
 
-129586.  Pushdown Automata (Introduction).ahk
+81.  Pushdown Automata (Introduction).ahk
 https://www.youtube.com/watch?v=4ejIAmp_Atw
 
-129668.  Pushdown Automata Example (Even Palindrome) PART-1.ahk
+82.  Pushdown Automata Example (Even Palindrome) PART-1.ahk
 https://www.youtube.com/watch?v=TEQcJybMMFU
 
-129751.  Pushdown Automata Example (Even Palindrome) PART-2.ahk
+83.  Pushdown Automata Example (Even Palindrome) PART-2.ahk
 https://www.youtube.com/watch?v=BxA-aI2dyRo
 
-129835.  Pushdown Automata Example (Even Palindrome) PART-3.ahk
+84.  Pushdown Automata Example (Even Palindrome) PART-3.ahk
 https://www.youtube.com/watch?v=xHj2WI1Rrl4
 
-129920.  Regular Expression - Examples.ahk
+85.  Regular Expression - Examples.ahk
 https://www.youtube.com/watch?v=paOPoZyjzdg
 
-130006.  Regular Expression.ahk
+86.  Regular Expression.ahk
 https://www.youtube.com/watch?v=upu_TeZImN0
 
-130093.  Regular Grammar.ahk
+87.  Regular Grammar.ahk
 https://www.youtube.com/watch?v=WgEsPTAL55Q
 
-130181.  Regular Languages & Finite Automata (Solved Problem 1).ahk
+88.  Regular Languages & Finite Automata (Solved Problem 1).ahk
 https://www.youtube.com/watch?v=_dfj__KOo8U
 
-130270.  Regular Languages & Finite Automata (Solved Problem 2).ahk
+89.  Regular Languages & Finite Automata (Solved Problem 2).ahk
 https://www.youtube.com/watch?v=efKSarb5oxM
 
-130360.  Regular Languages & Finite Automata (Solved Problem 3).ahk
+90.  Regular Languages & Finite Automata (Solved Problem 3).ahk
 https://www.youtube.com/watch?v=rtAy-CDYJeo
 
-130451.  Regular Languages & Finite Automata (Solved Problem 4).ahk
+91.  Regular Languages & Finite Automata (Solved Problem 4).ahk
 https://www.youtube.com/watch?v=XIHctzKa6P4
 
-130543.  Regular Languages & Finite Automata (Solved Problem 5).ahk
+92.  Regular Languages & Finite Automata (Solved Problem 5).ahk
 https://www.youtube.com/watch?v=gLSLHDYsE38
 
-130636.  Regular Languages & Finite Automata (Solved Problem 6).ahk
+93.  Regular Languages & Finite Automata (Solved Problem 6).ahk
 https://www.youtube.com/watch?v=x7jO9Dai6Go
 
-130730.  Regular Languages.ahk
+94.  Regular Languages.ahk
 https://www.youtube.com/watch?v=WrzaPNj9OZ4
 
-130825.  Simplification of CFG (Reduction of CFG).ahk
+95.  Simplification of CFG (Reduction of CFG).ahk
 https://www.youtube.com/watch?v=EF09zxzpVbk
 
-130921.  Simplification of CFG (Removal of Null Productions).ahk
+96.  Simplification of CFG (Removal of Null Productions).ahk
 https://www.youtube.com/watch?v=mlXYQ8ug2v4
 
-131018.  Simplification of CFG (Removal of Unit Productions).ahk
+97.  Simplification of CFG (Removal of Unit Productions).ahk
 https://www.youtube.com/watch?v=B2o75KpzfU4
 
-131116.  The Church-Turing Thesis.ahk
+98.  The Church-Turing Thesis.ahk
 https://www.youtube.com/watch?v=0D7yInuKvKs
 
-131215.  The Halting Problem.ahk
+99.  The Halting Problem.ahk
 https://www.youtube.com/watch?v=6XZvw9W9QSc
 
-131315.  The Post Correspondence Problem.ahk
+100.  The Post Correspondence Problem.ahk
 https://www.youtube.com/watch?v=VZNN1OGoqr8
 
-131416.  TOC – Conclusion and Summary.ahk
+101.  TOC – Conclusion and Summary.ahk
 https://www.youtube.com/watch?v=BBuBv3P2aSs
 
-131518.  Turing Machine (Example 1).ahk
+102.  Turing Machine (Example 1).ahk
 https://www.youtube.com/watch?v=D9eF_B8URnw
 
-131621.  Turing Machine (Example 2).ahk
+103.  Turing Machine (Example 2).ahk
 https://www.youtube.com/watch?v=cR4Re0YfoOo
 
-131725.  Turing Machine (Formal Definition).ahk
+104.  Turing Machine (Formal Definition).ahk
 https://www.youtube.com/watch?v=yFEdBR-rP9g
 
-131830.  Turing Machine - Introduction (Part 1).ahk
+105.  Turing Machine - Introduction (Part 1).ahk
 https://www.youtube.com/watch?v=PvLaPKPzq2I
 
-131936.  Turing Machine - Introduction (Part 2).ahk
+106.  Turing Machine - Introduction (Part 2).ahk
 https://www.youtube.com/watch?v=GPSk9tRsK2I
 
-132043.  Turing Machine as Problem Solvers.ahk
+107.  Turing Machine as Problem Solvers.ahk
 https://www.youtube.com/watch?v=f_1GptvagSw
 
-132151.  Turing Machine for Even Palindromes.ahk
+108.  Turing Machine for Even Palindromes.ahk
 https://www.youtube.com/watch?v=KW9md3j4_cU
 
-132260.  Turing Machine Programming Techniques (Part 1).ahk
+109.  Turing Machine Programming Techniques (Part 1).ahk
 https://www.youtube.com/watch?v=BKhQJP4sa_8
 
-132370.  Turing Machine Programming Techniques (Part 2).ahk
+110.  Turing Machine Programming Techniques (Part 2).ahk
 https://www.youtube.com/watch?v=23vQEJWXc-k
 
-132481.  Turing Machine Programming Techniques (Part 3).ahk
+111.  Turing Machine Programming Techniques (Part 3).ahk
 https://www.youtube.com/watch?v=CyB3aQhH9u4
 
-132593.  Undecidability of the Halting Problem.ahk
+112.  Undecidability of the Halting Problem.ahk
 https://www.youtube.com/watch?v=_eM0-KfAmhQ
 
-132706.  Undecidability of the Post Correspondence Problem.ahk
+113.  Undecidability of the Post Correspondence Problem.ahk
 https://www.youtube.com/watch?v=7w9elZjJ9Ko
 
-132820.  Universal Turing Machine.ahk
+114.  Universal Turing Machine.ahk
 https://www.youtube.com/watch?v=eKCX-4_jzck
 Theory of Computation & Automata Theory

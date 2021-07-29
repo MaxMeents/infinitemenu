@@ -1,58 +1,58 @@
 
-70184.  #2 - Second test on Ubuntu - Autodesk Fusion 360 (Linux)  - [EN].ahk
+1.  #2 - Second test on Ubuntu - Autodesk Fusion 360 (Linux)  - [EN].ahk
 https://www.youtube.com/watch?v=R-ev3dhNM98
 
-70186.  Amazon Luna should be free (at least for now).ahk
+2.  Amazon Luna should be free (at least for now).ahk
 https://www.youtube.com/watch?v=Dj5w4rt5I2g
 
-70189.  Autodesk Fusion 360 - Installation on Linux - [EN].ahk
+3.  Autodesk Fusion 360 - Installation on Linux - [EN].ahk
 https://www.youtube.com/watch?v=-BktJspJKgs
 
-70193.  Delta X - The First Open Source Delta Robot Kit In The World - Full.ahk
+4.  Delta X - The First Open Source Delta Robot Kit In The World - Full.ahk
 https://www.youtube.com/watch?v=dx5dYdQ7NDo
 
-70198.  Endless OS Amazing Linux Distro You Need to Try - It Has Everything you need!.ahk
+5.  Endless OS Amazing Linux Distro You Need to Try - It Has Everything you need!.ahk
 https://www.youtube.com/watch?v=5_MkmhXn5co
 
-70204.  Hosting a Website on Google Cloud Platform  Free Hosting.ahk
+6.  Hosting a Website on Google Cloud Platform  Free Hosting.ahk
 https://www.youtube.com/watch?v=vIJdypOqlL4
 
-70211.  How to Customize KDE  KDE Customization.ahk
+7.  How to Customize KDE  KDE Customization.ahk
 https://www.youtube.com/watch?v=nRtyFtpf5yU
 
-70219.  HOW TO DRAW FACE  Basic Proportion.ahk
+8.  HOW TO DRAW FACE  Basic Proportion.ahk
 https://www.youtube.com/watch?v=cdSzAOgSuew
 
-70228.  How to install Linux instead of Windows 11.ahk
+9.  How to install Linux instead of Windows 11.ahk
 https://www.youtube.com/watch?v=_Ua-d9OeUOg
 
-70238.  I will own your WiFi with one Kali Linux command.ahk
+10.  I will own your WiFi with one Kali Linux command.ahk
 https://www.youtube.com/watch?v=TDVM-BUChpY
 
-70249.  Make Linux Look Better  Conky Desktop.ahk
+11.  Make Linux Look Better  Conky Desktop.ahk
 https://www.youtube.com/watch?v=QB8cjKpdVQY
 
-70261.  No Adobe Creative Suite on Linux Best Free Alternatives in 2019!.ahk
+12.  No Adobe Creative Suite on Linux Best Free Alternatives in 2019!.ahk
 https://www.youtube.com/watch?v=doBR1Ae78aw
 
-70274.  PrusaSlicer 2.0 vs Thingiverse vs Prusa Mk3 - 3DP Gauntlet Episode 1.ahk
+13.  PrusaSlicer 2.0 vs Thingiverse vs Prusa Mk3 - 3DP Gauntlet Episode 1.ahk
 https://www.youtube.com/watch?v=XGr2iVbfNgw
 
-70288.  SSH Honeypot in 4 Minutes - Trap Hackers in Your Server.ahk
+14.  SSH Honeypot in 4 Minutes - Trap Hackers in Your Server.ahk
 https://www.youtube.com/watch?v=SKhKNUo6rJU
 
-70303.  Switch to these open-source apps...on Windows, macOS or Linux!.ahk
+15.  Switch to these open-source apps...on Windows, macOS or Linux!.ahk
 https://www.youtube.com/watch?v=j3koOJRUWCc
 
-70319.  The Unhackable Email Service  Freethink Coded.ahk
+16.  The Unhackable Email Service  Freethink Coded.ahk
 https://www.youtube.com/watch?v=NM8fAnEqs1Q
 
-70336.  Understanding Creality Ender 3 Control Board Firmware Fiasco.ahk
+17.  Understanding Creality Ender 3 Control Board Firmware Fiasco.ahk
 https://www.youtube.com/watch?v=vFcMW6m9OGg
 
-70354.  Windows Programs on Linux  Introduction to WINE.ahk
+18.  Windows Programs on Linux  Introduction to WINE.ahk
 https://www.youtube.com/watch?v=lI09QLkqZiE
 
-70373.  [Tutorial] How to make a stealthy Virtual Machine.ahk
+19.  [Tutorial] How to make a stealthy Virtual Machine.ahk
 https://www.youtube.com/watch?v=6TM45vNI4Qc
 Linux tips

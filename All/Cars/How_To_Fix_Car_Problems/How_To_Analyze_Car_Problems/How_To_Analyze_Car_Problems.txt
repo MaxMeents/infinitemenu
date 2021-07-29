@@ -1,142 +1,142 @@
 
-87417.  Check Engine Light On and How to Fix It.ahk
+1.  Check Engine Light On and How to Fix It.ahk
 https://www.youtube.com/watch?v=YSubYm7_e0s
 
-87419.  Electrical Troubleshooting in Your Car with Power Probe.ahk
+2.  Electrical Troubleshooting in Your Car with Power Probe.ahk
 https://www.youtube.com/watch?v=LyN6U3JUR6w
 
-87422.  Fixing Car Problems You Can't See.ahk
+3.  Fixing Car Problems You Can't See.ahk
 https://www.youtube.com/watch?v=aCgA-td1Qfw
 
-87426.  Fixing Complex Modern Cars.ahk
+4.  Fixing Complex Modern Cars.ahk
 https://www.youtube.com/watch?v=U3PuVCUqeHQ
 
-87431.  How Electrical Relays Work in Your Car - Electrical Troubleshooting.ahk
+5.  How Electrical Relays Work in Your Car - Electrical Troubleshooting.ahk
 https://www.youtube.com/watch?v=RETAQVeMnAA
 
-87437.  How to Check a Catalytic Converter in Your Car.ahk
+6.  How to Check a Catalytic Converter in Your Car.ahk
 https://www.youtube.com/watch?v=IzyvL5tQLzU
 
-87444.  How to Check a Timing Belt or Timing Chain in Your Car.ahk
+7.  How to Check a Timing Belt or Timing Chain in Your Car.ahk
 https://www.youtube.com/watch?v=3zyjyVUoe6c
 
-87452.  How to Check a Wheel Bearing in Your Car (Replacement).ahk
+8.  How to Check a Wheel Bearing in Your Car (Replacement).ahk
 https://www.youtube.com/watch?v=wbsUTESwOMY
 
-87461.  How to Check for Hidden Damage after Car Accident.ahk
+9.  How to Check for Hidden Damage after Car Accident.ahk
 https://www.youtube.com/watch?v=zQvFSGxDiBI
 
-87471.  How to Check Your Car's Suspension System.ahk
+10.  How to Check Your Car's Suspension System.ahk
 https://www.youtube.com/watch?v=GDAFxt46PHk
 
-87482.  How to Find a Electrical Short in Your Car (FAST).ahk
+11.  How to Find a Electrical Short in Your Car (FAST).ahk
 https://www.youtube.com/watch?v=ufVuWznmJLA
 
-87494.  How To Find Car Leaks With a UV Light.ahk
+12.  How To Find Car Leaks With a UV Light.ahk
 https://www.youtube.com/watch?v=FgCLGXTlim0
 
-87507.  How To Find Electrical Shorts.ahk
+13.  How To Find Electrical Shorts.ahk
 https://www.youtube.com/watch?v=pjXt7_gusgM
 
-87521.  How to Find Noises in Your Car.ahk
+14.  How to Find Noises in Your Car.ahk
 https://www.youtube.com/watch?v=pqh1oH8mEqY
 
-87536.  How to Find Oil Leaks in Your Car and Fix Them.ahk
+15.  How to Find Oil Leaks in Your Car and Fix Them.ahk
 https://www.youtube.com/watch?v=LYzTyTlnsr8
 
-87552.  How To Find The Right Car Repair Video.ahk
+16.  How To Find The Right Car Repair Video.ahk
 https://www.youtube.com/watch?v=uRXebs6SM1g
 
-87569.  How to Find Vacuum Leaks With a Cigar (Life Hack).ahk
+17.  How to Find Vacuum Leaks With a Cigar (Life Hack).ahk
 https://www.youtube.com/watch?v=zMok2y05jNE
 
-87587.  How to Fix a Car that Clunks (Lower Control Arm).ahk
+18.  How to Fix a Car that Clunks (Lower Control Arm).ahk
 https://www.youtube.com/watch?v=4eHWpgtSM8Q
 
-87606.  How to Fix a Car that Randomly Dies while Driving.ahk
+19.  How to Fix a Car that Randomly Dies while Driving.ahk
 https://www.youtube.com/watch?v=zwlruD4JXmY
 
-87626.  How to Fix a Car that Won't Start When You Turn the Key.ahk
+20.  How to Fix a Car that Won't Start When You Turn the Key.ahk
 https://www.youtube.com/watch?v=TSE0fOrujW0
 
-87647.  How To Fix a Car With Multiple Trouble Codes.ahk
+21.  How To Fix a Car With Multiple Trouble Codes.ahk
 https://www.youtube.com/watch?v=jXAJvuuK104
 
-87669.  How to Fix a Wobbly Steering Wheel (Idler Arm Replacement).ahk
+22.  How to Fix a Wobbly Steering Wheel (Idler Arm Replacement).ahk
 https://www.youtube.com/watch?v=HI3t-d1MzRA
 
-87692.  How to Fix ABS Problems in Your Car - Light Stays On.ahk
+23.  How to Fix ABS Problems in Your Car - Light Stays On.ahk
 https://www.youtube.com/watch?v=T21th6nJe6Y
 
-87716.  How to Fix Battery Drain in Your Car (Parasitic Draw Test).ahk
+24.  How to Fix Battery Drain in Your Car (Parasitic Draw Test).ahk
 https://www.youtube.com/watch?v=B__DqK90IIc
 
-87741.  How to Fix Car Hesitation (Code P0171).ahk
+25.  How to Fix Car Hesitation (Code P0171).ahk
 https://www.youtube.com/watch?v=kf2RKfmVPx0
 
-87767.  How To Fix Cars Using a High Level Scan Tool.ahk
+26.  How To Fix Cars Using a High Level Scan Tool.ahk
 https://www.youtube.com/watch?v=F8__hNZTKCw
 
-87794.  How to Fix Check Engine Light in an Older Car (Pre-1996).ahk
+27.  How to Fix Check Engine Light in an Older Car (Pre-1996).ahk
 https://www.youtube.com/watch?v=I3emVvat9bE
 
-87822.  How to Fix Check Engine Light That's On in Your Car.ahk
+28.  How to Fix Check Engine Light That's On in Your Car.ahk
 https://www.youtube.com/watch?v=BeInc7NSrmw
 
-87851.  How to Fix Creaks in Your Car.ahk
+29.  How to Fix Creaks in Your Car.ahk
 https://www.youtube.com/watch?v=mwUigrAtTOs
 
-87881.  How To Fix Noises Under Your Car's Hood.ahk
+30.  How To Fix Noises Under Your Car's Hood.ahk
 https://www.youtube.com/watch?v=2BFHzVPwfpc
 
-87912.  How to Fix Power Steering Noise When Turning.ahk
+31.  How to Fix Power Steering Noise When Turning.ahk
 https://www.youtube.com/watch?v=bgs_Z0Vr8zI
 
-87944.  How To Replace a Bad Electronic Water Pump.ahk
+32.  How To Replace a Bad Electronic Water Pump.ahk
 https://www.youtube.com/watch?v=_vqAbKtLfws
 
-87977.  How to Replace a Remote Key Fob for Your Car.ahk
+33.  How to Replace a Remote Key Fob for Your Car.ahk
 https://www.youtube.com/watch?v=3RrAliUD0ik
 
-88011.  How to Stop Car Noise (Water Pump Replacement).ahk
+34.  How to Stop Car Noise (Water Pump Replacement).ahk
 https://www.youtube.com/watch?v=MR3t71Lhoy0
 
-88046.  How to Tell if the Fuel Pump is Bad in Your Car.ahk
+35.  How to Tell if the Fuel Pump is Bad in Your Car.ahk
 https://www.youtube.com/watch?v=JoWZz1ckRGw
 
-88082.  How to Tell if You Need a New Catalytic Converter in Your Car.ahk
+36.  How to Tell if You Need a New Catalytic Converter in Your Car.ahk
 https://www.youtube.com/watch?v=qJTmddbOxMk
 
-88119.  How to Tell if Your Head Gasket is Blown.ahk
+37.  How to Tell if Your Head Gasket is Blown.ahk
 https://www.youtube.com/watch?v=QA7KVQq9vKA
 
-88157.  How to Test Alternator in Your Car.ahk
+38.  How to Test Alternator in Your Car.ahk
 https://www.youtube.com/watch?v=yQjNlrL9Jm0
 
-88196.  How to Test Fuel Injectors in Your Car.ahk
+39.  How to Test Fuel Injectors in Your Car.ahk
 https://www.youtube.com/watch?v=UrqyrI5aNl0
 
-88236.  How To Use a Computer To Fix Your Car.ahk
+40.  How To Use a Computer To Fix Your Car.ahk
 https://www.youtube.com/watch?v=jcy8qYGbfiM
 
-88277.  How to use AC Gauges in Your Car (AC Problems).ahk
+41.  How to use AC Gauges in Your Car (AC Problems).ahk
 https://www.youtube.com/watch?v=80jSH8VQZms
 
-88319.  How To Use Your Ears To Fix Car Problems.ahk
+42.  How To Use Your Ears To Fix Car Problems.ahk
 https://www.youtube.com/watch?v=eOs6PyYsWjM
 
-88362.  Learn How To Fix Your Own Car.ahk
+43.  Learn How To Fix Your Own Car.ahk
 https://www.youtube.com/watch?v=kfC3osyUljE
 
-88406.  Misfiring Engines With P0301 Code.ahk
+44.  Misfiring Engines With P0301 Code.ahk
 https://www.youtube.com/watch?v=r9zNnAuPY2U
 
-88451.  Replacing a Bad Knock Sensor P0330 Code.ahk
+45.  Replacing a Bad Knock Sensor P0330 Code.ahk
 https://www.youtube.com/watch?v=LWRXS-Uym_k
 
-88497.  Where Has Your Throttle Cable Gone.ahk
+46.  Where Has Your Throttle Cable Gone.ahk
 https://www.youtube.com/watch?v=KqSSS_HiKFY
 
-88544.  Why Your Car Smells Like Gasoline.ahk
+47.  Why Your Car Smells Like Gasoline.ahk
 https://www.youtube.com/watch?v=FvH1fhihOlk
 How To Analyze Car Problems

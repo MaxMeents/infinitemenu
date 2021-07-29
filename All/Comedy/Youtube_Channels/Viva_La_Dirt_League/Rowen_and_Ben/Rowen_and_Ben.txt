@@ -1,31 +1,31 @@
 
-889955.  Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL).ahk
+1.  Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=kindPEFswmE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889957.  Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL).ahk
+2.  Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=zFhDXSQl2VM&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889960.  Forgetting to mute your mic - Open Mic.ahk
+3.  Forgetting to mute your mic - Open Mic.ahk
 https://www.youtube.com/watch?v=kA11NH4z1MA&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889964.  Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL).ahk
+4.  Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL).ahk
 https://www.youtube.com/watch?v=ugJ9Ur6Ld64&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889969.  Health potion logic.ahk
+5.  Health potion logic.ahk
 https://www.youtube.com/watch?v=VjXOwUnJzA0&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889975.  Passing items in cars is impossible - The Pass.ahk
+6.  Passing items in cars is impossible - The Pass.ahk
 https://www.youtube.com/watch?v=OBoTlA0AhC8&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889982.  What crafting in games actually looks like - Crafting.ahk
+7.  What crafting in games actually looks like - Crafting.ahk
 https://www.youtube.com/watch?v=RgxKIu05dKE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889990.  When a sniper is baiting you out.ahk
+8.  When a sniper is baiting you out.ahk
 https://www.youtube.com/watch?v=KD9sMqp7bdE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-889999.  When the game gets hacked.ahk
+9.  When the game gets hacked.ahk
 https://www.youtube.com/watch?v=4vu5Or-3vrI&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-890009.  Where do you keep your horse - Horse Pocket.ahk
+10.  Where do you keep your horse - Horse Pocket.ahk
 https://www.youtube.com/watch?v=zvEe3Y3B2cg&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 Rowen and Ben

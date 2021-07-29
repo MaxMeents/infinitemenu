@@ -1,67 +1,67 @@
 
-4.  .ahk
+1.  .ahk
 
 
-6.  A Ho Lada Funk-01 Blownaway.ahk
+2.  A Ho Lada Funk-01 Blownaway.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-01-blownaway?in=nfnneo/sets/bazukajo
 
-9.  A Ho Lada Funk-02 Donefor.ahk
+3.  A Ho Lada Funk-02 Donefor.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-02-donefor?in=nfnneo/sets/bazukajo
 
-13.  A Ho Lada Funk-03 Upchuk.ahk
+4.  A Ho Lada Funk-03 Upchuk.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-03-upchuk?in=nfnneo/sets/bazukajo
 
-18.  A Ho Lada Funk-04 Metaphysidude.ahk
+5.  A Ho Lada Funk-04 Metaphysidude.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-04?in=nfnneo/sets/bazukajo
 
-24.  A Ho Lada Funk-05 Whagowan.ahk
+6.  A Ho Lada Funk-05 Whagowan.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-05-whagowan?in=nfnneo/sets/bazukajo
 
-31.  A Ho Lada Funk-06 Allaround.ahk
+7.  A Ho Lada Funk-06 Allaround.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-06-allaround?in=nfnneo/sets/bazukajo
 
-39.  A Ho Lada Funk-07 Partofme.ahk
+8.  A Ho Lada Funk-07 Partofme.ahk
 https://soundcloud.com/bazukajo/a-ho-lada-funk-07-partofme?in=nfnneo/sets/bazukajo
 
-48.  American in peril feat. Prapa Gramma.ahk
+9.  American in peril feat. Prapa Gramma.ahk
 https://soundcloud.com/bazukajo/american-in-peril-feat-prapa?in=nfnneo/sets/bazukajo
 
-58.  Aurum.ahk
+10.  Aurum.ahk
 https://soundcloud.com/bazukajo/aurum?in=nfnneo/sets/bazukajo
 
-69.  Dialed IN (starRo-Milk_TRiSM_edit).ahk
+11.  Dialed IN (starRo-Milk_TRiSM_edit).ahk
 https://soundcloud.com/thetrism/dialed-in-starro-milk_trism_edit?in=nfnneo/sets/bazukajo
 
-81.  GoneWithTheWind.ahk
+12.  GoneWithTheWind.ahk
 https://soundcloud.com/bazukajo/gonewiththewind?in=nfnneo/sets/bazukajo
 
-94.  Just a Man.ahk
+13.  Just a Man.ahk
 https://soundcloud.com/bazukajo/just-a-man?in=nfnneo/sets/bazukajo
 
-108.  Legacy (Shigeto's- Huron River Drive)(TRISM version).ahk
+14.  Legacy (Shigeto's- Huron River Drive)(TRISM version).ahk
 https://soundcloud.com/thetrism/legacy-shigetos-huron-river-drive-trism-version?in=nfnneo/sets/bazukajo
 
-123.  Morilla.ahk
+15.  Morilla.ahk
 https://soundcloud.com/bazukajo/morilla?in=nfnneo/sets/bazukajo
 
-139.  Morilla2.ahk
+16.  Morilla2.ahk
 https://soundcloud.com/bazukajo/morilla2?in=nfnneo/sets/bazukajo
 
-156.  Morilla3.ahk
+17.  Morilla3.ahk
 https://soundcloud.com/bazukajo/morilla3?in=nfnneo/sets/bazukajo
 
-174.  Morilla4.ahk
+18.  Morilla4.ahk
 https://soundcloud.com/bazukajo/morilla4?in=nfnneo/sets/bazukajo
 
-193.  Morilla5.ahk
+19.  Morilla5.ahk
 https://soundcloud.com/bazukajo/morilla5?in=nfnneo/sets/bazukajo
 
-213.  NøBrainer.ahk
+20.  NøBrainer.ahk
 https://soundcloud.com/bazukajo/nobrainer?in=nfnneo/sets/bazukajo
 
-234.  Sea of dreams.ahk
+21.  Sea of dreams.ahk
 https://soundcloud.com/bazukajo/sea-of-dreams?in=nfnneo/sets/bazukajo
 
-256.  THE HARVEST feat. Lafa Taylor.ahk
+22.  THE HARVEST feat. Lafa Taylor.ahk
 https://soundcloud.com/bazukajo/the-harvest?in=nfnneo/sets/bazukajo
 Bazookajoe

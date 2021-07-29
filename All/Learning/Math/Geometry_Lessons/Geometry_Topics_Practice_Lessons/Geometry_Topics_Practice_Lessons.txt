@@ -1,73 +1,73 @@
 
-254891.  ALGEBRA QUESTIONS WHY ARE LINES 180 DEGREES.ahk
+1.  ALGEBRA QUESTIONS WHY ARE LINES 180 DEGREES.ahk
 https://www.youtube.com/watch?v=UuxsRlnXm0M
 
-254893.  Angle Properties Naming Angles with Letters Explained!.ahk
+2.  Angle Properties Naming Angles with Letters Explained!.ahk
 https://www.youtube.com/watch?v=AuizRpeJMhw
 
-254896.  ARC LENGTH FORMULA & AREA OF SECTOR FORMULA PRACTICE!.ahk
+3.  ARC LENGTH FORMULA & AREA OF SECTOR FORMULA PRACTICE!.ahk
 https://www.youtube.com/watch?v=a2KuWQPfVUY
 
-254900.  Dilations Geometry Transformations Explained!.ahk
+4.  Dilations Geometry Transformations Explained!.ahk
 https://www.youtube.com/watch?v=BCllaARDOWI
 
-254905.  Find the Equation of a Circle Practice Problems!.ahk
+5.  Find the Equation of a Circle Practice Problems!.ahk
 https://www.youtube.com/watch?v=StdY8qkh-DM
 
-254911.  Geometry Proofs Explained! Triangle Congruence.ahk
+6.  Geometry Proofs Explained! Triangle Congruence.ahk
 https://www.youtube.com/watch?v=6saYBeHzArE
 
-254918.  Geometry Rotations Explained (90, 180, 270, 360).ahk
+7.  Geometry Rotations Explained (90, 180, 270, 360).ahk
 https://www.youtube.com/watch?v=NhtTKhP3d6s
 
-254926.  Geometry Translations Explained!.ahk
+8.  Geometry Translations Explained!.ahk
 https://www.youtube.com/watch?v=j87gj_KH9pA
 
-254935.  How to Factor a Trinomial When a is Not 1 Explained! (AC Method).ahk
+9.  How to Factor a Trinomial When a is Not 1 Explained! (AC Method).ahk
 https://www.youtube.com/watch?v=JlxV8qFPq7I
 
-254945.  How to Find Surface Area and Volume of a Cylinder!.ahk
+10.  How to Find Surface Area and Volume of a Cylinder!.ahk
 https://www.youtube.com/watch?v=Bb_XJ7UPDlM
 
-254956.  HOW TO USE THE MIDPOINT FORMULA!.ahk
+11.  HOW TO USE THE MIDPOINT FORMULA!.ahk
 https://www.youtube.com/watch?v=2T7m9uYkcuQ
 
-254968.  IS A SQUARE A RECTANGLE YES OR NO.ahk
+12.  IS A SQUARE A RECTANGLE YES OR NO.ahk
 https://www.youtube.com/watch?v=TnKYox8wr8g
 
-254981.  ISOSCELES TRIANGLE THEOREMS EXPLAINED!.ahk
+13.  ISOSCELES TRIANGLE THEOREMS EXPLAINED!.ahk
 https://www.youtube.com/watch?v=AzJs36FqkGU
 
-254995.  Line Symmetry and Reflection Symmetry Explained!.ahk
+14.  Line Symmetry and Reflection Symmetry Explained!.ahk
 https://www.youtube.com/watch?v=W4oPWaNxp14
 
-255010.  Parallel Lines Cut by a Transversal & Angle Relationships!.ahk
+15.  Parallel Lines Cut by a Transversal & Angle Relationships!.ahk
 https://www.youtube.com/watch?v=5PcMbN46NMA
 
-255026.  Proving Triangles Congruent SAS or ASA.ahk
+16.  Proving Triangles Congruent SAS or ASA.ahk
 https://www.youtube.com/watch?v=qmeW-vwrVRo
 
-255043.  Reflections Over the X-Axis and Y-Axis Explained!.ahk
+17.  Reflections Over the X-Axis and Y-Axis Explained!.ahk
 https://www.youtube.com/watch?v=ouNp8FtgiEE
 
-255061.  TANGENT LINES AND CIRCLES EXPLAINED!.ahk
+18.  TANGENT LINES AND CIRCLES EXPLAINED!.ahk
 https://www.youtube.com/watch?v=IcgycGSq9Us
 
-255080.  Triangle Congruence Does Angle-Side-Side Work.ahk
+19.  Triangle Congruence Does Angle-Side-Side Work.ahk
 https://www.youtube.com/watch?v=8jaVoGOwbC0
 
-255100.  Triangle Congruence Proofs Practice with CPCTC!.ahk
+20.  Triangle Congruence Proofs Practice with CPCTC!.ahk
 https://www.youtube.com/watch?v=8nimHaRuRWg
 
-255121.  Triangle Congruence Theorems ASA or AAS.ahk
+21.  Triangle Congruence Theorems ASA or AAS.ahk
 https://www.youtube.com/watch?v=DvCsRs6sSRQ
 
-255143.  Triangle Congruence Theorems Explained ASA, AAS, HL.ahk
+22.  Triangle Congruence Theorems Explained ASA, AAS, HL.ahk
 https://www.youtube.com/watch?v=vGuiy7NnJlM
 
-255166.  Using Distance Formula to Find Distance Between Two Points!.ahk
+23.  Using Distance Formula to Find Distance Between Two Points!.ahk
 https://www.youtube.com/watch?v=otIjqzKlnXc
 
-255190.  Using the Surface Area of a Sphere Formula Explained!.ahk
+24.  Using the Surface Area of a Sphere Formula Explained!.ahk
 https://www.youtube.com/watch?v=68Taeqd0ywI
 Geometry Topics Practice Lessons

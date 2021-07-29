@@ -1,37 +1,37 @@
 
-94821.  Accidental Release & Spill Cleanup - Hazwoper Safety Training.ahk
+1.  Accidental Release & Spill Cleanup - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=kX7fXE0Evds
 
-94823.  Confined Space Entry - Hazwoper Safety Training.ahk
+2.  Confined Space Entry - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=JDjj1bcvuw0
 
-94826.  Decontamination Procedures - Hazwoper Safety Training.ahk
+3.  Decontamination Procedures - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=l5HhPhYkzIk
 
-94830.  Emergency Response Plan - Hazwoper Safety Training.ahk
+4.  Emergency Response Plan - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=pM5tG8oHivo
 
-94835.  Handling Hazardous Materials - Hazwoper Safety Training.ahk
+5.  Handling Hazardous Materials - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=RC47n165Pok
 
-94841.  HAZMAT Labeling -- Hazwoper Safety Training.ahk
+6.  HAZMAT Labeling -- Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=7oKhFTui-sM
 
-94848.  Medical Surveillance - Hazwoper Safety Training.ahk
+7.  Medical Surveillance - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=mM-M5UL9sa8
 
-94856.  Monitoring Procedures & Equipment - Hazwoper Safety Training.ahk
+8.  Monitoring Procedures & Equipment - Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=Y-JmqOTCQjM
 
-94865.  Personal Protective Equipment -- Hazwoper Safety Training.ahk
+9.  Personal Protective Equipment -- Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=kDBgWAAQCKo
 
-94875.  Understanding Chemical Hazards -- Hazwoper Safety Training.ahk
+10.  Understanding Chemical Hazards -- Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=nZGZl5WKm1I
 
-94886.  Understanding HAZWOPER -- Hazwoper Safety Training.ahk
+11.  Understanding HAZWOPER -- Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=77ee-IkZN-k
 
-94898.  Work Practices and Engineering Controls -- Hazwoper Safety Training.ahk
+12.  Work Practices and Engineering Controls -- Hazwoper Safety Training.ahk
 https://www.youtube.com/watch?v=iM-Hp1YOQFw
 24 Hour HAZWOPER Training

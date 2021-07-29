@@ -29,36 +29,36 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/At
 10.  Unfuckwitable - Masta Buildas & The Templars of Hip Hop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Atma/Albums_on_Bandcamp/Unfuckwitable_-_Masta_Buildas_&_The_Templars_of_Hip_Hop/Unfuckwitable_-_Masta_Buildas_&_The_Templars_of_Hip_Hop.txt
 
-11.  .ahk
+1.  .ahk
 
 
-13.  Beyond the Speed of Mind - Reincarnated.ahk
+2.  Beyond the Speed of Mind - Reincarnated.ahk
 https://atma4.bandcamp.com/album/beyond-the-speed-of-mind-reincarnated
 
-16.  Etheric Templates.ahk
+3.  Etheric Templates.ahk
 https://atma4.bandcamp.com/album/etheric-templates
 
-20.  Jakobz Ladder Vol. 1 - ATMA & Son of Saturn.ahk
+4.  Jakobz Ladder Vol. 1 - ATMA & Son of Saturn.ahk
 https://atma4.bandcamp.com/album/jakobz-ladder-vol-1
 
-25.  Katharsis - Jewelz Infinite.ahk
+5.  Katharsis - Jewelz Infinite.ahk
 https://atma4.bandcamp.com/album/katharsis
 
-31.  Masta Buildas - Masta Buildas.ahk
+6.  Masta Buildas - Masta Buildas.ahk
 https://atma4.bandcamp.com/album/masta-buildas
 
-38.  Nocturnal Light - Masta Buildas.ahk
+7.  Nocturnal Light - Masta Buildas.ahk
 https://atma4.bandcamp.com/album/nocturnal-light
 
-46.  Reptilian Body Snatchas - Masta Buildas.ahk
+8.  Reptilian Body Snatchas - Masta Buildas.ahk
 https://atma4.bandcamp.com/album/reptilian-body-snatchas
 
-55.  The Lost Children of Babylon Present- Beyond Birth and Death.ahk
+9.  The Lost Children of Babylon Present- Beyond Birth and Death.ahk
 https://atma4.bandcamp.com/album/the-lost-children-of-babylon-present-beyond-birth-and-death
 
-65.  The Tathagata Vol. 1.ahk
+10.  The Tathagata Vol. 1.ahk
 https://atma4.bandcamp.com/album/the-tathagata-vol-1
 
-76.  The Tathagata Vol. 2.ahk
+11.  The Tathagata Vol. 2.ahk
 https://atma4.bandcamp.com/album/the-tathagata-vol-2
 Albums on Bandcamp

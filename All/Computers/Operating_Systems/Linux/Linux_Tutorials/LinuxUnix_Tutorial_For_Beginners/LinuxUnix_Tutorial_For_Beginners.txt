@@ -1,55 +1,55 @@
 
-18425.  Command Line Vs GUI - Linux Tutorial.ahk
+1.  Command Line Vs GUI - Linux Tutorial.ahk
 https://www.youtube.com/watch?v=G0LsYZ7Kwh8
 
-18427.  Environment Variables  Linux Tutorial #11.ahk
+2.  Environment Variables  Linux Tutorial #11.ahk
 https://www.youtube.com/watch?v=pjh9rU9h22Q
 
-18430.  How to AddDelete Users and Groups, Change Password, Finger Linux Administration Tutorial 18.ahk
+3.  How to AddDelete Users and Groups, Change Password, Finger Linux Administration Tutorial 18.ahk
 https://www.youtube.com/watch?v=FtwRe8w2kWI
 
-18434.  Important Linux Commands for Beginners Linux Tutorial.ahk
+4.  Important Linux Commands for Beginners Linux Tutorial.ahk
 https://www.youtube.com/watch?v=_TlK0-5EJ-Y
 
-18439.  Introduction to Perl - Perl Tutorial for Beginners.ahk
+5.  Introduction to Perl - Perl Tutorial for Beginners.ahk
 https://www.youtube.com/watch?v=wGZETyRX62M
 
-18445.  Linux Distributions & Installation Methods - Linux Tutorial 2.ahk
+6.  Linux Distributions & Installation Methods - Linux Tutorial 2.ahk
 https://www.youtube.com/watch?v=ybHxztXXE-4
 
-18452.  Linux File Permissions Commands with Examples - Linux Tutorial 6.ahk
+7.  Linux File Permissions Commands with Examples - Linux Tutorial 6.ahk
 https://www.youtube.com/watch?v=D-VqgvBMV7g
 
-18460.  Linux Vs Windows - Which is Better.ahk
+8.  Linux Vs Windows - Which is Better.ahk
 https://www.youtube.com/watch?v=JijVGIR2n8E
 
-18469.  Pipes, Grep, Sort Commands Linux Tutorial 9.ahk
+9.  Pipes, Grep, Sort Commands Linux Tutorial 9.ahk
 https://www.youtube.com/watch?v=VgbnndezHbw
 
-18479.  Print, Install Software and Email - Linux Tutorial 7.ahk
+10.  Print, Install Software and Email - Linux Tutorial 7.ahk
 https://www.youtube.com/watch?v=cUPpsQ50oyQ
 
-18490.  Process Management Commands (fg, bg, top, ps, kill, nice, renice, df, free) Linux Tutorial.ahk
+11.  Process Management Commands (fg, bg, top, ps, kill, nice, renice, df, free) Linux Tutorial.ahk
 https://www.youtube.com/watch?v=P8GrPOpD8Sk
 
-18502.  Redirection in Linux - Linux Tutorial 8.ahk
+12.  Redirection in Linux - Linux Tutorial 8.ahk
 https://www.youtube.com/watch?v=Bzd7XfApxLI
 
-18515.  Regular Expressions - Linux Tutorial 10.ahk
+13.  Regular Expressions - Linux Tutorial 10.ahk
 https://www.youtube.com/watch?v=mpyCeSvGh-M
 
-18529.  Shell Scripting Tutorial in Linux.ahk
+14.  Shell Scripting Tutorial in Linux.ahk
 https://www.youtube.com/watch?v=9y5TCwVU8iE
 
-18544.  SSH, FTP, Ping, Telnet Linux Networking Commands Tutorial 12.ahk
+15.  SSH, FTP, Ping, Telnet Linux Networking Commands Tutorial 12.ahk
 https://www.youtube.com/watch?v=9mj8o5BQN_Y
 
-18560.  VI Editor - Linux Tutorial #14.ahk
+16.  VI Editor - Linux Tutorial #14.ahk
 https://www.youtube.com/watch?v=pU2k776i2Zw
 
-18577.  Virtual Terminals(TTY) - Linux Tutorial for Beginners.ahk
+17.  Virtual Terminals(TTY) - Linux Tutorial for Beginners.ahk
 https://www.youtube.com/watch?v=vAr9PM9dEtE
 
-18595.  What is Linux Linux Beginner Tutorial.ahk
+18.  What is Linux Linux Beginner Tutorial.ahk
 https://www.youtube.com/watch?v=xRX6ZI_P-LA
 LinuxUnix Tutorial For Beginners

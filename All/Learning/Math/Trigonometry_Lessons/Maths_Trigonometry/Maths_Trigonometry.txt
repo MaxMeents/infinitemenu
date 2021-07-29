@@ -1,46 +1,46 @@
 
-438260.  Complementary Ratios.ahk
+1.  Complementary Ratios.ahk
 https://www.youtube.com/watch?v=C1IeWZmWJak&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438262.  Constant Ratios.ahk
+2.  Constant Ratios.ahk
 https://www.youtube.com/watch?v=LNxNaAyaS2I&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438265.  Example 1.ahk
+3.  Example 1.ahk
 https://www.youtube.com/watch?v=kiJvL_uCFdg&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438269.  Example 2.ahk
+4.  Example 2.ahk
 https://www.youtube.com/watch?v=6_xpfZoP9dY&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438274.  Example 3.ahk
+5.  Example 3.ahk
 https://www.youtube.com/watch?v=OxNh_zDrdf8&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438280.  Example 4.ahk
+6.  Example 4.ahk
 https://www.youtube.com/watch?v=xyCo3nyF6FY&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438287.  Example 5.ahk
+7.  Example 5.ahk
 https://www.youtube.com/watch?v=CKV104tzU7o&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438295.  Heights & Distances.ahk
+8.  Heights & Distances.ahk
 https://www.youtube.com/watch?v=w42qYB1ye-A&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438304.  Introduction to Trigonometry.ahk
+9.  Introduction to Trigonometry.ahk
 https://www.youtube.com/watch?v=crGAznjUeeg&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438314.  Reciprocal Ratios.ahk
+10.  Reciprocal Ratios.ahk
 https://www.youtube.com/watch?v=tVw_s6AFFb0&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438325.  T Ratios 0, 90 degree.ahk
+11.  T Ratios 0, 90 degree.ahk
 https://www.youtube.com/watch?v=Prf1w7xkmmc&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438337.  T Ratios 30, 60 degree.ahk
+12.  T Ratios 30, 60 degree.ahk
 https://www.youtube.com/watch?v=F6WhCmO9P7s&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438350.  T Ratios 45 degree.ahk
+13.  T Ratios 45 degree.ahk
 https://www.youtube.com/watch?v=nNCTx6yhwM8&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438364.  Trigonometrical Identities.ahk
+14.  Trigonometrical Identities.ahk
 https://www.youtube.com/watch?v=POWls0Fwhgk&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 
-438379.  Trigonometrical Ratios.ahk
+15.  Trigonometrical Ratios.ahk
 https://www.youtube.com/watch?v=DElUtcwFHqI&list=PL2gIzhGnfS9LZhDqIcoDqHA0egQTr25dQ
 Maths Trigonometry

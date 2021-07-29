@@ -1,988 +1,988 @@
 
-176269.  1-1 Lesson (Geometry).ahk
+1.  1-1 Lesson (Geometry).ahk
 https://www.youtube.com/watch?v=C9SXS4o5I8s
 
-176271.  1-1 Notes 2020 (Remote Geometry).ahk
+2.  1-1 Notes 2020 (Remote Geometry).ahk
 https://www.youtube.com/watch?v=drJb24fi3LI
 
-176274.  1-1 Video, Part 1 (Freshman Geometry).ahk
+3.  1-1 Video, Part 1 (Freshman Geometry).ahk
 https://www.youtube.com/watch?v=xH9I1hZUQ8Y
 
-176278.  1-1 Video, Part 2 (Freshman Geometry).ahk
+4.  1-1 Video, Part 2 (Freshman Geometry).ahk
 https://www.youtube.com/watch?v=9anX_On4JBY
 
-176283.  102 yo Dancer Sees Herself on Film for the First Time.ahk
+5.  102 yo Dancer Sees Herself on Film for the First Time.ahk
 https://www.youtube.com/watch?v=bktozJWbLQg
 
-176289.  114 Geometry- Volume of Spheres.ahk
+6.  114 Geometry- Volume of Spheres.ahk
 https://www.youtube.com/watch?v=xUIw4obgOmw
 
-176296.  12-2 Absence.ahk
+7.  12-2 Absence.ahk
 https://www.youtube.com/watch?v=RUynQZOG8A8
 
-176304.  2D Area + Perimeter(Lesson 49).ahk
+8.  2D Area + Perimeter(Lesson 49).ahk
 https://www.youtube.com/watch?v=_QAh4jZ4NVA
 
-176313.  3-2 Angles formed by Parallel Lines and Transversals  GEOMETRY.ahk
+9.  3-2 Angles formed by Parallel Lines and Transversals  GEOMETRY.ahk
 https://www.youtube.com/watch?v=AztmdWk_BF4
 
-176323.  331 Geometry Circle Review Lesson.ahk
+10.  331 Geometry Circle Review Lesson.ahk
 https://www.youtube.com/watch?v=sw195o_Flmw
 
-176334.  3D Design Project.ahk
+11.  3D Design Project.ahk
 https://www.youtube.com/watch?v=XvqfxN3utgk
 
-176346.  3D RepresentationsProjections (Lesson 50).ahk
+12.  3D RepresentationsProjections (Lesson 50).ahk
 https://www.youtube.com/watch?v=BdJRAywEwXs
 
-176359.  4-6 Triangle Congruence CPCTC  GEOMETRY.ahk
+13.  4-6 Triangle Congruence CPCTC  GEOMETRY.ahk
 https://www.youtube.com/watch?v=LHx5cHP2qjE
 
-176373.  415 Geometry- 10.4 Inscribed Angles.ahk
+14.  415 Geometry- 10.4 Inscribed Angles.ahk
 https://www.youtube.com/watch?v=4-DQfANCOQM
 
-176388.  420 Geometry-  Secants and Angle Measurements.ahk
+15.  420 Geometry-  Secants and Angle Measurements.ahk
 https://www.youtube.com/watch?v=2A-zm2FkFbU
 
-176404.  422 Geometry-  Secants and Special Segment Lengths.ahk
+16.  422 Geometry-  Secants and Special Segment Lengths.ahk
 https://www.youtube.com/watch?v=KGBEOmip1SY
 
-176421.  427 Geometry-  Circles in the Coordinate Plane.ahk
+17.  427 Geometry-  Circles in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=b9ijUmQqTZ0
 
-176439.  429 Geometry-  Completing the Square to Get a Circle's Equation.ahk
+18.  429 Geometry-  Completing the Square to Get a Circle's Equation.ahk
 https://www.youtube.com/watch?v=nnfUT4Fc7To
 
-176458.  46 Geometry-  Tangent Lesson.ahk
+19.  46 Geometry-  Tangent Lesson.ahk
 https://www.youtube.com/watch?v=cDCvDht0tP0
 
-176478.  48 Geometry-  10.3 Chords Lesson.ahk
+20.  48 Geometry-  10.3 Chords Lesson.ahk
 https://www.youtube.com/watch?v=AUNZBW8UIqg
 
-176499.  5-3 Medians and Altitudes of Triangles  GEOMETRY.ahk
+21.  5-3 Medians and Altitudes of Triangles  GEOMETRY.ahk
 https://www.youtube.com/watch?v=oiDPGy3tS9A
 
-176521.  511- Geometry-  Volume of Pyramids and Cones.ahk
+22.  511- Geometry-  Volume of Pyramids and Cones.ahk
 https://www.youtube.com/watch?v=fL9oQ-ON8RQ
 
-176544.  54- Geometry- Volume of Prisms and Cylinders.ahk
+23.  54- Geometry- Volume of Prisms and Cylinders.ahk
 https://www.youtube.com/watch?v=sheSHhagy8Q
 
-176568.  Algebra Review Functions and Graphs.ahk
+24.  Algebra Review Functions and Graphs.ahk
 https://www.youtube.com/watch?v=u4U_GS8GAbo
 
-176593.  Angles Lesson Part 1 - The Basics (Simplifying Math).ahk
+25.  Angles Lesson Part 1 - The Basics (Simplifying Math).ahk
 https://www.youtube.com/watch?v=a-P337rwCTw
 
-176619.  Angles Lesson Part 2 Combining Angles (Simplifying Math).ahk
+26.  Angles Lesson Part 2 Combining Angles (Simplifying Math).ahk
 https://www.youtube.com/watch?v=2M9OElBSjWg
 
-176646.  Area & Perimeter of Quadrilaterals (Lesson 45).ahk
+27.  Area & Perimeter of Quadrilaterals (Lesson 45).ahk
 https://www.youtube.com/watch?v=nc-NyTlUk28
 
-176674.  Area of a Triangle - Geometry.ahk
+28.  Area of a Triangle - Geometry.ahk
 https://www.youtube.com/watch?v=9WJidw3rp4s
 
-176703.  Basic Geometry Foldable.ahk
+29.  Basic Geometry Foldable.ahk
 https://www.youtube.com/watch?v=jSTAmay-Ryc
 
-176733.  Basic geometry language and labels  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
+30.  Basic geometry language and labels  Introduction to Euclidean geometry  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=il0EJrY64qE
 
-176764.  Basic Geometry Polygons and Symmetry (Simplifying Math).ahk
+31.  Basic Geometry Polygons and Symmetry (Simplifying Math).ahk
 https://www.youtube.com/watch?v=6sOJ0he-o_Y
 
-176796.  Classifying Triangles Foldable.ahk
+32.  Classifying Triangles Foldable.ahk
 https://www.youtube.com/watch?v=KDeUG1NrmC8
 
-176829.  CLO Week 4 Triangle Congruence Video.ahk
+33.  CLO Week 4 Triangle Congruence Video.ahk
 https://www.youtube.com/watch?v=37LXX3383JU
 
-176863.  Common Core Geometry.Unit #1.Lesson #1.Points, Distances, and Segments.ahk
+34.  Common Core Geometry.Unit #1.Lesson #1.Points, Distances, and Segments.ahk
 https://www.youtube.com/watch?v=tS7-Rn0d7WA
 
-176898.  Common Core Geometry.Unit #1.Lesson #2.Lines, Rays and Angles.ahk
+35.  Common Core Geometry.Unit #1.Lesson #2.Lines, Rays and Angles.ahk
 https://www.youtube.com/watch?v=Dlb0aODtIWo
 
-176934.  Compass Construction Fun Pattern (Simplifying Math).ahk
+36.  Compass Construction Fun Pattern (Simplifying Math).ahk
 https://www.youtube.com/watch?v=6f1zxnQcgrM
 
-176971.  Compass Constructions Angles (Simplifying Math).ahk
+37.  Compass Constructions Angles (Simplifying Math).ahk
 https://www.youtube.com/watch?v=MaHjavqmU9Y
 
-177009.  Compass Constructions Hexagon (Simplifying Math).ahk
+38.  Compass Constructions Hexagon (Simplifying Math).ahk
 https://www.youtube.com/watch?v=wnP9Jss66_0
 
-177048.  Compass Constructions Octagon (Simplifying Math).ahk
+39.  Compass Constructions Octagon (Simplifying Math).ahk
 https://www.youtube.com/watch?v=-3yx2POWqXQ
 
-177088.  Compass Constructions Parallel Lines (Simplifying Math).ahk
+40.  Compass Constructions Parallel Lines (Simplifying Math).ahk
 https://www.youtube.com/watch?v=isMRBJrQJ-4
 
-177129.  Compass Constructions Pentagon (Simplifying Math).ahk
+41.  Compass Constructions Pentagon (Simplifying Math).ahk
 https://www.youtube.com/watch?v=TZMegInrjMc
 
-177171.  Compass Constructions Square, Octagon, 16-gon (Simplifying Math).ahk
+42.  Compass Constructions Square, Octagon, 16-gon (Simplifying Math).ahk
 https://www.youtube.com/watch?v=K_WAEBH-okE
 
-177214.  Compass Constructions Triangle, Hexagon, Dodecagon (Simplifying Math).ahk
+43.  Compass Constructions Triangle, Hexagon, Dodecagon (Simplifying Math).ahk
 https://www.youtube.com/watch?v=hWbnl0vwBDc
 
-177258.  Complementary, Supplementary & Vertical Angles - Geometry.ahk
+44.  Complementary, Supplementary & Vertical Angles - Geometry.ahk
 https://www.youtube.com/watch?v=QjwbvNdUSTk
 
-177303.  Composite Surface Area & Volume (Lesson 56).ahk
+45.  Composite Surface Area & Volume (Lesson 56).ahk
 https://www.youtube.com/watch?v=xujyVPR9Ztc
 
-177349.  Compound Conditional Statements (Simplifying Math).ahk
+46.  Compound Conditional Statements (Simplifying Math).ahk
 https://www.youtube.com/watch?v=1vhTIrOfrUc
 
-177396.  Conditional Statement (Simplifying Math).ahk
+47.  Conditional Statement (Simplifying Math).ahk
 https://www.youtube.com/watch?v=XoJ4ZRAQ_ts
 
-177444.  Congruence & Side-Side-Side (Lesson 24).ahk
+48.  Congruence & Side-Side-Side (Lesson 24).ahk
 https://www.youtube.com/watch?v=q1YCuJ2xiXg
 
-177493.  Create Geometry Diagrams On Google Doc and Desmos.ahk
+49.  Create Geometry Diagrams On Google Doc and Desmos.ahk
 https://www.youtube.com/watch?v=46BnXbGnxiU
 
-177543.  David Harbour's Very Weird One-Man Show - After Hours with Josh Horowitz (1095101).ahk
+50.  David Harbour's Very Weird One-Man Show - After Hours with Josh Horowitz (1095101).ahk
 https://www.youtube.com/watch?v=T9Omt25R-qM
 
-177594.  David Harbour's Very Weird One-Man Show - After Hours with Josh Horowitz.ahk
+51.  David Harbour's Very Weird One-Man Show - After Hours with Josh Horowitz.ahk
 https://www.youtube.com/watch?v=T9Omt25R-qM
 
-177646.  Dilation and Scale Factor Part 1 (Simplifying Math).ahk
+52.  Dilation and Scale Factor Part 1 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=rUv0HhlKxN0
 
-177699.  Dilation and Scale Factor Part 2 (Simplifying Math).ahk
+53.  Dilation and Scale Factor Part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=Vvzzz-dPYWs
 
-177753.  Dilation Part 2 (Lesson 29).ahk
+54.  Dilation Part 2 (Lesson 29).ahk
 https://www.youtube.com/watch?v=jsBLxMWz088
 
-177808.  Dilations Part 1 (Lesson 28).ahk
+55.  Dilations Part 1 (Lesson 28).ahk
 https://www.youtube.com/watch?v=coAWf2DbWqs
 
-177864.  Distance, Midpoint, Slope - Lesson 47.ahk
+56.  Distance, Midpoint, Slope - Lesson 47.ahk
 https://www.youtube.com/watch?v=kw1RQAtD7WA
 
-177921.  Draw a Circle using only Straight Lines (Simplifying Math).ahk
+57.  Draw a Circle using only Straight Lines (Simplifying Math).ahk
 https://www.youtube.com/watch?v=Bj1Zc0GGOaw
 
-177979.  Drawing 101102 (Lesson 48).ahk
+58.  Drawing 101102 (Lesson 48).ahk
 https://www.youtube.com/watch?v=y2_8Oo2Td7Q
 
-178038.  eMath Geometry Regents Live Review 2018 Hours 1 and 2.ahk
+59.  eMath Geometry Regents Live Review 2018 Hours 1 and 2.ahk
 https://www.youtube.com/watch?v=bgO7IieFJF4
 
-178098.  eMath Geometry Review 2019 Hours 1 and 2.ahk
+60.  eMath Geometry Review 2019 Hours 1 and 2.ahk
 https://www.youtube.com/watch?v=z182DmZgqHQ
 
-178159.  eMath Instruction Instagram Live Geometry Review Session.ahk
+61.  eMath Instruction Instagram Live Geometry Review Session.ahk
 https://www.youtube.com/watch?v=sMjPhVBvh_k
 
-178221.  Finding Geometry Assignments.ahk
+62.  Finding Geometry Assignments.ahk
 https://www.youtube.com/watch?v=qqk9eJ3fqZg
 
-178284.  Flip Slide Turn Shrink Transformations (Simplifying Math).ahk
+63.  Flip Slide Turn Shrink Transformations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=BaqR926zhTc
 
-178348.  Geo 1 Symbols 1.ahk
+64.  Geo 1 Symbols 1.ahk
 https://www.youtube.com/watch?v=4eS-ldpfQ9I
 
-178413.  Geo 1 Trial.ahk
+65.  Geo 1 Trial.ahk
 https://www.youtube.com/watch?v=AEL2Mgn7i48
 
-178479.  Geo 2 Symbols.ahk
+66.  Geo 2 Symbols.ahk
 https://www.youtube.com/watch?v=mQonT3tI75A
 
-178546.  Geometric Arguments (Simplifying Math).ahk
+67.  Geometric Arguments (Simplifying Math).ahk
 https://www.youtube.com/watch?v=N-QgKzRBBS8
 
-178614.  Geometric Properties (Simplifying Math).ahk
+68.  Geometric Properties (Simplifying Math).ahk
 https://www.youtube.com/watch?v=BN36awt9004
 
-178683.  Geometry - Angle Relationships Flipbook.ahk
+69.  Geometry - Angle Relationships Flipbook.ahk
 https://www.youtube.com/watch?v=iv4ayvzhCH8
 
-178753.  Geometry - Castle Assignment - Circles.ahk
+70.  Geometry - Castle Assignment - Circles.ahk
 https://www.youtube.com/watch?v=3lZxWoS1EXg
 
-178824.  Geometry - Castle Assignment - Distance, Midpoint, Partition Review.ahk
+71.  Geometry - Castle Assignment - Distance, Midpoint, Partition Review.ahk
 https://www.youtube.com/watch?v=KIhaLP_AsOI
 
-178896.  Geometry - Castle Assignment - Regents Prep #3.ahk
+72.  Geometry - Castle Assignment - Regents Prep #3.ahk
 https://www.youtube.com/watch?v=33XB1q4NTps
 
-178969.  Geometry - Intro to Trigonometry.ahk
+73.  Geometry - Intro to Trigonometry.ahk
 https://www.youtube.com/watch?v=v8d9__CN5dM
 
-179043.  Geometry - Inverse Trig on a Calculator.ahk
+74.  Geometry - Inverse Trig on a Calculator.ahk
 https://www.youtube.com/watch?v=itQclB4SzrQ
 
-179118.  Geometry - Proofs for Triangles.ahk
+75.  Geometry - Proofs for Triangles.ahk
 https://www.youtube.com/watch?v=FSJX0EMCZM0
 
-179194.  Geometry - Pythagorean Spiral Project.ahk
+76.  Geometry - Pythagorean Spiral Project.ahk
 https://www.youtube.com/watch?v=v6MxJ42hB-w
 
-179271.  Geometry - RECAP -  Unit #8, Lesson #2 - Trig Ratios.ahk
+77.  Geometry - RECAP -  Unit #8, Lesson #2 - Trig Ratios.ahk
 https://www.youtube.com/watch?v=HTCqAASsk1U
 
-179349.  Geometry - RECAP - Unit #8, Lesson #1 - Similar Right Triangles.ahk
+78.  Geometry - RECAP - Unit #8, Lesson #1 - Similar Right Triangles.ahk
 https://www.youtube.com/watch?v=akIvkfl10dg
 
-179428.  Geometry - Spirograph Project.ahk
+79.  Geometry - Spirograph Project.ahk
 https://www.youtube.com/watch?v=KzUsVXORYyc
 
-179508.  Geometry - Trigonometry Pile Up Puzzle Intro.ahk
+80.  Geometry - Trigonometry Pile Up Puzzle Intro.ahk
 https://www.youtube.com/watch?v=9A591R-regs
 
-179589.  Geometry - Unit #10, Lesson #10 - Volume of Spheres.ahk
+81.  Geometry - Unit #10, Lesson #10 - Volume of Spheres.ahk
 https://www.youtube.com/watch?v=LETc6MKDKgU
 
-179671.  Geometry - Unit #10, Lesson #11 - Volume of Truncated Cones and Pyramids.ahk
+82.  Geometry - Unit #10, Lesson #11 - Volume of Truncated Cones and Pyramids.ahk
 https://www.youtube.com/watch?v=EHlHZX5gnvc
 
-179754.  Geometry - Unit #10, Lesson #2 - Circumference of a Circle.ahk
+83.  Geometry - Unit #10, Lesson #2 - Circumference of a Circle.ahk
 https://www.youtube.com/watch?v=IP4xd4xupl4
 
-179838.  Geometry - Unit #10, Lesson #3 - Area of Polygons.ahk
+84.  Geometry - Unit #10, Lesson #3 - Area of Polygons.ahk
 https://www.youtube.com/watch?v=rH908SUVwaQ
 
-179923.  Geometry - Unit #10, Lesson #4 - Area of a Circle.ahk
+85.  Geometry - Unit #10, Lesson #4 - Area of a Circle.ahk
 https://www.youtube.com/watch?v=NRb7BscQ3UQ
 
-180009.  Geometry - Unit #10, Lesson #5 - Sectors of a Circle.ahk
+86.  Geometry - Unit #10, Lesson #5 - Sectors of a Circle.ahk
 https://www.youtube.com/watch?v=XTkar4J4-Us
 
-180096.  Geometry - Unit #10, Lesson #7 - Solids and Their Cross Sections.ahk
+87.  Geometry - Unit #10, Lesson #7 - Solids and Their Cross Sections.ahk
 https://www.youtube.com/watch?v=ujtwLBLMP_o
 
-180184.  Geometry - Unit #10, Lesson #8 - Volume of Prisms and Cylinders.ahk
+88.  Geometry - Unit #10, Lesson #8 - Volume of Prisms and Cylinders.ahk
 https://www.youtube.com/watch?v=lTOKJqbG0hc
 
-180273.  Geometry - Unit #10, Lesson #9 - Volume of Pyramids and Cones.ahk
+89.  Geometry - Unit #10, Lesson #9 - Volume of Pyramids and Cones.ahk
 https://www.youtube.com/watch?v=cb1G0MSzic4
 
-180363.  Geometry - Unit #8, Lesson #1 - Similar Right Triangles.ahk
+90.  Geometry - Unit #8, Lesson #1 - Similar Right Triangles.ahk
 https://www.youtube.com/watch?v=EMoxuueP7xY
 
-180454.  Geometry - Unit #8, Lesson #2 - The Trigonometric Ratios.ahk
+91.  Geometry - Unit #8, Lesson #2 - The Trigonometric Ratios.ahk
 https://www.youtube.com/watch?v=dC358AoYr5U
 
-180546.  Geometry - Unit #8, Lesson #3 - Trig and the Calc Recap.ahk
+92.  Geometry - Unit #8, Lesson #3 - Trig and the Calc Recap.ahk
 https://www.youtube.com/watch?v=LOEfUS4Y_W4
 
-180639.  Geometry - Unit #8, Lesson #4 - Solving Trig Ratios.ahk
+93.  Geometry - Unit #8, Lesson #4 - Solving Trig Ratios.ahk
 https://www.youtube.com/watch?v=k57ob5RWEi4
 
-180733.  Geometry -- Lesson 4.4 & 4.5 -- SSS, SAS, ASA, AAS.ahk
+94.  Geometry -- Lesson 4.4 & 4.5 -- SSS, SAS, ASA, AAS.ahk
 https://www.youtube.com/watch?v=pZZADeU3khw
 
-180828.  Geometry 1.2 - Points, Lines, & Planes.ahk
+95.  Geometry 1.2 - Points, Lines, & Planes.ahk
 https://www.youtube.com/watch?v=NPAMxXvJtBo
 
-180924.  Geometry 1.3 - Measuring Segments.ahk
+96.  Geometry 1.3 - Measuring Segments.ahk
 https://www.youtube.com/watch?v=YcwSDAs7upQ
 
-181021.  Geometry 1.4 - Measuring Angles.ahk
+97.  Geometry 1.4 - Measuring Angles.ahk
 https://www.youtube.com/watch?v=v1tiHxjEc8U
 
-181119.  Geometry 1.5 - Pairs of Angles.ahk
+98.  Geometry 1.5 - Pairs of Angles.ahk
 https://www.youtube.com/watch?v=NSD_0DtUVQc
 
-181218.  Geometry 1.7 - Midpoint & Distance.ahk
+99.  Geometry 1.7 - Midpoint & Distance.ahk
 https://www.youtube.com/watch?v=l7-qLk5tjOs
 
-181318.  Geometry 1.8 - Perimeter, Area, & Circumference.ahk
+100.  Geometry 1.8 - Perimeter, Area, & Circumference.ahk
 https://www.youtube.com/watch?v=Tz3uglV9gmo
 
-181419.  Geometry 10.1 - Area of Parallelograms & Triangles.ahk
+101.  Geometry 10.1 - Area of Parallelograms & Triangles.ahk
 https://www.youtube.com/watch?v=kM8-mCfymlQ
 
-181521.  Geometry 10.2 - Area of Trapezoids, Rhombuses & Kites.ahk
+102.  Geometry 10.2 - Area of Trapezoids, Rhombuses & Kites.ahk
 https://www.youtube.com/watch?v=7oozNYagn4s
 
-181624.  Geometry 10.3 - Areas of Regular Polygons.ahk
+103.  Geometry 10.3 - Areas of Regular Polygons.ahk
 https://www.youtube.com/watch?v=sh6mA6cW0bI
 
-181728.  Geometry 10.4 - Perimeter & Area of Similar Figures.ahk
+104.  Geometry 10.4 - Perimeter & Area of Similar Figures.ahk
 https://www.youtube.com/watch?v=B_vjg1WDoRs
 
-181833.  Geometry 10.5 - Trigonometry and Area.ahk
+105.  Geometry 10.5 - Trigonometry and Area.ahk
 https://www.youtube.com/watch?v=GXW31Cf-Enw
 
-181939.  Geometry 10.8 - Composite Figures.ahk
+106.  Geometry 10.8 - Composite Figures.ahk
 https://www.youtube.com/watch?v=TkhqaYYYUHY
 
-182046.  Geometry 2.1 - Patterns & Inductive Reasoning.ahk
+107.  Geometry 2.1 - Patterns & Inductive Reasoning.ahk
 https://www.youtube.com/watch?v=kCMJt0IefpA
 
-182154.  Geometry 2.2 - Conditionals.ahk
+108.  Geometry 2.2 - Conditionals.ahk
 https://www.youtube.com/watch?v=hVqUEAnGBLg
 
-182263.  Geometry 2.2 - Negations, Converse, Inverse, & Contrapositive.ahk
+109.  Geometry 2.2 - Negations, Converse, Inverse, & Contrapositive.ahk
 https://www.youtube.com/watch?v=9gj-bzHgGOk
 
-182373.  Geometry 2.3 - Bi-Conditionals & Definitions.ahk
+110.  Geometry 2.3 - Bi-Conditionals & Definitions.ahk
 https://www.youtube.com/watch?v=KXEhZ_tsa7M
 
-182484.  Geometry 2.4 - Deductive Reasoning.ahk
+111.  Geometry 2.4 - Deductive Reasoning.ahk
 https://www.youtube.com/watch?v=jyaxZKbu7i4
 
-182596.  Geometry 2.5 - Reasoning in Algebra & Geometry.ahk
+112.  Geometry 2.5 - Reasoning in Algebra & Geometry.ahk
 https://www.youtube.com/watch?v=6luqqWdDnCc
 
-182709.  Geometry 2.6 - Introduction to Proofs (1).ahk
+113.  Geometry 2.6 - Introduction to Proofs (1).ahk
 https://www.youtube.com/watch?v=VSxAvbKedaQ
 
-182823.  Geometry 2.6 - Proofs & Reasoning Continued (2).ahk
+114.  Geometry 2.6 - Proofs & Reasoning Continued (2).ahk
 https://www.youtube.com/watch?v=e7DubcDDdu4
 
-182938.  Geometry 3.1 - Lines & Angles.ahk
+115.  Geometry 3.1 - Lines & Angles.ahk
 https://www.youtube.com/watch?v=V6vn8ckmHjo
 
-183054.  Geometry 3.2 - Parallel Lines & Transversals.ahk
+116.  Geometry 3.2 - Parallel Lines & Transversals.ahk
 https://www.youtube.com/watch?v=mSD9qLpNPPY
 
-183171.  Geometry 3.3 - Proving Lines Parallel.ahk
+117.  Geometry 3.3 - Proving Lines Parallel.ahk
 https://www.youtube.com/watch?v=pYNNkUR10lA
 
-183289.  Geometry 3.5 - Parallel Lines & Triangles.ahk
+118.  Geometry 3.5 - Parallel Lines & Triangles.ahk
 https://www.youtube.com/watch?v=9gznwlOKgC8
 
-183408.  Geometry 3.7 - Lines in the Coordinate Plane.ahk
+119.  Geometry 3.7 - Lines in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=-AjDTV54920
 
-183528.  Geometry 3.8 - Parallel & Perpendicular Lines.ahk
+120.  Geometry 3.8 - Parallel & Perpendicular Lines.ahk
 https://www.youtube.com/watch?v=ncuxEs_MG_A
 
-183649.  Geometry 30-60-90 Special Right Triangles.ahk
+121.  Geometry 30-60-90 Special Right Triangles.ahk
 https://www.youtube.com/watch?v=m11Q_nQyY9c
 
-183771.  Geometry 4.1 - Congruent Figures.ahk
+122.  Geometry 4.1 - Congruent Figures.ahk
 https://www.youtube.com/watch?v=2_udh2p3FQY
 
-183894.  Geometry 4.2 - Triangle Congruence SSS & SAS.ahk
+123.  Geometry 4.2 - Triangle Congruence SSS & SAS.ahk
 https://www.youtube.com/watch?v=xnv-Uw3D_vw
 
-184018.  Geometry 4.3 - Triangle Congruence ASA & AAS.ahk
+124.  Geometry 4.3 - Triangle Congruence ASA & AAS.ahk
 https://www.youtube.com/watch?v=SDxd64vlkjg
 
-184143.  Geometry 4.4 - Corresponding Parts of Congruent Triangles.ahk
+125.  Geometry 4.4 - Corresponding Parts of Congruent Triangles.ahk
 https://www.youtube.com/watch?v=Na824vmiRl4
 
-184269.  Geometry 4.5 - Isosceles & Equilateral Triangles.ahk
+126.  Geometry 4.5 - Isosceles & Equilateral Triangles.ahk
 https://www.youtube.com/watch?v=cwVX0-9MMKQ
 
-184396.  Geometry 4.6 - Congruence in Right Triangles HL.ahk
+127.  Geometry 4.6 - Congruence in Right Triangles HL.ahk
 https://www.youtube.com/watch?v=GbUdtOtUQTw
 
-184524.  Geometry 45-45-90 Zoom Video.ahk
+128.  Geometry 45-45-90 Zoom Video.ahk
 https://www.youtube.com/watch?v=VB2VlJGrReI
 
-184653.  Geometry 5.1 - Midsegments of Triangles.ahk
+129.  Geometry 5.1 - Midsegments of Triangles.ahk
 https://www.youtube.com/watch?v=bpN4on2fpDQ
 
-184783.  Geometry 5.2 - Perpendicular and Angle Bisectors.ahk
+130.  Geometry 5.2 - Perpendicular and Angle Bisectors.ahk
 https://www.youtube.com/watch?v=32tjlHPAx9I
 
-184914.  Geometry 5.4 - Medians, Altitudes, & Angle Bisectors.ahk
+131.  Geometry 5.4 - Medians, Altitudes, & Angle Bisectors.ahk
 https://www.youtube.com/watch?v=T2dXce7FH6k
 
-185046.  Geometry 5.6 - Inequalities in One Triangle.ahk
+132.  Geometry 5.6 - Inequalities in One Triangle.ahk
 https://www.youtube.com/watch?v=cKsaZmlXFzQ
 
-185179.  Geometry 6.1 - Classifying Polygons & Angle Sum Theorems.ahk
+133.  Geometry 6.1 - Classifying Polygons & Angle Sum Theorems.ahk
 https://www.youtube.com/watch?v=D9gNtctjTt8
 
-185313.  Geometry 6.2 - Properties of Parallelograms.ahk
+134.  Geometry 6.2 - Properties of Parallelograms.ahk
 https://www.youtube.com/watch?v=BpwyyCuNDFQ
 
-185448.  Geometry 6.3 - Proving with Properties of Parallelograms.ahk
+135.  Geometry 6.3 - Proving with Properties of Parallelograms.ahk
 https://www.youtube.com/watch?v=Groc1uXe2yE
 
-185584.  Geometry 6.4 & 6.5 - Properties of Rhombuses, Rectangles, & Squares.ahk
+136.  Geometry 6.4 & 6.5 - Properties of Rhombuses, Rectangles, & Squares.ahk
 https://www.youtube.com/watch?v=mdHtTBxmw0E
 
-185721.  Geometry 6.6 - Properties of Trapezoids & Kites.ahk
+137.  Geometry 6.6 - Properties of Trapezoids & Kites.ahk
 https://www.youtube.com/watch?v=VKXb6Negw-k
 
-185859.  Geometry 6.7 - Classifying Quadrilaterals in the Coordinate Plane.ahk
+138.  Geometry 6.7 - Classifying Quadrilaterals in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=6VHhonh7RcM
 
-185998.  Geometry 7.1 - Ratios & Proportions.ahk
+139.  Geometry 7.1 - Ratios & Proportions.ahk
 https://www.youtube.com/watch?v=5iF0W3YrCzs
 
-186138.  Geometry 7.2 - Similar Polygons.ahk
+140.  Geometry 7.2 - Similar Polygons.ahk
 https://www.youtube.com/watch?v=t8xPUXyUsaY
 
-186279.  Geometry 7.3 - Proving Triangles Similar.ahk
+141.  Geometry 7.3 - Proving Triangles Similar.ahk
 https://www.youtube.com/watch?v=ZBrT6_EAE4s
 
-186421.  Geometry 7.4 - Similarity in Right Triangles.ahk
+142.  Geometry 7.4 - Similarity in Right Triangles.ahk
 https://www.youtube.com/watch?v=qn5OGwtadCw
 
-186564.  Geometry 7.5 - Proportions in Triangles.ahk
+143.  Geometry 7.5 - Proportions in Triangles.ahk
 https://www.youtube.com/watch?v=XR-wyktqeJo
 
-186708.  Geometry 8.0 - Radical Expressions.ahk
+144.  Geometry 8.0 - Radical Expressions.ahk
 https://www.youtube.com/watch?v=slbYU5aNVd8
 
-186853.  Geometry 8.1 - Pythagorean Theorem (1).ahk
+145.  Geometry 8.1 - Pythagorean Theorem (1).ahk
 https://www.youtube.com/watch?v=F5IQbFNvUWA
 
-186999.  Geometry 8.1 - Pythagorean Theorem (2).ahk
+146.  Geometry 8.1 - Pythagorean Theorem (2).ahk
 https://www.youtube.com/watch?v=s8DwMZr1BO0
 
-187146.  Geometry 8.1,2,3 - Transformations (2).ahk
+147.  Geometry 8.1,2,3 - Transformations (2).ahk
 https://www.youtube.com/watch?v=lxGTMmWag1Y
 
-187294.  Geometry 8.2 - Special Right Triangles.ahk
+148.  Geometry 8.2 - Special Right Triangles.ahk
 https://www.youtube.com/watch?v=GHU6KuM1T1E
 
-187443.  Geometry 8.3 - Trigonometry (1).ahk
+149.  Geometry 8.3 - Trigonometry (1).ahk
 https://www.youtube.com/watch?v=jv8TtjgMA-8
 
-187593.  Geometry 8.3 - Trigonometry (2).ahk
+150.  Geometry 8.3 - Trigonometry (2).ahk
 https://www.youtube.com/watch?v=3V8H4Q_UCsQ
 
-187744.  Geometry 8.4 - Angles of Elevation & Depression.ahk
+151.  Geometry 8.4 - Angles of Elevation & Depression.ahk
 https://www.youtube.com/watch?v=Hgc6hZEF3QA
 
-187896.  Geometry 9.1,2,3 - Transformations (1).ahk
+152.  Geometry 9.1,2,3 - Transformations (1).ahk
 https://www.youtube.com/watch?v=VyBQ8HdibYg
 
-188049.  Geometry 9.5 - Symmetry.ahk
+153.  Geometry 9.5 - Symmetry.ahk
 https://www.youtube.com/watch?v=pL6IwjQbhoo
 
-188203.  Geometry 9.6 - Dilations.ahk
+154.  Geometry 9.6 - Dilations.ahk
 https://www.youtube.com/watch?v=6gPhCGbFxQI
 
-188358.  Geometry Arcs and Chords on a Circle (Simplifying Math).ahk
+155.  Geometry Arcs and Chords on a Circle (Simplifying Math).ahk
 https://www.youtube.com/watch?v=AtNg0InzZWU
 
-188514.  Geometry Benchmark #3 Review Brochure.ahk
+156.  Geometry Benchmark #3 Review Brochure.ahk
 https://www.youtube.com/watch?v=9wTzB5CSpJA
 
-188671.  Geometry Circles in and around Triangles (Simplifying Math).ahk
+157.  Geometry Circles in and around Triangles (Simplifying Math).ahk
 https://www.youtube.com/watch?v=HKewihwADtY
 
-188829.  Geometry Compass Constructions (Simplifying Math).ahk
+158.  Geometry Compass Constructions (Simplifying Math).ahk
 https://www.youtube.com/watch?v=3zWXbfiQ4Xw
 
-188988.  Geometry Introduction to Geometry (Level 1 of 7)  Basics.ahk
+159.  Geometry Introduction to Geometry (Level 1 of 7)  Basics.ahk
 https://www.youtube.com/watch?v=OgNH3xrhtdg
 
-189148.  Geometry Lesson 1 - Building Blocks of Geometry.ahk
+160.  Geometry Lesson 1 - Building Blocks of Geometry.ahk
 https://www.youtube.com/watch?v=lJaikI1xbU8
 
-189309.  Geometry Lesson 1 Points, Lines and Planes (Simplifying Math).ahk
+161.  Geometry Lesson 1 Points, Lines and Planes (Simplifying Math).ahk
 https://www.youtube.com/watch?v=_XQSau4HA7o
 
-189471.  Geometry Lesson 1.ahk
+162.  Geometry Lesson 1.ahk
 https://www.youtube.com/watch?v=o0FHk7QuKS8
 
-189634.  Geometry Lesson 10 Rotations.ahk
+163.  Geometry Lesson 10 Rotations.ahk
 https://www.youtube.com/watch?v=CrwYh_-3uYY
 
-189798.  Geometry Lesson 11 Combos Part 1.ahk
+164.  Geometry Lesson 11 Combos Part 1.ahk
 https://www.youtube.com/watch?v=UZ5yJ7cuH68
 
-189963.  Geometry Lesson 12 Combos Part 2.ahk
+165.  Geometry Lesson 12 Combos Part 2.ahk
 https://www.youtube.com/watch?v=bSRo9Xq-tYk
 
-190129.  Geometry Lesson 13 Symmetry.ahk
+166.  Geometry Lesson 13 Symmetry.ahk
 https://www.youtube.com/watch?v=zYtD9nvmaio
 
-190296.  Geometry Lesson 14 Angle Pairs.ahk
+167.  Geometry Lesson 14 Angle Pairs.ahk
 https://www.youtube.com/watch?v=npXNcPBv1Sw
 
-190464.  Geometry Lesson 15 Special Angle Measures.ahk
+168.  Geometry Lesson 15 Special Angle Measures.ahk
 https://www.youtube.com/watch?v=jFiTG0CLHh4
 
-190633.  Geometry Lesson 16 Parallel Lines & Transversal.ahk
+169.  Geometry Lesson 16 Parallel Lines & Transversal.ahk
 https://www.youtube.com/watch?v=OEXsROcXyd0
 
-190803.  Geometry Lesson 17 Angle Relationships with Algebra.ahk
+170.  Geometry Lesson 17 Angle Relationships with Algebra.ahk
 https://www.youtube.com/watch?v=xDdnpNw970Q
 
-190974.  Geometry Lesson 18 Algebra Proofs.ahk
+171.  Geometry Lesson 18 Algebra Proofs.ahk
 https://www.youtube.com/watch?v=Ni4IlAtLXMU
 
-191146.  Geometry Lesson 19 Geometry Proofs #1.ahk
+172.  Geometry Lesson 19 Geometry Proofs #1.ahk
 https://www.youtube.com/watch?v=4u95fybIp9k
 
-191319.  Geometry Lesson 2 (1852135).ahk
+173.  Geometry Lesson 2 (1852135).ahk
 https://www.youtube.com/watch?v=y3p53MGLkWI
 
-191493.  Geometry Lesson 2 - Measuring Length.ahk
+174.  Geometry Lesson 2 - Measuring Length.ahk
 https://www.youtube.com/watch?v=3KdzeeIGHxg
 
-191668.  Geometry Lesson 2.ahk
+175.  Geometry Lesson 2.ahk
 https://www.youtube.com/watch?v=XZBCgWYsLr8
 
-191844.  Geometry Lesson 20 Angle Hopping.ahk
+176.  Geometry Lesson 20 Angle Hopping.ahk
 https://www.youtube.com/watch?v=f2wN1QmNTf8
 
-192021.  Geometry Lesson 21 Prove Lines Parallel.ahk
+177.  Geometry Lesson 21 Prove Lines Parallel.ahk
 https://www.youtube.com/watch?v=aaj4ACcWuoQ
 
-192199.  Geometry Lesson 22 Types of Triangles.ahk
+178.  Geometry Lesson 22 Types of Triangles.ahk
 https://www.youtube.com/watch?v=jMvHccH0DBE
 
-192378.  Geometry Lesson 3 - Measuring Angles.ahk
+179.  Geometry Lesson 3 - Measuring Angles.ahk
 https://www.youtube.com/watch?v=VOUtKue7nQs
 
-192558.  Geometry Lesson 3 part 1.ahk
+180.  Geometry Lesson 3 part 1.ahk
 https://www.youtube.com/watch?v=ELUYScTP2x0
 
-192739.  Geometry Lesson 3 part 2.ahk
+181.  Geometry Lesson 3 part 2.ahk
 https://www.youtube.com/watch?v=4VYUmBO0a5s
 
-192921.  Geometry Lesson 3.5 - Basic Constructions Part 1 of 2.ahk
+182.  Geometry Lesson 3.5 - Basic Constructions Part 1 of 2.ahk
 https://www.youtube.com/watch?v=pfYLDJRpVNc
 
-193104.  Geometry Lesson 3.5 - Basic Constructions Part 2 of 2.ahk
+183.  Geometry Lesson 3.5 - Basic Constructions Part 2 of 2.ahk
 https://www.youtube.com/watch?v=XKSxFhPuADk
 
-193288.  Geometry Lesson 3.ahk
+184.  Geometry Lesson 3.ahk
 https://www.youtube.com/watch?v=oljOnMHMQug
 
-193473.  Geometry Lesson 4 (1975876).ahk
+185.  Geometry Lesson 4 (1975876).ahk
 https://www.youtube.com/watch?v=uFzlXSxwdbI
 
-193659.  Geometry Lesson 4 - Special Points in Triangles.ahk
+186.  Geometry Lesson 4 - Special Points in Triangles.ahk
 https://www.youtube.com/watch?v=mAz3WiKqf7E
 
-193846.  Geometry Lesson 4.ahk
+187.  Geometry Lesson 4.ahk
 https://www.youtube.com/watch?v=_Fp3BD2wO9Y
 
-194034.  Geometry Lesson 5 - Properties of Parallel Lines Part 1 of 2.ahk
+188.  Geometry Lesson 5 - Properties of Parallel Lines Part 1 of 2.ahk
 https://www.youtube.com/watch?v=AE3Pqhlvqw0
 
-194223.  Geometry Lesson 5 Part 1.ahk
+189.  Geometry Lesson 5 Part 1.ahk
 https://www.youtube.com/watch?v=6Elmj0dme0c
 
-194413.  Geometry Lesson 5 Part 2.ahk
+190.  Geometry Lesson 5 Part 2.ahk
 https://www.youtube.com/watch?v=xpCI7udp31g
 
-194604.  Geometry Lesson 5 Part 3.ahk
+191.  Geometry Lesson 5 Part 3.ahk
 https://www.youtube.com/watch?v=UkU1TSKC7MQ
 
-194796.  Geometry Lesson 5.ahk
+192.  Geometry Lesson 5.ahk
 https://www.youtube.com/watch?v=8a5CTtIC5NY
 
-194989.  Geometry Lesson 6 - Parallel Lines and the Triangle Angle-Sum Theorem.ahk
+193.  Geometry Lesson 6 - Parallel Lines and the Triangle Angle-Sum Theorem.ahk
 https://www.youtube.com/watch?v=-KKw3VkjdNE
 
-195183.  Geometry Lesson 6.ahk
+194.  Geometry Lesson 6.ahk
 https://www.youtube.com/watch?v=zakhVngkgnA
 
-195378.  Geometry Lesson 7 - Polygon Angle-Sum Theorem Part 1 of 2.ahk
+195.  Geometry Lesson 7 - Polygon Angle-Sum Theorem Part 1 of 2.ahk
 https://www.youtube.com/watch?v=XL7KhYtXHrQ
 
-195574.  Geometry Lesson 7.ahk
+196.  Geometry Lesson 7.ahk
 https://www.youtube.com/watch?v=WAutjEos5j0
 
-195771.  Geometry Lesson 8 - Lines in the Coordinate Plane.ahk
+197.  Geometry Lesson 8 - Lines in the Coordinate Plane.ahk
 https://www.youtube.com/watch?v=qcgTVAqX31E
 
-195969.  Geometry Lesson 8 Translations.ahk
+198.  Geometry Lesson 8 Translations.ahk
 https://www.youtube.com/watch?v=BIazWnCIHtU
 
-196168.  Geometry Lesson 9 Reflections.ahk
+199.  Geometry Lesson 9 Reflections.ahk
 https://www.youtube.com/watch?v=houaOFob-ms
 
-196368.  Geometry Lesson Compass Constructions (Simplifying Math).ahk
+200.  Geometry Lesson Compass Constructions (Simplifying Math).ahk
 https://www.youtube.com/watch?v=d8JbfVRnVoY
 
-196569.  Geometry Lesson Postulates, Theorems and Proofs (Simplifying Math).ahk
+201.  Geometry Lesson Postulates, Theorems and Proofs (Simplifying Math).ahk
 https://www.youtube.com/watch?v=FEO4FYdXpIA
 
-196771.  Geometry Lines & Angles Songs For Kids  3rd Grade - 5th Grade.ahk
+202.  Geometry Lines & Angles Songs For Kids  3rd Grade - 5th Grade.ahk
 https://www.youtube.com/watch?v=zJJiF-dVYTc
 
-196974.  Geometry Unit 1 Review.ahk
+203.  Geometry Unit 1 Review.ahk
 https://www.youtube.com/watch?v=IIGQMY-Y5ls
 
-197178.  Geometry Unit B Review.ahk
+204.  Geometry Unit B Review.ahk
 https://www.youtube.com/watch?v=MKL19yaK6O4
 
-197383.  Geometry Unit C Review.ahk
+205.  Geometry Unit C Review.ahk
 https://www.youtube.com/watch?v=yjdFG2Z_BvU
 
-197589.  Geometry Unit D Review.ahk
+206.  Geometry Unit D Review.ahk
 https://www.youtube.com/watch?v=yrUOrMwHChI
 
-197796.  Geometry Unit E Review.ahk
+207.  Geometry Unit E Review.ahk
 https://www.youtube.com/watch?v=PvWFWzff11s
 
-198004.  Heron’s Formula.ahk
+208.  Heron’s Formula.ahk
 https://www.youtube.com/watch?v=rFn0tZDa_0U
 
-198213.  How do you find the center of a circle  (Geometry).ahk
+209.  How do you find the center of a circle  (Geometry).ahk
 https://www.youtube.com/watch?v=kGz_7OcU4EM
 
-198423.  How to Solve a Square Root by Hand - MindPower009.ahk
+210.  How to Solve a Square Root by Hand - MindPower009.ahk
 https://www.youtube.com/watch?v=GvTFfLGCMV4
 
-198634.  How to take a prepost test.ahk
+211.  How to take a prepost test.ahk
 https://www.youtube.com/watch?v=FM9Qv0Qz_mI
 
-198846.  Intro To Quadrilaterals (Lesson 39).ahk
+212.  Intro To Quadrilaterals (Lesson 39).ahk
 https://www.youtube.com/watch?v=gosDw7ZkHng
 
-199059.  Introduction to angles using degrees  (Geometry).ahk
+213.  Introduction to angles using degrees  (Geometry).ahk
 https://www.youtube.com/watch?v=yzUqxWgtLyY
 
-199273.  Introduction to Geometry.ahk
+214.  Introduction to Geometry.ahk
 https://www.youtube.com/watch?v=302eJ3TzJQU
 
-199488.  Introduction to Polygons - Geometry.ahk
+215.  Introduction to Polygons - Geometry.ahk
 https://www.youtube.com/watch?v=LfPDFGvGbqk
 
-199704.  Introduction to the Pythagorean Theorem  (Geometry).ahk
+216.  Introduction to the Pythagorean Theorem  (Geometry).ahk
 https://www.youtube.com/watch?v=nQl13Zz2jOs
 
-199921.  Isosceles & Equilateral Triangles (Lesson 27).ahk
+217.  Isosceles & Equilateral Triangles (Lesson 27).ahk
 https://www.youtube.com/watch?v=wWY5OfdwspM
 
-200139.  Lesson 1 2 Notes, Part 1.ahk
+218.  Lesson 1 2 Notes, Part 1.ahk
 https://www.youtube.com/watch?v=RAZhaj-LKnc
 
-200358.  Lesson 1 2, Part 2.ahk
+219.  Lesson 1 2, Part 2.ahk
 https://www.youtube.com/watch?v=qqa2xkXxYXw
 
-200578.  Lesson 1-3.ahk
+220.  Lesson 1-3.ahk
 https://www.youtube.com/watch?v=tFXff-JeZpM
 
-200799.  Lesson 1-4.ahk
+221.  Lesson 1-4.ahk
 https://www.youtube.com/watch?v=gTjPkeT3jyc
 
-201021.  Lesson 1-5.ahk
+222.  Lesson 1-5.ahk
 https://www.youtube.com/watch?v=BMZzOqZnpG8
 
-201244.  Lesson 10-1 -- Circles and Circumference.ahk
+223.  Lesson 10-1 -- Circles and Circumference.ahk
 https://www.youtube.com/watch?v=E8mQU1oKQsM
 
-201468.  Lesson 10-2 (Part 1) -- Measuring Angles and Arcs.ahk
+224.  Lesson 10-2 (Part 1) -- Measuring Angles and Arcs.ahk
 https://www.youtube.com/watch?v=JYUxOjvJE-A
 
-201693.  Lesson 10-2 (Part 2) -- Measuring Angles and Arcs.ahk
+225.  Lesson 10-2 (Part 2) -- Measuring Angles and Arcs.ahk
 https://www.youtube.com/watch?v=rnZplyZ_6bg
 
-201919.  Lesson 10-3 (Part 1) -- Arcs and Chords.ahk
+226.  Lesson 10-3 (Part 1) -- Arcs and Chords.ahk
 https://www.youtube.com/watch?v=BUDSxa2yDew
 
-202146.  Lesson 10-3 (Part 2) -- Arcs and Chords.ahk
+227.  Lesson 10-3 (Part 2) -- Arcs and Chords.ahk
 https://www.youtube.com/watch?v=aB-fniBqc0U
 
-202374.  Lesson 10-4 (Part 1) -- Inscribed Angles.ahk
+228.  Lesson 10-4 (Part 1) -- Inscribed Angles.ahk
 https://www.youtube.com/watch?v=UBh48zcTevo
 
-202603.  Lesson 10-4 (Part 2) -- Inscribed Angles.ahk
+229.  Lesson 10-4 (Part 2) -- Inscribed Angles.ahk
 https://www.youtube.com/watch?v=4pNIxvDe3sQ
 
-202833.  Lesson 10-5 (Part 1) -- Tangents.ahk
+230.  Lesson 10-5 (Part 1) -- Tangents.ahk
 https://www.youtube.com/watch?v=ibcG2cmpCkM
 
-203064.  Lesson 10-5 (Part 2) -- Tangents.ahk
+231.  Lesson 10-5 (Part 2) -- Tangents.ahk
 https://www.youtube.com/watch?v=tnyjfq2SDbE
 
-203296.  Lesson 10-6 (Part 1) -- Secants, Tangents and Angle Measures.ahk
+232.  Lesson 10-6 (Part 1) -- Secants, Tangents and Angle Measures.ahk
 https://www.youtube.com/watch?v=EUIbERvGbwI
 
-203529.  Lesson 10-6 (Part 2) -- Secants, Tangents and Angle Measures.ahk
+233.  Lesson 10-6 (Part 2) -- Secants, Tangents and Angle Measures.ahk
 https://www.youtube.com/watch?v=vdQyT1FBGyM
 
-203763.  Lesson 10-6 (Part 3) -- Secants, Tangents and Angle Measures.ahk
+234.  Lesson 10-6 (Part 3) -- Secants, Tangents and Angle Measures.ahk
 https://www.youtube.com/watch?v=k0jfbBs6QpY
 
-203998.  Lesson 10-7 (Part 1) -- Special Segments in a Circle.ahk
+235.  Lesson 10-7 (Part 1) -- Special Segments in a Circle.ahk
 https://www.youtube.com/watch?v=KDc7jpJAN9A
 
-204234.  Lesson 10-7 (Part 2) -- Special Segments in a Circle.ahk
+236.  Lesson 10-7 (Part 2) -- Special Segments in a Circle.ahk
 https://www.youtube.com/watch?v=r3MGSiwq1Qg
 
-204471.  Lesson 10-8 -- Equations of Circles.ahk
+237.  Lesson 10-8 -- Equations of Circles.ahk
 https://www.youtube.com/watch?v=3JJryJeYRN0
 
-204709.  Lesson 11-1 -- Areas of Parallelograms.ahk
+238.  Lesson 11-1 -- Areas of Parallelograms.ahk
 https://www.youtube.com/watch?v=qz462FSHM1A
 
-204948.  Lesson 11-2 (Part 1) -- Areas of Triangles, Trapezoids and Rhombi.ahk
+239.  Lesson 11-2 (Part 1) -- Areas of Triangles, Trapezoids and Rhombi.ahk
 https://www.youtube.com/watch?v=xKVwDCFX9fM
 
-205188.  Lesson 11-2 (Part 2) -- Areas of Triangles, Trapezoids and Rhombi.ahk
+240.  Lesson 11-2 (Part 2) -- Areas of Triangles, Trapezoids and Rhombi.ahk
 https://www.youtube.com/watch?v=eriPOcua-jA
 
-205429.  Lesson 11-3 (Part 1) – Areas of Regular Polygons and Circles.ahk
+241.  Lesson 11-3 (Part 1) – Areas of Regular Polygons and Circles.ahk
 https://www.youtube.com/watch?v=SWUAf5TYEUM
 
-205671.  Lesson 11-3 (Part 2) – Areas of Regular Polygons and Circles.ahk
+242.  Lesson 11-3 (Part 2) – Areas of Regular Polygons and Circles.ahk
 https://www.youtube.com/watch?v=BBmsh2q-Vg4
 
-205914.  Lesson 11-3 (Part 3) – Areas of Regular Polygons and Circles.ahk
+243.  Lesson 11-3 (Part 3) – Areas of Regular Polygons and Circles.ahk
 https://www.youtube.com/watch?v=nrut5gZu1lY
 
-206158.  Lesson 11-3 (Part 4) – Areas of Regular Polygons and Circles.ahk
+244.  Lesson 11-3 (Part 4) – Areas of Regular Polygons and Circles.ahk
 https://www.youtube.com/watch?v=nh6RoL1KtHc
 
-206403.  Lesson 11-4 -- Areas of Composite Figures.ahk
+245.  Lesson 11-4 -- Areas of Composite Figures.ahk
 https://www.youtube.com/watch?v=06bWQqplgl4
 
-206649.  Lesson 11-5 -- Geometric Probability and Areas of Sectors (Part 1).ahk
+246.  Lesson 11-5 -- Geometric Probability and Areas of Sectors (Part 1).ahk
 https://www.youtube.com/watch?v=1hX4y53UK_8
 
-206896.  Lesson 11-5 -- Geometric Probability and Areas of Sectors (Part 2).ahk
+247.  Lesson 11-5 -- Geometric Probability and Areas of Sectors (Part 2).ahk
 https://www.youtube.com/watch?v=JNW6yhQSgoY
 
-207144.  Lesson 12-2 -- Lateral Areas and Surface Areas of Prisms.ahk
+248.  Lesson 12-2 -- Lateral Areas and Surface Areas of Prisms.ahk
 https://www.youtube.com/watch?v=naIkP7UIxlU
 
-207393.  Lesson 12-3 -- Lateral Areas and Surface Areas of Cylinders.ahk
+249.  Lesson 12-3 -- Lateral Areas and Surface Areas of Cylinders.ahk
 https://www.youtube.com/watch?v=Eg7nsZ8d16A
 
-207643.  Lesson 12-4 -- Lateral Areas and Surface Areas of Pyramids.ahk
+250.  Lesson 12-4 -- Lateral Areas and Surface Areas of Pyramids.ahk
 https://www.youtube.com/watch?v=X76DqPYw4TA
 
-207894.  Lesson 12-5 -- Lateral Areas and Surface Areas of Cones.ahk
+251.  Lesson 12-5 -- Lateral Areas and Surface Areas of Cones.ahk
 https://www.youtube.com/watch?v=DdVVqtQUSJE
 
-208146.  Lesson 12-6 -- Surface Areas of Spheres and Hemispheres.ahk
+252.  Lesson 12-6 -- Surface Areas of Spheres and Hemispheres.ahk
 https://www.youtube.com/watch?v=lhQ1IVDOwTI
 
-208399.  Lesson 13-1 -- Volumes of Prisms and Cylinders.ahk
+253.  Lesson 13-1 -- Volumes of Prisms and Cylinders.ahk
 https://www.youtube.com/watch?v=q3JZ33ynjuI
 
-208653.  Lesson 13-2 -- Volumes of Pyramids and Cones.ahk
+254.  Lesson 13-2 -- Volumes of Pyramids and Cones.ahk
 https://www.youtube.com/watch?v=fq7QaKkDDhc
 
-208908.  Lesson 13-3 -- Volumes of Spheres and Hemispheres.ahk
+255.  Lesson 13-3 -- Volumes of Spheres and Hemispheres.ahk
 https://www.youtube.com/watch?v=aaYyoxYl8KY
 
-209164.  Lesson 13-4 -- Similar and Congruent Solids.ahk
+256.  Lesson 13-4 -- Similar and Congruent Solids.ahk
 https://www.youtube.com/watch?v=llB2b5iXn3w
 
-209421.  Lesson 13-5 -- Coordinates in Space (Part 2) (Midpoint Formula and Distance Formula).ahk
+257.  Lesson 13-5 -- Coordinates in Space (Part 2) (Midpoint Formula and Distance Formula).ahk
 https://www.youtube.com/watch?v=Z2E4TQMrPQE
 
-209679.  Lesson 13-5 – Coordinates in Space (Part 1) (3-Dimensional Graphing).ahk
+258.  Lesson 13-5 – Coordinates in Space (Part 1) (3-Dimensional Graphing).ahk
 https://www.youtube.com/watch?v=9VdsH6O5RhY
 
-209938.  Lesson 4-1, sophomores.ahk
+259.  Lesson 4-1, sophomores.ahk
 https://www.youtube.com/watch?v=Q-S61aAoYHk
 
-210198.  Line Segments (Simplifying Math).ahk
+260.  Line Segments (Simplifying Math).ahk
 https://www.youtube.com/watch?v=S3hJmqGQhHc
 
-210459.  Math Antics - Angle Basics.ahk
+261.  Math Antics - Angle Basics.ahk
 https://www.youtube.com/watch?v=DGKwdHMiqCg
 
-210721.  Math Antics - Angles & Degrees.ahk
+262.  Math Antics - Angles & Degrees.ahk
 https://www.youtube.com/watch?v=_n3KZR1DSEo
 
-210984.  Math Antics - Area.ahk
+263.  Math Antics - Area.ahk
 https://www.youtube.com/watch?v=xCdxURXMdFY
 
-211248.  Math Antics - Circles, Circumference And Area.ahk
+264.  Math Antics - Circles, Circumference And Area.ahk
 https://www.youtube.com/watch?v=O-cawByg2aA
 
-211513.  Math Antics - Circles, What Is PI.ahk
+265.  Math Antics - Circles, What Is PI.ahk
 https://www.youtube.com/watch?v=cC0fZ_lkFpQ
 
-211779.  Math Antics - Perimeter.ahk
+266.  Math Antics - Perimeter.ahk
 https://www.youtube.com/watch?v=AAY1bsazcgM
 
-212046.  Math Antics - Points, Lines, & Planes.ahk
+267.  Math Antics - Points, Lines, & Planes.ahk
 https://www.youtube.com/watch?v=k5etrWdIY6o
 
-212314.  Math Antics - Polygons.ahk
+268.  Math Antics - Polygons.ahk
 https://www.youtube.com/watch?v=IaoZhhx_I9s
 
-212583.  Math Antics - Quadrilaterals.ahk
+269.  Math Antics - Quadrilaterals.ahk
 https://www.youtube.com/watch?v=yiREqzDsMP8
 
-212853.  Math Antics - Triangles.ahk
+270.  Math Antics - Triangles.ahk
 https://www.youtube.com/watch?v=mLeNaZcy-hE
 
-213124.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios).ahk
+271.  Maths Tutorial Trigonometry SOH CAH TOA (trigonometric ratios).ahk
 https://www.youtube.com/watch?v=5tp74g4N8EY
 
-213396.  Measurement with Number Lines (Simplifying Math).ahk
+272.  Measurement with Number Lines (Simplifying Math).ahk
 https://www.youtube.com/watch?v=G5T0KqDuVcI
 
-213669.  Mortensen Math Video  Math Straight A's In 1 Hour With Mortensen Math!.ahk
+273.  Mortensen Math Video  Math Straight A's In 1 Hour With Mortensen Math!.ahk
 https://www.youtube.com/watch?v=_Qyjz3XlkJ4
 
-213943.  Mystery Lesson.ahk
+274.  Mystery Lesson.ahk
 https://www.youtube.com/watch?v=vUZqjrSmuJU
 
-214218.  Negative Reciprocal.ahk
+275.  Negative Reciprocal.ahk
 https://www.youtube.com/watch?v=1l7lqNgVIHE
 
-214494.  ON SNAP... ANOTHER 1ST AMENDMENT COMPILATION.ahk
+276.  ON SNAP... ANOTHER 1ST AMENDMENT COMPILATION.ahk
 https://www.youtube.com/watch?v=Mvjzfsykr_k
 
-214771.  Parallel Lines and Transversals - Geometry.ahk
+277.  Parallel Lines and Transversals - Geometry.ahk
 https://www.youtube.com/watch?v=RS_1mRyt63o
 
-215049.  Polygon Properties (Lesson 46).ahk
+278.  Polygon Properties (Lesson 46).ahk
 https://www.youtube.com/watch?v=2rfs2SCZjC8
 
-215328.  Proof  The Exterior Angles Theorem.ahk
+279.  Proof  The Exterior Angles Theorem.ahk
 https://www.youtube.com/watch?v=UuAG4knf1kM
 
-215608.  Proof  The Isosceles Triangle Theorem.ahk
+280.  Proof  The Isosceles Triangle Theorem.ahk
 https://www.youtube.com/watch?v=wdEGf0FDMss
 
-215889.  Properties of Kites (Lesson 43).ahk
+281.  Properties of Kites (Lesson 43).ahk
 https://www.youtube.com/watch?v=iAMO70-SMUU
 
-216171.  Properties of Parallelograms (Lesson 40).ahk
+282.  Properties of Parallelograms (Lesson 40).ahk
 https://www.youtube.com/watch?v=OeCxoSP5KPQ
 
-216454.  Properties of Quads (Lesson 44).ahk
+283.  Properties of Quads (Lesson 44).ahk
 https://www.youtube.com/watch?v=YMldTIfpfCE
 
-216738.  Properties of RectangleSquare (Lesson 42).ahk
+284.  Properties of RectangleSquare (Lesson 42).ahk
 https://www.youtube.com/watch?v=lHXle6wakWo
 
-217023.  Properties of Rhombus (Lesson 41).ahk
+285.  Properties of Rhombus (Lesson 41).ahk
 https://www.youtube.com/watch?v=Rh_pMhw_D1w
 
-217309.  Properties of Trapezoid (Lesson 42).ahk
+286.  Properties of Trapezoid (Lesson 42).ahk
 https://www.youtube.com/watch?v=hHkUodxjcaA
 
-217596.  Proportions & Similar Polygons (Lesson 30).ahk
+287.  Proportions & Similar Polygons (Lesson 30).ahk
 https://www.youtube.com/watch?v=AnM4xDWpN20
 
-217884.  Pythagorean Theorem (Lesson 32).ahk
+288.  Pythagorean Theorem (Lesson 32).ahk
 https://www.youtube.com/watch?v=cOQ0T9RSOJw
 
-218173.  Pythagorean Theorem and Trig   Deciding What to Use Flowchart.ahk
+289.  Pythagorean Theorem and Trig   Deciding What to Use Flowchart.ahk
 https://www.youtube.com/watch?v=-ueDx7Ss8gY
 
-218463.  Pythagorean Theorem Converse (Lesson 33).ahk
+290.  Pythagorean Theorem Converse (Lesson 33).ahk
 https://www.youtube.com/watch?v=2zNNZJmoHKw
 
-218754.  Pythagorean Theorem Foldable.ahk
+291.  Pythagorean Theorem Foldable.ahk
 https://www.youtube.com/watch?v=gSto9kEBql8
 
-219046.  Pythagorean Theorem Proof  (Geometry).ahk
+292.  Pythagorean Theorem Proof  (Geometry).ahk
 https://www.youtube.com/watch?v=BNCj-K2hd_k
 
-219339.  Pythagorean TheoremTrigonometry Flowchart.ahk
+293.  Pythagorean TheoremTrigonometry Flowchart.ahk
 https://www.youtube.com/watch?v=BJF0g1KkyDc
 
-219633.  Quadrilaterals (Simplifying Math).ahk
+294.  Quadrilaterals (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WDHTJTtgr90
 
-219928.  Quadrilaterals, an overview - Geometry.ahk
+295.  Quadrilaterals, an overview - Geometry.ahk
 https://www.youtube.com/watch?v=bREM-gXBY-Y
 
-220224.  Real World Proportions (Lesson 31).ahk
+296.  Real World Proportions (Lesson 31).ahk
 https://www.youtube.com/watch?v=uVF0vQMpP6E
 
-220521.  Similar Right Triangles (Lesson 38).ahk
+297.  Similar Right Triangles (Lesson 38).ahk
 https://www.youtube.com/watch?v=cKUU5sNeDAs
 
-220819.  Simplifying Square Roots.ahk
+298.  Simplifying Square Roots.ahk
 https://www.youtube.com/watch?v=CN1I81Suuks
 
-221118.  Slope, Midpoint, Distance Foldable.ahk
+299.  Slope, Midpoint, Distance Foldable.ahk
 https://www.youtube.com/watch?v=_JRS1QXi81s
 
-221418.  SohCahToa Foldable - Part 1.ahk
+300.  SohCahToa Foldable - Part 1.ahk
 https://www.youtube.com/watch?v=njXp7O7j7bU
 
-221719.  SohCahToa Foldable - Part 2.ahk
+301.  SohCahToa Foldable - Part 2.ahk
 https://www.youtube.com/watch?v=MJnXlBAZOIY
 
-222021.  SOHCAHTOA.ahk
+302.  SOHCAHTOA.ahk
 https://www.youtube.com/watch?v=ZR0p4167qjY
 
-222324.  Solving Triangles & Word Problems.ahk
+303.  Solving Triangles & Word Problems.ahk
 https://www.youtube.com/watch?v=cIzK6LSD_xc
 
-222628.  Special Right Triangles (Lesson 34).ahk
+304.  Special Right Triangles (Lesson 34).ahk
 https://www.youtube.com/watch?v=CQVss1DZzZE
 
-222933.  Sum of the angles in a triangle - Geometry.ahk
+305.  Sum of the angles in a triangle - Geometry.ahk
 https://www.youtube.com/watch?v=i0pQAYZn-RI
 
-223239.  Surface Area & Volume Cones.ahk
+306.  Surface Area & Volume Cones.ahk
 https://www.youtube.com/watch?v=KVssS0jwEvU
 
-223546.  Surface Area & Volume Cylinders (Lesson 52).ahk
+307.  Surface Area & Volume Cylinders (Lesson 52).ahk
 https://www.youtube.com/watch?v=7Im5KyS_aSg
 
-223854.  Surface Area & Volume Prism (Lesson 51).ahk
+308.  Surface Area & Volume Prism (Lesson 51).ahk
 https://www.youtube.com/watch?v=MEhOLAso0_0
 
-224163.  Surface Area & Volume Pyramids (Lesson 53).ahk
+309.  Surface Area & Volume Pyramids (Lesson 53).ahk
 https://www.youtube.com/watch?v=dgp6WApIcxE
 
-224473.  Surface Area & Volume Spheres (Lesson 55).ahk
+310.  Surface Area & Volume Spheres (Lesson 55).ahk
 https://www.youtube.com/watch?v=MLG1-hhj_I4
 
-224784.  Three Dimnensional Figures.ahk
+311.  Three Dimnensional Figures.ahk
 https://www.youtube.com/watch?v=z-X3QwDH8NY
 
-225096.  Transformations on a Coordinate Plane (Simplifying Math).ahk
+312.  Transformations on a Coordinate Plane (Simplifying Math).ahk
 https://www.youtube.com/watch?v=nNbNaCeARMM
 
-225409.  Triangle Congruence by ASA, AAS, SAS, HL(Lesson 25).ahk
+313.  Triangle Congruence by ASA, AAS, SAS, HL(Lesson 25).ahk
 https://www.youtube.com/watch?v=7lFAqbHF1QA
 
-225723.  Triangle Inequality Theorem.ahk
+314.  Triangle Inequality Theorem.ahk
 https://www.youtube.com/watch?v=OoLb_NnnKSQ
 
-226038.  Triangle Similarity Foldable - Part 1 - The Setup.ahk
+315.  Triangle Similarity Foldable - Part 1 - The Setup.ahk
 https://www.youtube.com/watch?v=98AzhIXR-QE
 
-226354.  Triangle Similarity Foldable - Part 2 - SSS Similarity.ahk
+316.  Triangle Similarity Foldable - Part 2 - SSS Similarity.ahk
 https://www.youtube.com/watch?v=_qZUhgtmmjw
 
-226671.  Triangle Similarity Foldable - Part 3 - AA Similarity.ahk
+317.  Triangle Similarity Foldable - Part 3 - AA Similarity.ahk
 https://www.youtube.com/watch?v=WjdjEK1naY0
 
-226989.  Triangle Similarity Foldable - Part 4 - SAS Similarity.ahk
+318.  Triangle Similarity Foldable - Part 4 - SAS Similarity.ahk
 https://www.youtube.com/watch?v=u26wdIYqy5Q
 
-227308.  Triangle Sum Properties (Lesson 23).ahk
+319.  Triangle Sum Properties (Lesson 23).ahk
 https://www.youtube.com/watch?v=xcrjjOZiRcs
 
-227628.  Trig for Angles(Lesson 36).ahk
+320.  Trig for Angles(Lesson 36).ahk
 https://www.youtube.com/watch?v=pJXEnmIMgOU
 
-227949.  Trig Ratios for Sides (Lesson 35).ahk
+321.  Trig Ratios for Sides (Lesson 35).ahk
 https://www.youtube.com/watch?v=G0O1OV__95w
 
-228271.  Two Column Proofs Lesson (Geometry Concepts).ahk
+322.  Two Column Proofs Lesson (Geometry Concepts).ahk
 https://www.youtube.com/watch?v=4mp9-O2G8hE
 
-228594.  Unit 5, Lesson 2 - Isosceles & Equilateral Triangles.ahk
+323.  Unit 5, Lesson 2 - Isosceles & Equilateral Triangles.ahk
 https://www.youtube.com/watch?v=HYLsg8qd-zQ
 
-228918.  Unit G Review.ahk
+324.  Unit G Review.ahk
 https://www.youtube.com/watch?v=rweKhxmQC9M
 
-229243.  Unit H Review.ahk
+325.  Unit H Review.ahk
 https://www.youtube.com/watch?v=HZ63AnKIH24
 
-229569.  Using a Grid to Find Slope, Midpoint, Distance.ahk
+326.  Using a Grid to Find Slope, Midpoint, Distance.ahk
 https://www.youtube.com/watch?v=YmCaLY_BGAo
 
-229896.  Using Congruent Triangles (Lesson 26).ahk
+327.  Using Congruent Triangles (Lesson 26).ahk
 https://www.youtube.com/watch?v=_y3MmdJNTWE
 
-230224.  Volume of Truncated Cone at Home.ahk
+328.  Volume of Truncated Cone at Home.ahk
 https://www.youtube.com/watch?v=rhYcp45J7ws
 
-230553.  Welcome to Geometry.ahk
+329.  Welcome to Geometry.ahk
 https://www.youtube.com/watch?v=cuMwyYWI0to
 Geometry Lessons

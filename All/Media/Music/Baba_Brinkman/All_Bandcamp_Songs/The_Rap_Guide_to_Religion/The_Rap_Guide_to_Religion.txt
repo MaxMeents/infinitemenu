@@ -1,49 +1,49 @@
 
-1867.  .ahk
+1.  .ahk
 
 
-1869.  Andrew Murray.ahk
+2.  Andrew Murray.ahk
 https://bababrinkman.bandcamp.com/track/andrew-murray-2
 
-1872.  Bad Things Happen.ahk
+3.  Bad Things Happen.ahk
 https://bababrinkman.bandcamp.com/track/bad-things-happen
 
-1876.  Big Gods.ahk
+4.  Big Gods.ahk
 https://bababrinkman.bandcamp.com/track/big-gods
 
-1881.  Byproduct to Benefit.ahk
+5.  Byproduct to Benefit.ahk
 https://bababrinkman.bandcamp.com/track/byproduct-to-benefit
 
-1887.  Fertility Gods.ahk
+6.  Fertility Gods.ahk
 https://bababrinkman.bandcamp.com/track/fertility-gods
 
-1894.  Give Thanks.ahk
+7.  Give Thanks.ahk
 https://bababrinkman.bandcamp.com/track/give-thanks-2
 
-1902.  God of the Gaps (Feat. Gaiaisi).ahk
+8.  God of the Gaps (Feat. Gaiaisi).ahk
 https://bababrinkman.bandcamp.com/track/god-of-the-gaps-feat-gaiaisi
 
-1911.  Imagine.ahk
+9.  Imagine.ahk
 https://bababrinkman.bandcamp.com/track/imagine
 
-1921.  Invocation.ahk
+10.  Invocation.ahk
 https://bababrinkman.bandcamp.com/track/invocation-2
 
-1932.  Neighborhood Atheism (Feat. Greydon Square).ahk
+11.  Neighborhood Atheism (Feat. Greydon Square).ahk
 https://bababrinkman.bandcamp.com/track/neighborhood-atheism-feat-greydon-square
 
-1944.  Religion Evolves.ahk
+12.  Religion Evolves.ahk
 https://bababrinkman.bandcamp.com/track/religion-evolves-2
 
-1957.  Sapiosexual.ahk
+13.  Sapiosexual.ahk
 https://bababrinkman.bandcamp.com/track/sapiosexual
 
-1971.  Spread It.ahk
+14.  Spread It.ahk
 https://bababrinkman.bandcamp.com/track/spread-it-2
 
-1986.  Theory of Mind.ahk
+15.  Theory of Mind.ahk
 https://bababrinkman.bandcamp.com/track/theory-of-mind-2
 
-2002.  Virus of the Mind.ahk
+16.  Virus of the Mind.ahk
 https://bababrinkman.bandcamp.com/track/virus-of-the-mind
 The Rap Guide to Religion

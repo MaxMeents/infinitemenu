@@ -1,22 +1,22 @@
 
-334248.  Arithmetic Sequences and Series Explained.ahk
+1.  Arithmetic Sequences and Series Explained.ahk
 https://www.youtube.com/watch?v=AqtLdLRexgU
 
-334250.  Geometric Sequences and Series Explained.ahk
+2.  Geometric Sequences and Series Explained.ahk
 https://www.youtube.com/watch?v=E83eI8JgeFc
 
-334253.  Precalculus 2.1 Solving Equations Graphically.ahk
+3.  Precalculus 2.1 Solving Equations Graphically.ahk
 https://www.youtube.com/watch?v=g3PpMIjX1bI
 
-334257.  Precalculus Lesson 1.1 Real Numbers, Relations, and Functions.ahk
+4.  Precalculus Lesson 1.1 Real Numbers, Relations, and Functions.ahk
 https://www.youtube.com/watch?v=9C4PnTHMvc0
 
-334262.  Precalculus Lesson 1.2 Mathematical Patterns.ahk
+5.  Precalculus Lesson 1.2 Mathematical Patterns.ahk
 https://www.youtube.com/watch?v=-MVaJBcs6Dw
 
-334268.  Precalculus Lesson 1.4 Lines.ahk
+6.  Precalculus Lesson 1.4 Lines.ahk
 https://www.youtube.com/watch?v=BLJJOz7xveM
 
-334275.  PreCalculus Lesson 1.5 Linear Models.ahk
+7.  PreCalculus Lesson 1.5 Linear Models.ahk
 https://www.youtube.com/watch?v=LHFnB_Eid58
 Pre-Calculus Lessons

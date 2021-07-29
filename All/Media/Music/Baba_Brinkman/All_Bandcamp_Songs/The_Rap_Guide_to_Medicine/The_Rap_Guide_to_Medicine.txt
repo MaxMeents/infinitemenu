@@ -1,28 +1,28 @@
 
-1822.  .ahk
+1.  .ahk
 
 
-1824.  Change Over Time.ahk
+2.  Change Over Time.ahk
 https://bababrinkman.bandcamp.com/track/change-over-time
 
-1827.  First World Problems.ahk
+3.  First World Problems.ahk
 https://bababrinkman.bandcamp.com/track/first-world-problems
 
-1831.  Gene's Eye View.ahk
+4.  Gene's Eye View.ahk
 https://bababrinkman.bandcamp.com/track/genes-eye-view
 
-1836.  Parasite Wars.ahk
+5.  Parasite Wars.ahk
 https://bababrinkman.bandcamp.com/track/parasite-wars
 
-1842.  Revenge of the Somatic.ahk
+6.  Revenge of the Somatic.ahk
 https://bababrinkman.bandcamp.com/track/revenge-of-the-somatic-2
 
-1849.  Senescence.ahk
+7.  Senescence.ahk
 https://bababrinkman.bandcamp.com/track/senescence
 
-1857.  So Infectious.ahk
+8.  So Infectious.ahk
 https://bababrinkman.bandcamp.com/track/so-infectious
 
-1866.  Why We Get Sick.ahk
+9.  Why We Get Sick.ahk
 https://bababrinkman.bandcamp.com/track/why-we-get-sick
 The Rap Guide to Medicine

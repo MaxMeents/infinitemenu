@@ -1,52 +1,52 @@
 
-1339.  .ahk
+1.  .ahk
 
 
-1341.  Artificial Selection.ahk
+2.  Artificial Selection.ahk
 https://bababrinkman.bandcamp.com/track/artificial-selection
 
-1344.  Creationism Is... (Live).ahk
+3.  Creationism Is... (Live).ahk
 https://bababrinkman.bandcamp.com/track/creationism-is-live
 
-1348.  Creationist Cousins.ahk
+4.  Creationist Cousins.ahk
 https://bababrinkman.bandcamp.com/track/creationist-cousins
 
-1353.  Darwin's Acid.ahk
+5.  Darwin's Acid.ahk
 https://bababrinkman.bandcamp.com/track/darwins-acid
 
-1359.  DNA.ahk
+6.  DNA.ahk
 https://bababrinkman.bandcamp.com/track/dna
 
-1366.  Group Selection.ahk
+7.  Group Selection.ahk
 https://bababrinkman.bandcamp.com/track/group-selection
 
-1374.  Homicide (Live).ahk
+8.  Homicide (Live).ahk
 https://bababrinkman.bandcamp.com/track/homicide-live
 
-1383.  Hypnotize.ahk
+9.  Hypnotize.ahk
 https://bababrinkman.bandcamp.com/track/hypnotize
 
-1393.  I'm A African.ahk
+10.  I'm A African.ahk
 https://bababrinkman.bandcamp.com/track/im-a-african
 
-1404.  Natural Selection.ahk
+11.  Natural Selection.ahk
 https://bababrinkman.bandcamp.com/track/natural-selection
 
-1416.  Performance, Feedback, Revision.ahk
+12.  Performance, Feedback, Revision.ahk
 https://bababrinkman.bandcamp.com/track/performance-feedback-revision
 
-1429.  Sexual Selection Theory (Live).ahk
+13.  Sexual Selection Theory (Live).ahk
 https://bababrinkman.bandcamp.com/track/sexual-selection-theory-live
 
-1443.  Sexual Selection.ahk
+14.  Sexual Selection.ahk
 https://bababrinkman.bandcamp.com/track/sexual-selection
 
-1458.  Survival of the Fittest.ahk
+15.  Survival of the Fittest.ahk
 https://bababrinkman.bandcamp.com/track/survival-of-the-fittest
 
-1474.  Unity of Common Descent (Live).ahk
+16.  Unity of Common Descent (Live).ahk
 https://bababrinkman.bandcamp.com/track/unity-of-common-descent-live
 
-1491.  Worst Comes to Worst.ahk
+17.  Worst Comes to Worst.ahk
 https://bababrinkman.bandcamp.com/track/worst-comes-to-worst
 The Rap Guide to Evolution (Original Version)

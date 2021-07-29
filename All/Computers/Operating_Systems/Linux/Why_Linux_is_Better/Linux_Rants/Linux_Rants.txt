@@ -1,91 +1,91 @@
 
-69529.  1Password Comes to Linux -- Don't Use it..ahk
+1.  1Password Comes to Linux -- Don't Use it..ahk
 https://www.youtube.com/watch?v=RC3lzTtOR98
 
-69531.  5 Reasons Why Ubuntu Should Ditch Gnome, 2 Reasons Why They Shouldn't.ahk
+2.  5 Reasons Why Ubuntu Should Ditch Gnome, 2 Reasons Why They Shouldn't.ahk
 https://www.youtube.com/watch?v=JaLqEwB7Hrg
 
-69534.  5 Reasons Why Windows 11 Sucks (And Why Linux is Better).ahk
+3.  5 Reasons Why Windows 11 Sucks (And Why Linux is Better).ahk
 https://www.youtube.com/watch?v=DFFlF9-3fz8
 
-69538.  Adobe is Holding Linux Back -- And We Have No Real Alternatives.ahk
+4.  Adobe is Holding Linux Back -- And We Have No Real Alternatives.ahk
 https://www.youtube.com/watch?v=J3FVYaur-rg
 
-69543.  Arch Based Distros are Better for Most than Vanilla Arch.ahk
+5.  Arch Based Distros are Better for Most than Vanilla Arch.ahk
 https://www.youtube.com/watch?v=WZlnKd5-gc0
 
-69549.  Audio On Linux Should Be More Like Audio on Mobile.ahk
+6.  Audio On Linux Should Be More Like Audio on Mobile.ahk
 https://www.youtube.com/watch?v=ezNTDJeibA0
 
-69556.  Bluetooth Audio on Linux is Still Broken (Rant).ahk
+7.  Bluetooth Audio on Linux is Still Broken (Rant).ahk
 https://www.youtube.com/watch?v=R6SXPyuv7SE
 
-69564.  CLI Is Sometimes Better for You.ahk
+8.  CLI Is Sometimes Better for You.ahk
 https://www.youtube.com/watch?v=U2JYj32CihU
 
-69573.  Did Mozilla Just Kill Firefox.ahk
+9.  Did Mozilla Just Kill Firefox.ahk
 https://www.youtube.com/watch?v=-L-1Jy1CQgA
 
-69583.  Firefox is Broken.ahk
+10.  Firefox is Broken.ahk
 https://www.youtube.com/watch?v=1stGRqNw8hU
 
-69594.  GNOME is Okay Now.ahk
+11.  GNOME is Okay Now.ahk
 https://www.youtube.com/watch?v=_8NezxAIZNQ
 
-69606.  Linux Deserves a Better Office Suite.ahk
+12.  Linux Deserves a Better Office Suite.ahk
 https://www.youtube.com/watch?v=4pYgdIx6R9U
 
-69619.  Linux is Too Hard for Noobs to Install (Ramble).ahk
+13.  Linux is Too Hard for Noobs to Install (Ramble).ahk
 https://www.youtube.com/watch?v=uCBiirURtas
 
-69633.  Linux Mint is a Useless Distro.ahk
+14.  Linux Mint is a Useless Distro.ahk
 https://www.youtube.com/watch?v=4HMlj-udakA
 
-69648.  My Linux is Better Than Your Linux [Ramble].ahk
+15.  My Linux is Better Than Your Linux [Ramble].ahk
 https://www.youtube.com/watch?v=nCJX9wCL4to
 
-69664.  Rant File Pickers on Linux Are Terrible.ahk
+16.  Rant File Pickers on Linux Are Terrible.ahk
 https://www.youtube.com/watch?v=QmcV3scJKXc
 
-69681.  Rant Ubuntu is a Good Distro, Stop Saying Otherwise.ahk
+17.  Rant Ubuntu is a Good Distro, Stop Saying Otherwise.ahk
 https://www.youtube.com/watch?v=3fFwhlQFCF4
 
-69699.  Suckless Software is Terrible -- Unless You Work For It.ahk
+18.  Suckless Software is Terrible -- Unless You Work For It.ahk
 https://www.youtube.com/watch?v=1tyHU8e5SXI
 
-69718.  The Browser Wars Are Over -- Firefox Lost.ahk
+19.  The Browser Wars Are Over -- Firefox Lost.ahk
 https://www.youtube.com/watch?v=4FvPoBqSUwM
 
-69738.  The Easiest Ways of Contributing to Open Source Software.ahk
+20.  The Easiest Ways of Contributing to Open Source Software.ahk
 https://www.youtube.com/watch?v=QukvQBj5cIc
 
-69759.  The FISH Shell is Meh.ahk
+21.  The FISH Shell is Meh.ahk
 https://www.youtube.com/watch?v=Gmw3OpkmWcI
 
-69781.  The Quest For No Mouse.ahk
+22.  The Quest For No Mouse.ahk
 https://www.youtube.com/watch?v=HjvapjssFaA
 
-69804.  There and Back Again A Distro Hopper's Journey (Ramble).ahk
+23.  There and Back Again A Distro Hopper's Journey (Ramble).ahk
 https://www.youtube.com/watch?v=OWRD6UOS2Vk
 
-69828.  What is the Best Flavor of Ubuntu.ahk
+24.  What is the Best Flavor of Ubuntu.ahk
 https://www.youtube.com/watch?v=fxE-t1m_FGE
 
-69853.  Why Are There No Good Dual Pane File Managers on Linux.ahk
+25.  Why Are There No Good Dual Pane File Managers on Linux.ahk
 https://www.youtube.com/watch?v=m8eMOVHuvDM
 
-69879.  Why Are There No Good Non-Google Search Engines.ahk
+26.  Why Are There No Good Non-Google Search Engines.ahk
 https://www.youtube.com/watch?v=vo8VZO0ph6s
 
-69906.  Why Does Arch Linux Have Such a Bad Reputation.ahk
+27.  Why Does Arch Linux Have Such a Bad Reputation.ahk
 https://www.youtube.com/watch?v=O2ir7V7lUzo
 
-69934.  Why Isn't the Snap Store Open Source.ahk
+28.  Why Isn't the Snap Store Open Source.ahk
 https://www.youtube.com/watch?v=jB--Wpfk008
 
-69963.  Why Won't People Pay for Open Source Software.ahk
+29.  Why Won't People Pay for Open Source Software.ahk
 https://www.youtube.com/watch?v=GwpCWqUWn8k
 
-69993.  Why ZSH Is My Shell of Choice.ahk
+30.  Why ZSH Is My Shell of Choice.ahk
 https://www.youtube.com/watch?v=nOGLaUGysqI
 Linux Rants

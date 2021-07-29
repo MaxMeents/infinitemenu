@@ -1,124 +1,124 @@
 
-20978.  Advanced JavaScript Tutorial  JavaScript Training  JavaScript Programming Tutorial  Edureka.ahk
+1.  Advanced JavaScript Tutorial  JavaScript Training  JavaScript Programming Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=IljVmcDDrOg
 
-20980.  Angular 4 Tutorial  Learn Angular 4 from Scratch  Angular 4 Basics  Angular 4 Training  Edureka.ahk
+2.  Angular 4 Tutorial  Learn Angular 4 from Scratch  Angular 4 Basics  Angular 4 Training  Edureka.ahk
 https://www.youtube.com/watch?v=R4wGCHzn6-Q
 
-20983.  Angular in 3 Minutes  Angular Superheroic JavaScript Framework  Why Learn Angular  Edureka.ahk
+3.  Angular in 3 Minutes  Angular Superheroic JavaScript Framework  Why Learn Angular  Edureka.ahk
 https://www.youtube.com/watch?v=5wfVqcOZvgU
 
-20987.  Angular vs React vs Vue  Javascript Frameworks Comparison  Which One You Should Learn  Edureka.ahk
+4.  Angular vs React vs Vue  Javascript Frameworks Comparison  Which One You Should Learn  Edureka.ahk
 https://www.youtube.com/watch?v=f8CzCX4XaFQ
 
-20992.  Array in JavaScript  JavaScript Array Methods  JavaScript Tutorial  Edureka.ahk
+5.  Array in JavaScript  JavaScript Array Methods  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=5kFOWBh5zKE
 
-20998.  Build A Scorekeeper Using JavaScript  DOM Manipulation Tutorial  JavaScript Tutorial  Edureka.ahk
+6.  Build A Scorekeeper Using JavaScript  DOM Manipulation Tutorial  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=9XRufzemZNc
 
-21005.  Developing A Game Using Javascript  JavaScript Basics  JavaScript Programming Tutorial  Edureka.ahk
+7.  Developing A Game Using Javascript  JavaScript Basics  JavaScript Programming Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=qSnePOsI2hM
 
-21013.  Developing A Simon Game Using JavaScript  JavaScript Tutorial For Beginners  Edureka.ahk
+8.  Developing A Simon Game Using JavaScript  JavaScript Tutorial For Beginners  Edureka.ahk
 https://www.youtube.com/watch?v=mbgbdM8Flg4
 
-21022.  Developing CRUD App using jQuery  jQuery Tutorial  Full Stack Developer Course  Edureka.ahk
+9.  Developing CRUD App using jQuery  jQuery Tutorial  Full Stack Developer Course  Edureka.ahk
 https://www.youtube.com/watch?v=lUGXkj-z9fc
 
-21032.  Email Validation in JavaScript  JavaScript Form Validation  JavaScript Tutorial  Edureka.ahk
+10.  Email Validation in JavaScript  JavaScript Form Validation  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=nm44wI6zOSc
 
-21043.  Full Stack Developer Jobs, Salary & Resume  Full Stack Development Training  Edureka.ahk
+11.  Full Stack Developer Jobs, Salary & Resume  Full Stack Development Training  Edureka.ahk
 https://www.youtube.com/watch?v=OxFhwVXQS3E
 
-21055.  Full Stack Developer Tutorial  Full Stack Web Development Tutorial  Mean Stack Tutorial  Edureka.ahk
+12.  Full Stack Developer Tutorial  Full Stack Web Development Tutorial  Mean Stack Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=C4jq_yv4OG8
 
-21068.  How to Become a Full Stack Web Developer  Full Stack Web Developer Course  Edureka.ahk
+13.  How to Become a Full Stack Web Developer  Full Stack Web Developer Course  Edureka.ahk
 https://www.youtube.com/watch?v=OVHXTBZu-Zs
 
-21082.  Java vs JavaScript  Difference between Java and JavaScript  Edureka.ahk
+14.  Java vs JavaScript  Difference between Java and JavaScript  Edureka.ahk
 https://www.youtube.com/watch?v=k0SMuHlmATs
 
-21097.  JavaScript Full Course  JavaScript Tutorial For Beginners  JavaScript Training  Edureka.ahk
+15.  JavaScript Full Course  JavaScript Tutorial For Beginners  JavaScript Training  Edureka.ahk
 https://www.youtube.com/watch?v=o1IaduQICO0
 
-21113.  JavaScript Functions  JavaScript Tutorial for Beginners  JavaScript Training  Edureka.ahk
+16.  JavaScript Functions  JavaScript Tutorial for Beginners  JavaScript Training  Edureka.ahk
 https://www.youtube.com/watch?v=QX3kGsfGqz8
 
-21130.  JavaScript Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
+17.  JavaScript Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
 https://www.youtube.com/watch?v=kl2bM9e-jJc
 
-21148.  JavaScript Loops Explained  For Loop, While and Do-While Loop  JavaScript Tutorial  Edureka.ahk
+18.  JavaScript Loops Explained  For Loop, While and Do-While Loop  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=rJtN14OPpKc
 
-21167.  JavaScript Projects  Pick Your Color, To Do List, Shopping Cart In JavaScript  Edureka.ahk
+19.  JavaScript Projects  Pick Your Color, To Do List, Shopping Cart In JavaScript  Edureka.ahk
 https://www.youtube.com/watch?v=9miwgZmiXkQ
 
-21187.  JavaScript Regex  Regular Expressions in JavaScript  JavaScript Regular Expressions  Edureka.ahk
+20.  JavaScript Regex  Regular Expressions in JavaScript  JavaScript Regular Expressions  Edureka.ahk
 https://www.youtube.com/watch?v=B5iF6XBpcsI
 
-21208.  JavaScript Tutorial For Beginners  JavaScript Programming Tutorial  JavaScript Training  Edureka.ahk
+21.  JavaScript Tutorial For Beginners  JavaScript Programming Tutorial  JavaScript Training  Edureka.ahk
 https://www.youtube.com/watch?v=J4UKL355sUo
 
-21230.  JavaScript Validation  Form Validation using JavaScript  JavaScript Tutorial  Edureka.ahk
+22.  JavaScript Validation  Form Validation using JavaScript  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=Sgf4lDlKYHg
 
-21253.  jQuery Full Course  jQuery Tutorial For Beginners  jQuery Certification Training  Edureka.ahk
+23.  jQuery Full Course  jQuery Tutorial For Beginners  jQuery Certification Training  Edureka.ahk
 https://www.youtube.com/watch?v=HgvIox6ehkM
 
-21277.  jQuery Tutorial For Beginners  Developing User Interface (UI) Using jQuery  Edureka.ahk
+24.  jQuery Tutorial For Beginners  Developing User Interface (UI) Using jQuery  Edureka.ahk
 https://www.youtube.com/watch?v=2OMzGhlIZpg
 
-21302.  MEAN Stack Application Tutorial  Build a MEAN Application From Scratch  MEAN Stack App  Edureka.ahk
+25.  MEAN Stack Application Tutorial  Build a MEAN Application From Scratch  MEAN Stack App  Edureka.ahk
 https://www.youtube.com/watch?v=wtIvu085uU0
 
-21328.  MEAN Stack Application Tutorial For Beginners - Part 1  MEAN App From Scratch  Edureka.ahk
+26.  MEAN Stack Application Tutorial For Beginners - Part 1  MEAN App From Scratch  Edureka.ahk
 https://www.youtube.com/watch?v=fJ3MMIv3AQY
 
-21355.  MEAN Stack Application Tutorial For Beginners - Part 2  CRUD Application From Scratch  Edureka.ahk
+27.  MEAN Stack Application Tutorial For Beginners - Part 2  CRUD Application From Scratch  Edureka.ahk
 https://www.youtube.com/watch?v=76OPkDwhHs8
 
-21383.  MEAN Stack Application Tutorial For Beginners - Part 3  Heroku Deployment Tutorial  Edureka.ahk
+28.  MEAN Stack Application Tutorial For Beginners - Part 3  Heroku Deployment Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=oMaqxBFkEVg
 
-21412.  MERN Stack Tutorial for Beginners  Build a MERN App From Scratch  Full Stack Training  Edureka.ahk
+29.  MERN Stack Tutorial for Beginners  Build a MERN App From Scratch  Full Stack Training  Edureka.ahk
 https://www.youtube.com/watch?v=rpJO0T08Bnc
 
-21442.  React vs Angular 4  Angular 2 vs React  React & Angular  ReactJS Training  Edureka.ahk
+30.  React vs Angular 4  Angular 2 vs React  React & Angular  ReactJS Training  Edureka.ahk
 https://www.youtube.com/watch?v=7H0BpZP4W_s
 
-21473.  ReactJS Tutorial For Beginners  Learn React.js - React Crash Course  Edureka.ahk
+31.  ReactJS Tutorial For Beginners  Learn React.js - React Crash Course  Edureka.ahk
 https://www.youtube.com/watch?v=pp2Jl7xkoeA
 
-21505.  Substring in JavaScript  Substring vs Substr vs Slice Method  JavaScript Tutorial  Edureka.ahk
+32.  Substring in JavaScript  Substring vs Substr vs Slice Method  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=AaPqKx73UGI
 
-21538.  Top 10 Front End Developer Skills in 2021  How to become a Front End Developer  Edureka.ahk
+33.  Top 10 Front End Developer Skills in 2021  How to become a Front End Developer  Edureka.ahk
 https://www.youtube.com/watch?v=krQU3vnpVKE
 
-21572.  Top 10 JavaScript Libraries You Must Know in 2021  JavaScript Tutorial  Edureka.ahk
+34.  Top 10 JavaScript Libraries You Must Know in 2021  JavaScript Tutorial  Edureka.ahk
 https://www.youtube.com/watch?v=glXiVI-9shE
 
-21607.  Top 10 Most Popular JavaScript Frameworks   Which JavaScript Framework to learn  Edureka.ahk
+35.  Top 10 Most Popular JavaScript Frameworks   Which JavaScript Framework to learn  Edureka.ahk
 https://www.youtube.com/watch?v=eEOXlgZ1BKM
 
-21643.  Top 45 jQuery Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
+36.  Top 45 jQuery Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
 https://www.youtube.com/watch?v=nmX4ycVIXt8
 
-21680.  Top 50 TypeScript Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
+37.  Top 50 TypeScript Interview Questions and Answers  Full Stack Web Development Training  Edureka.ahk
 https://www.youtube.com/watch?v=TlhxEYXifDw
 
-21718.  Web Development Full Course - 10 Hours  Learn Web Development from Scratch  Edureka.ahk
+38.  Web Development Full Course - 10 Hours  Learn Web Development from Scratch  Edureka.ahk
 https://www.youtube.com/watch?v=Q33KBiDriJY
 
-21757.  What is JavaScript  JavaScript Tutorial for Beginners  JavaScript Training  Edureka.ahk
+39.  What is JavaScript  JavaScript Tutorial for Beginners  JavaScript Training  Edureka.ahk
 https://www.youtube.com/watch?v=Ia0FSogTRaw
 
-21797.  What is JSON  JSON Tutorial For Beginners  JSON vs XML  JSON Explained with Examples  Edureka.ahk
+40.  What is JSON  JSON Tutorial For Beginners  JSON vs XML  JSON Explained with Examples  Edureka.ahk
 https://www.youtube.com/watch?v=uw_rP5bV9r0
 
-21838.  WordPress Tutorial for Beginners  Website and Theme Development with WordPress  Edureka.ahk
+41.  WordPress Tutorial for Beginners  Website and Theme Development with WordPress  Edureka.ahk
 https://www.youtube.com/watch?v=2aHVtWKPVXE
 JavaScript Tutorial For Beginners  Edureka

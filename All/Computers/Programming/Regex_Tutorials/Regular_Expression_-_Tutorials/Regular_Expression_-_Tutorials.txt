@@ -1,40 +1,40 @@
 
-123636.  Learn Regular Expressions Alternations.ahk
+1.  Learn Regular Expressions Alternations.ahk
 https://www.youtube.com/watch?v=OjirRdtGTL4
 
-123638.  Learn Regular Expressions Anchors & Flags.ahk
+2.  Learn Regular Expressions Anchors & Flags.ahk
 https://www.youtube.com/watch?v=OqVkOB2-shg
 
-123641.  Learn Regular Expressions Character Set.ahk
+3.  Learn Regular Expressions Character Set.ahk
 https://www.youtube.com/watch?v=2Y-alrCHm_w
 
-123645.  Learn Regular Expressions Dot Matches.ahk
+4.  Learn Regular Expressions Dot Matches.ahk
 https://www.youtube.com/watch?v=1SSfRjidYDM
 
-123650.  Learn Regular Expressions Groups.ahk
+5.  Learn Regular Expressions Groups.ahk
 https://www.youtube.com/watch?v=CdxoFdbviCo
 
-123656.  Learn Regular Expressions Introduction.ahk
+6.  Learn Regular Expressions Introduction.ahk
 https://www.youtube.com/watch?v=GVZOJ1rEnUg
 
-123663.  Learn Regular Expressions JavaScript & PHP Examples.ahk
+7.  Learn Regular Expressions JavaScript & PHP Examples.ahk
 https://www.youtube.com/watch?v=9Tfq5Gt5MOo
 
-123671.  Learn Regular Expressions Let's Write Some Expressions!.ahk
+8.  Learn Regular Expressions Let's Write Some Expressions!.ahk
 https://www.youtube.com/watch?v=OSEXJlyJq7c
 
-123680.  Learn Regular Expressions Multiple.ahk
+9.  Learn Regular Expressions Multiple.ahk
 https://www.youtube.com/watch?v=GH-6jkaKe8A
 
-123690.  Learn Regular Expressions Optional.ahk
+10.  Learn Regular Expressions Optional.ahk
 https://www.youtube.com/watch?v=fCOt9dRCBNc
 
-123701.  Learn Regular Expressions Quantifiers.ahk
+11.  Learn Regular Expressions Quantifiers.ahk
 https://www.youtube.com/watch?v=RedSDQdgdZA
 
-123713.  PHP Regular Expressions Tutorial.ahk
+12.  PHP Regular Expressions Tutorial.ahk
 https://www.youtube.com/watch?v=wnu4febXKx0
 
-123726.  Web Scraping Using PHP - Parse IMDB.com Movies HTML.ahk
+13.  Web Scraping Using PHP - Parse IMDB.com Movies HTML.ahk
 https://www.youtube.com/watch?v=Ygb783jZGc0
 Regular Expression - Tutorials

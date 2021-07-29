@@ -1,43 +1,43 @@
 
-70440.  10 things you can do with Linux that you can't do with Windows.ahk
+1.  10 things you can do with Linux that you can't do with Windows.ahk
 https://www.youtube.com/watch?v=JOOkfGv58u0
 
-70442.  10 ways Linux is just better!.ahk
+2.  10 ways Linux is just better!.ahk
 https://www.youtube.com/watch?v=mAFMJ1LnQu8
 
-70445.  6 Reasons Why I Switched from Windows to Linux.ahk
+3.  6 Reasons Why I Switched from Windows to Linux.ahk
 https://www.youtube.com/watch?v=908BELWZBts
 
-70449.  6 Things to Know When Switching to Linux from Windows.ahk
+4.  6 Things to Know When Switching to Linux from Windows.ahk
 https://www.youtube.com/watch?v=wcdquhB6hT8
 
-70454.  Adobe Products coming to Linux  Official Response.ahk
+5.  Adobe Products coming to Linux  Official Response.ahk
 https://www.youtube.com/watch?v=bMT51vE5lJc
 
-70460.  Are Linux laptops the FUTURE - System76 Darter Pro.ahk
+6.  Are Linux laptops the FUTURE - System76 Darter Pro.ahk
 https://www.youtube.com/watch?v=bExHfIQGisM
 
-70467.  Argos Translate Who Needs Google Translate!!.ahk
+7.  Argos Translate Who Needs Google Translate!!.ahk
 https://www.youtube.com/watch?v=1yLSLgeFzYY
 
-70475.  Best Laptops for Programming in 2021.ahk
+8.  Best Laptops for Programming in 2021.ahk
 https://www.youtube.com/watch?v=ZGADxPLGyHE
 
-70484.  Switch to these open-source apps...on Windows, macOS or Linux!.ahk
+9.  Switch to these open-source apps...on Windows, macOS or Linux!.ahk
 https://www.youtube.com/watch?v=j3koOJRUWCc
 
-70494.  This $200 phone can do ANYTHING!!! - Pine64 Pinephone.ahk
+10.  This $200 phone can do ANYTHING!!! - Pine64 Pinephone.ahk
 https://www.youtube.com/watch?v=fCKMxzz9cjs
 
-70505.  THIS SOFTWARE IS BETTER THAN PRO TOOLS AND IT'S FREE!!!.ahk
+11.  THIS SOFTWARE IS BETTER THAN PRO TOOLS AND IT'S FREE!!!.ahk
 https://www.youtube.com/watch?v=AmCEuwopDdQ
 
-70517.  What Makes a Linux Distro  Why Distribution doesn't matter.ahk
+12.  What Makes a Linux Distro  Why Distribution doesn't matter.ahk
 https://www.youtube.com/watch?v=mrGTJOLR0C8
 
-70530.  Why I Don't Use Adobe Creative Cloud Anymore.ahk
+13.  Why I Don't Use Adobe Creative Cloud Anymore.ahk
 https://www.youtube.com/watch?v=J7sVJChzMOQ
 
-70544.  Why Linux Is Better For Programming.ahk
+14.  Why Linux Is Better For Programming.ahk
 https://www.youtube.com/watch?v=otDOHt_Jges
 Why Linux

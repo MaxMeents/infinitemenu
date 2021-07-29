@@ -1,40 +1,40 @@
 
-123273.  Crazy Regex - Dom Crawling Part 1.ahk
+1.  Crazy Regex - Dom Crawling Part 1.ahk
 https://www.youtube.com/watch?v=lEbO1eYyj1g
 
-123275.  Curl Login Tutorial.ahk
+2.  Curl Login Tutorial.ahk
 https://www.youtube.com/watch?v=XcgQUsorF_8
 
-123278.  Javascript Regular Expressions.ahk
+3.  Javascript Regular Expressions.ahk
 https://www.youtube.com/watch?v=z2QTl3wWBsw
 
-123282.  PHP Basics Regular Expressions.ahk
+4.  PHP Basics Regular Expressions.ahk
 https://www.youtube.com/watch?v=hPgTU4bMXWw
 
-123287.  Regex Match Until String.  Or Match Until More Regex (1248576).ahk
+5.  Regex Match Until String.  Or Match Until More Regex (1248576).ahk
 https://www.youtube.com/watch?v=Exxo8gXRhWA
 
-123293.  Regex Match Until String.  Or Match Until More Regex.ahk
+6.  Regex Match Until String.  Or Match Until More Regex.ahk
 https://www.youtube.com/watch?v=Exxo8gXRhWA
 
-123300.  REGEX Tutorial Regular Expressions Pt 2.ahk
+7.  REGEX Tutorial Regular Expressions Pt 2.ahk
 https://www.youtube.com/watch?v=FCFdgymqpUI
 
-123308.  REGEX Tutorial Regular Expressions Pt 3.ahk
+8.  REGEX Tutorial Regular Expressions Pt 3.ahk
 https://www.youtube.com/watch?v=lvGtejG69zg
 
-123317.  REGEX Tutorial Regular Expressions.ahk
+9.  REGEX Tutorial Regular Expressions.ahk
 https://www.youtube.com/watch?v=DRR9fOXkfRE
 
-123327.  Sublime Text 2 - Find and Replace.ahk
+10.  Sublime Text 2 - Find and Replace.ahk
 https://www.youtube.com/watch?v=hDqE0DBpJfo
 
-123338.  Web Design and Programming Pt 24.ahk
+11.  Web Design and Programming Pt 24.ahk
 https://www.youtube.com/watch?v=s4wdrOL7Pdg
 
-123350.  Web Design and Programming Pt 7 Regex.ahk
+12.  Web Design and Programming Pt 7 Regex.ahk
 https://www.youtube.com/watch?v=wtQvqh_CTiE
 
-123363.  Web Design and Programming Pt 8 PHP Regex.ahk
+13.  Web Design and Programming Pt 8 PHP Regex.ahk
 https://www.youtube.com/watch?v=wSYxMzpv8IQ
 REGEX Tutorials by Derek

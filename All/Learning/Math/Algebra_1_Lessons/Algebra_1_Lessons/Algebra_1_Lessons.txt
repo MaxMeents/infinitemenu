@@ -1,1516 +1,1516 @@
 
-4893.  0.10 Gcf, Lcm, Converting Notes video.ahk
+1.  0.10 Gcf, Lcm, Converting Notes video.ahk
 https://www.youtube.com/watch?v=Y3tAQbO1ll4
 
-4895.  0.12 Multiplying Fraction Notes video.ahk
+2.  0.12 Multiplying Fraction Notes video.ahk
 https://www.youtube.com/watch?v=oq4IKKeXMaI
 
-4898.  0.13 Dividing Fraction Notes video.ahk
+3.  0.13 Dividing Fraction Notes video.ahk
 https://www.youtube.com/watch?v=AwVDKHu70ac
 
-4902.  0.14 Multiplying Decimal Notes video.ahk
+4.  0.14 Multiplying Decimal Notes video.ahk
 https://www.youtube.com/watch?v=dHST8QXstGI
 
-4907.  0.16 Add,subtract,divide Decimal Notes video.ahk
+5.  0.16 Add,subtract,divide Decimal Notes video.ahk
 https://www.youtube.com/watch?v=OLE0jMNk0xM
 
-4913.  0.17 Order of Operation Notes Video.ahk
+6.  0.17 Order of Operation Notes Video.ahk
 https://www.youtube.com/watch?v=ushCSGV9FA4
 
-4920.  0.18 Factoring # Notes video.ahk
+7.  0.18 Factoring # Notes video.ahk
 https://www.youtube.com/watch?v=X0FEh0Q0uSg
 
-4928.  0.20 1Step Equations Notes video.ahk
+8.  0.20 1Step Equations Notes video.ahk
 https://www.youtube.com/watch?v=VphsxmbLUd8
 
-4937.  0.3 Add Subtract Integers.ahk
+9.  0.3 Add Subtract Integers.ahk
 https://www.youtube.com/watch?v=Tq-hZ2t7T5Y
 
-4947.  0.4 Add Subtract Fraction Notes video.ahk
+10.  0.4 Add Subtract Fraction Notes video.ahk
 https://www.youtube.com/watch?v=69rBfO0kofo
 
-4958.  0.5 Multiplication strategies Lesson.ahk
+11.  0.5 Multiplication strategies Lesson.ahk
 https://www.youtube.com/watch?v=2FumUtLynrU
 
-4970.  1.1 - Solving 1-step equations Algebra.ahk
+12.  1.1 - Solving 1-step equations Algebra.ahk
 https://www.youtube.com/watch?v=NI3RMr0xWwQ
 
-4983.  1.2 (Day 2) - Solving Multi-Step Equations.ahk
+13.  1.2 (Day 2) - Solving Multi-Step Equations.ahk
 https://www.youtube.com/watch?v=Fio2NMKqUGg
 
-4997.  1.2 Solving 2-Step Equations.ahk
+14.  1.2 Solving 2-Step Equations.ahk
 https://www.youtube.com/watch?v=xntimDntNFA
 
-5012.  1.3 - Variables on both sides.ahk
+15.  1.3 - Variables on both sides.ahk
 https://www.youtube.com/watch?v=I5vPgyrkWN0
 
-5028.  1.3 Solving Muti Step Ineq Notes video.ahk
+16.  1.3 Solving Muti Step Ineq Notes video.ahk
 https://www.youtube.com/watch?v=1MFggpRoxfI
 
-5045.  1.5 Translate Word to # and Percent Change Notes video.ahk
+17.  1.5 Translate Word to # and Percent Change Notes video.ahk
 https://www.youtube.com/watch?v=844DX455s_o
 
-5063.  2.0 Basic Proportion Notes video.ahk
+18.  2.0 Basic Proportion Notes video.ahk
 https://www.youtube.com/watch?v=NWMEtDiCFnc
 
-5082.  2.1 Proportions w Word Problem Notes video.ahk
+19.  2.1 Proportions w Word Problem Notes video.ahk
 https://www.youtube.com/watch?v=5XLvipvZgEk
 
-5102.  55750704 Algebra   Lesson 1 Part 1.ahk
+20.  55750704 Algebra   Lesson 1 Part 1.ahk
 https://www.youtube.com/watch?v=oVJJ5rGD730
 
-5123.  55758203  Algebra Lesson 1 Part 2.ahk
+21.  55758203  Algebra Lesson 1 Part 2.ahk
 https://www.youtube.com/watch?v=4KMgMlW0v3c
 
-5145.  55774403 Algebra Lesson 2.ahk
+22.  55774403 Algebra Lesson 2.ahk
 https://www.youtube.com/watch?v=i8mpHtz6ti8
 
-5168.  55786274 Lesson 3, Algebra.ahk
+23.  55786274 Lesson 3, Algebra.ahk
 https://www.youtube.com/watch?v=L_NrPlMXLNY
 
-5192.  55808756 Lesson 5, Algebra.ahk
+24.  55808756 Lesson 5, Algebra.ahk
 https://www.youtube.com/watch?v=o45bEq5JCJM
 
-5217.  55840495 Algebra Lesson 6.ahk
+25.  55840495 Algebra Lesson 6.ahk
 https://www.youtube.com/watch?v=5sWSBqF4TsI
 
-5243.  55856916 Algebra  Lesson 7.ahk
+26.  55856916 Algebra  Lesson 7.ahk
 https://www.youtube.com/watch?v=nA9UEi1Pezg
 
-5270.  55872357 Algebra lesson 8.ahk
+27.  55872357 Algebra lesson 8.ahk
 https://www.youtube.com/watch?v=PL3Yc4FJUgk
 
-5298.  55927481 Algebra lesson 9.ahk
+28.  55927481 Algebra lesson 9.ahk
 https://www.youtube.com/watch?v=pLVxglshkJI
 
-5327.  55961984 Course 3 Lesson 10.ahk
+29.  55961984 Course 3 Lesson 10.ahk
 https://www.youtube.com/watch?v=_BpSjPh5da8
 
-5357.  55962077 Lesson 11 Algebra.ahk
+30.  55962077 Lesson 11 Algebra.ahk
 https://www.youtube.com/watch?v=4dww_G6txX8
 
-5388.  56029770 Algebra Lesson 13.ahk
+31.  56029770 Algebra Lesson 13.ahk
 https://www.youtube.com/watch?v=IttanLnqukA
 
-5420.  56146334 Algebra Lesson 15.ahk
+32.  56146334 Algebra Lesson 15.ahk
 https://www.youtube.com/watch?v=yqO_01NP_W8
 
-5453.  56246999 Algebra  Lesson 17.ahk
+33.  56246999 Algebra  Lesson 17.ahk
 https://www.youtube.com/watch?v=XyfKPlJT8uw
 
-5487.  57456444 Algebra lesson 47.ahk
+34.  57456444 Algebra lesson 47.ahk
 https://www.youtube.com/watch?v=83Dr2oTWiIo
 
-5522.  57499139 Lesson 49 Algebra.ahk
+35.  57499139 Lesson 49 Algebra.ahk
 https://www.youtube.com/watch?v=idoWIPhhuhM
 
-5558.  57519998 Lesson 50 algebra.ahk
+36.  57519998 Lesson 50 algebra.ahk
 https://www.youtube.com/watch?v=pEit_jBrPfo
 
-5595.  8 5Lesson.ahk
+37.  8 5Lesson.ahk
 https://www.youtube.com/watch?v=H0-IjdsHE-k
 
-5633.  8 5Practice (1338182).ahk
+38.  8 5Practice (1338182).ahk
 https://www.youtube.com/watch?v=LjxaXHsuvmQ
 
-5672.  8 5Practice.ahk
+39.  8 5Practice.ahk
 https://www.youtube.com/watch?v=LjxaXHsuvmQ
 
-5712.  8.4 Practice 2.ahk
+40.  8.4 Practice 2.ahk
 https://www.youtube.com/watch?v=IC7RuNgIl6Y
 
-5753.  8.4 Practice.ahk
+41.  8.4 Practice.ahk
 https://www.youtube.com/watch?v=Aj_XsPSWlFE
 
-5795.  8.4 Trinomial Factoring Introduction (Diamond Method).ahk
+42.  8.4 Trinomial Factoring Introduction (Diamond Method).ahk
 https://www.youtube.com/watch?v=wHwQgzkAFyk
 
-5838.  A-APR6 Long Division with Rational Expressions.ahk
+43.  A-APR6 Long Division with Rational Expressions.ahk
 https://www.youtube.com/watch?v=5pxrpccXZag
 
-5882.  Absolute Value Functions (Simplifying Math).ahk
+44.  Absolute Value Functions (Simplifying Math).ahk
 https://www.youtube.com/watch?v=wUOpynJf3so
 
-5927.  Absolute Value Inequalities (Simplifying Math).ahk
+45.  Absolute Value Inequalities (Simplifying Math).ahk
 https://www.youtube.com/watch?v=fbBEtprKOOk
 
-5973.  Addition and Subtraction of Negative Numbers (Simplifying Math).ahk
+46.  Addition and Subtraction of Negative Numbers (Simplifying Math).ahk
 https://www.youtube.com/watch?v=rVPImv8Djgo
 
-6020.  Addition and Subtraction of Polynomials (Simplifying Math).ahk
+47.  Addition and Subtraction of Polynomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=kSCSiGfJOjw
 
-6068.  Alg - 2.2 Solving Inequalities.ahk
+48.  Alg - 2.2 Solving Inequalities.ahk
 https://www.youtube.com/watch?v=R7f5EUEjsf0
 
-6117.  Alg - 2.3 Inequalities MultiiplyDivide.ahk
+49.  Alg - 2.3 Inequalities MultiiplyDivide.ahk
 https://www.youtube.com/watch?v=y2DhpX7ca64
 
-6167.  Alg - 2.4 Multi-Step Inequalities.ahk
+50.  Alg - 2.4 Multi-Step Inequalities.ahk
 https://www.youtube.com/watch?v=twotg8SP5bY
 
-6218.  Alg - Ch. 1 Proportions.ahk
+51.  Alg - Ch. 1 Proportions.ahk
 https://www.youtube.com/watch?v=2nFvZdi2qyc
 
-6270.  Alg - Ch. 1 Test Review Notes.ahk
+52.  Alg - Ch. 1 Test Review Notes.ahk
 https://www.youtube.com/watch?v=pp3xa6ETa2g
 
-6323.  Alg 2.1 - Intro to Inequalities.ahk
+53.  Alg 2.1 - Intro to Inequalities.ahk
 https://www.youtube.com/watch?v=kNFyPSkF4Pw
 
-6377.  Algebra 1  Lessons 1.8 - Convert Words into Algebra.ahk
+54.  Algebra 1  Lessons 1.8 - Convert Words into Algebra.ahk
 https://www.youtube.com/watch?v=grdIEmszrG4
 
-6432.  Algebra 1 - Factoring L8.1.ahk
+55.  Algebra 1 - Factoring L8.1.ahk
 https://www.youtube.com/watch?v=IVy8NhOrOrY
 
-6488.  Algebra 1 - Lesson 30.ahk
+56.  Algebra 1 - Lesson 30.ahk
 https://www.youtube.com/watch?v=-lH6chWlzv4
 
-6545.  Algebra 1 Basics Variables, Coefficients and Terms (Simplifying Math).ahk
+57.  Algebra 1 Basics Variables, Coefficients and Terms (Simplifying Math).ahk
 https://www.youtube.com/watch?v=bpe9KqGHcUw
 
-6603.  Algebra 1 Lesson 1 about Graphing (Simplifying Math).ahk
+58.  Algebra 1 Lesson 1 about Graphing (Simplifying Math).ahk
 https://www.youtube.com/watch?v=370UqepRcGo
 
-6662.  Algebra 1 Lesson 1 about Polynomials (Simplifying Math).ahk
+59.  Algebra 1 Lesson 1 about Polynomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=aMNx_KWVVqI
 
-6722.  Algebra 1 Lesson 1 Linear Equations Equations with x and y (Simplifying Math).ahk
+60.  Algebra 1 Lesson 1 Linear Equations Equations with x and y (Simplifying Math).ahk
 https://www.youtube.com/watch?v=bYVHMNMvycQ
 
-6783.  Algebra 1 Lesson 1 Order of Operations P E M&D A&S (Simplifying Math).ahk
+61.  Algebra 1 Lesson 1 Order of Operations P E M&D A&S (Simplifying Math).ahk
 https://www.youtube.com/watch?v=4DnHu8FSGzg
 
-6845.  Algebra 1 Lesson 1.2 - Part 3 - Uses of Variables in Common Rules (Distributive).ahk
+62.  Algebra 1 Lesson 1.2 - Part 3 - Uses of Variables in Common Rules (Distributive).ahk
 https://www.youtube.com/watch?v=KsukBK5iJjk
 
-6908.  Algebra 1 Lesson 81.ahk
+63.  Algebra 1 Lesson 81.ahk
 https://www.youtube.com/watch?v=EhM9VN7wre8
 
-6972.  Algebra 1 Lesson 82.ahk
+64.  Algebra 1 Lesson 82.ahk
 https://www.youtube.com/watch?v=n9QXHdtvx1s
 
-7037.  Algebra 1 Lesson 83.ahk
+65.  Algebra 1 Lesson 83.ahk
 https://www.youtube.com/watch?v=AtS9kKX8qac
 
-7103.  Algebra 1 Lesson 84.ahk
+66.  Algebra 1 Lesson 84.ahk
 https://www.youtube.com/watch?v=GoSBKaWmYtk
 
-7170.  Algebra 1 Lesson 85.ahk
+67.  Algebra 1 Lesson 85.ahk
 https://www.youtube.com/watch?v=1MFFoLkncvA
 
-7238.  Algebra 1 Lesson 86.ahk
+68.  Algebra 1 Lesson 86.ahk
 https://www.youtube.com/watch?v=isDnlYU8wkY
 
-7307.  Algebra 1 Lesson 87.ahk
+69.  Algebra 1 Lesson 87.ahk
 https://www.youtube.com/watch?v=N-d6NoZp4KU
 
-7377.  Algebra 1 Lesson 88.ahk
+70.  Algebra 1 Lesson 88.ahk
 https://www.youtube.com/watch?v=JD32Dc5vpB8
 
-7448.  Algebra 1 Lesson 89.ahk
+71.  Algebra 1 Lesson 89.ahk
 https://www.youtube.com/watch?v=jn0Skk_5Cn0
 
-7520.  Algebra 1 Lesson 90.ahk
+72.  Algebra 1 Lesson 90.ahk
 https://www.youtube.com/watch?v=15o5DcIRcBE
 
-7593.  Algebra 1 Lesson 91.ahk
+73.  Algebra 1 Lesson 91.ahk
 https://www.youtube.com/watch?v=H8WyTVAHmKU
 
-7667.  Algebra 1 Lessons - Introduction to Algebra.ahk
+74.  Algebra 1 Lessons - Introduction to Algebra.ahk
 https://www.youtube.com/watch?v=pVwC4ViBXGs
 
-7742.  Algebra 1 Lessons 1.1 - What Are Variables and Expressions  ALGEBRA 1 FOR BEGINNERS.ahk
+75.  Algebra 1 Lessons 1.1 - What Are Variables and Expressions  ALGEBRA 1 FOR BEGINNERS.ahk
 https://www.youtube.com/watch?v=Cg8sAM8E9ko
 
-7818.  Algebra 1 Lessons 1.10 -  How to Write & Simplify Algebraic Expression.ahk
+76.  Algebra 1 Lessons 1.10 -  How to Write & Simplify Algebraic Expression.ahk
 https://www.youtube.com/watch?v=0b3s15h4-JE
 
-7895.  Algebra 1 Lessons 1.11 - The BODMAS Rule Explained.ahk
+77.  Algebra 1 Lessons 1.11 - The BODMAS Rule Explained.ahk
 https://www.youtube.com/watch?v=m8HcIXEOx_Y
 
-7973.  Algebra 1 Lessons 1.12 - Examples of BODMAS Rule.ahk
+78.  Algebra 1 Lessons 1.12 - Examples of BODMAS Rule.ahk
 https://www.youtube.com/watch?v=Q3U3QUNhaIY
 
-8052.  Algebra 1 Lessons 1.13 - Algebra Game (Find the Mistake).ahk
+79.  Algebra 1 Lessons 1.13 - Algebra Game (Find the Mistake).ahk
 https://www.youtube.com/watch?v=0hV-Z9pHxzQ
 
-8132.  Algebra 1 Lessons 1.14 - Evaluating Algebraic Expression Using BODMAS Rule.ahk
+80.  Algebra 1 Lessons 1.14 - Evaluating Algebraic Expression Using BODMAS Rule.ahk
 https://www.youtube.com/watch?v=ob4_3aHnGxM
 
-8213.  Algebra 1 Lessons 1.15 - How to Solve Algebraic Expressions.ahk
+81.  Algebra 1 Lessons 1.15 - How to Solve Algebraic Expressions.ahk
 https://www.youtube.com/watch?v=aeGM7jRFnxE
 
-8295.  Algebra 1 Lessons 1.16 -How to Solve Algebraic Expressions Using Calculator.ahk
+82.  Algebra 1 Lessons 1.16 -How to Solve Algebraic Expressions Using Calculator.ahk
 https://www.youtube.com/watch?v=_-tbNJVYyEY
 
-8378.  Algebra 1 Lessons 1.2 - Part 1  Uses of Variables in Common Rules.ahk
+83.  Algebra 1 Lessons 1.2 - Part 1  Uses of Variables in Common Rules.ahk
 https://www.youtube.com/watch?v=wa8H-aWun3Y
 
-8462.  Algebra 1 Lessons 1.2 - Part 2 - Uses of Variables in Common Rules (Rules of Arithmetic) - Part 2.ahk
+84.  Algebra 1 Lessons 1.2 - Part 2 - Uses of Variables in Common Rules (Rules of Arithmetic) - Part 2.ahk
 https://www.youtube.com/watch?v=0A4WJENhP1g
 
-8547.  Algebra 1 Lessons 1.3 - Expressions with Variables.ahk
+85.  Algebra 1 Lessons 1.3 - Expressions with Variables.ahk
 https://www.youtube.com/watch?v=iQKUhNWHhGw
 
-8633.  Algebra 1 Lessons 1.4 - Writing Algebraic Expression.ahk
+86.  Algebra 1 Lessons 1.4 - Writing Algebraic Expression.ahk
 https://www.youtube.com/watch?v=B51_-YGYchE
 
-8720.  Algebra 1 Lessons 1.5 - Algebraic Expressions with Exponents & Power.ahk
+87.  Algebra 1 Lessons 1.5 - Algebraic Expressions with Exponents & Power.ahk
 https://www.youtube.com/watch?v=CJNfjWWUZAw
 
-8808.  Algebra 1 Lessons 1.6 - Convert Algebraic Expression to Verbal Expression.ahk
+88.  Algebra 1 Lessons 1.6 - Convert Algebraic Expression to Verbal Expression.ahk
 https://www.youtube.com/watch?v=vdeV8F0u6cw
 
-8897.  Algebra 1 Lessons 1.7 - How to Write Algebraic Expression.ahk
+89.  Algebra 1 Lessons 1.7 - How to Write Algebraic Expression.ahk
 https://www.youtube.com/watch?v=btkEcc-N9Lc
 
-8987.  Algebra 1 Lessons 1.9 - Writing Algebraic Expression for Geometric Shape.ahk
+90.  Algebra 1 Lessons 1.9 - Writing Algebraic Expression for Geometric Shape.ahk
 https://www.youtube.com/watch?v=u0m28CqGdsU
 
-9078.  Algebra 1 Review Study Guide - Online Course  Basic Overview – EOC & Regents – Common Core.ahk
+91.  Algebra 1 Review Study Guide - Online Course  Basic Overview – EOC & Regents – Common Core.ahk
 https://www.youtube.com/watch?v=TbJ5gqLRpeM
 
-9170.  Algebra 1.1 - Variables & Expressions.ahk
+92.  Algebra 1.1 - Variables & Expressions.ahk
 https://www.youtube.com/watch?v=OG59ed6k-xg
 
-9263.  Algebra 1.2 - Order of Operations and Simplifying.ahk
+93.  Algebra 1.2 - Order of Operations and Simplifying.ahk
 https://www.youtube.com/watch?v=uLvl7Il7v0M
 
-9357.  Algebra 1.7 - Combining Like terms & Distributive Property.ahk
+94.  Algebra 1.7 - Combining Like terms & Distributive Property.ahk
 https://www.youtube.com/watch?v=jQVNBGOhPyg
 
-9452.  Algebra 2.1 - Solving One-Step Equations.ahk
+95.  Algebra 2.1 - Solving One-Step Equations.ahk
 https://www.youtube.com/watch?v=koLgt9kkxlI
 
-9548.  Algebra 2.2 - Solving Two-Step Equations.ahk
+96.  Algebra 2.2 - Solving Two-Step Equations.ahk
 https://www.youtube.com/watch?v=xKuYenBN_qM
 
-9645.  Algebra 2.3 - Solving Multi-Step Equations.ahk
+97.  Algebra 2.3 - Solving Multi-Step Equations.ahk
 https://www.youtube.com/watch?v=lHGkH9ZEzdk
 
-9743.  Algebra 2.4 - Solving Equations with Variable on Both Sides of Equal Sign (1).ahk
+98.  Algebra 2.4 - Solving Equations with Variable on Both Sides of Equal Sign (1).ahk
 https://www.youtube.com/watch?v=DSlIVGXH6uI
 
-9842.  Algebra 2.4 - Solving Equations with Variable on Both Sides of Equal Sign (2).ahk
+99.  Algebra 2.4 - Solving Equations with Variable on Both Sides of Equal Sign (2).ahk
 https://www.youtube.com/watch?v=dAz3Q6DLIS0
 
-9942.  Algebra 2.7 - Solving Proportions.ahk
+100.  Algebra 2.7 - Solving Proportions.ahk
 https://www.youtube.com/watch?v=wdwhXTMuqaY
 
-10043.  Algebra 2.8 - Proportions & Similar Figures.ahk
+101.  Algebra 2.8 - Proportions & Similar Figures.ahk
 https://www.youtube.com/watch?v=jpjMrpIf4uA
 
-10145.  Algebra 3.1 - Graphing Inequalities.ahk
+102.  Algebra 3.1 - Graphing Inequalities.ahk
 https://www.youtube.com/watch?v=-g5bKZEgFRc
 
-10248.  Algebra 3.2 -  Solving Inequalities using Addition & Subtraction.ahk
+103.  Algebra 3.2 -  Solving Inequalities using Addition & Subtraction.ahk
 https://www.youtube.com/watch?v=gKTgIpOrbEQ
 
-10352.  Algebra 3.3 - Solving Inequalities using Multiplication & Division.ahk
+104.  Algebra 3.3 - Solving Inequalities using Multiplication & Division.ahk
 https://www.youtube.com/watch?v=UZZ7_p1aqx8
 
-10457.  Algebra 3.4 - Solving Multi-Step Inequalities (1).ahk
+105.  Algebra 3.4 - Solving Multi-Step Inequalities (1).ahk
 https://www.youtube.com/watch?v=PxrZPgbS-AA
 
-10563.  Algebra 3.4 - Solving Multi-Step Inequalities (2).ahk
+106.  Algebra 3.4 - Solving Multi-Step Inequalities (2).ahk
 https://www.youtube.com/watch?v=Z1EWKMe2mtY
 
-10670.  Algebra 3.6 - Compound Inequalities.ahk
+107.  Algebra 3.6 - Compound Inequalities.ahk
 https://www.youtube.com/watch?v=i4DfX__9NZo
 
-10778.  Algebra 4.1 - Using Graphs to Relate Quantities.ahk
+108.  Algebra 4.1 - Using Graphs to Relate Quantities.ahk
 https://www.youtube.com/watch?v=gyYOHhWyy9Y
 
-10887.  Algebra 4.2 - Patterns & Linear Functions.ahk
+109.  Algebra 4.2 - Patterns & Linear Functions.ahk
 https://www.youtube.com/watch?v=fKA-sH684Co
 
-10997.  Algebra 4.4 - Graphing a Function Rule.ahk
+110.  Algebra 4.4 - Graphing a Function Rule.ahk
 https://www.youtube.com/watch?v=jKuBDimwVTs
 
-11108.  Algebra 4.5 - Writing a Function Rule.ahk
+111.  Algebra 4.5 - Writing a Function Rule.ahk
 https://www.youtube.com/watch?v=lvlcvqPea-o
 
-11220.  Algebra 4.6 - Relations & Functions.ahk
+112.  Algebra 4.6 - Relations & Functions.ahk
 https://www.youtube.com/watch?v=LvZdNt0_h3Q
 
-11333.  Algebra 5.1 - Rate of Change & Slope (1).ahk
+113.  Algebra 5.1 - Rate of Change & Slope (1).ahk
 https://www.youtube.com/watch?v=F7atkDIb0TY
 
-11447.  Algebra 5.1 - Rate of Change & Slope (2).ahk
+114.  Algebra 5.1 - Rate of Change & Slope (2).ahk
 https://www.youtube.com/watch?v=Qh07txrVN-I
 
-11562.  Algebra 5.3 - Slope Intercept Form (1).ahk
+115.  Algebra 5.3 - Slope Intercept Form (1).ahk
 https://www.youtube.com/watch?v=ThO7RRBkApY
 
-11678.  Algebra 5.3 - Slope Intercept Form (2).ahk
+116.  Algebra 5.3 - Slope Intercept Form (2).ahk
 https://www.youtube.com/watch?v=mnekwu2Iito
 
-11795.  Algebra 5.4 - Point Slope Form.ahk
+117.  Algebra 5.4 - Point Slope Form.ahk
 https://www.youtube.com/watch?v=pCo6uC49du8
 
-11913.  Algebra 5.5 - Standard Form & Intercepts.ahk
+118.  Algebra 5.5 - Standard Form & Intercepts.ahk
 https://www.youtube.com/watch?v=R3QUIE-0iWk
 
-12032.  Algebra 5.6 - Parallel & Perpendicular Lines.ahk
+119.  Algebra 5.6 - Parallel & Perpendicular Lines.ahk
 https://www.youtube.com/watch?v=jaTJKtQQZd8
 
-12152.  Algebra 6.1 - Solving Systems of Equations by Graphing.ahk
+120.  Algebra 6.1 - Solving Systems of Equations by Graphing.ahk
 https://www.youtube.com/watch?v=vV-Cwn2UNzs
 
-12273.  Algebra 6.2 - Solving Systems by Substitution (1).ahk
+121.  Algebra 6.2 - Solving Systems by Substitution (1).ahk
 https://www.youtube.com/watch?v=HunsaID9Nic
 
-12395.  Algebra 6.2 - Solving Systems by Substitution (2).ahk
+122.  Algebra 6.2 - Solving Systems by Substitution (2).ahk
 https://www.youtube.com/watch?v=snUVd9_hBmI
 
-12518.  Algebra 6.3 - Solving Systems by Elimination (1).ahk
+123.  Algebra 6.3 - Solving Systems by Elimination (1).ahk
 https://www.youtube.com/watch?v=I8rUA1HMSlg
 
-12642.  Algebra 6.3 - Solving Systems by Elimination (2).ahk
+124.  Algebra 6.3 - Solving Systems by Elimination (2).ahk
 https://www.youtube.com/watch?v=FAUaTSx9iYQ
 
-12767.  Algebra 6.4 - System of Equations Word Problems.ahk
+125.  Algebra 6.4 - System of Equations Word Problems.ahk
 https://www.youtube.com/watch?v=Xr_0Lg6bskM
 
-12893.  Algebra 6.5 - Graphing Linear Inequalities.ahk
+126.  Algebra 6.5 - Graphing Linear Inequalities.ahk
 https://www.youtube.com/watch?v=e9Hl-Big23U
 
-13020.  Algebra 6.6 - Systems of Linear Inequalities.ahk
+127.  Algebra 6.6 - Systems of Linear Inequalities.ahk
 https://www.youtube.com/watch?v=jYB5-DC7skw
 
-13148.  Algebra 7.1 - Zero & Negative Exponents.ahk
+128.  Algebra 7.1 - Zero & Negative Exponents.ahk
 https://www.youtube.com/watch?v=MMwpbGBiY9Y
 
-13277.  Algebra 7.2 & 4 - Multiplication & Division Properties of Exponents.ahk
+129.  Algebra 7.2 & 4 - Multiplication & Division Properties of Exponents.ahk
 https://www.youtube.com/watch?v=f4L6AVJCxtY
 
-13407.  Algebra 7.3 - Raising a Power to a Power.ahk
+130.  Algebra 7.3 - Raising a Power to a Power.ahk
 https://www.youtube.com/watch?v=lBuxc6-tl6g
 
-13538.  Algebra 7.5 - Radicals & Rational Exponents (1).ahk
+131.  Algebra 7.5 - Radicals & Rational Exponents (1).ahk
 https://www.youtube.com/watch?v=L7ip4Lhry_0
 
-13670.  Algebra 7.5 - Simplifying Radicals (2).ahk
+132.  Algebra 7.5 - Simplifying Radicals (2).ahk
 https://www.youtube.com/watch?v=ahvS14G5JaY
 
-13803.  Algebra 8.1 - Adding & Subtracting Polynomials.ahk
+133.  Algebra 8.1 - Adding & Subtracting Polynomials.ahk
 https://www.youtube.com/watch?v=EHol53g5mhE
 
-13937.  Algebra 8.1 - Polynomials & Adding Polynomials.ahk
+134.  Algebra 8.1 - Polynomials & Adding Polynomials.ahk
 https://www.youtube.com/watch?v=mojfjhJZBXc
 
-14072.  Algebra 8.2 - Factoring a GCF from a Polynomial.ahk
+135.  Algebra 8.2 - Factoring a GCF from a Polynomial.ahk
 https://www.youtube.com/watch?v=Nbd1fznQ8vw
 
-14208.  Algebra 8.2 - Multiplying & Dividing Polynomials by a Monomial.ahk
+136.  Algebra 8.2 - Multiplying & Dividing Polynomials by a Monomial.ahk
 https://www.youtube.com/watch?v=Ody4gY28Fog
 
-14345.  Algebra 8.3 - Multiplying Two Binomials.ahk
+137.  Algebra 8.3 - Multiplying Two Binomials.ahk
 https://www.youtube.com/watch?v=swx8BdmAfjo
 
-14483.  Algebra 8.4 - Squaring Binomials Special Cases.ahk
+138.  Algebra 8.4 - Squaring Binomials Special Cases.ahk
 https://www.youtube.com/watch?v=H-IIhrKRDdw
 
-14622.  Algebra 8.5 - Factoring x^2+bx+c (1).ahk
+139.  Algebra 8.5 - Factoring x^2+bx+c (1).ahk
 https://www.youtube.com/watch?v=tqO8WqZkorY
 
-14762.  Algebra 8.5 - Factoring x^2+bx+c (2).ahk
+140.  Algebra 8.5 - Factoring x^2+bx+c (2).ahk
 https://www.youtube.com/watch?v=JH7p4-ACt4I
 
-14903.  Algebra 8.6 - Factoring ax^2+bx+c (1).ahk
+141.  Algebra 8.6 - Factoring ax^2+bx+c (1).ahk
 https://www.youtube.com/watch?v=rgZGyBdXz0U
 
-15045.  Algebra 8.6 - Factoring ax^2+bx+c (2).ahk
+142.  Algebra 8.6 - Factoring ax^2+bx+c (2).ahk
 https://www.youtube.com/watch?v=UltNs2Y2yYw
 
-15188.  Algebra 8.7 - Factoring Special Cases.ahk
+143.  Algebra 8.7 - Factoring Special Cases.ahk
 https://www.youtube.com/watch?v=zpI0OYGss3k
 
-15332.  Algebra 8.8 - Factoring by Grouping.ahk
+144.  Algebra 8.8 - Factoring by Grouping.ahk
 https://www.youtube.com/watch?v=7TgMUZnEpLQ
 
-15477.  Algebra 9.1 - Quadratic Graphs & their Properties.ahk
+145.  Algebra 9.1 - Quadratic Graphs & their Properties.ahk
 https://www.youtube.com/watch?v=HhcEJgLzhRQ
 
-15623.  Algebra 9.2 - Graphing a Quadratic Function (2).ahk
+146.  Algebra 9.2 - Graphing a Quadratic Function (2).ahk
 https://www.youtube.com/watch?v=BeUH7t0TfxI
 
-15770.  Algebra 9.2 - The Axis of Symmetry & the Vertex (1).ahk
+147.  Algebra 9.2 - The Axis of Symmetry & the Vertex (1).ahk
 https://www.youtube.com/watch?v=BO80wvTwLAk
 
-15918.  Algebra 9.3 - Solving a Quadratic Equation by Graphing (1).ahk
+148.  Algebra 9.3 - Solving a Quadratic Equation by Graphing (1).ahk
 https://www.youtube.com/watch?v=H_Xt96Xs-Mg
 
-16067.  Algebra 9.3 - Solving a Quadratic Equation by Square Roots (2).ahk
+149.  Algebra 9.3 - Solving a Quadratic Equation by Square Roots (2).ahk
 https://www.youtube.com/watch?v=d-7v4jGM_PM
 
-16217.  Algebra 9.4 - Solving Quadratic Equations by Factoring (1).ahk
+150.  Algebra 9.4 - Solving Quadratic Equations by Factoring (1).ahk
 https://www.youtube.com/watch?v=EJ0-Snggv0w
 
-16368.  Algebra 9.6 - Quadratic Formula Application Problems (2).ahk
+151.  Algebra 9.6 - Quadratic Formula Application Problems (2).ahk
 https://www.youtube.com/watch?v=8l_vGcUgjQc
 
-16520.  Algebra 9.6 - Using the Quadratic Formula (1).ahk
+152.  Algebra 9.6 - Using the Quadratic Formula (1).ahk
 https://www.youtube.com/watch?v=h42frU1gVdU
 
-16673.  Algebra Basics What Are Polynomials - Math Antics.ahk
+153.  Algebra Basics What Are Polynomials - Math Antics.ahk
 https://www.youtube.com/watch?v=ffLLmV4mZwU
 
-16827.  Algebra BODMAS Rule More Examples Solved.ahk
+154.  Algebra BODMAS Rule More Examples Solved.ahk
 https://www.youtube.com/watch?v=IB27vRDcYBg
 
-16982.  Algebra Ch. 1 Project Directions.ahk
+155.  Algebra Ch. 1 Project Directions.ahk
 https://www.youtube.com/watch?v=HP5JFiRDmWI
 
-17138.  Algebra Ch. 2 Project Directions.ahk
+156.  Algebra Ch. 2 Project Directions.ahk
 https://www.youtube.com/watch?v=nTkBvpO98kA
 
-17295.  Algebra Ch. 4 Project Directions.ahk
+157.  Algebra Ch. 4 Project Directions.ahk
 https://www.youtube.com/watch?v=WRUe2U7B-bc
 
-17453.  Algebra Ch. 5 Project Directions.ahk
+158.  Algebra Ch. 5 Project Directions.ahk
 https://www.youtube.com/watch?v=M-4lPsfYLAo
 
-17612.  Algebra Ch.3 Project Directions.ahk
+159.  Algebra Ch.3 Project Directions.ahk
 https://www.youtube.com/watch?v=Oaj-Y6Xh1MY
 
-17772.  Algebra Lesson 3 Expressions from Words.ahk
+160.  Algebra Lesson 3 Expressions from Words.ahk
 https://www.youtube.com/watch?v=ydSsEYtxm7U
 
-17933.  Algebra lesson 48.ahk
+161.  Algebra lesson 48.ahk
 https://www.youtube.com/watch?v=UbcfFdCYIWI
 
-18095.  Algebra Number Sets (Simplifying Math).ahk
+162.  Algebra Number Sets (Simplifying Math).ahk
 https://www.youtube.com/watch?v=_8Fi5UjiO-c
 
-18258.  Algebra Replacement Sets (Simplifying Math).ahk
+163.  Algebra Replacement Sets (Simplifying Math).ahk
 https://www.youtube.com/watch?v=-6evEHcpAhQ
 
-18422.  Algebra Solving Inequalities (Simplifying Math).ahk
+164.  Algebra Solving Inequalities (Simplifying Math).ahk
 https://www.youtube.com/watch?v=bRug0bR-oDM
 
-18587.  Algebra Transforming Formulas (Simplifying Math).ahk
+165.  Algebra Transforming Formulas (Simplifying Math).ahk
 https://www.youtube.com/watch?v=1MNHcavEPeI
 
-18753.  Algebra-Lesson 12.ahk
+166.  Algebra-Lesson 12.ahk
 https://www.youtube.com/watch?v=kYt1fmVOU4U
 
-18920.  Arithmetic and Geometric Sequences LHS.ahk
+167.  Arithmetic and Geometric Sequences LHS.ahk
 https://www.youtube.com/watch?v=MdJXMvo-ES0
 
-19088.  Basic Function Transformations Notes LHS.ahk
+168.  Basic Function Transformations Notes LHS.ahk
 https://www.youtube.com/watch?v=6do50Z2OuvM
 
-19257.  Calculating X and Y Intercepts (Simplifying Math).ahk
+169.  Calculating X and Y Intercepts (Simplifying Math).ahk
 https://www.youtube.com/watch?v=n7dcdabutL4
 
-19427.  Causation vs Association Notes LHS.ahk
+170.  Causation vs Association Notes LHS.ahk
 https://www.youtube.com/watch?v=pxEW774jVJw
 
-19598.  Combined Inequalities Solving and Graphing (Simplifying Math).ahk
+171.  Combined Inequalities Solving and Graphing (Simplifying Math).ahk
 https://www.youtube.com/watch?v=MtzsvqmYh70
 
-19770.  Combining and Comparing Mathematic Expressions (Simplifying Math).ahk
+172.  Combining and Comparing Mathematic Expressions (Simplifying Math).ahk
 https://www.youtube.com/watch?v=-kwKVuf3jFQ
 
-19943.  Converting from Standard form to Slope Intercept form (Simplifying Math).ahk
+173.  Converting from Standard form to Slope Intercept form (Simplifying Math).ahk
 https://www.youtube.com/watch?v=l_Fvk1HnBmA
 
-20117.  Correlation Coefficient Notes LHS.ahk
+174.  Correlation Coefficient Notes LHS.ahk
 https://www.youtube.com/watch?v=R7ORE9cPWM4
 
-20292.  Difference of Perfect Squares Practice.ahk
+175.  Difference of Perfect Squares Practice.ahk
 https://www.youtube.com/watch?v=xKZgMEtwyCo
 
-20468.  Difference of Squares Part 2 (Simplifying Math).ahk
+176.  Difference of Squares Part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=nrA7Ykwh3N4
 
-20645.  Direct Linear Variation (Simplifying Math).ahk
+177.  Direct Linear Variation (Simplifying Math).ahk
 https://www.youtube.com/watch?v=3dkfbbZTRyU
 
-20823.  Direct Variation Notes LHS.ahk
+178.  Direct Variation Notes LHS.ahk
 https://www.youtube.com/watch?v=KFjlgXibVHo
 
-21002.  Distributive Property (Simplifying Math).ahk
+179.  Distributive Property (Simplifying Math).ahk
 https://www.youtube.com/watch?v=xHxvDblDYQ4
 
-21182.  DIVE Video Lecture for Saxon Algebra 1 3rd Edition Lesson 1.ahk
+180.  DIVE Video Lecture for Saxon Algebra 1 3rd Edition Lesson 1.ahk
 https://www.youtube.com/watch?v=IJdyWvOSX5U
 
-21363.  Dividing Monomials (Simplifying Math).ahk
+181.  Dividing Monomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=78JElSSvTdk
 
-21545.  dividing polynomials by a monomial notes Lufkin High School.ahk
+182.  dividing polynomials by a monomial notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=HQldlD1nhwc
 
-21728.  Dividing Polynomials by Monomials (Simplifying Math).ahk
+183.  Dividing Polynomials by Monomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=5qOseWC4yc8
 
-21912.  Division and Negative Exponents.ahk
+184.  Division and Negative Exponents.ahk
 https://www.youtube.com/watch?v=r_HHf7syxL8
 
-22097.  Domain and Range in the Real World Notes LHS.ahk
+185.  Domain and Range in the Real World Notes LHS.ahk
 https://www.youtube.com/watch?v=Lgo_3gFOYJg
 
-22283.  Domain and Range of Graphs Notes Lufkin High School.ahk
+186.  Domain and Range of Graphs Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=6mIRWdqIzFk
 
-22470.  Equation from a Graph (Simplifying Math).ahk
+187.  Equation from a Graph (Simplifying Math).ahk
 https://www.youtube.com/watch?v=9SNekQ5BETM
 
-22658.  Equations with Variables on Both Sides (Simplifying Math).ahk
+188.  Equations with Variables on Both Sides (Simplifying Math).ahk
 https://www.youtube.com/watch?v=gt39bUKqNjU
 
-22847.  Estimating Square Roots (Simplifying Math).ahk
+189.  Estimating Square Roots (Simplifying Math).ahk
 https://www.youtube.com/watch?v=SWg2a-kFcIo
 
-23037.  Factoring Binomials (Simplifying Math).ahk
+190.  Factoring Binomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=U3QRykfuvtE
 
-23228.  Factoring by Grouping Notes LHS.ahk
+191.  Factoring by Grouping Notes LHS.ahk
 https://www.youtube.com/watch?v=tjfVUjoYACU
 
-23420.  Factoring Difference of Squares Part 1 (Simplifying Math).ahk
+192.  Factoring Difference of Squares Part 1 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=TDuNd5S2LV8
 
-23613.  Factoring GCF Notes LHS.ahk
+193.  Factoring GCF Notes LHS.ahk
 https://www.youtube.com/watch?v=zaZkqNIVZZY
 
-23807.  Factoring Perfect Square Trinomials Notes LHS.ahk
+194.  Factoring Perfect Square Trinomials Notes LHS.ahk
 https://www.youtube.com/watch?v=klKRmJ1NOqw
 
-24002.  Factoring Perfect Square Trinomials Part 2 (Simplifying Math).ahk
+195.  Factoring Perfect Square Trinomials Part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=_ltnJte0dPk
 
-24198.  Factoring Quadratic Trinomials (Simplifying Math).ahk
+196.  Factoring Quadratic Trinomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=w4_-nC01rt0
 
-24395.  Factoring the Difference of Squares Notes LHS.ahk
+197.  Factoring the Difference of Squares Notes LHS.ahk
 https://www.youtube.com/watch?v=1fsyZB8KntE
 
-24593.  Factoring Trinomials (Simplifying Math).ahk
+198.  Factoring Trinomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=TZmpgWz36P4
 
-24792.  Factoring Trinomials Notes LHS.ahk
+199.  Factoring Trinomials Notes LHS.ahk
 https://www.youtube.com/watch?v=BINHYJqUUDw
 
-24992.  Finding the C Value Notes LHS.ahk
+200.  Finding the C Value Notes LHS.ahk
 https://www.youtube.com/watch?v=D_UfEazRhss
 
-25193.  Fractions Decimals & Percentages Part 1 (Simplifying Math).ahk
+201.  Fractions Decimals & Percentages Part 1 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=NXHzYs6-j5k
 
-25395.  Fractions Decimals & Percentages Part 2 (Simplifying Math).ahk
+202.  Fractions Decimals & Percentages Part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=VSZxDXQxY4A
 
-25598.  Function Not a Function Notes LHS.ahk
+203.  Function Not a Function Notes LHS.ahk
 https://www.youtube.com/watch?v=yp8b12HB-Bw
 
-25802.  GCF or Relatively Prime (Simplifying Math).ahk
+204.  GCF or Relatively Prime (Simplifying Math).ahk
 https://www.youtube.com/watch?v=iqQdzs1FyAU
 
-26007.  Graph a Line From Table of Values (Simplifying Math).ahk
+205.  Graph a Line From Table of Values (Simplifying Math).ahk
 https://www.youtube.com/watch?v=L5kDZ7iejkA
 
-26213.  Graphing Exponential Functions Notes LHS (1203695).ahk
+206.  Graphing Exponential Functions Notes LHS (1203695).ahk
 https://www.youtube.com/watch?v=NRQrZKt27S8
 
-26420.  Graphing Exponential Functions Notes LHS.ahk
+207.  Graphing Exponential Functions Notes LHS.ahk
 https://www.youtube.com/watch?v=NRQrZKt27S8
 
-26628.  Graphing Linear Functions.ahk
+208.  Graphing Linear Functions.ahk
 https://www.youtube.com/watch?v=1-vkshwlnkU
 
-26837.  Graphing Linear Inequalities Notes LHS.ahk
+209.  Graphing Linear Inequalities Notes LHS.ahk
 https://www.youtube.com/watch?v=QyKjpjacvNQ
 
-27047.  Graphing Systems of Equations Notes Academic LHS.ahk
+210.  Graphing Systems of Equations Notes Academic LHS.ahk
 https://www.youtube.com/watch?v=naMJz-X-FuQ
 
-27258.  Greatest Common Factor (GCF) of Polynomials (Simplifying Math).ahk
+211.  Greatest Common Factor (GCF) of Polynomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=T7_D0eu5gUw
 
-27470.  Horizontal and Vertical Transformations of the Quadratic Notes for LHS.ahk
+212.  Horizontal and Vertical Transformations of the Quadratic Notes for LHS.ahk
 https://www.youtube.com/watch?v=lRGPJ8orYe4
 
-27683.  How to Evaluate Algebraic Expression (Order of Operation).ahk
+213.  How to Evaluate Algebraic Expression (Order of Operation).ahk
 https://www.youtube.com/watch?v=XqDU5VBSHxw
 
-27897.  IM1 Combine Like TermsMulti-Step Equations.ahk
+214.  IM1 Combine Like TermsMulti-Step Equations.ahk
 https://www.youtube.com/watch?v=xxk5F4yiXIg
 
-28112.  IM1 Function Notation How to Evaluate Functions.ahk
+215.  IM1 Function Notation How to Evaluate Functions.ahk
 https://www.youtube.com/watch?v=HXWdudwQ-84
 
-28328.  IM1 Functions and DomainRange.ahk
+216.  IM1 Functions and DomainRange.ahk
 https://www.youtube.com/watch?v=TTb92Qlox5c
 
-28545.  IM1 How to Graph Linear Functions.ahk
+217.  IM1 How to Graph Linear Functions.ahk
 https://www.youtube.com/watch?v=bmUOGL0tHb8
 
-28763.  IM1 Solving Exponential Equations.ahk
+218.  IM1 Solving Exponential Equations.ahk
 https://www.youtube.com/watch?v=RBu354obBaw
 
-28982.  IM1 Translating Math Expressions.ahk
+219.  IM1 Translating Math Expressions.ahk
 https://www.youtube.com/watch?v=7tyacTjgxWQ
 
-29202.  IM1 Writing Equations to Solve Word Problems.ahk
+220.  IM1 Writing Equations to Solve Word Problems.ahk
 https://www.youtube.com/watch?v=8HPLOKBMmos
 
-29423.  IM1 Writing Exponential GrowthDecay Functions.ahk
+221.  IM1 Writing Exponential GrowthDecay Functions.ahk
 https://www.youtube.com/watch?v=ZI41WQ5Z1dk
 
-29645.  IM1 Writing Linear Equations in Function Notation to Solve Word Problems.ahk
+222.  IM1 Writing Linear Equations in Function Notation to Solve Word Problems.ahk
 https://www.youtube.com/watch?v=8qU2bfU8b9Y
 
-29868.  Implicit Formulas.ahk
+223.  Implicit Formulas.ahk
 https://www.youtube.com/watch?v=ThHhf49QNOw
 
-30092.  Introduction to Exponential Functions Notes LHS.ahk
+224.  Introduction to Exponential Functions Notes LHS.ahk
 https://www.youtube.com/watch?v=Wue9LSxey9o
 
-30317.  Introduction to Lines (Simplifying Math).ahk
+225.  Introduction to Lines (Simplifying Math).ahk
 https://www.youtube.com/watch?v=vSPiAjtfpSw
 
-30543.  Introduction to rational and irrational numbers  Algebra I  Khan Academy.ahk
+226.  Introduction to rational and irrational numbers  Algebra I  Khan Academy.ahk
 https://www.youtube.com/watch?v=cLP7INqs3JM
 
-30770.  Inverse Variation (Simplifying Math).ahk
+227.  Inverse Variation (Simplifying Math).ahk
 https://www.youtube.com/watch?v=lbAgiD1X-LE
 
-30998.  Irrational Numbers (Simplifying Math).ahk
+228.  Irrational Numbers (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WX4Ajf2jZl8
 
-31227.  Irrational Square Roots (Simplifying Math).ahk
+229.  Irrational Square Roots (Simplifying Math).ahk
 https://www.youtube.com/watch?v=7VANGr1djwk
 
-31457.  Justify steps of a solution using Properties (Simplifying Math).ahk
+230.  Justify steps of a solution using Properties (Simplifying Math).ahk
 https://www.youtube.com/watch?v=UgcK2tFFpEQ
 
-31688.  Key Attributes of the Exponential Function Notes LHS.ahk
+231.  Key Attributes of the Exponential Function Notes LHS.ahk
 https://www.youtube.com/watch?v=QV5jJU0MCp8
 
-31920.  Key Attributes of the Quadratic Function In Standard Form.ahk
+232.  Key Attributes of the Quadratic Function In Standard Form.ahk
 https://www.youtube.com/watch?v=IrZGRGzbY3U
 
-32153.  Lesson 1 Addition and Subtraction of Fraction  Lines and Segments.ahk
+233.  Lesson 1 Addition and Subtraction of Fraction  Lines and Segments.ahk
 https://www.youtube.com/watch?v=c6sb52_c_3E
 
-32387.  Lesson 1.1 Alg 1 Video.ahk
+234.  Lesson 1.1 Alg 1 Video.ahk
 https://www.youtube.com/watch?v=I3Rl0LLKe0Q
 
-32622.  Lesson 1.2 Alg 1 Video.ahk
+235.  Lesson 1.2 Alg 1 Video.ahk
 https://www.youtube.com/watch?v=hIGFbrN7V0k
 
-32858.  Lesson 11.1 Alg 1 video.ahk
+236.  Lesson 11.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=rvaLxlQU6Hw
 
-33095.  Lesson 11.2 Alg 1 video.ahk
+237.  Lesson 11.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=IraxAS6Zsrk
 
-33333.  Lesson 11.3 Alg 1 video hw.ahk
+238.  Lesson 11.3 Alg 1 video hw.ahk
 https://www.youtube.com/watch?v=XvROMFq6U08
 
-33572.  Lesson 11.3 and 11.4 Alg 1 video.ahk
+239.  Lesson 11.3 and 11.4 Alg 1 video.ahk
 https://www.youtube.com/watch?v=n3kR41zmgmc
 
-33812.  Lesson 11.4 Alg 1 video hw.ahk
+240.  Lesson 11.4 Alg 1 video hw.ahk
 https://www.youtube.com/watch?v=Fj6qYoUObc0
 
-34053.  Lesson 12.1 Alg 1 video.ahk
+241.  Lesson 12.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=fEUY7sn7Of8
 
-34295.  Lesson 12.2 Alg 1 video.ahk
+242.  Lesson 12.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=dNHr1hi7Nxw
 
-34538.  Lesson 12.3 Alg 1 video.ahk
+243.  Lesson 12.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=QQw3ppLC_W0
 
-34782.  Lesson 13.2 Alg 1 video.ahk
+244.  Lesson 13.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=fRLGaJSEZ9k
 
-35027.  Lesson 13.3 Alg 1 video.ahk
+245.  Lesson 13.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=CCWo5uIcXvo
 
-35273.  Lesson 14 Module Overview HW.ahk
+246.  Lesson 14 Module Overview HW.ahk
 https://www.youtube.com/watch?v=vb4BJgvdNkE
 
-35520.  Lesson 14.1 Alg 1 video.ahk
+247.  Lesson 14.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Hd7Mt5-Q6SE
 
-35768.  Lesson 14.2 Alg 1 video.ahk
+248.  Lesson 14.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=mJtw6al2-qs
 
-36017.  Lesson 15.1 Alg 1 HW.ahk
+249.  Lesson 15.1 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=C28DMFRuO7E
 
-36267.  Lesson 15.1 Alg 1 vid.ahk
+250.  Lesson 15.1 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=LjREaNYDL-A
 
-36518.  Lesson 15.1 Alg 1 video.ahk
+251.  Lesson 15.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Md7wROzPxyI
 
-36770.  Lesson 15.2 Alg 1 HW.ahk
+252.  Lesson 15.2 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=fgaeniqtJEA
 
-37023.  Lesson 15.2 Alg 1 Video (1807843).ahk
+253.  Lesson 15.2 Alg 1 Video (1807843).ahk
 https://www.youtube.com/watch?v=PI8mzFMzuOc
 
-37277.  Lesson 15.2 Alg 1 video.ahk
+254.  Lesson 15.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=W-_Wp-EyQQY
 
-37532.  Lesson 15.3 Alg 1 HW.ahk
+255.  Lesson 15.3 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=o-RmLJIYMzw
 
-37788.  Lesson 15.3 Alg 1 Video (1271829).ahk
+256.  Lesson 15.3 Alg 1 Video (1271829).ahk
 https://www.youtube.com/watch?v=lIcjuPleFas
 
-38045.  Lesson 15.3 Alg 1 video.ahk
+257.  Lesson 15.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=K7khSiNVs40
 
-38303.  Lesson 15.4 Alg 1 HW.ahk
+258.  Lesson 15.4 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=GgKmXdiemT0
 
-38562.  Lesson 15.4 Alg 1 Video (1507893).ahk
+259.  Lesson 15.4 Alg 1 Video (1507893).ahk
 https://www.youtube.com/watch?v=Hv7f4Uo9o7c
 
-38822.  Lesson 15.4 Alg 1 Video (1854861).ahk
+260.  Lesson 15.4 Alg 1 Video (1854861).ahk
 https://www.youtube.com/watch?v=Hv7f4Uo9o7c
 
-39083.  Lesson 15.4 Alg 1 video.ahk
+261.  Lesson 15.4 Alg 1 video.ahk
 https://www.youtube.com/watch?v=iUVItK5OMck
 
-39345.  Lesson 15.5 Alg 1 HW.ahk
+262.  Lesson 15.5 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=ofCC4htiaiM
 
-39608.  Lesson 15.5 Alg 1 Vid.ahk
+263.  Lesson 15.5 Alg 1 Vid.ahk
 https://www.youtube.com/watch?v=u5yhqsWkT00
 
-39872.  Lesson 15.5 Alg 1 video.ahk
+264.  Lesson 15.5 Alg 1 video.ahk
 https://www.youtube.com/watch?v=dqWpxFmNwAk
 
-40137.  Lesson 16.1 Alg 1 HW.ahk
+265.  Lesson 16.1 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=4zk4_SuvyI0
 
-40403.  Lesson 16.1 Alg 1 vid.ahk
+266.  Lesson 16.1 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=AQrPMPIzmME
 
-40670.  Lesson 16.1 Alg 1 video.ahk
+267.  Lesson 16.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=DBlEmmfQKAU
 
-40938.  Lesson 16.2 Alg 1 HW.ahk
+268.  Lesson 16.2 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=0Jghjhauv6g
 
-41207.  Lesson 16.2 Alg 1 vid.ahk
+269.  Lesson 16.2 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=eqIzgkmf8dE
 
-41477.  Lesson 16.2 Alg 1 video.ahk
+270.  Lesson 16.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=ui7_v09kuy8
 
-41748.  Lesson 16.3 Alg 1 problem #5.ahk
+271.  Lesson 16.3 Alg 1 problem #5.ahk
 https://www.youtube.com/watch?v=iswsXC6ZvnI
 
-42020.  Lesson 16.3 Alg 1 vid.ahk
+272.  Lesson 16.3 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=M1hhphsj43s
 
-42293.  Lesson 16.3 Alg 1 video.ahk
+273.  Lesson 16.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=k4Ekd5KGm2g
 
-42567.  Lesson 16.4 Alg 1 HW.ahk
+274.  Lesson 16.4 Alg 1 HW.ahk
 https://www.youtube.com/watch?v=ocRrvJ1B--U
 
-42842.  Lesson 16.4 Alg 1 vid.ahk
+275.  Lesson 16.4 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=WGGK02IbD-Q
 
-43118.  Lesson 16.4 Alg 1 video.ahk
+276.  Lesson 16.4 Alg 1 video.ahk
 https://www.youtube.com/watch?v=39LZVUlvjuU
 
-43395.  Lesson 17.1 Alg 1 video.ahk
+277.  Lesson 17.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=5FKH3kJKhaU
 
-43673.  Lesson 17.2 Alg 1 video.ahk
+278.  Lesson 17.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=r7TA66uF6AM
 
-43952.  Lesson 17.3 Alg 1 video.ahk
+279.  Lesson 17.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=FfIllWa7FSk
 
-44232.  Lesson 18.1 Alg 1 video.ahk
+280.  Lesson 18.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=HnsJYFGfAP8
 
-44513.  Lesson 18.2 Alg 1 video.ahk
+281.  Lesson 18.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=4LG8eCZK7-0
 
-44795.  Lesson 18.3 Alg 1 video.ahk
+282.  Lesson 18.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=gLMWSmz1z1c
 
-45078.  Lesson 19.1 Alg 1 video.ahk
+283.  Lesson 19.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=nUfcgBaHBmk
 
-45362.  Lesson 19.2 Alg 1 video.ahk
+284.  Lesson 19.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=FRnmS6I3COI
 
-45647.  Lesson 19.3 Alg 1 video reteach.ahk
+285.  Lesson 19.3 Alg 1 video reteach.ahk
 https://www.youtube.com/watch?v=sLF9Gt-wQQE
 
-45933.  Lesson 19.3 Alg 1 video.ahk
+286.  Lesson 19.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=wD9nsLheFzo
 
-46220.  Lesson 2 Angles and Polygons.ahk
+287.  Lesson 2 Angles and Polygons.ahk
 https://www.youtube.com/watch?v=-GHIm1iMVqE
 
-46508.  Lesson 2.1 Alg.1 Video.ahk
+288.  Lesson 2.1 Alg.1 Video.ahk
 https://www.youtube.com/watch?v=jHhW9jjty_8
 
-46797.  Lesson 2.2 Alg.1 Video.ahk
+289.  Lesson 2.2 Alg.1 Video.ahk
 https://www.youtube.com/watch?v=u6wEg6aMUuk
 
-47087.  Lesson 2.3 Alg.1 Video.ahk
+290.  Lesson 2.3 Alg.1 Video.ahk
 https://www.youtube.com/watch?v=Fa65tJj_CII
 
-47378.  Lesson 2.4 Alg 1 Video.ahk
+291.  Lesson 2.4 Alg 1 Video.ahk
 https://www.youtube.com/watch?v=xTg8PeGib2k
 
-47670.  Lesson 2.4 Alg 1.ahk
+292.  Lesson 2.4 Alg 1.ahk
 https://www.youtube.com/watch?v=iNhoxmHCusI
 
-47963.  Lesson 20.1 Alg 1 video.ahk
+293.  Lesson 20.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=2NfmK8V9fp4
 
-48257.  Lesson 20.2 Alg 1 video.ahk
+294.  Lesson 20.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=MAl-TzBpI7s
 
-48552.  Lesson 20.3 Alg 1 video.ahk
+295.  Lesson 20.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Cjrnwh5TEbo
 
-48848.  Lesson 21.1 Alg 1 video.ahk
+296.  Lesson 21.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Dwb1aiLuZnI
 
-49145.  Lesson 21.1a GCF and grouping video.ahk
+297.  Lesson 21.1a GCF and grouping video.ahk
 https://www.youtube.com/watch?v=sZOOQYCoD6g
 
-49443.  Lesson 21.2 Alg 1 vid.ahk
+298.  Lesson 21.2 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=OOn6ie28IVQ
 
-49742.  Lesson 21.2 Alg 1 video.ahk
+299.  Lesson 21.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=3xykeh_7bD8
 
-50042.  Lesson 21.3 Alg 1 vid.ahk
+300.  Lesson 21.3 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=daHjYoOw0g8
 
-50343.  Lesson 21.3 Alg 1 video.ahk
+301.  Lesson 21.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=h2QY4tTZS8w
 
-50645.  Lesson 22.1 Alg 1 video.ahk
+302.  Lesson 22.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=1BZnkXmT3J0
 
-50948.  Lesson 22.2 Alg 1 videoa.ahk
+303.  Lesson 22.2 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=q9XvHV2PRF4
 
-51252.  Lesson 22.3 Alg 1 HW-Reteach.ahk
+304.  Lesson 22.3 Alg 1 HW-Reteach.ahk
 https://www.youtube.com/watch?v=GDn_d6PPI5o
 
-51557.  Lesson 22.3 Alg 1 videoa.ahk
+305.  Lesson 22.3 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=IVhgtuZ5GmM
 
-51863.  Lesson 22.4 Alg 1 video.ahk
+306.  Lesson 22.4 Alg 1 video.ahk
 https://www.youtube.com/watch?v=LYRB4ZF2Q5U
 
-52170.  Lesson 22.4 Reteach.ahk
+307.  Lesson 22.4 Reteach.ahk
 https://www.youtube.com/watch?v=BGlOPBqst3w
 
-52478.  Lesson 22.5 Alg 1 video.ahk
+308.  Lesson 22.5 Alg 1 video.ahk
 https://www.youtube.com/watch?v=UGeGC4CKlao
 
-52787.  Lesson 22.5 Reteach.ahk
+309.  Lesson 22.5 Reteach.ahk
 https://www.youtube.com/watch?v=4yO3ZKAHetQ
 
-53097.  Lesson 23.1 Alg 1 vid.ahk
+310.  Lesson 23.1 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=cwoM6LkxDU0
 
-53408.  Lesson 23.2 Alg 1 vid.ahk
+311.  Lesson 23.2 Alg 1 vid.ahk
 https://www.youtube.com/watch?v=SGmqBl7713Q
 
-53720.  Lesson 24.1 Alg 1 videoa.ahk
+312.  Lesson 24.1 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=YzUR4wmy7-M
 
-54033.  Lesson 24.2 Alg 1 videoa.ahk
+313.  Lesson 24.2 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=tZPyLhj2-dQ
 
-54347.  Lesson 24.3 Alg 1 videoa.ahk
+314.  Lesson 24.3 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=dIr47fDwNGc
 
-54662.  Lesson 24.4 Alg 1 videoa.ahk
+315.  Lesson 24.4 Alg 1 videoa.ahk
 https://www.youtube.com/watch?v=FZGYmfsyDEk
 
-54978.  Lesson 3 Perimeter and Circumference.ahk
+316.  Lesson 3 Perimeter and Circumference.ahk
 https://www.youtube.com/watch?v=IGGnX-11hrw
 
-55295.  Lesson 3.1 Alg 1.ahk
+317.  Lesson 3.1 Alg 1.ahk
 https://www.youtube.com/watch?v=lRZt7ljFLa8
 
-55613.  Lesson 3.2 Alg 1 Video (1789764).ahk
+318.  Lesson 3.2 Alg 1 Video (1789764).ahk
 https://www.youtube.com/watch?v=n0DVO2X81gc
 
-55932.  Lesson 3.2 Alg 1 video.ahk
+319.  Lesson 3.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=WFB2U9UxdEo
 
-56252.  Lesson 3.3 Alg 1 video (1699635).ahk
+320.  Lesson 3.3 Alg 1 video (1699635).ahk
 https://www.youtube.com/watch?v=amcoO9sbJVg
 
-56573.  Lesson 3.3 Alg 1 video.ahk
+321.  Lesson 3.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=HyxH3D3U5Sw
 
-56895.  Lesson 3.4 Alg 1.ahk
+322.  Lesson 3.4 Alg 1.ahk
 https://www.youtube.com/watch?v=4II04yqYNbo
 
-57218.  Lesson 38 Ratios.ahk
+323.  Lesson 38 Ratios.ahk
 https://www.youtube.com/watch?v=BhKJzFOh2Ew
 
-57542.  Lesson 39 Negated InequalitiesAdvanced Ratio Problems.ahk
+324.  Lesson 39 Negated InequalitiesAdvanced Ratio Problems.ahk
 https://www.youtube.com/watch?v=Q9Nd_5eATLM
 
-57867.  Lesson 4 Conversions of Length (Unit Multipliers).ahk
+325.  Lesson 4 Conversions of Length (Unit Multipliers).ahk
 https://www.youtube.com/watch?v=Rul-lXrkwDE
 
-58193.  Lesson 4.1 Alg 1 video (1078495).ahk
+326.  Lesson 4.1 Alg 1 video (1078495).ahk
 https://www.youtube.com/watch?v=f_79OcyChpw
 
-58520.  Lesson 4.1 Alg 1 video.ahk
+327.  Lesson 4.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Dbn9KMN0d78
 
-58848.  Lesson 4.2 Alg 1 video.ahk
+328.  Lesson 4.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=QgD_4tu1Wk8
 
-59177.  Lesson 4.2 Alg 1 video2.ahk
+329.  Lesson 4.2 Alg 1 video2.ahk
 https://www.youtube.com/watch?v=s6MTV1jQGVI
 
-59507.  Lesson 4.3 Alg 1 video (1725950).ahk
+330.  Lesson 4.3 Alg 1 video (1725950).ahk
 https://www.youtube.com/watch?v=_88DsqTfv_o
 
-59838.  Lesson 4.3 Alg 1 video.ahk
+331.  Lesson 4.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=Cdx2A1P_uVI
 
-60170.  Lesson 40 Quotient Rule for ExponentsDistributive Property with Negative Exponents.ahk
+332.  Lesson 40 Quotient Rule for ExponentsDistributive Property with Negative Exponents.ahk
 https://www.youtube.com/watch?v=to8SVV4bJio
 
-60503.  Lesson 41 Adding Like Terms in Rational Expressions  2-Step Problems.ahk
+333.  Lesson 41 Adding Like Terms in Rational Expressions  2-Step Problems.ahk
 https://www.youtube.com/watch?v=aaQ4cMB1Ud8
 
-60837.  Lesson 42 Multi-variable Equations.ahk
+334.  Lesson 42 Multi-variable Equations.ahk
 https://www.youtube.com/watch?v=e2T12QliBvA
 
-61172.  Lesson 43 Least Common Multiple.ahk
+335.  Lesson 43 Least Common Multiple.ahk
 https://www.youtube.com/watch?v=OuGix9wYtRk
 
-61508.  Lesson 44 Adding Rational Expressions.ahk
+336.  Lesson 44 Adding Rational Expressions.ahk
 https://www.youtube.com/watch?v=Zu0VQOMy1Ho
 
-61845.  Lesson 45 Range, Median, Mode, and Mean.ahk
+337.  Lesson 45 Range, Median, Mode, and Mean.ahk
 https://www.youtube.com/watch?v=t0RzyPARVg4
 
-62183.  Lesson 46 Conjunctions.ahk
+338.  Lesson 46 Conjunctions.ahk
 https://www.youtube.com/watch?v=KUGJeumP_nw
 
-62522.  Lesson 47 Percents Greater Than 100.ahk
+339.  Lesson 47 Percents Greater Than 100.ahk
 https://www.youtube.com/watch?v=7KPzx9_ZXK8
 
-62862.  Lesson 48 Addition of Polynomials.ahk
+340.  Lesson 48 Addition of Polynomials.ahk
 https://www.youtube.com/watch?v=Jtt6HWynrqk
 
-63203.  Lesson 49 Multiplication of Polynomials.ahk
+341.  Lesson 49 Multiplication of Polynomials.ahk
 https://www.youtube.com/watch?v=UkfkIrwxQr0
 
-63545.  Lesson 5.1 Alg 1 video.ahk
+342.  Lesson 5.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=y0Lp0zAJnKk
 
-63888.  Lesson 5.2 Alg 1 video.ahk
+343.  Lesson 5.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=uY4IoASvryg
 
-64232.  Lesson 5.3 Alg 1 video.ahk
+344.  Lesson 5.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=IhuGmVHmNrY
 
-64577.  Lesson 51 Equations of Lines.ahk
+345.  Lesson 51 Equations of Lines.ahk
 https://www.youtube.com/watch?v=Bj8P80EokNs
 
-64923.  Lesson 52 More Addition of Radical ExpressionsOverall Average.ahk
+346.  Lesson 52 More Addition of Radical ExpressionsOverall Average.ahk
 https://www.youtube.com/watch?v=CtX6Vm6k5fg
 
-65270.  Lesson 53 Power Rule for ExponentsConversions of Volume.ahk
+347.  Lesson 53 Power Rule for ExponentsConversions of Volume.ahk
 https://www.youtube.com/watch?v=TFfc37nys7E
 
-65618.  Lesson 54 Simultaneous Equations.ahk
+348.  Lesson 54 Simultaneous Equations.ahk
 https://www.youtube.com/watch?v=N3oxM8cVlf0
 
-65967.  Lesson 55 Complex Fractions.ahk
+349.  Lesson 55 Complex Fractions.ahk
 https://www.youtube.com/watch?v=wU8SH2i30Rw
 
-66317.  Lesson 56 SetsRearranging Before Graphing.ahk
+350.  Lesson 56 SetsRearranging Before Graphing.ahk
 https://www.youtube.com/watch?v=hU0cHksfLWs
 
-66668.  Lesson 6.1 Alg 1 video.ahk
+351.  Lesson 6.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=zEOnzSmwlfM
 
-67020.  Lesson 6.2 Alg 1 video.ahk
+352.  Lesson 6.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=6rM0dvl68yo
 
-67373.  Lesson 6.3 Alg 1 Video (1184763).ahk
+353.  Lesson 6.3 Alg 1 Video (1184763).ahk
 https://www.youtube.com/watch?v=85m5_EbbzI8
 
-67727.  Lesson 6.3 Alg 1 Video.ahk
+354.  Lesson 6.3 Alg 1 Video.ahk
 https://www.youtube.com/watch?v=85m5_EbbzI8
 
-68082.  Lesson 6.4 Alg 1 video.ahk
+355.  Lesson 6.4 Alg 1 video.ahk
 https://www.youtube.com/watch?v=C2eAYXuJB9g
 
-68438.  Lesson 6.5 Alg 1 video.ahk
+356.  Lesson 6.5 Alg 1 video.ahk
 https://www.youtube.com/watch?v=D6f2cFXU5WI
 
-68795.  Lesson 67- algebra.ahk
+357.  Lesson 67- algebra.ahk
 https://www.youtube.com/watch?v=vHiGVjl6Fc4
 
-69153.  Lesson 7.1 Alg 1 Video (1307910).ahk
+358.  Lesson 7.1 Alg 1 Video (1307910).ahk
 https://www.youtube.com/watch?v=m4Z0QqDY4GM
 
-69512.  Lesson 7.1 Alg 1 video.ahk
+359.  Lesson 7.1 Alg 1 video.ahk
 https://www.youtube.com/watch?v=ojcyQzW3g68
 
-69872.  Lesson 7.2 Alg 1 video.ahk
+360.  Lesson 7.2 Alg 1 video.ahk
 https://www.youtube.com/watch?v=AbFBHwq7Muw
 
-70233.  Lesson 7.3 Alg 1 video.ahk
+361.  Lesson 7.3 Alg 1 video.ahk
 https://www.youtube.com/watch?v=S2dTPa3Ln_A
 
-70595.  Lesson 8.2 (FULL).ahk
+362.  Lesson 8.2 (FULL).ahk
 https://www.youtube.com/watch?v=HosCG-gcuJw
 
-70958.  Lesson 8.3 Difference of Perfect Squares Factoring.ahk
+363.  Lesson 8.3 Difference of Perfect Squares Factoring.ahk
 https://www.youtube.com/watch?v=kgBf6Df0MXU
 
-71322.  Lesson Factoring Difference of Squares- Solving HW Video.ahk
+364.  Lesson Factoring Difference of Squares- Solving HW Video.ahk
 https://www.youtube.com/watch?v=td-sQ8MY9jg
 
-71687.  Lesson Factoring GCF-Grouping HW Video.ahk
+365.  Lesson Factoring GCF-Grouping HW Video.ahk
 https://www.youtube.com/watch?v=lh_3fzRbiso
 
-72053.  Lesson Factoring Trinomial with a NOT =1 HW Video.ahk
+366.  Lesson Factoring Trinomial with a NOT =1 HW Video.ahk
 https://www.youtube.com/watch?v=h5YviEczcIk
 
-72420.  Lesson Factoring Trinomial with a=1 HW Video.ahk
+367.  Lesson Factoring Trinomial with a=1 HW Video.ahk
 https://www.youtube.com/watch?v=qrqrvHL9oQQ
 
-72788.  Lessons 2.4 and 2.5 Alg.1 Video.ahk
+368.  Lessons 2.4 and 2.5 Alg.1 Video.ahk
 https://www.youtube.com/watch?v=Uz0tVQFpg9A
 
-73157.  Line of Best Fit Notes LHS.ahk
+369.  Line of Best Fit Notes LHS.ahk
 https://www.youtube.com/watch?v=jhd43mhFfCU
 
-73527.  Linear Combination with Multiplication (Simplifying Math).ahk
+370.  Linear Combination with Multiplication (Simplifying Math).ahk
 https://www.youtube.com/watch?v=36Aagj_NwlM
 
-73898.  Linear Equations in Function Notation (Simplifying Math).ahk
+371.  Linear Equations in Function Notation (Simplifying Math).ahk
 https://www.youtube.com/watch?v=f8hRHnODnTE
 
-74270.  Linear Equations Part 1 of 2.ahk
+372.  Linear Equations Part 1 of 2.ahk
 https://www.youtube.com/watch?v=mYoXdQuvELY
 
-74643.  Linear Equations Part 2 of 2.ahk
+373.  Linear Equations Part 2 of 2.ahk
 https://www.youtube.com/watch?v=sKaTXtT4k-E
 
-75017.  Linear Equations Point-Slope Form (Simplifying Math).ahk
+374.  Linear Equations Point-Slope Form (Simplifying Math).ahk
 https://www.youtube.com/watch?v=6Wd6HuQu6z8
 
-75392.  Linear Inequalities (Simplifying Math).ahk
+375.  Linear Inequalities (Simplifying Math).ahk
 https://www.youtube.com/watch?v=C2yr_y_rmGw
 
-75768.  Making Predictions from Line of Best Fit Notes LHS.ahk
+376.  Making Predictions from Line of Best Fit Notes LHS.ahk
 https://www.youtube.com/watch?v=YI30vWvWq3s
 
-76145.  Making Words into Equations (Simplifying Math).ahk
+377.  Making Words into Equations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=4izzGztSFAs
 
-76523.  Mathematical Functions (Simplifying Math).ahk
+378.  Mathematical Functions (Simplifying Math).ahk
 https://www.youtube.com/watch?v=Od7WrjEuTN0
 
-76902.  Mathematics Equations (Simplifying Math).ahk
+379.  Mathematics Equations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=s1dfKmZB_eo
 
-77282.  Mathematics Lesson Opposite and Absolute Values (Simplifying Math).ahk
+380.  Mathematics Lesson Opposite and Absolute Values (Simplifying Math).ahk
 https://www.youtube.com/watch?v=mJ3P3I7FCeg
 
-77663.  Mathematics Lesson Ratios Part 1 (Simplifying Math).ahk
+381.  Mathematics Lesson Ratios Part 1 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=weJ5Y42L0jQ
 
-78045.  Mathematics Lesson Ratios part 2 (Simplifying Math).ahk
+382.  Mathematics Lesson Ratios part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=ajPoBDBYbFY
 
-78428.  Mathematics Lesson Relations (Simplifying Math).ahk
+383.  Mathematics Lesson Relations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=hM_iObXeno0
 
-78812.  Mathematics Number Properties (Simplifying Math).ahk
+384.  Mathematics Number Properties (Simplifying Math).ahk
 https://www.youtube.com/watch?v=4GkU9WbpYNc
 
-79197.  Mathematics Percent Problems (Simplifying Math).ahk
+385.  Mathematics Percent Problems (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WmlWQ0Ut0V0
 
-79583.  Method of Elimination Part 1 of 2.ahk
+386.  Method of Elimination Part 1 of 2.ahk
 https://www.youtube.com/watch?v=ffGIBgV-Dps
 
-79970.  Method of Elimination Part 2 of 2.ahk
+387.  Method of Elimination Part 2 of 2.ahk
 https://www.youtube.com/watch?v=0EVARO3sBZ0
 
-80358.  Method of Substitution.ahk
+388.  Method of Substitution.ahk
 https://www.youtube.com/watch?v=c4bMlp5BZbY
 
-80747.  Module 1 practice quiz answers basic.ahk
+389.  Module 1 practice quiz answers basic.ahk
 https://www.youtube.com/watch?v=8wMgDu_WBYk
 
-81137.  Module 14 Overview Lessons.ahk
+390.  Module 14 Overview Lessons.ahk
 https://www.youtube.com/watch?v=QaHDfvaOEXI
 
-81528.  Monomials Least Common Multiple (LCM) & Greatest Common Factor (GCF).ahk
+391.  Monomials Least Common Multiple (LCM) & Greatest Common Factor (GCF).ahk
 https://www.youtube.com/watch?v=RRRTIvGvDfM
 
-81920.  Multiplication and Division with Negative Numbers (Simplifying Math).ahk
+392.  Multiplication and Division with Negative Numbers (Simplifying Math).ahk
 https://www.youtube.com/watch?v=zh8Aa_hO1s0
 
-82313.  Multiply Binomial FOIL examples.ahk
+393.  Multiply Binomial FOIL examples.ahk
 https://www.youtube.com/watch?v=B66Id22Vdo4
 
-82707.  Multiplying and Power to Power Exponents.ahk
+394.  Multiplying and Power to Power Exponents.ahk
 https://www.youtube.com/watch?v=vzwW7E5zKA0
 
-83102.  Multiplying Binomial Special Cases lhs.ahk
+395.  Multiplying Binomial Special Cases lhs.ahk
 https://www.youtube.com/watch?v=CCNnFXqfOLE
 
-83498.  Multiplying Binomials Notes LHS.ahk
+396.  Multiplying Binomials Notes LHS.ahk
 https://www.youtube.com/watch?v=YyqO7WtBVQg
 
-83895.  Multiplying Monomials (Simplifying Math).ahk
+397.  Multiplying Monomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=3kty66idjAg
 
-84293.  Multiplying Monomials and Polynomials (Simplifying Math).ahk
+398.  Multiplying Monomials and Polynomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=FLPhA8RmOIY
 
-84692.  Multiplying Polynomials (Simplifying Math).ahk
+399.  Multiplying Polynomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=hKcVTGwMbjM
 
-85092.  Multiplying Polynomials Assignment Help Lufkin High School.ahk
+400.  Multiplying Polynomials Assignment Help Lufkin High School.ahk
 https://www.youtube.com/watch?v=-VEKe7nZJqI
 
-85493.  multiplying polynomials by monomials notes lhs.ahk
+401.  multiplying polynomials by monomials notes lhs.ahk
 https://www.youtube.com/watch?v=B6bxDp4mzAI
 
-85895.  Multiplying Polynomials Notes Lufkin High School.ahk
+402.  Multiplying Polynomials Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=CiI3LqefKQk
 
-86298.  Notes Factoring Trinomial a is 1 Video.ahk
+403.  Notes Factoring Trinomial a is 1 Video.ahk
 https://www.youtube.com/watch?v=i3ywin6-jFE
 
-86702.  Notes Factoring Trinomial a is not 1 Video.ahk
+404.  Notes Factoring Trinomial a is not 1 Video.ahk
 https://www.youtube.com/watch?v=-eFc5Z8xKjM
 
-87107.  Notes Fatoring Special Cases.ahk
+405.  Notes Fatoring Special Cases.ahk
 https://www.youtube.com/watch?v=8XTvzwPdBnE
 
-87513.  Notes on Graphing Sine and Cosine video.ahk
+406.  Notes on Graphing Sine and Cosine video.ahk
 https://www.youtube.com/watch?v=QFFYmRKW4QA
 
-87920.  Notes on Graphing Sine and Cosine w Amplitude video.ahk
+407.  Notes on Graphing Sine and Cosine w Amplitude video.ahk
 https://www.youtube.com/watch?v=D26KvGcXSo0
 
-88328.  Notes on Review of Factoring vid.ahk
+408.  Notes on Review of Factoring vid.ahk
 https://www.youtube.com/watch?v=JV4hTHZ99vo
 
-88737.  Notes on Review of Factoring video.ahk
+409.  Notes on Review of Factoring video.ahk
 https://www.youtube.com/watch?v=pIxUw0t386M
 
-89147.  Notes on Solving Quadratics Various Methods video.ahk
+410.  Notes on Solving Quadratics Various Methods video.ahk
 https://www.youtube.com/watch?v=6rbOk69MsYw
 
-89558.  Notes on Special Right Triangles video.ahk
+411.  Notes on Special Right Triangles video.ahk
 https://www.youtube.com/watch?v=KAOomHPrHAE
 
-89970.  Notes on Trig w- Right Triangles video.ahk
+412.  Notes on Trig w- Right Triangles video.ahk
 https://www.youtube.com/watch?v=fAKE_fUYMI0
 
-90383.  Number Lines and Comparing Numbers (Simplifying Math).ahk
+413.  Number Lines and Comparing Numbers (Simplifying Math).ahk
 https://www.youtube.com/watch?v=lYCoUHn-QJI
 
-90797.  Number Systems class 9  A  Rational  Irrational.ahk
+414.  Number Systems class 9  A  Rational  Irrational.ahk
 https://www.youtube.com/watch?v=YsfdwEeYrug
 
-91212.  Open Sentences &  Closed Sentences - Algebra 1 Lessons 2.1.ahk
+415.  Open Sentences &  Closed Sentences - Algebra 1 Lessons 2.1.ahk
 https://www.youtube.com/watch?v=plSGrq3DN5o
 
-91628.  Overview reteach of 22.4 and 22.5.ahk
+416.  Overview reteach of 22.4 and 22.5.ahk
 https://www.youtube.com/watch?v=itpnr0vethY
 
-92045.  Parallel and Perpendicular Line Problems (Simplifying Math).ahk
+417.  Parallel and Perpendicular Line Problems (Simplifying Math).ahk
 https://www.youtube.com/watch?v=omOXhj3HmNk
 
-92463.  Perfect Square Trinomials (Simplifying Math).ahk
+418.  Perfect Square Trinomials (Simplifying Math).ahk
 https://www.youtube.com/watch?v=LPNaoUuFWJk
 
-92882.  Point Slope Form.ahk
+419.  Point Slope Form.ahk
 https://www.youtube.com/watch?v=FF8O5kq61BU
 
-93302.  Polynomials intro  Mathematics II  High School Math  Khan Academy.ahk
+420.  Polynomials intro  Mathematics II  High School Math  Khan Academy.ahk
 https://www.youtube.com/watch?v=Vm7H0VTlIco
 
-93723.  Practice test modules 11,12,13 answers.ahk
+421.  Practice test modules 11,12,13 answers.ahk
 https://www.youtube.com/watch?v=1lb2CNY295g
 
-94145.  Pre-Algebra Reciprocals (Simplifying Math).ahk
+422.  Pre-Algebra Reciprocals (Simplifying Math).ahk
 https://www.youtube.com/watch?v=kBM_xhA5KFw
 
-94568.  Pre-Lesson 8.2.ahk
+423.  Pre-Lesson 8.2.ahk
 https://www.youtube.com/watch?v=PjyMrO97UPM
 
-94992.  Proportions Part 1 (Simplifying Math).ahk
+424.  Proportions Part 1 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=JtEjLI2arq4
 
-95417.  Proportions Part 2 (Simplifying Math).ahk
+425.  Proportions Part 2 (Simplifying Math).ahk
 https://www.youtube.com/watch?v=LqE-5RCuP8w
 
-95843.  Pythagorean Theorem (Simplifying Math).ahk
+426.  Pythagorean Theorem (Simplifying Math).ahk
 https://www.youtube.com/watch?v=dQCf7_kN9r0
 
-96270.  Quadratic Formula (Simplifying Math).ahk
+427.  Quadratic Formula (Simplifying Math).ahk
 https://www.youtube.com/watch?v=tNeJfOMyQz4
 
-96698.  Quadratic Formula Day 3 Notes LHS.ahk
+428.  Quadratic Formula Day 3 Notes LHS.ahk
 https://www.youtube.com/watch?v=I-4_UEBljGk
 
-97127.  Quadratic Variation (Simplifying Math).ahk
+429.  Quadratic Variation (Simplifying Math).ahk
 https://www.youtube.com/watch?v=se-hJfPDR0I
 
-97557.  Rational Numbers (Simplifying Math).ahk
+430.  Rational Numbers (Simplifying Math).ahk
 https://www.youtube.com/watch?v=LdKhKYs9u54
 
-97988.  Recognizing rational and irrational numbers (examples)  Algebra I  Khan Academy.ahk
+431.  Recognizing rational and irrational numbers (examples)  Algebra I  Khan Academy.ahk
 https://www.youtube.com/watch?v=d9pO2z2qvXU
 
-98420.  Recursive Formulas LHS Notes.ahk
+432.  Recursive Formulas LHS Notes.ahk
 https://www.youtube.com/watch?v=SPjg04a8pUE
 
-98853.  Relations Domain and Range Notes Lufkin High School.ahk
+433.  Relations Domain and Range Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=takv_M18ky8
 
-99287.  Simplifying Algebraic Expressions With Parentheses & Variables - Combining Like Terms - Algebra.ahk
+434.  Simplifying Algebraic Expressions With Parentheses & Variables - Combining Like Terms - Algebra.ahk
 https://www.youtube.com/watch?v=aR6phzMLuKM
 
-99722.  Simplifying Expressions.mp4.ahk
+435.  Simplifying Expressions.mp4.ahk
 https://www.youtube.com/watch?v=EQvhCKnH21s
 
-100158.  Simplifying Numerical Square Roots I Do We Do You Do.ahk
+436.  Simplifying Numerical Square Roots I Do We Do You Do.ahk
 https://www.youtube.com/watch?v=7KBqzgfjqn8
 
-100595.  Simplifying Rational Expressions Notes LHS.ahk
+437.  Simplifying Rational Expressions Notes LHS.ahk
 https://www.youtube.com/watch?v=pYzSEZwzhbo
 
-101033.  Simplifying The Quadratic Formula.ahk
+438.  Simplifying The Quadratic Formula.ahk
 https://www.youtube.com/watch?v=tgyOwRVYBfc
 
-101472.  Slope and Intercepts Notes LHS.ahk
+439.  Slope and Intercepts Notes LHS.ahk
 https://www.youtube.com/watch?v=ys9DbGbxpaU
 
-101912.  Slope Formula Notes LHS.ahk
+440.  Slope Formula Notes LHS.ahk
 https://www.youtube.com/watch?v=dGSu-frBcyo
 
-102353.  Slope From a Graph Notes LHS.ahk
+441.  Slope From a Graph Notes LHS.ahk
 https://www.youtube.com/watch?v=Hn4Amo4uA7M
 
-102795.  Slope from graph and points (Simplifying Math).ahk
+442.  Slope from graph and points (Simplifying Math).ahk
 https://www.youtube.com/watch?v=4fUZjm5Nlo0
 
-103238.  Solutions to Systems of Equations LHS Notes.ahk
+443.  Solutions to Systems of Equations LHS Notes.ahk
 https://www.youtube.com/watch?v=3D0Oxd79LqY
 
-103682.  Solve Quadratics by Completing the Square Day 1 Notes LHS.ahk
+444.  Solve Quadratics by Completing the Square Day 1 Notes LHS.ahk
 https://www.youtube.com/watch?v=mPr53x_yGak
 
-104127.  Solving 1-2 Step Equations.mp4.ahk
+445.  Solving 1-2 Step Equations.mp4.ahk
 https://www.youtube.com/watch?v=FA-TWKwCjE4
 
-104573.  Solving Addition and Subtraction Equations (Simplifying Math).ahk
+446.  Solving Addition and Subtraction Equations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=gXUvgpAiaK0
 
-105020.  Solving an Algebra Coin Problem (Simplifying Math).ahk
+447.  Solving an Algebra Coin Problem (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WEAJk9yQZKU
 
-105468.  Solving Equations of All Types.mp4.ahk
+448.  Solving Equations of All Types.mp4.ahk
 https://www.youtube.com/watch?v=aIbEzYz_HOo
 
-105917.  Solving Equations using Multiplication and Division (Simplifying Math).ahk
+449.  Solving Equations using Multiplication and Division (Simplifying Math).ahk
 https://www.youtube.com/watch?v=TR7MSZ0LUvk
 
-106367.  Solving Equations with Fractions.mp4.ahk
+450.  Solving Equations with Fractions.mp4.ahk
 https://www.youtube.com/watch?v=FAtcheQGJL4
 
-106818.  Solving Equations with Square Roots (Simplifying Math).ahk
+451.  Solving Equations with Square Roots (Simplifying Math).ahk
 https://www.youtube.com/watch?v=6XzDQuj9dJk
 
-107270.  Solving Equations with the Distributive Property Notes Lufkin High School.ahk
+452.  Solving Equations with the Distributive Property Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=-3_e7K5wTj8
 
-107723.  Solving for Y notes LHS.ahk
+453.  Solving for Y notes LHS.ahk
 https://www.youtube.com/watch?v=QqBCIVBhZIs
 
-108177.  Solving Linear Equations.ahk
+454.  Solving Linear Equations.ahk
 https://www.youtube.com/watch?v=qCQjPBxJ7bY
 
-108632.  Solving Linear Systems using Graphing (Simplifying Math).ahk
+455.  Solving Linear Systems using Graphing (Simplifying Math).ahk
 https://www.youtube.com/watch?v=PH9Nv2tqKi0
 
-109088.  Solving Linear Systems Using Substitution Method (Simplifying Math).ahk
+456.  Solving Linear Systems Using Substitution Method (Simplifying Math).ahk
 https://www.youtube.com/watch?v=3qoc04uvfEo
 
-109545.  Solving Literal Equations Notes Lufkin High School.ahk
+457.  Solving Literal Equations Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=YgQiV60-3AY
 
-110003.  Solving Mathematics World Problems (Simplifying Math).ahk
+458.  Solving Mathematics World Problems (Simplifying Math).ahk
 https://www.youtube.com/watch?v=q14ku1Q3WB8
 
-110462.  Solving Multi-Step Equations Notes Lufkin High School.ahk
+459.  Solving Multi-Step Equations Notes Lufkin High School.ahk
 https://www.youtube.com/watch?v=XZrfXiJ84WI
 
-110922.  Solving Multiple Step Inequalities (Simplifying Math).ahk
+460.  Solving Multiple Step Inequalities (Simplifying Math).ahk
 https://www.youtube.com/watch?v=t3-2PVR5Ios
 
-111383.  Solving Multiple-Step Algebra Equations (Simplifying Math).ahk
+461.  Solving Multiple-Step Algebra Equations (Simplifying Math).ahk
 https://www.youtube.com/watch?v=c4X5Ap7qJ0s
 
-111845.  Solving Quadratics by Completing The Square Day 2.ahk
+462.  Solving Quadratics by Completing The Square Day 2.ahk
 https://www.youtube.com/watch?v=tO4dZFk6AeE
 
-112308.  Solving Quadratics by Factoring Day 1 Notes LHS.ahk
+463.  Solving Quadratics by Factoring Day 1 Notes LHS.ahk
 https://www.youtube.com/watch?v=31nqye_GC_0
 
-112772.  Solving Quadratics By Factoring Notes LHS.ahk
+464.  Solving Quadratics By Factoring Notes LHS.ahk
 https://www.youtube.com/watch?v=8vZWEPTqZQ0
 
-113237.  Solving Square Roots Babylonian Method (Simplifying Math).ahk
+465.  Solving Square Roots Babylonian Method (Simplifying Math).ahk
 https://www.youtube.com/watch?v=jTWxFGmWoZg
 
-113703.  Solving Systems by Elimination Notes LHS.ahk
+466.  Solving Systems by Elimination Notes LHS.ahk
 https://www.youtube.com/watch?v=NFZ5ovfrabI
 
-114170.  Solving Systems by Substitution LHS Notes.ahk
+467.  Solving Systems by Substitution LHS Notes.ahk
 https://www.youtube.com/watch?v=P_hN7J9Hfbg
 
-114638.  Solving Systems by Substitution.ahk
+468.  Solving Systems by Substitution.ahk
 https://www.youtube.com/watch?v=S0Xd1tNwv88
 
-115107.  Solving Systems of Equations Algebraically (Elimination).ahk
+469.  Solving Systems of Equations Algebraically (Elimination).ahk
 https://www.youtube.com/watch?v=lNqUcr7LRDw
 
-115577.  Solving Systems of Equations with Substitution.ahk
+470.  Solving Systems of Equations with Substitution.ahk
 https://www.youtube.com/watch?v=DkfCJHkt43A
 
-116048.  Solving Systems of Linear Inequalities (Simplifying Math).ahk
+471.  Solving Systems of Linear Inequalities (Simplifying Math).ahk
 https://www.youtube.com/watch?v=btw-HCDMvy4
 
-116520.  Solving Systems Using Linear Combination (Simplifying Math).ahk
+472.  Solving Systems Using Linear Combination (Simplifying Math).ahk
 https://www.youtube.com/watch?v=ZbObjY_zf_g
 
-116993.  Square Roots (Simlifying Math).ahk
+473.  Square Roots (Simlifying Math).ahk
 https://www.youtube.com/watch?v=z33sNvs5Pw0
 
-117467.  Square Roots with Variables (Simplifying Math).ahk
+474.  Square Roots with Variables (Simplifying Math).ahk
 https://www.youtube.com/watch?v=XX_MW4fVeTM
 
-117942.  STAAR Algebra 1 Formula Chart Activity.ahk
+475.  STAAR Algebra 1 Formula Chart Activity.ahk
 https://www.youtube.com/watch?v=ZMnPIiixxfg
 
-118418.  Stump your Math Teacher! (Simplifying Math).ahk
+476.  Stump your Math Teacher! (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WEWU5HMo-E4
 
-118895.  System of Equations Word Problems Two Scenario.ahk
+477.  System of Equations Word Problems Two Scenario.ahk
 https://www.youtube.com/watch?v=vuM6ll-JwmE
 
-119373.  Systems of Equations by Graphing PAP Notes LHS.ahk
+478.  Systems of Equations by Graphing PAP Notes LHS.ahk
 https://www.youtube.com/watch?v=-WJuEZ15a64
 
-119852.  Systems of Equations Practice REG problems.ahk
+479.  Systems of Equations Practice REG problems.ahk
 https://www.youtube.com/watch?v=zQPlsaDEY3Y
 
-120332.  Systems of Equations Word Problems Notes LHS.ahk
+480.  Systems of Equations Word Problems Notes LHS.ahk
 https://www.youtube.com/watch?v=A8evnfDdbgM
 
-120813.  Systems Of Equations Word Problems Value & Amount.ahk
+481.  Systems Of Equations Word Problems Value & Amount.ahk
 https://www.youtube.com/watch?v=7-KbYfdaA9U
 
-121295.  Systems of Inequalities Notes LHS.ahk
+482.  Systems of Inequalities Notes LHS.ahk
 https://www.youtube.com/watch?v=ocVcwIERS2Y
 
-121778.  Systems Of Inequalities Word Problems.ahk
+483.  Systems Of Inequalities Word Problems.ahk
 https://www.youtube.com/watch?v=QHuMHRiRR90
 
-122262.  Terminating and Repeating Decimals (Simplifying Math).ahk
+484.  Terminating and Repeating Decimals (Simplifying Math).ahk
 https://www.youtube.com/watch?v=VWMTeWn3GrI
 
-122747.  Translating on a Graph (Simplifying Math).ahk
+485.  Translating on a Graph (Simplifying Math).ahk
 https://www.youtube.com/watch?v=YcJqCQERJ68
 
-123233.  Unit 12 Day 2 Implicit Sequences.ahk
+486.  Unit 12 Day 2 Implicit Sequences.ahk
 https://www.youtube.com/watch?v=iHNrTOkRA3U
 
-123720.  Unit 12 Day 3 Notes Recursive Sequences.ahk
+487.  Unit 12 Day 3 Notes Recursive Sequences.ahk
 https://www.youtube.com/watch?v=LeUfp5qHEwY
 
-124208.  Unit 14 Day 1 Absolute Value Basics.ahk
+488.  Unit 14 Day 1 Absolute Value Basics.ahk
 https://www.youtube.com/watch?v=BiCJiJWxMO8
 
-124697.  Unit 14 Day 1 Solving Proportions Notes.ahk
+489.  Unit 14 Day 1 Solving Proportions Notes.ahk
 https://www.youtube.com/watch?v=A8vO-vsbg4M
 
-125187.  Unit 14 Day 2 Solving Abs Value Equations Day 1.ahk
+490.  Unit 14 Day 2 Solving Abs Value Equations Day 1.ahk
 https://www.youtube.com/watch?v=AqF3XgLy1aI
 
-125678.  Unit 14 Day 3 Notes Rational Linear Equations.ahk
+491.  Unit 14 Day 3 Notes Rational Linear Equations.ahk
 https://www.youtube.com/watch?v=LnESzSJ4UI4
 
-126170.  Unit 14 Day 3 Solving Abs Value Equations Day 2.ahk
+492.  Unit 14 Day 3 Solving Abs Value Equations Day 2.ahk
 https://www.youtube.com/watch?v=n44zkiJRRos
 
-126663.  Unit 14 Day 4 Graph Abs Value Day 1.ahk
+493.  Unit 14 Day 4 Graph Abs Value Day 1.ahk
 https://www.youtube.com/watch?v=0-YUWnVs-n8
 
-127157.  Unit 14 Day 4 Notes Rational Equations Linear and Quadratic.ahk
+494.  Unit 14 Day 4 Notes Rational Equations Linear and Quadratic.ahk
 https://www.youtube.com/watch?v=Ou0y2haq7S0
 
-127652.  Unit 14 Day 5 Graph Abs Value Day 2.ahk
+495.  Unit 14 Day 5 Graph Abs Value Day 2.ahk
 https://www.youtube.com/watch?v=0xzdqKOI4w0
 
-128148.  Unit 14 Day 6 Solving Abs Value Equations By Graphing Day 1.ahk
+496.  Unit 14 Day 6 Solving Abs Value Equations By Graphing Day 1.ahk
 https://www.youtube.com/watch?v=kBQfux_ljuY
 
-128645.  Unit 14 Day 7 Solve Abs Value Equations by Graphing Day 2.ahk
+497.  Unit 14 Day 7 Solve Abs Value Equations by Graphing Day 2.ahk
 https://www.youtube.com/watch?v=6g-pbb1_NDk
 
-129143.  Use FOIL Method to Multiply Polynomials Algebra.ahk
+498.  Use FOIL Method to Multiply Polynomials Algebra.ahk
 https://www.youtube.com/watch?v=bn51ML8jkIs
 
-129642.  Vertex Form to Standard Form LHS.ahk
+499.  Vertex Form to Standard Form LHS.ahk
 https://www.youtube.com/watch?v=TpyNF-Daxo0
 
-130142.  Vertical Stretch and Compression of the Quadratic Notes LHS.ahk
+500.  Vertical Stretch and Compression of the Quadratic Notes LHS.ahk
 https://www.youtube.com/watch?v=u-EO--ZGNjk
 
-130643.  Writing Equations of LInes in Slope Intercept Form Notes LHS.ahk
+501.  Writing Equations of LInes in Slope Intercept Form Notes LHS.ahk
 https://www.youtube.com/watch?v=PTcXTN0DrhU
 
-131145.  Writing Linear Functions Word Problems Notes LHS.ahk
+502.  Writing Linear Functions Word Problems Notes LHS.ahk
 https://www.youtube.com/watch?v=2fZ1jlNgAAI
 
-131648.  Writing Linear Inequalities Notes LHS.ahk
+503.  Writing Linear Inequalities Notes LHS.ahk
 https://www.youtube.com/watch?v=qxBLmPAv2mE
 
-132152.  Writing Systems from Graphs and Tables Notes LHS.ahk
+504.  Writing Systems from Graphs and Tables Notes LHS.ahk
 https://www.youtube.com/watch?v=bO1fqB7kNRQ
 
-132657.  y = mx + b  Slope-Intercept form of a line (Simplifying Math).ahk
+505.  y = mx + b  Slope-Intercept form of a line (Simplifying Math).ahk
 https://www.youtube.com/watch?v=WtVBvHWQNGs
 Algebra 1 Lessons

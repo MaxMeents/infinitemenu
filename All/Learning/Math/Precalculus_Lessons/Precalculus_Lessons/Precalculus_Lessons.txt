@@ -1,652 +1,652 @@
 
-411043.  Angle Between Vectors.ahk
+1.  Angle Between Vectors.ahk
 https://www.youtube.com/watch?v=lIxzmgW-ukI
 
-411045.  Applications of sinuisoidal functions.ahk
+2.  Applications of sinuisoidal functions.ahk
 https://www.youtube.com/watch?v=EECZGzNxDPc
 
-411048.  Calc Unit 10 Lesson 3 Radians.ahk
+3.  Calc Unit 10 Lesson 3 Radians.ahk
 https://www.youtube.com/watch?v=nJ1Zq45UQ0c
 
-411052.  CamScanner for submitting to Canvas Student App.ahk
+4.  CamScanner for submitting to Canvas Student App.ahk
 https://www.youtube.com/watch?v=Wgv7zISVMRA
 
-411057.  Coterminal Angles.ahk
+5.  Coterminal Angles.ahk
 https://www.youtube.com/watch?v=-W8fMGqpBtA
 
-411063.  Evaluating InverseTrigonometric Functions.ahk
+6.  Evaluating InverseTrigonometric Functions.ahk
 https://www.youtube.com/watch?v=uDYh0AYFyxQ
 
-411070.  Half Double Sum Difference Identity Quiz Review.ahk
+7.  Half Double Sum Difference Identity Quiz Review.ahk
 https://www.youtube.com/watch?v=vyj9SljJTqY
 
-411078.  Intro to Vectors.ahk
+8.  Intro to Vectors.ahk
 https://www.youtube.com/watch?v=Pl1dD7a3ins
 
-411087.  Law of sine & cosine review.ahk
+9.  Law of sine & cosine review.ahk
 https://www.youtube.com/watch?v=Lw8sruyk_ds
 
-411097.  Matrix Quiz Review.ahk
+10.  Matrix Quiz Review.ahk
 https://www.youtube.com/watch?v=V9mapQcpn-c
 
-411108.  Matrix Test Review.ahk
+11.  Matrix Test Review.ahk
 https://www.youtube.com/watch?v=low5qPWy9Qc
 
-411120.  November 17, 2017.ahk
+12.  November 17, 2017.ahk
 https://www.youtube.com/watch?v=wWQzHgkC-EM
 
-411133.  November 29, 2017.ahk
+13.  November 29, 2017.ahk
 https://www.youtube.com/watch?v=uT_-ft_uf84
 
-411147.  Precal 1.1 Slope and Y-intercepts.ahk
+14.  Precal 1.1 Slope and Y-intercepts.ahk
 https://www.youtube.com/watch?v=3t3faLcIkqQ
 
-411162.  Precal 1.2 Graphing Linear Functions.ahk
+15.  Precal 1.2 Graphing Linear Functions.ahk
 https://www.youtube.com/watch?v=nQLkKgf2Pfw
 
-411178.  Precal 1.3 part 1.ahk
+16.  Precal 1.3 part 1.ahk
 https://www.youtube.com/watch?v=5YgHfQjx_Zc
 
-411195.  Precal 1.4 Part 2.ahk
+17.  Precal 1.4 Part 2.ahk
 https://www.youtube.com/watch?v=51eRSru_ygY
 
-411213.  Precal 1.7 Linear Regression.ahk
+18.  Precal 1.7 Linear Regression.ahk
 https://www.youtube.com/watch?v=VPyYcZdv9XA
 
-411232.  Precal 10.10.ahk
+19.  Precal 10.10.ahk
 https://www.youtube.com/watch?v=bLeue1mWUOs
 
-411252.  Precal 10.4 Lesson.ahk
+20.  Precal 10.4 Lesson.ahk
 https://www.youtube.com/watch?v=sF539X1dD8s
 
-411273.  Precal 10.5  Right Triangles.ahk
+21.  Precal 10.5  Right Triangles.ahk
 https://www.youtube.com/watch?v=962sGwnVPmk
 
-411295.  Precal 10.7  Coordinates of the Unit Circle.ahk
+22.  Precal 10.7  Coordinates of the Unit Circle.ahk
 https://www.youtube.com/watch?v=DKqGokrDpls
 
-411318.  Precal 10.8 Lesson.ahk
+23.  Precal 10.8 Lesson.ahk
 https://www.youtube.com/watch?v=vDX5QS--nGQ
 
-411342.  Precal 10.9 Trig Equations.ahk
+24.  Precal 10.9 Trig Equations.ahk
 https://www.youtube.com/watch?v=wRP2B7LiW8o
 
-411367.  Precal 2.2 lesson.ahk
+25.  Precal 2.2 lesson.ahk
 https://www.youtube.com/watch?v=hOuto_OWIAc
 
-411393.  Precal 2.3.ahk
+26.  Precal 2.3.ahk
 https://www.youtube.com/watch?v=CGRc9XY98xk
 
-411420.  Precal 2.4 Lesson updated.ahk
+27.  Precal 2.4 Lesson updated.ahk
 https://www.youtube.com/watch?v=QoPmWEUhMvk
 
-411448.  Precal 2.4 lesson.ahk
+28.  Precal 2.4 lesson.ahk
 https://www.youtube.com/watch?v=CeJ5l7tsVWY
 
-411477.  Precal 3.1 Lesson.ahk
+29.  Precal 3.1 Lesson.ahk
 https://www.youtube.com/watch?v=92sIzcYpK_E
 
-411507.  Precal 3.2 Lesson.ahk
+30.  Precal 3.2 Lesson.ahk
 https://www.youtube.com/watch?v=ACMKuhE1gss
 
-411538.  Precal 3.3 Lesson.ahk
+31.  Precal 3.3 Lesson.ahk
 https://www.youtube.com/watch?v=SRo-G2lsqVs
 
-411570.  Precal 5.3 Lesson.ahk
+32.  Precal 5.3 Lesson.ahk
 https://www.youtube.com/watch?v=tlMHV1QgP54
 
-411603.  Precal 5.4 Lesson (1447083).ahk
+33.  Precal 5.4 Lesson (1447083).ahk
 https://www.youtube.com/watch?v=bYqd3dc7fy8
 
-411637.  Precal 5.4 Lesson.ahk
+34.  Precal 5.4 Lesson.ahk
 https://www.youtube.com/watch?v=afAInHX61oI
 
-411672.  Precal 5.5 Extra Credit Lesson and Exercises.ahk
+35.  Precal 5.5 Extra Credit Lesson and Exercises.ahk
 https://www.youtube.com/watch?v=ZFlSe3UILO0
 
-411708.  Precal 6.1.ahk
+36.  Precal 6.1.ahk
 https://www.youtube.com/watch?v=wi6Nz0QZXwA
 
-411745.  Precal 6.3 Lesson.ahk
+37.  Precal 6.3 Lesson.ahk
 https://www.youtube.com/watch?v=LcLaDKuvWac
 
-411783.  Precal 6.3.ahk
+38.  Precal 6.3.ahk
 https://www.youtube.com/watch?v=8yeJMN-aFxE
 
-411822.  Precal 6.4.ahk
+39.  Precal 6.4.ahk
 https://www.youtube.com/watch?v=0zpxhBNDMqg
 
-411862.  Precal 6.5 End Behavior.ahk
+40.  Precal 6.5 End Behavior.ahk
 https://www.youtube.com/watch?v=efYd10HSkNk
 
-411903.  Precal 6.6 Multiplying Polynomials.ahk
+41.  Precal 6.6 Multiplying Polynomials.ahk
 https://www.youtube.com/watch?v=BVIPqy8j2i4
 
-411945.  Precal 7.3  Complex RE's.ahk
+42.  Precal 7.3  Complex RE's.ahk
 https://www.youtube.com/watch?v=aiFlq7vWTZM
 
-411988.  Precal 7.4  Solving Rational Expressions.ahk
+43.  Precal 7.4  Solving Rational Expressions.ahk
 https://www.youtube.com/watch?v=ydsHMIUTpDE
 
-412032.  Precal 7.4 Homework Help.ahk
+44.  Precal 7.4 Homework Help.ahk
 https://www.youtube.com/watch?v=r7ovg8w7trQ
 
-412077.  Precal 8.2 Compound Interest Formula.ahk
+45.  Precal 8.2 Compound Interest Formula.ahk
 https://www.youtube.com/watch?v=oJoY-YLyHRo
 
-412123.  Precal 8.2 Part 2.ahk
+46.  Precal 8.2 Part 2.ahk
 https://www.youtube.com/watch?v=Cxy0ITKY5uE
 
-412170.  Precal 8.3  Graphing Exponential Functions.ahk
+47.  Precal 8.3  Graphing Exponential Functions.ahk
 https://www.youtube.com/watch?v=4svdETXRpSk
 
-412218.  Precal 8.4  Writing Equations.ahk
+48.  Precal 8.4  Writing Equations.ahk
 https://www.youtube.com/watch?v=8kTjVWKCsJM
 
-412267.  Precal 8.5  Lesson Solvin.ahk
+49.  Precal 8.5  Lesson Solvin.ahk
 https://www.youtube.com/watch?v=pNLalk_iUXA
 
-412317.  Precal 9.4 Part 2.ahk
+50.  Precal 9.4 Part 2.ahk
 https://www.youtube.com/watch?v=AmYU6fsvAss
 
-412368.  Precal Factoring Practice.ahk
+51.  Precal Factoring Practice.ahk
 https://www.youtube.com/watch?v=EKs7L7Amcqc
 
-412420.  Precal Intro to Class.ahk
+52.  Precal Intro to Class.ahk
 https://www.youtube.com/watch?v=0dsXvEgFQSA
 
-412473.  Precal Lesson 1.5.ahk
+53.  Precal Lesson 1.5.ahk
 https://www.youtube.com/watch?v=8o0njHJShwM
 
-412527.  Precal Lesson 2.1 INtro to Functions.ahk
+54.  Precal Lesson 2.1 INtro to Functions.ahk
 https://www.youtube.com/watch?v=y73NmEHfWC0
 
-412582.  Precal Lesson 6.2.ahk
+55.  Precal Lesson 6.2.ahk
 https://www.youtube.com/watch?v=mPtnfXdM0ls
 
-412638.  Precal Lesson 6.7 Graphing Polynomials in Factored Form.ahk
+56.  Precal Lesson 6.7 Graphing Polynomials in Factored Form.ahk
 https://www.youtube.com/watch?v=YH5bOgdDsC0
 
-412695.  Precal Rational Expression Review.ahk
+57.  Precal Rational Expression Review.ahk
 https://www.youtube.com/watch?v=k3cs3jAB4WA
 
-412753.  Precal Unit 10 Lesson 1 Angles in Standard Form.ahk
+58.  Precal Unit 10 Lesson 1 Angles in Standard Form.ahk
 https://www.youtube.com/watch?v=-YOy270lkA4
 
-412812.  Precal Unit 10 Lesson 10 Trig values for non special angles.ahk
+59.  Precal Unit 10 Lesson 10 Trig values for non special angles.ahk
 https://www.youtube.com/watch?v=fECBgnMbsss
 
-412872.  Precal Unit 10 Lesson 4 Coterminals with radians.ahk
+60.  Precal Unit 10 Lesson 4 Coterminals with radians.ahk
 https://www.youtube.com/watch?v=Q24j4k8mFV8
 
-412933.  Precal Unit 10 Lesson 5 Special Right Triang.ahk
+61.  Precal Unit 10 Lesson 5 Special Right Triang.ahk
 https://www.youtube.com/watch?v=li04S2LU5vU
 
-412995.  Precal Unit 10 Lesson 6 Unit Circle Coordinates.ahk
+62.  Precal Unit 10 Lesson 6 Unit Circle Coordinates.ahk
 https://www.youtube.com/watch?v=uN3wknVRxPc
 
-413058.  Precal Unit 10 Lesson 7  Trig ratios.ahk
+63.  Precal Unit 10 Lesson 7  Trig ratios.ahk
 https://www.youtube.com/watch?v=VzHdyEWhJfI
 
-413122.  Precal Unit 10 Lesson 8.ahk
+64.  Precal Unit 10 Lesson 8.ahk
 https://www.youtube.com/watch?v=dtuKOL1E0VI
 
-413187.  Precal Unit 3 Lesson 5.ahk
+65.  Precal Unit 3 Lesson 5.ahk
 https://www.youtube.com/watch?v=lCjrSgBQr24
 
-413253.  Precal Unit 4 lesson 1.ahk
+66.  Precal Unit 4 lesson 1.ahk
 https://www.youtube.com/watch?v=wCHeoybrtlE
 
-413320.  Precal Unit 4 Lesson 6.ahk
+67.  Precal Unit 4 Lesson 6.ahk
 https://www.youtube.com/watch?v=NOXCEph2hB0
 
-413388.  Precal Unit 4 Lesson 7.ahk
+68.  Precal Unit 4 Lesson 7.ahk
 https://www.youtube.com/watch?v=TN2h0CsRC2Y
 
-413457.  Precal Unit 5 lesso 1.ahk
+69.  Precal Unit 5 lesso 1.ahk
 https://www.youtube.com/watch?v=lJbZpKttv-Q
 
-413527.  Precal Unit 5 Lesson 1.ahk
+70.  Precal Unit 5 Lesson 1.ahk
 https://www.youtube.com/watch?v=m0r5CBc8SCk
 
-413598.  Precal Unit 5 Lesson 2.ahk
+71.  Precal Unit 5 Lesson 2.ahk
 https://www.youtube.com/watch?v=KO1y6ZvS_kM
 
-413670.  Precal Unit 6 Lesson 1.ahk
+72.  Precal Unit 6 Lesson 1.ahk
 https://www.youtube.com/watch?v=2jXeVw9xM5Y
 
-413743.  Precal Unit 6 Lesson 8 Graphing Polynomials In Unfactored Fo.ahk
+73.  Precal Unit 6 Lesson 8 Graphing Polynomials In Unfactored Fo.ahk
 https://www.youtube.com/watch?v=wvo1Z1Ezz5Y
 
-413817.  Precal Unit 6 Review Test Study Guide Help Video.ahk
+74.  Precal Unit 6 Review Test Study Guide Help Video.ahk
 https://www.youtube.com/watch?v=3XhhXz1T8ZI
 
-413892.  Precal Unit 6 Study Guide.ahk
+75.  Precal Unit 6 Study Guide.ahk
 https://www.youtube.com/watch?v=orRqKul-wRo
 
-413968.  Precal Unit 7 Lesson 1 Simplifying Rational Expressions.ahk
+76.  Precal Unit 7 Lesson 1 Simplifying Rational Expressions.ahk
 https://www.youtube.com/watch?v=um5tWUbDx3c
 
-414045.  Precal Unit 7 Lesson 2  Adding and Subtracting Rational  Exp.ahk
+77.  Precal Unit 7 Lesson 2  Adding and Subtracting Rational  Exp.ahk
 https://www.youtube.com/watch?v=Vlz5FswGx7c
 
-414123.  Precal Unit 7 Lesson 2 Part 2.ahk
+78.  Precal Unit 7 Lesson 2 Part 2.ahk
 https://www.youtube.com/watch?v=-aKMAqpGouM
 
-414202.  Precal Unit 7 Lesson 7 Parts of RE Graphs.ahk
+79.  Precal Unit 7 Lesson 7 Parts of RE Graphs.ahk
 https://www.youtube.com/watch?v=hUMjT19EpS4
 
-414282.  Precal Unit 7 Lesson 8 Graphing Rational Expressions.ahk
+80.  Precal Unit 7 Lesson 8 Graphing Rational Expressions.ahk
 https://www.youtube.com/watch?v=PvbV0cNBSE4
 
-414363.  Precal Unit 7 Quiz 2 Study Guide.ahk
+81.  Precal Unit 7 Quiz 2 Study Guide.ahk
 https://www.youtube.com/watch?v=LBImj3B7gAY
 
-414445.  Precal Unit 9  Review Test Study Guide.ahk
+82.  Precal Unit 9  Review Test Study Guide.ahk
 https://www.youtube.com/watch?v=AvP0_tPRfMs
 
-414528.  Precal Unit 9 Lesson 6 Solving Log Equations Part 1.ahk
+83.  Precal Unit 9 Lesson 6 Solving Log Equations Part 1.ahk
 https://www.youtube.com/watch?v=7r5dbD-p01Q
 
-414612.  Precal Unit 9 Lesson 8 Solving Exponential Functions.ahk
+84.  Precal Unit 9 Lesson 8 Solving Exponential Functions.ahk
 https://www.youtube.com/watch?v=8YZja4yLuUo
 
-414697.  Precal Unit 9 Review Study Guide Part 2.ahk
+85.  Precal Unit 9 Review Study Guide Part 2.ahk
 https://www.youtube.com/watch?v=eXgnru2PycY
 
-414783.  Precalc 13-1 Sequences (1857253).ahk
+86.  Precalc 13-1 Sequences (1857253).ahk
 https://www.youtube.com/watch?v=6ymsYqGEiZ4
 
-414870.  Precalc 13-1 Sequences.ahk
+87.  Precalc 13-1 Sequences.ahk
 https://www.youtube.com/watch?v=cE2aJ1rPZTo
 
-414958.  Precalc 13-1 to 13-4 Fast Track Concepts.ahk
+88.  Precalc 13-1 to 13-4 Fast Track Concepts.ahk
 https://www.youtube.com/watch?v=icNPswIXNbc
 
-415047.  Precalc 13-2  Arithmetic & Geometric Sequences.ahk
+89.  Precalc 13-2  Arithmetic & Geometric Sequences.ahk
 https://www.youtube.com/watch?v=uw47fBx9FJw
 
-415137.  Precalc 13-2 Arithmetic and Geometric Sequences.ahk
+90.  Precalc 13-2 Arithmetic and Geometric Sequences.ahk
 https://www.youtube.com/watch?v=0grKdorO2Cs
 
-415228.  Precalc 13-3 Arithmetic & Geometric Series.ahk
+91.  Precalc 13-3 Arithmetic & Geometric Series.ahk
 https://www.youtube.com/watch?v=GtrUoTM0Nvg
 
-415320.  Precalc 13-3 Arithmetic and Geometric Series.ahk
+92.  Precalc 13-3 Arithmetic and Geometric Series.ahk
 https://www.youtube.com/watch?v=FyqayudQDws
 
-415413.  Precalc 13-4 Mathematical Induction (1452199).ahk
+93.  Precalc 13-4 Mathematical Induction (1452199).ahk
 https://www.youtube.com/watch?v=HBbpJLxQDCE
 
-415507.  Precalc 13-4 Mathematical Induction.ahk
+94.  Precalc 13-4 Mathematical Induction.ahk
 https://www.youtube.com/watch?v=TIVBEWArN5Y
 
-415602.  Precalc 13-5  Binomial Theorem.ahk
+95.  Precalc 13-5  Binomial Theorem.ahk
 https://www.youtube.com/watch?v=8JIJQt8B_5A
 
-415698.  Precalc 13-5 Binomial Theorem.ahk
+96.  Precalc 13-5 Binomial Theorem.ahk
 https://www.youtube.com/watch?v=yz0cF5LN9pY
 
-415795.  Precalc 13-5 to 13-8 Fast Track Concepts (1291101).ahk
+97.  Precalc 13-5 to 13-8 Fast Track Concepts (1291101).ahk
 https://www.youtube.com/watch?v=8qg7GX1g2tg
 
-415893.  Precalc 13-5 to 13-8 Fast Track Concepts.ahk
+98.  Precalc 13-5 to 13-8 Fast Track Concepts.ahk
 https://www.youtube.com/watch?v=8qg7GX1g2tg
 
-415992.  Precalc 13-6 Limit of Sequences.ahk
+99.  Precalc 13-6 Limit of Sequences.ahk
 https://www.youtube.com/watch?v=1daGwZAMKIE
 
-416092.  Precalc 13-6 Limits of Sequences.ahk
+100.  Precalc 13-6 Limits of Sequences.ahk
 https://www.youtube.com/watch?v=rtSlCgxx7bw
 
-416193.  Precalc 13-7  Sum of Infinite Series.ahk
+101.  Precalc 13-7  Sum of Infinite Series.ahk
 https://www.youtube.com/watch?v=TJgtrEliVic
 
-416295.  Precalc 13-7 Sums of Infinite Series.ahk
+102.  Precalc 13-7 Sums of Infinite Series.ahk
 https://www.youtube.com/watch?v=zFi64X322DA
 
-416398.  Precalc 13-8  Power Series.ahk
+103.  Precalc 13-8  Power Series.ahk
 https://www.youtube.com/watch?v=7EHdU5Z3-kM
 
-416502.  Precalc 13-8 Power Series.ahk
+104.  Precalc 13-8 Power Series.ahk
 https://www.youtube.com/watch?v=Sne-o-Lu7C0
 
-416607.  Precalc 15-4  Measures of Variability.ahk
+105.  Precalc 15-4  Measures of Variability.ahk
 https://www.youtube.com/watch?v=M8i3g0R1t5k
 
-416713.  Precalc 15-4.ahk
+106.  Precalc 15-4.ahk
 https://www.youtube.com/watch?v=jLsu1RJHuQ4
 
-416820.  Precalc 15-5  The Normal Distribution.ahk
+107.  Precalc 15-5  The Normal Distribution.ahk
 https://www.youtube.com/watch?v=5b-cec3Kbls
 
-416928.  Precalc 15-5.ahk
+108.  Precalc 15-5.ahk
 https://www.youtube.com/watch?v=PJjsq9kTQTY
 
-417037.  Precalc 15-7  Curve Fitting.ahk
+109.  Precalc 15-7  Curve Fitting.ahk
 https://www.youtube.com/watch?v=f1BMbJGoPaI
 
-417147.  Precalc 15-7.ahk
+110.  Precalc 15-7.ahk
 https://www.youtube.com/watch?v=AXjO1lOgYkI
 
-417258.  Precalc 16-1 Day 1 Limit of a Function (1822431).ahk
+111.  Precalc 16-1 Day 1 Limit of a Function (1822431).ahk
 https://www.youtube.com/watch?v=x9_nMXp4AXE
 
-417370.  Precalc 16-1 Day 1 Limit of a Function.ahk
+112.  Precalc 16-1 Day 1 Limit of a Function.ahk
 https://www.youtube.com/watch?v=hdOhsxdxF7w
 
-417483.  Precalc 16-1 Day 2 Limit of a Function (1800120).ahk
+113.  Precalc 16-1 Day 2 Limit of a Function (1800120).ahk
 https://www.youtube.com/watch?v=JQCEU1SmtsM
 
-417597.  Precalc 16-1 Day 2 Limit of a Function.ahk
+114.  Precalc 16-1 Day 2 Limit of a Function.ahk
 https://www.youtube.com/watch?v=qqpVL2p10s8
 
-417712.  Precalc 16-1 to 16- 3 Review WS.ahk
+115.  Precalc 16-1 to 16- 3 Review WS.ahk
 https://www.youtube.com/watch?v=A0J5Q_UoNtA
 
-417828.  Precalc 16-2 Day 1  Limit Theorems.ahk
+116.  Precalc 16-2 Day 1  Limit Theorems.ahk
 https://www.youtube.com/watch?v=PknFgOVyiF8
 
-417945.  Precalc 16-2 Day 1 Limit Theorems.ahk
+117.  Precalc 16-2 Day 1 Limit Theorems.ahk
 https://www.youtube.com/watch?v=FpShpnqiXI0
 
-418063.  Precalc 16-2 Day 2  Limit Theorems.ahk
+118.  Precalc 16-2 Day 2  Limit Theorems.ahk
 https://www.youtube.com/watch?v=4Nd5bIKH8yA
 
-418182.  Precalc 16-2 Day 2 Limit Theorems.ahk
+119.  Precalc 16-2 Day 2 Limit Theorems.ahk
 https://www.youtube.com/watch?v=nTJCGJVYXz0
 
-418302.  Precalc 16-2 Day 3  Limit Theorems.ahk
+120.  Precalc 16-2 Day 3  Limit Theorems.ahk
 https://www.youtube.com/watch?v=f2mj9NxKQBE
 
-418423.  Precalc 16-2 Day 3 Continuity.ahk
+121.  Precalc 16-2 Day 3 Continuity.ahk
 https://www.youtube.com/watch?v=-i3dvlM12w8
 
-418545.  Precalc 16-3 Day 1  Tangent to a Curve.ahk
+122.  Precalc 16-3 Day 1  Tangent to a Curve.ahk
 https://www.youtube.com/watch?v=BkVs22Bsvpw
 
-418668.  Precalc 16-3 Day 1 Tangent to a Curve.ahk
+123.  Precalc 16-3 Day 1 Tangent to a Curve.ahk
 https://www.youtube.com/watch?v=4Mv8a41_B_4
 
-418792.  Precalc 16-3 Day 2 Tangent to a Curve.ahk
+124.  Precalc 16-3 Day 2 Tangent to a Curve.ahk
 https://www.youtube.com/watch?v=euKSHb_jiT0
 
-418917.  Precalc 16-3 Day 2.ahk
+125.  Precalc 16-3 Day 2.ahk
 https://www.youtube.com/watch?v=uoXDcRyyfQ0
 
-419043.  Precalc 16-3 Day 3 Tangent to a Curve.ahk
+126.  Precalc 16-3 Day 3 Tangent to a Curve.ahk
 https://www.youtube.com/watch?v=9Rz_twgyido
 
-419170.  Precalc 16-3 Day 3.ahk
+127.  Precalc 16-3 Day 3.ahk
 https://www.youtube.com/watch?v=MzX7Bc_q_X8
 
-419298.  Precalc 16-3 Day 4 Tangent to a Curve.ahk
+128.  Precalc 16-3 Day 4 Tangent to a Curve.ahk
 https://www.youtube.com/watch?v=jevSBq0D44Q
 
-419427.  Precalc 16-3 Day 4.ahk
+129.  Precalc 16-3 Day 4.ahk
 https://www.youtube.com/watch?v=JlRqKK3554Y
 
-419557.  PreCalc Back to School Night Sem B.ahk
+130.  PreCalc Back to School Night Sem B.ahk
 https://www.youtube.com/watch?v=Qsc90UaSEmI
 
-419688.  Precalc Ch 13 Group Quiz.ahk
+131.  Precalc Ch 13 Group Quiz.ahk
 https://www.youtube.com/watch?v=pYkpABRZMkQ
 
-419820.  Precalc Ch 13 Quiz Answers.ahk
+132.  Precalc Ch 13 Quiz Answers.ahk
 https://www.youtube.com/watch?v=sLCe2dJwyhc
 
-419953.  Precalc Ch 13 Test Review (1205633).ahk
+133.  Precalc Ch 13 Test Review (1205633).ahk
 https://www.youtube.com/watch?v=3rqFsuBN2P8
 
-420087.  Precalc Ch 13 Test Review.ahk
+134.  Precalc Ch 13 Test Review.ahk
 https://www.youtube.com/watch?v=c8NmAi8ntMY
 
-420222.  Precalc Ch 15 Group Quiz.ahk
+135.  Precalc Ch 15 Group Quiz.ahk
 https://www.youtube.com/watch?v=BSLDpyJToiI
 
-420358.  Precalc Ch 15 Main Ideas Review (1544886).ahk
+136.  Precalc Ch 15 Main Ideas Review (1544886).ahk
 https://www.youtube.com/watch?v=X_3MEBFOYfU
 
-420495.  Precalc Ch 15 Main Ideas Review.ahk
+137.  Precalc Ch 15 Main Ideas Review.ahk
 https://www.youtube.com/watch?v=X_3MEBFOYfU
 
-420633.  Precalc Ch 15 Quiz Answers.ahk
+138.  Precalc Ch 15 Quiz Answers.ahk
 https://www.youtube.com/watch?v=bF2s8CkPtNE
 
-420772.  Precalc Ch 15 Test Review.ahk
+139.  Precalc Ch 15 Test Review.ahk
 https://www.youtube.com/watch?v=FwhXVjdel_4
 
-420912.  Precalc Ch 16 Review for the Test.ahk
+140.  Precalc Ch 16 Review for the Test.ahk
 https://www.youtube.com/watch?v=oITjfZX5th8
 
-421053.  PreCalc Log Unit Review Video.ahk
+141.  PreCalc Log Unit Review Video.ahk
 https://www.youtube.com/watch?v=4mKjKir5Ruc
 
-421195.  Precalc Q1 progress check review 2019-20.ahk
+142.  Precalc Q1 progress check review 2019-20.ahk
 https://www.youtube.com/watch?v=Cp-lvofTco4
 
-421338.  PreCalc Q2 Progress Check Review End 18-19.ahk
+143.  PreCalc Q2 Progress Check Review End 18-19.ahk
 https://www.youtube.com/watch?v=d4VRaKJrQUE
 
-421482.  Precalc Q3 progress check review.ahk
+144.  Precalc Q3 progress check review.ahk
 https://www.youtube.com/watch?v=TSGwptNrp7U
 
-421627.  Precalc Quarter 1 Progress Check Exam Review.ahk
+145.  Precalc Quarter 1 Progress Check Exam Review.ahk
 https://www.youtube.com/watch?v=gnlBZc8X7j4
 
-421773.  PreCalc Quarter 4 Progress Check Review.ahk
+146.  PreCalc Quarter 4 Progress Check Review.ahk
 https://www.youtube.com/watch?v=OK8YjxFbs2Q
 
-421920.  PreCalc Unit 1 Topic 1 Test review.ahk
+147.  PreCalc Unit 1 Topic 1 Test review.ahk
 https://www.youtube.com/watch?v=BGLm3q4TMbk
 
-422068.  Precalculus Lesson 1 Introduction to Functions.ahk
+148.  Precalculus Lesson 1 Introduction to Functions.ahk
 https://www.youtube.com/watch?v=CwwhPf3-gWQ
 
-422217.  Precalculus Lesson 1.4 Systems Part 1.ahk
+149.  Precalculus Lesson 1.4 Systems Part 1.ahk
 https://www.youtube.com/watch?v=9LGVZeaGTRw
 
-422367.  Precalculus Lesson 10 Limits (Numerically).ahk
+150.  Precalculus Lesson 10 Limits (Numerically).ahk
 https://www.youtube.com/watch?v=NQpWTzUdkOQ
 
-422518.  Precalculus Lesson 11 Limits (Analytically).ahk
+151.  Precalculus Lesson 11 Limits (Analytically).ahk
 https://www.youtube.com/watch?v=0QiI5p-39xI
 
-422670.  Precalculus Lesson 12 Continuity (Part 1).ahk
+152.  Precalculus Lesson 12 Continuity (Part 1).ahk
 https://www.youtube.com/watch?v=WiQ8xcp7uCM
 
-422823.  Precalculus Lesson 13 Continuity (Part 2).ahk
+153.  Precalculus Lesson 13 Continuity (Part 2).ahk
 https://www.youtube.com/watch?v=hw-xNThOtIo
 
-422977.  Precalculus Lesson 14 Continuity (Part 3).ahk
+154.  Precalculus Lesson 14 Continuity (Part 3).ahk
 https://www.youtube.com/watch?v=mNC6yN777OQ
 
-423132.  Precalculus Lesson 2 Function Definition, Piecewise Functions.ahk
+155.  Precalculus Lesson 2 Function Definition, Piecewise Functions.ahk
 https://www.youtube.com/watch?v=-Xo7VguoAN0
 
-423288.  Precalculus Lesson 3 Domain of Functions.ahk
+156.  Precalculus Lesson 3 Domain of Functions.ahk
 https://www.youtube.com/watch?v=iDe_WTZVwQ0
 
-423445.  Precalculus Lesson 4 Domain from Graphs.ahk
+157.  Precalculus Lesson 4 Domain from Graphs.ahk
 https://www.youtube.com/watch?v=o7cosCva2CY
 
-423603.  Precalculus Lesson 5 Range of Functions.ahk
+158.  Precalculus Lesson 5 Range of Functions.ahk
 https://www.youtube.com/watch?v=qEzMJ_VHW_M
 
-423762.  Precalculus Lesson 6 Symmetry of Functions.ahk
+159.  Precalculus Lesson 6 Symmetry of Functions.ahk
 https://www.youtube.com/watch?v=rCOLBHgPi_Y
 
-423922.  Precalculus Lesson 7 Y-Intercepts.ahk
+160.  Precalculus Lesson 7 Y-Intercepts.ahk
 https://www.youtube.com/watch?v=3PDzcIT8Ulk
 
-424083.  Precalculus Lesson 8 X-Intercepts.ahk
+161.  Precalculus Lesson 8 X-Intercepts.ahk
 https://www.youtube.com/watch?v=2C6VXrwPH0Y
 
-424245.  Precalculus Lesson 9 Limits (Graphically).ahk
+162.  Precalculus Lesson 9 Limits (Graphically).ahk
 https://www.youtube.com/watch?v=FpX0HCCg7so
 
-424408.  Precalculus U3T1P2 Applications of Trig Graphs.ahk
+163.  Precalculus U3T1P2 Applications of Trig Graphs.ahk
 https://www.youtube.com/watch?v=ufqRhb-nr0U
 
-424572.  Precalculus U3T1P2 Graphing Trig Functions Test Review Warmup.ahk
+164.  Precalculus U3T1P2 Graphing Trig Functions Test Review Warmup.ahk
 https://www.youtube.com/watch?v=FsgE5VNJncI
 
-424737.  Precla 10.6 Notes.ahk
+165.  Precla 10.6 Notes.ahk
 https://www.youtube.com/watch?v=g_EDSfoBxAM
 
-424903.  Progress Check Q2 review Precalc.ahk
+166.  Progress Check Q2 review Precalc.ahk
 https://www.youtube.com/watch?v=KFk58ERBWWs
 
-425070.  Recording #940.ahk
+167.  Recording #940.ahk
 https://www.youtube.com/watch?v=Wp0AWhHTFyI
 
-425238.  Senior Precalculus Review.ahk
+168.  Senior Precalculus Review.ahk
 https://www.youtube.com/watch?v=yORTnDiME4I
 
-425407.  Solving Systems of Equations Warm Up.ahk
+169.  Solving Systems of Equations Warm Up.ahk
 https://www.youtube.com/watch?v=UCqc-7xKWwM
 
-425577.  Solving Trig Equations Day 1.ahk
+170.  Solving Trig Equations Day 1.ahk
 https://www.youtube.com/watch?v=zr1beE5Df70
 
-425748.  Solving with Trig Identities Quiz Review.ahk
+171.  Solving with Trig Identities Quiz Review.ahk
 https://www.youtube.com/watch?v=hYUlaMn1rQA
 
-425920.  Test Review Systems of Equations & Matrices.ahk
+172.  Test Review Systems of Equations & Matrices.ahk
 https://www.youtube.com/watch?v=BnySob2Gi_U
 
-426093.  Test Review Vectors & Parametric Equations.ahk
+173.  Test Review Vectors & Parametric Equations.ahk
 https://www.youtube.com/watch?v=mHI0k3oZ4mI
 
-426267.  Trig Identities HW #1.ahk
+174.  Trig Identities HW #1.ahk
 https://www.youtube.com/watch?v=jU1z7xNEwzg
 
-426442.  Trig Identities HW #2.ahk
+175.  Trig Identities HW #2.ahk
 https://www.youtube.com/watch?v=ItKe-DNs-DE
 
-426618.  Trig Identities Quiz Review.ahk
+176.  Trig Identities Quiz Review.ahk
 https://www.youtube.com/watch?v=8BR-5ZX7lgE
 
-426795.  Trig Identities test review #1.ahk
+177.  Trig Identities test review #1.ahk
 https://www.youtube.com/watch?v=1zxMhXR2x1A
 
-426973.  Trig Identities test review #2.ahk
+178.  Trig Identities test review #2.ahk
 https://www.youtube.com/watch?v=NDQCY2JNyGQ
 
-427152.  Trig Identities test review #3.ahk
+179.  Trig Identities test review #3.ahk
 https://www.youtube.com/watch?v=wlxNGIbBxVc
 
-427332.  U1T2 Power Functions Day 2.ahk
+180.  U1T2 Power Functions Day 2.ahk
 https://www.youtube.com/watch?v=5GUbwJFTaCI
 
-427513.  U1T2 Power Functions Homework PreCalculus.ahk
+181.  U1T2 Power Functions Homework PreCalculus.ahk
 https://www.youtube.com/watch?v=Xnru4wGidCw
 
-427695.  U1T4 multiply and divide rational expressions.ahk
+182.  U1T4 multiply and divide rational expressions.ahk
 https://www.youtube.com/watch?v=xtdFX2gorTo
 
-427878.  U1T4 Simplifying Rational Expressions (precalculus).ahk
+183.  U1T4 Simplifying Rational Expressions (precalculus).ahk
 https://www.youtube.com/watch?v=nptnEl1PnbA
 
-428062.  U2T1 day 2 properties of logarithms.ahk
+184.  U2T1 day 2 properties of logarithms.ahk
 https://www.youtube.com/watch?v=zVI4WvrZPbM
 
-428247.  U2T1 PreCalc Properties of Logs day 2.ahk
+185.  U2T1 PreCalc Properties of Logs day 2.ahk
 https://www.youtube.com/watch?v=2dZM9mUSiws
 
-428433.  U2T2 Applications of Logs and Exponential Functions (precalculus).ahk
+186.  U2T2 Applications of Logs and Exponential Functions (precalculus).ahk
 https://www.youtube.com/watch?v=iPks1wHZbjo
 
-428620.  U2T2 Solving Day 1.ahk
+187.  U2T2 Solving Day 1.ahk
 https://www.youtube.com/watch?v=DPr1iN4238o
 
-428808.  U2T2 Solving Day 2.ahk
+188.  U2T2 Solving Day 2.ahk
 https://www.youtube.com/watch?v=Y30g4oXBa6k
 
-428997.  U3T1 Circular Functions & 6 Trig Functions.ahk
+189.  U3T1 Circular Functions & 6 Trig Functions.ahk
 https://www.youtube.com/watch?v=fCIcjn8TsuM
 
-429187.  U3T1 Part 1 HW HELP Standard Position, Quadrantal Angles, Coterminal Angles.ahk
+190.  U3T1 Part 1 HW HELP Standard Position, Quadrantal Angles, Coterminal Angles.ahk
 https://www.youtube.com/watch?v=jIovARoo3Qg
 
-429378.  U3T1 Part 1 Standard Position, Quadrantal Angles, Coterminal Angles.ahk
+191.  U3T1 Part 1 Standard Position, Quadrantal Angles, Coterminal Angles.ahk
 https://www.youtube.com/watch?v=Mw_wPHRpDIM
 
-429570.  U3T1 Part 2 Application of Sinusoidal Functions.ahk
+192.  U3T1 Part 2 Application of Sinusoidal Functions.ahk
 https://www.youtube.com/watch?v=kOuHYD_ER_0
 
-429763.  U3T1P1 Day 2 Radian Measures.ahk
+193.  U3T1P1 Day 2 Radian Measures.ahk
 https://www.youtube.com/watch?v=D1udwR-kCPM
 
-429957.  U3T1P1 reference angle and evaluating trig functions.ahk
+194.  U3T1P1 reference angle and evaluating trig functions.ahk
 https://www.youtube.com/watch?v=AX7UG8sn_ME
 
-430152.  U3T2 Inverse Trig Function Graphs.ahk
+195.  U3T2 Inverse Trig Function Graphs.ahk
 https://www.youtube.com/watch?v=3iO8O3GGtwU
 
-430348.  U3T3 part 1 day 3 verifying trig identities.ahk
+196.  U3T3 part 1 day 3 verifying trig identities.ahk
 https://www.youtube.com/watch?v=s0I4ilRpEgE
 
-430545.  U3T3 Part 2 Sum and Difference Identities (review for formative).ahk
+197.  U3T3 Part 2 Sum and Difference Identities (review for formative).ahk
 https://www.youtube.com/watch?v=N4W55_apYTE
 
-430743.  U3T4 law of cosines precalc.ahk
+198.  U3T4 law of cosines precalc.ahk
 https://www.youtube.com/watch?v=jyskf2N_YLA
 
-430942.  U4T4 Vectors Day 1 Magnitute and Direction.ahk
+199.  U4T4 Vectors Day 1 Magnitute and Direction.ahk
 https://www.youtube.com/watch?v=XbytSK-YDM8
 
-431142.  U5 Solving 3 variable system of equations with matrices.ahk
+200.  U5 Solving 3 variable system of equations with matrices.ahk
 https://www.youtube.com/watch?v=IK2dAW2wyLs
 
-431343.  Unit  2 Review - Logarithms.ahk
+201.  Unit  2 Review - Logarithms.ahk
 https://www.youtube.com/watch?v=yTAD1F7HGJc
 
-431545.  Unit 1 Topic 3 test review - rational functions.ahk
+202.  Unit 1 Topic 3 test review - rational functions.ahk
 https://www.youtube.com/watch?v=4AZW5sj_RVM
 
-431748.  Unit 1 Topic 4 Test Review (precalculus).ahk
+203.  Unit 1 Topic 4 Test Review (precalculus).ahk
 https://www.youtube.com/watch?v=FyHCKL8j1wU
 
-431952.  Unit 10 Lesson 11 Solving Basic Trig Equations.ahk
+204.  Unit 10 Lesson 11 Solving Basic Trig Equations.ahk
 https://www.youtube.com/watch?v=mKRpnuqZTfU
 
-432157.  Unit 3 Topic 1 Graphing Trigonometric Functions with Transformations.ahk
+205.  Unit 3 Topic 1 Graphing Trigonometric Functions with Transformations.ahk
 https://www.youtube.com/watch?v=ijxBExPoXdA
 
-432363.  Unit 3 Topic 1 Part 2 Quiz Review - Trig Graphing.ahk
+206.  Unit 3 Topic 1 Part 2 Quiz Review - Trig Graphing.ahk
 https://www.youtube.com/watch?v=o55rtWSSjAs
 
-432570.  Unit 3 Topic 1 Test #1 Review - TrigonometryUnit Circle.ahk
+207.  Unit 3 Topic 1 Test #1 Review - TrigonometryUnit Circle.ahk
 https://www.youtube.com/watch?v=zpRpLCP_wJ8
 
-432778.  Unit 3 Topic 1 Test #2 Review - TrigonometryUnit Circle.ahk
+208.  Unit 3 Topic 1 Test #2 Review - TrigonometryUnit Circle.ahk
 https://www.youtube.com/watch?v=nZFTl6-bu1Q
 
-432987.  Unit 3 Topic 1 Unit Circle.ahk
+209.  Unit 3 Topic 1 Unit Circle.ahk
 https://www.youtube.com/watch?v=H5aUWMNK38M
 
-433197.  Unit 3 Topic 2 Test Review.ahk
+210.  Unit 3 Topic 2 Test Review.ahk
 https://www.youtube.com/watch?v=unAfOoocRFk
 
-433408.  Unit 5 - 4.7 Inverse Trig Functions (2017-2018).ahk
+211.  Unit 5 - 4.7 Inverse Trig Functions (2017-2018).ahk
 https://www.youtube.com/watch?v=CuaaHF0s3CA
 
-433620.  Unit 6 Binomial Expansion Theorem.ahk
+212.  Unit 6 Binomial Expansion Theorem.ahk
 https://www.youtube.com/watch?v=CI4GZ_hngrQ
 
-433833.  Unit 6 Topic 1 Test Review (permutation, combination, binomial expansion).ahk
+213.  Unit 6 Topic 1 Test Review (permutation, combination, binomial expansion).ahk
 https://www.youtube.com/watch?v=DJ9tnyYq1WQ
 
-434047.  Unit 6 Topic 2 Arithmetic Sequences.ahk
+214.  Unit 6 Topic 2 Arithmetic Sequences.ahk
 https://www.youtube.com/watch?v=fNwPUtOMN_k
 
-434262.  Unit 6Topic 2 Day 1 Sequences.ahk
+215.  Unit 6Topic 2 Day 1 Sequences.ahk
 https://www.youtube.com/watch?v=jUrgRH-Nu_E
 
-434478.  Unit 7 Quiz 1 Study Guide.ahk
+216.  Unit 7 Quiz 1 Study Guide.ahk
 https://www.youtube.com/watch?v=Fv7QNB5OVec
 
-434695.  Vectors quiz review.ahk
+217.  Vectors quiz review.ahk
 https://www.youtube.com/watch?v=i_sOn63cUNc
 Precalculus Lessons

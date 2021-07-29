@@ -1,118 +1,118 @@
 
-6059.  #1 - Introduction of Linux.ahk
+1.  #1 - Introduction of Linux.ahk
 https://www.youtube.com/watch?v=59u_GBLJ1WI
 
-6061.  #10 - cp command on Linux CentOS 8.ahk
+2.  #10 - cp command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=3-M__igz7TY
 
-6064.  #11 - mv command (moving files and directories) on Linux CentOS 8.ahk
+3.  #11 - mv command (moving files and directories) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=QxUupdFFjP8
 
-6068.  #12 - mv command (renaming files and directories) on Linux CentOS 8.ahk
+4.  #12 - mv command (renaming files and directories) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=HoyxfE89AVM
 
-6073.  #13 - cat command on Linux CentOS 8.ahk
+5.  #13 - cat command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=7Hx5c5oIJ7Y
 
-6079.  #14 - less command on Linux CentOS 8.ahk
+6.  #14 - less command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=8iKL-KCX9Mc
 
-6086.  #15 - pipe & redirection on Linux CentOS 8.ahk
+7.  #15 - pipe & redirection on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=nCijJMioNvM
 
-6094.  #16 - tar command on Linux CentOS 8.ahk
+8.  #16 - tar command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=K7dvVRNoVzQ
 
-6103.  #17 - gzip and bzip2 on Linux CentOS 8.ahk
+9.  #17 - gzip and bzip2 on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=LOpwGt75-rc
 
-6113.  #18 - tar Compression in Linux CentOS 8.ahk
+10.  #18 - tar Compression in Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=RpzNTCtdX8Q
 
-6124.  #19 - Softlink and Hardlink on Linux CentOS 8.ahk
+11.  #19 - Softlink and Hardlink on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=xbe4Lmk-Y7E
 
-6136.  #2 - CentOS 8 and it's new Features.ahk
+12.  #2 - CentOS 8 and it's new Features.ahk
 https://www.youtube.com/watch?v=cUpj-NIC-lY
 
-6149.  #20 - vi command on Linux CentOS 8.ahk
+13.  #20 - vi command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=t837lDF3t6E
 
-6163.  #21 - Users and Groups on Linux CentOS 8.ahk
+14.  #21 - Users and Groups on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=BxQSW0cWJSo
 
-6178.  #22 - Managing Permissions on Linux CentOS 8.ahk
+15.  #22 - Managing Permissions on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=971WE6PnUdI
 
-6194.  #23 - Networking - Static & Dynamic IP on Linux CentOS 8.ahk
+16.  #23 - Networking - Static & Dynamic IP on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=z_nqm-0dSjM
 
-6211.  #24 - Networking - SSH Remote Login on Linux CentOS 8.ahk
+17.  #24 - Networking - SSH Remote Login on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=kH4A43AYOQg
 
-6229.  #25 - Networking - Changing SSH Port number on Linux CentOS 8.ahk
+18.  #25 - Networking - Changing SSH Port number on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=BbpnioNSAZ0
 
-6248.  #26 - Networking - SSH Key Authentication - Public & Private Key on Linux CentOS 8.ahk
+19.  #26 - Networking - SSH Key Authentication - Public & Private Key on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=i6o57zaphB4
 
-6268.  #27 - Networking - Allow and Deny Specific IP address to connect on Linux CentOS 8.ahk
+20.  #27 - Networking - Allow and Deny Specific IP address to connect on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=DFwTDqWDElM
 
-6289.  #28 - Firewall on Linux CentOS 8.ahk
+21.  #28 - Firewall on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=_s0vhIovglc
 
-6311.  #29 - Package Management (YumDNF) on Linux CentOS 8.ahk
+22.  #29 - Package Management (YumDNF) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=zuP1_rDDjA8
 
-6334.  #3 - Installing CentOS 8 on Virtual box.ahk
+23.  #3 - Installing CentOS 8 on Virtual box.ahk
 https://www.youtube.com/watch?v=31Xfju-yCHw
 
-6358.  #30 - Job Scheduling (cronjobcrontab) on Linux CentOS 8.ahk
+24.  #30 - Job Scheduling (cronjobcrontab) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=4g1i0ylvx3A
 
-6383.  #31 - Alias (Command Shortcut) on Linux CentOS 8.ahk
+25.  #31 - Alias (Command Shortcut) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=37F-GA6OEgo
 
-6409.  #32 - Bash Scripting on Linux CentOS 8.ahk
+26.  #32 - Bash Scripting on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=TfHGN2RcblI
 
-6436.  #33 - Rsync (Remote Synchronization) on Linux CentOS 8.ahk
+27.  #33 - Rsync (Remote Synchronization) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=MZKZgb8OJRo
 
-6464.  #4 - Remote login into virtual machine.ahk
+28.  #4 - Remote login into virtual machine.ahk
 https://www.youtube.com/watch?v=-f9a4_XxCQs
 
-6493.  #5 - ls command on Linux CentOS 8.ahk
+29.  #5 - ls command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=Sq3bgznEEk8
 
-6523.  #6 - cd command on Linux CentOS 8.ahk
+30.  #6 - cd command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=a77BPuUwiO0
 
-6554.  #7 - mkdir command on Linux CentOS 8.ahk
+31.  #7 - mkdir command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=EO5T3Prk2cA
 
-6586.  #8 - touch command on Linux CentOS 8.ahk
+32.  #8 - touch command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=l2Agu_nu3yA
 
-6619.  #9 - rmrmdir command on Linux CentOS 8.ahk
+33.  #9 - rmrmdir command on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=uSALaF1Mg_E
 
-6653.  Disk Partition (MBR & GPT) on Linux CentOS 8.ahk
+34.  Disk Partition (MBR & GPT) on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=BXamGxlPQ0k
 
-6688.  fdisk on Linux CentOS 8.ahk
+35.  fdisk on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=sh3tLXTpCVw
 
-6724.  Format & Mount Linux Partitions.ahk
+36.  Format & Mount Linux Partitions.ahk
 https://www.youtube.com/watch?v=UkVaG64YZY4
 
-6761.  fstab for Automatically Mounting Linux Partitions.ahk
+37.  fstab for Automatically Mounting Linux Partitions.ahk
 https://www.youtube.com/watch?v=vSA4tQqJF18
 
-6799.  gdisk on Linux CentOS 8.ahk
+38.  gdisk on Linux CentOS 8.ahk
 https://www.youtube.com/watch?v=5fncLIKfywk
 
-6838.  Logical Volumes in Linux.ahk
+39.  Logical Volumes in Linux.ahk
 https://www.youtube.com/watch?v=n88YanbkC4Y
 Linux CentOS 8 Tutorials for Beginners

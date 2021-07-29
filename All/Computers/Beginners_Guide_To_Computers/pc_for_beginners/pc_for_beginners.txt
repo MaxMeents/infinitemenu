@@ -1,37 +1,37 @@
 
-9424.  Basic Computing Skills - Orientation.ahk
+1.  Basic Computing Skills - Orientation.ahk
 https://www.youtube.com/watch?v=DwsKeoXOa9I
 
-9426.  Basic Internet.ahk
+2.  Basic Internet.ahk
 https://www.youtube.com/watch?v=SsoRLDpBUC4
 
-9429.  Beginners Guide to Using a USB Flash Drive - Ask a Tech #70.ahk
+3.  Beginners Guide to Using a USB Flash Drive - Ask a Tech #70.ahk
 https://www.youtube.com/watch?v=vo2X5fqsr9E
 
-9433.  Diagnose and Repair Broken Computer  PC - LIVE - PART 1.ahk
+4.  Diagnose and Repair Broken Computer  PC - LIVE - PART 1.ahk
 https://www.youtube.com/watch?v=xxP4tHBSOS4
 
-9438.  How To Master Windows 10 Tutorial for Absolute Beginners.ahk
+5.  How To Master Windows 10 Tutorial for Absolute Beginners.ahk
 https://www.youtube.com/watch?v=qCzT3wy_l2M
 
-9444.  Introduction to Computers - For Beginners.ahk
+6.  Introduction to Computers - For Beginners.ahk
 https://www.youtube.com/watch?v=fdSPUKSe_Xk
 
-9451.  Introduction to computers and complete History Education for all.ahk
+7.  Introduction to computers and complete History Education for all.ahk
 https://www.youtube.com/watch?v=z3KnlfATUek
 
-9459.  Mastering Basic Computer Skills.ahk
+8.  Mastering Basic Computer Skills.ahk
 https://www.youtube.com/watch?v=DOuIByRFROM
 
-9468.  Simple Things Computers Users Should Know.ahk
+9.  Simple Things Computers Users Should Know.ahk
 https://www.youtube.com/watch?v=3qhkr6wwegg
 
-9478.  Windows 10 (Beginners Guide).ahk
+10.  Windows 10 (Beginners Guide).ahk
 https://www.youtube.com/watch?v=8d9FY3LpR4E
 
-9489.  Windows 10 Beginners Guide.ahk
+11.  Windows 10 Beginners Guide.ahk
 https://www.youtube.com/watch?v=xz8W7yh3BBM
 
-9501.  ?? Windows 10 for Dummies, Newbies, and other Fine Beginners.ahk
+12.  ?? Windows 10 for Dummies, Newbies, and other Fine Beginners.ahk
 https://www.youtube.com/watch?v=KCTmSMSLq8s
 pc for beginners

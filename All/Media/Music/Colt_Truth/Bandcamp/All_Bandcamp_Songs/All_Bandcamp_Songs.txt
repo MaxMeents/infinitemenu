@@ -1,88 +1,88 @@
 
-3.  .ahk
+1.  .ahk
 
 
-5.  Alas Babylon.ahk
+2.  Alas Babylon.ahk
 https://colttruth.bandcamp.com/track/alas-babylon
 
-8.  American Wasteland ft. Cryptic Wisdom.ahk
+3.  American Wasteland ft. Cryptic Wisdom.ahk
 https://colttruth.bandcamp.com/track/american-wasteland-ft-cryptic-wisdom
 
-12.  Art Of War ft. Goldinchild, Loc saint.ahk
+4.  Art Of War ft. Goldinchild, Loc saint.ahk
 https://colttruth.bandcamp.com/track/art-of-war-ft-goldinchild-loc-saint
 
-17.  Brave New World ft. hystEric.ahk
+5.  Brave New World ft. hystEric.ahk
 https://colttruth.bandcamp.com/track/brave-new-world-ft-hysteric
 
-23.  Cremation Of Care (Intro).ahk
+6.  Cremation Of Care (Intro).ahk
 https://colttruth.bandcamp.com/track/cremation-of-care-intro
 
-30.  DEAFCON ft Spirit Of Truth.ahk
+7.  DEAFCON ft Spirit Of Truth.ahk
 https://colttruth.bandcamp.com/track/deafcon-ft-spirit-of-truth-2
 
-38.  Dear Destiny ft hystEric, Christian Gilet.ahk
+8.  Dear Destiny ft hystEric, Christian Gilet.ahk
 https://colttruth.bandcamp.com/track/dear-destiny-ft-hysteric-christian-gilet
 
-47.  Deeper.ahk
+9.  Deeper.ahk
 https://colttruth.bandcamp.com/track/deeper
 
-57.  Energy Lift.ahk
+10.  Energy Lift.ahk
 https://colttruth.bandcamp.com/track/energy-lift
 
-68.  Final Warning (Initiation).ahk
+11.  Final Warning (Initiation).ahk
 https://colttruth.bandcamp.com/track/final-warning-initiation
 
-80.  Gold Squares (Rose Crosses) ft. Coal Cash.ahk
+12.  Gold Squares (Rose Crosses) ft. Coal Cash.ahk
 https://colttruth.bandcamp.com/track/gold-squares-rose-crosses-ft-coal-cash
 
-93.  Hear No, See No, Speak No.ahk
+13.  Hear No, See No, Speak No.ahk
 https://colttruth.bandcamp.com/track/hear-no-see-no-speak-no
 
-107.  Heart Of Man.ahk
+14.  Heart Of Man.ahk
 https://colttruth.bandcamp.com/track/heart-of-man
 
-122.  Intro.ahk
+15.  Intro.ahk
 https://colttruth.bandcamp.com/track/intro
 
-138.  Magick In The Mist.ahk
+16.  Magick In The Mist.ahk
 https://colttruth.bandcamp.com/track/magick-in-the-mist-2
 
-155.  Medicine.ahk
+17.  Medicine.ahk
 https://colttruth.bandcamp.com/track/medicine
 
-173.  Mighty Men (Hybrids) ft. Enfluentz.ahk
+18.  Mighty Men (Hybrids) ft. Enfluentz.ahk
 https://colttruth.bandcamp.com/track/mighty-men-hybrids-ft-enfluentz
 
-192.  Mind War.ahk
+19.  Mind War.ahk
 https://colttruth.bandcamp.com/track/mind-war-2
 
-212.  No Mans Land ft. Katrina Vega.ahk
+20.  No Mans Land ft. Katrina Vega.ahk
 https://colttruth.bandcamp.com/track/no-mans-land-ft-katrina-vega
 
-233.  Pledge Of Allegiance ft. Anthony Valor.ahk
+21.  Pledge Of Allegiance ft. Anthony Valor.ahk
 https://colttruth.bandcamp.com/track/pledge-of-allegiance-ft-anthony-valor
 
-255.  Prophetic Warnings ft Enfluentz.ahk
+22.  Prophetic Warnings ft Enfluentz.ahk
 https://colttruth.bandcamp.com/track/prophetic-warnings-ft-enfluentz
 
-278.  Recognize ft. Martyr-X.ahk
+23.  Recognize ft. Martyr-X.ahk
 https://colttruth.bandcamp.com/track/recognize-ft-martyr-x
 
-302.  Shattered Illusionz.ahk
+24.  Shattered Illusionz.ahk
 https://colttruth.bandcamp.com/track/shattered-illusionz
 
-327.  This Is A Message (Intro).ahk
+25.  This Is A Message (Intro).ahk
 https://colttruth.bandcamp.com/track/this-is-a-message-intro
 
-353.  Walk Of Enoch (Narrow Path).ahk
+26.  Walk Of Enoch (Narrow Path).ahk
 https://colttruth.bandcamp.com/track/walk-of-enoch-narrow-path
 
-380.  WayMaker ft. Loc Saint.ahk
+27.  WayMaker ft. Loc Saint.ahk
 https://colttruth.bandcamp.com/track/waymaker-ft-loc-saint
 
-408.  What Is High.ahk
+28.  What Is High.ahk
 https://colttruth.bandcamp.com/track/what-is-high
 
-437.  World Through A Pinhole.ahk
+29.  World Through A Pinhole.ahk
 https://colttruth.bandcamp.com/track/world-through-a-pinhole
 All Bandcamp Songs

@@ -1,154 +1,154 @@
 
-17.  A Piece Of Toast.ahk
+1.  A Piece Of Toast.ahk
 https://www.youtube.com/watch?v=rnQBF2CIygg
 
-19.  AMV - Final Spark - Bestamvsofalltime Anime MV ?.ahk
+2.  AMV - Final Spark - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=QdJHZMwr7nc
 
-22.  AMV - Liar - Bestamvsofalltime Anime MV ?.ahk
+3.  AMV - Liar - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=9ibmrKsPpn4
 
-26.  AMV - Our Tapes - Bestamvsofalltime Anime MV ?.ahk
+4.  AMV - Our Tapes - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=Z6IL_YVNBDQ
 
-31.  AMV - POP Culture - Bestamvsofalltime Anime MV ?.ahk
+5.  AMV - POP Culture - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=LPDAZe84OJI
 
-37.  AMV - Skullpture - Bestamvsofalltime Anime MV ?.ahk
+6.  AMV - Skullpture - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=jKJuE6AVoiw
 
-44.  AMV - Who Are You Keep me from the... - Bestamvsofalltime Anime MV ?.ahk
+7.  AMV - Who Are You Keep me from the... - Bestamvsofalltime Anime MV ?.ahk
 https://www.youtube.com/watch?v=HNYFhHrUN2s
 
-52.  AMV All or Nothing.ahk
+8.  AMV All or Nothing.ahk
 https://www.youtube.com/watch?v=djJp9wGDCKI
 
-61.  AMV Beautiful Back Pain.ahk
+9.  AMV Beautiful Back Pain.ahk
 https://www.youtube.com/watch?v=sP4H0rvuvds
 
-71.  AMV Children of the Grave.ahk
+10.  AMV Children of the Grave.ahk
 https://www.youtube.com/watch?v=fQeHrBB9mv0
 
-82.  AMV Dazzling Inferno.ahk
+11.  AMV Dazzling Inferno.ahk
 https://www.youtube.com/watch?v=dzI8T_nQnQA
 
-94.  AMV Devoid.ahk
+12.  AMV Devoid.ahk
 https://www.youtube.com/watch?v=LfSmcKGZZ80
 
-107.  AMV Evil Gipsy Woman.ahk
+13.  AMV Evil Gipsy Woman.ahk
 https://www.youtube.com/watch?v=e6AGEV4uJUE
 
-121.  AMV FreeFall.ahk
+14.  AMV FreeFall.ahk
 https://www.youtube.com/watch?v=IU_CTk7W28Q
 
-136.  AMV Frozen Dreams.ahk
+15.  AMV Frozen Dreams.ahk
 https://www.youtube.com/watch?v=Y6yDEpyqSn8
 
-152.  AMV Heart Failure.ahk
+16.  AMV Heart Failure.ahk
 https://www.youtube.com/watch?v=cZFN7bqBJ_c
 
-169.  AMV Inverted Love.ahk
+17.  AMV Inverted Love.ahk
 https://www.youtube.com/watch?v=XRSdmuzpgQQ
 
-187.  AMV Irregular Metronome.ahk
+18.  AMV Irregular Metronome.ahk
 https://www.youtube.com/watch?v=Gdg8s922O58
 
-206.  AMV Lorem Ipsum.ahk
+19.  AMV Lorem Ipsum.ahk
 https://www.youtube.com/watch?v=KDcJFKQpQy8
 
-226.  AMV Love Death Immortality.ahk
+20.  AMV Love Death Immortality.ahk
 https://www.youtube.com/watch?v=x4dpawzmOm0
 
-247.  AMV Pain Manifesto.ahk
+21.  AMV Pain Manifesto.ahk
 https://www.youtube.com/watch?v=ZzRi_yJQaJM
 
-269.  AMV Paranoia.ahk
+22.  AMV Paranoia.ahk
 https://www.youtube.com/watch?v=Ih8ZUFDPFmU
 
-292.  AMV Quiet.ahk
+23.  AMV Quiet.ahk
 https://www.youtube.com/watch?v=oQlmk-XyZK4
 
-316.  AMV Superhero Intervention.ahk
+24.  AMV Superhero Intervention.ahk
 https://www.youtube.com/watch?v=hy7QZT4one0
 
-341.  AMV Swing Box.ahk
+25.  AMV Swing Box.ahk
 https://www.youtube.com/watch?v=rINrDjNiZbU
 
-367.  AMV The Darkest Part.ahk
+26.  AMV The Darkest Part.ahk
 https://www.youtube.com/watch?v=igowK8xhFPw
 
-394.  AMV Tilted.ahk
+27.  AMV Tilted.ahk
 https://www.youtube.com/watch?v=J0XrzJ_ZBeI
 
-422.  AMV Unsatisfied.ahk
+28.  AMV Unsatisfied.ahk
 https://www.youtube.com/watch?v=KRVm5F1Xydw
 
-451.  AMV Valkyrie.ahk
+29.  AMV Valkyrie.ahk
 https://www.youtube.com/watch?v=cXApjhrS27k
 
-481.  AMV Vermouth.ahk
+30.  AMV Vermouth.ahk
 https://www.youtube.com/watch?v=T265pJibI5Y
 
-512.  AMV Whoarriors.ahk
+31.  AMV Whoarriors.ahk
 https://www.youtube.com/watch?v=7B4gNArI4o0
 
-544.  Anime in Rewind 2017 - AMV.ahk
+32.  Anime in Rewind 2017 - AMV.ahk
 https://www.youtube.com/watch?v=VUQJOe1nbsw
 
-577.  Boku no Hero Academia AMV ~ Legends Never Die ~.ahk
+33.  Boku no Hero Academia AMV ~ Legends Never Die ~.ahk
 https://www.youtube.com/watch?v=OJc4CVMKT0w
 
-611.  Charlotte AMV - Back to Life.ahk
+34.  Charlotte AMV - Back to Life.ahk
 https://www.youtube.com/watch?v=FdPKYug8eyU
 
-646.  I Am King Impossible - GMVAMV.ahk
+35.  I Am King Impossible - GMVAMV.ahk
 https://www.youtube.com/watch?v=fJsiuc-5Olk
 
-682.  I Hope That You Know - AMV.ahk
+36.  I Hope That You Know - AMV.ahk
 https://www.youtube.com/watch?v=QJpAKY42bC4
 
-719.  I Will Die For You AMV (Anime Boston 2013 Drama Finalist).ahk
+37.  I Will Die For You AMV (Anime Boston 2013 Drama Finalist).ahk
 https://www.youtube.com/watch?v=0txLs1Hb_X0
 
-757.  Kakegurui?AMV?- STFD ??.ahk
+38.  Kakegurui?AMV?- STFD ??.ahk
 https://www.youtube.com/watch?v=4DVYIfk_D6U
 
-796.  Koe No Katachi ? RISE?AMV?.ahk
+39.  Koe No Katachi ? RISE?AMV?.ahk
 https://www.youtube.com/watch?v=IGADP2i1ItQ
 
-836.  Porter Robinson & Madeon - Shelter (Official Video) (Short Film with A-1 Pictures & Crunchyroll).ahk
+40.  Porter Robinson & Madeon - Shelter (Official Video) (Short Film with A-1 Pictures & Crunchyroll).ahk
 https://www.youtube.com/watch?v=fzQ6gRAEoy0
 
-877.  RWBY AMV - Hero  Collab.ahk
+41.  RWBY AMV - Hero  Collab.ahk
 https://www.youtube.com/watch?v=MuerDnn6wZ8
 
-919.  RWBY AMV - Monster [[Dubstep]].ahk
+42.  RWBY AMV - Monster [[Dubstep]].ahk
 https://www.youtube.com/watch?v=rTe8V38Iquc
 
-962.  This Is All We Know - AMV.ahk
+43.  This Is All We Know - AMV.ahk
 https://www.youtube.com/watch?v=1jSCzaCyAwQ
 
-1006.  Want To Be My Soldier?AMV?.ahk
+44.  Want To Be My Soldier?AMV?.ahk
 https://www.youtube.com/watch?v=xoPS5sO71QQ
 
-1051.  You’re A Wanderer Just Like Me - AMV.ahk
+45.  You’re A Wanderer Just Like Me - AMV.ahk
 https://www.youtube.com/watch?v=kfz8UfEPvoE
 
-1097.  [Halloween MEP] Tag, You're it - AMVMMV - Multifandom.ahk
+46.  [Halloween MEP] Tag, You're it - AMVMMV - Multifandom.ahk
 https://www.youtube.com/watch?v=X_hXKrf4Ssg
 
-1144.  [IS] Gasoline - MMV MEP.ahk
+47.  [IS] Gasoline - MMV MEP.ahk
 https://www.youtube.com/watch?v=nZWX1YiZmW4
 
-1192.  ? I'm So Sorry ? AMV.ahk
+48.  ? I'm So Sorry ? AMV.ahk
 https://www.youtube.com/watch?v=a6k5LdcVRBI
 
-1241.  ? Uptown Funk ? AMV.ahk
+49.  ? Uptown Funk ? AMV.ahk
 https://www.youtube.com/watch?v=EKIrh64gfsQ
 
-1291.  ?AMV?Ballroom E Youkoso - ? RUINS ? ??.ahk
+50.  ?AMV?Ballroom E Youkoso - ? RUINS ? ??.ahk
 https://www.youtube.com/watch?v=vwgo9bU9_hA
 
-1342.  ?AMV? Sad Song.ahk
+51.  ?AMV? Sad Song.ahk
 https://www.youtube.com/watch?v=xd-Y-PFecuw
 AMV Playlist - Good Anime Music Videos

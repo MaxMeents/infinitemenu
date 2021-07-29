@@ -1,22 +1,22 @@
 
-850.  .ahk
+1.  .ahk
 
 
-852.  Human Capital.ahk
+2.  Human Capital.ahk
 https://bababrinkman.bandcamp.com/track/human-capital
 
-855.  Nuts and Bolts.ahk
+3.  Nuts and Bolts.ahk
 https://bababrinkman.bandcamp.com/track/nuts-and-bolts
 
-859.  Switch Lanes.ahk
+4.  Switch Lanes.ahk
 https://bababrinkman.bandcamp.com/track/switch-lanes
 
-864.  Textbook.ahk
+5.  Textbook.ahk
 https://bababrinkman.bandcamp.com/track/textbook
 
-870.  Vacuums.ahk
+6.  Vacuums.ahk
 https://bababrinkman.bandcamp.com/track/vacuums
 
-877.  Walk Like An Amoeba.ahk
+7.  Walk Like An Amoeba.ahk
 https://bababrinkman.bandcamp.com/track/walk-like-an-amoeba
 The Rap Guide to Business

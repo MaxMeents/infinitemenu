@@ -1,163 +1,163 @@
 
-473537.  LITERAL Assassin's Creed 4 Black Flag Trailer.ahk
+1.  LITERAL Assassin's Creed 4 Black Flag Trailer.ahk
 https://www.youtube.com/watch?v=pfsRxTjNGvo&list=PL3C14444766460071
 
-473539.  LITERAL Assassin's Creed Brotherhood Trailer.ahk
+2.  LITERAL Assassin's Creed Brotherhood Trailer.ahk
 https://www.youtube.com/watch?v=kKrtbUinWOU&list=PL3C14444766460071
 
-473542.  LITERAL Assassin's Creed Revelations TRAILER LIVE.ahk
+3.  LITERAL Assassin's Creed Revelations TRAILER LIVE.ahk
 https://www.youtube.com/watch?v=KUaoEyOlcwc&list=PL3C14444766460071
 
-473546.  LITERAL Assassin's Creed Revelations Trailer.ahk
+4.  LITERAL Assassin's Creed Revelations Trailer.ahk
 https://www.youtube.com/watch?v=zJjJY5YpKRI&list=PL3C14444766460071
 
-473551.  LITERAL Assassin's Creed Revelations TV Spot.ahk
+5.  LITERAL Assassin's Creed Revelations TV Spot.ahk
 https://www.youtube.com/watch?v=tyzIK5MFA94&list=PL3C14444766460071
 
-473557.  LITERAL Avengers Academy Trailer.ahk
+6.  LITERAL Avengers Academy Trailer.ahk
 https://www.youtube.com/watch?v=n-vZGywBGtM&list=PL3C14444766460071
 
-473564.  LITERAL Axe Super Bowl Commercial.ahk
+7.  LITERAL Axe Super Bowl Commercial.ahk
 https://www.youtube.com/watch?v=luR0xV8hGOw&list=PL3C14444766460071
 
-473572.  LITERAL BATTLEFIELD 1 Official Reveal Trailer.ahk
+8.  LITERAL BATTLEFIELD 1 Official Reveal Trailer.ahk
 https://www.youtube.com/watch?v=ttw4abodSJE&list=PL3C14444766460071
 
-473581.  LITERAL BioShock Infinite Trailer.ahk
+9.  LITERAL BioShock Infinite Trailer.ahk
 https://www.youtube.com/watch?v=LSCswCg-9gk&list=PL3C14444766460071
 
-473591.  LITERAL Call of Duty Modern Warfare 3 Trailer.ahk
+10.  LITERAL Call of Duty Modern Warfare 3 Trailer.ahk
 https://www.youtube.com/watch?v=e-wEgcKbaO0&list=PL3C14444766460071
 
-473602.  LITERAL Clash of the Titans Trailer Parody.ahk
+11.  LITERAL Clash of the Titans Trailer Parody.ahk
 https://www.youtube.com/watch?v=-WuYCB-Xv38&list=PL3C14444766460071
 
-473614.  LITERAL Crysis 2 Trailer.ahk
+12.  LITERAL Crysis 2 Trailer.ahk
 https://www.youtube.com/watch?v=3PbpKa3rWK0&list=PL3C14444766460071
 
-473627.  LITERAL Darksiders 2 Trailer.ahk
+13.  LITERAL Darksiders 2 Trailer.ahk
 https://www.youtube.com/watch?v=ocdrQGTdllY&list=PL3C14444766460071
 
-473641.  LITERAL Dead Island 2 Trailer.ahk
+14.  LITERAL Dead Island 2 Trailer.ahk
 https://www.youtube.com/watch?v=VnFe8_u2g0o&list=PL3C14444766460071
 
-473656.  LITERAL Dead Island Announcement Trailer.ahk
+15.  LITERAL Dead Island Announcement Trailer.ahk
 https://www.youtube.com/watch?v=YQ5c9BzohM4&list=PL3C14444766460071
 
-473672.  LITERAL Dead Island Riptide Trailer.ahk
+16.  LITERAL Dead Island Riptide Trailer.ahk
 https://www.youtube.com/watch?v=tM--ag7BFa4&list=PL3C14444766460071
 
-473689.  LITERAL Dead Space 2 Trailer.ahk
+17.  LITERAL Dead Space 2 Trailer.ahk
 https://www.youtube.com/watch?v=XjcBINH4HL4&list=PL3C14444766460071
 
-473707.  LITERAL Falling Skies Trailer.ahk
+18.  LITERAL Falling Skies Trailer.ahk
 https://www.youtube.com/watch?v=groEua2ETsQ&list=PL3C14444766460071
 
-473726.  LITERAL Fallout 4 Official Trailer.ahk
+19.  LITERAL Fallout 4 Official Trailer.ahk
 https://www.youtube.com/watch?v=xRkYsTYyjE8&list=PL3C14444766460071
 
-473746.  LITERAL Game of Thrones Season 4 Trailer.ahk
+20.  LITERAL Game of Thrones Season 4 Trailer.ahk
 https://www.youtube.com/watch?v=OE8-JhBGBWs&list=PL3C14444766460071
 
-473767.  LITERAL Game of War Trailer.ahk
+21.  LITERAL Game of War Trailer.ahk
 https://www.youtube.com/watch?v=AXxIgFQoU2w&list=PL3C14444766460071
 
-473789.  LITERAL God of War Ascension Trailer.ahk
+22.  LITERAL God of War Ascension Trailer.ahk
 https://www.youtube.com/watch?v=FyPvPPNPLJA&list=PL3C14444766460071
 
-473812.  LITERAL Halo Reach Trailer.ahk
+23.  LITERAL Halo Reach Trailer.ahk
 https://www.youtube.com/watch?v=mADhOt6qRlk&list=PL3C14444766460071
 
-473836.  LITERAL Harry Potter and the Deathly Hallows Trailer Parody HD.ahk
+24.  LITERAL Harry Potter and the Deathly Hallows Trailer Parody HD.ahk
 https://www.youtube.com/watch?v=MahTKZDHXaA&list=PL3C14444766460071
 
-473861.  LITERAL Hitman Absolution Trailer.ahk
+25.  LITERAL Hitman Absolution Trailer.ahk
 https://www.youtube.com/watch?v=z49zvR1XZ2M&list=PL3C14444766460071
 
-473887.  LITERAL Iron Man 3 Trailer.ahk
+26.  LITERAL Iron Man 3 Trailer.ahk
 https://www.youtube.com/watch?v=fFD_tv_FfBw&list=PL3C14444766460071
 
-473914.  LITERAL IT - Official Teaser Trailer.ahk
+27.  LITERAL IT - Official Teaser Trailer.ahk
 https://www.youtube.com/watch?v=1z3BUUG6n94&list=PL3C14444766460071
 
-473942.  LITERAL Jurassic World Trailer.ahk
+28.  LITERAL Jurassic World Trailer.ahk
 https://www.youtube.com/watch?v=M-Ejts-k8Hg&list=PL3C14444766460071
 
-473971.  LITERAL Legend of Zelda Skyward Sword Trailer.ahk
+29.  LITERAL Legend of Zelda Skyward Sword Trailer.ahk
 https://www.youtube.com/watch?v=rWu6YeRg2N4&list=PL3C14444766460071
 
-474001.  LITERAL Lego Jurassic World Trailer.ahk
+30.  LITERAL Lego Jurassic World Trailer.ahk
 https://www.youtube.com/watch?v=ii42TZsU8HU&list=PL3C14444766460071
 
-474032.  LITERAL Mass Effect 3 Trailer.ahk
+31.  LITERAL Mass Effect 3 Trailer.ahk
 https://www.youtube.com/watch?v=Lpj3dy9ALQ0&list=PL3C14444766460071
 
-474064.  LITERAL My Soul To Take Trailer.ahk
+32.  LITERAL My Soul To Take Trailer.ahk
 https://www.youtube.com/watch?v=Dg-Pa_A8FF4&list=PL3C14444766460071
 
-474097.  LITERAL Pirates of the Caribbean On Stranger Tides Trailer.ahk
+33.  LITERAL Pirates of the Caribbean On Stranger Tides Trailer.ahk
 https://www.youtube.com/watch?v=NefJFHL0dmY&list=PL3C14444766460071
 
-474131.  LITERAL Prototype 2 Trailer.ahk
+34.  LITERAL Prototype 2 Trailer.ahk
 https://www.youtube.com/watch?v=Rss9T7lu27k&list=PL3C14444766460071
 
-474166.  LITERAL Red Dead Redemption 2 Trailer.ahk
+35.  LITERAL Red Dead Redemption 2 Trailer.ahk
 https://www.youtube.com/watch?v=SxJxUKOmCJM&list=PL3C14444766460071
 
-474202.  LITERAL Resident Evil Afterlife Trailer Parody.ahk
+36.  LITERAL Resident Evil Afterlife Trailer Parody.ahk
 https://www.youtube.com/watch?v=g1tRU1fsU_Y&list=PL3C14444766460071
 
-474239.  LITERAL Shark Night 3D TRAILER.ahk
+37.  LITERAL Shark Night 3D TRAILER.ahk
 https://www.youtube.com/watch?v=c2W32cOTgo8&list=PL3C14444766460071
 
-474277.  LITERAL Skyline Trailer.ahk
+38.  LITERAL Skyline Trailer.ahk
 https://www.youtube.com/watch?v=dNX2yyt7Ut0&list=PL3C14444766460071
 
-474316.  LITERAL Skyrim Trailer.ahk
+39.  LITERAL Skyrim Trailer.ahk
 https://www.youtube.com/watch?v=RMKJ9fDM2mo&list=PL3C14444766460071
 
-474356.  LITERAL Suicide Squad Trailer.ahk
+40.  LITERAL Suicide Squad Trailer.ahk
 https://www.youtube.com/watch?v=5pFbxLKhRPM&list=PL3C14444766460071
 
-474397.  LITERAL The Hobbit Trailer.ahk
+41.  LITERAL The Hobbit Trailer.ahk
 https://www.youtube.com/watch?v=86bznYoj9e0&list=PL3C14444766460071
 
-474439.  LITERAL The Hunger Games Catching Fire Trailer.ahk
+42.  LITERAL The Hunger Games Catching Fire Trailer.ahk
 https://www.youtube.com/watch?v=_ueJNO3-Ink&list=PL3C14444766460071
 
-474482.  LITERAL The Punisher  Official Trailer [HD]  Marvel  Netflix.ahk
+43.  LITERAL The Punisher  Official Trailer [HD]  Marvel  Netflix.ahk
 https://www.youtube.com/watch?v=jFjz2GufI9M&list=PL3C14444766460071
 
-474526.  LITERAL Titanfall Trailer.ahk
+44.  LITERAL Titanfall Trailer.ahk
 https://www.youtube.com/watch?v=oFU2SPLukvY&list=PL3C14444766460071
 
-474571.  LITERAL Trailers  Avengers Infinity War.ahk
+45.  LITERAL Trailers  Avengers Infinity War.ahk
 https://www.youtube.com/watch?v=7WiJZHhFYKM&list=PL3C14444766460071
 
-474617.  Literal Trailers - RAGE Literal Trailer.ahk
+46.  Literal Trailers - RAGE Literal Trailer.ahk
 https://www.youtube.com/watch?v=Uf4qqgZreok&list=PL3C14444766460071
 
-474664.  LITERAL TRAILERS Stop-Motion Animated Toy Soldiers War Chest Trailer.ahk
+47.  LITERAL TRAILERS Stop-Motion Animated Toy Soldiers War Chest Trailer.ahk
 https://www.youtube.com/watch?v=fzUwRRbYhcE&list=PL3C14444766460071
 
-474712.  LITERAL Tron Legacy Trailer Parody.ahk
+48.  LITERAL Tron Legacy Trailer Parody.ahk
 https://www.youtube.com/watch?v=UCmeQaXuFig&list=PL3C14444766460071
 
-474761.  LITERAL Twilight Eclipse Trailer Parody.ahk
+49.  LITERAL Twilight Eclipse Trailer Parody.ahk
 https://www.youtube.com/watch?v=UJK7n_wcSsM&list=PL3C14444766460071
 
-474811.  LITERAL Warrior's Way Trailer.ahk
+50.  LITERAL Warrior's Way Trailer.ahk
 https://www.youtube.com/watch?v=_n-Ps19p_OM&list=PL3C14444766460071
 
-474862.  LITERAL Wolfenstein The New Order Trailer.ahk
+51.  LITERAL Wolfenstein The New Order Trailer.ahk
 https://www.youtube.com/watch?v=nNHbRJ2IKLs&list=PL3C14444766460071
 
-474914.  LITERAL World of Warcraft Cataclysm Cinematic Trailer.ahk
+52.  LITERAL World of Warcraft Cataclysm Cinematic Trailer.ahk
 https://www.youtube.com/watch?v=TS8pFJKUjfg&list=PL3C14444766460071
 
-474967.  LITERAL X-Men Days of Future Past Trailer.ahk
+53.  LITERAL X-Men Days of Future Past Trailer.ahk
 https://www.youtube.com/watch?v=DQwpaUqWOd4&list=PL3C14444766460071
 
-475021.  [LITERAL] Assassin's Creed Origins Trailer.ahk
+54.  [LITERAL] Assassin's Creed Origins Trailer.ahk
 https://www.youtube.com/watch?v=3CHaHHzohKc&list=PL3C14444766460071
 LITERAL Trailers (by Tobuscus)

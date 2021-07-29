@@ -1,298 +1,298 @@
 
-15.  Aphex Twin - T69 Collapse.ahk
+1.  Aphex Twin - T69 Collapse.ahk
 https://www.youtube.com/watch?v=SqayDnQ2wmw
 
-17.  Ariana Grande - no tears left to cry (Official Video).ahk
+2.  Ariana Grande - no tears left to cry (Official Video).ahk
 https://www.youtube.com/watch?v=ffxKSjUwKdU
 
-20.  Ariana Grande - thank u, next (Official Video).ahk
+3.  Ariana Grande - thank u, next (Official Video).ahk
 https://www.youtube.com/watch?v=gl1aHhXnN1k
 
-24.  Battles My Machines by Daniels.ahk
+4.  Battles My Machines by Daniels.ahk
 https://www.youtube.com/watch?v=pkgQ88G8Hj8
 
-29.  Beck - Colors.ahk
+5.  Beck - Colors.ahk
 https://www.youtube.com/watch?v=WRCA_Fo0rWA
 
-35.  Beyoncé - Countdown (Official Video).ahk
+6.  Beyoncé - Countdown (Official Video).ahk
 https://www.youtube.com/watch?v=2XY3AvVgDns
 
-42.  Beyoncé - Formation (Official Video).ahk
+7.  Beyoncé - Formation (Official Video).ahk
 https://www.youtube.com/watch?v=WDZJPJV__bQ
 
-50.  Beyoncé - Hold Up (Video).ahk
+8.  Beyoncé - Hold Up (Video).ahk
 https://www.youtube.com/watch?v=PeonBmeFR8o
 
-59.  Billie Eilish - bad guy.ahk
+9.  Billie Eilish - bad guy.ahk
 https://www.youtube.com/watch?v=DyDfgMOUjCI
 
-69.  Bloc Party - Ratchet - HD ACC.ahk
+10.  Bloc Party - Ratchet - HD ACC.ahk
 https://www.youtube.com/watch?v=oSuQghjLcJs
 
-80.  Bonobo  Cirrus [Official Video].ahk
+11.  Bonobo  Cirrus [Official Video].ahk
 https://www.youtube.com/watch?v=WF34N4gJAKE
 
-92.  Bonobo  Kerala.ahk
+12.  Bonobo  Kerala.ahk
 https://www.youtube.com/watch?v=S0Q4gqBUs7c
 
-105.  Bonobo  No Reason (feat. Nick Murphy).ahk
+13.  Bonobo  No Reason (feat. Nick Murphy).ahk
 https://www.youtube.com/watch?v=ebzEEEdjHj0
 
-119.  Cassius, Pharell Williams - Go Up ft. Cat Power.ahk
+14.  Cassius, Pharell Williams - Go Up ft. Cat Power.ahk
 https://www.youtube.com/watch?v=IVNub204dOY
 
-134.  Charli XCX & Troye Sivan - 1999 [Official Video].ahk
+15.  Charli XCX & Troye Sivan - 1999 [Official Video].ahk
 https://www.youtube.com/watch?v=6-v1b9waHWY
 
-150.  Charli XCX - Boys [Official Video].ahk
+16.  Charli XCX - Boys [Official Video].ahk
 https://www.youtube.com/watch?v=mPRy1B4t5YA
 
-167.  Charli XCX - Famous [Official Music Video YTMAs].ahk
+17.  Charli XCX - Famous [Official Music Video YTMAs].ahk
 https://www.youtube.com/watch?v=5f5A4DnGtis
 
-185.  Childish Gambino - This Is America (Official Video).ahk
+18.  Childish Gambino - This Is America (Official Video).ahk
 https://www.youtube.com/watch?v=VYOjWnS4cMY
 
-204.  Coldplay - Adventure Of A Lifetime (Official Video).ahk
+19.  Coldplay - Adventure Of A Lifetime (Official Video).ahk
 https://www.youtube.com/watch?v=QtXby3twMmI
 
-224.  Coldplay - Up&Up (Official Video).ahk
+20.  Coldplay - Up&Up (Official Video).ahk
 https://www.youtube.com/watch?v=BPNTC7uZYrI
 
-245.  Cut Copy - Standing In The Middle Of The Field.ahk
+21.  Cut Copy - Standing In The Middle Of The Field.ahk
 https://www.youtube.com/watch?v=a0gBk1J-i-o
 
-267.  David Bowie - Lazarus (Video).ahk
+22.  David Bowie - Lazarus (Video).ahk
 https://www.youtube.com/watch?v=y-JqH1M4Ya8
 
-290.  DJ Snake - Magenta Riddim.ahk
+23.  DJ Snake - Magenta Riddim.ahk
 https://www.youtube.com/watch?v=op4B9sNGi0k
 
-314.  DJ Snake, Lil Jon - Turn Down for What.ahk
+24.  DJ Snake, Lil Jon - Turn Down for What.ahk
 https://www.youtube.com/watch?v=HMUDVMiITOU
 
-339.  Drake - Hotline Bling.ahk
+25.  Drake - Hotline Bling.ahk
 https://www.youtube.com/watch?v=uxpDa-c-4Mc
 
-365.  Dua Lipa - New Rules (Official Music Video).ahk
+26.  Dua Lipa - New Rules (Official Music Video).ahk
 https://www.youtube.com/watch?v=k2qgadSvNyU
 
-392.  GENER8ION + M.I.A. - The New International Sound Pt. II (Official music video).ahk
+27.  GENER8ION + M.I.A. - The New International Sound Pt. II (Official music video).ahk
 https://www.youtube.com/watch?v=uAYPacrJnyQ
 
-420.  Gotye - Somebody That I Used To Know (feat. Kimbra) [Official Music Video].ahk
+28.  Gotye - Somebody That I Used To Know (feat. Kimbra) [Official Music Video].ahk
 https://www.youtube.com/watch?v=8UVNT4wvIGY
 
-449.  HomePod — Welcome Home by Spike Jonze — Apple.ahk
+29.  HomePod — Welcome Home by Spike Jonze — Apple.ahk
 https://www.youtube.com/watch?v=70P7-pkyP4Q
 
-479.  Hot Chip - Need You Now (Official Video).ahk
+30.  Hot Chip - Need You Now (Official Video).ahk
 https://www.youtube.com/watch?v=lfH5LmhvQQk
 
-510.  Iggy Azalea - Fancy ft. Charli XCX (Official Music Video).ahk
+31.  Iggy Azalea - Fancy ft. Charli XCX (Official Music Video).ahk
 https://www.youtube.com/watch?v=O-zpOMYRi0w
 
-542.  Jack Sparrow (feat. Michael Bolton).ahk
+32.  Jack Sparrow (feat. Michael Bolton).ahk
 https://www.youtube.com/watch?v=GI6CfKcMhjY
 
-575.  Jain - Come (Official Video).ahk
+33.  Jain - Come (Official Video).ahk
 https://www.youtube.com/watch?v=KDXOzr0GoA4
 
-609.  Jain - Dynabeat (Official Video).ahk
+34.  Jain - Dynabeat (Official Video).ahk
 https://www.youtube.com/watch?v=vogjd9rzUNQ
 
-644.  Jamie xx - Gosh.ahk
+35.  Jamie xx - Gosh.ahk
 https://www.youtube.com/watch?v=hTGJfRPLe08
 
-680.  JAY-Z - Moonlight.ahk
+36.  JAY-Z - Moonlight.ahk
 https://www.youtube.com/watch?v=FCSh48OlvMo
 
-717.  Justice - Audio, Video, Disco. (Official Video).ahk
+37.  Justice - Audio, Video, Disco. (Official Video).ahk
 https://www.youtube.com/watch?v=lqBhgEQ4LT0
 
-755.  Justice - On'n'On (Official Video).ahk
+38.  Justice - On'n'On (Official Video).ahk
 https://www.youtube.com/watch?v=TIW1m3jbEsg
 
-794.  Justin Timberlake - Filthy (Official Video).ahk
+39.  Justin Timberlake - Filthy (Official Video).ahk
 https://www.youtube.com/watch?v=gA-NDZb29I4
 
-834.  Justin Timberlake - Man of the Woods (Official Video).ahk
+40.  Justin Timberlake - Man of the Woods (Official Video).ahk
 https://www.youtube.com/watch?v=baj6llvgpWA
 
-875.  Justin Timberlake - Say Something (Official Video) ft. Chris Stapleton.ahk
+41.  Justin Timberlake - Say Something (Official Video) ft. Chris Stapleton.ahk
 https://www.youtube.com/watch?v=8MPbR6Cbwi4
 
-917.  Kanye West & Lil Pump - I Love It feat. Adele Givens [Official Music Video].ahk
+42.  Kanye West & Lil Pump - I Love It feat. Adele Givens [Official Music Video].ahk
 https://www.youtube.com/watch?v=cwQgjq0mCdE
 
-960.  Kanye West - Famous.ahk
+43.  Kanye West - Famous.ahk
 https://www.youtube.com/watch?v=p7FCgw_GlWc
 
-1004.  Kanye West - Runaway (Extended Video Version) ft. Pusha T.ahk
+44.  Kanye West - Runaway (Extended Video Version) ft. Pusha T.ahk
 https://www.youtube.com/watch?v=L7_jYl8A73g
 
-1049.  Katy Perry - California Gurls (Official Music Video) ft. Snoop Dogg.ahk
+45.  Katy Perry - California Gurls (Official Music Video) ft. Snoop Dogg.ahk
 https://www.youtube.com/watch?v=F57P9C4SAW4
 
-1095.  Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley.ahk
+46.  Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley.ahk
 https://www.youtube.com/watch?v=Um7pMggPnug
 
-1142.  Katy Perry - Dark Horse (Official) ft. Juicy J.ahk
+47.  Katy Perry - Dark Horse (Official) ft. Juicy J.ahk
 https://www.youtube.com/watch?v=0KSOMA3QBU0
 
-1190.  Katy Perry - Last Friday Night (T.G.I.F.) (Official Music Video).ahk
+48.  Katy Perry - Last Friday Night (T.G.I.F.) (Official Music Video).ahk
 https://www.youtube.com/watch?v=KlyXNRrsk4A
 
-1239.  Katy Perry - Roar (Official).ahk
+49.  Katy Perry - Roar (Official).ahk
 https://www.youtube.com/watch?v=CevxZvSJLk8
 
-1289.  Kendrick Lamar - Alright.ahk
+50.  Kendrick Lamar - Alright.ahk
 https://www.youtube.com/watch?v=Z-48u_uWMHY
 
-1340.  Kendrick Lamar - HUMBLE..ahk
+51.  Kendrick Lamar - HUMBLE..ahk
 https://www.youtube.com/watch?v=tvTRZJ-4EyI
 
-1392.  Kylie Minogue - All The Lovers (Official Video).ahk
+52.  Kylie Minogue - All The Lovers (Official Video).ahk
 https://www.youtube.com/watch?v=frv6FOt1BNI
 
-1445.  Lady Gaga - Telephone ft. Beyoncé (Official Music Video).ahk
+53.  Lady Gaga - Telephone ft. Beyoncé (Official Music Video).ahk
 https://www.youtube.com/watch?v=EVBsypHzF3U
 
-1499.  LCD Soundsystem - oh baby (Official Video).ahk
+54.  LCD Soundsystem - oh baby (Official Video).ahk
 https://www.youtube.com/watch?v=5gIhrPGyu6U
 
-1554.  Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus.ahk
+55.  Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus.ahk
 https://www.youtube.com/watch?v=w2Ov5jzm3j8
 
-1610.  Logic - 1-800-273-8255 ft. Alessia Cara, Khalid (Official Video).ahk
+56.  Logic - 1-800-273-8255 ft. Alessia Cara, Khalid (Official Video).ahk
 https://www.youtube.com/watch?v=Kb24RrHIbFk
 
-1667.  M.I.A. - Bad Girls (Official Video).ahk
+57.  M.I.A. - Bad Girls (Official Video).ahk
 https://www.youtube.com/watch?v=2uYs0gJD-LE
 
-1725.  M.I.A. - Borders.ahk
+58.  M.I.A. - Borders.ahk
 https://www.youtube.com/watch?v=r-Nw7HbaeWY
 
-1784.  Maroon 5 - Girls Like You ft. Cardi B (Official Music Video).ahk
+59.  Maroon 5 - Girls Like You ft. Cardi B (Official Music Video).ahk
 https://www.youtube.com/watch?v=aJOTlE1K90k
 
-1844.  Maroon 5 - Sugar (Official Music Video).ahk
+60.  Maroon 5 - Sugar (Official Music Video).ahk
 https://www.youtube.com/watch?v=09R8_2nJtjg
 
-1905.  Maroon 5 - Wait (Official Music Video).ahk
+61.  Maroon 5 - Wait (Official Music Video).ahk
 https://www.youtube.com/watch?v=4uTNVumfm84
 
-1967.  Maroon 5 - What Lovers Do ft. SZA (Official Music Video).ahk
+62.  Maroon 5 - What Lovers Do ft. SZA (Official Music Video).ahk
 https://www.youtube.com/watch?v=5Wiio4KoGe8
 
-2030.  Miike Snow - Genghis Khan (Official Video).ahk
+63.  Miike Snow - Genghis Khan (Official Video).ahk
 https://www.youtube.com/watch?v=P_SlAzsXa7E
 
-2094.  Miley Cyrus - Wrecking Ball (Official Video).ahk
+64.  Miley Cyrus - Wrecking Ball (Official Video).ahk
 https://www.youtube.com/watch?v=My2FRPA3Gf8
 
-2159.  OK Go - End Love - Official Video.ahk
+65.  OK Go - End Love - Official Video.ahk
 https://www.youtube.com/watch?v=V2fpgpanZAw
 
-2225.  OK Go - I Won't Let You Down - Official Video.ahk
+66.  OK Go - I Won't Let You Down - Official Video.ahk
 https://www.youtube.com/watch?v=u1ZB_rGFyeU
 
-2292.  OK Go - Obsession - Official Video.ahk
+67.  OK Go - Obsession - Official Video.ahk
 https://www.youtube.com/watch?v=LgmxMuW6Fsc
 
-2360.  OK Go - The Writing's On the Wall.ahk
+68.  OK Go - The Writing's On the Wall.ahk
 https://www.youtube.com/watch?v=oL3qDpubXU8
 
-2429.  OK Go - This Too Shall Pass - Rube Goldberg Machine - Official Video.ahk
+69.  OK Go - This Too Shall Pass - Rube Goldberg Machine - Official Video.ahk
 https://www.youtube.com/watch?v=qybUFnY7Y8w
 
-2499.  OK Go - Upside Down & Inside Out.ahk
+70.  OK Go - Upside Down & Inside Out.ahk
 https://www.youtube.com/watch?v=LWGJA9i18Co
 
-2570.  OK Go – The One Moment – Official Video.ahk
+71.  OK Go – The One Moment – Official Video.ahk
 https://www.youtube.com/watch?v=QvW61K2s0tA
 
-2642.  PNAU - Chameleon (Official Music Video).ahk
+72.  PNAU - Chameleon (Official Music Video).ahk
 https://www.youtube.com/watch?v=s2pp_ZAk6Uw
 
-2715.  PSY - GANGNAM STYLE(?????) MV.ahk
+73.  PSY - GANGNAM STYLE(?????) MV.ahk
 https://www.youtube.com/watch?v=9bZkp7q19f0
 
-2789.  Radiohead - Daydreaming.ahk
+74.  Radiohead - Daydreaming.ahk
 https://www.youtube.com/watch?v=TTAU7lLDZYU
 
-2864.  Rihanna - We Found Love ft. Calvin Harris.ahk
+75.  Rihanna - We Found Love ft. Calvin Harris.ahk
 https://www.youtube.com/watch?v=tg00YEETFzg
 
-2940.  Shadow feat.  Run The Jewels - Nobody Speak.ahk
+76.  Shadow feat.  Run The Jewels - Nobody Speak.ahk
 https://www.youtube.com/watch?v=AgwAu7fcSxE
 
-3017.  Sia - Chandelier (Official Video).ahk
+77.  Sia - Chandelier (Official Video).ahk
 https://www.youtube.com/watch?v=2vjPBrBU-TM
 
-3095.  Sia - Elastic Heart feat. Shia LaBeouf & Maddie Ziegler (Official Video).ahk
+78.  Sia - Elastic Heart feat. Shia LaBeouf & Maddie Ziegler (Official Video).ahk
 https://www.youtube.com/watch?v=KWZGAExj-es
 
-3174.  Tame Impala - Let It Happen (Official Video).ahk
+79.  Tame Impala - Let It Happen (Official Video).ahk
 https://www.youtube.com/watch?v=pFptt7Cargc
 
-3254.  Tame Impala - The Less I Know The Better (Official Video).ahk
+80.  Tame Impala - The Less I Know The Better (Official Video).ahk
 https://www.youtube.com/watch?v=sBzrzS1Ag_g
 
-3335.  Taylor Swift - Bad Blood ft. Kendrick Lamar.ahk
+81.  Taylor Swift - Bad Blood ft. Kendrick Lamar.ahk
 https://www.youtube.com/watch?v=QcIy9NiNbmo
 
-3417.  Taylor Swift - Blank Space.ahk
+82.  Taylor Swift - Blank Space.ahk
 https://www.youtube.com/watch?v=e-ORhEE9VVg
 
-3500.  Taylor Swift - Delicate.ahk
+83.  Taylor Swift - Delicate.ahk
 https://www.youtube.com/watch?v=tCXGJQYZ9JA
 
-3584.  Taylor Swift - Look What You Made Me Do.ahk
+84.  Taylor Swift - Look What You Made Me Do.ahk
 https://www.youtube.com/watch?v=3tmd-ClpJxA
 
-3669.  Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco).ahk
+85.  Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco).ahk
 https://www.youtube.com/watch?v=FuXNumBwDOM
 
-3755.  Taylor Swift - We Are Never Ever Getting Back Together.ahk
+86.  Taylor Swift - We Are Never Ever Getting Back Together.ahk
 https://www.youtube.com/watch?v=WA4iX5D9Z64
 
-3842.  Taylor Swift - …Ready For It.ahk
+87.  Taylor Swift - …Ready For It.ahk
 https://www.youtube.com/watch?v=wIft-t-MQuE
 
-3930.  Tenacious D - Rize Of The Fenix (Official Video).ahk
+88.  Tenacious D - Rize Of The Fenix (Official Video).ahk
 https://www.youtube.com/watch?v=ls3rD8VfiSY
 
-4019.  THE CARTERS - APESHIT (Official Video).ahk
+89.  THE CARTERS - APESHIT (Official Video).ahk
 https://www.youtube.com/watch?v=kbMqWXnpXcA
 
-4109.  The Chemical Brothers - Free Yourself.ahk
+90.  The Chemical Brothers - Free Yourself.ahk
 https://www.youtube.com/watch?v=7wzR_BVFsUU
 
-4200.  The Chemical Brothers - Go (Official Music Video).ahk
+91.  The Chemical Brothers - Go (Official Music Video).ahk
 https://www.youtube.com/watch?v=LO2RPDZkY88
 
-4292.  The Chemical Brothers - Got To Keep On (Official Video).ahk
+92.  The Chemical Brothers - Got To Keep On (Official Video).ahk
 https://www.youtube.com/watch?v=rSYwtllbweY
 
-4385.  The Chemical Brothers - Wide Open ft. Beck (Official Music Video).ahk
+93.  The Chemical Brothers - Wide Open ft. Beck (Official Music Video).ahk
 https://www.youtube.com/watch?v=BC2dRkm8ATU
 
-4479.  The Presets - Downtown Shutdown (Official Video).ahk
+94.  The Presets - Downtown Shutdown (Official Video).ahk
 https://www.youtube.com/watch?v=3P6pJRBYxFI
 
-4574.  Travis Scott - 90210 ft. Kacy Hill.ahk
+95.  Travis Scott - 90210 ft. Kacy Hill.ahk
 https://www.youtube.com/watch?v=BuNBLjJzRoo
 
-4670.  Travis Scott - HIGHEST IN THE ROOM (Official Music Video).ahk
+96.  Travis Scott - HIGHEST IN THE ROOM (Official Music Video).ahk
 https://www.youtube.com/watch?v=tfSS1e3kYeo
 
-4767.  Travis Scott - SICKO MODE ft. Drake.ahk
+97.  Travis Scott - SICKO MODE ft. Drake.ahk
 https://www.youtube.com/watch?v=6ONRf7h3Mdk
 
-4865.  Young Thug - Wyclef Jean [Official Video].ahk
+98.  Young Thug - Wyclef Jean [Official Video].ahk
 https://www.youtube.com/watch?v=_9L3j-lVLwk
 
-4964.  † Carpenter Brut † TURBO KILLER † Directed by Seth Ickerman † Official Video †.ahk
+99.  † Carpenter Brut † TURBO KILLER † Directed by Seth Ickerman † Official Video †.ahk
 https://www.youtube.com/watch?v=er416Ad3R1g
 100 Best Music Videos Of The Decade 2010 - 2019

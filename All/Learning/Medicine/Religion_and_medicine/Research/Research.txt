@@ -1,28 +1,28 @@
 
-116720.  Diagnoses, Predictive Values, and Whether You're Sick or Not NPV and PPV.ahk
+1.  Diagnoses, Predictive Values, and Whether You're Sick or Not NPV and PPV.ahk
 https://www.youtube.com/watch?v=dHj7ygeqelw
 
-116722.  Dissemination Get Out There and Strut Your Stuff!.ahk
+2.  Dissemination Get Out There and Strut Your Stuff!.ahk
 https://www.youtube.com/watch?v=La4M4StMyiE
 
-116725.  Introduction to Experimental Design.ahk
+3.  Introduction to Experimental Design.ahk
 https://www.youtube.com/watch?v=M4aur37958k
 
-116729.  Lawsuits as a Tool to Stifle Research.ahk
+4.  Lawsuits as a Tool to Stifle Research.ahk
 https://www.youtube.com/watch?v=dRHaLrOncqE
 
-116734.  Money Isn’t the Only Thing That Can Bias Research.ahk
+5.  Money Isn’t the Only Thing That Can Bias Research.ahk
 https://www.youtube.com/watch?v=8qUkm6U31Zo
 
-116740.  Nutrition Studies Are Just Terrible.ahk
+6.  Nutrition Studies Are Just Terrible.ahk
 https://www.youtube.com/watch?v=yQrBblRuQFo
 
-116747.  Only Tell Me the Good News - Bias in Research Publication.ahk
+7.  Only Tell Me the Good News - Bias in Research Publication.ahk
 https://www.youtube.com/watch?v=9fm6wHTYjAA
 
-116755.  Research Studies Could Be More Pragmatic, and More Useful.ahk
+8.  Research Studies Could Be More Pragmatic, and More Useful.ahk
 https://www.youtube.com/watch?v=P-PtQTEnvYo
 
-116764.  Wellness Programs Don't Really Work.ahk
+9.  Wellness Programs Don't Really Work.ahk
 https://www.youtube.com/watch?v=gtUYKGz1v-c
 Research

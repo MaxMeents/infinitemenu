@@ -1,31 +1,31 @@
 
-108037.  Adverse Effects Search on Dialog (for Medical Literature Monitoring and Pharmacovigilance).ahk
+1.  Adverse Effects Search on Dialog (for Medical Literature Monitoring and Pharmacovigilance).ahk
 https://www.youtube.com/watch?v=9L2Mt6MaqZM
 
-108039.  Creating Alerts on Dialog (with example for Medical Literature Monitoring).ahk
+2.  Creating Alerts on Dialog (with example for Medical Literature Monitoring).ahk
 https://www.youtube.com/watch?v=00U6I4QZvVY
 
-108042.  How to Improve Drug Safety Literature Screening Compliance.ahk
+3.  How to Improve Drug Safety Literature Screening Compliance.ahk
 https://www.youtube.com/watch?v=YERbOAvxXMI
 
-108046.  Intro to the Drug Safety Triager (DST).ahk
+4.  Intro to the Drug Safety Triager (DST).ahk
 https://www.youtube.com/watch?v=FLVS3WbqU3E
 
-108051.  Making Your Drug Safety Literature Screening Processes More Effective.ahk
+5.  Making Your Drug Safety Literature Screening Processes More Effective.ahk
 https://www.youtube.com/watch?v=lHhUbi9vWlU
 
-108057.  Medical Device Searching, Part 1 New EU Regulations and the Role of Literature.ahk
+6.  Medical Device Searching, Part 1 New EU Regulations and the Role of Literature.ahk
 https://www.youtube.com/watch?v=UcU3gflTYcM
 
-108064.  Medical Device Searching, Part 2  Database Considerations.ahk
+7.  Medical Device Searching, Part 2  Database Considerations.ahk
 https://www.youtube.com/watch?v=z0318Lu-PmI
 
-108072.  Medical Device Searching, Part 3  Search Tools, Synonyms and Thesauri.ahk
+8.  Medical Device Searching, Part 3  Search Tools, Synonyms and Thesauri.ahk
 https://www.youtube.com/watch?v=jntR-mH_iyk
 
-108081.  Medical Device Searching, Part 4  Sample Search.ahk
+9.  Medical Device Searching, Part 4  Sample Search.ahk
 https://www.youtube.com/watch?v=YpIG8o8WJTQ
 
-108091.  Medical Device Searching, Part 5  Continuous Updates (Saved Searches and Alerts).ahk
+10.  Medical Device Searching, Part 5  Continuous Updates (Saved Searches and Alerts).ahk
 https://www.youtube.com/watch?v=8zBWhWo3JCw
 Medical Literature Monitoring

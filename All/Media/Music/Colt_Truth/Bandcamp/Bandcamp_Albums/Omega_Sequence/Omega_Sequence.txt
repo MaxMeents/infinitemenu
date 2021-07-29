@@ -1,37 +1,37 @@
 
-159.  .ahk
+1.  .ahk
 
 
-161.  Brave New World ft. hystEric.ahk
+2.  Brave New World ft. hystEric.ahk
 https://colttruth.bandcamp.com/track/brave-new-world-ft-hysteric
 
-164.  Cremation Of Care (Intro).ahk
+3.  Cremation Of Care (Intro).ahk
 https://colttruth.bandcamp.com/track/cremation-of-care-intro
 
-168.  DEAFCON ft Spirit Of Truth.ahk
+4.  DEAFCON ft Spirit Of Truth.ahk
 https://colttruth.bandcamp.com/track/deafcon-ft-spirit-of-truth-2
 
-173.  Final Warning (Initiation).ahk
+5.  Final Warning (Initiation).ahk
 https://colttruth.bandcamp.com/track/final-warning-initiation
 
-179.  Gold Squares (Rose Crosses) ft. Coal Cash.ahk
+6.  Gold Squares (Rose Crosses) ft. Coal Cash.ahk
 https://colttruth.bandcamp.com/track/gold-squares-rose-crosses-ft-coal-cash
 
-186.  Heart Of Man.ahk
+7.  Heart Of Man.ahk
 https://colttruth.bandcamp.com/track/heart-of-man
 
-194.  Magick In The Mist.ahk
+8.  Magick In The Mist.ahk
 https://colttruth.bandcamp.com/track/magick-in-the-mist-2
 
-203.  Mighty Men (Hybrids) ft. Enfluentz.ahk
+9.  Mighty Men (Hybrids) ft. Enfluentz.ahk
 https://colttruth.bandcamp.com/track/mighty-men-hybrids-ft-enfluentz
 
-213.  Mind War.ahk
+10.  Mind War.ahk
 https://colttruth.bandcamp.com/track/mind-war-2
 
-224.  Walk Of Enoch (Narrow Path).ahk
+11.  Walk Of Enoch (Narrow Path).ahk
 https://colttruth.bandcamp.com/track/walk-of-enoch-narrow-path
 
-236.  WayMaker ft. Loc Saint.ahk
+12.  WayMaker ft. Loc Saint.ahk
 https://colttruth.bandcamp.com/track/waymaker-ft-loc-saint
 Omega Sequence

@@ -1,73 +1,73 @@
 
-529.  .ahk
+1.  .ahk
 
 
-531.  Beowulf.ahk
+2.  Beowulf.ahk
 https://bababrinkman.bandcamp.com/track/beowulf-2
 
-534.  Epilogue.ahk
+3.  Epilogue.ahk
 https://bababrinkman.bandcamp.com/track/epilogue
 
-538.  General Prologue.ahk
+4.  General Prologue.ahk
 https://bababrinkman.bandcamp.com/track/general-prologue
 
-543.  Gilgamesh.ahk
+5.  Gilgamesh.ahk
 https://bababrinkman.bandcamp.com/track/gilgamesh-2
 
-549.  Interlude A.ahk
+6.  Interlude A.ahk
 https://bababrinkman.bandcamp.com/track/interlude-a
 
-556.  Interlude B.ahk
+7.  Interlude B.ahk
 https://bababrinkman.bandcamp.com/track/interlude-b
 
-564.  Merchant.ahk
+8.  Merchant.ahk
 https://bababrinkman.bandcamp.com/track/merchant
 
-573.  Nun's Priest.ahk
+9.  Nun's Priest.ahk
 https://bababrinkman.bandcamp.com/track/nuns-priest
 
-583.  Pardoner.ahk
+10.  Pardoner.ahk
 https://bababrinkman.bandcamp.com/track/pardoner
 
-594.  Prologue.ahk
+11.  Prologue.ahk
 https://bababrinkman.bandcamp.com/track/prologue
 
-606.  Retraction.ahk
+12.  Retraction.ahk
 https://bababrinkman.bandcamp.com/track/retraction
 
-619.  Rhyme Renaissance Prologue.ahk
+13.  Rhyme Renaissance Prologue.ahk
 https://bababrinkman.bandcamp.com/track/rhyme-renaissance-prologue
 
-633.  The Knight's Tale Scene 1.ahk
+14.  The Knight's Tale Scene 1.ahk
 https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-1
 
-648.  The Knight's Tale Scene 2.ahk
+15.  The Knight's Tale Scene 2.ahk
 https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-2
 
-664.  The Knight's Tale Scene 3.ahk
+16.  The Knight's Tale Scene 3.ahk
 https://bababrinkman.bandcamp.com/track/the-knights-tale-scene-3
 
-681.  The Miller's Prologue.ahk
+17.  The Miller's Prologue.ahk
 https://bababrinkman.bandcamp.com/track/the-millers-prologue
 
-699.  The Miller's Tale.ahk
+18.  The Miller's Tale.ahk
 https://bababrinkman.bandcamp.com/track/the-millers-tale
 
-718.  The Pardoner's Prologue.ahk
+19.  The Pardoner's Prologue.ahk
 https://bababrinkman.bandcamp.com/track/the-pardoners-prologue
 
-738.  The Pardoner's Tale.ahk
+20.  The Pardoner's Tale.ahk
 https://bababrinkman.bandcamp.com/track/the-pardoners-tale
 
-759.  The Rhyme Renaissance.ahk
+21.  The Rhyme Renaissance.ahk
 https://bababrinkman.bandcamp.com/track/the-rhyme-renaissance
 
-781.  The Wife of Bath's Prologue.ahk
+22.  The Wife of Bath's Prologue.ahk
 https://bababrinkman.bandcamp.com/track/the-wife-of-baths-prologue
 
-804.  The Wife of Bath's Tale.ahk
+23.  The Wife of Bath's Tale.ahk
 https://bababrinkman.bandcamp.com/track/the-wife-of-baths-tale
 
-828.  Wife of Bath.ahk
+24.  Wife of Bath.ahk
 https://bababrinkman.bandcamp.com/track/wife-of-bath
 The Canterbury Tales Remixed

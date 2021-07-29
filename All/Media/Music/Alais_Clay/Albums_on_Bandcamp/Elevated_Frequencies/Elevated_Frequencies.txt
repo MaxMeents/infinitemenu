@@ -2,51 +2,51 @@
 1.  .ts
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Alais_Clay/Albums_on_Bandcamp/Elevated_Frequencies/.ts/.ts.txt
 
-2.  .ahk
+1.  .ahk
 
 
-4.  Back To Land [feat. Vandana Shiva sample}.ahk
+2.  Back To Land [feat. Vandana Shiva sample}.ahk
 https://alaisclay.bandcamp.com/track/back-to-land-feat-vandana-shiva-sample
 
-7.  Came Here To Do.ahk
+3.  Came Here To Do.ahk
 https://alaisclay.bandcamp.com/track/came-here-to-do
 
-11.  Firme En La Lucha.ahk
+4.  Firme En La Lucha.ahk
 https://alaisclay.bandcamp.com/track/firme-en-la-lucha
 
-16.  Heat Brewin' featuring Mike Wird.ahk
+5.  Heat Brewin' featuring Mike Wird.ahk
 https://alaisclay.bandcamp.com/track/heat-brewin-featuring-mike-wird
 
-22.  In The Light.ahk
+6.  In The Light.ahk
 https://alaisclay.bandcamp.com/track/in-the-light
 
-29.  Log 333 featuring Steve Grant[5star Alais_Clay].ahk
+7.  Log 333 featuring Steve Grant[5star Alais_Clay].ahk
 https://alaisclay.bandcamp.com/track/log-333-featuring-steve-grant
 
-37.  Medicine Drum featuring McAD, TOTEM.ahk
+8.  Medicine Drum featuring McAD, TOTEM.ahk
 https://alaisclay.bandcamp.com/track/medicine-drum-featuring-mcad-totem
 
-46.  Mountains We Move.ahk
+9.  Mountains We Move.ahk
 https://alaisclay.bandcamp.com/track/mountains-we-move
 
-56.  Prayers Coming Through ft. Totem.ahk
+10.  Prayers Coming Through ft. Totem.ahk
 https://alaisclay.bandcamp.com/track/prayers-coming-through-ft-totem
 
-67.  Reality Check.ahk
+11.  Reality Check.ahk
 https://alaisclay.bandcamp.com/track/reality-check
 
-79.  Shine On.ahk
+12.  Shine On.ahk
 https://alaisclay.bandcamp.com/track/shine-on
 
-92.  Thin, Thin Line.ahk
+13.  Thin, Thin Line.ahk
 https://alaisclay.bandcamp.com/track/thin-thin-line
 
-106.  Truth Of Your Power.ahk
+14.  Truth Of Your Power.ahk
 https://alaisclay.bandcamp.com/track/truth-of-your-power
 
-121.  We Will March.ahk
+15.  We Will March.ahk
 https://alaisclay.bandcamp.com/track/we-will-march
 
-137.  With Earth As My Witness.ahk
+16.  With Earth As My Witness.ahk
 https://alaisclay.bandcamp.com/track/with-earth-as-my-witness
 Elevated Frequencies

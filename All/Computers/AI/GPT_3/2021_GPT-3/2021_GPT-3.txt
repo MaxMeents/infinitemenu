@@ -1,70 +1,70 @@
 
-12.  14 Cool Apps Built on OpenAI's GPT-3 API.ahk
+1.  14 Cool Apps Built on OpenAI's GPT-3 API.ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-14.  GPT 3 Demo and Explanation - An AI revolution from OpenAI.ahk
+2.  GPT 3 Demo and Explanation - An AI revolution from OpenAI.ahk
 https://www.youtube.com/watch?v=8psgEDhT1MM
 
-17.  GPT-3 - explained in layman terms..ahk
+3.  GPT-3 - explained in layman terms..ahk
 https://www.youtube.com/watch?v=SboKeK6FFHQ
 
-21.  GPT-3 bottleneck is training data  François Chollet and Lex Fridman.ahk
+4.  GPT-3 bottleneck is training data  François Chollet and Lex Fridman.ahk
 https://www.youtube.com/watch?v=UyPMS3Gvdko
 
-26.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology.ahk
+5.  GPT-3 Demo New AI Algorithm Changes How We Interact With Technology.ahk
 https://www.youtube.com/watch?v=8V20HkoiNtc
 
-32.  GPT-3 is only the beginning of AGI.ahk
+6.  GPT-3 is only the beginning of AGI.ahk
 https://www.youtube.com/watch?v=8e1Wle14laE
 
-39.  GPT-3 is over-hyped  George Hotz and Lex Fridman.ahk
+7.  GPT-3 is over-hyped  George Hotz and Lex Fridman.ahk
 https://www.youtube.com/watch?v=8BcqU9VF8zI
 
-47.  GPT-3 Predicts the 2020 Presidential Election Results.ahk
+8.  GPT-3 Predicts the 2020 Presidential Election Results.ahk
 https://www.youtube.com/watch?v=t3mep3VZm7o
 
-56.  GPT-3 predicts the zombie apocalypse  Grant Sanderson and Lex Fridman.ahk
+9.  GPT-3 predicts the zombie apocalypse  Grant Sanderson and Lex Fridman.ahk
 https://www.youtube.com/watch?v=hZzQmS0mRK0
 
-66.  GPT-3 vs Human Brain.ahk
+10.  GPT-3 vs Human Brain.ahk
 https://www.youtube.com/watch?v=kpiY_LemaTc
 
-77.  GPT-3 WROTE THIS.ahk
+11.  GPT-3 WROTE THIS.ahk
 https://www.youtube.com/watch?v=2eplfCWLNj4
 
-89.  GPT-3 Your New Lifelong Companion.ahk
+12.  GPT-3 Your New Lifelong Companion.ahk
 https://www.youtube.com/watch?v=TqsuhWNesso
 
-102.  GPT3 An Even Bigger Language Model - Computerphile.ahk
+13.  GPT3 An Even Bigger Language Model - Computerphile.ahk
 https://www.youtube.com/watch?v=_8yVOC4ciXc
 
-116.  Hacking with OpenAI GPT-3  Hacking Without Humans.ahk
+14.  Hacking with OpenAI GPT-3  Hacking Without Humans.ahk
 https://www.youtube.com/watch?v=n7WOn8seVIk
 
-131.  I got access to GPT-3 from OpenAI.ahk
+15.  I got access to GPT-3 from OpenAI.ahk
 https://www.youtube.com/watch?v=5sz8QFfI6RA
 
-147.  OpenAI GPT-3 - Good At Almost Everything! ??.ahk
+16.  OpenAI GPT-3 - Good At Almost Everything! ??.ahk
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-164.  OpenAI GPT-3 Beginners Tutorial.ahk
+17.  OpenAI GPT-3 Beginners Tutorial.ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-182.  Real, Live GPT-3 Apps You Can Use.ahk
+18.  Real, Live GPT-3 Apps You Can Use.ahk
 https://www.youtube.com/watch?v=zQLuqOogQnU
 
-201.  this text generation AI is INSANE (GPT-3).ahk
+19.  this text generation AI is INSANE (GPT-3).ahk
 https://www.youtube.com/watch?v=lQnLwUfwgyA
 
-221.  What GPT-3 Means for Developers.ahk
+20.  What GPT-3 Means for Developers.ahk
 https://www.youtube.com/watch?v=Yg3C38P5EkA
 
-242.  What It's Like To be a Computer An Interview with GPT-3.ahk
+21.  What It's Like To be a Computer An Interview with GPT-3.ahk
 https://www.youtube.com/watch?v=PqbB07n_uQ4
 
-264.  What It's Like To be an AI An Interview with GPT-3.ahk
+22.  What It's Like To be an AI An Interview with GPT-3.ahk
 https://www.youtube.com/watch?v=bb4rZrTniOo
 
-287.  Why GPT-3 changes everything (and how it works).ahk
+23.  Why GPT-3 changes everything (and how it works).ahk
 https://www.youtube.com/watch?v=rLE0b8_OQMk
 2021 GPT-3

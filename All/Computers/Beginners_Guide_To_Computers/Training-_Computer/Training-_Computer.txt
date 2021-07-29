@@ -1,64 +1,64 @@
 
-10304.  30 Ultimate Windows 10 Tips and Tricks for 2020.ahk
+1.  30 Ultimate Windows 10 Tips and Tricks for 2020.ahk
 https://www.youtube.com/watch?v=VkYLgEJ-x9Q
 
-10306.  7 Zoom Screen Share Tips Every User Should Know!.ahk
+2.  7 Zoom Screen Share Tips Every User Should Know!.ahk
 https://www.youtube.com/watch?v=25Awq_v1Zms
 
-10309.  Computer Basics Buttons and Ports on a Computer.ahk
+3.  Computer Basics Buttons and Ports on a Computer.ahk
 https://www.youtube.com/watch?v=yq9qzw8p7FI
 
-10313.  Computer Basics Creating a Safe Workspace.ahk
+4.  Computer Basics Creating a Safe Workspace.ahk
 https://www.youtube.com/watch?v=8M9HtW_SAQM
 
-10318.  Computer Basics Getting to Know Laptop Computers.ahk
+5.  Computer Basics Getting to Know Laptop Computers.ahk
 https://www.youtube.com/watch?v=6LIv2ocJXRk
 
-10324.  Computer Basics Inside a Computer.ahk
+6.  Computer Basics Inside a Computer.ahk
 https://www.youtube.com/watch?v=HB4I2CgkcCo
 
-10331.  Computer Basics Setting Up a Desktop Computer.ahk
+7.  Computer Basics Setting Up a Desktop Computer.ahk
 https://www.youtube.com/watch?v=KdQeU5QTfYE
 
-10339.  Computer Basics Understanding Applications.ahk
+8.  Computer Basics Understanding Applications.ahk
 https://www.youtube.com/watch?v=MYgy4rjV4J0
 
-10348.  Computer Basics Understanding Operating Systems.ahk
+9.  Computer Basics Understanding Operating Systems.ahk
 https://www.youtube.com/watch?v=fkGCLIQx1MI
 
-10358.  Computer Basics What Is a Computer.ahk
+10.  Computer Basics What Is a Computer.ahk
 https://www.youtube.com/watch?v=Cu3R5it4cQs
 
-10369.  Computer Basics What is the Cloud.ahk
+11.  Computer Basics What is the Cloud.ahk
 https://www.youtube.com/watch?v=gu4FYSFeWqg
 
-10381.  How to teach online with Zoom Complete Introduction #teachonline #zoom.ahk
+12.  How to teach online with Zoom Complete Introduction #teachonline #zoom.ahk
 https://www.youtube.com/watch?v=lvndgRlOH1w
 
-10394.  Internet Security Basics.ahk
+13.  Internet Security Basics.ahk
 https://www.youtube.com/watch?v=bToocxcmyqQ
 
-10408.  IT Security what you need to know.ahk
+14.  IT Security what you need to know.ahk
 https://www.youtube.com/watch?v=pfnFqOItSIg
 
-10423.  Learn basic networking in 4 minutes (VERY IMPORTANT CONCEPTS).ahk
+15.  Learn basic networking in 4 minutes (VERY IMPORTANT CONCEPTS).ahk
 https://www.youtube.com/watch?v=ObNYlm7HJs8
 
-10439.  Mac OS X Basics Getting Started with the Desktop.ahk
+16.  Mac OS X Basics Getting Started with the Desktop.ahk
 https://www.youtube.com/watch?v=bEQ8u3LViDU
 
-10456.  The Eagle Attitude (EAGLE MINDSET) Best Motivational Video.ahk
+17.  The Eagle Attitude (EAGLE MINDSET) Best Motivational Video.ahk
 https://www.youtube.com/watch?v=LZTv18VUM0I
 
-10474.  Understanding Spam and Phishing.ahk
+18.  Understanding Spam and Phishing.ahk
 https://www.youtube.com/watch?v=NI37JI7KnSc
 
-10493.  Windows 10 (Beginners Guide).ahk
+19.  Windows 10 (Beginners Guide).ahk
 https://www.youtube.com/watch?v=8d9FY3LpR4E
 
-10513.  Windows Basics Getting Started with the Desktop.ahk
+20.  Windows Basics Getting Started with the Desktop.ahk
 https://www.youtube.com/watch?v=_jvp61NwGT8
 
-10534.  ZOOM for Teachers Tutorial.ahk
+21.  ZOOM for Teachers Tutorial.ahk
 https://www.youtube.com/watch?v=uHd4Cff4Ha8
 Training- Computer

@@ -1,544 +1,544 @@
 
-31127.  .ahk
+1.  .ahk
 
 
-31129.  2011 Nobel Prize- Dark Energy feat. Sean Carroll .ahk
+2.  2011 Nobel Prize- Dark Energy feat. Sean Carroll .ahk
 https://www.youtube.com/watch?v=v6o2bUPdxV0
 
-31132.  2012 Nobel Prize- How Do We See Light .ahk
+3.  2012 Nobel Prize- How Do We See Light .ahk
 https://www.youtube.com/watch?v=2dRr-fnPCwM
 
-31136.  3 Simple Ways to Time Travel (& 3 Complicated Ones) .ahk
+4.  3 Simple Ways to Time Travel (& 3 Complicated Ones) .ahk
 https://www.youtube.com/watch?v=FflcA85zcOM
 
-31141.  A Brief History of Everything, feat. Neil deGrasse Tyson .ahk
+5.  A Brief History of Everything, feat. Neil deGrasse Tyson .ahk
 https://www.youtube.com/watch?v=7KYTJ8tBoZ8
 
-31147.  A Polarizing Discovery About the Big Bang! .ahk
+6.  A Polarizing Discovery About the Big Bang! .ahk
 https://www.youtube.com/watch?v=4IlBNJbCzfk
 
-31154.  A Simple Proof of Conservation of Energy .ahk
+7.  A Simple Proof of Conservation of Energy .ahk
 https://www.youtube.com/watch?v=PplaBASQ_3M
 
-31162.  Adding Past Infinity (WARNING- Math Ahead) .ahk
+8.  Adding Past Infinity (WARNING- Math Ahead) .ahk
 https://www.youtube.com/watch?v=kIq5CZlg8Rg
 
-31171.  Albert Einstein- The Size and Existence of Atoms .ahk
+9.  Albert Einstein- The Size and Existence of Atoms .ahk
 https://www.youtube.com/watch?v=nrUBPO6zZ40
 
-31181.  Albert Einstein- Why Light is Quantum .ahk
+10.  Albert Einstein- Why Light is Quantum .ahk
 https://www.youtube.com/watch?v=hSgIDgGpRpk
 
-31192.  AMAZING Simulation of the Evolution of the Universe .ahk
+11.  AMAZING Simulation of the Evolution of the Universe .ahk
 https://www.youtube.com/watch?v=zLSe7RxtJ4o
 
-31204.  An Impossible Bet - The 100 Prisoners Problem .ahk
+12.  An Impossible Bet - The 100 Prisoners Problem .ahk
 https://www.youtube.com/watch?v=eivGlBKlK6M
 
-31217.  Another Physics Misconception .ahk
+13.  Another Physics Misconception .ahk
 https://www.youtube.com/watch?v=4B_x1XjBhiI
 
-31231.  Antimatter Explained .ahk
+14.  Antimatter Explained .ahk
 https://www.youtube.com/watch?v=Lo8NmoDL9T8
 
-31246.  Are University Admissions Biased - Simpson's Paradox Part 2 .ahk
+15.  Are University Admissions Biased - Simpson's Paradox Part 2 .ahk
 https://www.youtube.com/watch?v=E_ME4P9fQbo
 
-31262.  Astronomically Correct Twinkle Twinkle .ahk
+16.  Astronomically Correct Twinkle Twinkle .ahk
 https://www.youtube.com/watch?v=hhn-RzMELhY
 
-31279.  Black Holes, Neutron Stars, and White Dwarfs (Collab. w- MinuteEarth) .ahk
+17.  Black Holes, Neutron Stars, and White Dwarfs (Collab. w- MinuteEarth) .ahk
 https://www.youtube.com/watch?v=NucdlR9EGbA
 
-31297.  Blackout .ahk
+18.  Blackout .ahk
 https://www.youtube.com/watch?v=rFZ6J2sY2eU
 
-31316.  Can Humans Really Feel Temperature .ahk
+19.  Can Humans Really Feel Temperature .ahk
 https://www.youtube.com/watch?v=yXT012us9ng
 
-31336.  Can we Predict Everything .ahk
+20.  Can we Predict Everything .ahk
 https://www.youtube.com/watch?v=dmX1W5umC1c
 
-31357.  Common Physics Misconceptions .ahk
+21.  Common Physics Misconceptions .ahk
 https://www.youtube.com/watch?v=IM630Z8lho8
 
-31379.  Computer Color is Broken .ahk
+22.  Computer Color is Broken .ahk
 https://www.youtube.com/watch?v=LKnqECcg6Gw
 
-31402.  Confessions of a Youtuber .ahk
+23.  Confessions of a Youtuber .ahk
 https://www.youtube.com/watch?v=oJGFei3wKs4
 
-31426.  Correlation CAN Imply Causation! - Statistics Misconceptions .ahk
+24.  Correlation CAN Imply Causation! - Statistics Misconceptions .ahk
 https://www.youtube.com/watch?v=HUti6vGctQM
 
-31451.  Distance and Special Relativity- How far away is tomorrow .ahk
+25.  Distance and Special Relativity- How far away is tomorrow .ahk
 https://www.youtube.com/watch?v=s5S-hA9uKEM
 
-31477.  Do Photons Cast Shadows .ahk
+26.  Do Photons Cast Shadows .ahk
 https://www.youtube.com/watch?v=Fv1JJ227CQk
 
-31504.  Do We Expand With The Universe .ahk
+27.  Do We Expand With The Universe .ahk
 https://www.youtube.com/watch?v=th_9ZR2I0_w
 
-31532.  Does the Universe Have a Purpose feat. Neil deGrasse Tyson .ahk
+28.  Does the Universe Have a Purpose feat. Neil deGrasse Tyson .ahk
 https://www.youtube.com/watch?v=7pL5vzIMAhs
 
-31561.  E=mc² is Incomplete .ahk
+29.  E=mc² is Incomplete .ahk
 https://www.youtube.com/watch?v=NnMIhxWRGNw
 
-31591.  Einstein and The Special Theory of Relativity .ahk
+30.  Einstein and The Special Theory of Relativity .ahk
 https://www.youtube.com/watch?v=ajhFNcUTJI0
 
-31622.  Einstein's Biggest Blunder, Explained .ahk
+31.  Einstein's Biggest Blunder, Explained .ahk
 https://www.youtube.com/watch?v=0RApKeMGDnE
 
-31654.  Einstein's Proof of E=mc² .ahk
+32.  Einstein's Proof of E=mc² .ahk
 https://www.youtube.com/watch?v=hW7DW9NIO9M
 
-31687.  Every Force in Nature (Theory of Everything, Part III) .ahk
+33.  Every Force in Nature (Theory of Everything, Part III) .ahk
 https://www.youtube.com/watch?v=3_RhISgoXUs
 
-31721.  Evolution vs Natural Selection .ahk
+34.  Evolution vs Natural Selection .ahk
 https://www.youtube.com/watch?v=S1t5_iGN0xE
 
-31756.  Faster Than Light Neutrinos (maybe)- Field Trip! .ahk
+35.  Faster Than Light Neutrinos (maybe)- Field Trip! .ahk
 https://www.youtube.com/watch?v=mT-mCQY2XBE
 
-31792.  Foiled Proof .ahk
+36.  Foiled Proof .ahk
 https://www.youtube.com/watch?v=aNReoaONJdg
 
-31829.  Football, Physics, and Symmetry .ahk
+37.  Football, Physics, and Symmetry .ahk
 https://www.youtube.com/watch?v=m-5CDVdglp4
 
-31867.  Footnote †- Double Pendulums Are Crazy .ahk
+38.  Footnote †- Double Pendulums Are Crazy .ahk
 https://www.youtube.com/watch?v=gbJYK7q5ejY
 
-31906.  GPS, relativity, and nuclear detection .ahk
+39.  GPS, relativity, and nuclear detection .ahk
 https://www.youtube.com/watch?v=ky4RgRvVDoA
 
-31946.  Hardy's Paradox - Quantum Double Double Slit Experiment .ahk
+40.  Hardy's Paradox - Quantum Double Double Slit Experiment .ahk
 https://www.youtube.com/watch?v=Ph3d-ByEA7Q
 
-31987.  Higgs Boson Part III- How to Discover a Particle .ahk
+41.  Higgs Boson Part III- How to Discover a Particle .ahk
 https://www.youtube.com/watch?v=6guXMfg88Z8
 
-32029.  How Airplanes Are Made  (1477471).ahk
+42.  How Airplanes Are Made  (1477471).ahk
 https://www.youtube.com/watch?v=7rMgpExA4kM
 
-32072.  How Airplanes Are Made .ahk
+43.  How Airplanes Are Made .ahk
 https://www.youtube.com/watch?v=7rMgpExA4kM
 
-32116.  How Big Is The Sun .ahk
+44.  How Big Is The Sun .ahk
 https://www.youtube.com/watch?v=u70lZSMP9Bo
 
-32161.  How Big is the Universe .ahk
+45.  How Big is the Universe .ahk
 https://www.youtube.com/watch?v=5NU2t5zlxQQ
 
-32207.  How Do Airplanes Fly .ahk
+46.  How Do Airplanes Fly .ahk
 https://www.youtube.com/watch?v=Gg0TXNXgz-w
 
-32254.  How Entropy Powers The Earth (Big Picture Ep. 4-5) .ahk
+47.  How Entropy Powers The Earth (Big Picture Ep. 4-5) .ahk
 https://www.youtube.com/watch?v=sAMlGyaUz4M
 
-32302.  How Far Can Legolas See .ahk
+48.  How Far Can Legolas See .ahk
 https://www.youtube.com/watch?v=Rk2izv-c_ts
 
-32351.  How far is a second .ahk
+49.  How far is a second .ahk
 https://www.youtube.com/watch?v=Wp20Sc8qPeo
 
-32401.  How ISPs Violate the Laws of Mathematics .ahk
+50.  How ISPs Violate the Laws of Mathematics .ahk
 https://www.youtube.com/watch?v=Z3IPVWN-1ks
 
-32452.  How lasers work (in theory) .ahk
+51.  How lasers work (in theory) .ahk
 https://www.youtube.com/watch?v=y3SBSbsdiYg
 
-32504.  How Modern Light Bulbs Work .ahk
+52.  How Modern Light Bulbs Work .ahk
 https://www.youtube.com/watch?v=oCEKMEeZXug
 
-32557.  How Quantum Computers Break Encryption - Shor's Algorithm Explained .ahk
+53.  How Quantum Computers Break Encryption - Shor's Algorithm Explained .ahk
 https://www.youtube.com/watch?v=lvTqbM5Dq4Q
 
-32611.  How Shor's Algorithm Factors 314191 .ahk
+54.  How Shor's Algorithm Factors 314191 .ahk
 https://www.youtube.com/watch?v=FRZQ-efABeQ
 
-32666.  How the Sun works- Fusion and Quantum Tunneling .ahk
+55.  How the Sun works- Fusion and Quantum Tunneling .ahk
 https://www.youtube.com/watch?v=gS1dpowPlE8
 
-32722.  How to break the speed of light .ahk
+56.  How to break the speed of light .ahk
 https://www.youtube.com/watch?v=lR4tJr7sMPM
 
-32779.  How to Build a Lava Moat (with xkcd) .ahk
+57.  How to Build a Lava Moat (with xkcd) .ahk
 https://www.youtube.com/watch?v=r8xfzeD0ZK4
 
-32837.  How to Count Infinity .ahk
+58.  How to Count Infinity .ahk
 https://www.youtube.com/watch?v=A-QoutHCu4o
 
-32896.  How to Destroy a Magnet (+ interactive periodic table) .ahk
+59.  How to Destroy a Magnet (+ interactive periodic table) .ahk
 https://www.youtube.com/watch?v=IlnZKSR73S0
 
-32956.  How To Detect A Secret Nuclear Test .ahk
+60.  How To Detect A Secret Nuclear Test .ahk
 https://www.youtube.com/watch?v=daZ7IQFqPyA
 
-33017.  How To Discover Weird New Particles - Emergent Quantum Quasiparticles .ahk
+61.  How To Discover Weird New Particles - Emergent Quantum Quasiparticles .ahk
 https://www.youtube.com/watch?v=KbsnY--LFh0
 
-33079.  How to Draw a Stick Figure (School of Youtube) .ahk
+62.  How to Draw a Stick Figure (School of Youtube) .ahk
 https://www.youtube.com/watch?v=kwkSAnLHm1Y
 
-33142.  How To Go To Space (with XKCD!) .ahk
+63.  How To Go To Space (with XKCD!) .ahk
 https://www.youtube.com/watch?v=2p_8gx-XHJo
 
-33206.  How to See Without Glasses .ahk
+64.  How to See Without Glasses .ahk
 https://www.youtube.com/watch?v=OydqR_7_DjI
 
-33271.  How to Simulate the Universe on your Laptop .ahk
+65.  How to Simulate the Universe on your Laptop .ahk
 https://www.youtube.com/watch?v=pP-C_B8nSmw
 
-33337.  How to Subtract By Adding .ahk
+66.  How to Subtract By Adding .ahk
 https://www.youtube.com/watch?v=PS5p9caXS4U
 
-33404.  How to Teleport Schro¨dinger's Cat .ahk
+67.  How to Teleport Schro¨dinger's Cat .ahk
 https://www.youtube.com/watch?v=DxQK1WDYI_k
 
-33472.  How To Tell If We're Beating COVID-19 .ahk
+68.  How To Tell If We're Beating COVID-19 .ahk
 https://www.youtube.com/watch?v=54XLXg4fYsc
 
-33541.  How to Turn Sound Into Light- Sonoluminescence .ahk
+69.  How to Turn Sound Into Light- Sonoluminescence .ahk
 https://www.youtube.com/watch?v=2yHDeKFW8j8
 
-33611.  I Had to Build a Custom Mute Switch for my Violin .ahk
+70.  I Had to Build a Custom Mute Switch for my Violin .ahk
 https://www.youtube.com/watch?v=oYsp7OIMFAs
 
-33682.  Immovable Object vs. Unstoppable Force - Which Wins .ahk
+71.  Immovable Object vs. Unstoppable Force - Which Wins .ahk
 https://www.youtube.com/watch?v=9eKc5kgPVrA
 
-33754.  Is it Better to Walk or Run in the Rain .ahk
+72.  Is it Better to Walk or Run in the Rain .ahk
 https://www.youtube.com/watch?v=3MqYE2UuN24
 
-33827.  Is Racewalking a Sport .ahk
+73.  Is Racewalking a Sport .ahk
 https://www.youtube.com/watch?v=eTfm03T3VAE
 
-33901.  Is the Universe Entirely Mathematical Feat. Max Tegmark .ahk
+74.  Is the Universe Entirely Mathematical Feat. Max Tegmark .ahk
 https://www.youtube.com/watch?v=HGG4HmlotJE
 
-33976.  Is There Poop on the Moon ft. Smarter Every Day .ahk
+75.  Is There Poop on the Moon ft. Smarter Every Day .ahk
 https://www.youtube.com/watch?v=QNP8wy3S_kY
 
-34052.  London Bridge Was Sold to the US! .ahk
+76.  London Bridge Was Sold to the US! .ahk
 https://www.youtube.com/watch?v=TwmSFwQ0tx4
 
-34129.  Lorentz Transformations - Special Relativity Ch. 3 .ahk
+77.  Lorentz Transformations - Special Relativity Ch. 3 .ahk
 https://www.youtube.com/watch?v=Rh0pYtQG5wI
 
-34207.  Magnetic Levitation .ahk
+78.  Magnetic Levitation .ahk
 https://www.youtube.com/watch?v=BqKeiiezqzc
 
-34286.  MAGNETS- How Do They Work .ahk
+79.  MAGNETS- How Do They Work .ahk
 https://www.youtube.com/watch?v=hFAOXdXZ5TM
 
-34366.  Minute Physics- What is Dark Matter .ahk
+80.  Minute Physics- What is Dark Matter .ahk
 https://www.youtube.com/watch?v=Af0_vWDfJwQ
 
-34447.  Minute Physics- What is Gravity .ahk
+81.  Minute Physics- What is Gravity .ahk
 https://www.youtube.com/watch?v=p_o4aY7xkXg
 
-34529.  MinutePhysics Birthday .ahk
+82.  MinutePhysics Birthday .ahk
 https://www.youtube.com/watch?v=VJhlejbx5kY
 
-34612.  Misconceptions Footnote †- Randomness and Feedback .ahk
+83.  Misconceptions Footnote †- Randomness and Feedback .ahk
 https://www.youtube.com/watch?v=iMbcMMe0D_Y
 
-34696.  Myths and Facts About Superintelligent AI .ahk
+84.  Myths and Facts About Superintelligent AI .ahk
 https://www.youtube.com/watch?v=3Om9ssTm194
 
-34781.  NEW SHOW- MinuteEarth! .ahk
+85.  NEW SHOW- MinuteEarth! .ahk
 https://www.youtube.com/watch?v=KW5G72a4e9U
 
-34867.  Open Letter to the President- Physics Education .ahk
+86.  Open Letter to the President- Physics Education .ahk
 https://www.youtube.com/watch?v=BGL22PTIOAM
 
-34954.  Open Letter to the Universe .ahk
+87.  Open Letter to the Universe .ahk
 https://www.youtube.com/watch?v=wN39H1Eb-6I
 
-35042.  Our Ignorance About Gravity .ahk
+88.  Our Ignorance About Gravity .ahk
 https://www.youtube.com/watch?v=OTMELHUAzSM
 
-35131.  Parallel Universes- Many Worlds .ahk
+89.  Parallel Universes- Many Worlds .ahk
 https://www.youtube.com/watch?v=KNwKPfOKipk
 
-35221.  Picture of the Big Bang (a.k.a. Oldest Light in the Universe) .ahk
+90.  Picture of the Big Bang (a.k.a. Oldest Light in the Universe) .ahk
 https://www.youtube.com/watch?v=_mZQ-5-KYHw
 
-35312.  Proof Without Words- The Circle .ahk
+91.  Proof Without Words- The Circle .ahk
 https://www.youtube.com/watch?v=whYqhpc6S6g
 
-35404.  Protecting Privacy with MATH (Collab with the Census) .ahk
+92.  Protecting Privacy with MATH (Collab with the Census) .ahk
 https://www.youtube.com/watch?v=pT19VwBAqKA
 
-35497.  Quantum SHAPE-SHIFTING- Neutrino Oscillations .ahk
+93.  Quantum SHAPE-SHIFTING- Neutrino Oscillations .ahk
 https://www.youtube.com/watch?v=7fgKBJDMO54
 
-35591.  Real World Telekinesis (feat. Neil Turok) .ahk
+94.  Real World Telekinesis (feat. Neil Turok) .ahk
 https://www.youtube.com/watch?v=NMgcX8UNIGY
 
-35686.  Reimagining the Periodic Table .ahk
+95.  Reimagining the Periodic Table .ahk
 https://www.youtube.com/watch?v=2WLYukAH-eY
 
-35782.  Relativity Isn't Relative .ahk
+96.  Relativity Isn't Relative .ahk
 https://www.youtube.com/watch?v=VS46DZe5usY
 
-35879.  Relativity of Simultaneity - Special Relativity Ch. 4 .ahk
+97.  Relativity of Simultaneity - Special Relativity Ch. 4 .ahk
 https://www.youtube.com/watch?v=SrNVsfkGW-0
 
-35977.  Round Triangles! .ahk
+98.  Round Triangles! .ahk
 https://www.youtube.com/watch?v=6MhD2xZVypo
 
-36076.  Schrödinger's Cat .ahk
+99.  Schrödinger's Cat .ahk
 https://www.youtube.com/watch?v=IOYyCHGWJq4
 
-36176.  Science, Religion, and the Big Bang .ahk
+100.  Science, Religion, and the Big Bang .ahk
 https://www.youtube.com/watch?v=q3MWRvLndzs
 
-36277.  Shells of Cosmic Time (ft. @AstroKatie) .ahk
+101.  Shells of Cosmic Time (ft. @AstroKatie) .ahk
 https://www.youtube.com/watch?v=Cfg11qQwPzQ
 
-36379.  Should You Walk or Run When It's Cold .ahk
+102.  Should You Walk or Run When It's Cold .ahk
 https://www.youtube.com/watch?v=Re5fhBoF6sY
 
-36482.  SMBC Physics- Why are stones round feat. Zach Weiner .ahk
+103.  SMBC Physics- Why are stones round feat. Zach Weiner .ahk
 https://www.youtube.com/watch?v=w5GHbzR9sZ8
 
-36586.  Solar Panels Made With a Particle Accelerator! .ahk
+104.  Solar Panels Made With a Particle Accelerator! .ahk
 https://www.youtube.com/watch?v=lPBTdSfLBg8
 
-36691.  Solution to the Grandfather Paradox .ahk
+105.  Solution to the Grandfather Paradox .ahk
 https://www.youtube.com/watch?v=XayNKY944lY
 
-36797.  Solution to The Impossible Bet - The 100 Prisoners Problem .ahk
+106.  Solution to The Impossible Bet - The 100 Prisoners Problem .ahk
 https://www.youtube.com/watch?v=C5-I0bAuEUE
 
-36904.  Spacetime Diagrams - Special Relativity Ch. 2 .ahk
+107.  Spacetime Diagrams - Special Relativity Ch. 2 .ahk
 https://www.youtube.com/watch?v=hTxWAQGgeQw
 
-37012.  Speed of Light Thank You! .ahk
+108.  Speed of Light Thank You! .ahk
 https://www.youtube.com/watch?v=VT0floYMpDc
 
-37121.  Taming Infinity .ahk
+109.  Taming Infinity .ahk
 https://www.youtube.com/watch?v=4MUOdUvtf8o
 
-37231.  ten-second physics #1 .ahk
+110.  ten-second physics #1 .ahk
 https://www.youtube.com/watch?v=YVlCtJ52Juc
 
-37342.  The 'Mountain Or Valley' Illusion .ahk
+111.  The 'Mountain Or Valley' Illusion .ahk
 https://www.youtube.com/watch?v=V7C318DGB38
 
-37454.  The Arrow of Time feat. Sean Carroll .ahk
+112.  The Arrow of Time feat. Sean Carroll .ahk
 https://www.youtube.com/watch?v=GdTMuivYF30
 
-37567.  The Astounding Physics of N95 Masks .ahk
+113.  The Astounding Physics of N95 Masks .ahk
 https://www.youtube.com/watch?v=eAdanPfQdCA lll
 
-37681.  The BEST Science Online (Henry's List) .ahk
+114.  The BEST Science Online (Henry's List) .ahk
 https://www.youtube.com/watch?v=i8t53Ak_yrQ
 
-37796.  The Hairy Ball Theorem .ahk
+115.  The Hairy Ball Theorem .ahk
 https://www.youtube.com/watch?v=B4UGZEjG02s
 
-37912.  The Higgs Boson, Part I .ahk
+116.  The Higgs Boson, Part I .ahk
 https://www.youtube.com/watch?v=9Uh5mTxRQcg
 
-38029.  The Higgs Boson, Part II- What is Mass .ahk
+117.  The Higgs Boson, Part II- What is Mass .ahk
 https://www.youtube.com/watch?v=ASRpIym_jFM
 
-38147.  The Man Who Corrected Einstein .ahk
+118.  The Man Who Corrected Einstein .ahk
 https://www.youtube.com/watch?v=Va5T2KcYiOw
 
-38266.  The Most Burly Hurls .ahk
+119.  The Most Burly Hurls .ahk
 https://www.youtube.com/watch?v=k3eEk-__E2U
 
-38386.  The No Cloning Theorem .ahk
+120.  The No Cloning Theorem .ahk
 https://www.youtube.com/watch?v=owPC60Ue0BE
 
-38507.  The Order of Operations is Wrong .ahk
+121.  The Order of Operations is Wrong .ahk
 https://www.youtube.com/watch?v=y9h1oqv21Vs
 
-38629.  The Origin of Quantum Mechanics (feat. Neil Turok) .ahk
+122.  The Origin of Quantum Mechanics (feat. Neil Turok) .ahk
 https://www.youtube.com/watch?v=i1TVZIBj7UA
 
-38752.  The Physics of Car Crashes .ahk
+123.  The Physics of Car Crashes .ahk
 https://www.youtube.com/watch?v=v9ML4GA47Rg
 
-38876.  The Portal Paradox .ahk
+124.  The Portal Paradox .ahk
 https://www.youtube.com/watch?v=B19nlhbA7-E
 
-39001.  The Sound of Hydrogen .ahk
+125.  The Sound of Hydrogen .ahk
 https://www.youtube.com/watch?v=qyi5SvPlMXc
 
-39127.  The Speed of Light in Glass .ahk
+126.  The Speed of Light in Glass .ahk
 https://www.youtube.com/watch?v=FAivtXJOsiI
 
-39254.  The Tacoma Narrows Fallacy .ahk
+127.  The Tacoma Narrows Fallacy .ahk
 https://www.youtube.com/watch?v=6ai2QFxStxo
 
-39382.  The Tides .ahk
+128.  The Tides .ahk
 https://www.youtube.com/watch?v=gftT3wHJGtg
 
-39511.  The True Science of Parallel Universes .ahk
+129.  The True Science of Parallel Universes .ahk
 https://www.youtube.com/watch?v=Ywn2Lz5zmYg
 
-39641.  The Wave-Particle Duality - Part 2 .ahk
+130.  The Wave-Particle Duality - Part 2 .ahk
 https://www.youtube.com/watch?v=_riIY-v2Ym8
 
-39772.  Theory of Everything (intro) .ahk
+131.  Theory of Everything (intro) .ahk
 https://www.youtube.com/watch?v=HVO0HgMi6Lc
 
-39904.  Theory of Everything- What is Matter .ahk
+132.  Theory of Everything- What is Matter .ahk
 https://www.youtube.com/watch?v=Fxeb3Pc4PA4
 
-40037.  There is no 'Fourth' dimension .ahk
+133.  There is no 'Fourth' dimension .ahk
 https://www.youtube.com/watch?v=M9sbdrPVfOQ
 
-40171.  There is no pink light .ahk
+134.  There is no pink light .ahk
 https://www.youtube.com/watch?v=S9dqJRyk0YM
 
-40306.  This is Not a Rainbow .ahk
+135.  This is Not a Rainbow .ahk
 https://www.youtube.com/watch?v=9udYi7exojk
 
-40442.  To London, To London .ahk
+136.  To London, To London .ahk
 https://www.youtube.com/watch?v=Ghn_Na43FQE
 
-40579.  TOP 10 REASONS Why We Know the Earth is Round .ahk
+137.  TOP 10 REASONS Why We Know the Earth is Round .ahk
 https://www.youtube.com/watch?v=o_W280R_Jt8
 
-40717.  Tour of the Map of the Big Bang .ahk
+138.  Tour of the Map of the Big Bang .ahk
 https://www.youtube.com/watch?v=38_9Q4Az0xM
 
-40856.  Transporters and Quantum Teleportation .ahk
+139.  Transporters and Quantum Teleportation .ahk
 https://www.youtube.com/watch?v=dAaHHGHuy1c
 
-40996.  Tutorial- creating the sound of hydrogen .ahk
+140.  Tutorial- creating the sound of hydrogen .ahk
 https://www.youtube.com/watch?v=IhvW8yZdE5A
 
-41137.  Tutorial- Rocket Science! (plus special announcement) .ahk
+141.  Tutorial- Rocket Science! (plus special announcement) .ahk
 https://www.youtube.com/watch?v=XwaGW-x7hS0
 
-41279.  Tutorial- Simulating the Universe in After Effects .ahk
+142.  Tutorial- Simulating the Universe in After Effects .ahk
 https://www.youtube.com/watch?v=pQiKBM9rDoM
 
-41422.  Upside Down Mountains in Real Life  (1737130).ahk
+143.  Upside Down Mountains in Real Life  (1737130).ahk
 https://www.youtube.com/watch?v=Z5aLeB17tmc
 
-41566.  Upside Down Mountains in Real Life .ahk
+144.  Upside Down Mountains in Real Life .ahk
 https://www.youtube.com/watch?v=Z5aLeB17tmc
 
-41711.  Usain Bolt vs. Gravity .ahk
+145.  Usain Bolt vs. Gravity .ahk
 https://www.youtube.com/watch?v=9YUtFpLpGfk
 
-41857.  VomitPhysics! Physics of Fiction .ahk
+146.  VomitPhysics! Physics of Fiction .ahk
 https://www.youtube.com/watch?v=T7JLXg7yGx0
 
-42004.  Weigh a million dollars with your mind .ahk
+147.  Weigh a million dollars with your mind .ahk
 https://www.youtube.com/watch?v=-zexOIGlrFo
 
-42152.  What are years... and the galactic supermassive black hole! .ahk
+148.  What are years... and the galactic supermassive black hole! .ahk
 https://www.youtube.com/watch?v=53glKEPzElA
 
-42301.  What if the Earth were Hollow .ahk
+149.  What if the Earth were Hollow .ahk
 https://www.youtube.com/watch?v=jN-FfJKgis8
 
-42451.  What is a dimension In 3D...and 2D... and 1D .ahk
+150.  What is a dimension In 3D...and 2D... and 1D .ahk
 https://www.youtube.com/watch?v=SJJhHknEDPY
 
-42602.  What is a Neutrino .ahk
+151.  What is a Neutrino .ahk
 https://www.youtube.com/watch?v=lAAmAbJvvJg
 
-42754.  What IS Angular Momentum .ahk
+152.  What IS Angular Momentum .ahk
 https://www.youtube.com/watch?v=iWSu6U0Ujs8
 
-42907.  What is fire .ahk
+153.  What is fire .ahk
 https://www.youtube.com/watch?v=1pfqIcSydgE
 
-43061.  What is Quantum Tunneling .ahk
+154.  What is Quantum Tunneling .ahk
 https://www.youtube.com/watch?v=cTodS8hkSDg
 
-43216.  What is Sea Level .ahk
+155.  What is Sea Level .ahk
 https://www.youtube.com/watch?v=q65O3qA0-n4
 
-43372.  What is the Purpose of Life (Big Picture Ep. 5-5) .ahk
+156.  What is the Purpose of Life (Big Picture Ep. 5-5) .ahk
 https://www.youtube.com/watch?v=HxTnqKuNygE
 
-43529.  What is the Uncertainty Principle .ahk
+157.  What is the Uncertainty Principle .ahk
 https://www.youtube.com/watch?v=7vc-Uvp3vwg
 
-43687.  What Is The Universe .ahk
+158.  What Is The Universe .ahk
 https://www.youtube.com/watch?v=nrTsvn9usVQ
 
-43846.  What is the Wave-Particle Duality Part 1 .ahk
+159.  What is the Wave-Particle Duality Part 1 .ahk
 https://www.youtube.com/watch?v=Q_h4IoPJXZw
 
-44006.  What is Touch .ahk
+160.  What is Touch .ahk
 https://www.youtube.com/watch?v=BksyMWSygnc
 
-44167.  Where Does Complexity Come From (Big Picture Ep. 3-5) .ahk
+161.  Where Does Complexity Come From (Big Picture Ep. 3-5) .ahk
 https://www.youtube.com/watch?v=MTFY0H4EZx4
 
-44329.  Where is the True North Pole .ahk
+162.  Where is the True North Pole .ahk
 https://www.youtube.com/watch?v=Roq20IV4yP0
 
-44492.  Where Was The Big Bang .ahk
+163.  Where Was The Big Bang .ahk
 https://www.youtube.com/watch?v=W4c-gX9MT1Q
 
-44656.  Why Are Airplane Engines So Big .ahk
+164.  Why Are Airplane Engines So Big .ahk
 https://www.youtube.com/watch?v=ueTGjegTKoo
 
-44821.  Why are Stars Star-Shaped .ahk
+165.  Why are Stars Star-Shaped .ahk
 https://www.youtube.com/watch?v=VVAKFJ8VVp4
 
-44987.  Why December Has The Longest Days .ahk
+166.  Why December Has The Longest Days .ahk
 https://www.youtube.com/watch?v=nZMMuv0Ltyo
 
-45154.  Why Do Mirrors Flip Left & Right (but not up & down) .ahk
+167.  Why Do Mirrors Flip Left & Right (but not up & down) .ahk
 https://www.youtube.com/watch?v=1t4dOPxKgrY
 
-45322.  Why is it Dark at Night .ahk
+168.  Why is it Dark at Night .ahk
 https://www.youtube.com/watch?v=gxJ4M7tyLRE
 
-45491.  Why is it Harder to Drive Backwards .ahk
+169.  Why is it Harder to Drive Backwards .ahk
 https://www.youtube.com/watch?v=iFwfexZstO4
 
-45661.  Why is Relativity Hard - Special Relativity Chapter 1 .ahk
+170.  Why is Relativity Hard - Special Relativity Chapter 1 .ahk
 https://www.youtube.com/watch?v=1rLWVZVWfdY
 
-45832.  Why is the Solar System Flat .ahk
+171.  Why is the Solar System Flat .ahk
 https://www.youtube.com/watch?v=tmNXKqeUtJM
 
-46004.  Why is the Sun Yellow and the Sky Blue .ahk
+172.  Why is the Sun Yellow and the Sky Blue .ahk
 https://www.youtube.com/watch?v=NafbGOQBlQs
 
-46177.  Why Isn't The Sky Purple .ahk
+173.  Why Isn't The Sky Purple .ahk
 https://www.youtube.com/watch?v=R5P6O0pDyMU
 
-46351.  Why It's HARD To Land on Mars .ahk
+174.  Why It's HARD To Land on Mars .ahk
 https://www.youtube.com/watch?v=h2nqgKL2JQU
 
-46526.  Why It's Impossible to Tune a Piano .ahk
+175.  Why It's Impossible to Tune a Piano .ahk
 https://www.youtube.com/watch?v=1Hqm0dYKUx4
 
-46702.  Why Raindrops Are Mathematically Impossible  (1101553).ahk
+176.  Why Raindrops Are Mathematically Impossible  (1101553).ahk
 https://www.youtube.com/watch?v=8lBvC7aFB40
 
-46879.  Why Raindrops Are Mathematically Impossible .ahk
+177.  Why Raindrops Are Mathematically Impossible .ahk
 https://www.youtube.com/watch?v=8lBvC7aFB40
 
-47057.  Why The Full Moon is Better in Winter .ahk
+178.  Why The Full Moon is Better in Winter .ahk
 https://www.youtube.com/watch?v=T3gacnHb9TI
 
-47236.  Why the solar system can exist .ahk
+179.  Why the solar system can exist .ahk
 https://www.youtube.com/watch?v=uhS8K4gFu4s
 
-47416.  Ye Olde Debunking .ahk
+180.  Ye Olde Debunking .ahk
 https://www.youtube.com/watch?v=PVVTk7yy4kU
 
-47597.  Youtube Video vs. The Universe .ahk
+181.  Youtube Video vs. The Universe .ahk
 https://www.youtube.com/watch?v=_OwGZR-EltI
 chronological order

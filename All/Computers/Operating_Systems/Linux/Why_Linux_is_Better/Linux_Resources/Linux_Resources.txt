@@ -1,58 +1,58 @@
 
-69994.  06 CLI Friendly Arch Linux Install 2019.ahk
+1.  06 CLI Friendly Arch Linux Install 2019.ahk
 https://www.youtube.com/watch?v=qDLOx2J4nAc
 
-69996.  A Look at Virt-Manager (KVMQEMU) GUI.ahk
+2.  A Look at Virt-Manager (KVMQEMU) GUI.ahk
 https://www.youtube.com/watch?v=FuPofbt1MXU
 
-69999.  Apple won't like this... - Run MacOS on ANY PC.ahk
+3.  Apple won't like this... - Run MacOS on ANY PC.ahk
 https://www.youtube.com/watch?v=ATnpEOo3GJA
 
-70003.  Curseradio - Internet Radio For Your Terminal.ahk
+4.  Curseradio - Internet Radio For Your Terminal.ahk
 https://www.youtube.com/watch?v=gIzwMpTDwVk
 
-70008.  Full Arch Linux Install (SAVAGE Edition!).ahk
+5.  Full Arch Linux Install (SAVAGE Edition!).ahk
 https://www.youtube.com/watch?v=4PBqpX0_UOc
 
-70014.  How to Create a Samba Server In Linux Mint Ubuntu or Debian.ahk
+6.  How to Create a Samba Server In Linux Mint Ubuntu or Debian.ahk
 https://www.youtube.com/watch?v=dm0_9N3dY90
 
-70021.  Install macOS Sierra on QEMU with KVM support.ahk
+7.  Install macOS Sierra on QEMU with KVM support.ahk
 https://www.youtube.com/watch?v=fL88TEBVv9Y
 
-70029.  Linux Gaming 0 to Steam with the Sapphire RX 590 on Ubuntu!.ahk
+8.  Linux Gaming 0 to Steam with the Sapphire RX 590 on Ubuntu!.ahk
 https://www.youtube.com/watch?v=qK5ra2eed7w
 
-70038.  Linux Video Editors - How I Get Away With Using Linux For Filmmaking Part 1  Premier Prep.ahk
+9.  Linux Video Editors - How I Get Away With Using Linux For Filmmaking Part 1  Premier Prep.ahk
 https://www.youtube.com/watch?v=cGdTmSU8Cek
 
-70048.  Make Linux Login Look Better than Windows  LightDM Config.ahk
+10.  Make Linux Login Look Better than Windows  LightDM Config.ahk
 https://www.youtube.com/watch?v=_dYqisDIcC0
 
-70059.  Make Your Desktop Modern. Paranoid Theme For Windows 10.ahk
+11.  Make Your Desktop Modern. Paranoid Theme For Windows 10.ahk
 https://www.youtube.com/watch?v=_xSSbLQ_-0A
 
-70071.  Native Performance Windows Games On Linux!!! Quick GPU Passthrough Guide.ahk
+12.  Native Performance Windows Games On Linux!!! Quick GPU Passthrough Guide.ahk
 https://www.youtube.com/watch?v=6FI31QDtyy4
 
-70084.  No Adobe Creative Suite on Linux Best Free Alternatives in 2019!.ahk
+13.  No Adobe Creative Suite on Linux Best Free Alternatives in 2019!.ahk
 https://www.youtube.com/watch?v=doBR1Ae78aw
 
-70098.  Privacy on Android A Definitive Guide.ahk
+14.  Privacy on Android A Definitive Guide.ahk
 https://www.youtube.com/watch?v=WSNGK9gmdpg
 
-70113.  QEMU in Ubuntu, Windows & OS X All at the Same Time.ahk
+15.  QEMU in Ubuntu, Windows & OS X All at the Same Time.ahk
 https://www.youtube.com/watch?v=ADh_cqrKXmY
 
-70129.  Things To Do After Installing Elementary OS 5 Juno.ahk
+16.  Things To Do After Installing Elementary OS 5 Juno.ahk
 https://www.youtube.com/watch?v=vWN9e5gkiH0
 
-70146.  Tutorial - KDE Plasma macOS Theme (with blur) - Manjaro Linux.ahk
+17.  Tutorial - KDE Plasma macOS Theme (with blur) - Manjaro Linux.ahk
 https://www.youtube.com/watch?v=kotYskfykl0
 
-70164.  Tutorial - My KDE Plasma macOS like (with blur) - Manjaro Linux.ahk
+18.  Tutorial - My KDE Plasma macOS like (with blur) - Manjaro Linux.ahk
 https://www.youtube.com/watch?v=OBCBqEC6sS8
 
-70183.  Windows Programs on Linux  Introduction to WINE.ahk
+19.  Windows Programs on Linux  Introduction to WINE.ahk
 https://www.youtube.com/watch?v=lI09QLkqZiE
 Linux Resources

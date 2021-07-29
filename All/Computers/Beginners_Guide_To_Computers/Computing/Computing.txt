@@ -1,22 +1,22 @@
 
-9151.  Affordable Computer Build For Photographers and Videographers.ahk
+1.  Affordable Computer Build For Photographers and Videographers.ahk
 https://www.youtube.com/watch?v=wUN-sFaFZZI
 
-9153.  Drive Cloning & Imaging.ahk
+2.  Drive Cloning & Imaging.ahk
 https://www.youtube.com/watch?v=UTsq-HHz0Ss
 
-9156.  Introduction to Pivot Tables, Charts, and Dashboards in Excel (Part 1).ahk
+3.  Introduction to Pivot Tables, Charts, and Dashboards in Excel (Part 1).ahk
 https://www.youtube.com/watch?v=9NUjHBNWe9M
 
-9160.  Solved ! windows 10 network pcs not showing up - network does not show computers.ahk
+4.  Solved ! windows 10 network pcs not showing up - network does not show computers.ahk
 https://www.youtube.com/watch?v=fZLO0p1lDGo
 
-9165.  Things You Need to Disable in Windows 10 Right Now.ahk
+5.  Things You Need to Disable in Windows 10 Right Now.ahk
 https://www.youtube.com/watch?v=tgW7iXejfqQ
 
-9171.  Windows 10 - Beginners Guide [Tutorial].ahk
+6.  Windows 10 - Beginners Guide [Tutorial].ahk
 https://www.youtube.com/watch?v=FZqKyhfD7-E
 
-9178.  ?? Windows 10 - How to Share Files, Folders & Drives Between Computers Over a Network.ahk
+7.  ?? Windows 10 - How to Share Files, Folders & Drives Between Computers Over a Network.ahk
 https://www.youtube.com/watch?v=3-C3v82zOgE
 Computing

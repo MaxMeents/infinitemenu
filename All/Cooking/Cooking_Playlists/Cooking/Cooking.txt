@@ -1,64 +1,64 @@
 
-33871.  BAKING A CAKE (for myself).ahk
+1.  BAKING A CAKE (for myself).ahk
 https://www.youtube.com/watch?v=zodjv-1VGjo
 
-33873.  baking a cake for my dog lol.ahk
+2.  baking a cake for my dog lol.ahk
 https://www.youtube.com/watch?v=BBGmT5KYNPI
 
-33876.  COOKING MY FAVORITE MEAL.ahk
+3.  COOKING MY FAVORITE MEAL.ahk
 https://www.youtube.com/watch?v=oWMd_nHq7-4
 
-33880.  Horrible Youtube Cooking Show.ahk
+4.  Horrible Youtube Cooking Show.ahk
 https://www.youtube.com/watch?v=_aktyXRudwk
 
-33885.  I MADE THE BAKED FETA PASTA FROM TIKTOK.ahk
+5.  I MADE THE BAKED FETA PASTA FROM TIKTOK.ahk
 https://www.youtube.com/watch?v=XNQYEjcyQvk
 
-33891.  I Tried Making Sausages and It Was A Disaster.ahk
+6.  I Tried Making Sausages and It Was A Disaster.ahk
 https://www.youtube.com/watch?v=tQOnz7I6tJE
 
-33898.  MAKING A PIZZA (for myself).ahk
+7.  MAKING A PIZZA (for myself).ahk
 https://www.youtube.com/watch?v=3oyc3-m_QFg
 
-33906.  making CRISPY RICE w SPICY TUNA.ahk
+8.  making CRISPY RICE w SPICY TUNA.ahk
 https://www.youtube.com/watch?v=rIdg6gE_hPQ
 
-33915.  making FLUFFY PANCAKES (japanese soufflé pancakes).ahk
+9.  making FLUFFY PANCAKES (japanese soufflé pancakes).ahk
 https://www.youtube.com/watch?v=Q2wDBfBy6wA
 
-33925.  making homemade mac n cheese ).ahk
+10.  making homemade mac n cheese ).ahk
 https://www.youtube.com/watch?v=LIf5wr2KAHo
 
-33936.  making KOREAN FRIED CHEESE CORN DOGS (from a tiktok recipe).ahk
+11.  making KOREAN FRIED CHEESE CORN DOGS (from a tiktok recipe).ahk
 https://www.youtube.com/watch?v=0RipHi3xAq8
 
-33948.  making STRAWBERRY BOBA (from a tiktok recipe).ahk
+12.  making STRAWBERRY BOBA (from a tiktok recipe).ahk
 https://www.youtube.com/watch?v=20EsDbo1ATU
 
-33961.  Master of Salt.ahk
+13.  Master of Salt.ahk
 https://www.youtube.com/watch?v=TrUobE7uCeM
 
-33975.  My Favorite Chef.ahk
+14.  My Favorite Chef.ahk
 https://www.youtube.com/watch?v=0Z9hfjYVyUs
 
-33990.  No Words Can Describe This Chef's Strange Cooking.ahk
+15.  No Words Can Describe This Chef's Strange Cooking.ahk
 https://www.youtube.com/watch?v=EvwE0wyL7f0
 
-34006.  playing THE NEW PACIFY LEVEL (woods).ahk
+16.  playing THE NEW PACIFY LEVEL (woods).ahk
 https://www.youtube.com/watch?v=W_dm0xzHM1k
 
-34023.  Return of the Salt Master.ahk
+17.  Return of the Salt Master.ahk
 https://www.youtube.com/watch?v=3COMdp4iYIo
 
-34041.  The Scariest Cooking Show on Youtube.ahk
+18.  The Scariest Cooking Show on Youtube.ahk
 https://www.youtube.com/watch?v=pV0JoKWsJno
 
-34060.  The Worst Chef on Youtube.ahk
+19.  The Worst Chef on Youtube.ahk
 https://www.youtube.com/watch?v=T3sAYuOsqbA
 
-34080.  The Worst Cooking on Youtube.ahk
+20.  The Worst Cooking on Youtube.ahk
 https://www.youtube.com/watch?v=WhJa5fZUfT8
 
-34101.  The Worst Recipes on Youtube.ahk
+21.  The Worst Recipes on Youtube.ahk
 https://www.youtube.com/watch?v=84T80yAitjk
 Cooking

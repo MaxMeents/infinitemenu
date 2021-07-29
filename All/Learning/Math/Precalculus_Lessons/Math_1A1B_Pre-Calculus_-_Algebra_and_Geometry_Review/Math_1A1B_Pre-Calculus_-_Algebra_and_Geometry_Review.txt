@@ -1,157 +1,157 @@
 
-283905.  Math 1A1B. Pre-Calculus Absolute Value Equations.ahk
+1.  Math 1A1B. Pre-Calculus Absolute Value Equations.ahk
 https://www.youtube.com/watch?v=LMZfl7JvIss
 
-283907.  Math 1A1B. Pre-Calculus Absolute Value Inequalities.ahk
+2.  Math 1A1B. Pre-Calculus Absolute Value Inequalities.ahk
 https://www.youtube.com/watch?v=BXe5fpw4tyc
 
-283910.  Math 1A1B. Pre-Calculus Adding and Subtracting Complex Numbers.ahk
+3.  Math 1A1B. Pre-Calculus Adding and Subtracting Complex Numbers.ahk
 https://www.youtube.com/watch?v=HIEHgvry18E
 
-283914.  Math 1A1B. Pre-Calculus Adding and Subtracting Polynomials.ahk
+4.  Math 1A1B. Pre-Calculus Adding and Subtracting Polynomials.ahk
 https://www.youtube.com/watch?v=uylpSQmcYZA
 
-283919.  Math 1A1B. Pre-Calculus Adding and Subtracting Rational Expressions.ahk
+5.  Math 1A1B. Pre-Calculus Adding and Subtracting Rational Expressions.ahk
 https://www.youtube.com/watch?v=KBT58K6DsJc
 
-283925.  Math 1A1B. Pre-Calculus Algebra and Geometry Review.ahk
+6.  Math 1A1B. Pre-Calculus Algebra and Geometry Review.ahk
 https://www.youtube.com/watch?v=EmIACBljcaA
 
-283932.  Math 1A1B. Pre-Calculus Algebraic Symbol Manipulation.ahk
+7.  Math 1A1B. Pre-Calculus Algebraic Symbol Manipulation.ahk
 https://www.youtube.com/watch?v=pbcKu0zyOxQ
 
-283940.  Math 1A1B. Pre-Calculus Area and Perimeter Word Problems.ahk
+8.  Math 1A1B. Pre-Calculus Area and Perimeter Word Problems.ahk
 https://www.youtube.com/watch?v=VfryT5ph-_M
 
-283949.  Math 1A1B. Pre-Calculus Complex Numbers and Radicals.ahk
+9.  Math 1A1B. Pre-Calculus Complex Numbers and Radicals.ahk
 https://www.youtube.com/watch?v=5IQJ_7Cnxk4
 
-283959.  Math 1A1B. Pre-Calculus Compound Inequalities.ahk
+10.  Math 1A1B. Pre-Calculus Compound Inequalities.ahk
 https://www.youtube.com/watch?v=dxfzFTtLLMA
 
-283970.  Math 1A1B. Pre-Calculus Discriminant.ahk
+11.  Math 1A1B. Pre-Calculus Discriminant.ahk
 https://www.youtube.com/watch?v=hrhfdINTFro
 
-283982.  Math 1A1B. Pre-Calculus Distance-Rate-Time.ahk
+12.  Math 1A1B. Pre-Calculus Distance-Rate-Time.ahk
 https://www.youtube.com/watch?v=yEbFN6pEqXk
 
-283995.  Math 1A1B. Pre-Calculus Dividing Complex Numbers.ahk
+13.  Math 1A1B. Pre-Calculus Dividing Complex Numbers.ahk
 https://www.youtube.com/watch?v=B0kp1_jTZes
 
-284009.  Math 1A1B. Pre-Calculus Dividing Rational Expressions.ahk
+14.  Math 1A1B. Pre-Calculus Dividing Rational Expressions.ahk
 https://www.youtube.com/watch?v=QGa2g79q7zY
 
-284024.  Math 1A1B. Pre-Calculus Factoring a Quadratic Expression.ahk
+15.  Math 1A1B. Pre-Calculus Factoring a Quadratic Expression.ahk
 https://www.youtube.com/watch?v=Uf1th8r3Q98
 
-284040.  Math 1A1B. Pre-Calculus Factoring by Grouping.ahk
+16.  Math 1A1B. Pre-Calculus Factoring by Grouping.ahk
 https://www.youtube.com/watch?v=NA_wph0XAK4
 
-284057.  Math 1A1B. Pre-Calculus Inequalities Involving Radicals.ahk
+17.  Math 1A1B. Pre-Calculus Inequalities Involving Radicals.ahk
 https://www.youtube.com/watch?v=ILjhfOAmbvA
 
-284075.  Math 1A1B. Pre-Calculus Linear Inequality Word Problems.ahk
+18.  Math 1A1B. Pre-Calculus Linear Inequality Word Problems.ahk
 https://www.youtube.com/watch?v=fB6vlShhhVc
 
-284094.  Math 1A1B. Pre-Calculus Linear Word Problems.ahk
+19.  Math 1A1B. Pre-Calculus Linear Word Problems.ahk
 https://www.youtube.com/watch?v=AamKjsqNUuc
 
-284114.  Math 1A1B. Pre-Calculus Mixture Problems Using Linear Equations.ahk
+20.  Math 1A1B. Pre-Calculus Mixture Problems Using Linear Equations.ahk
 https://www.youtube.com/watch?v=9YeuyiNiof8
 
-284135.  Math 1A1B. Pre-Calculus Multiple Operations with Complex Numbers.ahk
+21.  Math 1A1B. Pre-Calculus Multiple Operations with Complex Numbers.ahk
 https://www.youtube.com/watch?v=uYtvagf_RPY
 
-284157.  Math 1A1B. Pre-Calculus Multiple Operations with Polynomials.ahk
+22.  Math 1A1B. Pre-Calculus Multiple Operations with Polynomials.ahk
 https://www.youtube.com/watch?v=mMUpOdblM5Y
 
-284180.  Math 1A1B. Pre-Calculus Multiplication Involving Square Roots.ahk
+23.  Math 1A1B. Pre-Calculus Multiplication Involving Square Roots.ahk
 https://www.youtube.com/watch?v=ohkLuo5LuEM
 
-284204.  Math 1A1B. Pre-Calculus Multiplication of Binomials.ahk
+24.  Math 1A1B. Pre-Calculus Multiplication of Binomials.ahk
 https://www.youtube.com/watch?v=IHUO99Y1iFU
 
-284229.  Math 1A1B. Pre-Calculus Multiplication of Polynomials.ahk
+25.  Math 1A1B. Pre-Calculus Multiplication of Polynomials.ahk
 https://www.youtube.com/watch?v=hCWC4slNPhs
 
-284255.  Math 1A1B. Pre-Calculus Multiplying Complex Numbers.ahk
+26.  Math 1A1B. Pre-Calculus Multiplying Complex Numbers.ahk
 https://www.youtube.com/watch?v=3annxFhx_SE
 
-284282.  Math 1A1B. Pre-Calculus Multiplying Rational Expressions.ahk
+27.  Math 1A1B. Pre-Calculus Multiplying Rational Expressions.ahk
 https://www.youtube.com/watch?v=DfJBGJ-rQ2A
 
-284310.  Math 1A1B. Pre-Calculus Percentage Word Problems.ahk
+28.  Math 1A1B. Pre-Calculus Percentage Word Problems.ahk
 https://www.youtube.com/watch?v=1tI47lPTj-M
 
-284339.  Math 1A1B. Pre-Calculus Properties of Integer Exponents.ahk
+29.  Math 1A1B. Pre-Calculus Properties of Integer Exponents.ahk
 https://www.youtube.com/watch?v=Qpmap4oCt24
 
-284369.  Math 1A1B. Pre-Calculus Properties of Real Numbers.ahk
+30.  Math 1A1B. Pre-Calculus Properties of Real Numbers.ahk
 https://www.youtube.com/watch?v=QH5GS0SWHgg
 
-284400.  Math 1A1B. Pre-Calculus Quadratic Equation Word Problems.ahk
+31.  Math 1A1B. Pre-Calculus Quadratic Equation Word Problems.ahk
 https://www.youtube.com/watch?v=kE4aFG__MPg
 
-284432.  Math 1A1B. Pre-Calculus Quadratic Formula.ahk
+32.  Math 1A1B. Pre-Calculus Quadratic Formula.ahk
 https://www.youtube.com/watch?v=1lGFKbxm2oc
 
-284465.  Math 1A1B. Pre-Calculus Rational Exponents.ahk
+33.  Math 1A1B. Pre-Calculus Rational Exponents.ahk
 https://www.youtube.com/watch?v=pRiJBWNykjw
 
-284499.  Math 1A1B. Pre-Calculus Rationalizing a Denominator.ahk
+34.  Math 1A1B. Pre-Calculus Rationalizing a Denominator.ahk
 https://www.youtube.com/watch?v=eafywSBrWJ0
 
-284534.  Math 1A1B. Pre-Calculus Scientific Notation.ahk
+35.  Math 1A1B. Pre-Calculus Scientific Notation.ahk
 https://www.youtube.com/watch?v=SP3h1u0mLPY
 
-284570.  Math 1A1B. Pre-Calculus Simplified Radical Form.ahk
+36.  Math 1A1B. Pre-Calculus Simplified Radical Form.ahk
 https://www.youtube.com/watch?v=VdABOEGmGU0
 
-284607.  Math 1A1B. Pre-Calculus Simplifying a Ratio of Polynomials.ahk
+37.  Math 1A1B. Pre-Calculus Simplifying a Ratio of Polynomials.ahk
 https://www.youtube.com/watch?v=nyg6JxKLS8c
 
-284645.  Math 1A1B. Pre-Calculus Simplifying Fractions.ahk
+38.  Math 1A1B. Pre-Calculus Simplifying Fractions.ahk
 https://www.youtube.com/watch?v=EpLUXmzeEYY
 
-284684.  Math 1A1B. Pre-Calculus Simplifying Powers of i.ahk
+39.  Math 1A1B. Pre-Calculus Simplifying Powers of i.ahk
 https://www.youtube.com/watch?v=XMzXFbUyQ_w
 
-284724.  Math 1A1B. Pre-Calculus Solving a Linear Inequality.ahk
+40.  Math 1A1B. Pre-Calculus Solving a Linear Inequality.ahk
 https://www.youtube.com/watch?v=OnmJL-kbGl8
 
-284765.  Math 1A1B. Pre-Calculus Solving a Quadratic Equation - Completing the Square.ahk
+41.  Math 1A1B. Pre-Calculus Solving a Quadratic Equation - Completing the Square.ahk
 https://www.youtube.com/watch?v=h0vO114AVRU
 
-284807.  Math 1A1B. Pre-Calculus Solving a Quadratic Equation, Part 1.ahk
+42.  Math 1A1B. Pre-Calculus Solving a Quadratic Equation, Part 1.ahk
 https://www.youtube.com/watch?v=lN9Y9QaOk0s
 
-284850.  Math 1A1B. Pre-Calculus Solving an Equation Quadratic in Form.ahk
+43.  Math 1A1B. Pre-Calculus Solving an Equation Quadratic in Form.ahk
 https://www.youtube.com/watch?v=gIkvfz8ZQtA
 
-284894.  Math 1A1B. Pre-Calculus Solving Equations Involving Radicals.ahk
+44.  Math 1A1B. Pre-Calculus Solving Equations Involving Radicals.ahk
 https://www.youtube.com/watch?v=vm3ihHYMKcM
 
-284939.  Math 1A1B. Pre-Calculus Solving Linear Equations.ahk
+45.  Math 1A1B. Pre-Calculus Solving Linear Equations.ahk
 https://www.youtube.com/watch?v=dy6sVw3DDos
 
-284985.  Math 1A1B. Pre-Calculus Solving Rational Equations, Part 1.ahk
+46.  Math 1A1B. Pre-Calculus Solving Rational Equations, Part 1.ahk
 https://www.youtube.com/watch?v=UPz-eNg-SbM
 
-285032.  Math 1A1B. Pre-Calculus Solving Rational Equations, Part 2.ahk
+47.  Math 1A1B. Pre-Calculus Solving Rational Equations, Part 2.ahk
 https://www.youtube.com/watch?v=T2B9ml0VMBg
 
-285080.  Math 1A1B. Pre-Calculus Special Factoring Formulas.ahk
+48.  Math 1A1B. Pre-Calculus Special Factoring Formulas.ahk
 https://www.youtube.com/watch?v=rpdx8PYrNQY
 
-285129.  Math 1A1B. Pre-Calculus Square Root Addition and Subtraction.ahk
+49.  Math 1A1B. Pre-Calculus Square Root Addition and Subtraction.ahk
 https://www.youtube.com/watch?v=SZhJZRe7-wY
 
-285179.  Math 1A1B. Pre-Calculus Square Root Property.ahk
+50.  Math 1A1B. Pre-Calculus Square Root Property.ahk
 https://www.youtube.com/watch?v=7we5N1rQeaI
 
-285230.  Math 1A1B. Pre-Calculus The Set of Real Numbers.ahk
+51.  Math 1A1B. Pre-Calculus The Set of Real Numbers.ahk
 https://www.youtube.com/watch?v=TPG_W5gb4GA
 
-285282.  UC Irvine OpenCourseWare.ahk
+52.  UC Irvine OpenCourseWare.ahk
 https://www.youtube.com/watch?v=wJGR5Y-Qqac
 Math 1A1B Pre-Calculus - Algebra and Geometry Review

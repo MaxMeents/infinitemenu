@@ -1,22 +1,22 @@
 
-36.  14 Cool Apps Built on OpenAI's GPT-3 API.ahk
+1.  14 Cool Apps Built on OpenAI's GPT-3 API.ahk
 https://www.youtube.com/watch?v=G6Z_S6hs29s
 
-38.  GPT-3 Language Models are Few-Shot Learners (Paper Explained).ahk
+2.  GPT-3 Language Models are Few-Shot Learners (Paper Explained).ahk
 https://www.youtube.com/watch?v=SY5PvZrJhLE
 
-41.  How I Got Beta Access to OpenAI's GPT-3 API.ahk
+3.  How I Got Beta Access to OpenAI's GPT-3 API.ahk
 https://www.youtube.com/watch?v=7_c3zjpDvqg
 
-45.  Marty Lobdell - Study Less Study Smart.ahk
+4.  Marty Lobdell - Study Less Study Smart.ahk
 https://www.youtube.com/watch?v=IlU-zDU6aQ0
 
-50.  MIT 6.S191 (2020) Introduction to Deep Learning.ahk
+5.  MIT 6.S191 (2020) Introduction to Deep Learning.ahk
 https://www.youtube.com/watch?v=njKP3FqW3Sk
 
-56.  OpenAI GPT-3 Beginners Tutorial.ahk
+6.  OpenAI GPT-3 Beginners Tutorial.ahk
 https://www.youtube.com/watch?v=9g66yO0Jues
 
-63.  The Art of Code - Dylan Beattie.ahk
+7.  The Art of Code - Dylan Beattie.ahk
 https://www.youtube.com/watch?v=6avJHaC3C2U
 openai gpt-3

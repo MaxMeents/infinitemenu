@@ -1,298 +1,298 @@
 
-21.  A Car That Talks And Listens.ahk
+1.  A Car That Talks And Listens.ahk
 https://www.youtube.com/watch?v=u4ee9vusF9M
 
-23.  Check Engine Light On and How to Fix It.ahk
+2.  Check Engine Light On and How to Fix It.ahk
 https://www.youtube.com/watch?v=YSubYm7_e0s
 
-26.  Electrical Troubleshooting in Your Car with Power Probe.ahk
+3.  Electrical Troubleshooting in Your Car with Power Probe.ahk
 https://www.youtube.com/watch?v=LyN6U3JUR6w
 
-30.  Fuel Efficient Full Size Pick Up Truck.ahk
+4.  Fuel Efficient Full Size Pick Up Truck.ahk
 https://www.youtube.com/watch?v=YfDUJ8qnkz4
 
-35.  How to Change Automatic Transmission Fluid in Your Car.ahk
+5.  How to Change Automatic Transmission Fluid in Your Car.ahk
 https://www.youtube.com/watch?v=q-nhSpJjYyE
 
-41.  How To Change Engine Oil In Your Motorcycle.ahk
+6.  How To Change Engine Oil In Your Motorcycle.ahk
 https://www.youtube.com/watch?v=A2cx16Pq6iM
 
-48.  How To Change Spark Plugs.ahk
+7.  How To Change Spark Plugs.ahk
 https://www.youtube.com/watch?v=CpNjZgM8MD0
 
-56.  How to Check a Wheel Bearing in Your Car (Replacement).ahk
+8.  How to Check a Wheel Bearing in Your Car (Replacement).ahk
 https://www.youtube.com/watch?v=wbsUTESwOMY
 
-65.  How To Check The Compression Of An Engine.ahk
+9.  How To Check The Compression Of An Engine.ahk
 https://www.youtube.com/watch?v=ovvXnd7AhiU
 
-75.  How to Clean EGR System in Your Car (Low Flow Code P0401).ahk
+10.  How to Clean EGR System in Your Car (Low Flow Code P0401).ahk
 https://www.youtube.com/watch?v=XgfT3kuY8lc
 
-86.  How to Clean Your Car's Catalytic Converter using Lacquer Thinner.ahk
+11.  How to Clean Your Car's Catalytic Converter using Lacquer Thinner.ahk
 https://www.youtube.com/watch?v=5icTmYItwiE
 
-98.  How to Find AC Leaks in Your Car (AC Hose Replacement).ahk
+12.  How to Find AC Leaks in Your Car (AC Hose Replacement).ahk
 https://www.youtube.com/watch?v=pflucFXDuCU
 
-111.  How to Find Noises in Your Car.ahk
+13.  How to Find Noises in Your Car.ahk
 https://www.youtube.com/watch?v=pqh1oH8mEqY
 
-125.  How to Find Oil Leaks in Your Car and Fix Them.ahk
+14.  How to Find Oil Leaks in Your Car and Fix Them.ahk
 https://www.youtube.com/watch?v=LYzTyTlnsr8
 
-140.  How to Find Power Steering Leak in Your Car (Hose Replacement).ahk
+15.  How to Find Power Steering Leak in Your Car (Hose Replacement).ahk
 https://www.youtube.com/watch?v=l1boEHtawcM
 
-156.  How To Find The Right Car Repair Video.ahk
+16.  How To Find The Right Car Repair Video.ahk
 https://www.youtube.com/watch?v=uRXebs6SM1g
 
-173.  How to Find Vacuum Leaks With a Cigar (Life Hack).ahk
+17.  How to Find Vacuum Leaks With a Cigar (Life Hack).ahk
 https://www.youtube.com/watch?v=zMok2y05jNE
 
-191.  How to Fix a Brake Pedal that Sinks in Your Car (Brake Master).ahk
+18.  How to Fix a Brake Pedal that Sinks in Your Car (Brake Master).ahk
 https://www.youtube.com/watch?v=DzS4VOJwTCU
 
-210.  How to Fix a Car That Cranks But Doesn't Start.ahk
+19.  How to Fix a Car That Cranks But Doesn't Start.ahk
 https://www.youtube.com/watch?v=064Ilsz8Fzg
 
-230.  How to Fix a Car that Creaks in the Back (Sway Bar Bushings).ahk
+20.  How to Fix a Car that Creaks in the Back (Sway Bar Bushings).ahk
 https://www.youtube.com/watch?v=-WQ2USMPV1g
 
-251.  How to Fix a Car that Pulls to One Side (Tire Rotation).ahk
+21.  How to Fix a Car that Pulls to One Side (Tire Rotation).ahk
 https://www.youtube.com/watch?v=ulA-P9c20sk
 
-273.  How to Fix a Car that Randomly Dies while Driving.ahk
+22.  How to Fix a Car that Randomly Dies while Driving.ahk
 https://www.youtube.com/watch?v=zwlruD4JXmY
 
-296.  How to Fix a Drive Shaft (U-Joint Replacement).ahk
+23.  How to Fix a Drive Shaft (U-Joint Replacement).ahk
 https://www.youtube.com/watch?v=xqSwmwUfoLE
 
-320.  How to Fix a Flat Tire (Tire Plug Kit).ahk
+24.  How to Fix a Flat Tire (Tire Plug Kit).ahk
 https://www.youtube.com/watch?v=4RDX2jUfiCc
 
-345.  How to Fix a Head Gasket Leak in Your Car.ahk
+25.  How to Fix a Head Gasket Leak in Your Car.ahk
 https://www.youtube.com/watch?v=YL9QjN7AcW8
 
-371.  How To Fix a Honda That Died (Distributor Replacement).ahk
+26.  How To Fix a Honda That Died (Distributor Replacement).ahk
 https://www.youtube.com/watch?v=WLA6syjt08o
 
-398.  How to Fix a Low Oil Pressure Light in Your Car.ahk
+27.  How to Fix a Low Oil Pressure Light in Your Car.ahk
 https://www.youtube.com/watch?v=DpBOxYQtVM8
 
-426.  How to Fix a Oil Seal Leak in Your Car.ahk
+28.  How to Fix a Oil Seal Leak in Your Car.ahk
 https://www.youtube.com/watch?v=HTT0sejhoOQ
 
-455.  How to Fix a Overheating Car Engine.ahk
+29.  How to Fix a Overheating Car Engine.ahk
 https://www.youtube.com/watch?v=evpaTW2WJ5Y
 
-485.  How to Fix a Random Engine Misfire in Your Car (Code P0300).ahk
+30.  How to Fix a Random Engine Misfire in Your Car (Code P0300).ahk
 https://www.youtube.com/watch?v=OyvdWeyDHf4
 
-516.  How to Fix a Slipping Transmission in Your Car (Fluid Change).ahk
+31.  How to Fix a Slipping Transmission in Your Car (Fluid Change).ahk
 https://www.youtube.com/watch?v=WjNbeInU6-4
 
-548.  How to Fix Battery Drain in Your Car (Parasitic Draw Test).ahk
+32.  How to Fix Battery Drain in Your Car (Parasitic Draw Test).ahk
 https://www.youtube.com/watch?v=B__DqK90IIc
 
-581.  How to Fix Car AC that Blows Hot Air (AC Compressor).ahk
+33.  How to Fix Car AC that Blows Hot Air (AC Compressor).ahk
 https://www.youtube.com/watch?v=I5xfVyb_p9A
 
-615.  How to Fix Car AC that's Not Blowing Cold Air.ahk
+34.  How to Fix Car AC that's Not Blowing Cold Air.ahk
 https://www.youtube.com/watch?v=w9nt1T6qs4o
 
-650.  How to Fix Car that Overheats in Traffic (Fan Clutch).ahk
+35.  How to Fix Car that Overheats in Traffic (Fan Clutch).ahk
 https://www.youtube.com/watch?v=S5kuYkcXcUE
 
-686.  How to Fix Car with No Electrical Power and Won't Start.ahk
+36.  How to Fix Car with No Electrical Power and Won't Start.ahk
 https://www.youtube.com/watch?v=E7h5KaX2-Y8
 
-723.  How to Fix Check Engine Light That's On in Your Car.ahk
+37.  How to Fix Check Engine Light That's On in Your Car.ahk
 https://www.youtube.com/watch?v=BeInc7NSrmw
 
-761.  How to Fix Engine Idle Problems in Your Car (Rough Idle).ahk
+38.  How to Fix Engine Idle Problems in Your Car (Rough Idle).ahk
 https://www.youtube.com/watch?v=eQpPcdvSBks
 
-800.  How To Fix Leaking AC Lines In Your Car.ahk
+39.  How To Fix Leaking AC Lines In Your Car.ahk
 https://www.youtube.com/watch?v=aW9yj5UJSm4
 
-840.  How to Fix Low Oil Pressure Gauge in Your Car (Oil Pressure Sending Unit).ahk
+40.  How to Fix Low Oil Pressure Gauge in Your Car (Oil Pressure Sending Unit).ahk
 https://www.youtube.com/watch?v=8n8YS6t3qn8
 
-881.  How To Fix Noises Under Your Car's Hood.ahk
+41.  How To Fix Noises Under Your Car's Hood.ahk
 https://www.youtube.com/watch?v=2BFHzVPwfpc
 
-923.  How to Fix Oil on Spark Plugs (Valve Cover Gasket and Tubes).ahk
+42.  How to Fix Oil on Spark Plugs (Valve Cover Gasket and Tubes).ahk
 https://www.youtube.com/watch?v=9M6xWMMRe0E
 
-966.  How to Fix Power Steering in Your Car (Quick).ahk
+43.  How to Fix Power Steering in Your Car (Quick).ahk
 https://www.youtube.com/watch?v=pjId3bfMBUQ
 
-1010.  How to fix tough car repairs using a borescope.ahk
+44.  How to fix tough car repairs using a borescope.ahk
 https://www.youtube.com/watch?v=XU-YW2rfuV8
 
-1055.  How to Fix Windshield Wipers (Motor Replacement) in Your Car.ahk
+45.  How to Fix Windshield Wipers (Motor Replacement) in Your Car.ahk
 https://www.youtube.com/watch?v=z_MwHvhb_OQ
 
-1101.  How to Flush a Coolant System in Your Car (the Easy Way).ahk
+46.  How to Flush a Coolant System in Your Car (the Easy Way).ahk
 https://www.youtube.com/watch?v=mxm3E5SkHrI
 
-1148.  How To Install Seat Covers In Your Car.ahk
+47.  How To Install Seat Covers In Your Car.ahk
 https://www.youtube.com/watch?v=hn9Qqi8TjrI
 
-1196.  How to Jack Up Your Car (The Right Way).ahk
+48.  How to Jack Up Your Car (The Right Way).ahk
 https://www.youtube.com/watch?v=3UpyixFMaH4
 
-1245.  How to Remove a Car Door Panel.ahk
+49.  How to Remove a Car Door Panel.ahk
 https://www.youtube.com/watch?v=lB-TlFxgk1o
 
-1295.  How to Remove a Crankshaft Pulley in Your Car.ahk
+50.  How to Remove a Crankshaft Pulley in Your Car.ahk
 https://www.youtube.com/watch?v=7G-adEVjfWI
 
-1346.  How to Remove AC Smells in Your Car (Odor Life Hack).ahk
+51.  How to Remove AC Smells in Your Car (Odor Life Hack).ahk
 https://www.youtube.com/watch?v=VrVc_FXrbHY
 
-1398.  How to Remove Car Smells in Your Car (Odor Eliminator).ahk
+52.  How to Remove Car Smells in Your Car (Odor Eliminator).ahk
 https://www.youtube.com/watch?v=JYKN3bypcT0
 
-1451.  How To Remove Car Vent Smells (Odors).ahk
+53.  How To Remove Car Vent Smells (Odors).ahk
 https://www.youtube.com/watch?v=vgBQ5ILO_1M
 
-1505.  How to Remove Paint Scratches from Your Car (PERMANENTLY).ahk
+54.  How to Remove Paint Scratches from Your Car (PERMANENTLY).ahk
 https://www.youtube.com/watch?v=rxni0iqsP0o
 
-1560.  How to Repair a Cooling Fan in Your Car.ahk
+55.  How to Repair a Cooling Fan in Your Car.ahk
 https://www.youtube.com/watch?v=iUuK5t-9fiQ
 
-1616.  How to Replace a Blower Motor in Your Car.ahk
+56.  How to Replace a Blower Motor in Your Car.ahk
 https://www.youtube.com/watch?v=4edK8fa-Ypg
 
-1673.  How to Replace a Brake Master Cylinder in Your Car (Bleed Brakes).ahk
+57.  How to Replace a Brake Master Cylinder in Your Car (Bleed Brakes).ahk
 https://www.youtube.com/watch?v=Uz4OwuUGVOA
 
-1731.  How to Replace a Catalytic Converter in Your Car (Code P0420).ahk
+58.  How to Replace a Catalytic Converter in Your Car (Code P0420).ahk
 https://www.youtube.com/watch?v=3nmzq7gZJ20
 
-1790.  How to Replace a Clutch in Your Car.ahk
+59.  How to Replace a Clutch in Your Car.ahk
 https://www.youtube.com/watch?v=Ppg_70IM_qQ
 
-1850.  How to Replace a Crankshaft Position Sensor in Your Car (Code P0335).ahk
+60.  How to Replace a Crankshaft Position Sensor in Your Car (Code P0335).ahk
 https://www.youtube.com/watch?v=c9UwrVNXXzo
 
-1911.  How to Replace a Fuel Pump in Your Car.ahk
+61.  How to Replace a Fuel Pump in Your Car.ahk
 https://www.youtube.com/watch?v=jM6jCMH8w8k
 
-1973.  How to Replace a Intake Manifold Gasket in Your Car.ahk
+62.  How to Replace a Intake Manifold Gasket in Your Car.ahk
 https://www.youtube.com/watch?v=0huAd-CusBo
 
-2036.  How to Replace a Mass Air Flow Sensor on Your Car.ahk
+63.  How to Replace a Mass Air Flow Sensor on Your Car.ahk
 https://www.youtube.com/watch?v=ck5-GHuSApE
 
-2100.  How to Replace a Motor Mount in Your Car.ahk
+64.  How to Replace a Motor Mount in Your Car.ahk
 https://www.youtube.com/watch?v=2I5QCpbX6Go
 
-2165.  How to Replace a Radiator in Your Car.ahk
+65.  How to Replace a Radiator in Your Car.ahk
 https://www.youtube.com/watch?v=dV4iNwjLav4
 
-2231.  How to Replace a Serpentine Belt in Your Car (Fan Belt).ahk
+66.  How to Replace a Serpentine Belt in Your Car (Fan Belt).ahk
 https://www.youtube.com/watch?v=O4aqIiWR9JU
 
-2298.  How to Replace a Starter in Your Car.ahk
+67.  How to Replace a Starter in Your Car.ahk
 https://www.youtube.com/watch?v=0M2rUPgeDQw
 
-2366.  How To Replace a Valve Cover Gasket.ahk
+68.  How To Replace a Valve Cover Gasket.ahk
 https://www.youtube.com/watch?v=LeH4h0aEmsI
 
-2435.  How To Replace a Water Pump.ahk
+69.  How To Replace a Water Pump.ahk
 https://www.youtube.com/watch?v=2GPYhQx6aQA
 
-2505.  How to Replace AC Compressor in Your Car.ahk
+70.  How to Replace AC Compressor in Your Car.ahk
 https://www.youtube.com/watch?v=9ULcit40Ilc
 
-2576.  How to Replace Alternator in Your Car.ahk
+71.  How to Replace Alternator in Your Car.ahk
 https://www.youtube.com/watch?v=CfX-TyuEBOw
 
-2648.  How to Replace an Engine in Your Car (Swap).ahk
+72.  How to Replace an Engine in Your Car (Swap).ahk
 https://www.youtube.com/watch?v=DiGZT14iO4Q
 
-2721.  How to Replace an Expansion Valve in Your Car.ahk
+73.  How to Replace an Expansion Valve in Your Car.ahk
 https://www.youtube.com/watch?v=RkKry31lk1E
 
-2795.  How to Replace Brake Rotors on Your Car.ahk
+74.  How to Replace Brake Rotors on Your Car.ahk
 https://www.youtube.com/watch?v=oyalDCftJZA
 
-2870.  How to Replace Clutch Master Cylinder in Your Car.ahk
+75.  How to Replace Clutch Master Cylinder in Your Car.ahk
 https://www.youtube.com/watch?v=tzpRsCPtT9g
 
-2946.  How to Replace Drum Brakes on Your Car.ahk
+76.  How to Replace Drum Brakes on Your Car.ahk
 https://www.youtube.com/watch?v=aaJ6X-uxMGM
 
-3023.  How to Replace Fuel Injectors in Your Car.ahk
+77.  How to Replace Fuel Injectors in Your Car.ahk
 https://www.youtube.com/watch?v=hEIP9ZYnnRc
 
-3101.  How to Replace Ignition Switch in Your Car.ahk
+78.  How to Replace Ignition Switch in Your Car.ahk
 https://www.youtube.com/watch?v=MMR-a2n05gc
 
-3180.  How to Replace Power Steering Pump in Your Car.ahk
+79.  How to Replace Power Steering Pump in Your Car.ahk
 https://www.youtube.com/watch?v=4zVPkhnz6k8
 
-3260.  How to Replace Struts on a Honda.ahk
+80.  How to Replace Struts on a Honda.ahk
 https://www.youtube.com/watch?v=QUjquuIMBvA
 
-3341.  How to Replace Tie Rod Ends in Your Car.ahk
+81.  How to Replace Tie Rod Ends in Your Car.ahk
 https://www.youtube.com/watch?v=TYIDzXxeNwk
 
-3423.  How to Rewire Power Through Ignition Switch in Your Car.ahk
+82.  How to Rewire Power Through Ignition Switch in Your Car.ahk
 https://www.youtube.com/watch?v=DAOA5fP4Wvk
 
-3506.  How To Safely Fix Your Own Car.ahk
+83.  How To Safely Fix Your Own Car.ahk
 https://www.youtube.com/watch?v=2Mg3mGIPBYQ
 
-3590.  How To Save When Buying Car Parts (Junkyard).ahk
+84.  How To Save When Buying Car Parts (Junkyard).ahk
 https://www.youtube.com/watch?v=AjGcPIIXEZc
 
-3675.  How to Stop a Engine Oil Leak in Your Car (Oil Pump Seal).ahk
+85.  How to Stop a Engine Oil Leak in Your Car (Oil Pump Seal).ahk
 https://www.youtube.com/watch?v=OXFbK5Aber8
 
-3761.  How to Stop Car Clunks (Sway Bar Bushing and Links).ahk
+86.  How to Stop Car Clunks (Sway Bar Bushing and Links).ahk
 https://www.youtube.com/watch?v=xP-oP_7zFkk
 
-3848.  How to Stop Steering Wheel from Shaking (Lower Control Arm).ahk
+87.  How to Stop Steering Wheel from Shaking (Lower Control Arm).ahk
 https://www.youtube.com/watch?v=R62cw--wl1E
 
-3936.  How To Stop Unexpected Car Acceleration.ahk
+88.  How To Stop Unexpected Car Acceleration.ahk
 https://www.youtube.com/watch?v=FeWO0QefnSI
 
-4025.  How to Tell if Your Head Gasket is Blown.ahk
+89.  How to Tell if Your Head Gasket is Blown.ahk
 https://www.youtube.com/watch?v=QA7KVQq9vKA
 
-4115.  How to Test Fuel Injectors in Your Car.ahk
+90.  How to Test Fuel Injectors in Your Car.ahk
 https://www.youtube.com/watch?v=UrqyrI5aNl0
 
-4206.  How to use AC Gauges in Your Car (AC Problems).ahk
+91.  How to use AC Gauges in Your Car (AC Problems).ahk
 https://www.youtube.com/watch?v=80jSH8VQZms
 
-4298.  How To Use Google To Fix Your Car.ahk
+92.  How To Use Google To Fix Your Car.ahk
 https://www.youtube.com/watch?v=rA_e1xFq6OU
 
-4391.  Hybrid Car Electrical Problems.ahk
+93.  Hybrid Car Electrical Problems.ahk
 https://www.youtube.com/watch?v=gYpIjnBGL-E
 
-4485.  Simple Car Maintenance to Prevent Expensive Repairs.ahk
+94.  Simple Car Maintenance to Prevent Expensive Repairs.ahk
 https://www.youtube.com/watch?v=GaKKSFEsAdI
 
-4580.  The Best Automatic Transmission Fluid for Your Car (Synthetic).ahk
+95.  The Best Automatic Transmission Fluid for Your Car (Synthetic).ahk
 https://www.youtube.com/watch?v=dntD3XmI8DM
 
-4676.  Top 4 Car Guy Gadgets and Tools.ahk
+96.  Top 4 Car Guy Gadgets and Tools.ahk
 https://www.youtube.com/watch?v=qrSsukmnq60
 
-4773.  Top 4 Dumb Things NOT to do to Your Car.ahk
+97.  Top 4 Dumb Things NOT to do to Your Car.ahk
 https://www.youtube.com/watch?v=09o07bh0k-4
 
-4871.  Top 4 Mistakes Car Owners Make (DIY Fails).ahk
+98.  Top 4 Mistakes Car Owners Make (DIY Fails).ahk
 https://www.youtube.com/watch?v=jLlM0K0Tr8o
 
-4970.  Top 6 Stupid Mistakes Car Owners Make (DIY Fails).ahk
+99.  Top 6 Stupid Mistakes Car Owners Make (DIY Fails).ahk
 https://www.youtube.com/watch?v=y4CEk94cw-Q
 Car - Fix problem with your car

@@ -1,40 +1,40 @@
 
-133275.  Absolute Value Equations - How to Solve (Learn Algebra 1).ahk
+1.  Absolute Value Equations - How to Solve (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=IsvdlrVpQAo
 
-133277.  Discriminant How Many Solutions (Learn Algebra 1).ahk
+2.  Discriminant How Many Solutions (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=yWpgwu9rvOw
 
-133280.  Distributive Property (Learn Algebra 1).ahk
+3.  Distributive Property (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=IAIi3L7-CP8
 
-133284.  Graphing Lines Intercept Method (Learn Algebra 1).ahk
+4.  Graphing Lines Intercept Method (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=ebADMFjnOvg
 
-133289.  Learn Algebra 1 Substitution Method.ahk
+5.  Learn Algebra 1 Substitution Method.ahk
 https://www.youtube.com/watch?v=oujSyWcHOsM
 
-133295.  Negative Exponents How to Simplify (Learn Algebra 1).ahk
+6.  Negative Exponents How to Simplify (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=Aksxvzixg9o
 
-133302.  Order of Operations - PEMDAS (Learn Algebra 1).ahk
+7.  Order of Operations - PEMDAS (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=0MKafhRHolM
 
-133310.  Percent Equations How to Solve (Learn Algebra 1).ahk
+8.  Percent Equations How to Solve (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=OXT8IpmKD6c
 
-133319.  Polynomial Long Division (Learn Algebra 1).ahk
+9.  Polynomial Long Division (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=_SuZODlCexQ
 
-133329.  Probability Compound Events (Learn Algebra 1).ahk
+10.  Probability Compound Events (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=RPPa7Ohncds
 
-133340.  Square Roots Graphing (Learn Algebra 1).ahk
+11.  Square Roots Graphing (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=RyYjLAmFzqg
 
-133352.  Standard Form of the Equation of a Line (Learn Algebra 1).ahk
+12.  Standard Form of the Equation of a Line (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=a3ITq2tM6FU
 
-133365.  Zero Product Property (Learn Algebra 1).ahk
+13.  Zero Product Property (Learn Algebra 1).ahk
 https://www.youtube.com/watch?v=j7o8R3MegL4
 Learn Algebra 1

@@ -1,463 +1,463 @@
 
-95047.  03 Alarms.ahk
+1.  03 Alarms.ahk
 https://www.youtube.com/watch?v=uTnedP8Gl6A
 
-95049.  5 Minute Head to Toe Assessment.ahk
+2.  5 Minute Head to Toe Assessment.ahk
 https://www.youtube.com/watch?v=ZaLzUUbZAD0
 
-95052.  ABG Stick Demo part 1.ahk
+3.  ABG Stick Demo part 1.ahk
 https://www.youtube.com/watch?v=ouLDUsQmduo
 
-95056.  ABG Stick Demo Part 2.ahk
+4.  ABG Stick Demo Part 2.ahk
 https://www.youtube.com/watch?v=5IRu-VASHxE
 
-95061.  ABG Stick Demo Part 3.ahk
+5.  ABG Stick Demo Part 3.ahk
 https://www.youtube.com/watch?v=LY3b3jwv1fk
 
-95067.  AbViser IAP Placement.ahk
+6.  AbViser IAP Placement.ahk
 https://www.youtube.com/watch?v=TJZSumHtWTg
 
-95074.  AccuVein AV400 Training Video.ahk
+7.  AccuVein AV400 Training Video.ahk
 https://www.youtube.com/watch?v=Hk3ourZT1XY
 
-95082.  Adenosine Administration.ahk
+8.  Adenosine Administration.ahk
 https://www.youtube.com/watch?v=H9xt5eerMW4
 
-95091.  Advanced Airway Management Techniques.ahk
+9.  Advanced Airway Management Techniques.ahk
 https://www.youtube.com/watch?v=eOfeLj8_43A
 
-95101.  Applying a Miami J Collar.ahk
+10.  Applying a Miami J Collar.ahk
 https://www.youtube.com/watch?v=m_YU6Mdyzw8
 
-95112.  ART-LINE™ Blood Pressure Monitoring and Needle-Free Blood Sampling - BIOMETRIX.ahk
+11.  ART-LINE™ Blood Pressure Monitoring and Needle-Free Blood Sampling - BIOMETRIX.ahk
 https://www.youtube.com/watch?v=DuExBjzS7Mo
 
-95124.  Arterial and CVP line setup (1973513).ahk
+12.  Arterial and CVP line setup (1973513).ahk
 https://www.youtube.com/watch?v=GXgE-ANcxDc
 
-95137.  Arterial and CVP line setup.ahk
+13.  Arterial and CVP line setup.ahk
 https://www.youtube.com/watch?v=GXgE-ANcxDc
 
-95151.  Arterial Blood Gas Sampling (ABG) - OSCE Guide.ahk
+14.  Arterial Blood Gas Sampling (ABG) - OSCE Guide.ahk
 https://www.youtube.com/watch?v=zC-7y-VR7ZM
 
-95166.  Arterial Blood Gas Sampling Procedure (1931978).ahk
+15.  Arterial Blood Gas Sampling Procedure (1931978).ahk
 https://www.youtube.com/watch?v=tv7GnAUgKjM
 
-95182.  Arterial Blood Gas Sampling Procedure.ahk
+16.  Arterial Blood Gas Sampling Procedure.ahk
 https://www.youtube.com/watch?v=tv7GnAUgKjM
 
-95199.  Arterial Line Insertion.ahk
+17.  Arterial Line Insertion.ahk
 https://www.youtube.com/watch?v=6--8J4iqGEY
 
-95217.  Arterial Line Removal Video Lecture.ahk
+18.  Arterial Line Removal Video Lecture.ahk
 https://www.youtube.com/watch?v=S3xckiXXOZE
 
-95236.  Arterial Puncture for Blood Gas Analysis.flv.ahk
+19.  Arterial Puncture for Blood Gas Analysis.flv.ahk
 https://www.youtube.com/watch?v=YuFK22n-tvI
 
-95256.  Assessing Lung Sounds Part 1.ahk
+20.  Assessing Lung Sounds Part 1.ahk
 https://www.youtube.com/watch?v=hCZ-25aCxHs
 
-95277.  Attaching an oxygen regulator.ahk
+21.  Attaching an oxygen regulator.ahk
 https://www.youtube.com/watch?v=DcW04sY8S0w
 
-95299.  Autotransfusion and youinstructional video.ahk
+22.  Autotransfusion and youinstructional video.ahk
 https://www.youtube.com/watch?v=1zlSK3gQkms
 
-95322.  Bengmark Naso-Intestinal tube.ahk
+23.  Bengmark Naso-Intestinal tube.ahk
 https://www.youtube.com/watch?v=HUv13Xy0GwE
 
-95346.  Best Practice for Obtaining an Intra-abdominal Pressure.ahk
+24.  Best Practice for Obtaining an Intra-abdominal Pressure.ahk
 https://www.youtube.com/watch?v=CyS4irwuUlA
 
-95371.  Blood Culture Collection Steps  Blood Collection (Rx-TN).ahk
+25.  Blood Culture Collection Steps  Blood Collection (Rx-TN).ahk
 https://www.youtube.com/watch?v=qiqVAdZPc8A
 
-95397.  Brain and head injuries lesson 1, Introduction, intracranial pressure and level of consciousness.ahk
+26.  Brain and head injuries lesson 1, Introduction, intracranial pressure and level of consciousness.ahk
 https://www.youtube.com/watch?v=9ymHZRDMEBc
 
-95424.  CADD Solis Tutorial.ahk
+27.  CADD Solis Tutorial.ahk
 https://www.youtube.com/watch?v=GZZT86_wT3M
 
-95452.  Cardiac Pacing (Failure to CaptureFailure to Sense).ahk
+28.  Cardiac Pacing (Failure to CaptureFailure to Sense).ahk
 https://www.youtube.com/watch?v=vC9iTS8GOqk
 
-95481.  Cardioversion of Atrial Flutter.ahk
+29.  Cardioversion of Atrial Flutter.ahk
 https://www.youtube.com/watch?v=d7ymmR8WuYE
 
-95511.  Central line blood draw.ahk
+30.  Central line blood draw.ahk
 https://www.youtube.com/watch?v=k3GhZJ6gLFU
 
-95542.  Central Line Dressing and Cap Changes.ahk
+31.  Central Line Dressing and Cap Changes.ahk
 https://www.youtube.com/watch?v=urGR0IFAxPM
 
-95574.  Central Lines and IV Push and Piggyback Medications.ahk
+32.  Central Lines and IV Push and Piggyback Medications.ahk
 https://www.youtube.com/watch?v=BwbEI23DIpE
 
-95607.  Changing A Wound VAC Dressing - My Experience!.ahk
+33.  Changing A Wound VAC Dressing - My Experience!.ahk
 https://www.youtube.com/watch?v=skLm5D3KY-4
 
-95641.  Changing and Flushing a Central Line Access Cap.ahk
+34.  Changing and Flushing a Central Line Access Cap.ahk
 https://www.youtube.com/watch?v=TnSmjDDRwkg
 
-95676.  Chest Tubes.ahk
+35.  Chest Tubes.ahk
 https://www.youtube.com/watch?v=x_14I9ANZG8
 
-95712.  CIWA Ar and Rass Training.ahk
+36.  CIWA Ar and Rass Training.ahk
 https://www.youtube.com/watch?v=NUKigZjcGy4
 
-95749.  Clinical Brain Death Testing.ahk
+37.  Clinical Brain Death Testing.ahk
 https://www.youtube.com/watch?v=qiZBGFWvv4E
 
-95787.  Clinical Clearance of the Cervical Spine.ahk
+38.  Clinical Clearance of the Cervical Spine.ahk
 https://www.youtube.com/watch?v=NhjF9kDOcjE
 
-95826.  Clinical Complications of Tracheostomy.ahk
+39.  Clinical Complications of Tracheostomy.ahk
 https://www.youtube.com/watch?v=UCYBGRj4Teo
 
-95866.  Code Blue.ahk
+40.  Code Blue.ahk
 https://www.youtube.com/watch?v=U1zq4T7MEWw
 
-95907.  Cuff care for ETTTrach.ahk
+41.  Cuff care for ETTTrach.ahk
 https://www.youtube.com/watch?v=NBKV3zuzlJE
 
-95949.  CVP and Arterial Line Waveform Interpretation.ahk
+42.  CVP and Arterial Line Waveform Interpretation.ahk
 https://www.youtube.com/watch?v=8xpKr1t7YQE
 
-95992.  CVP Monitor Set-up.ahk
+43.  CVP Monitor Set-up.ahk
 https://www.youtube.com/watch?v=JWf0NSQtWKs
 
-96036.  Daily Assessment of an ICU patient.ahk
+44.  Daily Assessment of an ICU patient.ahk
 https://www.youtube.com/watch?v=6eTQ1MxBcGg
 
-96081.  Declotting picc no sound.ahk
+45.  Declotting picc no sound.ahk
 https://www.youtube.com/watch?v=RHj2bME-Bc4
 
-96127.  Draw Arterial Blood from the Radial Artery.ahk
+46.  Draw Arterial Blood from the Radial Artery.ahk
 https://www.youtube.com/watch?v=71LlfdW548U
 
-96174.  Drawing Up Medication from an Ampule.ahk
+47.  Drawing Up Medication from an Ampule.ahk
 https://www.youtube.com/watch?v=rMrJ4MKpHRw
 
-96222.  Duet External Drainage and Monitoring System set-up.ahk
+48.  Duet External Drainage and Monitoring System set-up.ahk
 https://www.youtube.com/watch?v=PI3BThIxnB0
 
-96271.  EM Procedures - Central Line Part 1.ahk
+49.  EM Procedures - Central Line Part 1.ahk
 https://www.youtube.com/watch?v=6KHM-IVF5Ek
 
-96321.  EMS Skills - ALS Medication Preparation and Administration.ahk
+50.  EMS Skills - ALS Medication Preparation and Administration.ahk
 https://www.youtube.com/watch?v=t5xruyc8OUM
 
-96372.  EPIC Master Trainer Training Part 2 of 7 - Dr. Dan Spaite.ahk
+51.  EPIC Master Trainer Training Part 2 of 7 - Dr. Dan Spaite.ahk
 https://www.youtube.com/watch?v=72s55ijsgwM
 
-96424.  EVD Closed Zero CSTARS CCATT.ahk
+52.  EVD Closed Zero CSTARS CCATT.ahk
 https://www.youtube.com/watch?v=svkrbBC_As8
 
-96477.  EVD Infection Control Protocol - Placement.ahk
+53.  EVD Infection Control Protocol - Placement.ahk
 https://www.youtube.com/watch?v=kmBh_6wSxI0
 
-96531.  EVD Level and Open Zero CSTARS CCATT.ahk
+54.  EVD Level and Open Zero CSTARS CCATT.ahk
 https://www.youtube.com/watch?v=_2quwzlmyqk
 
-96586.  EVD Set Up Rhoads 2 (1597057).ahk
+55.  EVD Set Up Rhoads 2 (1597057).ahk
 https://www.youtube.com/watch?v=cquTu27YU-M
 
-96642.  EVD Set Up Rhoads 2 (1646881).ahk
+56.  EVD Set Up Rhoads 2 (1646881).ahk
 https://www.youtube.com/watch?v=cquTu27YU-M
 
-96699.  EVD Set Up Rhoads 2.ahk
+57.  EVD Set Up Rhoads 2.ahk
 https://www.youtube.com/watch?v=cquTu27YU-M
 
-96757.  EVD Stopcock Positions CSTARS CCATT.ahk
+58.  EVD Stopcock Positions CSTARS CCATT.ahk
 https://www.youtube.com/watch?v=YRv3oX1Urws
 
-96816.  Finding Valves for IV administration..ahk
+59.  Finding Valves for IV administration..ahk
 https://www.youtube.com/watch?v=G5stuI2D9fI
 
-96876.  FIRST ICU SHIFT & FEELING DEFEATED.ahk
+60.  FIRST ICU SHIFT & FEELING DEFEATED.ahk
 https://www.youtube.com/watch?v=qYTrfHGX7io
 
-96937.  Fixed Split Second Heart Sound.ahk
+61.  Fixed Split Second Heart Sound.ahk
 https://www.youtube.com/watch?v=pgDEvXzMCHI
 
-96999.  Flexi-Seal™ SIGNAL™ FMS instruction video.ahk
+62.  Flexi-Seal™ SIGNAL™ FMS instruction video.ahk
 https://www.youtube.com/watch?v=59QVgawKuTQ
 
-97062.  Flotrac Set up.ahk
+63.  Flotrac Set up.ahk
 https://www.youtube.com/watch?v=cYbUc7TyeZI
 
-97126.  Fluid Resuscitation and Intra-Abdominal Hypertension (AbViser with Transducer).ahk
+64.  Fluid Resuscitation and Intra-Abdominal Hypertension (AbViser with Transducer).ahk
 https://www.youtube.com/watch?v=Fgw7SzEuDDI
 
-97191.  Gaylord Hospital Using the Passy Muir Speaking Valve.ahk
+65.  Gaylord Hospital Using the Passy Muir Speaking Valve.ahk
 https://www.youtube.com/watch?v=AlxHAqxTLYM
 
-97257.  Glasgow Coma Scale at 40  The new approach to Glasgow Coma Scale assessment.ahk
+66.  Glasgow Coma Scale at 40  The new approach to Glasgow Coma Scale assessment.ahk
 https://www.youtube.com/watch?v=v6qpEQxJQO4
 
-97324.  Haemodynamics Part 6 Arterial Line.ahk
+67.  Haemodynamics Part 6 Arterial Line.ahk
 https://www.youtube.com/watch?v=9dtotiUkAxE
 
-97392.  HCMC Emergency Nursing Education Alsius Review.ahk
+68.  HCMC Emergency Nursing Education Alsius Review.ahk
 https://www.youtube.com/watch?v=4UQNMyTvG5Q
 
-97461.  Hemodynamic Principles.ahk
+69.  Hemodynamic Principles.ahk
 https://www.youtube.com/watch?v=vEGx99SU0sI
 
-97531.  Hepatology Hepatic Encephalopathy (1829065).ahk
+70.  Hepatology Hepatic Encephalopathy (1829065).ahk
 https://www.youtube.com/watch?v=hhf67VyZ0KU
 
-97602.  Hepatology Hepatic Encephalopathy.ahk
+71.  Hepatology Hepatic Encephalopathy.ahk
 https://www.youtube.com/watch?v=hhf67VyZ0KU
 
-97674.  History of crash cart and review of its contents.ahk
+72.  History of crash cart and review of its contents.ahk
 https://www.youtube.com/watch?v=UKI0K4w3syk
 
-97747.  How to Bandage a Hand.ahk
+73.  How to Bandage a Hand.ahk
 https://www.youtube.com/watch?v=TNQxlxjD5Kw
 
-97821.  How to change your Xeroform bandage.ahk
+74.  How to change your Xeroform bandage.ahk
 https://www.youtube.com/watch?v=tgUdG2rWBGk
 
-97896.  How to do a blood transfusion.ahk
+75.  How to do a blood transfusion.ahk
 https://www.youtube.com/watch?v=WJuqiTEc2tk
 
-97972.  How to listen to heart sounds in 20 MINUTES What You Need to KNOW.ahk
+76.  How to listen to heart sounds in 20 MINUTES What You Need to KNOW.ahk
 https://www.youtube.com/watch?v=NrdZhCXtc7Q
 
-98049.  How to make a double blood pressure transducer.ahk
+77.  How to make a double blood pressure transducer.ahk
 https://www.youtube.com/watch?v=2f-c0bYgR64
 
-98127.  How to make a single blood pressure transducer.ahk
+78.  How to make a single blood pressure transducer.ahk
 https://www.youtube.com/watch?v=Bihsju-kntI
 
-98206.  How to Setup an Arterial Line Transducer.ahk
+79.  How to Setup an Arterial Line Transducer.ahk
 https://www.youtube.com/watch?v=vJ_anWmQbUM
 
-98286.  How to start an IV.ahk
+80.  How to start an IV.ahk
 https://www.youtube.com/watch?v=y9dqV0WANLg
 
-98367.  How to take an arterial blood gas sample from the radial artery.ahk
+81.  How to take an arterial blood gas sample from the radial artery.ahk
 https://www.youtube.com/watch?v=MSdama_0LXc
 
-98449.  Hyperreflexia, clonus and positive Hoffman's sign.ahk
+82.  Hyperreflexia, clonus and positive Hoffman's sign.ahk
 https://www.youtube.com/watch?v=PPPgTq3L6k4
 
-98532.  Hypothermia Set Up Post Cardiac Arrest.ahk
+83.  Hypothermia Set Up Post Cardiac Arrest.ahk
 https://www.youtube.com/watch?v=wgxyrLCQKIw
 
-98616.  IAP monitor.ahk
+84.  IAP monitor.ahk
 https://www.youtube.com/watch?v=uwhcHg43Wzc
 
-98701.  ICP 1.ahk
+85.  ICP 1.ahk
 https://www.youtube.com/watch?v=oeLCiecrMuE
 
-98787.  IV infusion start.ahk
+86.  IV infusion start.ahk
 https://www.youtube.com/watch?v=GW7-PeFaUjc
 
-98874.  Jennifer - T-Piece Trial.ahk
+87.  Jennifer - T-Piece Trial.ahk
 https://www.youtube.com/watch?v=bR9lCKFZWKE
 
-98962.  Level one transfuser.ahk
+88.  Level one transfuser.ahk
 https://www.youtube.com/watch?v=1PaQgD4ir2g
 
-99051.  Level1Infuser.ahk
+89.  Level1Infuser.ahk
 https://www.youtube.com/watch?v=0FB6y0mY_UA
 
-99141.  Lungs Sounds Made Super Easy - CME4LIFE.ahk
+90.  Lungs Sounds Made Super Easy - CME4LIFE.ahk
 https://www.youtube.com/watch?v=kP1nwEOCO14
 
-99232.  MCC Nursing Trach Suctioning 2210.ahk
+91.  MCC Nursing Trach Suctioning 2210.ahk
 https://www.youtube.com/watch?v=wL2mkjewXRE
 
-99324.  Medical School - Intravenous Fluids Made Easy.ahk
+92.  Medical School - Intravenous Fluids Made Easy.ahk
 https://www.youtube.com/watch?v=gsn9smge83U
 
-99417.  Monitoring Ventilation with Capnography (Monitorizarea ventilatiei cu Capnografia).ahk
+93.  Monitoring Ventilation with Capnography (Monitorizarea ventilatiei cu Capnografia).ahk
 https://www.youtube.com/watch?v=f1Y73DapdlM
 
-99511.  Nasogastric Tube Self Insertion.ahk
+94.  Nasogastric Tube Self Insertion.ahk
 https://www.youtube.com/watch?v=2acxUKeOinw
 
-99606.  NCLEX Tutor EKG strips for the NCLEX & beginners.ahk
+95.  NCLEX Tutor EKG strips for the NCLEX & beginners.ahk
 https://www.youtube.com/watch?v=kZ-2NJRa0uw
 
-99702.  NEMS sigma spectrum pump in basic mode.ahk
+96.  NEMS sigma spectrum pump in basic mode.ahk
 https://www.youtube.com/watch?v=GnPK2TJco-0
 
-99799.  Neph Tube.ahk
+97.  Neph Tube.ahk
 https://www.youtube.com/watch?v=iooaqBlxAXk
 
-99897.  Nurse Knowledge Exchange Critical Care.ahk
+98.  Nurse Knowledge Exchange Critical Care.ahk
 https://www.youtube.com/watch?v=3zY7AAQX2mk
 
-99996.  nurses role in arterial line insertion.ahk
+99.  nurses role in arterial line insertion.ahk
 https://www.youtube.com/watch?v=ZEr-ajeLobM
 
-100096.  nurses role in central line insertion.ahk
+100.  nurses role in central line insertion.ahk
 https://www.youtube.com/watch?v=vVDGMSq_JB4
 
-100197.  Nursing Simulation Scenario Code Blue.ahk
+101.  Nursing Simulation Scenario Code Blue.ahk
 https://www.youtube.com/watch?v=EMAH_-SWrrg
 
-100299.  Off of Mechanical Ventilation and Out of the ICU.ahk
+102.  Off of Mechanical Ventilation and Out of the ICU.ahk
 https://www.youtube.com/watch?v=8IjADnVbBz4
 
-100402.  Oxygen Tanks and Regulators - How-Do-I Video.ahk
+103.  Oxygen Tanks and Regulators - How-Do-I Video.ahk
 https://www.youtube.com/watch?v=AtyUn0aBYiw
 
-100506.  Passy-Muir Trach and Vent Swallowing and Speaking Valves Clinical Inservice.ahk
+104.  Passy-Muir Trach and Vent Swallowing and Speaking Valves Clinical Inservice.ahk
 https://www.youtube.com/watch?v=ucjXYkpKB-4
 
-100611.  PCA Setup Part 2.ahk
+105.  PCA Setup Part 2.ahk
 https://www.youtube.com/watch?v=kXaMW754Hk4
 
-100717.  Phlebotomy Order of Draw (Part 1).ahk
+106.  Phlebotomy Order of Draw (Part 1).ahk
 https://www.youtube.com/watch?v=KDawvLDdq50
 
-100824.  Phlebotomy Syringe Draw Procedure  Blood Collection (Rx-TN).ahk
+107.  Phlebotomy Syringe Draw Procedure  Blood Collection (Rx-TN).ahk
 https://www.youtube.com/watch?v=7NSEFVbzTAU
 
-100932.  PICC line Blood Draw.ahk
+108.  PICC line Blood Draw.ahk
 https://www.youtube.com/watch?v=qleKCmrFcs4
 
-101041.  PICC line Cap change.ahk
+109.  PICC line Cap change.ahk
 https://www.youtube.com/watch?v=wIpYkyC-yy8
 
-101151.  PICC line Dressing change with Biopatch and Griplock (Griplok).ahk
+110.  PICC line Dressing change with Biopatch and Griplock (Griplok).ahk
 https://www.youtube.com/watch?v=KE_CHSIPbl4
 
-101262.  Pin Care - IlizarovTaylor Spatial Frame.ahk
+111.  Pin Care - IlizarovTaylor Spatial Frame.ahk
 https://www.youtube.com/watch?v=Tz25yM5UDyI
 
-101374.  Precep catheter and Scvo2.ahk
+112.  Precep catheter and Scvo2.ahk
 https://www.youtube.com/watch?v=Ao-CPPZm3-I
 
-101487.  Preload and Afterload Animation (What do they mean How to measure).ahk
+113.  Preload and Afterload Animation (What do they mean How to measure).ahk
 https://www.youtube.com/watch?v=gn0npTssZmA
 
-101601.  Preload vs Afterload II How to treat altered levels, Normal values.ahk
+114.  Preload vs Afterload II How to treat altered levels, Normal values.ahk
 https://www.youtube.com/watch?v=k3IjqxDEiRU
 
-101716.  Pulmonary Artery (Swan Ganz) Catheter.ahk
+115.  Pulmonary Artery (Swan Ganz) Catheter.ahk
 https://www.youtube.com/watch?v=l1MEY9Amvug
 
-101832.  Pulmonary artery catheter insertion- The nurses role.ahk
+116.  Pulmonary artery catheter insertion- The nurses role.ahk
 https://www.youtube.com/watch?v=yUUiWX5QTKk
 
-101949.  Sample Procedure - Venipuncture Butterfly Method.ahk
+117.  Sample Procedure - Venipuncture Butterfly Method.ahk
 https://www.youtube.com/watch?v=_7mcbUCgDPY
 
-102067.  Sedation in the ICU.ahk
+118.  Sedation in the ICU.ahk
 https://www.youtube.com/watch?v=Ih5alA3XlAs
 
-102186.  Set-up of the Exacta External Drainage and Monitoring System.ahk
+119.  Set-up of the Exacta External Drainage and Monitoring System.ahk
 https://www.youtube.com/watch?v=BFgDLTBuXWc
 
-102306.  Setting Up Pressure Transducer (1868475).ahk
+120.  Setting Up Pressure Transducer (1868475).ahk
 https://www.youtube.com/watch?v=uv6t1raryjM
 
-102427.  Setting Up Pressure Transducer.ahk
+121.  Setting Up Pressure Transducer.ahk
 https://www.youtube.com/watch?v=uv6t1raryjM
 
-102549.  Setup and Operation of Atrium Autotransfusion for Chest Drains and ATS Blood Bags.ahk
+122.  Setup and Operation of Atrium Autotransfusion for Chest Drains and ATS Blood Bags.ahk
 https://www.youtube.com/watch?v=WknbHqvotE4
 
-102672.  SNSVU CT Part 2 How to Setup Chest Tube Drainage Units.ahk
+123.  SNSVU CT Part 2 How to Setup Chest Tube Drainage Units.ahk
 https://www.youtube.com/watch?v=Kt0KRb7iSOI
 
-102796.  SNSVU CT Part 3 RN Management of CDUs.ahk
+124.  SNSVU CT Part 3 RN Management of CDUs.ahk
 https://www.youtube.com/watch?v=WBoSG95ihDo
 
-102921.  Spine Clearance for Nurses.ahk
+125.  Spine Clearance for Nurses.ahk
 https://www.youtube.com/watch?v=4t6mLQHNWlk
 
-103047.  Split S2 Cardiac Auscultation Inspiration, Wide, Paradoxical, Fixed  Pulmonic Aortic Stenosis, ASD.ahk
+126.  Split S2 Cardiac Auscultation Inspiration, Wide, Paradoxical, Fixed  Pulmonic Aortic Stenosis, ASD.ahk
 https://www.youtube.com/watch?v=Nz54yqldtR8
 
-103174.  stopcock declotting by IV Team KKUH.ahk
+127.  stopcock declotting by IV Team KKUH.ahk
 https://www.youtube.com/watch?v=pBBoHYrdl0k
 
-103302.  Stroke Patient Examination.ahk
+128.  Stroke Patient Examination.ahk
 https://www.youtube.com/watch?v=LR2neCLmbyY
 
-103431.  student attempt at arterial line sample.ahk
+129.  student attempt at arterial line sample.ahk
 https://www.youtube.com/watch?v=o7iC8GCUAJU
 
-103561.  Swan Catheter Setup.ahk
+130.  Swan Catheter Setup.ahk
 https://www.youtube.com/watch?v=fs8Rq1K28_U
 
-103692.  Swan Ganz Numbers presented by Dr. Gallagher's Neighborhood.ahk
+131.  Swan Ganz Numbers presented by Dr. Gallagher's Neighborhood.ahk
 https://www.youtube.com/watch?v=PjRRPhMj0os
 
-103824.  Taking LVAD pressure.ahk
+132.  Taking LVAD pressure.ahk
 https://www.youtube.com/watch?v=kctHfE6MIHE
 
-103957.  Testing Sedation and Delirium in ICU.ahk
+133.  Testing Sedation and Delirium in ICU.ahk
 https://www.youtube.com/watch?v=iGY62aDu0tw
 
-104091.  Trach Care and Cleaning Inner Cannula.ahk
+134.  Trach Care and Cleaning Inner Cannula.ahk
 https://www.youtube.com/watch?v=d2wSiWuTxoc
 
-104226.  Trach suctioning with vent.ahk
+135.  Trach suctioning with vent.ahk
 https://www.youtube.com/watch?v=tgCFefhbZXU
 
-104362.  Tracheostomy Suctioning  Free Nursing Video Lecture.ahk
+136.  Tracheostomy Suctioning  Free Nursing Video Lecture.ahk
 https://www.youtube.com/watch?v=hcrsb1hiPLc
 
-104499.  Tracheostomy Suctioning and Care.ahk
+137.  Tracheostomy Suctioning and Care.ahk
 https://www.youtube.com/watch?v=I1_aW4s96dM
 
-104637.  Train of Four Audio Bite.ahk
+138.  Train of Four Audio Bite.ahk
 https://www.youtube.com/watch?v=kNLe5hLSFz8
 
-104776.  Train of four technique with a peripheral neuromuscular stimulator.ahk
+139.  Train of four technique with a peripheral neuromuscular stimulator.ahk
 https://www.youtube.com/watch?v=CNWRDP-bv2E
 
-104916.  tube care.ahk
+140.  tube care.ahk
 https://www.youtube.com/watch?v=b3aYrQQdogs
 
-105057.  Ultrasound-Guided Peripheral IV Placement.ahk
+141.  Ultrasound-Guided Peripheral IV Placement.ahk
 https://www.youtube.com/watch?v=-fduIjQ8EH4
 
-105199.  Understanding Ventilator Settings.ahk
+142.  Understanding Ventilator Settings.ahk
 https://www.youtube.com/watch?v=6nERo9g5sBU
 
-105342.  Upper Limb Veins - 3D Anatomy Tutorial.ahk
+143.  Upper Limb Veins - 3D Anatomy Tutorial.ahk
 https://www.youtube.com/watch?v=0bBHUcGK7P0
 
-105486.  Use of the Continuous Subglottic Suction Regulator.ahk
+144.  Use of the Continuous Subglottic Suction Regulator.ahk
 https://www.youtube.com/watch?v=sSSJXS_7TKQ
 
-105631.  Using a stopcock to administer medications.ahk
+145.  Using a stopcock to administer medications.ahk
 https://www.youtube.com/watch?v=82gSTIyn5I4
 
-105777.  Vasopressor & Inotropes (1864344).ahk
+146.  Vasopressor & Inotropes (1864344).ahk
 https://www.youtube.com/watch?v=-nq9mvNb-b0
 
-105924.  Vasopressor & Inotropes.ahk
+147.  Vasopressor & Inotropes.ahk
 https://www.youtube.com/watch?v=-nq9mvNb-b0
 
-106072.  ventilator type & modes part 2.ahk
+148.  ventilator type & modes part 2.ahk
 https://www.youtube.com/watch?v=nGJIePPGQn0
 
-106221.  Ventricular with accudrain set up.ahk
+149.  Ventricular with accudrain set up.ahk
 https://www.youtube.com/watch?v=rsvn8tMPxeA
 
-106371.  Ventriculostomy Pressure Tubing Set-Up.ahk
+150.  Ventriculostomy Pressure Tubing Set-Up.ahk
 https://www.youtube.com/watch?v=41vq3ToZX68
 
-106522.  Ventriculostomy.ahk
+151.  Ventriculostomy.ahk
 https://www.youtube.com/watch?v=Qz842K1DZgY
 
-106674.  What is a Fenestrated Tracheostomy.ahk
+152.  What is a Fenestrated Tracheostomy.ahk
 https://www.youtube.com/watch?v=RzYPp5h_vx8
 
-106827.  Wound Vac Demonstration.ahk
+153.  Wound Vac Demonstration.ahk
 https://www.youtube.com/watch?v=SDprRTHw4I0
 
-106981.  Wrapping hand & fingers, 1.ahk
+154.  Wrapping hand & fingers, 1.ahk
 https://www.youtube.com/watch?v=_kMIEyubMVo
 critical care nursing videos

@@ -1,115 +1,115 @@
 
-175528.  Angle basics  Angles and intersecting lines  Geometry  Khan Academy.ahk
+1.  Angle basics  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=H-de6Tkxej8
 
-175530.  Area of a circle  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+2.  Area of a circle  Perimeter, area, and volume  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=ZyOhRgnFmIY
 
-175533.  Area of a shaded region  Geometry  7th grade  Khan Academy.ahk
+3.  Area of a shaded region  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=gbGghzo7yEM
 
-175537.  Circles radius, diameter, circumference and Pi  Geometry  Khan Academy.ahk
+4.  Circles radius, diameter, circumference and Pi  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=jyLRpr2P0MQ
 
-175542.  Circumference of a circle  Geometry  7th grade  Khan Academy.ahk
+5.  Circumference of a circle  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=Rcb7ZUTOQ1I
 
-175548.  Complementary and supplementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+6.  Complementary and supplementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=BTnAlNSgNsY
 
-175555.  Construct a right isosceles triangle  Geometry  7th grade  Khan Academy.ahk
+7.  Construct a right isosceles triangle  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=lohMwoq3WFA
 
-175563.  Construct a triangle with constraints  Geometry  7th grade  Khan Academy.ahk
+8.  Construct a triangle with constraints  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=E78ji1uBtSA
 
-175572.  Corresponding points and sides of scaled shapes.ahk
+9.  Corresponding points and sides of scaled shapes.ahk
 https://www.youtube.com/watch?v=FeogTR_omiM
 
-175582.  Creating scale drawings  Geometry  7th grade  Khan Academy.ahk
+10.  Creating scale drawings  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=TASA6V5fGT8
 
-175593.  Exploring scale copies.ahk
+11.  Exploring scale copies.ahk
 https://www.youtube.com/watch?v=z2E_GpucfeA
 
-175605.  Find measure of angles in a word problem  Geometry  7th grade  Khan Academy.ahk
+12.  Find measure of angles in a word problem  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=3u9Ux29MSXE
 
-175618.  Find measure of complementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+13.  Find measure of complementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=XDOH9Ul2OOM
 
-175632.  Find measure of supplementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+14.  Find measure of supplementary angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=zNtbi4OJs9I
 
-175647.  Find measure of vertical angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+15.  Find measure of vertical angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=2CZrkdtgeNU
 
-175663.  Find measure of vertical angles  Geometry  7th grade  Khan Academy.ahk
+16.  Find measure of vertical angles  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=TOobWKx1xe0
 
-175680.  Find the volume of a ring  Geometry  7th grade  Khan Academy.ahk
+17.  Find the volume of a ring  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=ViFLPsLTO1k
 
-175698.  Find the volume of a triangular prism and cube  Geometry  Khan Academy.ahk
+18.  Find the volume of a triangular prism and cube  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=ZqzAOZ9pP9Q
 
-175717.  Find the volume of rectangles inside rectangles  Geometry  7th grade  Khan Academy.ahk
+19.  Find the volume of rectangles inside rectangles  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=AxHAQ5l45FE
 
-175737.  How to make a scale drawing  7th grade  Khan Academy.ahk
+20.  How to make a scale drawing  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=f-gCYOCFMYc
 
-175758.  Identifying corresponding parts of scaled copies  Geometry  7th grade  Khan Academy.ahk
+21.  Identifying corresponding parts of scaled copies  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=o07enwTfSpU
 
-175780.  Identifying scale factor in drawings  Geometry  7th grade  Khan Academy.ahk
+22.  Identifying scale factor in drawings  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=ZeY1mgog2YQ
 
-175803.  Identifying scaled copies.ahk
+23.  Identifying scaled copies.ahk
 https://www.youtube.com/watch?v=QBiTspq2Wck
 
-175827.  Identifying values in scale drawings.ahk
+24.  Identifying values in scale drawings.ahk
 https://www.youtube.com/watch?v=YCjc3uRTq7I
 
-175852.  Impact of a radius change on the area of a circle  Geometry  7th grade  Khan Academy.ahk
+25.  Impact of a radius change on the area of a circle  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=GB9Rqsah2gs
 
-175878.  Interpreting a scale drawing  Geometry  7th grade  Khan Academy.ahk
+26.  Interpreting a scale drawing  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=byjmR7JBXKc
 
-175905.  Interpreting scale factors in drawings  Geometry  7th grade  Khan Academy.ahk
+27.  Interpreting scale factors in drawings  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=Rgi1z9r5hOk
 
-175933.  Introduction to vertical angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
+28.  Introduction to vertical angles  Angles and intersecting lines  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=_7aUxFzTG5w
 
-175962.  Labeling parts of a circle  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+29.  Labeling parts of a circle  Perimeter, area, and volume  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=04N79tItPEA
 
-175992.  Partial circle area and arc length.ahk
+30.  Partial circle area and arc length.ahk
 https://www.youtube.com/watch?v=YjWCDdNlXxc
 
-176023.  Radius & diameter from circumference  High School Geometry  High School Math  Khan Academy.ahk
+31.  Radius & diameter from circumference  High School Geometry  High School Math  Khan Academy.ahk
 https://www.youtube.com/watch?v=yWGeFDXgQvg
 
-176055.  Ratio word problem centimeters to kilometers  Pre-Algebra  Khan Academy.ahk
+32.  Ratio word problem centimeters to kilometers  Pre-Algebra  Khan Academy.ahk
 https://www.youtube.com/watch?v=tOd2T72eJME
 
-176088.  Relating circumference and area.ahk
+33.  Relating circumference and area.ahk
 https://www.youtube.com/watch?v=-jqWW22FMdI
 
-176122.  Scale drawings  Geometry  7th grade  Khan Academy.ahk
+34.  Scale drawings  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=XUOPGqKGbjk
 
-176157.  Scale factors and area.ahk
+35.  Scale factors and area.ahk
 https://www.youtube.com/watch?v=h-qwno7n5F4
 
-176193.  Slice a rectangular pyramid  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+36.  Slice a rectangular pyramid  Perimeter, area, and volume  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=hoa1RBk4dTo
 
-176230.  Solve a scale drawing word problem  Geometry  7th grade  Khan Academy.ahk
+37.  Solve a scale drawing word problem  Geometry  7th grade  Khan Academy.ahk
 https://www.youtube.com/watch?v=EgOyJJxuuP8
 
-176268.  Triangle inequality theorem  Perimeter, area, and volume  Geometry  Khan Academy.ahk
+38.  Triangle inequality theorem  Perimeter, area, and volume  Geometry  Khan Academy.ahk
 https://www.youtube.com/watch?v=KlKYvbigBqs
 Geometry  7th Grade  Khan Academy

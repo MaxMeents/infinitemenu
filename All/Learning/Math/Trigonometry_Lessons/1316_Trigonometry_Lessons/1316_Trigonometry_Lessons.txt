@@ -1,85 +1,85 @@
 
-437324.  How to Generate the Unit Circle - Part 1 - Angles in Radians & Degrees.ahk
+1.  How to Generate the Unit Circle - Part 1 - Angles in Radians & Degrees.ahk
 https://www.youtube.com/watch?v=CtnCJZEBxpY&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437326.  How to Generate the Unit Circle - Part 2 - The Ordered Pairs.ahk
+2.  How to Generate the Unit Circle - Part 2 - The Ordered Pairs.ahk
 https://www.youtube.com/watch?v=omdw4tOLTMU&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437329.  How to Generate the Unit Circle - Part 3 - The Trigonometric Values.ahk
+3.  How to Generate the Unit Circle - Part 3 - The Trigonometric Values.ahk
 https://www.youtube.com/watch?v=iKccB_9ubr0&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437333.  Section 6.1 - Angles, Arc Length and Circular Motion.ahk
+4.  Section 6.1 - Angles, Arc Length and Circular Motion.ahk
 https://www.youtube.com/watch?v=JyYOvoo8vMw&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437338.  Section 6.2 - Trigonometric Functions Unit Circle Approach.ahk
+5.  Section 6.2 - Trigonometric Functions Unit Circle Approach.ahk
 https://www.youtube.com/watch?v=LSEuLVyqE68&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437344.  Section 6.3 - Properties of the Trigonometric Functions.ahk
+6.  Section 6.3 - Properties of the Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=0lmikFXX2Qc&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437351.  Section 6.4 - Graphs of the Sine and Cosine Functions.ahk
+7.  Section 6.4 - Graphs of the Sine and Cosine Functions.ahk
 https://www.youtube.com/watch?v=LcMhEkzo0XM&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437359.  Section 6.5 - Graphs of the Tangent, Cotangent, Cosecant, & Secant Functions.ahk
+8.  Section 6.5 - Graphs of the Tangent, Cotangent, Cosecant, & Secant Functions.ahk
 https://www.youtube.com/watch?v=qBinjEr1upk&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437368.  Section 6.6 - Phase Shift Sinusoidal Curve Fitting.ahk
+9.  Section 6.6 - Phase Shift Sinusoidal Curve Fitting.ahk
 https://www.youtube.com/watch?v=BNdy15kWOpI&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437378.  Section 7.1 - The Inverse Sine, Cosine, and Tangent Functions.ahk
+10.  Section 7.1 - The Inverse Sine, Cosine, and Tangent Functions.ahk
 https://www.youtube.com/watch?v=M9n6IQucVLE&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437389.  Section 7.2 - The Inverse Trigonometric Functions cont..ahk
+11.  Section 7.2 - The Inverse Trigonometric Functions cont..ahk
 https://www.youtube.com/watch?v=BMPwRu2ops8&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437401.  Section 7.3 - Trigonometric Equations.ahk
+12.  Section 7.3 - Trigonometric Equations.ahk
 https://www.youtube.com/watch?v=JkmqvrdOs_g&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437414.  Section 7.4 - Trigonometric Identities.ahk
+13.  Section 7.4 - Trigonometric Identities.ahk
 https://www.youtube.com/watch?v=OsaWvfGEVGg&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437428.  Section 7.5 - Sum & Difference Formulas.ahk
+14.  Section 7.5 - Sum & Difference Formulas.ahk
 https://www.youtube.com/watch?v=n1NK0yE9zhM&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437443.  Section 7.6 - Double & Half Angle Formulas.ahk
+15.  Section 7.6 - Double & Half Angle Formulas.ahk
 https://www.youtube.com/watch?v=4SDc1DQmiqI&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437459.  Section 7.7 - Sum-to-Product & Product-to-Sum Formulas.ahk
+16.  Section 7.7 - Sum-to-Product & Product-to-Sum Formulas.ahk
 https://www.youtube.com/watch?v=vTd-bB8tWI0&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437476.  Section 8.1 - Right Triangle Trigonometry - SOHCAHTOA & Pythagorean Theorem.ahk
+17.  Section 8.1 - Right Triangle Trigonometry - SOHCAHTOA & Pythagorean Theorem.ahk
 https://www.youtube.com/watch?v=7tiZGnqsvQ0&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437494.  Section 8.2 - The Law of Sines AAS & SSA.ahk
+18.  Section 8.2 - The Law of Sines AAS & SSA.ahk
 https://www.youtube.com/watch?v=m0l6p7QVPXw&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437513.  Section 8.3 - Law of Cosines SAS & SSS.ahk
+19.  Section 8.3 - Law of Cosines SAS & SSS.ahk
 https://www.youtube.com/watch?v=OXYSVB9r5zs&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437533.  Section 8.4 - Area of a Triangle SAS & SSS.ahk
+20.  Section 8.4 - Area of a Triangle SAS & SSS.ahk
 https://www.youtube.com/watch?v=otIo7rIbvsU&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437554.  Section 9.1 - Polar Coordinates.ahk
+21.  Section 9.1 - Polar Coordinates.ahk
 https://www.youtube.com/watch?v=rpyM8rK13fA&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437576.  Section 9.2 - Polar Equations & Graphs.ahk
+22.  Section 9.2 - Polar Equations & Graphs.ahk
 https://www.youtube.com/watch?v=8amc_1Co4Gg&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437599.  Section 9.3 - The Complex Plane; De Moivre's Theorem.ahk
+23.  Section 9.3 - The Complex Plane; De Moivre's Theorem.ahk
 https://www.youtube.com/watch?v=kemUrUntYhQ&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437623.  Section 9.4 - Vectors.ahk
+24.  Section 9.4 - Vectors.ahk
 https://www.youtube.com/watch?v=GjztE3m0pV0&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437648.  Section 9.5 - The Dot Product.ahk
+25.  Section 9.5 - The Dot Product.ahk
 https://www.youtube.com/watch?v=rHgXN0ISOjo&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437674.  Section 9.6 - Vectors in Space.ahk
+26.  Section 9.6 - Vectors in Space.ahk
 https://www.youtube.com/watch?v=vxPTjvyptPY&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437701.  Section 9.7 - The Cross Product.ahk
+27.  Section 9.7 - The Cross Product.ahk
 https://www.youtube.com/watch?v=hFAM96PnTkE&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 
-437729.  The Relationship Between the Unit Circle and the Sine Wave..ahk
+28.  The Relationship Between the Unit Circle and the Sine Wave..ahk
 https://www.youtube.com/watch?v=-IsaQaTd6TM&list=PLogngu9z2NHdE8MNACDTJHN1gi0OzicgR
 1316 Trigonometry Lessons

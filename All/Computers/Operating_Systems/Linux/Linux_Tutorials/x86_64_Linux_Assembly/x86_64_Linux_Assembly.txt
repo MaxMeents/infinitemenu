@@ -1,40 +1,40 @@
 
-36235.  x86_64 Linux Assembly #1 - Hello, World!.ahk
+1.  x86_64 Linux Assembly #1 - Hello, World!.ahk
 https://www.youtube.com/watch?v=VQAKkuLL31g
 
-36237.  x86_64 Linux Assembly #10 - Introduction to Files and File Permissions.ahk
+2.  x86_64 Linux Assembly #10 - Introduction to Files and File Permissions.ahk
 https://www.youtube.com/watch?v=AwmhZUATGYM
 
-36240.  x86_64 Linux Assembly #11 - Writing Files.ahk
+3.  x86_64 Linux Assembly #11 - Writing Files.ahk
 https://www.youtube.com/watch?v=vXsUIX_Ozgc
 
-36244.  x86_64 Linux Assembly #12 - Reading Files.ahk
+4.  x86_64 Linux Assembly #12 - Reading Files.ahk
 https://www.youtube.com/watch?v=BljOGzRP_Ws
 
-36249.  x86_64 Linux Assembly #13 - Pausing With Nanosleep.ahk
+5.  x86_64 Linux Assembly #13 - Pausing With Nanosleep.ahk
 https://www.youtube.com/watch?v=bV0NJ7zvap8
 
-36255.  x86_64 Linux Assembly #2 - Hello, World! Breakdown.ahk
+6.  x86_64 Linux Assembly #2 - Hello, World! Breakdown.ahk
 https://www.youtube.com/watch?v=BWRR3Hecjao
 
-36262.  x86_64 Linux Assembly #3 - Jumps, Calls, Comparisons.ahk
+7.  x86_64 Linux Assembly #3 - Jumps, Calls, Comparisons.ahk
 https://www.youtube.com/watch?v=busHtSyx2-w
 
-36270.  x86_64 Linux Assembly #4 - Getting User Input.ahk
+8.  x86_64 Linux Assembly #4 - Getting User Input.ahk
 https://www.youtube.com/watch?v=VAy4FGHDx1I
 
-36279.  x86_64 Linux Assembly #5 - Math Operations and the Stack.ahk
+9.  x86_64 Linux Assembly #5 - Math Operations and the Stack.ahk
 https://www.youtube.com/watch?v=NFv7l3wQsZ4
 
-36289.  x86_64 Linux Assembly #6 - Subroutine to Print Strings.ahk
+10.  x86_64 Linux Assembly #6 - Subroutine to Print Strings.ahk
 https://www.youtube.com/watch?v=Fz7Ts9RN0o4
 
-36300.  x86_64 Linux Assembly #7 - Macros.ahk
+11.  x86_64 Linux Assembly #7 - Macros.ahk
 https://www.youtube.com/watch?v=mRTax0MLaok
 
-36312.  x86_64 Linux Assembly #8 - Subroutine to Print Integers.ahk
+12.  x86_64 Linux Assembly #8 - Subroutine to Print Integers.ahk
 https://www.youtube.com/watch?v=XuUD0WQ9kaE
 
-36325.  x86_64 Linux Assembly #9 - Command Line Arguments.ahk
+13.  x86_64 Linux Assembly #9 - Command Line Arguments.ahk
 https://www.youtube.com/watch?v=xtFs1yBVinc
 x86_64 Linux Assembly

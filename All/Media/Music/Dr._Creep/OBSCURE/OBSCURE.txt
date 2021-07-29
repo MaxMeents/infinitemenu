@@ -1,37 +1,37 @@
 
-1384.  EARTH NEMESIS.ahk
+1.  EARTH NEMESIS.ahk
 https://drcreep.bandcamp.com/track/earth-nemesis
 
-1386.  ESOTERIC AVENGER ft DJ TMB.ahk
+2.  ESOTERIC AVENGER ft DJ TMB.ahk
 https://drcreep.bandcamp.com/track/esoteric-avenger-ft-dj-tmb
 
-1389.  EVE OF THE WAR ft Solow.ahk
+3.  EVE OF THE WAR ft Solow.ahk
 https://drcreep.bandcamp.com/track/eve-of-the-war-ft-solow
 
-1393.  OBSCURE AND SILENT ft Solow.ahk
+4.  OBSCURE AND SILENT ft Solow.ahk
 https://drcreep.bandcamp.com/track/obscure-and-silent-ft-solow
 
-1398.  PLAGUE DELIVERANCE.ahk
+5.  PLAGUE DELIVERANCE.ahk
 https://drcreep.bandcamp.com/track/plague-deliverance
 
-1404.  SHATTERED FORTRESS.ahk
+6.  SHATTERED FORTRESS.ahk
 https://drcreep.bandcamp.com/track/shattered-fortress
 
-1411.  SHIELD OF ABRAXAS ft Solow.ahk
+7.  SHIELD OF ABRAXAS ft Solow.ahk
 https://drcreep.bandcamp.com/track/shield-of-abraxas-ft-solow
 
-1419.  THE GOLDEN FREQUENCY.ahk
+8.  THE GOLDEN FREQUENCY.ahk
 https://drcreep.bandcamp.com/track/the-golden-frequency
 
-1428.  THE NEW HORROR ft DJ TMB.ahk
+9.  THE NEW HORROR ft DJ TMB.ahk
 https://drcreep.bandcamp.com/track/the-new-horror-ft-dj-tmb
 
-1438.  THE PLANET OF AGONY.ahk
+10.  THE PLANET OF AGONY.ahk
 https://drcreep.bandcamp.com/track/the-planet-of-agony
 
-1449.  TURN PAGES ft Solow.ahk
+11.  TURN PAGES ft Solow.ahk
 https://drcreep.bandcamp.com/track/turn-pages-ft-solow
 
-1461.  UNCLOAKED VIMANA.ahk
+12.  UNCLOAKED VIMANA.ahk
 https://drcreep.bandcamp.com/track/uncloaked-vimana
 OBSCURE

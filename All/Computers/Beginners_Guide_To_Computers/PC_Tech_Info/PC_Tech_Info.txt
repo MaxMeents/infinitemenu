@@ -1,109 +1,109 @@
 
-9502.  10 FREE PROGRAMS That Should Be On EVERY PC!.ahk
+1.  10 FREE PROGRAMS That Should Be On EVERY PC!.ahk
 https://www.youtube.com/watch?v=ODO5iqNkXts
 
-9504.  15 Amazing Shortcuts You Aren't Using.ahk
+2.  15 Amazing Shortcuts You Aren't Using.ahk
 https://www.youtube.com/watch?v=VeAK7Bv4F1o
 
-9507.  32-Bit vs 64-Bit - The Advantage (New Video in Description!).ahk
+3.  32-Bit vs 64-Bit - The Advantage (New Video in Description!).ahk
 https://www.youtube.com/watch?v=KgiMzKb8dD0
 
-9511.  3D Animation on the theme 'How computers work'.  Data transfer from CDs.ahk
+4.  3D Animation on the theme 'How computers work'.  Data transfer from CDs.ahk
 https://www.youtube.com/watch?v=qrToK_YXDIQ
 
-9516.  Basic Computing Skills - Orientation.ahk
+5.  Basic Computing Skills - Orientation.ahk
 https://www.youtube.com/watch?v=DwsKeoXOa9I
 
-9522.  Basic PC Maintenance.ahk
+6.  Basic PC Maintenance.ahk
 https://www.youtube.com/watch?v=J07rd4nMXeo
 
-9529.  Basic Skills for Computer Jobs - What you should know about IT Basics.ahk
+7.  Basic Skills for Computer Jobs - What you should know about IT Basics.ahk
 https://www.youtube.com/watch?v=tRUKUqyQUXQ
 
-9537.  Basic Skills for Entry Level Computer Jobs (what you should know).ahk
+8.  Basic Skills for Entry Level Computer Jobs (what you should know).ahk
 https://www.youtube.com/watch?v=VBG4XERP2lo
 
-9546.  Beginners Guide  Computer Hardware Basic's.ahk
+9.  Beginners Guide  Computer Hardware Basic's.ahk
 https://www.youtube.com/watch?v=PSDK2DDPbeI
 
-9556.  Beginners Guide to Motherboards.ahk
+10.  Beginners Guide to Motherboards.ahk
 https://www.youtube.com/watch?v=ZnaQyGAg8Eg
 
-9567.  Computer Basics Cleaning Your Computer.ahk
+11.  Computer Basics Cleaning Your Computer.ahk
 https://www.youtube.com/watch?v=kgBIsKeTLLk
 
-9579.  Computer Basics Hardware.ahk
+12.  Computer Basics Hardware.ahk
 https://www.youtube.com/watch?v=ctAVC2JwEwI
 
-9592.  Computer Hardware & Software Lesson Part 1.ahk
+13.  Computer Hardware & Software Lesson Part 1.ahk
 https://www.youtube.com/watch?v=8UyJMiYqvs4
 
-9606.  CSS NCII  Parts of the Motherboards and its Functions (HD).ahk
+14.  CSS NCII  Parts of the Motherboards and its Functions (HD).ahk
 https://www.youtube.com/watch?v=yvboTSpVyfc
 
-9621.  Early Computing Crash Course Computer Science #1.ahk
+15.  Early Computing Crash Course Computer Science #1.ahk
 https://www.youtube.com/watch?v=O5nskjZ_GoI
 
-9637.  Hardware Basics.ahk
+16.  Hardware Basics.ahk
 https://www.youtube.com/watch?v=9-KUm9YpPm0
 
-9654.  How a CPU is made.ahk
+17.  How a CPU is made.ahk
 https://www.youtube.com/watch?v=qm67wbB5GmI
 
-9672.  How Computers Work Computation (Part II).ahk
+18.  How Computers Work Computation (Part II).ahk
 https://www.youtube.com/watch?v=9a7XQmEBK5Q
 
-9691.  How computers work in less than 20 minutes.ahk
+19.  How computers work in less than 20 minutes.ahk
 https://www.youtube.com/watch?v=WIDzNyfVVg0
 
-9711.  How Computers Work Information (Part I) (2012).ahk
+20.  How Computers Work Information (Part I) (2012).ahk
 https://www.youtube.com/watch?v=AtqjxyV9t1I
 
-9732.  How Computers Work Programming (Part III).ahk
+21.  How Computers Work Programming (Part III).ahk
 https://www.youtube.com/watch?v=E5SED8le34o
 
-9754.  How Computers Work Video #1 - Computers Run on Electricity.ahk
+22.  How Computers Work Video #1 - Computers Run on Electricity.ahk
 https://www.youtube.com/watch?v=XdZo2WsgG00
 
-9777.  How to learn everything about computers.ahk
+23.  How to learn everything about computers.ahk
 https://www.youtube.com/watch?v=azZJZzDBZtU
 
-9801.  IT Training for Beginners.ahk
+24.  IT Training for Beginners.ahk
 https://www.youtube.com/watch?v=-aTIX3Du2mg
 
-9826.  Laptop Hardware Repair.ahk
+25.  Laptop Hardware Repair.ahk
 https://www.youtube.com/watch?v=UKMEzrP14W4
 
-9852.  Learn how computers add numbers and build a 4 bit adder circuit.ahk
+26.  Learn how computers add numbers and build a 4 bit adder circuit.ahk
 https://www.youtube.com/watch?v=wvJc9CZcvBc
 
-9879.  Learn THE KEYBOARD Techniques - Basic Personal Computer Tutorials (How to ).ahk
+27.  Learn THE KEYBOARD Techniques - Basic Personal Computer Tutorials (How to ).ahk
 https://www.youtube.com/watch?v=mWcPA5_8RnM
 
-9907.  Microsoft PowerShell for Beginners - Video 1 Learn PowerShell.ahk
+28.  Microsoft PowerShell for Beginners - Video 1 Learn PowerShell.ahk
 https://www.youtube.com/watch?v=IHrGresKu2w
 
-9936.  Moore's Law and The Secret World Of Ones And Zeroes.ahk
+29.  Moore's Law and The Secret World Of Ones And Zeroes.ahk
 https://www.youtube.com/watch?v=1qQE5Xwe7fs
 
-9966.  Operating Systems Crash Course Computer Science #18.ahk
+30.  Operating Systems Crash Course Computer Science #18.ahk
 https://www.youtube.com/watch?v=26QPDBe-NB8
 
-9997.  RAM Explained - Random Access Memory.ahk
+31.  RAM Explained - Random Access Memory.ahk
 https://www.youtube.com/watch?v=PVad0c2cljo
 
-10029.  The Art of Writing Software.ahk
+32.  The Art of Writing Software.ahk
 https://www.youtube.com/watch?v=QdVFvsCWXrA
 
-10062.  The Central Processing Unit (CPU) Crash Course Computer Science #7.ahk
+33.  The Central Processing Unit (CPU) Crash Course Computer Science #7.ahk
 https://www.youtube.com/watch?v=FZGugFqdr60
 
-10096.  What Should I Learn for I.T. Jobs - Information Technology Basics.ahk
+34.  What Should I Learn for I.T. Jobs - Information Technology Basics.ahk
 https://www.youtube.com/watch?v=piSGyZhgf60
 
-10131.  Why Do Computers Use 1s and 0s Binary and Transistors Explained..ahk
+35.  Why Do Computers Use 1s and 0s Binary and Transistors Explained..ahk
 https://www.youtube.com/watch?v=Xpk67YzOn5w
 
-10167.  ?? - See How Computers Add Numbers In One Lesson.ahk
+36.  ?? - See How Computers Add Numbers In One Lesson.ahk
 https://www.youtube.com/watch?v=VBDoT8o4q00
 PC Tech Info

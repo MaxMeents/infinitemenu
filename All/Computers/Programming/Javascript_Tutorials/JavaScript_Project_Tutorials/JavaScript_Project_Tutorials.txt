@@ -1,91 +1,91 @@
 
-2263.  Async JS Crash Course - Callbacks, Promises, Async Await.ahk
+1.  Async JS Crash Course - Callbacks, Promises, Async Await.ahk
 https://www.youtube.com/watch?v=PoRJizFvM7s
 
-2265.  Build A Filterable List With Vanilla JavaScript.ahk
+2.  Build A Filterable List With Vanilla JavaScript.ahk
 https://www.youtube.com/watch?v=G1eW3Oi6uoc
 
-2268.  Build A Speed Typing Game In JavaScript.ahk
+3.  Build A Speed Typing Game In JavaScript.ahk
 https://www.youtube.com/watch?v=Yw-SYSG-028
 
-2272.  Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners.ahk
+4.  Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners.ahk
 https://www.youtube.com/watch?v=wPElVpR1rwA
 
-2277.  Building a Weather App using Javascript.ahk
+5.  Building a Weather App using Javascript.ahk
 https://www.youtube.com/watch?v=lpLUx-0t7aE
 
-2283.  Create Particle Effects With Particles.js.ahk
+6.  Create Particle Effects With Particles.js.ahk
 https://www.youtube.com/watch?v=qK3cgD09Qf0
 
-2290.  Develop a Quiz App with Javascript - Object Oriented Programming.ahk
+7.  Develop a Quiz App with Javascript - Object Oriented Programming.ahk
 https://www.youtube.com/watch?v=jvk1pFNqXaw
 
-2298.  Full Screen Image Slider With HTML, CSS & JS.ahk
+8.  Full Screen Image Slider With HTML, CSS & JS.ahk
 https://www.youtube.com/watch?v=7ZO2RTMNSAY
 
-2307.  Full Screen Responsive Image Slider  No Libraries.ahk
+9.  Full Screen Responsive Image Slider  No Libraries.ahk
 https://www.youtube.com/watch?v=wWWNrANNO1k
 
-2317.  How to Build a Temperature Converter with Html, Css, and Javascript (Part 2).ahk
+10.  How to Build a Temperature Converter with Html, Css, and Javascript (Part 2).ahk
 https://www.youtube.com/watch?v=8mRGfLL1nzE
 
-2328.  How To Create An Image Slider In HTML, CSS & Javascript.ahk
+11.  How To Create An Image Slider In HTML, CSS & Javascript.ahk
 https://www.youtube.com/watch?v=KcdBOoK3Pfw
 
-2340.  JavaScript BookList App  No Frameworks.ahk
+12.  JavaScript BookList App  No Frameworks.ahk
 https://www.youtube.com/watch?v=JaMCxVWtW58
 
-2353.  JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar.ahk
+13.  JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar.ahk
 https://www.youtube.com/watch?v=M2bJBuaOeOQ
 
-2367.  Javascript Rock Paper Scissors Game Tutorial  Web Development Tutorial.ahk
+14.  Javascript Rock Paper Scissors Game Tutorial  Web Development Tutorial.ahk
 https://www.youtube.com/watch?v=qWPtKtYEsN4
 
-2382.  JavaScript Zipcode App Using Fetch & Bulma CSS.ahk
+15.  JavaScript Zipcode App Using Fetch & Bulma CSS.ahk
 https://www.youtube.com/watch?v=K3GfUH7AZKs
 
-2398.  Learn JavaScript By Building A Bookmarker Application.ahk
+16.  Learn JavaScript By Building A Bookmarker Application.ahk
 https://www.youtube.com/watch?v=DIVfDZZeGxM
 
-2415.  Learn Sass In 20 Minutes  Sass Crash Course.ahk
+17.  Learn Sass In 20 Minutes  Sass Crash Course.ahk
 https://www.youtube.com/watch?v=Zz6eOVaaelI
 
-2433.  Learn to Code a Digital Clock with Html, Css, and Javascript (PART 2).ahk
+18.  Learn to Code a Digital Clock with Html, Css, and Javascript (PART 2).ahk
 https://www.youtube.com/watch?v=EOePhBhyB88
 
-2452.  Learn to code a to-do list app in JavaScript - Part 1.ahk
+19.  Learn to code a to-do list app in JavaScript - Part 1.ahk
 https://www.youtube.com/watch?v=2wCpkOk2uCg
 
-2472.  Learn to code a to-do list app in JavaScript - Part 2.ahk
+20.  Learn to code a to-do list app in JavaScript - Part 2.ahk
 https://www.youtube.com/watch?v=bGLZ2pwCaiI
 
-2493.  Learning Javascript - 8. Calculator Project Setup.ahk
+21.  Learning Javascript - 8. Calculator Project Setup.ahk
 https://www.youtube.com/watch?v=K9VZivS7jWc
 
-2515.  Pure JavaScript Type Writer Effect.ahk
+22.  Pure JavaScript Type Writer Effect.ahk
 https://www.youtube.com/watch?v=POX3dT-pB4E
 
-2538.  Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT.ahk
+23.  Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT.ahk
 https://www.youtube.com/watch?v=gXkqy0b4M5g
 
-2562.  Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript.ahk
+24.  Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript.ahk
 https://www.youtube.com/watch?v=wc5k2AMPED0
 
-2587.  Simple Weight Converter App With JavaScript & Bootstrap 4.ahk
+25.  Simple Weight Converter App With JavaScript & Bootstrap 4.ahk
 https://www.youtube.com/watch?v=7l-ZAuU8TXc
 
-2613.  Smooth Page Transitions With Javascript Tutorial.ahk
+26.  Smooth Page Transitions With Javascript Tutorial.ahk
 https://www.youtube.com/watch?v=1dJT-99KpiI
 
-2640.  Smooth Scroll with JavaScript.ahk
+27.  Smooth Scroll with JavaScript.ahk
 https://www.youtube.com/watch?v=hPT1SSHptWA
 
-2668.  The 10 Days of JavaScript Day 0.ahk
+28.  The 10 Days of JavaScript Day 0.ahk
 https://www.youtube.com/watch?v=dc-2t26Vuhs
 
-2697.  Vanilla Javascript Smooth Scroll Tutorial.ahk
+29.  Vanilla Javascript Smooth Scroll Tutorial.ahk
 https://www.youtube.com/watch?v=oUSvlrDTLi4
 
-2727.  Vanilla JS Number Facts App - Ajax & Fetch.ahk
+30.  Vanilla JS Number Facts App - Ajax & Fetch.ahk
 https://www.youtube.com/watch?v=tUE2Nic21BA
 JavaScript Project Tutorials

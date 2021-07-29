@@ -1,229 +1,229 @@
 
-330241.  1-2 Intercepts, Symmetry, Graphing Key Equations.ahk
+1.  1-2 Intercepts, Symmetry, Graphing Key Equations.ahk
 https://www.youtube.com/watch?v=znTT9LLA-Vo
 
-330243.  1.1 Distance and Midpoint Formulas; Graphing.ahk
+2.  1.1 Distance and Midpoint Formulas; Graphing.ahk
 https://www.youtube.com/watch?v=s-i2ilwXL_w
 
-330246.  1.3 Solving Equations Using a Graphing Utility.ahk
+3.  1.3 Solving Equations Using a Graphing Utility.ahk
 https://www.youtube.com/watch?v=8FgPpqCCuWk
 
-330250.  2.1 Functions, part 2.ahk
+4.  2.1 Functions, part 2.ahk
 https://www.youtube.com/watch?v=ehGUEZG0Guc
 
-330255.  2.1 Functions.ahk
+5.  2.1 Functions.ahk
 https://www.youtube.com/watch?v=5VoBa7hXgmA
 
-330261.  2.2 The Graph of a Function.ahk
+6.  2.2 The Graph of a Function.ahk
 https://www.youtube.com/watch?v=q5GoOukuMk0
 
-330268.  2.3 Properties of Functions.ahk
+7.  2.3 Properties of Functions.ahk
 https://www.youtube.com/watch?v=v847vAwm2-s
 
-330276.  2.4 Library of Functions; Piecewise defined functions.ahk
+8.  2.4 Library of Functions; Piecewise defined functions.ahk
 https://www.youtube.com/watch?v=tjtx1T6WNVo
 
-330285.  2.5 Graphing Techniques, Transformations.ahk
+9.  2.5 Graphing Techniques, Transformations.ahk
 https://www.youtube.com/watch?v=kcA8JvxX57c
 
-330295.  2.6 Mathematical Models; Building Functions.ahk
+10.  2.6 Mathematical Models; Building Functions.ahk
 https://www.youtube.com/watch?v=k9Brfb7w76k
 
-330306.  3.1 Linear Functions and their Properties.ahk
+11.  3.1 Linear Functions and their Properties.ahk
 https://www.youtube.com/watch?v=dESZTDU1hHQ
 
-330318.  3.3 Quadratic Functions and their Properties.ahk
+12.  3.3 Quadratic Functions and their Properties.ahk
 https://www.youtube.com/watch?v=dc4KKY9K-js
 
-330331.  3.4 Building Quadratic Models.ahk
+13.  3.4 Building Quadratic Models.ahk
 https://www.youtube.com/watch?v=6QUbRDXBMoM
 
-330345.  3.5 Inequalities Involving Quadratic Functions.ahk
+14.  3.5 Inequalities Involving Quadratic Functions.ahk
 https://www.youtube.com/watch?v=7g6cj-PY76Q
 
-330360.  4.1 Polynomial Functions and Models.ahk
+15.  4.1 Polynomial Functions and Models.ahk
 https://www.youtube.com/watch?v=kfVIeRZiD0s
 
-330376.  4.2 The Real Zeros of a Polynomial Function.ahk
+16.  4.2 The Real Zeros of a Polynomial Function.ahk
 https://www.youtube.com/watch?v=_E3hmmdZRDY
 
-330393.  4.3 Complex Zeros, Fundamental Theorem of Algebra.ahk
+17.  4.3 Complex Zeros, Fundamental Theorem of Algebra.ahk
 https://www.youtube.com/watch?v=SvmhzXf_6qA
 
-330411.  4.4 Properties of Rational Functions.ahk
+18.  4.4 Properties of Rational Functions.ahk
 https://www.youtube.com/watch?v=3aFOhoZxGzU
 
-330430.  4.5 The Graph of a Rational Function.ahk
+19.  4.5 The Graph of a Rational Function.ahk
 https://www.youtube.com/watch?v=_15IAmjSwSY
 
-330450.  5.1 Composite Functions.ahk
+20.  5.1 Composite Functions.ahk
 https://www.youtube.com/watch?v=LO1qBzRFdIc
 
-330471.  5.2 One to One FunctionsInverse Functions.ahk
+21.  5.2 One to One FunctionsInverse Functions.ahk
 https://www.youtube.com/watch?v=EX4YZblV4zM
 
-330493.  5.3 Exponential Functions.ahk
+22.  5.3 Exponential Functions.ahk
 https://www.youtube.com/watch?v=Utj-sEjZ-mc
 
-330516.  5.4 Logarithmic Functions.ahk
+23.  5.4 Logarithmic Functions.ahk
 https://www.youtube.com/watch?v=RLj2qJkgn8s
 
-330540.  5.5 Properties of Logarithms.ahk
+24.  5.5 Properties of Logarithms.ahk
 https://www.youtube.com/watch?v=riC_Q724mPI
 
-330565.  5.6 Logarithmic and Exponential Functions.ahk
+25.  5.6 Logarithmic and Exponential Functions.ahk
 https://www.youtube.com/watch?v=9Y6RqAz3xhU
 
-330591.  5.7 Financial Models.ahk
+26.  5.7 Financial Models.ahk
 https://www.youtube.com/watch?v=Qp10adAljTk
 
-330618.  5.8 Exponential Growth and Decay.ahk
+27.  5.8 Exponential Growth and Decay.ahk
 https://www.youtube.com/watch?v=-c2EqvfWhGE
 
-330646.  6.1 Angles and their Measure.ahk
+28.  6.1 Angles and their Measure.ahk
 https://www.youtube.com/watch?v=iWn0f_G87Ug
 
-330675.  6.2 Trigonometric Functions Unit Circle Approach.ahk
+29.  6.2 Trigonometric Functions Unit Circle Approach.ahk
 https://www.youtube.com/watch?v=Kt-Jw5jvnIg
 
-330705.  6.2 Trigonometric Functions; Unit Circle Approach, part 2.ahk
+30.  6.2 Trigonometric Functions; Unit Circle Approach, part 2.ahk
 https://www.youtube.com/watch?v=2lgXqcNMYHY
 
-330736.  6.3 Properties of the Trigonometric Functions.ahk
+31.  6.3 Properties of the Trigonometric Functions.ahk
 https://www.youtube.com/watch?v=Dz1m1IX2X5s
 
-330768.  6.4 Graphs of the Sine and Cosine Functions.ahk
+32.  6.4 Graphs of the Sine and Cosine Functions.ahk
 https://www.youtube.com/watch?v=QKgd7GVs42s
 
-330801.  6.5 Graphs of the Tangent, Cotangent, Secant and Cosecant Functions.ahk
+33.  6.5 Graphs of the Tangent, Cotangent, Secant and Cosecant Functions.ahk
 https://www.youtube.com/watch?v=oYnsH6zqbbE
 
-330835.  6.6 Phase Shift.ahk
+34.  6.6 Phase Shift.ahk
 https://www.youtube.com/watch?v=YnoVHkPyKWQ
 
-330870.  Arc Length.ahk
+35.  Arc Length.ahk
 https://www.youtube.com/watch?v=bVHu-NICGBQ
 
-330906.  Basic Terms in Trigonometry.ahk
+36.  Basic Terms in Trigonometry.ahk
 https://www.youtube.com/watch?v=DlbSZFfiwgo
 
-330943.  Converting Degrees to Radian and vice versa.ahk
+37.  Converting Degrees to Radian and vice versa.ahk
 https://www.youtube.com/watch?v=5YL_ElY6GuA
 
-330981.  Finding the Equation of the Circle given the Radius and Center.ahk
+38.  Finding the Equation of the Circle given the Radius and Center.ahk
 https://www.youtube.com/watch?v=lyb7f1VdxMU
 
-331020.  Introduction to Hyperbola.ahk
+39.  Introduction to Hyperbola.ahk
 https://www.youtube.com/watch?v=ylNJHUZm2Jw
 
-331060.  Pre-Calculus  - Trigonometric Function  The Unit Circle and Quadrantal Angles.ahk
+40.  Pre-Calculus  - Trigonometric Function  The Unit Circle and Quadrantal Angles.ahk
 https://www.youtube.com/watch?v=fXm99ZCNAeQ
 
-331101.  Pre-Calculus  ARITHMETIC SEQUENCE.ahk
+41.  Pre-Calculus  ARITHMETIC SEQUENCE.ahk
 https://www.youtube.com/watch?v=Q54oE7oU4Lg
 
-331143.  Pre-Calculus  Conic Section  Parabola.ahk
+42.  Pre-Calculus  Conic Section  Parabola.ahk
 https://www.youtube.com/watch?v=kUubllxCd2I
 
-331186.  Pre-Calculus  Conic Sections - ELLIPSE.ahk
+43.  Pre-Calculus  Conic Sections - ELLIPSE.ahk
 https://www.youtube.com/watch?v=dZHNJfetbZg
 
-331230.  Pre-Calculus  GEOMETRIC SEQUENCE.ahk
+44.  Pre-Calculus  GEOMETRIC SEQUENCE.ahk
 https://www.youtube.com/watch?v=SnAL1_a0Y9A
 
-331275.  Pre-Calculus  Hyperbola -  Transforming General Form to Standard Form.ahk
+45.  Pre-Calculus  Hyperbola -  Transforming General Form to Standard Form.ahk
 https://www.youtube.com/watch?v=dyJUHY0a3yM
 
-331321.  Pre-Calculus  Hyperbola - Finding the Standard Form given the Characteristics.ahk
+46.  Pre-Calculus  Hyperbola - Finding the Standard Form given the Characteristics.ahk
 https://www.youtube.com/watch?v=oPZIbUvRZDY
 
-331368.  Pre-Calculus  Hyperbola - Given the Equation in Standard Form with the Center at ( h , k ).ahk
+47.  Pre-Calculus  Hyperbola - Given the Equation in Standard Form with the Center at ( h , k ).ahk
 https://www.youtube.com/watch?v=X-cICioOQZU
 
-331416.  Pre-Calculus  Hyperbola - Given the Standard Form with the Center at the Origin ( Part 2 ).ahk
+48.  Pre-Calculus  Hyperbola - Given the Standard Form with the Center at the Origin ( Part 2 ).ahk
 https://www.youtube.com/watch?v=2yVWRmVY_rM
 
-331465.  Pre-Calculus  Introduction to Conic Sections.ahk
+49.  Pre-Calculus  Introduction to Conic Sections.ahk
 https://www.youtube.com/watch?v=mU76dQpPoFw
 
-331515.  Pre-Calculus  Introduction to Series.ahk
+50.  Pre-Calculus  Introduction to Series.ahk
 https://www.youtube.com/watch?v=f23389eYkKM
 
-331566.  Pre-Calculus  Trigonometric Function- Angles in The Rectangular Coordinate System.ahk
+51.  Pre-Calculus  Trigonometric Function- Angles in The Rectangular Coordinate System.ahk
 https://www.youtube.com/watch?v=YhpyybLQ1Ng
 
-331618.  Pre-Calculus ( Part 2 ) - Trigonometric Function  The Unit Circle and The 45-45-90 Degree Angles.ahk
+52.  Pre-Calculus ( Part 2 ) - Trigonometric Function  The Unit Circle and The 45-45-90 Degree Angles.ahk
 https://www.youtube.com/watch?v=TarEQLOdSQ8
 
-331671.  Pre-Calculus (Part 3) - Trigonometric Function  The Unit Circle and The 30-60-90 Degree Angles.ahk
+53.  Pre-Calculus (Part 3) - Trigonometric Function  The Unit Circle and The 30-60-90 Degree Angles.ahk
 https://www.youtube.com/watch?v=_uYkeJSoBqg
 
-331725.  Pre-Calculus - Circle  How to GRAPH using the Cartesian Plane.ahk
+54.  Pre-Calculus - Circle  How to GRAPH using the Cartesian Plane.ahk
 https://www.youtube.com/watch?v=ffBIxVjtdTE
 
-331780.  Pre-Calculus - Circle  Transforming General Form into Standard Form.ahk
+55.  Pre-Calculus - Circle  Transforming General Form into Standard Form.ahk
 https://www.youtube.com/watch?v=mbg6Mxpw5AA
 
-331836.  Pre-Calculus - Circle - Transforming Standard Form into General Form.ahk
+56.  Pre-Calculus - Circle - Transforming Standard Form into General Form.ahk
 https://www.youtube.com/watch?v=oU1n4b_QhqA
 
-331893.  Pre-Calculus - Conic Sections  CIRCLE.ahk
+57.  Pre-Calculus - Conic Sections  CIRCLE.ahk
 https://www.youtube.com/watch?v=pVIznjMLz-8
 
-331951.  Pre-Calculus - Ellipse  If the Center is (0,0) find the foci, vertices and covertices.ahk
+58.  Pre-Calculus - Ellipse  If the Center is (0,0) find the foci, vertices and covertices.ahk
 https://www.youtube.com/watch?v=laTIv67eRfI
 
-332010.  Pre-Calculus - Ellipse  If the Center is (h,k) find the foci, vertices and covertices.ahk
+59.  Pre-Calculus - Ellipse  If the Center is (h,k) find the foci, vertices and covertices.ahk
 https://www.youtube.com/watch?v=mI51ajakCW0
 
-332070.  Pre-Calculus - Ellipse  Transforming General Form of Ellipse to Standard Form.ahk
+60.  Pre-Calculus - Ellipse  Transforming General Form of Ellipse to Standard Form.ahk
 https://www.youtube.com/watch?v=kb0ey7vFPPU
 
-332131.  Pre-Calculus - Ellipse  Transforming Standard Form to General Form of Ellipse.ahk
+61.  Pre-Calculus - Ellipse  Transforming Standard Form to General Form of Ellipse.ahk
 https://www.youtube.com/watch?v=bWqJdMZ8p8A
 
-332193.  Pre-Calculus - Introduction to Sequence.ahk
+62.  Pre-Calculus - Introduction to Sequence.ahk
 https://www.youtube.com/watch?v=8JgXN-oicnI
 
-332256.  Pre-Calculus - Parabola  If the Vertex is (0,0) find the Focus, Directrix, Axis of Symmetry, Latus.ahk
+63.  Pre-Calculus - Parabola  If the Vertex is (0,0) find the Focus, Directrix, Axis of Symmetry, Latus.ahk
 https://www.youtube.com/watch?v=zUsnPTKefHg
 
-332320.  Pre-Calculus - Parabola  If the Vertex is (h,k), find the Focus, Directrix and Axis of Symmetry.ahk
+64.  Pre-Calculus - Parabola  If the Vertex is (h,k), find the Focus, Directrix and Axis of Symmetry.ahk
 https://www.youtube.com/watch?v=qf0R43oB-uU
 
-332385.  Pre-Calculus - Parabola  Transforming General Form to Standard Form of Parabola.ahk
+65.  Pre-Calculus - Parabola  Transforming General Form to Standard Form of Parabola.ahk
 https://www.youtube.com/watch?v=HzU8qyhmaAc
 
-332451.  Pre-Calculus - Parabola  Transforming Standard Form to General Form of Parabola.ahk
+66.  Pre-Calculus - Parabola  Transforming Standard Form to General Form of Parabola.ahk
 https://www.youtube.com/watch?v=kpkeCEua3cI
 
-332518.  Pre-Calculus Conic Section - HYPERBOLA.ahk
+67.  Pre-Calculus Conic Section - HYPERBOLA.ahk
 https://www.youtube.com/watch?v=IETGYpnh9j8
 
-332586.  Pre-Calculus Hyperbola - Given the Equation in Standard Form with Center at the Origin.ahk
+68.  Pre-Calculus Hyperbola - Given the Equation in Standard Form with Center at the Origin.ahk
 https://www.youtube.com/watch?v=V8cNP5sJyC4
 
-332655.  Precalculus Lesson A1.ahk
+69.  Precalculus Lesson A1.ahk
 https://www.youtube.com/watch?v=kHtu6AA7Ju0
 
-332725.  The Unit Circle and 30-60-90 degree Angles.ahk
+70.  The Unit Circle and 30-60-90 degree Angles.ahk
 https://www.youtube.com/watch?v=am7ipv3LlZ0
 
-332796.  The Unit Circle and The 45-45-90 Degree Angles.ahk
+71.  The Unit Circle and The 45-45-90 Degree Angles.ahk
 https://www.youtube.com/watch?v=p8Eg2VVG_dI
 
-332868.  The Unit Circle and The Quadrantal Angles.ahk
+72.  The Unit Circle and The Quadrantal Angles.ahk
 https://www.youtube.com/watch?v=RRGLiR_vRgQ
 
-332941.  The Unit Circle and The Special Angles.ahk
+73.  The Unit Circle and The Special Angles.ahk
 https://www.youtube.com/watch?v=Xcyvy4yAfP4
 
-333015.  Trigonometrc Function shortcut # 1 ( Sine Function ).ahk
+74.  Trigonometrc Function shortcut # 1 ( Sine Function ).ahk
 https://www.youtube.com/watch?v=x0F4ZRBNz0I
 
-333090.  Trigonometric Function  shortcut # 2.ahk
+75.  Trigonometric Function  shortcut # 2.ahk
 https://www.youtube.com/watch?v=iVQLJlU-lRk
 
-333166.  Trigonometric Function  shortcut # 3 ( tangent function ).ahk
+76.  Trigonometric Function  shortcut # 3 ( tangent function ).ahk
 https://www.youtube.com/watch?v=L6ejwBFl8SU
 Pre-Calculus

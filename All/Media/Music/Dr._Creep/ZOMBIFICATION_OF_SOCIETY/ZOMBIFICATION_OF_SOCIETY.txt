@@ -1,58 +1,58 @@
 
-2424.  ANCIENT LOGISTICS (Prod by Sultan Mir).ahk
+1.  ANCIENT LOGISTICS (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/ancient-logistics-prod-by-sultan-mir
 
-2426.  CLOAKED GOBLIN (Prod by Andre Nizzari).ahk
+2.  CLOAKED GOBLIN (Prod by Andre Nizzari).ahk
 https://drcreep.bandcamp.com/track/cloaked-goblin-prod-by-andre-nizzari
 
-2429.  COURTEOUS VIGILANCE ft DJ TMB (Prod by Sultan Mir).ahk
+3.  COURTEOUS VIGILANCE ft DJ TMB (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/courteous-vigilance-ft-dj-tmb-prod-by-sultan-mir
 
-2433.  DEATH ARRIVES ON HORSEBACK ft PHXKEV & DJ TMB (Prod by Cotardz).ahk
+4.  DEATH ARRIVES ON HORSEBACK ft PHXKEV & DJ TMB (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/death-arrives-on-horseback-ft-phxkev-dj-tmb-prod-by-cotardz
 
-2438.  GREY OCTOBER (Prod by Cotardz).ahk
+5.  GREY OCTOBER (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/grey-october-prod-by-cotardz
 
-2444.  LEVEL UP (Prod by Sultan Mir).ahk
+6.  LEVEL UP (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/level-up-prod-by-sultan-mir
 
-2451.  MIND CONTROL (Prod by Sultan Mir).ahk
+7.  MIND CONTROL (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/mind-control-prod-by-sultan-mir
 
-2459.  MYSTERY OF PYRAMID LAKE (Prod by Andre Nizzari).ahk
+8.  MYSTERY OF PYRAMID LAKE (Prod by Andre Nizzari).ahk
 https://drcreep.bandcamp.com/track/mystery-of-pyramid-lake-prod-by-andre-nizzari
 
-2468.  REAL REVOLUTION ft Solow (Prod by Cotardz).ahk
+9.  REAL REVOLUTION ft Solow (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/real-revolution-ft-solow-prod-by-cotardz
 
-2478.  SOCIAL EXPERIMENT ft Solow (Prod by Cotardz).ahk
+10.  SOCIAL EXPERIMENT ft Solow (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/social-experiment-ft-solow-prod-by-cotardz
 
-2489.  SOULLESS CORPSE ft DJ TMB (Prod by Sultan Mir).ahk
+11.  SOULLESS CORPSE ft DJ TMB (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/soulless-corpse-ft-dj-tmb-prod-by-sultan-mir
 
-2501.  STORMBORN NIGHT (Prod by Sultan Mir).ahk
+12.  STORMBORN NIGHT (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/stormborn-night-prod-by-sultan-mir
 
-2514.  STRANGER THINGS HAPPENING (Prod by Cotardz).ahk
+13.  STRANGER THINGS HAPPENING (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/stranger-things-happening-prod-by-cotardz
 
-2528.  THE DIGITAL LIVING DEAD ft Solow (Prod by Cotardz).ahk
+14.  THE DIGITAL LIVING DEAD ft Solow (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/the-digital-living-dead-ft-solow-prod-by-cotardz
 
-2543.  THE HIGH LEAVES U BLIND ft Solow (Prod by Cotardz).ahk
+15.  THE HIGH LEAVES U BLIND ft Solow (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/the-high-leaves-u-blind-ft-solow-prod-by-cotardz
 
-2559.  THIS OLD HOUSE ft Eskr One (Prod by Cotardz).ahk
+16.  THIS OLD HOUSE ft Eskr One (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/this-old-house-ft-eskr-one-prod-by-cotardz
 
-2576.  UTOPIA TO DYSTOPIA ft DJ TMB (Prod by Cotardz).ahk
+17.  UTOPIA TO DYSTOPIA ft DJ TMB (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/utopia-to-dystopia-ft-dj-tmb-prod-by-cotardz
 
-2594.  WINDOW OF VULNERABILITY ft DJ TMB (Prod by Cotardz).ahk
+18.  WINDOW OF VULNERABILITY ft DJ TMB (Prod by Cotardz).ahk
 https://drcreep.bandcamp.com/track/window-of-vulnerability-ft-dj-tmb-prod-by-cotardz
 
-2613.  ZOMBIFICATION OF SOCIETY (Prod by Sultan Mir).ahk
+19.  ZOMBIFICATION OF SOCIETY (Prod by Sultan Mir).ahk
 https://drcreep.bandcamp.com/track/zombification-of-society-prod-by-sultan-mir
 ZOMBIFICATION OF SOCIETY

@@ -1,124 +1,124 @@
 
-18596.  Low Cost Streaming IP Camera with Raspberry Pi.ahk
+1.  Low Cost Streaming IP Camera with Raspberry Pi.ahk
 https://www.youtube.com/watch?v=Ug1uE9hEO80
 
-18598.  Raspberry Pi LESSON 28. Controlling a Servo with Raspberry Pi and Python.ahk
+2.  Raspberry Pi LESSON 28. Controlling a Servo with Raspberry Pi and Python.ahk
 https://www.youtube.com/watch?v=SGwhx1MYXUs
 
-18601.  Raspberry Pi LESSON 29 Using GPIO pins as Inputs and Reading them in Python.ahk
+3.  Raspberry Pi LESSON 29 Using GPIO pins as Inputs and Reading them in Python.ahk
 https://www.youtube.com/watch?v=lOb4G8Le9fQ
 
-18605.  Raspberry Pi LESSON 30 Control LEDs with Buttons on GPIO Pins.ahk
+4.  Raspberry Pi LESSON 30 Control LEDs with Buttons on GPIO Pins.ahk
 https://www.youtube.com/watch?v=9X5z2lxe8Vs
 
-18610.  Raspberry Pi LESSON 31 Creating a Dimable LED Using Python.ahk
+5.  Raspberry Pi LESSON 31 Creating a Dimable LED Using Python.ahk
 https://www.youtube.com/watch?v=jCjYg3OKsO4
 
-18616.  Raspberry Pi LESSON 32 Analog Input for the Raspberry Pi.ahk
+6.  Raspberry Pi LESSON 32 Analog Input for the Raspberry Pi.ahk
 https://www.youtube.com/watch?v=uO5ubW1KlnI
 
-18623.  Raspberry Pi LESSON 33 Graphical User Interface like Windows.ahk
+7.  Raspberry Pi LESSON 33 Graphical User Interface like Windows.ahk
 https://www.youtube.com/watch?v=O_d53O8fO90
 
-18631.  Raspberry Pi LESSON 35 Install a Free Full Featured Spreadsheet and Word Processor.ahk
+8.  Raspberry Pi LESSON 35 Install a Free Full Featured Spreadsheet and Word Processor.ahk
 https://www.youtube.com/watch?v=Y6aEmNWZLs4
 
-18640.  Raspberry Pi LESSON 36 Make Your Pi a One Click Machine.ahk
+9.  Raspberry Pi LESSON 36 Make Your Pi a One Click Machine.ahk
 https://www.youtube.com/watch?v=HFJY4YWB_0s
 
-18650.  Raspberry Pi LESSON 37 How to Run a Remote Graphical Desktop on Raspberry Pi.ahk
+10.  Raspberry Pi LESSON 37 How to Run a Remote Graphical Desktop on Raspberry Pi.ahk
 https://www.youtube.com/watch?v=jtgk8MSo_hA
 
-18661.  Raspberry Pi Linus LESSON 20 Backing Up your SD Card and Operating System.ahk
+11.  Raspberry Pi Linus LESSON 20 Backing Up your SD Card and Operating System.ahk
 https://www.youtube.com/watch?v=mYdiP__qX7g
 
-18673.  Raspberry Pi Linus LESSON 21 Create a New admin User Like Pi.ahk
+12.  Raspberry Pi Linus LESSON 21 Create a New admin User Like Pi.ahk
 https://www.youtube.com/watch?v=R1btJ323PoU
 
-18686.  Raspberry Pi Linux LESSON 11 Fixing Problem with Keyboards in US.ahk
+13.  Raspberry Pi Linux LESSON 11 Fixing Problem with Keyboards in US.ahk
 https://www.youtube.com/watch?v=rq4dban5qHo
 
-18700.  Raspberry Pi Linux LESSON 12 More on Linux Path Names.ahk
+14.  Raspberry Pi Linux LESSON 12 More on Linux Path Names.ahk
 https://www.youtube.com/watch?v=Wt0LQ-F2MK0
 
-18715.  Raspberry Pi Linux LESSON 13 Using the Linux Pipe Command.ahk
+15.  Raspberry Pi Linux LESSON 13 Using the Linux Pipe Command.ahk
 https://www.youtube.com/watch?v=K7tEfOSRCtk
 
-18731.  Raspberry Pi Linux LESSON 14 Using Linux Tee Command.ahk
+16.  Raspberry Pi Linux LESSON 14 Using Linux Tee Command.ahk
 https://www.youtube.com/watch?v=uMsAS5qh6HE
 
-18748.  Raspberry Pi Linux LESSON 15 Using the Linux Find Command.ahk
+17.  Raspberry Pi Linux LESSON 15 Using the Linux Find Command.ahk
 https://www.youtube.com/watch?v=6vZIT-w9Ztk
 
-18766.  Raspberry Pi Linux LESSON 16 Search Inside Files with Grep.ahk
+18.  Raspberry Pi Linux LESSON 16 Search Inside Files with Grep.ahk
 https://www.youtube.com/watch?v=xtqLTDx6tcA
 
-18785.  Raspberry PI Linux LESSON 17 Finding the Raspberry Pi IP Address.ahk
+19.  Raspberry PI Linux LESSON 17 Finding the Raspberry Pi IP Address.ahk
 https://www.youtube.com/watch?v=OGpT3V5XD24
 
-18805.  Raspberry Pi Linux LESSON 18 Remotely Connect from Windows with Putty SSH Telnet Client.ahk
+20.  Raspberry Pi Linux LESSON 18 Remotely Connect from Windows with Putty SSH Telnet Client.ahk
 https://www.youtube.com/watch?v=nQo5Qhvx5nc
 
-18826.  Raspberry Pi Linux LESSON 19 Adding New Users.ahk
+21.  Raspberry Pi Linux LESSON 19 Adding New Users.ahk
 https://www.youtube.com/watch?v=KdNwnAnY7PI
 
-18848.  Raspberry Pi Linux LESSON 2 Formatting SD Card and Installing Operating System.ahk
+22.  Raspberry Pi Linux LESSON 2 Formatting SD Card and Installing Operating System.ahk
 https://www.youtube.com/watch?v=ZGEqa1VShBM
 
-18871.  Raspberry Pi Linux LESSON 22 Understanding Linux File and Folder Permissions.ahk
+23.  Raspberry Pi Linux LESSON 22 Understanding Linux File and Folder Permissions.ahk
 https://www.youtube.com/watch?v=76BAQ3fPHzs
 
-18895.  Raspberry Pi Linux LESSON 23 How to Change File Permissions.ahk
+24.  Raspberry Pi Linux LESSON 23 How to Change File Permissions.ahk
 https://www.youtube.com/watch?v=mnqefr5ldFw
 
-18920.  Raspberry Pi Linux LESSON 24 Running Python on the Raspberry Pi.ahk
+25.  Raspberry Pi Linux LESSON 24 Running Python on the Raspberry Pi.ahk
 https://www.youtube.com/watch?v=AfV9c5kIj-k
 
-18946.  Raspberry Pi Linux LESSON 25 GPIO Pinout for the Raspberry Pi 2.ahk
+26.  Raspberry Pi Linux LESSON 25 GPIO Pinout for the Raspberry Pi 2.ahk
 https://www.youtube.com/watch?v=oJfCcz2Ka0Y
 
-18973.  Raspberry Pi Linux LESSON 26 Controlling the Raspberry Pi GPIO pins from Python.ahk
+27.  Raspberry Pi Linux LESSON 26 Controlling the Raspberry Pi GPIO pins from Python.ahk
 https://www.youtube.com/watch?v=EM5gnNg7JTI
 
-19001.  Raspberry Pi Linux LESSON 27 PWM Output on GPIO Pins from Python.ahk
+28.  Raspberry Pi Linux LESSON 27 PWM Output on GPIO Pins from Python.ahk
 https://www.youtube.com/watch?v=9tActipVqIM
 
-19030.  Raspberry Pi Linux LESSON 3 Navigating File Structure in Linux.ahk
+29.  Raspberry Pi Linux LESSON 3 Navigating File Structure in Linux.ahk
 https://www.youtube.com/watch?v=KQlF7IfgZ28
 
-19060.  Raspberry Pi Linux Lesson 4 Creating and Editing Files with Nano Command.ahk
+30.  Raspberry Pi Linux Lesson 4 Creating and Editing Files with Nano Command.ahk
 https://www.youtube.com/watch?v=boD-opv0fMs
 
-19091.  Raspberry Pi Linux LESSON 5 Naming Files and Folders.ahk
+31.  Raspberry Pi Linux LESSON 5 Naming Files and Folders.ahk
 https://www.youtube.com/watch?v=I37YydPSH0g
 
-19123.  Raspberry Pi Linux LESSON 6 Moving, Copying and Deleting Files and Folders.ahk
+32.  Raspberry Pi Linux LESSON 6 Moving, Copying and Deleting Files and Folders.ahk
 https://www.youtube.com/watch?v=XJh-e9ZNzsw
 
-19156.  Raspberry Pi Linux LESSON 7 Using the Wildcard.ahk
+33.  Raspberry Pi Linux LESSON 7 Using the Wildcard.ahk
 https://www.youtube.com/watch?v=tXKO_Z2S0vk
 
-19190.  Raspberry Pi Linux LESSON 9 Using the Linux Sort Command.ahk
+34.  Raspberry Pi Linux LESSON 9 Using the Linux Sort Command.ahk
 https://www.youtube.com/watch?v=UAIhfmGC_-E
 
-19225.  Raspberry Pi with Linux LESSON 1 Introduction to the Raspberry Pi.ahk
+35.  Raspberry Pi with Linux LESSON 1 Introduction to the Raspberry Pi.ahk
 https://www.youtube.com/watch?v=J4fhE4Pp55E
 
-19261.  Raspberry Pi with Linux LESSON 10 Safely Shutting Down the Raspberry Pi.ahk
+36.  Raspberry Pi with Linux LESSON 10 Safely Shutting Down the Raspberry Pi.ahk
 https://www.youtube.com/watch?v=IZPhKhlo-yM
 
-19298.  Raspberry Pi with Linux LESSON 8 Sending Linux Command Output to Files.ahk
+37.  Raspberry Pi with Linux LESSON 8 Sending Linux Command Output to Files.ahk
 https://www.youtube.com/watch?v=nPLfZwUtM7E
 
-19336.  Raspberry Pi Zero Model W Tutorial 1 Setting up and Booting the Pi 0 Wifi.ahk
+38.  Raspberry Pi Zero Model W Tutorial 1 Setting up and Booting the Pi 0 Wifi.ahk
 https://www.youtube.com/watch?v=PYENjCYWJ0A
 
-19375.  Raspberry Pi Zero Model W Tutorial 2 Making a Wireless Portable IP Camera.ahk
+39.  Raspberry Pi Zero Model W Tutorial 2 Making a Wireless Portable IP Camera.ahk
 https://www.youtube.com/watch?v=r5pXWky_3T0
 
-19415.  Review of Raspberry PI Zero.ahk
+40.  Review of Raspberry PI Zero.ahk
 https://www.youtube.com/watch?v=_r-N3Rj4voc
 
-19456.  The Ultimate Raspberry Pi Project.ahk
+41.  The Ultimate Raspberry Pi Project.ahk
 https://www.youtube.com/watch?v=PKceYYBdns0
 Raspberry Pi with Linux LESSONS

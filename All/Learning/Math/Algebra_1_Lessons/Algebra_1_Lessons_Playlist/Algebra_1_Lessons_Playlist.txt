@@ -1,85 +1,85 @@
 
-132658.  Algebra 1 Exponential Growth & Decay Functions Introduction.ahk
+1.  Algebra 1 Exponential Growth & Decay Functions Introduction.ahk
 https://www.youtube.com/watch?v=i5nxh_9yZjo
 
-132660.  Algebra 1 How to Solve Absolute Value Equations.ahk
+2.  Algebra 1 How to Solve Absolute Value Equations.ahk
 https://www.youtube.com/watch?v=mEkIDN3uXlE
 
-132663.  Algebra 1 How to Solve Absolute Value Inequalities.ahk
+3.  Algebra 1 How to Solve Absolute Value Inequalities.ahk
 https://www.youtube.com/watch?v=vlJceChA424
 
-132667.  Algebra 1 Solving Multi Step Equations 18 Full Practice Problems.ahk
+4.  Algebra 1 Solving Multi Step Equations 18 Full Practice Problems.ahk
 https://www.youtube.com/watch?v=SfeNaF-X4DY
 
-132672.  Algebra 1 Systems of Linear Inequalities (Applications).ahk
+5.  Algebra 1 Systems of Linear Inequalities (Applications).ahk
 https://www.youtube.com/watch?v=-6KWeSkbfoQ
 
-132678.  Finding Zeroes of Quadratics - Lofi Math Homework.ahk
+6.  Finding Zeroes of Quadratics - Lofi Math Homework.ahk
 https://www.youtube.com/watch?v=hwKAnlYmgvA
 
-132685.  Graphing Quadratic Functions from Vertex Form.ahk
+7.  Graphing Quadratic Functions from Vertex Form.ahk
 https://www.youtube.com/watch?v=-mTz0QPuBk4
 
-132693.  Graphing Quadratics - Lofi Math Homework.ahk
+8.  Graphing Quadratics - Lofi Math Homework.ahk
 https://www.youtube.com/watch?v=hkG8EZzJr14
 
-132702.  How to Factor 100 Trinomials using this Shortcut.ahk
+9.  How to Factor 100 Trinomials using this Shortcut.ahk
 https://www.youtube.com/watch?v=-BgJA8QeM_0
 
-132712.  How to Graph Quadratic Functions in Standard Form.ahk
+10.  How to Graph Quadratic Functions in Standard Form.ahk
 https://www.youtube.com/watch?v=E68rpc7AS5s
 
-132723.  How to Graph Quadratic Functions in Vertex Form.ahk
+11.  How to Graph Quadratic Functions in Vertex Form.ahk
 https://www.youtube.com/watch?v=l7cz2h4O6Qo
 
-132735.  How to Write Linear Equations in Slope-Intercept Form.ahk
+12.  How to Write Linear Equations in Slope-Intercept Form.ahk
 https://www.youtube.com/watch?v=tJTWTl-wDFs
 
-132748.  Practice Graphing Quadratic Functions Written in Standard Form (4 Examples).ahk
+13.  Practice Graphing Quadratic Functions Written in Standard Form (4 Examples).ahk
 https://www.youtube.com/watch?v=XEzNVeOR0Mo
 
-132762.  Quadratics- Converting Standard Form to Vertex Form by Completing the Square.ahk
+14.  Quadratics- Converting Standard Form to Vertex Form by Completing the Square.ahk
 https://www.youtube.com/watch?v=b30g19rD9IE
 
-132777.  Simplifying Radicals (Square Roots).ahk
+15.  Simplifying Radicals (Square Roots).ahk
 https://www.youtube.com/watch?v=RnTsKAgYE5Y
 
-132793.  Slope-Intercept Form - Lofi Math Homework.ahk
+16.  Slope-Intercept Form - Lofi Math Homework.ahk
 https://www.youtube.com/watch?v=uuO9P6BpKUU
 
-132810.  Solving & Graphing Compound Inequalities.ahk
+17.  Solving & Graphing Compound Inequalities.ahk
 https://www.youtube.com/watch?v=RxSjU5I5H9o
 
-132828.  Solving 1-Step Equations (10 Detailed Examples- Addition Operation Only).ahk
+18.  Solving 1-Step Equations (10 Detailed Examples- Addition Operation Only).ahk
 https://www.youtube.com/watch?v=__MoVgDZZAA
 
-132847.  Solving 1-Step Equations (10 Detailed Examples- Division Operation Only).ahk
+19.  Solving 1-Step Equations (10 Detailed Examples- Division Operation Only).ahk
 https://www.youtube.com/watch?v=uOiX0TvIAxc
 
-132867.  Solving 1-Step Equations (10 Detailed Examples- Multiplication Operation Only).ahk
+20.  Solving 1-Step Equations (10 Detailed Examples- Multiplication Operation Only).ahk
 https://www.youtube.com/watch?v=G9UzM55hBEQ
 
-132888.  Solving 1-Step Equations (10 Detailed Examples- Subtraction Operation Only).ahk
+21.  Solving 1-Step Equations (10 Detailed Examples- Subtraction Operation Only).ahk
 https://www.youtube.com/watch?v=zqossCQwAw8
 
-132910.  Solving 1-Step Equations using the Identity Properties and Properties of Equality.ahk
+22.  Solving 1-Step Equations using the Identity Properties and Properties of Equality.ahk
 https://www.youtube.com/watch?v=zg9l0rWbXXk
 
-132933.  Solving 1-Step Equations with Integers, Fractions & Decimals.ahk
+23.  Solving 1-Step Equations with Integers, Fractions & Decimals.ahk
 https://www.youtube.com/watch?v=SiP--Y15eCQ
 
-132957.  Solving 2-Step Equations (10 Examples).ahk
+24.  Solving 2-Step Equations (10 Examples).ahk
 https://www.youtube.com/watch?v=SiR127jo0fs
 
-132982.  Solving Multi-Step Equations (3 Types).ahk
+25.  Solving Multi-Step Equations (3 Types).ahk
 https://www.youtube.com/watch?v=0vHOzOU_Nr4
 
-133008.  Systems of Linear Equations [SubstitutionElimination].ahk
+26.  Systems of Linear Equations [SubstitutionElimination].ahk
 https://www.youtube.com/watch?v=brx1FdzcMp4
 
-133035.  Understanding Positive, Negative, & Zero Exponents through Patterns.ahk
+27.  Understanding Positive, Negative, & Zero Exponents through Patterns.ahk
 https://www.youtube.com/watch?v=OWX9bvvZ5xA
 
-133063.  Where did the Quadratic Formula come from.ahk
+28.  Where did the Quadratic Formula come from.ahk
 https://www.youtube.com/watch?v=ZzWP_4duOO8
 Algebra 1 Lessons Playlist
