@@ -4,3 +4,4 @@ http:\\www.testlink2.com
 Test Folder
 Test Name 3
 https://maxmeents.github.io/infinitemenu/Links3.txt
+Link Folder 2
