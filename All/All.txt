@@ -1,76 +1,76 @@
 
 %FinputSearchFor%
-https://maxmeents.github.io/infinitemenu/%FinputSearchFor%/%FinputSearchFor%.txt
+https://maxmeents.github.io/infinitemenu/All/%FinputSearchFor%/%FinputSearchFor%.txt
 
 0000
-https://maxmeents.github.io/infinitemenu/0000/0000.txt
+https://maxmeents.github.io/infinitemenu/All/0000/0000.txt
 
 Alternatives
-https://maxmeents.github.io/infinitemenu/Alternatives/Alternatives.txt
+https://maxmeents.github.io/infinitemenu/All/Alternatives/Alternatives.txt
 
 Animals
-https://maxmeents.github.io/infinitemenu/Animals/Animals.txt
+https://maxmeents.github.io/infinitemenu/All/Animals/Animals.txt
 
 Anime
-https://maxmeents.github.io/infinitemenu/Anime/Anime.txt
+https://maxmeents.github.io/infinitemenu/All/Anime/Anime.txt
 
 Arron Crascall
-https://maxmeents.github.io/infinitemenu/Arron_Crascall/Arron_Crascall.txt
+https://maxmeents.github.io/infinitemenu/All/Arron_Crascall/Arron_Crascall.txt
 
 Arts and Crafts
-https://maxmeents.github.io/infinitemenu/Arts_and_Crafts/Arts_and_Crafts.txt
+https://maxmeents.github.io/infinitemenu/All/Arts_and_Crafts/Arts_and_Crafts.txt
 
 Bad Lip Reading
-https://maxmeents.github.io/infinitemenu/Bad_Lip_Reading/Bad_Lip_Reading.txt
+https://maxmeents.github.io/infinitemenu/All/Bad_Lip_Reading/Bad_Lip_Reading.txt
 
 Cars
-https://maxmeents.github.io/infinitemenu/Cars/Cars.txt
+https://maxmeents.github.io/infinitemenu/All/Cars/Cars.txt
 
 Channelling
-https://maxmeents.github.io/infinitemenu/Channelling/Channelling.txt
+https://maxmeents.github.io/infinitemenu/All/Channelling/Channelling.txt
 
 Checkvist
-https://maxmeents.github.io/infinitemenu/Checkvist/Checkvist.txt
+https://maxmeents.github.io/infinitemenu/All/Checkvist/Checkvist.txt
 
 Comedy
-https://maxmeents.github.io/infinitemenu/Comedy/Comedy.txt
+https://maxmeents.github.io/infinitemenu/All/Comedy/Comedy.txt
 
 Computers
-https://maxmeents.github.io/infinitemenu/Computers/Computers.txt
+https://maxmeents.github.io/infinitemenu/All/Computers/Computers.txt
 
 Cooking
-https://maxmeents.github.io/infinitemenu/Cooking/Cooking.txt
+https://maxmeents.github.io/infinitemenu/All/Cooking/Cooking.txt
 
 Facebook
-https://maxmeents.github.io/infinitemenu/Facebook/Facebook.txt
+https://maxmeents.github.io/infinitemenu/All/Facebook/Facebook.txt
 
 Gmail
-https://maxmeents.github.io/infinitemenu/Gmail/Gmail.txt
+https://maxmeents.github.io/infinitemenu/All/Gmail/Gmail.txt
 
 Guided Meditation
-https://maxmeents.github.io/infinitemenu/Guided_Meditation/Guided_Meditation.txt
+https://maxmeents.github.io/infinitemenu/All/Guided_Meditation/Guided_Meditation.txt
 
 Home Improvement
-https://maxmeents.github.io/infinitemenu/Home_Improvement/Home_Improvement.txt
+https://maxmeents.github.io/infinitemenu/All/Home_Improvement/Home_Improvement.txt
 
 Learning
-https://maxmeents.github.io/infinitemenu/Learning/Learning.txt
+https://maxmeents.github.io/infinitemenu/All/Learning/Learning.txt
 
 Liked Videos
-https://maxmeents.github.io/infinitemenu/Liked_Videos/Liked_Videos.txt
+https://maxmeents.github.io/infinitemenu/All/Liked_Videos/Liked_Videos.txt
 
 Media
-https://maxmeents.github.io/infinitemenu/Media/Media.txt
+https://maxmeents.github.io/infinitemenu/All/Media/Media.txt
 
 Money Management
-https://maxmeents.github.io/infinitemenu/Money_Management/Money_Management.txt
+https://maxmeents.github.io/infinitemenu/All/Money_Management/Money_Management.txt
 
 Sports
-https://maxmeents.github.io/infinitemenu/Sports/Sports.txt
+https://maxmeents.github.io/infinitemenu/All/Sports/Sports.txt
 
 Talks
-https://maxmeents.github.io/infinitemenu/Talks/Talks.txt
+https://maxmeents.github.io/infinitemenu/All/Talks/Talks.txt
 
 Wikipedia
-https://maxmeents.github.io/infinitemenu/Wikipedia/Wikipedia.txt
+https://maxmeents.github.io/infinitemenu/All/Wikipedia/Wikipedia.txt
 All
