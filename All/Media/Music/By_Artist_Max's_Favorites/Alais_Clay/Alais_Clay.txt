@@ -1,0 +1,13 @@
+
+1.  Albums on Bandcamp
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/Albums_on_Bandcamp/Albums_on_Bandcamp.txt
+
+2.  All Songs on Bandcamp
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/All_Songs_on_Bandcamp/All_Songs_on_Bandcamp.txt
+
+3.  .ts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/.ts/.ts.txt
+
+4.  Videos on Her youtube page
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/Videos_on_Her_youtube_page/Videos_on_Her_youtube_page.txt
+Alais Clay

@@ -1,76 +1,70 @@
 
-1.  %FinputSearchFor%
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/%FinputSearchFor%/%FinputSearchFor%.txt
-
-2.  0000
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/0000/0000.txt
-
-3.  Alternatives
+1.  Alternatives
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Alternatives/Alternatives.txt
 
-4.  Animals
+2.  Animals
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animals.txt
 
-5.  Anime
+3.  Anime
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Anime/Anime.txt
 
-6.  Arron Crascall
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Arron_Crascall/Arron_Crascall.txt
-
-7.  Arts and Crafts
+4.  Arts and Crafts
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Arts_and_Crafts/Arts_and_Crafts.txt
 
-8.  Bad Lip Reading
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Bad_Lip_Reading/Bad_Lip_Reading.txt
-
-9.  Cars
+5.  Cars
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cars/Cars.txt
 
-10.  Channelling
+6.  Channelling
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Channelling.txt
 
-11.  Checkvist
+7.  Checkvist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Checkvist/Checkvist.txt
 
-12.  Comedy
+8.  Comedy
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Comedy.txt
 
-13.  Computers
+9.  Computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Computers.txt
 
-14.  Cooking
+10.  Cooking
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cooking/Cooking.txt
 
-15.  Facebook
+11.  Facebook
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook.txt
 
-16.  Gmail
+12.  Gmail
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Gmail/Gmail.txt
 
-17.  Guided Meditation
+13.  Guided Meditation
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Guided_Meditation/Guided_Meditation.txt
 
-18.  Home Improvement
+14.  Home Improvement
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Home_Improvement/Home_Improvement.txt
 
-19.  Learning
+15.  Learning
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Learning.txt
 
-20.  Liked Videos
+16.  Liked Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Liked_Videos/Liked_Videos.txt
 
-21.  Media
+17.  Media
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Media.txt
 
-22.  Money Management
+18.  Money Management
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/Money_Management.txt
 
-23.  Sports
+19.  Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music/Music.txt
+
+20.  Netflix
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Netflix/Netflix.txt
+
+21.  Sports
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Sports.txt
 
-24.  Talks
+22.  Talks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Talks/Talks.txt
 
-25.  Wikipedia
+23.  Wikipedia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Wikipedia.txt
 All

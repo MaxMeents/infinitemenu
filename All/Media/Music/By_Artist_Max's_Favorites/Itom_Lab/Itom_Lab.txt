@@ -1,0 +1,7 @@
+
+1.  Albums Bandcamp
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/Albums_Bandcamp.txt
+
+2.  Top Tracks
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Top_Tracks/Top_Tracks.txt
+Itom Lab

@@ -1,0 +1,7 @@
+
+1.  Action Adventure
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Netflix/Action_Adventure/Action_Adventure.txt
+
+2.  Comedies
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Netflix/Comedies/Comedies.txt
+Netflix

@@ -1,0 +1,58 @@
+
+1.  Early Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Early_Music/Early_Music.txt
+
+2.  Expressionist
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Expressionist/Expressionist.txt
+
+3.  High Classical
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/High_Classical/High_Classical.txt
+
+4.  Impressionist
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Impressionist/Impressionist.txt
+
+5.  Mass Requiem
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Mass_Requiem/Mass_Requiem.txt
+
+6.  Medieval
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Medieval/Medieval.txt
+
+7.  Minimalism
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Minimalism/Minimalism.txt
+
+8.  Modern Classical
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Modern_Classical/Modern_Classical.txt
+
+9.  Modern Composition
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Modern_Composition/Modern_Composition.txt
+
+10.  Opera
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Opera/Opera.txt
+
+11.  Oratorio
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Oratorio/Oratorio.txt
+
+12.  Orchestral
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Orchestral/Orchestral.txt
+
+13.  Organum
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Organum/Organum.txt
+
+14.  Renaissance
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Renaissance/Renaissance.txt
+
+15.  Romantic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Romantic/Romantic.txt
+
+16.  Sonata
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Sonata/Sonata.txt
+
+17.  Symphonic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Symphonic/Symphonic.txt
+
+18.  Symphony
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Symphony/Symphony.txt
+
+19.  Wedding Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Wedding_Music/Wedding_Music.txt
+Contemporary Classical

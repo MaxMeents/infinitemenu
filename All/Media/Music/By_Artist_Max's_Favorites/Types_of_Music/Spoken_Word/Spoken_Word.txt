@@ -1,0 +1,46 @@
+
+1.  A cappella
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/A_cappella/A_cappella.txt
+
+2.  Barbershop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Barbershop/Barbershop.txt
+
+3.  Cantique
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Cantique/Cantique.txt
+
+4.  Chicano
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Chicano/Chicano.txt
+
+5.  Classic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Classic/Classic.txt
+
+6.  Conjunto
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Conjunto/Conjunto.txt
+
+7.  Conjunto Progressive
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Conjunto_Progressive/Conjunto_Progressive.txt
+
+8.  Doo-wop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Doo-wop/Doo-wop.txt
+
+9.  Gregorian Chant
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Gregorian_Chant/Gregorian_Chant.txt
+
+10.  New Mex
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/New_Mex/New_Mex.txt
+
+11.  Standards
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Standards/Standards.txt
+
+12.  Tex-Mex
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Tex-Mex/Tex-Mex.txt
+
+13.  Traditional Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Traditional_Pop/Traditional_Pop.txt
+
+14.  Vocal Jazz
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Vocal_Jazz/Vocal_Jazz.txt
+
+15.  Vocal Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Vocal_Pop/Vocal_Pop.txt
+Spoken Word

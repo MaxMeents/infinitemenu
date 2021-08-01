@@ -1,0 +1,124 @@
+
+1.  Acid Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Acid_Rock/Acid_Rock.txt
+
+2.  Adult Alterna
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Adult_Alterna/Adult_Alterna.txt
+
+3.  Adult-Oriented Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Adult-Oriented_Rock/Adult-Oriented_Rock.txt
+
+4.  Afro Punk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Afro_Punk/Afro_Punk.txt
+
+5.  Alternative Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Alternative_Rock/Alternative_Rock.txt
+
+6.  American Traditional Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/American_Traditional_Rock/American_Traditional_Rock.txt
+
+7.  Anatolian Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Anatolian_Rock/Anatolian_Rock.txt
+
+8.  Arena Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Arena_Rock/Arena_Rock.txt
+
+9.  Art Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Art_Rock/Art_Rock.txt
+
+10.  Blues-Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Blues-Rock/Blues-Rock.txt
+
+11.  British Invasion
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/British_Invasion/British_Invasion.txt
+
+12.  Cock Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Cock_Rock/Cock_Rock.txt
+
+13.  Death Metal - Black Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Death_Metal_-_Black_Metal/Death_Metal_-_Black_Metal.txt
+
+14.  Doom Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Doom_Metal/Doom_Metal.txt
+
+15.  Glam Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Glam_Rock/Glam_Rock.txt
+
+16.  Gothic Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Gothic_Metal/Gothic_Metal.txt
+
+17.  Grind Core
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Grind_Core/Grind_Core.txt
+
+18.  Hair Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Hair_Metal/Hair_Metal.txt
+
+19.  Hard Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Hard_Rock/Hard_Rock.txt
+
+20.  Jam Bands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Jam_Bands/Jam_Bands.txt
+
+21.  Math Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Math_Metal/Math_Metal.txt
+
+22.  Math Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Math_Rock/Math_Rock.txt
+
+23.  Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Metal/Metal.txt
+
+24.  Metal Core
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Metal_Core/Metal_Core.txt
+
+25.  Noise Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Noise_Rock/Noise_Rock.txt
+
+26.  Post Punk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Post_Punk/Post_Punk.txt
+
+27.  Prog-Rock-Art Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Prog-Rock-Art_Rock/Prog-Rock-Art_Rock.txt
+
+28.  Progressive Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Progressive_Metal/Progressive_Metal.txt
+
+29.  Psychedelic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Psychedelic/Psychedelic.txt
+
+30.  Rock  and  Roll
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Rock__and__Roll/Rock__and__Roll.txt
+
+31.  Rockabilly
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Rockabilly/Rockabilly.txt
+
+32.  Roots Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Roots_Rock/Roots_Rock.txt
+
+33.  Southern Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Southern_Rock/Southern_Rock.txt
+
+34.  Spazzcore
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Spazzcore/Spazzcore.txt
+
+35.  Stoner Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Stoner_Metal/Stoner_Metal.txt
+
+36.  Surf
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Surf/Surf.txt
+
+37.  Technical Death Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Technical_Death_Metal/Technical_Death_Metal.txt
+
+38.  Tex-Mex
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Tex-Mex/Tex-Mex.txt
+
+39.  Thrash Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Thrash_Metal/Thrash_Metal.txt
+
+40.  Time Lord Rock (Trock)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Time_Lord_Rock_(Trock)/Time_Lord_Rock_(Trock).txt
+
+41.  Trip-hop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Rock/Trip-hop/Trip-hop.txt
+Rock

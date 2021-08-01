@@ -1,0 +1,40 @@
+
+1.  Alternative Dance
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Alternative_Dance/Alternative_Dance.txt
+
+2.  Dance-Punk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Dance-Punk/Dance-Punk.txt
+
+3.  Dance-Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Dance-Rock/Dance-Rock.txt
+
+4.  Dark Wave
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Dark_Wave/Dark_Wave.txt
+
+5.  Electroclash
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Electroclash/Electroclash.txt
+
+6.  Electronicore
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Electronicore/Electronicore.txt
+
+7.  Electropunk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Electropunk/Electropunk.txt
+
+8.  Ethereal Wave
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Ethereal_Wave/Ethereal_Wave.txt
+
+9.  Indietronica
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Indietronica/Indietronica.txt
+
+10.  New Rave
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/New_Rave/New_Rave.txt
+
+11.  Space Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Space_Rock/Space_Rock.txt
+
+12.  Synthpop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Synthpop/Synthpop.txt
+
+13.  Synthpunk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic_Rock/Synthpunk/Synthpunk.txt
+Electronic Rock

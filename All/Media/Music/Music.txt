@@ -1,109 +1,22 @@
 
-1.  0
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/0/0.txt
+1.  Best of 2000s Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Best_of_2000s_Music/Best_of_2000s_Music.txt
 
-2.  Alais Clay
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Alais_Clay/Alais_Clay.txt
+2.  Best of 50s Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Best_of_50s_Music/Best_of_50s_Music.txt
 
-3.  Apokalypse
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Apokalypse/Apokalypse.txt
+3.  Best of 70s Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Best_of_70s_Music/Best_of_70s_Music.txt
 
-4.  Astarius Miraculii
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Astarius_Miraculii/Astarius_Miraculii.txt
+4.  Best of 80s Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Best_of_80s_Music/Best_of_80s_Music.txt
 
-5.  Atma
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Atma/Atma.txt
+5.  By Artist Max's Favorites
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/By_Artist_Max's_Favorites.txt
 
-6.  Awesome
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Awesome/Awesome.txt
+6.  By Artist Mom's Favorites
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/By_Artist_Mom's_Favorites.txt
 
-7.  Baba Brinkman
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Baba_Brinkman/Baba_Brinkman.txt
-
-8.  Bazookajoe
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Bazookajoe/Bazookajoe.txt
-
-9.  Bob Marley
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Bob_Marley/Bob_Marley.txt
-
-10.  Boy in a Band
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Boy_in_a_Band/Boy_in_a_Band.txt
-
-11.  Celine Dion
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Celine_Dion/Celine_Dion.txt
-
-12.  Colt Truth
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Colt_Truth/Colt_Truth.txt
-
-13.  Dirty Heads
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Dirty_Heads/Dirty_Heads.txt
-
-14.  Empire of the Sun
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Empire_of_the_Sun/Empire_of_the_Sun.txt
-
-15.  Enya
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Enya/Enya.txt
-
-16.  Ephixa
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Ephixa/Ephixa.txt
-
-17.  Illuminati Congo
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Illuminati_Congo/Illuminati_Congo.txt
-
-18.  Itom Lab
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Itom_Lab/Itom_Lab.txt
-
-19.  Khatum
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Khatum/Khatum.txt
-
-20.  Kid Cudi
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Kid_Cudi/Kid_Cudi.txt
-
-21.  Kings of Leon
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Kings_of_Leon/Kings_of_Leon.txt
-
-22.  Korn
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Korn/Korn.txt
-
-23.  Mac Lethal
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Mac_Lethal/Mac_Lethal.txt
-
-24.  Music Composers
+7.  Music Composers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Music_Composers.txt
-
-25.  Natasha Bedingfield
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Natasha_Bedingfield/Natasha_Bedingfield.txt
-
-26.  None Like Josh
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/None_Like_Josh/None_Like_Josh.txt
-
-27.  Nursehella
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Nursehella/Nursehella.txt
-
-28.  PTP
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/PTP/PTP.txt
-
-29.  Quanta
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Quanta/Quanta.txt
-
-30.  Skrillix
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Skrillix/Skrillix.txt
-
-31.  Steve Grant
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Steve_Grant/Steve_Grant.txt
-
-32.  Truthseekah
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Truthseekah/Truthseekah.txt
-
-33.  Types of Music
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Types_of_Music/Types_of_Music.txt
-
-34.  Watsky
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Watsky/Watsky.txt
-
-35.  Wingmakers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Wingmakers/Wingmakers.txt
-
-36.  Wingmakers 2
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Wingmakers_2/Wingmakers_2.txt
 Music

@@ -1,0 +1,127 @@
+
+1.  Acoustic Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Acoustic_Blues/Acoustic_Blues.txt
+
+2.  African Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/African_Blues/African_Blues.txt
+
+3.  Blues Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Blues_Rock/Blues_Rock.txt
+
+4.  Blues Shouter
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Blues_Shouter/Blues_Shouter.txt
+
+5.  British Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/British_Blues/British_Blues.txt
+
+6.  Canadian Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Canadian_Blues/Canadian_Blues.txt
+
+7.  Chicago Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Chicago_Blues/Chicago_Blues.txt
+
+8.  Classic Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Classic_Blues/Classic_Blues.txt
+
+9.  Classic Female Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Classic_Female_Blues/Classic_Female_Blues.txt
+
+10.  Contemporary Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Contemporary_Blues/Contemporary_Blues.txt
+
+11.  Contemporary R and B
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Contemporary_R_and_B/Contemporary_R_and_B.txt
+
+12.  Country Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Country_Blues/Country_Blues.txt
+
+13.  Dark Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Dark_Blues/Dark_Blues.txt
+
+14.  Delta Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Delta_Blues/Delta_Blues.txt
+
+15.  Detroit Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Detroit_Blues/Detroit_Blues.txt
+
+16.  Doom Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Doom_Blues/Doom_Blues.txt
+
+17.  Electric Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Electric_Blues/Electric_Blues.txt
+
+18.  Folk Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Folk_Blues/Folk_Blues.txt
+
+19.  Gospel Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Gospel_Blues/Gospel_Blues.txt
+
+20.  Harmonica Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Harmonica_Blues/Harmonica_Blues.txt
+
+21.  Hill Country Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Hill_Country_Blues/Hill_Country_Blues.txt
+
+22.  Hokum Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Hokum_Blues/Hokum_Blues.txt
+
+23.  Jazz Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Jazz_Blues/Jazz_Blues.txt
+
+24.  Jump Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Jump_Blues/Jump_Blues.txt
+
+25.  Kansas City Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Kansas_City_Blues/Kansas_City_Blues.txt
+
+26.  Louisiana Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Louisiana_Blues/Louisiana_Blues.txt
+
+27.  Memphis Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Memphis_Blues/Memphis_Blues.txt
+
+28.  Modern Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Modern_Blues/Modern_Blues.txt
+
+29.  New Orlean Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/New_Orlean_Blues/New_Orlean_Blues.txt
+
+30.  NY Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/NY_Blues/NY_Blues.txt
+
+31.  Piano Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Piano_Blues/Piano_Blues.txt
+
+32.  Piedmont Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Piedmont_Blues/Piedmont_Blues.txt
+
+33.  Punk Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Punk_Blues/Punk_Blues.txt
+
+34.  Ragtime Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Ragtime_Blues/Ragtime_Blues.txt
+
+35.  Rhythm Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Rhythm_Blues/Rhythm_Blues.txt
+
+36.  Soul Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Soul_Blues/Soul_Blues.txt
+
+37.  Swamp Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Swamp_Blues/Swamp_Blues.txt
+
+38.  Texas Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Texas_Blues/Texas_Blues.txt
+
+39.  Urban Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Urban_Blues/Urban_Blues.txt
+
+40.  Vandeville
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Vandeville/Vandeville.txt
+
+41.  West Coast Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/West_Coast_Blues/West_Coast_Blues.txt
+
+42.  Zydeco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Blues/Zydeco/Zydeco.txt
+Blues
