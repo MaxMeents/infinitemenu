@@ -1,28 +1,40 @@
 
-1.  College Humor
+1.  Awkward Puppets
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Awkward_Puppets/Awkward_Puppets.txt
+
+2.  Bondi Hipsters
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Bondi_Hipsters/Bondi_Hipsters.txt
+
+3.  Cavemen
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Cavemen/Cavemen.txt
+
+4.  College Humor
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/College_Humor/College_Humor.txt
 
-2.  Corbettreport
+5.  Corbettreport
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Corbettreport/Corbettreport.txt
 
-3.  Cyanide & Happiness
+6.  Cyanide & Happiness
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Cyanide_&_Happiness/Cyanide_&_Happiness.txt
 
-4.  Epic Rap Battles of History
+7.  Epic Rap Battles of History
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Epic_Rap_Battles_of_History/Epic_Rap_Battles_of_History.txt
 
-5.  Fail Army
+8.  Fail Army
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Fail_Army/Fail_Army.txt
 
-6.  RayWilliamJohnson
+9.  RayWilliamJohnson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/RayWilliamJohnson/RayWilliamJohnson.txt
 
-7.  The Lonely Island
+10.  The Closed Cafe
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/The_Closed_Cafe/The_Closed_Cafe.txt
+
+11.  The Lonely Island
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/The_Lonely_Island/The_Lonely_Island.txt
 
-8.  Tobuscus
+12.  Tobuscus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Tobuscus/Tobuscus.txt
 
-9.  Youtube Channels
+13.  Youtube Channels
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Youtube_Channels/Youtube_Channels.txt
 Comedy

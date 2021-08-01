@@ -19,4 +19,7 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By
 
 7.  Music Composers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Music_Composers.txt
+
+8.  Rolling Stones Top 500 Songs
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Rolling_Stones_Top_500_Songs/Rolling_Stones_Top_500_Songs.txt
 Music
