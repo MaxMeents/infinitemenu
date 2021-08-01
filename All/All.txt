@@ -77,6 +77,9 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Sports.
 26.  Talks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Talks/Talks.txt
 
-27.  Wikipedia
+27.  United States
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/United_States/United_States.txt
+
+28.  Wikipedia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Wikipedia.txt
 All
