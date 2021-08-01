@@ -1,28 +1,46 @@
 
-1.  Exports of New Jersey .ahk
+1.  Sports
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/United_States/NH_New_Jersey/Sports/Sports.txt
+
+1.  Cost of Living in New Jersey .ahk
+https://www.google.com/search?q=Cost of Living in New Jersey
+
+2.  Exports of New Jersey .ahk
 https://www.google.com/search?q=Exports of New Jersey
 
-2.  New Jersey Population .ahk
+3.  New Jersey Population .ahk
 https://www.google.com/search?q=Population of New Jersey
 
-3.  New Jersey Top Destinations .ahk
+4.  New Jersey Top Destinations .ahk
 https://www.youtube.com/results?search_query=Top Destinations in New Jersey
 
-4.  New Jersey Wikipedia .ahk
+5.  New Jersey Wikipedia .ahk
 https://en.wikipedia.org/wiki/New Jersey
 
-5.  Pictures of Places in New Jersey .ahk
+6.  Percentage of United States Population .ahk
+https://www.google.com/search?q=Percentage of United States in New Jersey
+
+7.  Pictures of Places in New Jersey .ahk
 https://www.google.com/search?tbm=isch&q=Pictures of Places in New Jersey
 
-6.  Places to avoid in New Jersey - Google Search .ahk
+8.  Places to avoid in New Jersey - Google Search .ahk
 https://www.google.com/search?q=Places to avoid in New Jersey
 
-7.  Places to avoid in New Jersey - Youtube .ahk
+9.  Places to avoid in New Jersey - Youtube .ahk
 https://www.youtube.com/results?search_query=Places to avoid in New Jersey
 
-8.  State Map of New Jersey .ahk
-https://www.google.com/search?tbm=isch&q=State Map of New Jersey
+10.  State Flag - Google Image .ahk
+https://www.google.com/search?tbm=isch&q=New Jersey State Flag
 
-9.  Where is New Jersey on the Map .ahk
+11.  State Map of New Jersey .ahk
+https://www.google.com/search?tbm=isch&q=State Map of New Jersey\
+
+12.  What is New Jersey famous for .ahk
+https://www.google.com/search?q=What is New Jersey famous for?
+
+13.  What is the racial makeup of New Jersey .ahk
+https://www.google.com/search?q=What is the racial make up of New Jersey?
+
+14.  Where is New Jersey on the Map .ahk
 https://www.google.com/search?tbm=isch&q=United States Map - New Jersey
 NH New Jersey

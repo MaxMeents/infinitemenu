@@ -1,4 +1,7 @@
 
+1.  Sports
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/United_States/CT_Connecticut/Sports/Sports.txt
+
 1.  Connecticut Population .ahk
 https://www.google.com/search?q=Population of Connecticut
 
@@ -8,21 +11,36 @@ https://www.youtube.com/results?search_query=Top Destinations in Connecticut
 3.  Connecticut Wikipedia .ahk
 https://en.wikipedia.org/wiki/Connecticut
 
-4.  Exports of Connecticut .ahk
+4.  Cost of Living in Connecticut .ahk
+https://www.google.com/search?q=Cost of Living in Connecticut
+
+5.  Exports of Connecticut .ahk
 https://www.google.com/search?q=Exports of Connecticut
 
-5.  Pictures of Places in Connecticut .ahk
+6.  Percentage of United States Population .ahk
+https://www.google.com/search?q=Percentage of United States in Connecticut
+
+7.  Pictures of Places in Connecticut .ahk
 https://www.google.com/search?tbm=isch&q=Pictures of Places in Connecticut
 
-6.  Places to avoid in Connecticut - Google Search .ahk
+8.  Places to avoid in Connecticut - Google Search .ahk
 https://www.google.com/search?q=Places to avoid in Connecticut
 
-7.  Places to avoid in Connecticut - Youtube .ahk
+9.  Places to avoid in Connecticut - Youtube .ahk
 https://www.youtube.com/results?search_query=Places to avoid in Connecticut
 
-8.  State Map of Connecticut .ahk
-https://www.google.com/search?tbm=isch&q=State Map of Connecticut
+10.  State Flag - Google Image .ahk
+https://www.google.com/search?tbm=isch&q=Connecticut State Flag
 
-9.  Where is Connecticut on the Map .ahk
+11.  State Map of Connecticut .ahk
+https://www.google.com/search?tbm=isch&q=State Map of Connecticut\
+
+12.  What is Connecticut famous for .ahk
+https://www.google.com/search?q=What is Connecticut famous for?
+
+13.  What is the racial makeup of Connecticut .ahk
+https://www.google.com/search?q=What is the racial make up of Connecticut?
+
+14.  Where is Connecticut on the Map .ahk
 https://www.google.com/search?tbm=isch&q=United States Map - Connecticut
 CT Connecticut
