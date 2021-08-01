@@ -1,70 +1,82 @@
 
-1.  Alternatives
+1.  118 Known Elements of Periodic Table
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/118_Known_Elements_of_Periodic_Table/118_Known_Elements_of_Periodic_Table.txt
+
+2.  Alternatives
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Alternatives/Alternatives.txt
 
-2.  Animals
+3.  Animals
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animals.txt
 
-3.  Anime
+4.  Anime
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Anime/Anime.txt
 
-4.  Arts and Crafts
+5.  Arts and Crafts
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Arts_and_Crafts/Arts_and_Crafts.txt
 
-5.  Cars
+6.  Cars
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cars/Cars.txt
 
-6.  Channelling
+7.  Channelling
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Channelling.txt
 
-7.  Checkvist
+8.  Checkvist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Checkvist/Checkvist.txt
 
-8.  Comedy
+9.  Comedy
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Comedy.txt
 
-9.  Computers
+10.  Computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Computers.txt
 
-10.  Cooking
+11.  Cooking
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cooking/Cooking.txt
 
-11.  Facebook
+12.  Countries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Countries.txt
+
+13.  Facebook
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook.txt
 
-12.  Gmail
+14.  Fruits and Vegetables
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Fruits_and_Vegetables.txt
+
+15.  Gmail
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Gmail/Gmail.txt
 
-13.  Guided Meditation
+16.  Guided Meditation
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Guided_Meditation/Guided_Meditation.txt
 
-14.  Home Improvement
+17.  Home Improvement
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Home_Improvement/Home_Improvement.txt
 
-15.  Learning
+18.  Learning
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Learning.txt
 
-16.  Liked Videos
+19.  Liked Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Liked_Videos/Liked_Videos.txt
 
-17.  Media
+20.  Media
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Media.txt
 
-18.  Money Management
+21.  Money Management
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/Money_Management.txt
 
-19.  Music
+22.  Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music/Music.txt
 
-20.  Netflix
+23.  Netflix
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Netflix/Netflix.txt
 
-21.  Sports
+24.  Presidents
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/Presidents.txt
+
+25.  Sports
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Sports.txt
 
-22.  Talks
+26.  Talks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Talks/Talks.txt
 
-23.  Wikipedia
+27.  Wikipedia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Wikipedia.txt
 All

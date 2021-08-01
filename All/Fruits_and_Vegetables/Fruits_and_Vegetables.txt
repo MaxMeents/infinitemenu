@@ -1,0 +1,400 @@
+
+1.  Alfalfa Sprouts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Alfalfa_Sprouts/Alfalfa_Sprouts.txt
+
+2.  Apple
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Apple/Apple.txt
+
+3.  Apricot
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Apricot/Apricot.txt
+
+4.  Artichoke
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Artichoke/Artichoke.txt
+
+5.  Asian Pear
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Asian_Pear/Asian_Pear.txt
+
+6.  Asparagus
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Asparagus/Asparagus.txt
+
+7.  Atemoya
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Atemoya/Atemoya.txt
+
+8.  Avocado
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Avocado/Avocado.txt
+
+9.  Bamboo Shoots
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Bamboo_Shoots/Bamboo_Shoots.txt
+
+10.  Banana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Banana/Banana.txt
+
+11.  Bean Sprouts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Bean_Sprouts/Bean_Sprouts.txt
+
+12.  Beans
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Beans/Beans.txt
+
+13.  Beets
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Beets/Beets.txt
+
+14.  Belgian Endive
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Belgian_Endive/Belgian_Endive.txt
+
+15.  Bell Peppers
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Bell_Peppers/Bell_Peppers.txt
+
+16.  Bitter Melon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Bitter_Melon/Bitter_Melon.txt
+
+17.  Blackberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Blackberries/Blackberries.txt
+
+18.  Blueberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Blueberries/Blueberries.txt
+
+19.  Bok Choy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Bok_Choy/Bok_Choy.txt
+
+20.  Boniato
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Boniato/Boniato.txt
+
+21.  Boysenberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Boysenberries/Boysenberries.txt
+
+22.  Broccoflower
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Broccoflower/Broccoflower.txt
+
+23.  Broccoli
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Broccoli/Broccoli.txt
+
+24.  Brussels Sprouts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Brussels_Sprouts/Brussels_Sprouts.txt
+
+25.  Cabbage
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cabbage/Cabbage.txt
+
+26.  Cactus Pear
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cactus_Pear/Cactus_Pear.txt
+
+27.  Cantaloupe
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cantaloupe/Cantaloupe.txt
+
+28.  Carambola
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Carambola/Carambola.txt
+
+29.  Carrots
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Carrots/Carrots.txt
+
+30.  Casaba Melon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Casaba_Melon/Casaba_Melon.txt
+
+31.  Cauliflower
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cauliflower/Cauliflower.txt
+
+32.  Celery
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Celery/Celery.txt
+
+33.  Chayote
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Chayote/Chayote.txt
+
+34.  Cherimoya
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cherimoya/Cherimoya.txt
+
+35.  Cherries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cherries/Cherries.txt
+
+36.  Coconuts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Coconuts/Coconuts.txt
+
+37.  Collard Greens
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Collard_Greens/Collard_Greens.txt
+
+38.  Corn
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Corn/Corn.txt
+
+39.  Cranberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cranberries/Cranberries.txt
+
+40.  Cucumber
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Cucumber/Cucumber.txt
+
+41.  Dates
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Dates/Dates.txt
+
+42.  Dried Plums
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Dried_Plums/Dried_Plums.txt
+
+43.  Eggplant
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Eggplant/Eggplant.txt
+
+44.  Endive
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Endive/Endive.txt
+
+45.  Escarole
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Escarole/Escarole.txt
+
+46.  Feijoa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Feijoa/Feijoa.txt
+
+47.  Fennel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Fennel/Fennel.txt
+
+48.  Figs
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Figs/Figs.txt
+
+49.  Garlic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Garlic/Garlic.txt
+
+50.  Gooseberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Gooseberries/Gooseberries.txt
+
+51.  Grapefruit
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Grapefruit/Grapefruit.txt
+
+52.  Grapes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Grapes/Grapes.txt
+
+53.  Green Beans
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Green_Beans/Green_Beans.txt
+
+54.  Green Onions
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Green_Onions/Green_Onions.txt
+
+55.  Greens
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Greens/Greens.txt
+
+56.  Guava
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Guava/Guava.txt
+
+57.  Hominy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Hominy/Hominy.txt
+
+58.  Honeydew Melon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Honeydew_Melon/Honeydew_Melon.txt
+
+59.  Horned Melon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Horned_Melon/Horned_Melon.txt
+
+60.  Iceberg Lettuce
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Iceberg_Lettuce/Iceberg_Lettuce.txt
+
+61.  Jerusalem Artichoke
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Jerusalem_Artichoke/Jerusalem_Artichoke.txt
+
+62.  Jicama
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Jicama/Jicama.txt
+
+63.  Kale
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Kale/Kale.txt
+
+64.  Kiwifruit
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Kiwifruit/Kiwifruit.txt
+
+65.  Kohlrabi
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Kohlrabi/Kohlrabi.txt
+
+66.  Kumquat
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Kumquat/Kumquat.txt
+
+67.  Leeks
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Leeks/Leeks.txt
+
+68.  Lemons
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Lemons/Lemons.txt
+
+69.  Lettuce
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Lettuce/Lettuce.txt
+
+70.  Lima Beans
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Lima_Beans/Lima_Beans.txt
+
+71.  Limes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Limes/Limes.txt
+
+72.  Longan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Longan/Longan.txt
+
+73.  Loquat
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Loquat/Loquat.txt
+
+74.  Lychee
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Lychee/Lychee.txt
+
+75.  Madarins
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Madarins/Madarins.txt
+
+76.  Malanga
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Malanga/Malanga.txt
+
+77.  Mandarin Oranges
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Mandarin_Oranges/Mandarin_Oranges.txt
+
+78.  Mangos
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Mangos/Mangos.txt
+
+79.  Mulberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Mulberries/Mulberries.txt
+
+80.  Mushrooms
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Mushrooms/Mushrooms.txt
+
+81.  Napa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Napa/Napa.txt
+
+82.  Nectarines
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Nectarines/Nectarines.txt
+
+83.  Okra
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Okra/Okra.txt
+
+84.  Onion
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Onion/Onion.txt
+
+85.  Oranges
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Oranges/Oranges.txt
+
+86.  Papayas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Papayas/Papayas.txt
+
+87.  Parsnip
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Parsnip/Parsnip.txt
+
+88.  Passion Fruit
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Passion_Fruit/Passion_Fruit.txt
+
+89.  Peaches
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Peaches/Peaches.txt
+
+90.  Pears
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Pears/Pears.txt
+
+91.  Peas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Peas/Peas.txt
+
+92.  Peppers
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Peppers/Peppers.txt
+
+93.  Persimmons
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Persimmons/Persimmons.txt
+
+94.  Pineapple
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Pineapple/Pineapple.txt
+
+95.  Plantains
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Plantains/Plantains.txt
+
+96.  Plums
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Plums/Plums.txt
+
+97.  Pomegranate
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Pomegranate/Pomegranate.txt
+
+98.  Potatoes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Potatoes/Potatoes.txt
+
+99.  Prickly Pear
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Prickly_Pear/Prickly_Pear.txt
+
+100.  Prunes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Prunes/Prunes.txt
+
+101.  Pummelo
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Pummelo/Pummelo.txt
+
+102.  Pumpkin
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Pumpkin/Pumpkin.txt
+
+103.  Quince
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Quince/Quince.txt
+
+104.  Radicchio
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Radicchio/Radicchio.txt
+
+105.  Radishes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Radishes/Radishes.txt
+
+106.  Raisins
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Raisins/Raisins.txt
+
+107.  Raspberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Raspberries/Raspberries.txt
+
+108.  Red Cabbage
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Red_Cabbage/Red_Cabbage.txt
+
+109.  Rhubarb
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Rhubarb/Rhubarb.txt
+
+110.  Romaine Lettuce
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Romaine_Lettuce/Romaine_Lettuce.txt
+
+111.  Rutabaga
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Rutabaga/Rutabaga.txt
+
+112.  Shallots
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Shallots/Shallots.txt
+
+113.  Snow Peas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Snow_Peas/Snow_Peas.txt
+
+114.  Spinach
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Spinach/Spinach.txt
+
+115.  Sprouts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Sprouts/Sprouts.txt
+
+116.  Squash
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Squash/Squash.txt
+
+117.  Strawberries
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Strawberries/Strawberries.txt
+
+118.  String Beans
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/String_Beans/String_Beans.txt
+
+119.  Sweet Potato
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Sweet_Potato/Sweet_Potato.txt
+
+120.  Tangelo
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Tangelo/Tangelo.txt
+
+121.  Tangerines
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Tangerines/Tangerines.txt
+
+122.  Tomatillo
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Tomatillo/Tomatillo.txt
+
+123.  Tomato
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Tomato/Tomato.txt
+
+124.  Turnip
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Turnip/Turnip.txt
+
+125.  Ugli Fruit
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Ugli_Fruit/Ugli_Fruit.txt
+
+126.  Water Chestnuts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Water_Chestnuts/Water_Chestnuts.txt
+
+127.  Watercress
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Watercress/Watercress.txt
+
+128.  Watermelon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Watermelon/Watermelon.txt
+
+129.  Waxed Beans
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Waxed_Beans/Waxed_Beans.txt
+
+130.  Yams
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Yams/Yams.txt
+
+131.  Yellow Squash
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Yellow_Squash/Yellow_Squash.txt
+
+132.  YucaCassava
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/YucaCassava/YucaCassava.txt
+
+133.  Zucchini Squash
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Zucchini_Squash/Zucchini_Squash.txt
+Fruits and Vegetables

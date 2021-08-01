@@ -1,0 +1,130 @@
+
+1.  1 George Washington 1789-97
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/1_George_Washington_1789-97/1_George_Washington_1789-97.txt
+
+2.  10 John Tyler 1841-45 (Whig)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/10_John_Tyler_1841-45_(Whig)/10_John_Tyler_1841-45_(Whig).txt
+
+3.  11 James Knox Polk 1845-49 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/11_James_Knox_Polk_1845-49_(Democrat)/11_James_Knox_Polk_1845-49_(Democrat).txt
+
+4.  12 Zachary Taylor 1849-50 (Whig)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/12_Zachary_Taylor_1849-50_(Whig)/12_Zachary_Taylor_1849-50_(Whig).txt
+
+5.  13 Millard Fillmore 1850-53 (Whig)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/13_Millard_Fillmore_1850-53_(Whig)/13_Millard_Fillmore_1850-53_(Whig).txt
+
+6.  14 Franklin Pierce 1853-57 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/14_Franklin_Pierce_1853-57_(Democrat)/14_Franklin_Pierce_1853-57_(Democrat).txt
+
+7.  15 James Buchanan 1857-61 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/15_James_Buchanan_1857-61_(Democrat)/15_James_Buchanan_1857-61_(Democrat).txt
+
+8.  16 Abraham Lincoln 1861-65 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/16_Abraham_Lincoln_1861-65_(Republican)/16_Abraham_Lincoln_1861-65_(Republican).txt
+
+9.  17 Andrew Johnson 1865-69 (DemocratNational Union)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/17_Andrew_Johnson_1865-69_(DemocratNational_Union)/17_Andrew_Johnson_1865-69_(DemocratNational_Union).txt
+
+10.  18 Ulysses Simpson Grant 1869-77 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/18_Ulysses_Simpson_Grant_1869-77_(Republican)/18_Ulysses_Simpson_Grant_1869-77_(Republican).txt
+
+11.  19 Rutherford Birchard Hayes 1877-81 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/19_Rutherford_Birchard_Hayes_1877-81_(Republican)/19_Rutherford_Birchard_Hayes_1877-81_(Republican).txt
+
+12.  2 John Adams 1797-1801 (Federalist)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/2_John_Adams_1797-1801_(Federalist)/2_John_Adams_1797-1801_(Federalist).txt
+
+13.  20 James Abram Garfield 1881 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/20_James_Abram_Garfield_1881_(Republican)/20_James_Abram_Garfield_1881_(Republican).txt
+
+14.  21 Chester Alan Arthur 1881-85 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/21_Chester_Alan_Arthur_1881-85_(Republican)/21_Chester_Alan_Arthur_1881-85_(Republican).txt
+
+15.  22 Grover Cleveland 1885-89 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/22_Grover_Cleveland_1885-89_(Democrat)/22_Grover_Cleveland_1885-89_(Democrat).txt
+
+16.  23 Benjamin Harrison 1889-93 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/23_Benjamin_Harrison_1889-93_(Republican)/23_Benjamin_Harrison_1889-93_(Republican).txt
+
+17.  24 Grover Cleveland 1893-97 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/24_Grover_Cleveland_1893-97_(Democrat)/24_Grover_Cleveland_1893-97_(Democrat).txt
+
+18.  25 William McKinley 1897-1901 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/25_William_McKinley_1897-1901_(Republican)/25_William_McKinley_1897-1901_(Republican).txt
+
+19.  26 Theodore Roosevelt 1901-9 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/26_Theodore_Roosevelt_1901-9_(Republican)/26_Theodore_Roosevelt_1901-9_(Republican).txt
+
+20.  27 William Howard Taft 1909-13 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/27_William_Howard_Taft_1909-13_(Republican)/27_William_Howard_Taft_1909-13_(Republican).txt
+
+21.  28 Woodrow Wilson 1913-21 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/28_Woodrow_Wilson_1913-21_(Democrat)/28_Woodrow_Wilson_1913-21_(Democrat).txt
+
+22.  29 Warren Gamaliel Harding 1921-23 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/29_Warren_Gamaliel_Harding_1921-23_(Republican)/29_Warren_Gamaliel_Harding_1921-23_(Republican).txt
+
+23.  3 Thomas Jefferson 1801-9 (Democratic-Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/3_Thomas_Jefferson_1801-9_(Democratic-Republican)/3_Thomas_Jefferson_1801-9_(Democratic-Republican).txt
+
+24.  30 Calvin Coolidge 1923-29 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/30_Calvin_Coolidge_1923-29_(Republican)/30_Calvin_Coolidge_1923-29_(Republican).txt
+
+25.  31 Herbert Clark Hoover 1929-33 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/31_Herbert_Clark_Hoover_1929-33_(Republican)/31_Herbert_Clark_Hoover_1929-33_(Republican).txt
+
+26.  32 Franklin Delano Roosevelt 1933-45 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/32_Franklin_Delano_Roosevelt_1933-45_(Democrat)/32_Franklin_Delano_Roosevelt_1933-45_(Democrat).txt
+
+27.  33 Harry S Truman 1945-53 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/33_Harry_S_Truman_1945-53_(Democrat)/33_Harry_S_Truman_1945-53_(Democrat).txt
+
+28.  34 Dwight David Eisenhower 1953-61 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/34_Dwight_David_Eisenhower_1953-61_(Republican)/34_Dwight_David_Eisenhower_1953-61_(Republican).txt
+
+29.  35 John Fitzgerald Kennedy 1961-63 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/35_John_Fitzgerald_Kennedy_1961-63_(Democrat)/35_John_Fitzgerald_Kennedy_1961-63_(Democrat).txt
+
+30.  36 Lyndon Baines Johnson 1963-69 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/36_Lyndon_Baines_Johnson_1963-69_(Democrat)/36_Lyndon_Baines_Johnson_1963-69_(Democrat).txt
+
+31.  37 Richard Milhous Nixon 1969-74 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/37_Richard_Milhous_Nixon_1969-74_(Republican)/37_Richard_Milhous_Nixon_1969-74_(Republican).txt
+
+32.  38 Gerald Rudolph Ford Jr  1974-77 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/38_Gerald_Rudolph_Ford_Jr__1974-77_(Republican)/38_Gerald_Rudolph_Ford_Jr__1974-77_(Republican).txt
+
+33.  39 James Earl Carter 1977-81 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/39_James_Earl_Carter_1977-81_(Democrat)/39_James_Earl_Carter_1977-81_(Democrat).txt
+
+34.  4 James Madison 1809-17 (Democratic-Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/4_James_Madison_1809-17_(Democratic-Republican)/4_James_Madison_1809-17_(Democratic-Republican).txt
+
+35.  40 Ronald Wilson Reagan 1981-89 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/40_Ronald_Wilson_Reagan_1981-89_(Republican)/40_Ronald_Wilson_Reagan_1981-89_(Republican).txt
+
+36.  41 George Herbert Walker Bush 1989-1993 (Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/41_George_Herbert_Walker_Bush_1989-1993_(Republican)/41_George_Herbert_Walker_Bush_1989-1993_(Republican).txt
+
+37.  42 William Jefferson Clinton 1993-2001(Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/42_William_Jefferson_Clinton_1993-2001(Democrat)/42_William_Jefferson_Clinton_1993-2001(Democrat).txt
+
+38.  44 Barack Obama 2009-2017(Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/44_Barack_Obama_2009-2017(Democrat)/44_Barack_Obama_2009-2017(Democrat).txt
+
+39.  5 James Monroe 1817-25 (Democratic-Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/5_James_Monroe_1817-25_(Democratic-Republican)/5_James_Monroe_1817-25_(Democratic-Republican).txt
+
+40.  6 John Quincy Adams 1825-29 (Democratic-Republican)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/6_John_Quincy_Adams_1825-29_(Democratic-Republican)/6_John_Quincy_Adams_1825-29_(Democratic-Republican).txt
+
+41.  7 Andrew Jackson 1829-37 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/7_Andrew_Jackson_1829-37_(Democrat)/7_Andrew_Jackson_1829-37_(Democrat).txt
+
+42.  8 Martin Van Buren 1837-41 (Democrat)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/8_Martin_Van_Buren_1837-41_(Democrat)/8_Martin_Van_Buren_1837-41_(Democrat).txt
+
+43.  9 William Henry Harrison 1841 (Whig)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/9_William_Henry_Harrison_1841_(Whig)/9_William_Henry_Harrison_1841_(Whig).txt
+Presidents

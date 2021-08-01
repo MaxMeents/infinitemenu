@@ -1,0 +1,772 @@
+
+1.  Afghanistan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Afghanistan/Afghanistan.txt
+
+2.  Akrotiri
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Akrotiri/Akrotiri.txt
+
+3.  Albania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Albania/Albania.txt
+
+4.  Algeria
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Algeria/Algeria.txt
+
+5.  American Samoa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/American_Samoa/American_Samoa.txt
+
+6.  Andorra
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Andorra/Andorra.txt
+
+7.  Angola
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Angola/Angola.txt
+
+8.  Anguilla
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Anguilla/Anguilla.txt
+
+9.  Antarctica
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Antarctica/Antarctica.txt
+
+10.  Antigua and Barbuda
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Antigua_and_Barbuda/Antigua_and_Barbuda.txt
+
+11.  Argentina
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Argentina/Argentina.txt
+
+12.  Armenia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Armenia/Armenia.txt
+
+13.  Aruba
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Aruba/Aruba.txt
+
+14.  Ashmore and Cartier Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ashmore_and_Cartier_Islands/Ashmore_and_Cartier_Islands.txt
+
+15.  Australia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Australia/Australia.txt
+
+16.  Austria
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Austria/Austria.txt
+
+17.  Azerbaijan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Azerbaijan/Azerbaijan.txt
+
+18.  Bahamas, The
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bahamas,_The/Bahamas,_The.txt
+
+19.  Bahrain
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bahrain/Bahrain.txt
+
+20.  Bangladesh
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bangladesh/Bangladesh.txt
+
+21.  Barbados
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Barbados/Barbados.txt
+
+22.  Bassas da India
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bassas_da_India/Bassas_da_India.txt
+
+23.  Belarus
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Belarus/Belarus.txt
+
+24.  Belgium
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Belgium/Belgium.txt
+
+25.  Belize
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Belize/Belize.txt
+
+26.  Benin
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Benin/Benin.txt
+
+27.  Bermuda
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bermuda/Bermuda.txt
+
+28.  Bhutan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bhutan/Bhutan.txt
+
+29.  Bolivia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bolivia/Bolivia.txt
+
+30.  Bosnia and Herzegovina
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bosnia_and_Herzegovina/Bosnia_and_Herzegovina.txt
+
+31.  Botswana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Botswana/Botswana.txt
+
+32.  Bouvet Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bouvet_Island/Bouvet_Island.txt
+
+33.  Brazil
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Brazil/Brazil.txt
+
+34.  British Indian Ocean Territory
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/British_Indian_Ocean_Territory/British_Indian_Ocean_Territory.txt
+
+35.  British Virgin Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/British_Virgin_Islands/British_Virgin_Islands.txt
+
+36.  Brunei
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Brunei/Brunei.txt
+
+37.  Bulgaria
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Bulgaria/Bulgaria.txt
+
+38.  Burkina Faso
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Burkina_Faso/Burkina_Faso.txt
+
+39.  Burma
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Burma/Burma.txt
+
+40.  Burundi
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Burundi/Burundi.txt
+
+41.  Cambodia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cambodia/Cambodia.txt
+
+42.  Cameroon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cameroon/Cameroon.txt
+
+43.  Canada
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Canada/Canada.txt
+
+44.  Cape Verde
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cape_Verde/Cape_Verde.txt
+
+45.  Cayman Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cayman_Islands/Cayman_Islands.txt
+
+46.  Central African Republic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Central_African_Republic/Central_African_Republic.txt
+
+47.  Chad
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Chad/Chad.txt
+
+48.  Chile
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Chile/Chile.txt
+
+49.  China
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/China/China.txt
+
+50.  Christmas Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Christmas_Island/Christmas_Island.txt
+
+51.  Clipperton Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Clipperton_Island/Clipperton_Island.txt
+
+52.  Cocos (Keeling) Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cocos_(Keeling)_Islands/Cocos_(Keeling)_Islands.txt
+
+53.  Colombia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Colombia/Colombia.txt
+
+54.  Comoros
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Comoros/Comoros.txt
+
+55.  Congo, Democratic Republic of the
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Congo,_Democratic_Republic_of_the/Congo,_Democratic_Republic_of_the.txt
+
+56.  Congo, Republic of the
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Congo,_Republic_of_the/Congo,_Republic_of_the.txt
+
+57.  Cook Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cook_Islands/Cook_Islands.txt
+
+58.  Coral Sea Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Coral_Sea_Islands/Coral_Sea_Islands.txt
+
+59.  Costa Rica
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Costa_Rica/Costa_Rica.txt
+
+60.  Cote d'Ivoire
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cote_d'Ivoire/Cote_d'Ivoire.txt
+
+61.  Croatia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Croatia/Croatia.txt
+
+62.  Cuba
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cuba/Cuba.txt
+
+63.  Cyprus
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Cyprus/Cyprus.txt
+
+64.  Czech Republic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Czech_Republic/Czech_Republic.txt
+
+65.  Denmark
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Denmark/Denmark.txt
+
+66.  Dhekelia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Dhekelia/Dhekelia.txt
+
+67.  Djibouti
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Djibouti/Djibouti.txt
+
+68.  Dominica
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Dominica/Dominica.txt
+
+69.  Dominican Republic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Dominican_Republic/Dominican_Republic.txt
+
+70.  Ecuador
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ecuador/Ecuador.txt
+
+71.  Egypt
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Egypt/Egypt.txt
+
+72.  El Salvador
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/El_Salvador/El_Salvador.txt
+
+73.  Equatorial Guinea
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Equatorial_Guinea/Equatorial_Guinea.txt
+
+74.  Eritrea
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Eritrea/Eritrea.txt
+
+75.  Estonia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Estonia/Estonia.txt
+
+76.  Ethiopia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ethiopia/Ethiopia.txt
+
+77.  Europa Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Europa_Island/Europa_Island.txt
+
+78.  Falkland Islands (Islas Malvinas)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Falkland_Islands_(Islas_Malvinas)/Falkland_Islands_(Islas_Malvinas).txt
+
+79.  Faroe Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Faroe_Islands/Faroe_Islands.txt
+
+80.  Fiji
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Fiji/Fiji.txt
+
+81.  Finland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Finland/Finland.txt
+
+82.  France
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/France/France.txt
+
+83.  French Guiana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/French_Guiana/French_Guiana.txt
+
+84.  French Polynesia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/French_Polynesia/French_Polynesia.txt
+
+85.  French Southern and Antarctic Lands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/French_Southern_and_Antarctic_Lands/French_Southern_and_Antarctic_Lands.txt
+
+86.  Gabon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Gabon/Gabon.txt
+
+87.  Gambia, The
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Gambia,_The/Gambia,_The.txt
+
+88.  Gaza Strip
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Gaza_Strip/Gaza_Strip.txt
+
+89.  Georgia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Georgia/Georgia.txt
+
+90.  Germany
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Germany/Germany.txt
+
+91.  Ghana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ghana/Ghana.txt
+
+92.  Gibraltar
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Gibraltar/Gibraltar.txt
+
+93.  Glorioso Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Glorioso_Islands/Glorioso_Islands.txt
+
+94.  Greece
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Greece/Greece.txt
+
+95.  Greenland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Greenland/Greenland.txt
+
+96.  Grenada
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Grenada/Grenada.txt
+
+97.  Guadeloupe
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guadeloupe/Guadeloupe.txt
+
+98.  Guam
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guam/Guam.txt
+
+99.  Guatemala
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guatemala/Guatemala.txt
+
+100.  Guernsey
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guernsey/Guernsey.txt
+
+101.  Guinea
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guinea/Guinea.txt
+
+102.  Guinea-Bissau
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guinea-Bissau/Guinea-Bissau.txt
+
+103.  Guyana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Guyana/Guyana.txt
+
+104.  Haiti
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Haiti/Haiti.txt
+
+105.  Heard Island and McDonald Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Heard_Island_and_McDonald_Islands/Heard_Island_and_McDonald_Islands.txt
+
+106.  Holy See (Vatican City)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Holy_See_(Vatican_City)/Holy_See_(Vatican_City).txt
+
+107.  Honduras
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Honduras/Honduras.txt
+
+108.  Hong Kong
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Hong_Kong/Hong_Kong.txt
+
+109.  Hungary
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Hungary/Hungary.txt
+
+110.  Iceland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Iceland/Iceland.txt
+
+111.  India
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/India/India.txt
+
+112.  Indonesia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Indonesia/Indonesia.txt
+
+113.  Iran
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Iran/Iran.txt
+
+114.  Iraq
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Iraq/Iraq.txt
+
+115.  Ireland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ireland/Ireland.txt
+
+116.  Isle of Man
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Isle_of_Man/Isle_of_Man.txt
+
+117.  Israel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Israel/Israel.txt
+
+118.  Italy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Italy/Italy.txt
+
+119.  Jamaica
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Jamaica/Jamaica.txt
+
+120.  Jan Mayen
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Jan_Mayen/Jan_Mayen.txt
+
+121.  Japan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Japan/Japan.txt
+
+122.  Jersey
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Jersey/Jersey.txt
+
+123.  Jordan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Jordan/Jordan.txt
+
+124.  Juan de Nova Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Juan_de_Nova_Island/Juan_de_Nova_Island.txt
+
+125.  Kazakhstan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Kazakhstan/Kazakhstan.txt
+
+126.  Kenya
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Kenya/Kenya.txt
+
+127.  Kiribati
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Kiribati/Kiribati.txt
+
+128.  Korea, North
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Korea,_North/Korea,_North.txt
+
+129.  Korea, South
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Korea,_South/Korea,_South.txt
+
+130.  Kuwait
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Kuwait/Kuwait.txt
+
+131.  Kyrgyzstan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Kyrgyzstan/Kyrgyzstan.txt
+
+132.  Laos
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Laos/Laos.txt
+
+133.  Latvia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Latvia/Latvia.txt
+
+134.  Lebanon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Lebanon/Lebanon.txt
+
+135.  Lesotho
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Lesotho/Lesotho.txt
+
+136.  Liberia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Liberia/Liberia.txt
+
+137.  Libya
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Libya/Libya.txt
+
+138.  Liechtenstein
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Liechtenstein/Liechtenstein.txt
+
+139.  Lithuania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Lithuania/Lithuania.txt
+
+140.  Luxembourg
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Luxembourg/Luxembourg.txt
+
+141.  Macau
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Macau/Macau.txt
+
+142.  Macedonia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Macedonia/Macedonia.txt
+
+143.  Madagascar
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Madagascar/Madagascar.txt
+
+144.  Malawi
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Malawi/Malawi.txt
+
+145.  Malaysia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Malaysia/Malaysia.txt
+
+146.  Maldives
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Maldives/Maldives.txt
+
+147.  Mali
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mali/Mali.txt
+
+148.  Malta
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Malta/Malta.txt
+
+149.  Marshall Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Marshall_Islands/Marshall_Islands.txt
+
+150.  Martinique
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Martinique/Martinique.txt
+
+151.  Mauritania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mauritania/Mauritania.txt
+
+152.  Mauritius
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mauritius/Mauritius.txt
+
+153.  Mayotte
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mayotte/Mayotte.txt
+
+154.  Mexico
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mexico/Mexico.txt
+
+155.  Micronesia, Federated States of
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Micronesia,_Federated_States_of/Micronesia,_Federated_States_of.txt
+
+156.  Moldova
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Moldova/Moldova.txt
+
+157.  Monaco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Monaco/Monaco.txt
+
+158.  Mongolia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mongolia/Mongolia.txt
+
+159.  Montserrat
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Montserrat/Montserrat.txt
+
+160.  Morocco
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Morocco/Morocco.txt
+
+161.  Mozambique
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Mozambique/Mozambique.txt
+
+162.  Namibia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Namibia/Namibia.txt
+
+163.  Nauru
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Nauru/Nauru.txt
+
+164.  Navassa Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Navassa_Island/Navassa_Island.txt
+
+165.  Nepal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Nepal/Nepal.txt
+
+166.  Netherlands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Netherlands/Netherlands.txt
+
+167.  Netherlands Antilles
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Netherlands_Antilles/Netherlands_Antilles.txt
+
+168.  New Caledonia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/New_Caledonia/New_Caledonia.txt
+
+169.  New Zealand
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/New_Zealand/New_Zealand.txt
+
+170.  Nicaragua
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Nicaragua/Nicaragua.txt
+
+171.  Niger
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Niger/Niger.txt
+
+172.  Nigeria
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Nigeria/Nigeria.txt
+
+173.  Niue
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Niue/Niue.txt
+
+174.  Norfolk Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Norfolk_Island/Norfolk_Island.txt
+
+175.  Northern Mariana Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Northern_Mariana_Islands/Northern_Mariana_Islands.txt
+
+176.  Norway
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Norway/Norway.txt
+
+177.  Oman
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Oman/Oman.txt
+
+178.  Pakistan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Pakistan/Pakistan.txt
+
+179.  Palau
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Palau/Palau.txt
+
+180.  Panama
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Panama/Panama.txt
+
+181.  Papua New Guinea
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Papua_New_Guinea/Papua_New_Guinea.txt
+
+182.  Paracel Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Paracel_Islands/Paracel_Islands.txt
+
+183.  Paraguay
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Paraguay/Paraguay.txt
+
+184.  Peru
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Peru/Peru.txt
+
+185.  Philippines
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Philippines/Philippines.txt
+
+186.  Pitcairn Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Pitcairn_Islands/Pitcairn_Islands.txt
+
+187.  Poland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Poland/Poland.txt
+
+188.  Portugal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Portugal/Portugal.txt
+
+189.  Puerto Rico
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Puerto_Rico/Puerto_Rico.txt
+
+190.  Qatar
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Qatar/Qatar.txt
+
+191.  Reunion
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Reunion/Reunion.txt
+
+192.  Romania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Romania/Romania.txt
+
+193.  Russia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Russia/Russia.txt
+
+194.  Rwanda
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Rwanda/Rwanda.txt
+
+195.  Saint Helena
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saint_Helena/Saint_Helena.txt
+
+196.  Saint Kitts and Nevis
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saint_Kitts_and_Nevis/Saint_Kitts_and_Nevis.txt
+
+197.  Saint Lucia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saint_Lucia/Saint_Lucia.txt
+
+198.  Saint Pierre and Miquelon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saint_Pierre_and_Miquelon/Saint_Pierre_and_Miquelon.txt
+
+199.  Saint Vincent and the Grenadines
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saint_Vincent_and_the_Grenadines/Saint_Vincent_and_the_Grenadines.txt
+
+200.  Samoa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Samoa/Samoa.txt
+
+201.  San Marino
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/San_Marino/San_Marino.txt
+
+202.  Sao Tome and Principe
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Sao_Tome_and_Principe/Sao_Tome_and_Principe.txt
+
+203.  Saudi Arabia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Saudi_Arabia/Saudi_Arabia.txt
+
+204.  Senegal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Senegal/Senegal.txt
+
+205.  Serbia and Montenegro
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Serbia_and_Montenegro/Serbia_and_Montenegro.txt
+
+206.  Seychelles
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Seychelles/Seychelles.txt
+
+207.  Sierra Leone
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Sierra_Leone/Sierra_Leone.txt
+
+208.  Singapore
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Singapore/Singapore.txt
+
+209.  Slovakia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Slovakia/Slovakia.txt
+
+210.  Slovenia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Slovenia/Slovenia.txt
+
+211.  Solomon Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Solomon_Islands/Solomon_Islands.txt
+
+212.  Somalia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Somalia/Somalia.txt
+
+213.  South Africa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/South_Africa/South_Africa.txt
+
+214.  South Georgia and the South Sandwich Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/South_Georgia_and_the_South_Sandwich_Islands/South_Georgia_and_the_South_Sandwich_Islands.txt
+
+215.  Spain
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Spain/Spain.txt
+
+216.  Spratly Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Spratly_Islands/Spratly_Islands.txt
+
+217.  Sri Lanka
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Sri_Lanka/Sri_Lanka.txt
+
+218.  Sudan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Sudan/Sudan.txt
+
+219.  Suriname
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Suriname/Suriname.txt
+
+220.  Svalbard
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Svalbard/Svalbard.txt
+
+221.  Swaziland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Swaziland/Swaziland.txt
+
+222.  Sweden
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Sweden/Sweden.txt
+
+223.  Switzerland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Switzerland/Switzerland.txt
+
+224.  Syria
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Syria/Syria.txt
+
+225.  Taiwan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Taiwan/Taiwan.txt
+
+226.  Tajikistan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tajikistan/Tajikistan.txt
+
+227.  Tanzania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tanzania/Tanzania.txt
+
+228.  Thailand
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Thailand/Thailand.txt
+
+229.  Timor-Leste
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Timor-Leste/Timor-Leste.txt
+
+230.  Togo
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Togo/Togo.txt
+
+231.  Tokelau
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tokelau/Tokelau.txt
+
+232.  Tonga
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tonga/Tonga.txt
+
+233.  Trinidad and Tobago
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Trinidad_and_Tobago/Trinidad_and_Tobago.txt
+
+234.  Tromelin Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tromelin_Island/Tromelin_Island.txt
+
+235.  Tunisia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tunisia/Tunisia.txt
+
+236.  Turkey
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Turkey/Turkey.txt
+
+237.  Turkmenistan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Turkmenistan/Turkmenistan.txt
+
+238.  Turks and Caicos Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Turks_and_Caicos_Islands/Turks_and_Caicos_Islands.txt
+
+239.  Tuvalu
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Tuvalu/Tuvalu.txt
+
+240.  Uganda
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Uganda/Uganda.txt
+
+241.  Ukraine
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Ukraine/Ukraine.txt
+
+242.  United Arab Emirates
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/United_Arab_Emirates/United_Arab_Emirates.txt
+
+243.  United Kingdom
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/United_Kingdom/United_Kingdom.txt
+
+244.  United States
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/United_States/United_States.txt
+
+245.  Uruguay
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Uruguay/Uruguay.txt
+
+246.  Uzbekistan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Uzbekistan/Uzbekistan.txt
+
+247.  Vanuatu
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Vanuatu/Vanuatu.txt
+
+248.  Venezuela
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Venezuela/Venezuela.txt
+
+249.  Vietnam
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Vietnam/Vietnam.txt
+
+250.  Virgin Islands
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Virgin_Islands/Virgin_Islands.txt
+
+251.  Wake Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Wake_Island/Wake_Island.txt
+
+252.  Wallis and Futuna
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Wallis_and_Futuna/Wallis_and_Futuna.txt
+
+253.  West Bank
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/West_Bank/West_Bank.txt
+
+254.  Western Sahara
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Western_Sahara/Western_Sahara.txt
+
+255.  Yemen
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Yemen/Yemen.txt
+
+256.  Zambia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Zambia/Zambia.txt
+
+257.  Zimbabwe
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Zimbabwe/Zimbabwe.txt
+Countries
