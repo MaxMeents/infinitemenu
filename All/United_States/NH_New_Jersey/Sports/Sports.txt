@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for New Jersey
 
-2.  New Jersey Basketball .ahk
+2.  New Jersey Baseball .ahk
+https://www.google.com/search?q=New Jersey Baseball
+
+3.  New Jersey Basketball .ahk
 https://www.google.com/search?q=New Jersey Basketball
 
-3.  New Jersey Football .ahk
+4.  New Jersey Football .ahk
 https://www.google.com/search?q=New Jersey Football
 
-4.  New Jersey Soccor .ahk
+5.  New Jersey Soccor .ahk
 https://www.google.com/search?q=New Jersey Soccer
 
-5.  New Jersey Track and Field .ahk
+6.  New Jersey Track and Field .ahk
 https://www.google.com/search?q=New Jersey Track and Field
 
-6.  New Jersey Volleyball .ahk
+7.  New Jersey Volleyball .ahk
 https://www.google.com/search?q=New Jersey Volleyball
 
-7.  New Jersey Wrestling .ahk
+8.  New Jersey Wrestling .ahk
 https://www.google.com/search?q=New Jersey Wrestling
 Sports

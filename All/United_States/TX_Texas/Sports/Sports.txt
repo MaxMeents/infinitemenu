@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Texas
 
-2.  Texas Basketball .ahk
+2.  Texas Baseball .ahk
+https://www.google.com/search?q=Texas Baseball
+
+3.  Texas Basketball .ahk
 https://www.google.com/search?q=Texas Basketball
 
-3.  Texas Football .ahk
+4.  Texas Football .ahk
 https://www.google.com/search?q=Texas Football
 
-4.  Texas Soccor .ahk
+5.  Texas Soccor .ahk
 https://www.google.com/search?q=Texas Soccer
 
-5.  Texas Track and Field .ahk
+6.  Texas Track and Field .ahk
 https://www.google.com/search?q=Texas Track and Field
 
-6.  Texas Volleyball .ahk
+7.  Texas Volleyball .ahk
 https://www.google.com/search?q=Texas Volleyball
 
-7.  Texas Wrestling .ahk
+8.  Texas Wrestling .ahk
 https://www.google.com/search?q=Texas Wrestling
 Sports

@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Rhode Island
 
-2.  Rhode Island Basketball .ahk
+2.  Rhode Island Baseball .ahk
+https://www.google.com/search?q=Rhode Island Baseball
+
+3.  Rhode Island Basketball .ahk
 https://www.google.com/search?q=Rhode Island Basketball
 
-3.  Rhode Island Football .ahk
+4.  Rhode Island Football .ahk
 https://www.google.com/search?q=Rhode Island Football
 
-4.  Rhode Island Soccor .ahk
+5.  Rhode Island Soccor .ahk
 https://www.google.com/search?q=Rhode Island Soccer
 
-5.  Rhode Island Track and Field .ahk
+6.  Rhode Island Track and Field .ahk
 https://www.google.com/search?q=Rhode Island Track and Field
 
-6.  Rhode Island Volleyball .ahk
+7.  Rhode Island Volleyball .ahk
 https://www.google.com/search?q=Rhode Island Volleyball
 
-7.  Rhode Island Wrestling .ahk
+8.  Rhode Island Wrestling .ahk
 https://www.google.com/search?q=Rhode Island Wrestling
 Sports

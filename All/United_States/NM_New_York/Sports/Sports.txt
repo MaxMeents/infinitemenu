@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for New York
 
-2.  New York Basketball .ahk
+2.  New York Baseball .ahk
+https://www.google.com/search?q=New York Baseball
+
+3.  New York Basketball .ahk
 https://www.google.com/search?q=New York Basketball
 
-3.  New York Football .ahk
+4.  New York Football .ahk
 https://www.google.com/search?q=New York Football
 
-4.  New York Soccor .ahk
+5.  New York Soccor .ahk
 https://www.google.com/search?q=New York Soccer
 
-5.  New York Track and Field .ahk
+6.  New York Track and Field .ahk
 https://www.google.com/search?q=New York Track and Field
 
-6.  New York Volleyball .ahk
+7.  New York Volleyball .ahk
 https://www.google.com/search?q=New York Volleyball
 
-7.  New York Wrestling .ahk
+8.  New York Wrestling .ahk
 https://www.google.com/search?q=New York Wrestling
 Sports

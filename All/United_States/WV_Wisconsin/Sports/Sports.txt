@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Wisconsin
 
-2.  Wisconsin Basketball .ahk
+2.  Wisconsin Baseball .ahk
+https://www.google.com/search?q=Wisconsin Baseball
+
+3.  Wisconsin Basketball .ahk
 https://www.google.com/search?q=Wisconsin Basketball
 
-3.  Wisconsin Football .ahk
+4.  Wisconsin Football .ahk
 https://www.google.com/search?q=Wisconsin Football
 
-4.  Wisconsin Soccor .ahk
+5.  Wisconsin Soccor .ahk
 https://www.google.com/search?q=Wisconsin Soccer
 
-5.  Wisconsin Track and Field .ahk
+6.  Wisconsin Track and Field .ahk
 https://www.google.com/search?q=Wisconsin Track and Field
 
-6.  Wisconsin Volleyball .ahk
+7.  Wisconsin Volleyball .ahk
 https://www.google.com/search?q=Wisconsin Volleyball
 
-7.  Wisconsin Wrestling .ahk
+8.  Wisconsin Wrestling .ahk
 https://www.google.com/search?q=Wisconsin Wrestling
 Sports

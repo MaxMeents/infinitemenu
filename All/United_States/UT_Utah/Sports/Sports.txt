@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Utah
 
-2.  Utah Basketball .ahk
+2.  Utah Baseball .ahk
+https://www.google.com/search?q=Utah Baseball
+
+3.  Utah Basketball .ahk
 https://www.google.com/search?q=Utah Basketball
 
-3.  Utah Football .ahk
+4.  Utah Football .ahk
 https://www.google.com/search?q=Utah Football
 
-4.  Utah Soccor .ahk
+5.  Utah Soccor .ahk
 https://www.google.com/search?q=Utah Soccer
 
-5.  Utah Track and Field .ahk
+6.  Utah Track and Field .ahk
 https://www.google.com/search?q=Utah Track and Field
 
-6.  Utah Volleyball .ahk
+7.  Utah Volleyball .ahk
 https://www.google.com/search?q=Utah Volleyball
 
-7.  Utah Wrestling .ahk
+8.  Utah Wrestling .ahk
 https://www.google.com/search?q=Utah Wrestling
 Sports

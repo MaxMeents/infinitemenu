@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Oklahoma
 
-2.  Oklahoma Basketball .ahk
+2.  Oklahoma Baseball .ahk
+https://www.google.com/search?q=Oklahoma Baseball
+
+3.  Oklahoma Basketball .ahk
 https://www.google.com/search?q=Oklahoma Basketball
 
-3.  Oklahoma Football .ahk
+4.  Oklahoma Football .ahk
 https://www.google.com/search?q=Oklahoma Football
 
-4.  Oklahoma Soccor .ahk
+5.  Oklahoma Soccor .ahk
 https://www.google.com/search?q=Oklahoma Soccer
 
-5.  Oklahoma Track and Field .ahk
+6.  Oklahoma Track and Field .ahk
 https://www.google.com/search?q=Oklahoma Track and Field
 
-6.  Oklahoma Volleyball .ahk
+7.  Oklahoma Volleyball .ahk
 https://www.google.com/search?q=Oklahoma Volleyball
 
-7.  Oklahoma Wrestling .ahk
+8.  Oklahoma Wrestling .ahk
 https://www.google.com/search?q=Oklahoma Wrestling
 Sports

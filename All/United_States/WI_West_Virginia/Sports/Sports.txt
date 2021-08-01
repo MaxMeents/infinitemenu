@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for West Virginia
 
-2.  West Virginia Basketball .ahk
+2.  West Virginia Baseball .ahk
+https://www.google.com/search?q=West Virginia Baseball
+
+3.  West Virginia Basketball .ahk
 https://www.google.com/search?q=West Virginia Basketball
 
-3.  West Virginia Football .ahk
+4.  West Virginia Football .ahk
 https://www.google.com/search?q=West Virginia Football
 
-4.  West Virginia Soccor .ahk
+5.  West Virginia Soccor .ahk
 https://www.google.com/search?q=West Virginia Soccer
 
-5.  West Virginia Track and Field .ahk
+6.  West Virginia Track and Field .ahk
 https://www.google.com/search?q=West Virginia Track and Field
 
-6.  West Virginia Volleyball .ahk
+7.  West Virginia Volleyball .ahk
 https://www.google.com/search?q=West Virginia Volleyball
 
-7.  West Virginia Wrestling .ahk
+8.  West Virginia Wrestling .ahk
 https://www.google.com/search?q=West Virginia Wrestling
 Sports

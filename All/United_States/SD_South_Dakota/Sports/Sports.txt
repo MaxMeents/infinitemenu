@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for South Dakota
 
-2.  South Dakota Basketball .ahk
+2.  South Dakota Baseball .ahk
+https://www.google.com/search?q=South Dakota Baseball
+
+3.  South Dakota Basketball .ahk
 https://www.google.com/search?q=South Dakota Basketball
 
-3.  South Dakota Football .ahk
+4.  South Dakota Football .ahk
 https://www.google.com/search?q=South Dakota Football
 
-4.  South Dakota Soccor .ahk
+5.  South Dakota Soccor .ahk
 https://www.google.com/search?q=South Dakota Soccer
 
-5.  South Dakota Track and Field .ahk
+6.  South Dakota Track and Field .ahk
 https://www.google.com/search?q=South Dakota Track and Field
 
-6.  South Dakota Volleyball .ahk
+7.  South Dakota Volleyball .ahk
 https://www.google.com/search?q=South Dakota Volleyball
 
-7.  South Dakota Wrestling .ahk
+8.  South Dakota Wrestling .ahk
 https://www.google.com/search?q=South Dakota Wrestling
 Sports

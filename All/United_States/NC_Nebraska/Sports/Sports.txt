@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Nebraska
 
-2.  Nebraska Basketball .ahk
+2.  Nebraska Baseball .ahk
+https://www.google.com/search?q=Nebraska Baseball
+
+3.  Nebraska Basketball .ahk
 https://www.google.com/search?q=Nebraska Basketball
 
-3.  Nebraska Football .ahk
+4.  Nebraska Football .ahk
 https://www.google.com/search?q=Nebraska Football
 
-4.  Nebraska Soccor .ahk
+5.  Nebraska Soccor .ahk
 https://www.google.com/search?q=Nebraska Soccer
 
-5.  Nebraska Track and Field .ahk
+6.  Nebraska Track and Field .ahk
 https://www.google.com/search?q=Nebraska Track and Field
 
-6.  Nebraska Volleyball .ahk
+7.  Nebraska Volleyball .ahk
 https://www.google.com/search?q=Nebraska Volleyball
 
-7.  Nebraska Wrestling .ahk
+8.  Nebraska Wrestling .ahk
 https://www.google.com/search?q=Nebraska Wrestling
 Sports

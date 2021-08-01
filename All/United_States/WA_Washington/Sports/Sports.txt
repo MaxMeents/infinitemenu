@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Washington
 
-2.  Washington Basketball .ahk
+2.  Washington Baseball .ahk
+https://www.google.com/search?q=Washington Baseball
+
+3.  Washington Basketball .ahk
 https://www.google.com/search?q=Washington Basketball
 
-3.  Washington Football .ahk
+4.  Washington Football .ahk
 https://www.google.com/search?q=Washington Football
 
-4.  Washington Soccor .ahk
+5.  Washington Soccor .ahk
 https://www.google.com/search?q=Washington Soccer
 
-5.  Washington Track and Field .ahk
+6.  Washington Track and Field .ahk
 https://www.google.com/search?q=Washington Track and Field
 
-6.  Washington Volleyball .ahk
+7.  Washington Volleyball .ahk
 https://www.google.com/search?q=Washington Volleyball
 
-7.  Washington Wrestling .ahk
+8.  Washington Wrestling .ahk
 https://www.google.com/search?q=Washington Wrestling
 Sports

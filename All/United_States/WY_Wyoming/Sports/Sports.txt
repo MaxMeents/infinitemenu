@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Wyoming
 
-2.  Wyoming Basketball .ahk
+2.  Wyoming Baseball .ahk
+https://www.google.com/search?q=Wyoming Baseball
+
+3.  Wyoming Basketball .ahk
 https://www.google.com/search?q=Wyoming Basketball
 
-3.  Wyoming Football .ahk
+4.  Wyoming Football .ahk
 https://www.google.com/search?q=Wyoming Football
 
-4.  Wyoming Soccor .ahk
+5.  Wyoming Soccor .ahk
 https://www.google.com/search?q=Wyoming Soccer
 
-5.  Wyoming Track and Field .ahk
+6.  Wyoming Track and Field .ahk
 https://www.google.com/search?q=Wyoming Track and Field
 
-6.  Wyoming Volleyball .ahk
+7.  Wyoming Volleyball .ahk
 https://www.google.com/search?q=Wyoming Volleyball
 
-7.  Wyoming Wrestling .ahk
+8.  Wyoming Wrestling .ahk
 https://www.google.com/search?q=Wyoming Wrestling
 Sports

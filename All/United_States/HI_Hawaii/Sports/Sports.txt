@@ -1,22 +1,25 @@
 
-1.  Hawaii Basketball .ahk
+1.  Hawaii Baseball .ahk
+https://www.google.com/search?q=Hawaii Baseball
+
+2.  Hawaii Basketball .ahk
 https://www.google.com/search?q=Hawaii Basketball
 
-2.  Hawaii Football .ahk
+3.  Hawaii Football .ahk
 https://www.google.com/search?q=Hawaii Football
 
-3.  Hawaii Soccor .ahk
+4.  Hawaii Soccor .ahk
 https://www.google.com/search?q=Hawaii Soccer
 
-4.  Hawaii Track and Field .ahk
+5.  Hawaii Track and Field .ahk
 https://www.google.com/search?q=Hawaii Track and Field
 
-5.  Hawaii Volleyball .ahk
+6.  Hawaii Volleyball .ahk
 https://www.google.com/search?q=Hawaii Volleyball
 
-6.  Hawaii Wrestling .ahk
+7.  Hawaii Wrestling .ahk
 https://www.google.com/search?q=Hawaii Wrestling
 
-7.  Name of Sports Team .ahk
+8.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Hawaii
 Sports

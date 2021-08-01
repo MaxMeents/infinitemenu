@@ -2,21 +2,24 @@
 1.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Vermont
 
-2.  Vermont Basketball .ahk
+2.  Vermont Baseball .ahk
+https://www.google.com/search?q=Vermont Baseball
+
+3.  Vermont Basketball .ahk
 https://www.google.com/search?q=Vermont Basketball
 
-3.  Vermont Football .ahk
+4.  Vermont Football .ahk
 https://www.google.com/search?q=Vermont Football
 
-4.  Vermont Soccor .ahk
+5.  Vermont Soccor .ahk
 https://www.google.com/search?q=Vermont Soccer
 
-5.  Vermont Track and Field .ahk
+6.  Vermont Track and Field .ahk
 https://www.google.com/search?q=Vermont Track and Field
 
-6.  Vermont Volleyball .ahk
+7.  Vermont Volleyball .ahk
 https://www.google.com/search?q=Vermont Volleyball
 
-7.  Vermont Wrestling .ahk
+8.  Vermont Wrestling .ahk
 https://www.google.com/search?q=Vermont Wrestling
 Sports

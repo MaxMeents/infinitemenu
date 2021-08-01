@@ -1,22 +1,25 @@
 
-1.  Minnesota Basketball .ahk
+1.  Minnesota Baseball .ahk
+https://www.google.com/search?q=Minnesota Baseball
+
+2.  Minnesota Basketball .ahk
 https://www.google.com/search?q=Minnesota Basketball
 
-2.  Minnesota Football .ahk
+3.  Minnesota Football .ahk
 https://www.google.com/search?q=Minnesota Football
 
-3.  Minnesota Soccor .ahk
+4.  Minnesota Soccor .ahk
 https://www.google.com/search?q=Minnesota Soccer
 
-4.  Minnesota Track and Field .ahk
+5.  Minnesota Track and Field .ahk
 https://www.google.com/search?q=Minnesota Track and Field
 
-5.  Minnesota Volleyball .ahk
+6.  Minnesota Volleyball .ahk
 https://www.google.com/search?q=Minnesota Volleyball
 
-6.  Minnesota Wrestling .ahk
+7.  Minnesota Wrestling .ahk
 https://www.google.com/search?q=Minnesota Wrestling
 
-7.  Name of Sports Team .ahk
+8.  Name of Sports Team .ahk
 https://www.google.com/search?q=Name of sports team for Minnesota
 Sports
