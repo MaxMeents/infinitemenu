@@ -1,4 +1,0 @@
-
-1.  Pool
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Pool/Pool.txt
-Sports

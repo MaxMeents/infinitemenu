@@ -1,145 +1,43 @@
 
-1.  Alternatives
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Alternatives/Alternatives.txt
-
-2.  Animals
+1.  Animals
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animals.txt
 
-3.  Anime
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Anime/Anime.txt
-
-4.  Arts and Crafts - Youtube Channels
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Arts_and_Crafts_-_Youtube_Channels/Arts_and_Crafts_-_Youtube_Channels.txt
-
-5.  Cars
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cars/Cars.txt
-
-6.  Channelling
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Channelling/Channelling.txt
-
-7.  Checkvist
+2.  Checkvist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Checkvist/Checkvist.txt
 
-8.  Children
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Children/Children.txt
-
-9.  Comedy
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Comedy/Comedy.txt
-
-10.  Computers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Computers/Computers.txt
-
-11.  Cooking
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cooking/Cooking.txt
-
-12.  Countries
+3.  Countries
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Countries.txt
 
-13.  Cute Animal Videos
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Cute_Animal_Videos/Cute_Animal_Videos.txt
-
-14.  Documentries
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Documentries/Documentries.txt
-
-15.  Facebook
+4.  Facebook
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook.txt
 
-16.  Fruits and Vegetables
+5.  Fruits and Vegetables
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Fruits_and_Vegetables.txt
 
-17.  .git
+6.  .git
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/.git/.git.txt
 
-18.  Gmail
+7.  Gmail
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Gmail/Gmail.txt
 
-19.  Guided Meditation
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Guided_Meditation/Guided_Meditation.txt
-
-20.  Herbal Remedies
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Herbal_Remedies/Herbal_Remedies.txt
-
-21.  Home Improvement
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Home_Improvement/Home_Improvement.txt
-
-22.  Learning
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Learning/Learning.txt
-
-23.  Liked Videos
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Liked_Videos/Liked_Videos.txt
-
-24.  Media
+8.  Media
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Media.txt
 
-25.  Money Making Channels
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Making_Channels/Money_Making_Channels.txt
-
-26.  Money Management
+9.  Money Management
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/Money_Management.txt
 
-27.  Most Popular 2021 Audiobooks
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Most_Popular_2021_Audiobooks/Most_Popular_2021_Audiobooks.txt
-
-28.  Netflix
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Netflix/Netflix.txt
-
-29.  Olympics Engagement Tracker
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Olympics_Engagement_Tracker/Olympics_Engagement_Tracker.txt
-
-30.  Pet Animal Videos
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Pet_Animal_Videos/Pet_Animal_Videos.txt
-
-31.  Photography
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Photography/Photography.txt
-
-32.  Presidents
+10.  Presidents
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/Presidents.txt
 
-33.  Spiritual Growth
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Spiritual_Growth/Spiritual_Growth.txt
+11.  Software Alternatives
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Software_Alternatives/Software_Alternatives.txt
 
-34.  Sports
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Sports/Sports.txt
-
-35.  Stand Up
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Stand_Up/Stand_Up.txt
-
-36.  Talks
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Talks/Talks.txt
-
-37.  Time Lapse Drawings
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Time_Lapse_Drawings/Time_Lapse_Drawings.txt
-
-38.  Top 10 Most Subscribed Channels On Youtube
+12.  Top 10 Most Subscribed Channels On Youtube
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_10_Most_Subscribed_Channels_On_Youtube/Top_10_Most_Subscribed_Channels_On_Youtube.txt
 
-39.  Top 50 Websites [each category] Around the World
+13.  Top 50 Websites [each category] Around the World
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/Top_50_Websites_[each_category]_Around_the_World.txt
 
-40.  United States
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/United_States/United_States.txt
-
-41.  Wikipedia
+14.  Wikipedia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Wikipedia.txt
-
-42.  Zillow
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Zillow/Zillow.txt
-
-1.    (1237114).ahk
-https://www.youtube.com/results?search_query=Healthy+Diet&sp=CAMSAhAC
-
-2.   .ahk
-https://www.youtube.com/results?search_query=Healthy+Diet&sp=CAMSAhAC
-
-3.  Meet Google Drive – One place for all your files  (1305381).ahk
-https://drive.google.com/drive/my-drive
-
-4.  Meet Google Drive – One place for all your files  (1928978).ahk
-https://drive.google.com/drive/my-drive
-
-5.  Meet Google Drive – One place for all your files  (1944874).ahk
-https://drive.google.com/drive/my-drive
-
-6.  Meet Google Drive – One place for all your files .ahk
-https://drive.google.com/drive/my-drive
 All

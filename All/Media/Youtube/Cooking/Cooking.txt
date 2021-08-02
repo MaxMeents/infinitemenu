@@ -1,0 +1,7 @@
+
+1.  Cooking Playlists
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Cooking/Cooking_Playlists/Cooking_Playlists.txt
+
+2.  Crock Pot Recipes
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Cooking/Crock_Pot_Recipes/Crock_Pot_Recipes.txt
+Cooking

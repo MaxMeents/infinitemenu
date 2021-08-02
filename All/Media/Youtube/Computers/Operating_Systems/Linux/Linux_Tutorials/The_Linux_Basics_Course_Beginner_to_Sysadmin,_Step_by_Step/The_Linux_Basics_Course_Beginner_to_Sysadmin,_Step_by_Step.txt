@@ -1,0 +1,220 @@
+
+1.  10 Questions You NEED to Ask During Your Tech Job Interview.ahk
+https://www.youtube.com/watch?v=s9XPTay-x8g
+
+2.  3 Concepts to Master for DevOpsSRE Interviews.ahk
+https://www.youtube.com/watch?v=qW1Y4vOcRGc
+
+3.  5 Things I Wish I Knew Before Starting a Tech Career.ahk
+https://www.youtube.com/watch?v=cobUn_hkzQI
+
+4.  6 Tips to Start Your Tech Career in 2021.ahk
+https://www.youtube.com/watch?v=6ZhKPIWIZAw
+
+5.  8 Bash Shortcuts Every Linux User Should Know.ahk
+https://www.youtube.com/watch?v=C-AQAJXdoS8
+
+6.  8 Basic lsof Commands Every Sysadmin Needs to Know.ahk
+https://www.youtube.com/watch?v=rLgRkjM7amo
+
+7.  A Guide to the DevOps Technical Interview.ahk
+https://www.youtube.com/watch?v=8kayz6Q4FYU
+
+8.  Ansible 2 For Beginners Linux Automation Course Overview.ahk
+https://www.youtube.com/watch?v=CFmcWt9YXHk
+
+9.  Archiving and Compression on Linux - Basic tar Commands.ahk
+https://www.youtube.com/watch?v=tSRlNwaUgPQ
+
+10.  Bash Scripting 1 - Why Write Bash Scripts.ahk
+https://www.youtube.com/watch?v=xtS2NiABf54
+
+11.  Bash Scripting 2 -- Bash Basics.ahk
+https://www.youtube.com/watch?v=4-hw6DPBlsw
+
+12.  Bash Scripting 3 -- Variables and Quoting.ahk
+https://www.youtube.com/watch?v=MYWvVgIL_Ys
+
+13.  Bash Scripting 4 -- How Bash Scripts Work.ahk
+https://www.youtube.com/watch?v=U2_MvxnqLRE
+
+14.  Bash Scripting 5 -- Arguments.ahk
+https://www.youtube.com/watch?v=Vbu8rfVaABw
+
+15.  Bash Scripting 6 -- 'If' and Testing Explained.ahk
+https://www.youtube.com/watch?v=VMZBFjYgjR4
+
+16.  Bash Scripting 7 Functions and Course Review.ahk
+https://www.youtube.com/watch?v=9EfN5clA710
+
+17.  Basic Linux Access Control.ahk
+https://www.youtube.com/watch?v=WhCIuGjhH-0
+
+18.  Basic tmux Tutorial - Windows, Panes, and Sessions over SSH.ahk
+https://www.youtube.com/watch?v=BHhA_ZKjyxo
+
+19.  Basic tmux Tutorial, Part 2 -- Shared Sessions.ahk
+https://www.youtube.com/watch?v=norO25P7xHg
+
+20.  DevOps Resume Projects.ahk
+https://www.youtube.com/watch?v=pO-8y_f8YMQ
+
+21.  Everything You Need to Know About $PATH in Bash.ahk
+https://www.youtube.com/watch?v=rJMFxIbDe-g
+
+22.  Genius Level Support Engineer Interview.ahk
+https://www.youtube.com/watch?v=aQHAKgcDNPA
+
+23.  How I Think About Learning.ahk
+https://www.youtube.com/watch?v=_v1SOxC4AAM
+
+24.  How to Backup and Restore a MySQLMariaDB Database.ahk
+https://www.youtube.com/watch?v=vIIRuDtG1yI
+
+25.  How to Create a systemd Linux Service.ahk
+https://www.youtube.com/watch?v=C4a7jxlMTfo
+
+26.  How to make an extra $1mil during your tech career.ahk
+https://www.youtube.com/watch?v=40gguzzXD8U
+
+27.  How to move from Ops to DevOps, Step by Step.ahk
+https://www.youtube.com/watch?v=1_OqSMv20Mo
+
+28.  How to safely delete Linux System Logs.ahk
+https://www.youtube.com/watch?v=AXfboZnKtgg
+
+29.  How to tail (follow) Linux Service Logs.ahk
+https://www.youtube.com/watch?v=wIbSnH1pKaE
+
+30.  Interview with a Software & Infrastructure Engineer.ahk
+https://www.youtube.com/watch?v=uouVpYQqspo
+
+31.  Linux Basics -- Filesystem and AbsoluteRelative Pathnames Explained.ahk
+https://www.youtube.com/watch?v=ar37viZGQwk
+
+32.  Linux Basics -- Linux File Types Explained.ahk
+https://www.youtube.com/watch?v=EDgkcvOoY8A
+
+33.  Linux Basics -- Scheduling Tasks with Cron.ahk
+https://www.youtube.com/watch?v=8j0SWYNglcw
+
+34.  Linux Command 'tee' - Watch & Log Command Output.ahk
+https://www.youtube.com/watch?v=09v8vDOpdYo
+
+35.  Linux Command-Line for Beginners What's happening on this machine.ahk
+https://www.youtube.com/watch?v=EbOEqycEFeM
+
+36.  Linux Command-Line for Beginners Your First 5 Minutes.ahk
+https://www.youtube.com/watch?v=id3DGvljhT4
+
+37.  Linux Documentation In 2017.ahk
+https://www.youtube.com/watch?v=59jnWX_EzTY
+
+38.  Linux inodes Explained.ahk
+https://www.youtube.com/watch?v=6KjMlm8hhFA
+
+39.  Linux Shell Aliases What You Need to Know.ahk
+https://www.youtube.com/watch?v=vz2DGSBBpXg
+
+40.  Linux Sysadmin Basics -- 6 -- Processes Overview.ahk
+https://www.youtube.com/watch?v=ls5cGi12kGw
+
+41.  Linux Sysadmin Basics -- 6.1 Process Signals.ahk
+https://www.youtube.com/watch?v=lP7xoqkqDZQ
+
+42.  Linux Sysadmin Basics -- 6.2 State, Niceness, and How to Monitor Processes.ahk
+https://www.youtube.com/watch?v=vsEJz9aKGKU
+
+43.  Linux Sysadmin Basics -- 6.3 The proc Filesystem.ahk
+https://www.youtube.com/watch?v=0XdjODvsRN8
+
+44.  Linux Sysadmin Basics -- 7 -- Filesystem Layout Overview.ahk
+https://www.youtube.com/watch?v=svh8sSuz5BI
+
+45.  Linux Sysadmin Basics -- 7.1 Filesystem Layout.ahk
+https://www.youtube.com/watch?v=TG5YJe9camA
+
+46.  Linux Sysadmin Basics -- Course Introduction (Updated for 2020).ahk
+https://www.youtube.com/watch?v=bju_FdCo42w
+
+47.  Linux Sysadmin Basics -- Linux File Permissions.ahk
+https://www.youtube.com/watch?v=8SkN7UofOww
+
+48.  Linux Sysadmin Basics -- User Account Management.ahk
+https://www.youtube.com/watch?v=UN1QB5BIvps
+
+49.  Linux Sysadmin Basics 01 -- Setting up a Linux Virtual Machine.ahk
+https://www.youtube.com/watch?v=OLK49ZTbmWM
+
+50.  Linux Sysadmin Basics 02 -- Basic Commands.ahk
+https://www.youtube.com/watch?v=Lbh8Bh_SEzU
+
+51.  Linux Sysadmin Basics 03 -- Text Editors (and review of basic commands).ahk
+https://www.youtube.com/watch?v=fEGSA68uAR4
+
+52.  Linux Sysadmin Basics 04 -- Shell Features -- Pipes and Redirection.ahk
+https://www.youtube.com/watch?v=-Z5tCri-QlI
+
+53.  Linux Sysadmin Basics 05 -- Package Management with apt-get.ahk
+https://www.youtube.com/watch?v=8P-Vek7Vtgg
+
+54.  Linux Sysadmin Basics 4.1 -- Filtering Output and Finding Things (&&, cut, sort, uniq, wc, grep).ahk
+https://www.youtube.com/watch?v=8P-Vek7Vtgg
+
+55.  Linux System Monitoring with Monit, part 2 SSH Local Forwarding for our Web Dashboard.ahk
+https://www.youtube.com/watch?v=ThcaW4MVGLY
+
+56.  Monitoring Linux Systems and Services with Monit (Hands-On Linux Course Preview).ahk
+https://www.youtube.com/watch?v=wiRt3mY7Rrw
+
+57.  MySQLMariaDB Basics (RHCE Certification Study).ahk
+https://www.youtube.com/watch?v=qxPnGlIxYC8
+
+58.  Project Tour Hashistack (Terraform, Consul, Nomad on AWS).ahk
+https://www.youtube.com/watch?v=JAiPPzbu_OQ
+
+59.  Resources for Becoming a Linux System Administrator.ahk
+https://www.youtube.com/watch?v=oGLgd1PGe1k
+
+60.  Service Management with systemd (Hands-On Linux Course Preview).ahk
+https://www.youtube.com/watch?v=JX2lxKJC6yI
+
+61.  Sublime Text Basics All the Best Features in One Video.ahk
+https://www.youtube.com/watch?v=zIkg3Oo1PVM
+
+62.  Sysadmin Book Review Networking For Systems Administrators.ahk
+https://www.youtube.com/watch?v=3cE5jIcYwfY
+
+63.  Sysadmin Training Where to find Answers to Technical Questions.ahk
+https://www.youtube.com/watch?v=kXWZz8RcW4o
+
+64.  systemd on Linux 1 Intro and Unit Files.ahk
+https://www.youtube.com/watch?v=N1vgvhiyq0E
+
+65.  systemd on Linux 2 systemctl commands.ahk
+https://www.youtube.com/watch?v=fzOceeJB5vw
+
+66.  systemd on Linux 3 Targets.ahk
+https://www.youtube.com/watch?v=4xO-_cQaEfA
+
+67.  The Best Ideas in Tech Right Now (this very second!).ahk
+https://www.youtube.com/watch?v=zKEORJsyR-Q
+
+68.  The Linux 'script' Command Record Your Shell Sessions.ahk
+https://www.youtube.com/watch?v=tweyWNr6X18
+
+69.  The real reason most companies use microservices.ahk
+https://www.youtube.com/watch?v=4ItOK4K7Kjg
+
+70.  Top 10 Linux Job Interview Questions.ahk
+https://www.youtube.com/watch?v=l0QGLMwR-lY
+
+71.  Vim Basics in 8 Minutes.ahk
+https://www.youtube.com/watch?v=ggSyF1SVFr4
+
+72.  VPNs for Privacy - The Basics.ahk
+https://www.youtube.com/watch?v=9VkswePNh80
+
+73.  What Every Sysadmin Needs to Know about Tech Debt.ahk
+https://www.youtube.com/watch?v=WqirNEFPh5Y
+The Linux Basics Course Beginner to Sysadmin, Step by Step

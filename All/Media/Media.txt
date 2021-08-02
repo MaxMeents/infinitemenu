@@ -1,10 +1,19 @@
 
-1.  Movies
+1.  Audiobooks
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Audiobooks/Audiobooks.txt
+
+2.  Movies
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Movies.txt
 
-2.  Music
+3.  Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music.txt
 
-3.  Tv-Shows
+4.  Netflix
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/Netflix.txt
+
+5.  Tv-Shows
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Tv-Shows.txt
+
+6.  Youtube
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Youtube.txt
 Media

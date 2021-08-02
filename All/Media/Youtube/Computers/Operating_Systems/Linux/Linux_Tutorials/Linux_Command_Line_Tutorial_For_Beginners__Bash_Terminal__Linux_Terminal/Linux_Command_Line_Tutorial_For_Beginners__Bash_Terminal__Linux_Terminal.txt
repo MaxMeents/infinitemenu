@@ -1,0 +1,271 @@
+
+1.  Bash Shell Scripting Tutorial  Shell Scripting Tutorial  Learn Shell Programming.ahk
+https://www.youtube.com/watch?v=n88YanbkC4Y
+
+2.  Docker Tutorial for Beginners  Learn Docker in 2 Hours (Full Course)  DevOps Training.ahk
+https://www.youtube.com/watch?v=n88YanbkC4Y
+
+3.  How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest  virtual machine.ahk
+https://www.youtube.com/watch?v=qNecdUsuTPw
+
+4.  How to be a Good Software Developer  Coder  Programmer.ahk
+https://www.youtube.com/watch?v=M9C-_s3HQl8
+
+5.  How to Enable SSH in Ubuntu 18.04 LTS  Ubuntu 20.04  (Install openssh-server).ahk
+https://www.youtube.com/watch?v=JZ7h5FxlTVg
+
+6.  How to Install and  configuration PostgreSQL on Ubuntu Linux.ahk
+https://www.youtube.com/watch?v=-LwI4HMR_Eg
+
+7.  How to Install Android Studio on Ubuntu 20.04 LTS.ahk
+https://www.youtube.com/watch?v=x3nVHXv3oyw
+
+8.  How to install Atom editor in Ubuntu Linux.ahk
+https://www.youtube.com/watch?v=Dk1y06JCa7o
+
+9.  How to Install Debian Linux on VirtualBox.ahk
+https://www.youtube.com/watch?v=6M1DivpQSdo
+
+10.  How to Install Fedora Linux on VirtualBox in Windows 8  Windows 10.ahk
+https://www.youtube.com/watch?v=WVmAC37BfVA
+
+11.  How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux).ahk
+https://www.youtube.com/watch?v=4RJ60fqeTN4
+
+12.  How to Install Linux Mint 19 Cinnamon on VirtualBox.ahk
+https://www.youtube.com/watch?v=cPDNnpsdteU
+
+13.  How to Install Parrot Security OS on VirtualBox.ahk
+https://www.youtube.com/watch?v=yPaZp-BAr_Q
+
+14.  How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8  Windows 10.ahk
+https://www.youtube.com/watch?v=GGorVpzZQwA
+
+15.  How to Install Ubuntu 16.04 LTS on VMware in Windows 8  Windows 10.ahk
+https://www.youtube.com/watch?v=Rc0JxFEcnBs
+
+16.  How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10  Windows 8.ahk
+https://www.youtube.com/watch?v=QbmRXJJKsvs
+
+17.  How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10.ahk
+https://www.youtube.com/watch?v=x5MhydijWmc
+
+18.  How to Run LinuxBash on Windows 10  Windows 10 Bash & Linux Subsystem Setup.ahk
+https://www.youtube.com/watch?v=1ap3hL-UR9I
+
+19.  How To Test 200+ Linux Distributions Without Installing them.ahk
+https://www.youtube.com/watch?v=f_CWdtoTMKg
+
+20.  Install Wine on Ubuntu 20.04 LTS Focal Fossa Linux  Running Windows Programs on Linux.ahk
+https://www.youtube.com/watch?v=f_CWdtoTMKg
+
+21.  Linux Command Line Tutorial  Learn the Bash Command Line  Linux Terminal Tutorial.ahk
+https://www.youtube.com/watch?v=f_CWdtoTMKg
+
+22.  Linux Command Line Tutorial For Beginners 1 - Introduction.ahk
+https://www.youtube.com/watch?v=YHFzr-akOas
+
+23.  Linux Command Line Tutorial For Beginners 10 - less command.ahk
+https://www.youtube.com/watch?v=06GsFVeuWNk
+
+24.  Linux Command Line Tutorial For Beginners 11 -  touch command.ahk
+https://www.youtube.com/watch?v=frSbkNV1pc8
+
+25.  Linux Command Line Tutorial For Beginners 12 -  nano command.ahk
+https://www.youtube.com/watch?v=ak8c9SfHGWI
+
+26.  Linux Command Line Tutorial For Beginners 13 - sudo command.ahk
+https://www.youtube.com/watch?v=NV55X0MvVEo
+
+27.  Linux Command Line Tutorial For Beginners 14 -  top command.ahk
+https://www.youtube.com/watch?v=M4kM0JleVDs
+
+28.  Linux Command Line Tutorial For Beginners 15 -  kill command.ahk
+https://www.youtube.com/watch?v=fT-h45L9RAY
+
+29.  Linux Command Line Tutorial For Beginners 16 - echo command.ahk
+https://www.youtube.com/watch?v=tYmFsyH7VJY
+
+30.  Linux Command Line Tutorial For Beginners 17 - file permissions, symbolic permissions and chmod.ahk
+https://www.youtube.com/watch?v=tYmFsyH7VJY
+
+31.  Linux Command Line Tutorial For Beginners 18 - directory permissions and chmod.ahk
+https://www.youtube.com/watch?v=VwOapNGpILI
+
+32.  Linux Command Line Tutorial For Beginners 19 - Octal and Numerical permissions (chmod).ahk
+https://www.youtube.com/watch?v=VwOapNGpILI
+
+33.  Linux Command Line Tutorial For Beginners 2 - ls command in Linux.ahk
+https://www.youtube.com/watch?v=dQ8JgDUS8DA
+
+34.  Linux Command Line Tutorial For Beginners 20 - Introduction to Bash Scripting.ahk
+https://www.youtube.com/watch?v=-GNxBGja9xw
+
+35.  Linux Command Line Tutorial For Beginners 21 -  which and whatis command.ahk
+https://www.youtube.com/watch?v=nAuTUbGG61s
+
+36.  Linux Command Line Tutorial For Beginners 22 -  useradd command (Creating Users).ahk
+https://www.youtube.com/watch?v=nAuTUbGG61s
+
+37.  Linux Command Line Tutorial For Beginners 23 - userdel command (Removing Users).ahk
+https://www.youtube.com/watch?v=HOzWrh70aBw
+
+38.  Linux Command Line Tutorial For Beginners 24 - Basic Group Management (groups, groupadd, groupdel).ahk
+https://www.youtube.com/watch?v=HOzWrh70aBw
+
+39.  Linux Command Line Tutorial For Beginners 25 - .bashrc File.ahk
+https://www.youtube.com/watch?v=pYL0iKIyik4
+
+40.  Linux Command Line Tutorial For Beginners 26 - Viewing Resources (du , df, free command).ahk
+https://www.youtube.com/watch?v=pYL0iKIyik4
+
+41.  Linux Command Line Tutorial For Beginners 27 -  watch command.ahk
+https://www.youtube.com/watch?v=psruEx7gkEw
+
+42.  Linux Command Line Tutorial For Beginners 28 -  Head and Tail Commands.ahk
+https://www.youtube.com/watch?v=ad4omyYRMTg
+
+43.  Linux Command Line Tutorial For Beginners 29 - find command.ahk
+https://www.youtube.com/watch?v=tDPx6yeQFXU
+
+44.  Linux Command Line Tutorial For Beginners 3 - cd command in Linux.ahk
+https://www.youtube.com/watch?v=FTTr2bjI2UM
+
+45.  Linux Command Line Tutorial For Beginners 30 -  wc command.ahk
+https://www.youtube.com/watch?v=30CimEkI7UY
+
+46.  Linux Command Line Tutorial For Beginners 31 -  cal command.ahk
+https://www.youtube.com/watch?v=dKEEoGUjlpA
+
+47.  Linux Command Line Tutorial For Beginners 32 -  date command.ahk
+https://www.youtube.com/watch?v=xKnCCXPiNYM
+
+48.  Linux Command Line Tutorial For Beginners 33 -  How to Run multiple Terminal Commands.ahk
+https://www.youtube.com/watch?v=xKnCCXPiNYM
+
+49.  Linux Command Line Tutorial For Beginners 34 -  apt-get command to Install Software.ahk
+https://www.youtube.com/watch?v=xKnCCXPiNYM
+
+50.  Linux Command Line Tutorial For Beginners 35 -  ifconfig command.ahk
+https://www.youtube.com/watch?v=waCYu4QGsYc
+
+51.  Linux Command Line Tutorial For Beginners 36 - tar command to Compress and Extract Files.ahk
+https://www.youtube.com/watch?v=waCYu4QGsYc
+
+52.  Linux Command Line Tutorial For Beginners 37 - grep command.ahk
+https://www.youtube.com/watch?v=_SxRZ4HMIBE
+
+53.  Linux Command Line Tutorial For Beginners 38 - netstat command.ahk
+https://www.youtube.com/watch?v=zGNcvBaN5wE
+
+54.  Linux Command Line Tutorial For Beginners 4 - cat command in Linux.ahk
+https://www.youtube.com/watch?v=E01hskdRmUg
+
+55.  Linux Command Line Tutorial For Beginners 5 - IO Redirection.ahk
+https://www.youtube.com/watch?v=B7nHENGa7pc
+
+56.  Linux Command Line Tutorial For Beginners 6 -  mkdir Command.ahk
+https://www.youtube.com/watch?v=qixSaXSUs-U
+
+57.  Linux Command Line Tutorial For Beginners 7 -  rm and rmdir commands for linux.ahk
+https://www.youtube.com/watch?v=yrw6Uxs-yJk
+
+58.  Linux Command Line Tutorial For Beginners 8 - cp command.ahk
+https://www.youtube.com/watch?v=Bnx_GAHM0wo
+
+59.  Linux Command Line Tutorial For Beginners 9 - mv command.ahk
+https://www.youtube.com/watch?v=nTLWfSl5nuQ
+
+60.  scp command - SCP to Securely Transfer FilesFolders in Linux.ahk
+https://www.youtube.com/watch?v=fmMg6cyww14
+
+61.  Shell Scripting Tutorial for Beginners 1 -  Introduction.ahk
+https://www.youtube.com/watch?v=cQepf9fY6cE
+
+62.  Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations.ahk
+https://www.youtube.com/watch?v=kr3WP_-bu8A
+
+63.  Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash  bc Command.ahk
+https://www.youtube.com/watch?v=kr3WP_-bu8A
+
+64.  Shell Scripting Tutorial for Beginners 12 - The case statement.ahk
+https://www.youtube.com/watch?v=dW3oYQbNFyI
+
+65.  Shell Scripting Tutorial for Beginners 13 - The case statement Example.ahk
+https://www.youtube.com/watch?v=dqaMU4v6KvQ
+
+66.  Shell Scripting Tutorial for Beginners 14 - Array variables.ahk
+https://www.youtube.com/watch?v=p4ZHbf4_6IU
+
+67.  Shell Scripting Tutorial for Beginners 15 - WHILE Loops.ahk
+https://www.youtube.com/watch?v=iwEteYwKDfE
+
+68.  Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops.ahk
+https://www.youtube.com/watch?v=iwEteYwKDfE
+
+69.  Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash.ahk
+https://www.youtube.com/watch?v=A-rBp1OJSH4
+
+70.  Shell Scripting Tutorial for Beginners 18 - UNTIL loop.ahk
+https://www.youtube.com/watch?v=PgVIvWIi89I
+
+71.  Shell Scripting Tutorial for Beginners 19 - FOR loop.ahk
+https://www.youtube.com/watch?v=mhhAbETJpag
+
+72.  Shell Scripting Tutorial for Beginners 2 - using Variables and Comments.ahk
+https://www.youtube.com/watch?v=vQv4W-JfrmQ
+
+73.  Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands.ahk
+https://www.youtube.com/watch?v=qnmlnu-J3_g
+
+74.  Shell Scripting Tutorial for Beginners 21 - Select loop.ahk
+https://www.youtube.com/watch?v=k3yTt0V01Mo
+
+75.  Shell Scripting Tutorial for Beginners 22 - Break and continue.ahk
+https://www.youtube.com/watch?v=OOG076Z5SU8
+
+76.  Shell Scripting Tutorial for Beginners 23 - Functions.ahk
+https://www.youtube.com/watch?v=kvQpx0q3qhY
+
+77.  Shell Scripting Tutorial for Beginners 24 - Local variables.ahk
+https://www.youtube.com/watch?v=16T4e4DME8I
+
+78.  Shell Scripting Tutorial for Beginners 25 - Function Example.ahk
+https://www.youtube.com/watch?v=x8Zbspqm_x4
+
+79.  Shell Scripting Tutorial for Beginners 26 - Readonly command.ahk
+https://www.youtube.com/watch?v=EcldWxfoEmw
+
+80.  Shell Scripting Tutorial for Beginners 27 - Signals and Traps.ahk
+https://www.youtube.com/watch?v=tF0Qau7zcsw
+
+81.  Shell Scripting Tutorial for Beginners 28 - How to debug a bash script.ahk
+https://www.youtube.com/watch?v=yrIlmyRST8c
+
+82.  Shell Scripting Tutorial for Beginners 3 - Read User Input.ahk
+https://www.youtube.com/watch?v=AcSkkNAsGCY
+
+83.  Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script.ahk
+https://www.youtube.com/watch?v=BjBBfmDRakg
+
+84.  Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else).ahk
+https://www.youtube.com/watch?v=BjBBfmDRakg
+
+85.  Shell Scripting Tutorial for Beginners 6 - File test operators.ahk
+https://www.youtube.com/watch?v=uVi5o38NGi0
+
+86.  Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file.ahk
+https://www.youtube.com/watch?v=uVi5o38NGi0
+
+87.  Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator.ahk
+https://www.youtube.com/watch?v=m4G3MLK8l4s
+
+88.  Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator.ahk
+https://www.youtube.com/watch?v=RtbeGJfssGQ
+
+89.  Top Websites for Coding Interview Preparation in 2021.ahk
+https://www.youtube.com/watch?v=wDnFjDjxW_0
+
+90.  Which Programming Language Should You Learn First.ahk
+https://www.youtube.com/watch?v=AmTD9BaL6zY
+Linux Command Line Tutorial For Beginners  Bash Terminal  Linux Terminal
