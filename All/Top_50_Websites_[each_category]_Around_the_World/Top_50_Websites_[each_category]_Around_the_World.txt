@@ -1,0 +1,31 @@
+
+1.   Arts And Entertainment
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Arts_And_Entertainment/_Arts_And_Entertainment.txt
+
+2.   Business And Consumer Services
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Business_And_Consumer_Services/_Business_And_Consumer_Services.txt
+
+3.   Community And Society
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Community_And_Society/_Community_And_Society.txt
+
+4.   Computers Electronics And Technology
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Computers_Electronics_And_Technology/_Computers_Electronics_And_Technology.txt
+
+5.   E-commerce And Shopping
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_E-commerce_And_Shopping/_E-commerce_And_Shopping.txt
+
+6.   Finance
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Finance/_Finance.txt
+
+7.   Food And Drink
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/_Food_And_Drink.txt
+
+8.   Gambling
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Gambling/_Gambling.txt
+
+9.   Games
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Games/_Games.txt
+
+10.   Health
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Health/_Health.txt
+Top 50 Websites [each category] Around the World

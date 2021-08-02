@@ -1,0 +1,151 @@
+
+1.  360.cn.ahk
+http://360.cn/
+
+2.  avast.com.ahk
+http://avast.com/
+
+3.  avg.com.ahk
+http://avg.com/
+
+4.  avira.com.ahk
+http://avira.com/
+
+5.  avis-verifies.com.ahk
+http://avis-verifies.com/
+
+6.  barracudanetworks.com.ahk
+http://barracudanetworks.com/
+
+7.  bdydns.com.ahk
+http://bdydns.com/
+
+8.  bitdefender.com.ahk
+http://bitdefender.com/
+
+9.  cloudflare.com.ahk
+http://cloudflare.com/
+
+10.  comss.ru.ahk
+http://comss.ru/
+
+11.  cunhua.dog.ahk
+http://cunhua.dog/
+
+12.  duosecurity.com.ahk
+http://duosecurity.com/
+
+13.  eset.com.ahk
+http://eset.com/
+
+14.  f-secure.com.ahk
+http://f-secure.com/
+
+15.  fortinet.com.ahk
+http://fortinet.com/
+
+16.  geekflare.com.ahk
+http://geekflare.com/
+
+17.  huorong.cn.ahk
+http://huorong.cn/
+
+18.  itglue.com.ahk
+http://itglue.com/
+
+19.  kafan.cn.ahk
+http://kafan.cn/
+
+20.  kali.org.ahk
+http://kali.org/
+
+21.  kaspersky.com.ahk
+http://kaspersky.com/
+
+22.  kaspersky.ru.ahk
+http://kaspersky.ru/
+
+23.  kfsafe.cn.ahk
+http://kfsafe.cn/
+
+24.  kmcert.com.ahk
+http://kmcert.com/
+
+25.  knowbe4.com.ahk
+http://knowbe4.com/
+
+26.  maxitorrent.com.ahk
+http://maxitorrent.com/
+
+27.  mcafee.com.ahk
+http://mcafee.com/
+
+28.  mcafeemobilesecurity.com.ahk
+http://mcafeemobilesecurity.com/
+
+29.  mcas.ms.ahk
+http://mcas.ms/
+
+30.  odysee.com.ahk
+http://odysee.com/
+
+31.  opendns.com.ahk
+http://opendns.com/
+
+32.  pages.dev.ahk
+http://pages.dev/
+
+33.  paloaltonetworks.com.ahk
+http://paloaltonetworks.com/
+
+34.  pandasecurity.com.ahk
+http://pandasecurity.com/
+
+35.  pingidentity.com.ahk
+http://pingidentity.com/
+
+36.  pingone.com.ahk
+http://pingone.com/
+
+37.  proofpoint.com.ahk
+http://proofpoint.com/
+
+38.  safefinder.com.ahk
+http://safefinder.com/
+
+39.  safetydetectives.com.ahk
+http://safetydetectives.com/
+
+40.  sans.org.ahk
+http://sans.org/
+
+41.  searchmixer.com.ahk
+http://searchmixer.com/
+
+42.  sophos.com.ahk
+http://sophos.com/
+
+43.  symantec.com.ahk
+http://symantec.com/
+
+44.  theregister.com.ahk
+http://theregister.com/
+
+45.  torproject.org.ahk
+http://torproject.org/
+
+46.  totalav.com.ahk
+http://totalav.com/
+
+47.  tr-gameland.com.ahk
+http://tr-gameland.com/
+
+48.  virustotal.com.ahk
+http://virustotal.com/
+
+49.  zetflix.online.ahk
+http://zetflix.online/
+
+50.  zwyr157wwiu6eior.com.ahk
+http://zwyr157wwiu6eior.com/
+Computer Security in the world

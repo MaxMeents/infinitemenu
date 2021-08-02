@@ -1,0 +1,151 @@
+
+1.  asahibeer.co.jp.ahk
+http://asahibeer.co.jp/
+
+2.  beeradvocate.com.ahk
+http://beeradvocate.com/
+
+3.  beerwulf.com.ahk
+http://beerwulf.com/
+
+4.  bevmo.com.ahk
+http://bevmo.com/
+
+5.  brewdog.com.ahk
+http://brewdog.com/
+
+6.  bws.com.au.ahk
+http://bws.com.au/
+
+7.  cellartracker.com.ahk
+http://cellartracker.com/
+
+8.  clearly.ca.ahk
+http://clearly.ca/
+
+9.  coca-cola.com.ahk
+http://coca-cola.com/
+
+10.  cocacola.co.jp.ahk
+http://cocacola.co.jp/
+
+11.  costa.co.uk.ahk
+http://costa.co.uk/
+
+12.  danmurphys.com.au.ahk
+http://danmurphys.com.au/
+
+13.  diffordsguide.com.ahk
+http://diffordsguide.com/
+
+14.  doutor.co.jp.ahk
+http://doutor.co.jp/
+
+15.  drizly.com.ahk
+http://drizly.com/
+
+16.  enoteca.co.jp.ahk
+http://enoteca.co.jp/
+
+17.  gatorade.com.ahk
+http://gatorade.com/
+
+18.  home-barista.com.ahk
+http://home-barista.com/
+
+19.  homebrewtalk.com.ahk
+http://homebrewtalk.com/
+
+20.  kirin.co.jp.ahk
+http://kirin.co.jp/
+
+21.  lcbo.com.ahk
+http://lcbo.com/
+
+22.  liquor.com.ahk
+http://liquor.com/
+
+23.  liquorland.com.au.ahk
+http://liquorland.com.au/
+
+24.  login-vp.com.ahk
+http://login-vp.com/
+
+25.  masterofmalt.com.ahk
+http://masterofmalt.com/
+
+26.  michelobultra.com.ahk
+http://michelobultra.com/
+
+27.  monsterenergy.com.ahk
+http://monsterenergy.com/
+
+28.  nescafe.com.ahk
+http://nescafe.com/
+
+29.  pepsico.com.ahk
+http://pepsico.com/
+
+30.  readyrefresh.com.ahk
+http://readyrefresh.com/
+
+31.  reservebar.com.ahk
+http://reservebar.com/
+
+32.  sapporobeer.jp.ahk
+http://sapporobeer.jp/
+
+33.  smirnoff.com.ahk
+http://smirnoff.com/
+
+34.  suntory.co.jp.ahk
+http://suntory.co.jp/
+
+35.  teachermade.com.ahk
+http://teachermade.com/
+
+36.  thewhiskyexchange.com.ahk
+http://thewhiskyexchange.com/
+
+37.  totalwine.com.ahk
+http://totalwine.com/
+
+38.  trailapp.com.ahk
+http://trailapp.com/
+
+39.  untappd.com.ahk
+http://untappd.com/
+
+40.  upgrade-your-summer.com.ahk
+http://upgrade-your-summer.com/
+
+41.  vinepair.com.ahk
+http://vinepair.com/
+
+42.  vivino.com.ahk
+http://vivino.com/
+
+43.  vtinfo.com.ahk
+http://vtinfo.com/
+
+44.  whiskybase.com.ahk
+http://whiskybase.com/
+
+45.  whiteclaw.com.ahk
+http://whiteclaw.com/
+
+46.  wine-searcher.com.ahk
+http://wine-searcher.com/
+
+47.  wine.com.ahk
+http://wine.com/
+
+48.  winefolly.com.ahk
+http://winefolly.com/
+
+49.  winemag.com.ahk
+http://winemag.com/
+
+50.  winlikecharlie.com.ahk
+http://winlikecharlie.com/
+Beverages in the world

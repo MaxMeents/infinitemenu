@@ -1,0 +1,151 @@
+
+1.  2345.com.ahk
+http://2345.com/
+
+2.  allkpop.com.ahk
+http://allkpop.com/
+
+3.  cdninstagram.com.ahk
+http://cdninstagram.com/
+
+4.  dcinside.com.ahk
+http://dcinside.com/
+
+5.  dcm-b.jp.ahk
+http://dcm-b.jp/
+
+6.  deadline.com.ahk
+http://deadline.com/
+
+7.  digitalspy.com.ahk
+http://digitalspy.com/
+
+8.  douban.com.ahk
+http://douban.com/
+
+9.  fandom.com.ahk
+http://fandom.com/
+
+10.  freepik.com.ahk
+http://freepik.com/
+
+11.  gfycat.com.ahk
+http://gfycat.com/
+
+12.  giphy.com.ahk
+http://giphy.com/
+
+13.  go.com.ahk
+http://go.com/
+
+14.  gofundme.com.ahk
+http://gofundme.com/
+
+15.  goguynet.jp.ahk
+http://goguynet.jp/
+
+16.  grid.id.ahk
+http://grid.id/
+
+17.  hola.com.ahk
+http://hola.com/
+
+18.  koreaboo.com.ahk
+http://koreaboo.com/
+
+19.  ldblog.jp.ahk
+http://ldblog.jp/
+
+20.  myanimelist.net.ahk
+http://myanimelist.net/
+
+21.  mydramalist.com.ahk
+http://mydramalist.com/
+
+22.  nate.com.ahk
+http://nate.com/
+
+23.  oricon.co.jp.ahk
+http://oricon.co.jp/
+
+24.  pagesix.com.ahk
+http://pagesix.com/
+
+25.  pinkvilla.com.ahk
+http://pinkvilla.com/
+
+26.  pinterest.ru.ahk
+http://pinterest.ru/
+
+27.  pomponik.pl.ahk
+http://pomponik.pl/
+
+28.  pudelek.pl.ahk
+http://pudelek.pl/
+
+29.  purepeople.com.ahk
+http://purepeople.com/
+
+30.  purepeople.com.br.ahk
+http://purepeople.com.br/
+
+31.  ranker.com.ahk
+http://ranker.com/
+
+32.  redbubble.com.ahk
+http://redbubble.com/
+
+33.  screenrant.com.ahk
+http://screenrant.com/
+
+34.  sonyliv.com.ahk
+http://sonyliv.com/
+
+35.  soompi.com.ahk
+http://soompi.com/
+
+36.  super.cz.ahk
+http://super.cz/
+
+37.  superanimes.com.ahk
+http://superanimes.com/
+
+38.  syosetu.com.ahk
+http://syosetu.com/
+
+39.  syosetu.org.ahk
+http://syosetu.org/
+
+40.  tenor.co.ahk
+http://tenor.co/
+
+41.  tmz.com.ahk
+http://tmz.com/
+
+42.  truyenfull.vn.ahk
+http://truyenfull.vn/
+
+43.  tsite.jp.ahk
+http://tsite.jp/
+
+44.  tvefamosos.uol.com.br.ahk
+http://tvefamosos.uol.com.br/
+
+45.  twimg.com.ahk
+http://twimg.com/
+
+46.  viki.com.ahk
+http://viki.com/
+
+47.  vippers.jp.ahk
+http://vippers.jp/
+
+48.  voici.fr.ahk
+http://voici.fr/
+
+49.  watchasian.vc.ahk
+http://watchasian.vc/
+
+50.  youku.com.ahk
+http://youku.com/
+Arts And Entertainment in the world

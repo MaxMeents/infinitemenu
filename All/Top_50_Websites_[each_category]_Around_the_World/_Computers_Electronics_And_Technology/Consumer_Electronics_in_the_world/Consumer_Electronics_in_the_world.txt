@@ -1,0 +1,151 @@
+
+1.  apple.com.ahk
+http://apple.com/
+
+2.  bestbuy.com.ahk
+http://bestbuy.com/
+
+3.  bhphotovideo.com.ahk
+http://bhphotovideo.com/
+
+4.  biccamera.com.ahk
+http://biccamera.com/
+
+5.  boostmobile.com.ahk
+http://boostmobile.com/
+
+6.  boulanger.com.ahk
+http://boulanger.com/
+
+7.  currys.co.uk.ahk
+http://currys.co.uk/
+
+8.  danawa.com.ahk
+http://danawa.com/
+
+9.  darty.com.ahk
+http://darty.com/
+
+10.  dienmayxanh.com.ahk
+http://dienmayxanh.com/
+
+11.  euro.com.pl.ahk
+http://euro.com.pl/
+
+12.  gadgetsnow.com.ahk
+http://gadgetsnow.com/
+
+13.  gearbest.com.ahk
+http://gearbest.com/
+
+14.  hp.com.ahk
+http://hp.com/
+
+15.  huawei.com.ahk
+http://huawei.com/
+
+16.  jbhifi.com.au.ahk
+http://jbhifi.com.au/
+
+17.  kabum.com.br.ahk
+http://kabum.com.br/
+
+18.  lavamobiles.com.ahk
+http://lavamobiles.com/
+
+19.  lg.com.ahk
+http://lg.com/
+
+20.  mediaexpert.pl.ahk
+http://mediaexpert.pl/
+
+21.  mediamarkt.de.ahk
+http://mediamarkt.de/
+
+22.  mediamarkt.es.ahk
+http://mediamarkt.es/
+
+23.  mi.com.ahk
+http://mi.com/
+
+24.  micromaxinfo.com.ahk
+http://micromaxinfo.com/
+
+25.  nest.com.ahk
+http://nest.com/
+
+26.  newegg.com.ahk
+http://newegg.com/
+
+27.  onlinetrade.ru.ahk
+http://onlinetrade.ru/
+
+28.  oppo.com.ahk
+http://oppo.com/
+
+29.  panasonic.com.ahk
+http://panasonic.com/
+
+30.  panasonic.jp.ahk
+http://panasonic.jp/
+
+31.  pccomponentes.com.ahk
+http://pccomponentes.com/
+
+32.  realme.com.ahk
+http://realme.com/
+
+33.  reliancedigital.in.ahk
+http://reliancedigital.in/
+
+34.  ring.com.ahk
+http://ring.com/
+
+35.  roku.com.ahk
+http://roku.com/
+
+36.  rtings.com.ahk
+http://rtings.com/
+
+37.  samsung.com.ahk
+http://samsung.com/
+
+38.  saturn.de.ahk
+http://saturn.de/
+
+39.  shop.samsung.com.ahk
+http://shop.samsung.com/
+
+40.  shutterfly.com.ahk
+http://shutterfly.com/
+
+41.  sony.com.ahk
+http://sony.com/
+
+42.  sony.jp.ahk
+http://sony.jp/
+
+43.  thegioididong.com.ahk
+http://thegioididong.com/
+
+44.  unieuro.it.ahk
+http://unieuro.it/
+
+45.  unity.com.ahk
+http://unity.com/
+
+46.  uscellular.com.ahk
+http://uscellular.com/
+
+47.  versus.com.ahk
+http://versus.com/
+
+48.  whathifi.com.ahk
+http://whathifi.com/
+
+49.  xiaomi.com.ahk
+http://xiaomi.com/
+
+50.  yodobashi.com.ahk
+http://yodobashi.com/
+Consumer Electronics in the world

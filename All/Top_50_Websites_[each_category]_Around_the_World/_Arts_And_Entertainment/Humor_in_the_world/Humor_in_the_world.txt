@@ -1,0 +1,151 @@
+
+1.  1gr.cz.ahk
+http://1gr.cz/
+
+2.  9gag.com.ahk
+http://9gag.com/
+
+3.  adme.ru.ahk
+http://adme.ru/
+
+4.  adultswim.com.ahk
+http://adultswim.com/
+
+5.  anekdot.ru.ahk
+http://anekdot.ru/
+
+6.  change.org.ahk
+http://change.org/
+
+7.  cheezburger.com.ahk
+http://cheezburger.com/
+
+8.  cracked.com.ahk
+http://cracked.com/
+
+9.  cuantarazon.com.ahk
+http://cuantarazon.com/
+
+10.  demotywatory.pl.ahk
+http://demotywatory.pl/
+
+11.  dilbert.com.ahk
+http://dilbert.com/
+
+12.  ebaumsworld.com.ahk
+http://ebaumsworld.com/
+
+13.  eightieskids.com.ahk
+http://eightieskids.com/
+
+14.  ellegirl.ru.ahk
+http://ellegirl.ru/
+
+15.  fanfiction.net.ahk
+http://fanfiction.net/
+
+16.  finofilipino.org.ahk
+http://finofilipino.org/
+
+17.  fishki.net.ahk
+http://fishki.net/
+
+18.  fontmeme.com.ahk
+http://fontmeme.com/
+
+19.  funnyjunk.com.ahk
+http://funnyjunk.com/
+
+20.  gifer.com.ahk
+http://gifer.com/
+
+21.  idaprikol.ru.ahk
+http://idaprikol.ru/
+
+22.  idrlabs.com.ahk
+http://idrlabs.com/
+
+23.  imgsmail.ru.ahk
+http://imgsmail.ru/
+
+24.  joemonster.org.ahk
+http://joemonster.org/
+
+25.  joyreactor.cc.ahk
+http://joyreactor.cc/
+
+26.  knowyourmeme.com.ahk
+http://knowyourmeme.com/
+
+27.  koreus.com.ahk
+http://koreus.com/
+
+28.  kwejk.pl.ahk
+http://kwejk.pl/
+
+29.  lelum.pl.ahk
+http://lelum.pl/
+
+30.  me.me.ahk
+http://me.me/
+
+31.  memedroid.com.ahk
+http://memedroid.com/
+
+32.  mistrzowie.org.ahk
+http://mistrzowie.org/
+
+33.  niceoppai.net.ahk
+http://niceoppai.net/
+
+34.  notalwaysright.com.ahk
+http://notalwaysright.com/
+
+35.  obsev.com.ahk
+http://obsev.com/
+
+36.  pikabu.ru.ahk
+http://pikabu.ru/
+
+37.  pinimg.com.ahk
+http://pinimg.com/
+
+38.  quizzable.com.ahk
+http://quizzable.com/
+
+39.  sadistic.pl.ahk
+http://sadistic.pl/
+
+40.  tenor.com.ahk
+http://tenor.com/
+
+41.  thechive.com.ahk
+http://thechive.com/
+
+42.  theonion.com.ahk
+http://theonion.com/
+
+43.  thethings.com.ahk
+http://thethings.com/
+
+44.  thewrap.com.ahk
+http://thewrap.com/
+
+45.  todayhumor.co.kr.ahk
+http://todayhumor.co.kr/
+
+46.  vakinha.com.br.ahk
+http://vakinha.com.br/
+
+47.  watchseriess.co.ahk
+http://watchseriess.co/
+
+48.  webfail.com.ahk
+http://webfail.com/
+
+49.  xkcd.com.ahk
+http://xkcd.com/
+
+50.  yaplakal.com.ahk
+http://yaplakal.com/
+Humor in the world

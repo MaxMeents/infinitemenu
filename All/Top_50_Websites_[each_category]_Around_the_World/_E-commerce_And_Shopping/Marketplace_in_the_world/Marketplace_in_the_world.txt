@@ -1,0 +1,151 @@
+
+1.  alibaba.com.ahk
+http://alibaba.com/
+
+2.  aliexpress.com.ahk
+http://aliexpress.com/
+
+3.  aliexpress.ru.ahk
+http://aliexpress.ru/
+
+4.  allegro.pl.ahk
+http://allegro.pl/
+
+5.  amazon.ca.ahk
+http://amazon.ca/
+
+6.  amazon.co.jp.ahk
+http://amazon.co.jp/
+
+7.  amazon.co.uk.ahk
+http://amazon.co.uk/
+
+8.  amazon.com.ahk
+http://amazon.com/
+
+9.  amazon.com.br.ahk
+http://amazon.com.br/
+
+10.  amazon.com.mx.ahk
+http://amazon.com.mx/
+
+11.  amazon.de.ahk
+http://amazon.de/
+
+12.  amazon.es.ahk
+http://amazon.es/
+
+13.  amazon.fr.ahk
+http://amazon.fr/
+
+14.  amazon.in.ahk
+http://amazon.in/
+
+15.  amazon.it.ahk
+http://amazon.it/
+
+16.  americanas.com.br.ahk
+http://americanas.com.br/
+
+17.  bol.com.ahk
+http://bol.com/
+
+18.  casasbahia.com.br.ahk
+http://casasbahia.com.br/
+
+19.  costco.com.ahk
+http://costco.com/
+
+20.  ebay.co.uk.ahk
+http://ebay.co.uk/
+
+21.  ebay.com.ahk
+http://ebay.com/
+
+22.  ebay.com.au.ahk
+http://ebay.com.au/
+
+23.  ebay.de.ahk
+http://ebay.de/
+
+24.  etsy.com.ahk
+http://etsy.com/
+
+25.  flipkart.com.ahk
+http://flipkart.com/
+
+26.  hepsiburada.com.ahk
+http://hepsiburada.com/
+
+27.  jd.com.ahk
+http://jd.com/
+
+28.  magazineluiza.com.br.ahk
+http://magazineluiza.com.br/
+
+29.  market.yandex.ru.ahk
+http://market.yandex.ru/
+
+30.  mercadolibre.com.ar.ahk
+http://mercadolibre.com.ar/
+
+31.  mercadolibre.com.mx.ahk
+http://mercadolibre.com.mx/
+
+32.  mercadolivre.com.br.ahk
+http://mercadolivre.com.br/
+
+33.  mercari.com.ahk
+http://mercari.com/
+
+34.  olx.pl.ahk
+http://olx.pl/
+
+35.  ozon.ru.ahk
+http://ozon.ru/
+
+36.  pinduoduo.com.ahk
+http://pinduoduo.com/
+
+37.  rakuten.co.jp.ahk
+http://rakuten.co.jp/
+
+38.  shopee.co.id.ahk
+http://shopee.co.id/
+
+39.  shopee.ph.ahk
+http://shopee.ph/
+
+40.  shopee.tw.ahk
+http://shopee.tw/
+
+41.  shopee.vn.ahk
+http://shopee.vn/
+
+42.  taobao.com.ahk
+http://taobao.com/
+
+43.  target.com.ahk
+http://target.com/
+
+44.  tmall.com.ahk
+http://tmall.com/
+
+45.  tokopedia.com.ahk
+http://tokopedia.com/
+
+46.  trendyol.com.ahk
+http://trendyol.com/
+
+47.  walmart.com.ahk
+http://walmart.com/
+
+48.  wayfair.com.ahk
+http://wayfair.com/
+
+49.  wildberries.ru.ahk
+http://wildberries.ru/
+
+50.  wish.com.ahk
+http://wish.com/
+Marketplace in the world

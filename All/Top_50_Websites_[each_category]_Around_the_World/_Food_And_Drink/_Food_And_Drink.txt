@@ -1,0 +1,19 @@
+
+1.  Beverages in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Beverages_in_the_world/Beverages_in_the_world.txt
+
+2.  Cooking And Recipes in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Cooking_And_Recipes_in_the_world/Cooking_And_Recipes_in_the_world.txt
+
+3.  Food And Drink in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Food_And_Drink_in_the_world/Food_And_Drink_in_the_world.txt
+
+4.  Groceries in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Groceries_in_the_world/Groceries_in_the_world.txt
+
+5.  Restaurants And Delivery in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Restaurants_And_Delivery_in_the_world/Restaurants_And_Delivery_in_the_world.txt
+
+6.  Vegetarian And Vegan in the world
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/_Food_And_Drink/Vegetarian_And_Vegan_in_the_world/Vegetarian_And_Vegan_in_the_world.txt
+ Food And Drink

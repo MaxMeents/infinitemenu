@@ -1,0 +1,151 @@
+
+1.  120ask.com.ahk
+http://120ask.com/
+
+2.  1mg.com.ahk
+http://1mg.com/
+
+3.  aarp.org.ahk
+http://aarp.org/
+
+4.  abczdrowie.pl.ahk
+http://abczdrowie.pl/
+
+5.  activebeat.com.ahk
+http://activebeat.com/
+
+6.  alodokter.com.ahk
+http://alodokter.com/
+
+7.  athenahealth.com.ahk
+http://athenahealth.com/
+
+8.  baby-calendar.jp.ahk
+http://baby-calendar.jp/
+
+9.  cdc.gov.ahk
+http://cdc.gov/
+
+10.  doctissimo.fr.ahk
+http://doctissimo.fr/
+
+11.  doctolib.de.ahk
+http://doctolib.de/
+
+12.  doctolib.fr.ahk
+http://doctolib.fr/
+
+13.  doctoralia.com.br.ahk
+http://doctoralia.com.br/
+
+14.  doctorsfile.jp.ahk
+http://doctorsfile.jp/
+
+15.  emergencyemail.org.ahk
+http://emergencyemail.org/
+
+16.  everydayhealth.com.ahk
+http://everydayhealth.com/
+
+17.  facty.com.ahk
+http://facty.com/
+
+18.  fitbit.com.ahk
+http://fitbit.com/
+
+19.  halodoc.com.ahk
+http://halodoc.com/
+
+20.  health.harvard.edu.ahk
+http://health.harvard.edu/
+
+21.  healthgrades.com.ahk
+http://healthgrades.com/
+
+22.  healthline.com.ahk
+http://healthline.com/
+
+23.  hellosehat.com.ahk
+http://hellosehat.com/
+
+24.  impfdashboard.de.ahk
+http://impfdashboard.de/
+
+25.  impfterminservice.de.ahk
+http://impfterminservice.de/
+
+26.  imss.gob.mx.ahk
+http://imss.gob.mx/
+
+27.  insta-stories.online.ahk
+http://insta-stories.online/
+
+28.  irecommend.ru.ahk
+http://irecommend.ru/
+
+29.  klikdokter.com.ahk
+http://klikdokter.com/
+
+30.  leafly.com.ahk
+http://leafly.com/
+
+31.  login.nhs.uk.ahk
+http://login.nhs.uk/
+
+32.  mayoclinic.org.ahk
+http://mayoclinic.org/
+
+33.  medicalnewstoday.com.ahk
+http://medicalnewstoday.com/
+
+34.  medicinenet.com.ahk
+http://medicinenet.com/
+
+35.  medlineplus.gov.ahk
+http://medlineplus.gov/
+
+36.  medonet.pl.ahk
+http://medonet.pl/
+
+37.  netdoktor.de.ahk
+http://netdoktor.de/
+
+38.  nhs.uk.ahk
+http://nhs.uk/
+
+39.  nih.gov.ahk
+http://nih.gov/
+
+40.  passeportsante.net.ahk
+http://passeportsante.net/
+
+41.  popmama.com.ahk
+http://popmama.com/
+
+42.  rki.de.ahk
+http://rki.de/
+
+43.  sehatq.com.ahk
+http://sehatq.com/
+
+44.  theessentialbs.com.ahk
+http://theessentialbs.com/
+
+45.  tuasaude.com.ahk
+http://tuasaude.com/
+
+46.  uworld.com.ahk
+http://uworld.com/
+
+47.  walgreens.com.ahk
+http://walgreens.com/
+
+48.  webteb.com.ahk
+http://webteb.com/
+
+49.  whattoexpect.com.ahk
+http://whattoexpect.com/
+
+50.  who.int.ahk
+http://who.int/
+Health in the world

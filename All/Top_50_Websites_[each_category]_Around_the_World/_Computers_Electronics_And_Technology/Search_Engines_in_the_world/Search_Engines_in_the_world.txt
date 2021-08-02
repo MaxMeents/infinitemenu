@@ -1,0 +1,151 @@
+
+1.  baidu.com.ahk
+http://baidu.com/
+
+2.  bing.com.ahk
+http://bing.com/
+
+3.  daum.net.ahk
+http://daum.net/
+
+4.  duckduckgo.com.ahk
+http://duckduckgo.com/
+
+5.  ecosia.org.ahk
+http://ecosia.org/
+
+6.  g2afse.com.ahk
+http://g2afse.com/
+
+7.  google.be.ahk
+http://google.be/
+
+8.  google.ca.ahk
+http://google.ca/
+
+9.  google.cl.ahk
+http://google.cl/
+
+10.  google.cn.ahk
+http://google.cn/
+
+11.  google.co.id.ahk
+http://google.co.id/
+
+12.  google.co.in.ahk
+http://google.co.in/
+
+13.  google.co.jp.ahk
+http://google.co.jp/
+
+14.  google.co.kr.ahk
+http://google.co.kr/
+
+15.  google.co.th.ahk
+http://google.co.th/
+
+16.  google.co.uk.ahk
+http://google.co.uk/
+
+17.  google.com.ahk
+http://google.com/
+
+18.  google.com.ar.ahk
+http://google.com.ar/
+
+19.  google.com.au.ahk
+http://google.com.au/
+
+20.  google.com.br.ahk
+http://google.com.br/
+
+21.  google.com.hk.ahk
+http://google.com.hk/
+
+22.  google.com.mx.ahk
+http://google.com.mx/
+
+23.  google.com.tr.ahk
+http://google.com.tr/
+
+24.  google.com.tw.ahk
+http://google.com.tw/
+
+25.  google.com.ua.ahk
+http://google.com.ua/
+
+26.  google.com.vn.ahk
+http://google.com.vn/
+
+27.  google.de.ahk
+http://google.de/
+
+28.  google.es.ahk
+http://google.es/
+
+29.  google.fr.ahk
+http://google.fr/
+
+30.  google.hu.ahk
+http://google.hu/
+
+31.  google.it.ahk
+http://google.it/
+
+32.  google.nl.ahk
+http://google.nl/
+
+33.  google.pl.ahk
+http://google.pl/
+
+34.  google.ru.ahk
+http://google.ru/
+
+35.  greatdexchange.com.ahk
+http://greatdexchange.com/
+
+36.  hao123.com.ahk
+http://hao123.com/
+
+37.  music.youtube.com.ahk
+http://music.youtube.com/
+
+38.  nbryb.com.ahk
+http://nbryb.com/
+
+39.  seznam.cz.ahk
+http://seznam.cz/
+
+40.  sm.cn.ahk
+http://sm.cn/
+
+41.  so.com.ahk
+http://so.com/
+
+42.  sogou.com.ahk
+http://sogou.com/
+
+43.  startpage.com.ahk
+http://startpage.com/
+
+44.  twirlunsight.cam.ahk
+http://twirlunsight.cam/
+
+45.  y2mate.com.ahk
+http://y2mate.com/
+
+46.  yandex.by.ahk
+http://yandex.by/
+
+47.  yandex.com.ahk
+http://yandex.com/
+
+48.  yandex.com.tr.ahk
+http://yandex.com.tr/
+
+49.  yandex.ru.ahk
+http://yandex.ru/
+
+50.  yandex.ua.ahk
+http://yandex.ua/
+Search Engines in the world
