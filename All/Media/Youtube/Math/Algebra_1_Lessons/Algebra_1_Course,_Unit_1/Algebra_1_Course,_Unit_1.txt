@@ -1,67 +1,67 @@
 
-1.  01 - What is a Variable (Part 1)  Learn How to Use Variables in Algebra..ahk
+01 - What is a Variable (Part 1)  Learn How to Use Variables in Algebra.
 https://www.youtube.com/watch?v=wxwsKNhxYhU
 
-2.  03 - Evaluating Numerical Expressions, Part 1.ahk
+03 - Evaluating Numerical Expressions, Part 1
 https://www.youtube.com/watch?v=YlKtsce3b1c
 
-3.  05 - Evaluating Algebraic Expressions, Part 1.ahk
+05 - Evaluating Algebraic Expressions, Part 1
 https://www.youtube.com/watch?v=ZgPmNicHUU4
 
-4.  07 - Order of Operations with Parenthesis, Part 1.ahk
+07 - Order of Operations with Parenthesis, Part 1
 https://www.youtube.com/watch?v=TF6b9I0awck
 
-5.  10 - Fraction Bar and Order of Operations, Part 1.ahk
+10 - Fraction Bar and Order of Operations, Part 1
 https://www.youtube.com/watch?v=G2jDaZVCLGU
 
-6.  12 - Equations and Domain of Variables, Part 1.ahk
+12 - Equations and Domain of Variables, Part 1
 https://www.youtube.com/watch?v=CeZZeGG2XVk
 
-7.  17 - Review of Adding and Subtracting Fractions, Part 1.ahk
+17 - Review of Adding and Subtracting Fractions, Part 1
 https://www.youtube.com/watch?v=QmQCq2r6kMc
 
-8.  19 - Review of Multiplying Fractions.ahk
+19 - Review of Multiplying Fractions
 https://www.youtube.com/watch?v=rILAPisJ1BI
 
-9.  21 - Commutative Property and Closure Property for Addition and Multiplication.ahk
+21 - Commutative Property and Closure Property for Addition and Multiplication
 https://www.youtube.com/watch?v=cQVk57vXKhw
 
-10.  22 - Associative Property of Equality and Transitive, Reflexive, Symmetric Properties.ahk
+22 - Associative Property of Equality and Transitive, Reflexive, Symmetric Properties
 https://www.youtube.com/watch?v=CiSb4POEp8g
 
-11.  Algebra 1   Unit 1   Lesson 11   Fraction Bar And Order Of Operations, Part 2.ahk
+Algebra 1   Unit 1   Lesson 11   Fraction Bar And Order Of Operations, Part 2
 https://www.youtube.com/watch?v=lxOvD7chbaM
 
-12.  Algebra 1   Unit 1   Lesson 13   Equations And Domain Of Variables, Part 2.ahk
+Algebra 1   Unit 1   Lesson 13   Equations And Domain Of Variables, Part 2
 https://www.youtube.com/watch?v=laoNXH0iwVU
 
-13.  Algebra 1   Unit 1   Lesson 14   Equations And Domain Of Variables, Part 3.ahk
+Algebra 1   Unit 1   Lesson 14   Equations And Domain Of Variables, Part 3
 https://www.youtube.com/watch?v=soh76QT4ipw
 
-14.  Algebra 1   Unit 1   Lesson 15   Review Of Basic Fractions.ahk
+Algebra 1   Unit 1   Lesson 15   Review Of Basic Fractions
 https://www.youtube.com/watch?v=aNYCAi21FvY
 
-15.  Algebra 1   Unit 1   Lesson 16   Review Of Simplifying Fractions.ahk
+Algebra 1   Unit 1   Lesson 16   Review Of Simplifying Fractions
 https://www.youtube.com/watch?v=MA0GJxH3pGQ
 
-16.  Algebra 1   Unit 1   Lesson 18   Review Of Adding And Subtracting Fractions, Part 2.ahk
+Algebra 1   Unit 1   Lesson 18   Review Of Adding And Subtracting Fractions, Part 2
 https://www.youtube.com/watch?v=kTQNllFIa7Q
 
-17.  Algebra 1   Unit 1   Lesson 2   What Is A Variable, Part 2.ahk
+Algebra 1   Unit 1   Lesson 2   What Is A Variable, Part 2
 https://www.youtube.com/watch?v=_pNCvmn4KjA
 
-18.  Algebra 1   Unit 1   Lesson 20   Review Of Dividing Fractions.ahk
+Algebra 1   Unit 1   Lesson 20   Review Of Dividing Fractions
 https://www.youtube.com/watch?v=3DdfTQWxbio
 
-19.  Algebra 1   Unit 1   Lesson 4   Evaluating Numerical Expressions, Part 2.ahk
+Algebra 1   Unit 1   Lesson 4   Evaluating Numerical Expressions, Part 2
 https://www.youtube.com/watch?v=qNC4dpgdem0
 
-20.  Algebra 1   Unit 1   Lesson 6   Evaluating Algebraic Expressions, Part 2.ahk
+Algebra 1   Unit 1   Lesson 6   Evaluating Algebraic Expressions, Part 2
 https://www.youtube.com/watch?v=YYQPKfInvhc
 
-21.  Algebra 1   Unit 1   Lesson 8   Parenthesis And Order Of Operations, Part 2.ahk
+Algebra 1   Unit 1   Lesson 8   Parenthesis And Order Of Operations, Part 2
 https://www.youtube.com/watch?v=HZd__gTkOIk
 
-22.  Algebra 1   Unit 1   Lesson 9   Parenthesis And Order Of Operations, Part 3.ahk
+Algebra 1   Unit 1   Lesson 9   Parenthesis And Order Of Operations, Part 3
 https://www.youtube.com/watch?v=xOSPl5zkF4k
 Algebra 1 Course, Unit 1

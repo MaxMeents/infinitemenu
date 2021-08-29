@@ -1,46 +1,46 @@
 
-1.  Zacara da Teramo
+Zacara da Teramo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zacara_da_Teramo/Zacara_da_Teramo.txt
 
-2.  Zakaria Paliashvili
+Zakaria Paliashvili
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zakaria_Paliashvili/Zakaria_Paliashvili.txt
 
-3.  Zbigniew Bargielski
+Zbigniew Bargielski
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zbigniew_Bargielski/Zbigniew_Bargielski.txt
 
-4.  Zbigniew Preisner
+Zbigniew Preisner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zbigniew_Preisner/Zbigniew_Preisner.txt
 
-5.  Zdenek Fibich
+Zdenek Fibich
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zdenek_Fibich/Zdenek_Fibich.txt
 
-6.  Zdenek Lukáš
+Zdenek Lukáš
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zdenek_Lukáš/Zdenek_Lukáš.txt
 
-7.  Zeca Afonso
+Zeca Afonso
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zeca_Afonso/Zeca_Afonso.txt
 
-8.  Zequinha de Abreu
+Zequinha de Abreu
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zequinha_de_Abreu/Zequinha_de_Abreu.txt
 
-9.  Zez Confrey
+Zez Confrey
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zez_Confrey/Zez_Confrey.txt
 
-10.  Zhu Jian'er
+Zhu Jian'er
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zhu_Jian'er/Zhu_Jian'er.txt
 
-11.  Zoltán Gárdonyi
+Zoltán Gárdonyi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zoltán_Gárdonyi/Zoltán_Gárdonyi.txt
 
-12.  Zoltán Kodály
+Zoltán Kodály
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zoltán_Kodály/Zoltán_Kodály.txt
 
-13.  Zsigmond Szathmáry
+Zsigmond Szathmáry
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zsigmond_Szathmáry/Zsigmond_Szathmáry.txt
 
-14.  Zsolt Gárdonyi
+Zsolt Gárdonyi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Zsolt_Gárdonyi/Zsolt_Gárdonyi.txt
 
-15.  Záviš of Zápy
+Záviš of Zápy
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Z/Záviš_of_Zápy/Záviš_of_Zápy.txt
 Z

@@ -1,883 +1,883 @@
 
-1.  .ahk
 
 
-2.  0.ahk
+
+0
 https://en.wikipedia.org/wiki/0
 
-3.  1.ahk
+1
 https://en.wikipedia.org/wiki/1
 
-4.  10.ahk
+10
 https://en.wikipedia.org/wiki/10
 
-5.  100.ahk
+100
 https://en.wikipedia.org/wiki/100_(number)
 
-6.  1000.ahk
+1000
 https://en.wikipedia.org/wiki/1000_(number)
 
-7.  10000.ahk
+10000
 https://en.wikipedia.org/wiki/10000_(number)
 
-8.  101.ahk
+101
 https://en.wikipedia.org/wiki/101_(number)
 
-9.  10100.ahk
+10100
 https://en.wikipedia.org/wiki/Googol
 
-10.  1010100.ahk
+1010100
 https://en.wikipedia.org/wiki/Googolplex
 
-11.  102.ahk
+102
 https://en.wikipedia.org/wiki/102_(number)
 
-12.  103.ahk
+103
 https://en.wikipedia.org/wiki/103_(number)
 
-13.  104.ahk
+104
 https://en.wikipedia.org/wiki/104_(number)
 
-14.  105.ahk
+105
 https://en.wikipedia.org/wiki/105_(number)
 
-15.  106.ahk
+106
 https://en.wikipedia.org/wiki/106_(number)
 
-16.  107.ahk
+107
 https://en.wikipedia.org/wiki/107_(number)
 
-17.  108.ahk
+108
 https://en.wikipedia.org/wiki/108_(number)
 
-18.  109.ahk
+109
 https://en.wikipedia.org/wiki/109_(number)
 
-19.  11.ahk
+11
 https://en.wikipedia.org/wiki/11_(number)
 
-20.  110.ahk
+110
 https://en.wikipedia.org/wiki/110_(number)
 
-21.  111.ahk
+111
 https://en.wikipedia.org/wiki/111_(number)
 
-22.  112.ahk
+112
 https://en.wikipedia.org/wiki/112_(number)
 
-23.  113.ahk
+113
 https://en.wikipedia.org/wiki/113_(number)
 
-24.  114.ahk
+114
 https://en.wikipedia.org/wiki/114_(number)
 
-25.  115.ahk
+115
 https://en.wikipedia.org/wiki/115_(number)
 
-26.  116.ahk
+116
 https://en.wikipedia.org/wiki/116_(number)
 
-27.  117.ahk
+117
 https://en.wikipedia.org/wiki/117_(number)
 
-28.  118.ahk
+118
 https://en.wikipedia.org/wiki/118_(number)
 
-29.  119.ahk
+119
 https://en.wikipedia.org/wiki/119_(number)
 
-30.  12.ahk
+12
 https://en.wikipedia.org/wiki/12_(number)
 
-31.  120.ahk
+120
 https://en.wikipedia.org/wiki/120_(number)
 
-32.  121.ahk
+121
 https://en.wikipedia.org/wiki/121_(number)
 
-33.  122.ahk
+122
 https://en.wikipedia.org/wiki/122_(number)
 
-34.  123.ahk
+123
 https://en.wikipedia.org/wiki/123_(number)
 
-35.  124.ahk
+124
 https://en.wikipedia.org/wiki/124_(number)
 
-36.  125.ahk
+125
 https://en.wikipedia.org/wiki/125_(number)
 
-37.  126.ahk
+126
 https://en.wikipedia.org/wiki/126_(number)
 
-38.  127.ahk
+127
 https://en.wikipedia.org/wiki/127_(number)
 
-39.  128.ahk
+128
 https://en.wikipedia.org/wiki/128_(number)
 
-40.  129.ahk
+129
 https://en.wikipedia.org/wiki/129_(number)
 
-41.  13.ahk
+13
 https://en.wikipedia.org/wiki/13_(number)
 
-42.  130.ahk
+130
 https://en.wikipedia.org/wiki/130_(number)
 
-43.  131.ahk
+131
 https://en.wikipedia.org/wiki/131_(number)
 
-44.  132.ahk
+132
 https://en.wikipedia.org/wiki/132_(number)
 
-45.  133.ahk
+133
 https://en.wikipedia.org/wiki/133_(number)
 
-46.  134.ahk
+134
 https://en.wikipedia.org/wiki/134_(number)
 
-47.  135.ahk
+135
 https://en.wikipedia.org/wiki/135_(number)
 
-48.  136.ahk
+136
 https://en.wikipedia.org/wiki/136_(number)
 
-49.  137.ahk
+137
 https://en.wikipedia.org/wiki/137_(number)
 
-50.  138.ahk
+138
 https://en.wikipedia.org/wiki/138_(number)
 
-51.  139.ahk
+139
 https://en.wikipedia.org/wiki/139_(number)
 
-52.  14.ahk
+14
 https://en.wikipedia.org/wiki/14_(number)
 
-53.  140.ahk
+140
 https://en.wikipedia.org/wiki/140_(number)
 
-54.  141.ahk
+141
 https://en.wikipedia.org/wiki/141_(number)
 
-55.  142.ahk
+142
 https://en.wikipedia.org/wiki/142_(number)
 
-56.  143.ahk
+143
 https://en.wikipedia.org/wiki/143_(number)
 
-57.  144.ahk
+144
 https://en.wikipedia.org/wiki/144_(number)
 
-58.  145.ahk
+145
 https://en.wikipedia.org/wiki/145_(number)
 
-59.  146.ahk
+146
 https://en.wikipedia.org/wiki/146_(number)
 
-60.  147.ahk
+147
 https://en.wikipedia.org/wiki/147_(number)
 
-61.  148.ahk
+148
 https://en.wikipedia.org/wiki/148_(number)
 
-62.  149.ahk
+149
 https://en.wikipedia.org/wiki/149_(number)
 
-63.  15.ahk
+15
 https://en.wikipedia.org/wiki/15_(number)
 
-64.  150.ahk
+150
 https://en.wikipedia.org/wiki/150_(number)
 
-65.  151.ahk
+151
 https://en.wikipedia.org/wiki/151_(number)
 
-66.  152.ahk
+152
 https://en.wikipedia.org/wiki/152_(number)
 
-67.  153.ahk
+153
 https://en.wikipedia.org/wiki/153_(number)
 
-68.  154.ahk
+154
 https://en.wikipedia.org/wiki/154_(number)
 
-69.  155.ahk
+155
 https://en.wikipedia.org/wiki/155_(number)
 
-70.  156.ahk
+156
 https://en.wikipedia.org/wiki/156_(number)
 
-71.  157.ahk
+157
 https://en.wikipedia.org/wiki/157_(number)
 
-72.  158.ahk
+158
 https://en.wikipedia.org/wiki/158_(number)
 
-73.  159.ahk
+159
 https://en.wikipedia.org/wiki/159_(number)
 
-74.  16.ahk
+16
 https://en.wikipedia.org/wiki/16_(number)
 
-75.  160.ahk
+160
 https://en.wikipedia.org/wiki/160_(number)
 
-76.  161.ahk
+161
 https://en.wikipedia.org/wiki/161_(number)
 
-77.  162.ahk
+162
 https://en.wikipedia.org/wiki/162_(number)
 
-78.  163.ahk
+163
 https://en.wikipedia.org/wiki/163_(number)
 
-79.  164.ahk
+164
 https://en.wikipedia.org/wiki/164_(number)
 
-80.  165.ahk
+165
 https://en.wikipedia.org/wiki/165_(number)
 
-81.  166.ahk
+166
 https://en.wikipedia.org/wiki/166_(number)
 
-82.  167.ahk
+167
 https://en.wikipedia.org/wiki/167_(number)
 
-83.  168.ahk
+168
 https://en.wikipedia.org/wiki/168_(number)
 
-84.  169.ahk
+169
 https://en.wikipedia.org/wiki/169_(number)
 
-85.  17.ahk
+17
 https://en.wikipedia.org/wiki/17_(number)
 
-86.  170.ahk
+170
 https://en.wikipedia.org/wiki/170_(number)
 
-87.  171.ahk
+171
 https://en.wikipedia.org/wiki/171_(number)
 
-88.  172.ahk
+172
 https://en.wikipedia.org/wiki/172_(number)
 
-89.  173.ahk
+173
 https://en.wikipedia.org/wiki/173_(number)
 
-90.  174.ahk
+174
 https://en.wikipedia.org/wiki/174_(number)
 
-91.  175.ahk
+175
 https://en.wikipedia.org/wiki/175_(number)
 
-92.  176.ahk
+176
 https://en.wikipedia.org/wiki/176_(number)
 
-93.  177.ahk
+177
 https://en.wikipedia.org/wiki/177_(number)
 
-94.  178.ahk
+178
 https://en.wikipedia.org/wiki/178_(number)
 
-95.  179.ahk
+179
 https://en.wikipedia.org/wiki/179_(number)
 
-96.  18.ahk
+18
 https://en.wikipedia.org/wiki/18_(number)
 
-97.  180.ahk
+180
 https://en.wikipedia.org/wiki/180_(number)
 
-98.  181.ahk
+181
 https://en.wikipedia.org/wiki/181_(number)
 
-99.  182.ahk
+182
 https://en.wikipedia.org/wiki/182_(number)
 
-100.  183.ahk
+183
 https://en.wikipedia.org/wiki/183_(number)
 
-101.  184.ahk
+184
 https://en.wikipedia.org/wiki/184_(number)
 
-102.  185.ahk
+185
 https://en.wikipedia.org/wiki/185_(number)
 
-103.  186.ahk
+186
 https://en.wikipedia.org/wiki/186_(number)
 
-104.  187.ahk
+187
 https://en.wikipedia.org/wiki/187_(number)
 
-105.  188.ahk
+188
 https://en.wikipedia.org/wiki/188_(number)
 
-106.  189.ahk
+189
 https://en.wikipedia.org/wiki/189_(number)
 
-107.  19.ahk
+19
 https://en.wikipedia.org/wiki/19_(number)
 
-108.  190.ahk
+190
 https://en.wikipedia.org/wiki/190_(number)
 
-109.  191.ahk
+191
 https://en.wikipedia.org/wiki/191_(number)
 
-110.  192.ahk
+192
 https://en.wikipedia.org/wiki/192_(number)
 
-111.  193.ahk
+193
 https://en.wikipedia.org/wiki/193_(number)
 
-112.  194.ahk
+194
 https://en.wikipedia.org/wiki/194_(number)
 
-113.  195.ahk
+195
 https://en.wikipedia.org/wiki/195_(number)
 
-114.  196.ahk
+196
 https://en.wikipedia.org/wiki/196_(number)
 
-115.  197.ahk
+197
 https://en.wikipedia.org/wiki/197_(number)
 
-116.  198.ahk
+198
 https://en.wikipedia.org/wiki/198_(number)
 
-117.  199.ahk
+199
 https://en.wikipedia.org/wiki/199_(number)
 
-118.  2.ahk
+2
 https://en.wikipedia.org/wiki/2
 
-119.  20.ahk
+20
 https://en.wikipedia.org/wiki/20_(number)
 
-120.  200.ahk
+200
 https://en.wikipedia.org/wiki/200_(number)
 
-121.  2000.ahk
+2000
 https://en.wikipedia.org/wiki/2000_(number)
 
-122.  20000.ahk
+20000
 https://en.wikipedia.org/wiki/20000_(number)
 
-123.  201.ahk
+201
 https://en.wikipedia.org/wiki/201_(number)
 
-124.  202.ahk
+202
 https://en.wikipedia.org/wiki/202_(number)
 
-125.  203.ahk
+203
 https://en.wikipedia.org/wiki/203_(number)
 
-126.  204.ahk
+204
 https://en.wikipedia.org/wiki/204_(number)
 
-127.  205.ahk
+205
 https://en.wikipedia.org/wiki/205_(number)
 
-128.  206.ahk
+206
 https://en.wikipedia.org/wiki/206_(number)
 
-129.  207.ahk
+207
 https://en.wikipedia.org/wiki/207_(number)
 
-130.  208.ahk
+208
 https://en.wikipedia.org/wiki/208_(number)
 
-131.  209.ahk
+209
 https://en.wikipedia.org/wiki/209_(number)
 
-132.  21.ahk
+21
 https://en.wikipedia.org/wiki/21_(number)
 
-133.  210.ahk
+210
 https://en.wikipedia.org/wiki/210_(number)
 
-134.  211.ahk
+211
 https://en.wikipedia.org/wiki/211_(number)
 
-135.  212.ahk
+212
 https://en.wikipedia.org/wiki/212_(number)
 
-136.  213.ahk
+213
 https://en.wikipedia.org/wiki/213_(number)
 
-137.  214.ahk
+214
 https://en.wikipedia.org/wiki/214_(number)
 
-138.  215.ahk
+215
 https://en.wikipedia.org/wiki/215_(number)
 
-139.  216.ahk
+216
 https://en.wikipedia.org/wiki/216_(number)
 
-140.  217.ahk
+217
 https://en.wikipedia.org/wiki/217_(number)
 
-141.  218.ahk
+218
 https://en.wikipedia.org/wiki/218_(number)
 
-142.  219.ahk
+219
 https://en.wikipedia.org/wiki/219_(number)
 
-143.  22.ahk
+22
 https://en.wikipedia.org/wiki/22_(number)
 
-144.  220.ahk
+220
 https://en.wikipedia.org/wiki/220_(number)
 
-145.  221.ahk
+221
 https://en.wikipedia.org/wiki/221_(number)
 
-146.  222.ahk
+222
 https://en.wikipedia.org/wiki/222_(number)
 
-147.  223.ahk
+223
 https://en.wikipedia.org/wiki/223_(number)
 
-148.  224.ahk
+224
 https://en.wikipedia.org/wiki/224_(number)
 
-149.  225.ahk
+225
 https://en.wikipedia.org/wiki/225_(number)
 
-150.  226.ahk
+226
 https://en.wikipedia.org/wiki/226_(number)
 
-151.  227.ahk
+227
 https://en.wikipedia.org/wiki/227_(number)
 
-152.  228.ahk
+228
 https://en.wikipedia.org/wiki/228_(number)
 
-153.  229.ahk
+229
 https://en.wikipedia.org/wiki/229_(number)
 
-154.  23.ahk
+23
 https://en.wikipedia.org/wiki/23_(number)
 
-155.  230.ahk
+230
 https://en.wikipedia.org/wiki/230_(number)
 
-156.  231.ahk
+231
 https://en.wikipedia.org/wiki/231_(number)
 
-157.  232.ahk
+232
 https://en.wikipedia.org/wiki/232_(number)
 
-158.  233.ahk
+233
 https://en.wikipedia.org/wiki/233_(number)
 
-159.  234.ahk
+234
 https://en.wikipedia.org/wiki/234_(number)
 
-160.  235.ahk
+235
 https://en.wikipedia.org/wiki/235_(number)
 
-161.  236.ahk
+236
 https://en.wikipedia.org/wiki/236_(number)
 
-162.  237.ahk
+237
 https://en.wikipedia.org/wiki/237_(number)
 
-163.  238.ahk
+238
 https://en.wikipedia.org/wiki/238_(number)
 
-164.  239.ahk
+239
 https://en.wikipedia.org/wiki/239_(number)
 
-165.  24.ahk
+24
 https://en.wikipedia.org/wiki/24_(number)
 
-166.  240.ahk
+240
 https://en.wikipedia.org/wiki/240_(number)
 
-167.  241.ahk
+241
 https://en.wikipedia.org/wiki/241_(number)
 
-168.  242.ahk
+242
 https://en.wikipedia.org/wiki/242_(number)
 
-169.  243.ahk
+243
 https://en.wikipedia.org/wiki/243_(number)
 
-170.  244.ahk
+244
 https://en.wikipedia.org/wiki/244_(number)
 
-171.  245.ahk
+245
 https://en.wikipedia.org/wiki/245_(number)
 
-172.  246.ahk
+246
 https://en.wikipedia.org/wiki/246_(number)
 
-173.  247.ahk
+247
 https://en.wikipedia.org/wiki/247_(number)
 
-174.  248.ahk
+248
 https://en.wikipedia.org/wiki/248_(number)
 
-175.  249.ahk
+249
 https://en.wikipedia.org/wiki/249_(number)
 
-176.  25.ahk
+25
 https://en.wikipedia.org/wiki/25_(number)
 
-177.  250.ahk
+250
 https://en.wikipedia.org/wiki/250_(number)
 
-178.  251.ahk
+251
 https://en.wikipedia.org/wiki/251_(number)
 
-179.  252.ahk
+252
 https://en.wikipedia.org/wiki/252_(number)
 
-180.  253.ahk
+253
 https://en.wikipedia.org/wiki/253_(number)
 
-181.  254.ahk
+254
 https://en.wikipedia.org/wiki/254_(number)
 
-182.  255.ahk
+255
 https://en.wikipedia.org/wiki/255_(number)
 
-183.  256.ahk
+256
 https://en.wikipedia.org/wiki/256_(number)
 
-184.  257.ahk
+257
 https://en.wikipedia.org/wiki/257_(number)
 
-185.  258.ahk
+258
 https://en.wikipedia.org/wiki/258_(number)
 
-186.  259.ahk
+259
 https://en.wikipedia.org/wiki/259_(number)
 
-187.  26.ahk
+26
 https://en.wikipedia.org/wiki/26_(number)
 
-188.  260.ahk
+260
 https://en.wikipedia.org/wiki/260_(number)
 
-189.  261.ahk
+261
 https://en.wikipedia.org/wiki/261_(number)
 
-190.  27.ahk
+27
 https://en.wikipedia.org/wiki/27_(number)
 
-191.  270.ahk
+270
 https://en.wikipedia.org/wiki/270_(number)
 
-192.  28.ahk
+28
 https://en.wikipedia.org/wiki/28_(number)
 
-193.  280.ahk
+280
 https://en.wikipedia.org/wiki/280_(number)
 
-194.  29.ahk
+29
 https://en.wikipedia.org/wiki/29_(number)
 
-195.  290.ahk
+290
 https://en.wikipedia.org/wiki/290_(number)
 
-196.  3.ahk
+3
 https://en.wikipedia.org/wiki/3
 
-197.  30.ahk
+30
 https://en.wikipedia.org/wiki/30_(number)
 
-198.  300.ahk
+300
 https://en.wikipedia.org/wiki/300_(number)
 
-199.  3000.ahk
+3000
 https://en.wikipedia.org/wiki/3000_(number)
 
-200.  30000.ahk
+30000
 https://en.wikipedia.org/wiki/30000_(number)
 
-201.  31.ahk
+31
 https://en.wikipedia.org/wiki/31_(number)
 
-202.  32.ahk
+32
 https://en.wikipedia.org/wiki/32_(number)
 
-203.  33.ahk
+33
 https://en.wikipedia.org/wiki/33_(number)
 
-204.  34.ahk
+34
 https://en.wikipedia.org/wiki/34_(number)
 
-205.  35.ahk
+35
 https://en.wikipedia.org/wiki/35_(number)
 
-206.  36.ahk
+36
 https://en.wikipedia.org/wiki/36_(number)
 
-207.  37.ahk
+37
 https://en.wikipedia.org/wiki/37_(number)
 
-208.  38.ahk
+38
 https://en.wikipedia.org/wiki/38_(number)
 
-209.  39.ahk
+39
 https://en.wikipedia.org/wiki/39_(number)
 
-210.  4.ahk
+4
 https://en.wikipedia.org/wiki/4
 
-211.  40.ahk
+40
 https://en.wikipedia.org/wiki/40_(number)
 
-212.  400.ahk
+400
 https://en.wikipedia.org/wiki/400_(number)
 
-213.  4000.ahk
+4000
 https://en.wikipedia.org/wiki/4000_(number)
 
-214.  40000.ahk
+40000
 https://en.wikipedia.org/wiki/40000_(number)
 
-215.  41.ahk
+41
 https://en.wikipedia.org/wiki/41_(number)
 
-216.  42.ahk
+42
 https://en.wikipedia.org/wiki/42_(number)
 
-217.  43.ahk
+43
 https://en.wikipedia.org/wiki/43_(number)
 
-218.  44.ahk
+44
 https://en.wikipedia.org/wiki/44_(number)
 
-219.  45.ahk
+45
 https://en.wikipedia.org/wiki/45_(number)
 
-220.  46.ahk
+46
 https://en.wikipedia.org/wiki/46_(number)
 
-221.  47.ahk
+47
 https://en.wikipedia.org/wiki/47_(number)
 
-222.  48.ahk
+48
 https://en.wikipedia.org/wiki/48_(number)
 
-223.  49.ahk
+49
 https://en.wikipedia.org/wiki/49_(number)
 
-224.  5.ahk
+5
 https://en.wikipedia.org/wiki/5
 
-225.  50.ahk
+50
 https://en.wikipedia.org/wiki/50_(number)
 
-226.  500.ahk
+500
 https://en.wikipedia.org/wiki/500_(number)
 
-227.  5000.ahk
+5000
 https://en.wikipedia.org/wiki/5000_(number)
 
-228.  50000.ahk
+50000
 https://en.wikipedia.org/wiki/50000_(number)
 
-229.  51.ahk
+51
 https://en.wikipedia.org/wiki/51_(number)
 
-230.  52.ahk
+52
 https://en.wikipedia.org/wiki/52_(number)
 
-231.  53.ahk
+53
 https://en.wikipedia.org/wiki/53_(number)
 
-232.  54.ahk
+54
 https://en.wikipedia.org/wiki/54_(number)
 
-233.  55.ahk
+55
 https://en.wikipedia.org/wiki/55_(number)
 
-234.  56.ahk
+56
 https://en.wikipedia.org/wiki/56_(number)
 
-235.  57.ahk
+57
 https://en.wikipedia.org/wiki/57_(number)
 
-236.  58.ahk
+58
 https://en.wikipedia.org/wiki/58_(number)
 
-237.  59.ahk
+59
 https://en.wikipedia.org/wiki/59_(number)
 
-238.  6.ahk
+6
 https://en.wikipedia.org/wiki/6
 
-239.  60.ahk
+60
 https://en.wikipedia.org/wiki/60_(number)
 
-240.  600.ahk
+600
 https://en.wikipedia.org/wiki/600_(number)
 
-241.  6000.ahk
+6000
 https://en.wikipedia.org/wiki/6000_(number)
 
-242.  60000.ahk
+60000
 https://en.wikipedia.org/wiki/60000_(number)
 
-243.  61.ahk
+61
 https://en.wikipedia.org/wiki/61_(number)
 
-244.  62.ahk
+62
 https://en.wikipedia.org/wiki/62_(number)
 
-245.  63.ahk
+63
 https://en.wikipedia.org/wiki/63_(number)
 
-246.  64.ahk
+64
 https://en.wikipedia.org/wiki/64_(number)
 
-247.  65.ahk
+65
 https://en.wikipedia.org/wiki/65_(number)
 
-248.  66.ahk
+66
 https://en.wikipedia.org/wiki/66_(number)
 
-249.  67.ahk
+67
 https://en.wikipedia.org/wiki/67_(number)
 
-250.  68.ahk
+68
 https://en.wikipedia.org/wiki/68_(number)
 
-251.  69.ahk
+69
 https://en.wikipedia.org/wiki/69_(number)
 
-252.  7.ahk
+7
 https://en.wikipedia.org/wiki/7
 
-253.  70.ahk
+70
 https://en.wikipedia.org/wiki/70_(number)
 
-254.  700.ahk
+700
 https://en.wikipedia.org/wiki/700_(number)
 
-255.  7000.ahk
+7000
 https://en.wikipedia.org/wiki/7000_(number)
 
-256.  70000.ahk
+70000
 https://en.wikipedia.org/wiki/70000_(number)
 
-257.  71.ahk
+71
 https://en.wikipedia.org/wiki/71_(number)
 
-258.  72.ahk
+72
 https://en.wikipedia.org/wiki/72_(number)
 
-259.  73.ahk
+73
 https://en.wikipedia.org/wiki/73_(number)
 
-260.  74.ahk
+74
 https://en.wikipedia.org/wiki/74_(number)
 
-261.  75.ahk
+75
 https://en.wikipedia.org/wiki/75_(number)
 
-262.  76.ahk
+76
 https://en.wikipedia.org/wiki/76_(number)
 
-263.  77.ahk
+77
 https://en.wikipedia.org/wiki/77_(number)
 
-264.  78.ahk
+78
 https://en.wikipedia.org/wiki/78_(number)
 
-265.  79.ahk
+79
 https://en.wikipedia.org/wiki/79_(number)
 
-266.  8.ahk
+8
 https://en.wikipedia.org/wiki/8
 
-267.  80.ahk
+80
 https://en.wikipedia.org/wiki/80_(number)
 
-268.  800.ahk
+800
 https://en.wikipedia.org/wiki/800_(number)
 
-269.  8000.ahk
+8000
 https://en.wikipedia.org/wiki/8000_(number)
 
-270.  80000.ahk
+80000
 https://en.wikipedia.org/wiki/80000_(number)
 
-271.  81.ahk
+81
 https://en.wikipedia.org/wiki/81_(number)
 
-272.  82.ahk
+82
 https://en.wikipedia.org/wiki/82_(number)
 
-273.  83.ahk
+83
 https://en.wikipedia.org/wiki/83_(number)
 
-274.  84.ahk
+84
 https://en.wikipedia.org/wiki/84_(number)
 
-275.  85.ahk
+85
 https://en.wikipedia.org/wiki/85_(number)
 
-276.  86.ahk
+86
 https://en.wikipedia.org/wiki/86_(number)
 
-277.  87.ahk
+87
 https://en.wikipedia.org/wiki/87_(number)
 
-278.  88.ahk
+88
 https://en.wikipedia.org/wiki/88_(number)
 
-279.  89.ahk
+89
 https://en.wikipedia.org/wiki/89_(number)
 
-280.  9.ahk
+9
 https://en.wikipedia.org/wiki/9
 
-281.  90.ahk
+90
 https://en.wikipedia.org/wiki/90_(number)
 
-282.  900.ahk
+900
 https://en.wikipedia.org/wiki/900_(number)
 
-283.  9000.ahk
+9000
 https://en.wikipedia.org/wiki/9000_(number)
 
-284.  90000.ahk
+90000
 https://en.wikipedia.org/wiki/90000_(number)
 
-285.  91.ahk
+91
 https://en.wikipedia.org/wiki/91_(number)
 
-286.  92.ahk
+92
 https://en.wikipedia.org/wiki/92_(number)
 
-287.  93.ahk
+93
 https://en.wikipedia.org/wiki/93_(number)
 
-288.  94.ahk
+94
 https://en.wikipedia.org/wiki/94_(number)
 
-289.  95.ahk
+95
 https://en.wikipedia.org/wiki/95_(number)
 
-290.  96.ahk
+96
 https://en.wikipedia.org/wiki/96_(number)
 
-291.  97.ahk
+97
 https://en.wikipedia.org/wiki/97_(number)
 
-292.  98.ahk
+98
 https://en.wikipedia.org/wiki/98_(number)
 
-293.  99.ahk
+99
 https://en.wikipedia.org/wiki/99_(number)
 
-294.  Larger numbers.ahk
+Larger numbers
 https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)
 1 Natural numbers

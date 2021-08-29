@@ -1,73 +1,73 @@
 
-1.  7 – TOC  HINDI  TOFL  AUTOMATA  THEORY OF COMPUTATION  TUTORIALS  LECTURES  GATE  NET  PSU  COMPUTER SCIENCE  KNOWLEDGE GATE
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/7_–_TOC__HINDI__TOFL__AUTOMATA__THEORY_OF_COMPUTATION__TUTORIALS__LECTURES__GATE__NET__PSU__COMPUTER_SCIENCE__KNOWLEDGE_GATE/7_–_TOC__HINDI__TOFL__AUTOMATA__THEORY_OF_COMPUTATION__TUTORIALS__LECTURES__GATE__NET__PSU__COMPUTER_SCIENCE__KNOWLEDGE_GATE.txt
+7 – TOC  HINDI  TOFL  AUTOMATA  THEORY OF COMPUTATION  TUTORIALS  LECTURES  GATE  NET  PSU  COMPUTER SCIENCE  KNOWLEDGE GATE
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/7_–_TOC__HINDI__TOFL__AUTOMATA__THEORY_O/7_–_TOC__HINDI__TOFL__AUTOMATA__THEORY_O.txt
 
-2.  Core Java With OCJPSCJP-Regular Expressions
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Core_Java_With_OCJPSCJP-Regular_Expressions/Core_Java_With_OCJPSCJP-Regular_Expressions.txt
+Core Java With OCJPSCJP-Regular Expressions
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Core_Java_With_OCJPSCJP-Regular_Expressi/Core_Java_With_OCJPSCJP-Regular_Expressi.txt
 
-3.  GPT 3
+GPT 3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/GPT_3/GPT_3.txt
 
-4.  Java Regular Expression in Tamil - Regex in Tamil - Regular Expression Full Tutorial in Tamil - Payilagam - Muthuramalingam
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Java_Regular_Expression_in_Tamil_-_Regex_in_Tamil_-_Regular_Expression_Full_Tutorial_in_Tamil_-_Payilagam_-_Muthuramalingam/Java_Regular_Expression_in_Tamil_-_Regex_in_Tamil_-_Regular_Expression_Full_Tutorial_in_Tamil_-_Payilagam_-_Muthuramalingam.txt
+Java Regular Expression in Tamil - Regex in Tamil - Regular Expression Full Tutorial in Tamil - Payilagam - Muthuramalingam
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Java_Regular_Expression_in_Tamil_-_Regex/Java_Regular_Expression_in_Tamil_-_Regex.txt
 
-5.  metadata tutorials
+metadata tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/metadata_tutorials/metadata_tutorials.txt
 
-6.  PHP Regex Regular Expressions Tutorial
+PHP Regex Regular Expressions Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/PHP_Regex_Regular_Expressions_Tutorial/PHP_Regex_Regular_Expressions_Tutorial.txt
 
-7.  regex
+regex
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/regex/regex.txt
 
-8.  RegEx in Python
+RegEx in Python
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/RegEx_in_Python/RegEx_in_Python.txt
 
-9.  Regex Tutorial
+Regex Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_Tutorial/Regex_Tutorial.txt
 
-10.  Regex Tutorials
+Regex Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_Tutorials/Regex_Tutorials.txt
 
-11.  Regex tutorials 2
+Regex tutorials 2
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_tutorials_2/Regex_tutorials_2.txt
 
-12.  REGEX Tutorials by Derek
+REGEX Tutorials by Derek
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/REGEX_Tutorials_by_Derek/REGEX_Tutorials_by_Derek.txt
 
-13.  Regex Tutorials Playlist - Regular Expressions
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_Tutorials_Playlist_-_Regular_Expressions/Regex_Tutorials_Playlist_-_Regular_Expressions.txt
+Regex Tutorials Playlist - Regular Expressions
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_Tutorials_Playlist_-_Regular_Expre/Regex_Tutorials_Playlist_-_Regular_Expre.txt
 
-14.  Regular Expression (Regex) Tutorials for beginners
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expression_(Regex)_Tutorials_for_beginners/Regular_Expression_(Regex)_Tutorials_for_beginners.txt
+Regular Expression (Regex) Tutorials for beginners
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expression_(Regex)_Tutorials_for/Regular_Expression_(Regex)_Tutorials_for.txt
 
-15.  Regular Expression - Tutorials
+Regular Expression - Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expression_-_Tutorials/Regular_Expression_-_Tutorials.txt
 
-16.  Regular Expression Tutorials
+Regular Expression Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expression_Tutorials/Regular_Expression_Tutorials.txt
 
-17.  Regular Expressions (RegEx)
+Regular Expressions (RegEx)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expressions_(RegEx)/Regular_Expressions_(RegEx).txt
 
-18.  Regular Expressions (RegEx) Tutorial
+Regular Expressions (RegEx) Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expressions_(RegEx)_Tutorial/Regular_Expressions_(RegEx)_Tutorial.txt
 
-19.  Regular Expressions Tutorials
+Regular Expressions Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regular_Expressions_Tutorials/Regular_Expressions_Tutorials.txt
 
-20.  Session 2 Regular Expressions - Programming with Text
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Session_2_Regular_Expressions_-_Programming_with_Text/Session_2_Regular_Expressions_-_Programming_with_Text.txt
+Session 2 Regular Expressions - Programming with Text
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Session_2_Regular_Expressions_-_Programm/Session_2_Regular_Expressions_-_Programm.txt
 
-21.  Simple Regular Expressions Introduction, Learn Regular Expressions 2021, Regex Tutorial
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Simple_Regular_Expressions_Introduction,_Learn_Regular_Expressions_2021,_Regex_Tutorial/Simple_Regular_Expressions_Introduction,_Learn_Regular_Expressions_2021,_Regex_Tutorial.txt
+Simple Regular Expressions Introduction, Learn Regular Expressions 2021, Regex Tutorial
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Simple_Regular_Expressions_Introduction,/Simple_Regular_Expressions_Introduction,.txt
 
-22.  Theory of Computation & Automata Theory
+Theory of Computation & Automata Theory
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Theory_of_Computation_&_Automata_Theory/Theory_of_Computation_&_Automata_Theory.txt
 
-23.  Theory of Computation ( TOC )
+Theory of Computation ( TOC )
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Theory_of_Computation_(_TOC_)/Theory_of_Computation_(_TOC_).txt
 
-24.  UBot Studio Regular Expression Tutorials
+UBot Studio Regular Expression Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/UBot_Studio_Regular_Expression_Tutorials/UBot_Studio_Regular_Expression_Tutorials.txt
 Regex Tutorials

@@ -1,94 +1,94 @@
 
-1.  2d Arrays  C#  Tutorial 22.ahk
+2d Arrays  C#  Tutorial 22
 https://www.youtube.com/watch?v=bqEBIKbtm7Q
 
-2.  Arrays  C#  Tutorial 11.ahk
+Arrays  C#  Tutorial 11
 https://www.youtube.com/watch?v=XxKABkLsJcg
 
-3.  Building a Better Calculator  C#  Tutorial 16.ahk
+Building a Better Calculator  C#  Tutorial 16
 https://www.youtube.com/watch?v=tz6nioMUGuc
 
-4.  Building a Calculator  C#  Tutorial 9.ahk
+Building a Calculator  C#  Tutorial 9
 https://www.youtube.com/watch?v=VvYeMgKX3BE
 
-5.  Building a Guessing Game  C#  Tutorial 19.ahk
+Building a Guessing Game  C#  Tutorial 19
 https://www.youtube.com/watch?v=sFe6BrtS-vw
 
-6.  Building a Mad Lib  C#  Tutorial 10.ahk
+Building a Mad Lib  C#  Tutorial 10
 https://www.youtube.com/watch?v=juANFo-PbsY
 
-7.  Building an Exponent Method  C#  Tutorial 21.ahk
+Building an Exponent Method  C#  Tutorial 21
 https://www.youtube.com/watch?v=r9albE9h1Jg
 
-8.  Classes & Objects  C#  Tutorial 25.ahk
+Classes & Objects  C#  Tutorial 25
 https://www.youtube.com/watch?v=-ETZ0nOCU14
 
-9.  Comments  C#  Tutorial 23.ahk
+Comments  C#  Tutorial 23
 https://www.youtube.com/watch?v=tJT_YFvGT5g
 
-10.  Constructors  C#  Tutorial 26.ahk
+Constructors  C#  Tutorial 26
 https://www.youtube.com/watch?v=Reeefq-Nxkk
 
-11.  Data Types  C#  Tutorial 5.ahk
+Data Types  C#  Tutorial 5
 https://www.youtube.com/watch?v=6CW-znzcqx4
 
-12.  Drawing a Shape  C#  Tutorial 3.ahk
+Drawing a Shape  C#  Tutorial 3
 https://www.youtube.com/watch?v=hw90WDwk-xY
 
-13.  Exception Handling  C#  Tutorial 24.ahk
+Exception Handling  C#  Tutorial 24
 https://www.youtube.com/watch?v=ZJRg8nrNeeA
 
-14.  For Loops  C#  Tutorial 20.ahk
+For Loops  C#  Tutorial 20
 https://www.youtube.com/watch?v=ad38jqt7XDs
 
-15.  Getters & Setters  C#  Tutorial 28.ahk
+Getters & Setters  C#  Tutorial 28
 https://www.youtube.com/watch?v=EbW-1fPhXQE
 
-16.  Getting User Input  C#  Tutorial 8.ahk
+Getting User Input  C#  Tutorial 8
 https://www.youtube.com/watch?v=WYuIOcdtwdg
 
-17.  If Statements  C#  Tutorial 14.ahk
+If Statements  C#  Tutorial 14
 https://www.youtube.com/watch?v=ciV3ERNABb8
 
-18.  If Statements (con't)  C#  Tutorial 15.ahk
+If Statements (con't)  C#  Tutorial 15
 https://www.youtube.com/watch?v=RigDAVpJkRM
 
-19.  Inheritance  C#  Tutorial 31.ahk
+Inheritance  C#  Tutorial 31
 https://www.youtube.com/watch?v=9atF8x1U6QI
 
-20.  Installation & Setup  C#  Tutorial 2.ahk
+Installation & Setup  C#  Tutorial 2
 https://www.youtube.com/watch?v=samkJ9LOMWY
 
-21.  Introduction  C#  Tutorial 1.ahk
+Introduction  C#  Tutorial 1
 https://www.youtube.com/watch?v=52r9qUToOD8
 
-22.  Methods  C#  Tutorial 12.ahk
+Methods  C#  Tutorial 12
 https://www.youtube.com/watch?v=MkDroqxS8LY
 
-23.  Object Methods  C#  Tutorial 27.ahk
+Object Methods  C#  Tutorial 27
 https://www.youtube.com/watch?v=wZ5zl4i68Hg
 
-24.  Return Statement  C#  Tutorial 13.ahk
+Return Statement  C#  Tutorial 13
 https://www.youtube.com/watch?v=kxxsFmWU8YU
 
-25.  Static Class Attributes  C#  Tutorial 29.ahk
+Static Class Attributes  C#  Tutorial 29
 https://www.youtube.com/watch?v=u2BhBxM5gqk
 
-26.  Static Methods & Classes  C#  Tutorial 30.ahk
+Static Methods & Classes  C#  Tutorial 30
 https://www.youtube.com/watch?v=yysUerUhxOE
 
-27.  Switch Statements  C#  Tutorial 17.ahk
+Switch Statements  C#  Tutorial 17
 https://www.youtube.com/watch?v=Te43aPhxycs
 
-28.  Variables  C#  Tutorial 4.ahk
+Variables  C#  Tutorial 4
 https://www.youtube.com/watch?v=vYQZCum3rDk
 
-29.  While Loops  C#  Tutorial 18.ahk
+While Loops  C#  Tutorial 18
 https://www.youtube.com/watch?v=uqMbyuATj2Y
 
-30.  Working With Numbers  C#  Tutorial 7.ahk
+Working With Numbers  C#  Tutorial 7
 https://www.youtube.com/watch?v=WIrUmeIcD_I
 
-31.  Working With Strings  C#  Tutorial 6.ahk
+Working With Strings  C#  Tutorial 6
 https://www.youtube.com/watch?v=h6_x9Rxh5rU
 C# - Programming Language  Tutorial

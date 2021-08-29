@@ -1,82 +1,82 @@
 
-1.  Arrays, List, and Collections  C# 101 [12 of 19].ahk
+Arrays, List, and Collections  C# 101 [12 of 19]
 https://www.youtube.com/watch?v=qLeF_wpnVto
 
-2.  Asynchronous Task Composition  C# 201 [6 of 8].ahk
+Asynchronous Task Composition  C# 201 [6 of 8]
 https://www.youtube.com/watch?v=cVtTsaNQQ1M
 
-3.  Branches (if)  C# 101 [8 of 19].ahk
+Branches (if)  C# 101 [8 of 19]
 https://www.youtube.com/watch?v=y4OTe8LSokg
 
-4.  Combining Branches and Loops  C# 101 [11 of 19].ahk
+Combining Branches and Loops  C# 101 [11 of 19]
 https://www.youtube.com/watch?v=qK7tUpaOXi8
 
-5.  Debugging  C# 101 [15 of 19].ahk
+Debugging  C# 101 [15 of 19]
 https://www.youtube.com/watch?v=pm_pv0Eb7Fw
 
-6.  Distinguish Asynchronous And Multi-Threading  C# 201 [8 of 8].ahk
+Distinguish Asynchronous And Multi-Threading  C# 201 [8 of 8]
 https://www.youtube.com/watch?v=Kfs84d7jaT8
 
-7.  Handling Asynchronous Exceptions  C# 201 [7 of 8].ahk
+Handling Asynchronous Exceptions  C# 201 [7 of 8]
 https://www.youtube.com/watch?v=yS3_T5YmREU
 
-8.  Hello World  C# 101 [2 of 19].ahk
+Hello World  C# 101 [2 of 19]
 https://www.youtube.com/watch?v=KT2VR7m19So
 
-9.  Hello World Explained  C# 101 [9 of 19].ahk
+Hello World Explained  C# 101 [9 of 19]
 https://www.youtube.com/watch?v=qmZ2RVZ4giY
 
-10.  Introduction To Async, Await, And Tasks  C# 201 [5 of 8].ahk
+Introduction To Async, Await, And Tasks  C# 201 [5 of 8]
 https://www.youtube.com/watch?v=X9N5r6kMOxw
 
-11.  Introduction to Language Integrated Query (LINQ)  C# 201 [1 of 8].ahk
+Introduction to Language Integrated Query (LINQ)  C# 201 [1 of 8]
 https://www.youtube.com/watch?v=p5myHVOtmiU
 
-12.  Learn LINQ Query syntax  C# 201 [2 of 8].ahk
+Learn LINQ Query syntax  C# 201 [2 of 8]
 https://www.youtube.com/watch?v=uUsnDXYRADA
 
-13.  LINQ Query Composition and Execution  C# 201 [3 of 8].ahk
+LINQ Query Composition and Execution  C# 201 [3 of 8]
 https://www.youtube.com/watch?v=gFkRzY-zwzc
 
-14.  LINQ, Entity Framework and Remote Data Sources  C# 201 [4 of 8].ahk
+LINQ, Entity Framework and Remote Data Sources  C# 201 [4 of 8]
 https://www.youtube.com/watch?v=Q_59nDCezuU
 
-15.  Lists of Other Types  C# 101 [14 of 19].ahk
+Lists of Other Types  C# 101 [14 of 19]
 https://www.youtube.com/watch?v=oIQdb93xewE
 
-16.  Numbers and Decimals  C# 101 [7 of 19].ahk
+Numbers and Decimals  C# 101 [7 of 19]
 https://www.youtube.com/watch?v=kdKcpF9roeU
 
-17.  Numbers and Integer Math  C# 101 [5 of 19].ahk
+Numbers and Integer Math  C# 101 [5 of 19]
 https://www.youtube.com/watch?v=jEE0pWTq54U
 
-18.  Numbers and Integer Precision  C# 101 [6 of 19].ahk
+Numbers and Integer Precision  C# 101 [6 of 19]
 https://www.youtube.com/watch?v=31EmPADtv4w
 
-19.  Object Oriented Programming Catching Exceptions  C# 101 [19 of 19].ahk
+Object Oriented Programming Catching Exceptions  C# 101 [19 of 19]
 https://www.youtube.com/watch?v=INfLHh3TDkk
 
-20.  Object Oriented Programming Methods and Exceptions  C# 101 [18 of 19].ahk
+Object Oriented Programming Methods and Exceptions  C# 101 [18 of 19]
 https://www.youtube.com/watch?v=8YsoBBiVVzQ
 
-21.  Object Oriented Programming Methods and Members  C# 101 [17 of 19].ahk
+Object Oriented Programming Methods and Members  C# 101 [17 of 19]
 https://www.youtube.com/watch?v=xLhm3bEG__c
 
-22.  Object Oriented Programming Objects and Classes  C# 101 [16 of 19].ahk
+Object Oriented Programming Objects and Classes  C# 101 [16 of 19]
 https://www.youtube.com/watch?v=TzgxcAiHCWA
 
-23.  Searching Strings  C# 101 [4 of 19].ahk
+Searching Strings  C# 101 [4 of 19]
 https://www.youtube.com/watch?v=JL30gSE3WaQ
 
-24.  Sort, Search, and Index Lists  C# 101 [13 of 19].ahk
+Sort, Search, and Index Lists  C# 101 [13 of 19]
 https://www.youtube.com/watch?v=NJ5ghiutzfY
 
-25.  The Basics of Strings  C# 101 [3 of 19].ahk
+The Basics of Strings  C# 101 [3 of 19]
 https://www.youtube.com/watch?v=JSpC7Cz64h0
 
-26.  What are Loops  C# 101 [10 of 19].ahk
+What are Loops  C# 101 [10 of 19]
 https://www.youtube.com/watch?v=z31m5Up_gSQ
 
-27.  What is C#  C# 101 [1 of 19].ahk
+What is C#  C# 101 [1 of 19]
 https://www.youtube.com/watch?v=BM4CHBmAPh4
 C# 101

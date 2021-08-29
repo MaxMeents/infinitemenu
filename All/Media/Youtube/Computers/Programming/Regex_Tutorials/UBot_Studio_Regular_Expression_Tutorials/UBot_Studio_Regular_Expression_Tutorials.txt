@@ -1,19 +1,19 @@
 
-1.  Ubot Studio Tutorial - Scraping with Regex.ahk
+Ubot Studio Tutorial - Scraping with Regex
 https://www.youtube.com/watch?v=3nb8d68MmB8
 
-2.  Ubot Studio Tutorials How to use Regular Expressions.ahk
+Ubot Studio Tutorials How to use Regular Expressions
 https://www.youtube.com/watch?v=Asv4XNWud4Y
 
-3.  Ubot Studio Tutorials Learning Regular Expressions.ahk
+Ubot Studio Tutorials Learning Regular Expressions
 https://www.youtube.com/watch?v=S2yXj-t3ghk
 
-4.  Ubot Studio Tutorials More Regular Expressions.ahk
+Ubot Studio Tutorials More Regular Expressions
 https://www.youtube.com/watch?v=fPRCIAJcb2E
 
-5.  Ubot Studio Tutorials Regular Expressions.ahk
+Ubot Studio Tutorials Regular Expressions
 https://www.youtube.com/watch?v=iZZxXlznM2A
 
-6.  Ubot Studio Tutorials Using Regular Expressions.ahk
+Ubot Studio Tutorials Using Regular Expressions
 https://www.youtube.com/watch?v=BBWqSV1cV8Y
 UBot Studio Regular Expression Tutorials

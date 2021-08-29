@@ -1,25 +1,25 @@
 
-1.  Ambient Dub
+Ambient Dub
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Ambient_Dub/Ambient_Dub.txt
 
-2.  Ambient House
+Ambient House
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Ambient_House/Ambient_House.txt
 
-3.  Ambient Techno
+Ambient Techno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Ambient_Techno/Ambient_Techno.txt
 
-4.  Dark Ambient
+Dark Ambient
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Dark_Ambient/Dark_Ambient.txt
 
-5.  Drone Music
+Drone Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Drone_Music/Drone_Music.txt
 
-6.  Illbient
+Illbient
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Illbient/Illbient.txt
 
-7.  Isolationism
+Isolationism
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Isolationism/Isolationism.txt
 
-8.  Lowercase
+Lowercase
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Ambient/Lowercase/Lowercase.txt
 Ambient

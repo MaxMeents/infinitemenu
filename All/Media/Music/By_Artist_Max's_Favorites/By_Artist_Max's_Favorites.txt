@@ -1,97 +1,97 @@
 
-1.  Alais Clay
+Alais Clay
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/Alais_Clay.txt
 
-2.  Apokalypse
+Apokalypse
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Apokalypse/Apokalypse.txt
 
-3.  Astarius Miraculii
+Astarius Miraculii
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Astarius_Miraculii/Astarius_Miraculii.txt
 
-4.  Atma
+Atma
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Atma/Atma.txt
 
-5.  Awesome
+Awesome
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Awesome/Awesome.txt
 
-6.  Baba Brinkman
+Baba Brinkman
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Baba_Brinkman/Baba_Brinkman.txt
 
-7.  Bazookajoe
+Bazookajoe
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Bazookajoe/Bazookajoe.txt
 
-8.  Bob Marley
+Bob Marley
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Bob_Marley/Bob_Marley.txt
 
-9.  Boy in a Band
+Boy in a Band
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Boy_in_a_Band/Boy_in_a_Band.txt
 
-10.  Celine Dion
+Celine Dion
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Celine_Dion/Celine_Dion.txt
 
-11.  Colt Truth
+Colt Truth
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Colt_Truth/Colt_Truth.txt
 
-12.  Dirty Heads
+Dirty Heads
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Dirty_Heads/Dirty_Heads.txt
 
-13.  Empire of the Sun
+Empire of the Sun
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Empire_of_the_Sun/Empire_of_the_Sun.txt
 
-14.  Ephixa
+Ephixa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Ephixa/Ephixa.txt
 
-15.  Hopsin
+Hopsin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Hopsin/Hopsin.txt
 
-16.  Illuminati Congo
+Illuminati Congo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Illuminati_Congo/Illuminati_Congo.txt
 
-17.  Itom Lab
+Itom Lab
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Itom_Lab.txt
 
-18.  Khatum
+Khatum
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Khatum/Khatum.txt
 
-19.  Kid Cudi
+Kid Cudi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Kid_Cudi/Kid_Cudi.txt
 
-20.  Kings of Leon
+Kings of Leon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Kings_of_Leon/Kings_of_Leon.txt
 
-21.  Korn
+Korn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Korn/Korn.txt
 
-22.  Mac Lethal
+Mac Lethal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Mac_Lethal/Mac_Lethal.txt
 
-23.  None Like Josh
+None Like Josh
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/None_Like_Josh/None_Like_Josh.txt
 
-24.  Nursehella
+Nursehella
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Nursehella/Nursehella.txt
 
-25.  PTP
+PTP
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/PTP/PTP.txt
 
-26.  ScHoolboy Q
+ScHoolboy Q
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/ScHoolboy_Q/ScHoolboy_Q.txt
 
-27.  Skrillix
+Skrillix
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Skrillix/Skrillix.txt
 
-28.  Steve Grant
+Steve Grant
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Steve_Grant/Steve_Grant.txt
 
-29.  Truthseekah
+Truthseekah
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Truthseekah.txt
 
-30.  Types of Music
+Types of Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Types_of_Music.txt
 
-31.  Watsky
+Watsky
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Watsky/Watsky.txt
 
-32.  Wingmakers
+Wingmakers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Wingmakers/Wingmakers.txt
 By Artist Max's Favorites

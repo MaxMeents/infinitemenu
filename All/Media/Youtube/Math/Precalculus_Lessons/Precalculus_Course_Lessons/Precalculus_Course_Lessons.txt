@@ -1,109 +1,109 @@
 
-1.  Complex Numbers.ahk
+Complex Numbers
 https://www.youtube.com/watch?v=uk5Vm5XJ1n4
 
-2.  Ellipses.ahk
+Ellipses
 https://www.youtube.com/watch?v=iLbe13v4MSo
 
-3.  Exponential Functions.ahk
+Exponential Functions
 https://www.youtube.com/watch?v=Il8NV_PU5Ic
 
-4.  Graphs of Polar Coordinates.ahk
+Graphs of Polar Coordinates
 https://www.youtube.com/watch?v=0mteFRnuRwY
 
-5.  Graphs of Rational Functions.ahk
+Graphs of Rational Functions
 https://www.youtube.com/watch?v=GCc5eGG2pYE
 
-6.  Graphs of Sine and Cosine.ahk
+Graphs of Sine and Cosine
 https://www.youtube.com/watch?v=EsAWM3RA1FU
 
-7.  Hyperbolas.ahk
+Hyperbolas
 https://www.youtube.com/watch?v=SxXiXkItdso
 
-8.  Inverse Trig Functions.ahk
+Inverse Trig Functions
 https://www.youtube.com/watch?v=uOcoaxdVpKE
 
-9.  Law of Cosines.ahk
+Law of Cosines
 https://www.youtube.com/watch?v=mfiPua0-weU
 
-10.  Law of Sines.ahk
+Law of Sines
 https://www.youtube.com/watch?v=qwBUGqGKq80
 
-11.  Linear and Angular Speed.ahk
+Linear and Angular Speed
 https://www.youtube.com/watch?v=XUZJPfpsOt0
 
-12.  Logarithmic Functions.ahk
+Logarithmic Functions
 https://www.youtube.com/watch?v=1dA5G04rams
 
-13.  Memorizing the Unit Circle Using Left Hand Trick.ahk
+Memorizing the Unit Circle Using Left Hand Trick
 https://www.youtube.com/watch?v=LE6dmczMc68
 
-14.  Multiple Angles.ahk
+Multiple Angles
 https://www.youtube.com/watch?v=6rawvSUG_DQ
 
-15.  Parametric Equations.ahk
+Parametric Equations
 https://www.youtube.com/watch?v=Ra1HUDtI3Rk
 
-16.  Polar Coordinates.ahk
+Polar Coordinates
 https://www.youtube.com/watch?v=PaFBMVn0abw
 
-17.  Polynomial Functions of a Higher Degree.ahk
+Polynomial Functions of a Higher Degree
 https://www.youtube.com/watch?v=ZKFda-fW8II
 
-18.  Properties of Logarithmic Functions.ahk
+Properties of Logarithmic Functions
 https://www.youtube.com/watch?v=iht3OxMnb9Q
 
-19.  Radian and Degree Measure.ahk
+Radian and Degree Measure
 https://www.youtube.com/watch?v=U-fW96UQCNo
 
-20.  Rational Functions and Asymptotes.ahk
+Rational Functions and Asymptotes
 https://www.youtube.com/watch?v=hRD5kte9jV8
 
-21.  Real Zeros of Polynomials.ahk
+Real Zeros of Polynomials
 https://www.youtube.com/watch?v=0fEe7rB2YrI
 
-22.  Right Triangle Trigonometry.ahk
+Right Triangle Trigonometry
 https://www.youtube.com/watch?v=YZeGs_Klhu8
 
-23.  Roots of Complex Numbers.ahk
+Roots of Complex Numbers
 https://www.youtube.com/watch?v=5T9JOuZVm_4
 
-24.  Solving a System of Equations.ahk
+Solving a System of Equations
 https://www.youtube.com/watch?v=cs4YFZvfEOk
 
-25.  Solving Exponential and Logarithmic Equations.ahk
+Solving Exponential and Logarithmic Equations
 https://www.youtube.com/watch?v=n-L-8OLo0H4
 
-26.  Solving Trigonometric Equations.ahk
+Solving Trigonometric Equations
 https://www.youtube.com/watch?v=XPz1_Vkb_oA
 
-27.  Sum and Difference Formulas.ahk
+Sum and Difference Formulas
 https://www.youtube.com/watch?v=b15yEVGta-o
 
-28.  Trig Form of Complex Number.ahk
+Trig Form of Complex Number
 https://www.youtube.com/watch?v=343Vr0AAC4w
 
-29.  Trig Functions at Any Angle.ahk
+Trig Functions at Any Angle
 https://www.youtube.com/watch?v=NqJ6dYumStc
 
-30.  Unit Circle (1357823).ahk
+Unit Circle (1357823)
 https://www.youtube.com/watch?v=YkgkGWhUFXI
 
-31.  Unit Circle Song  Michael Bautista.ahk
+Unit Circle Song  Michael Bautista
 https://www.youtube.com/watch?v=1CiXAP8XaBg
 
-32.  Unit Circle.ahk
+Unit Circle
 https://www.youtube.com/watch?v=tKJNcnZSwhM
 
-33.  Vectors and Dot Products.ahk
+Vectors and Dot Products
 https://www.youtube.com/watch?v=sM8NGnWRNio
 
-34.  Vectors in a Plane.ahk
+Vectors in a Plane
 https://www.youtube.com/watch?v=Ak15im0e1Eo
 
-35.  Verifying Trig Identities.ahk
+Verifying Trig Identities
 https://www.youtube.com/watch?v=cXGKYrSslEo
 
-36.  Work and Force Applications.ahk
+Work and Force Applications
 https://www.youtube.com/watch?v=m_aJGsBJLn0
 Precalculus Course Lessons

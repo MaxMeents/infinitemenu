@@ -1,73 +1,73 @@
 
-1.  Yakov Kazyansky
+Yakov Kazyansky
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yakov_Kazyansky/Yakov_Kazyansky.txt
 
-2.  Yankel Talmud
+Yankel Talmud
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yankel_Talmud/Yankel_Talmud.txt
 
-3.  Yanni
+Yanni
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yanni/Yanni.txt
 
-4.  Yardena Alotin
+Yardena Alotin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yardena_Alotin/Yardena_Alotin.txt
 
-5.  Yasushi Akutagawa
+Yasushi Akutagawa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yasushi_Akutagawa/Yasushi_Akutagawa.txt
 
-6.  Yehezkel Braun
+Yehezkel Braun
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yehezkel_Braun/Yehezkel_Braun.txt
 
-7.  Yehuda Yannay
+Yehuda Yannay
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yehuda_Yannay/Yehuda_Yannay.txt
 
-8.  Yehudi Wyner
+Yehudi Wyner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yehudi_Wyner/Yehudi_Wyner.txt
 
-9.  Yevstigney Fomin
+Yevstigney Fomin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yevstigney_Fomin/Yevstigney_Fomin.txt
 
-10.  Yitzhak Yedid
+Yitzhak Yedid
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yitzhak_Yedid/Yitzhak_Yedid.txt
 
-11.  Yoichiro Yoshikawa
+Yoichiro Yoshikawa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yoichiro_Yoshikawa/Yoichiro_Yoshikawa.txt
 
-12.  Yoko Kanno
+Yoko Kanno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yoko_Kanno/Yoko_Kanno.txt
 
-13.  Yolande Uyttenhove
+Yolande Uyttenhove
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yolande_Uyttenhove/Yolande_Uyttenhove.txt
 
-14.  Yoritsune Matsudaira
+Yoritsune Matsudaira
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yoritsune_Matsudaira/Yoritsune_Matsudaira.txt
 
-15.  York Bowen
+York Bowen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/York_Bowen/York_Bowen.txt
 
-16.  York Höller
+York Höller
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/York_Höller/York_Höller.txt
 
-17.  Yoshino Aoki
+Yoshino Aoki
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yoshino_Aoki/Yoshino_Aoki.txt
 
-18.  Yuji Nomi
+Yuji Nomi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuji_Nomi/Yuji_Nomi.txt
 
-19.  Yuji Takahashi
+Yuji Takahashi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuji_Takahashi/Yuji_Takahashi.txt
 
-20.  Yuki Kajiura
+Yuki Kajiura
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuki_Kajiura/Yuki_Kajiura.txt
 
-21.  Yuri Karlovich Arnold
+Yuri Karlovich Arnold
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuri_Karlovich_Arnold/Yuri_Karlovich_Arnold.txt
 
-22.  Yuri Khanon
+Yuri Khanon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuri_Khanon/Yuri_Khanon.txt
 
-23.  Yury Chernavsky
+Yury Chernavsky
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yury_Chernavsky/Yury_Chernavsky.txt
 
-24.  Yuvan Shankar Raja
+Yuvan Shankar Raja
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Y/Yuvan_Shankar_Raja/Yuvan_Shankar_Raja.txt
 Y

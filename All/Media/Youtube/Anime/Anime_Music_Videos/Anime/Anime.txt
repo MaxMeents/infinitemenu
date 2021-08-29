@@ -1,811 +1,811 @@
 
-1.  7SEEDS (1473158).ahk
+7SEEDS (1473158)
 https://www.netflix.com/watch/80183051?tctx=15`%2C4`%2C`%2C`%2C`%2C
 
-2.  7SEEDS.ahk
+7SEEDS
 https://www.netflix.com/watch/80183051?tctx=15%2C4%2C%2C%2C%2C
 
-3.  A.I.C.O. (1854923).ahk
+A.I.C.O. (1854923)
 https://www.netflix.com/watch/80161848?tctx=19`%2C3`%2C`%2C`%2C`%2C
 
-4.  A.I.C.O..ahk
+A.I.C.O.
 https://www.netflix.com/watch/80161848?tctx=19%2C3%2C%2C%2C%2C
 
-5.  Aggretsuko (1366487).ahk
+Aggretsuko (1366487)
 https://www.netflix.com/watch/80198505?tctx=1`%2C0`%2C`%2C`%2C`%2C
 
-6.  Aggretsuko- We Wish You a Metal Christmas (1808029).ahk
+Aggretsuko- We Wish You a Metal Christmas (1808029)
 https://www.netflix.com/watch/81008536?tctx=20`%2C2`%2C`%2C`%2C`%2C
 
-7.  Aggretsuko- We Wish You a Metal Christmas.ahk
+Aggretsuko- We Wish You a Metal Christmas
 https://www.netflix.com/watch/81008536?tctx=20%2C2%2C%2C%2C%2C
 
-8.  Aggretsuko.ahk
+Aggretsuko
 https://www.netflix.com/watch/80198505?tctx=1%2C0%2C%2C%2C%2C
 
-9.  AJIN- Demi-Human (1540793).ahk
+AJIN- Demi-Human (1540793)
 https://www.netflix.com/watch/80043576?tctx=11`%2C3`%2C`%2C`%2C`%2C
 
-10.  AJIN- Demi-Human.ahk
+AJIN- Demi-Human
 https://www.netflix.com/watch/80043576?tctx=11%2C3%2C%2C%2C%2C
 
-11.  Akame ga Kill! (1162251).ahk
+Akame ga Kill! (1162251)
 https://www.netflix.com/watch/80052714?tctx=2`%2C2`%2C`%2C`%2C`%2C
 
-12.  Akame ga Kill!.ahk
+Akame ga Kill!
 https://www.netflix.com/watch/80052714?tctx=2%2C2%2C%2C%2C%2C
 
-13.  Angel Beats! (1216227).ahk
+Angel Beats! (1216227)
 https://www.netflix.com/watch/70201870?tctx=7`%2C3`%2C`%2C`%2C`%2C
 
-14.  Angel Beats!.ahk
+Angel Beats!
 https://www.netflix.com/watch/70201870?tctx=7%2C3%2C%2C%2C%2C
 
-15.  Anohana- The Flower We Saw That Day (1594445).ahk
+Anohana- The Flower We Saw That Day (1594445)
 https://www.netflix.com/watch/80075178?tctx=9`%2C2`%2C`%2C`%2C`%2C
 
-16.  Anohana- The Flower We Saw That Day.ahk
+Anohana- The Flower We Saw That Day
 https://www.netflix.com/watch/80075178?tctx=9%2C2%2C%2C%2C%2C
 
-17.  Attack on Titan (1590455).ahk
+Attack on Titan (1590455)
 https://www.netflix.com/watch/70299043?tctx=3`%2C2`%2C`%2C`%2C`%2C
 
-18.  Attack on Titan.ahk
+Attack on Titan
 https://www.netflix.com/watch/70299043?tctx=3%2C2%2C%2C%2C%2C
 
-19.  B- The Beginning (1442089).ahk
+B- The Beginning (1442089)
 https://www.netflix.com/watch/80097594?tctx=15`%2C1`%2C`%2C`%2C`%2C
 
-20.  B- The Beginning.ahk
+B- The Beginning
 https://www.netflix.com/watch/80097594?tctx=15%2C1%2C%2C%2C%2C
 
-21.  Back Street Girls -GOKUDOLS- (1849918).ahk
+Back Street Girls -GOKUDOLS- (1849918)
 https://www.netflix.com/watch/80996957?tctx=17`%2C5`%2C`%2C`%2C`%2C
 
-22.  Back Street Girls -GOKUDOLS-.ahk
+Back Street Girls -GOKUDOLS-
 https://www.netflix.com/watch/80996957?tctx=17%2C5%2C%2C%2C%2C
 
-23.  BAKI (1090642).ahk
+BAKI (1090642)
 https://www.netflix.com/watch/80204451?tctx=22`%2C1`%2C`%2C`%2C`%2C
 
-24.  BAKI.ahk
+BAKI
 https://www.netflix.com/watch/80204451?tctx=22%2C1%2C%2C%2C%2C
 
-25.  Bakugan- Battle Planet (1454704).ahk
+Bakugan- Battle Planet (1454704)
 https://www.netflix.com/watch/81174992?tctx=15`%2C0`%2C`%2C`%2C`%2C
 
-26.  Bakugan- Battle Planet.ahk
+Bakugan- Battle Planet
 https://www.netflix.com/watch/81174992?tctx=15%2C0%2C%2C%2C%2C
 
-27.  BEASTARS (1889069).ahk
+BEASTARS (1889069)
 https://www.netflix.com/watch/81054847?tctx=8`%2C1`%2C`%2C`%2C`%2C
 
-28.  BEASTARS.ahk
+BEASTARS
 https://www.netflix.com/watch/81054847?tctx=8%2C1%2C%2C%2C%2C
 
-29.  Beyblade Burst (1260343).ahk
+Beyblade Burst (1260343)
 https://www.netflix.com/watch/80202539?tctx=12`%2C2`%2C`%2C`%2C`%2C
 
-30.  Beyblade Burst Evolution (1861378).ahk
+Beyblade Burst Evolution (1861378)
 https://www.netflix.com/watch/81018295?tctx=13`%2C2`%2C`%2C`%2C`%2C
 
-31.  Beyblade Burst Evolution.ahk
+Beyblade Burst Evolution
 https://www.netflix.com/watch/81018295?tctx=13%2C2%2C%2C%2C%2C
 
-32.  Beyblade Burst Turbo (1982203).ahk
+Beyblade Burst Turbo (1982203)
 https://www.netflix.com/watch/81172568?tctx=13`%2C1`%2C`%2C`%2C`%2C
 
-33.  Beyblade Burst Turbo.ahk
+Beyblade Burst Turbo
 https://www.netflix.com/watch/81172568?tctx=13%2C1%2C%2C%2C%2C
 
-34.  Beyblade Burst.ahk
+Beyblade Burst
 https://www.netflix.com/watch/80202539?tctx=12%2C2%2C%2C%2C%2C
 
-35.  Black Butler (1048367).ahk
+Black Butler (1048367)
 https://www.netflix.com/watch/70204955?tctx=5`%2C5`%2C`%2C`%2C`%2C
 
-36.  Black Butler.ahk
+Black Butler
 https://www.netflix.com/watch/70204955?tctx=5%2C5%2C%2C%2C%2C
 
-37.  Bleach (1515191).ahk
+Bleach (1515191)
 https://www.netflix.com/watch/70204957?tctx=1`%2C2`%2C`%2C`%2C`%2C
 
-38.  Bleach.ahk
+Bleach
 https://www.netflix.com/watch/70204957?tctx=1%2C2%2C%2C%2C%2C
 
-39.  Blue Exorcist (1660268).ahk
+Blue Exorcist (1660268)
 https://www.netflix.com/watch/70304252?tctx=0`%2C3`%2C`%2C`%2C`%2C
 
-40.  Blue Exorcist.ahk
+Blue Exorcist
 https://www.netflix.com/watch/70304252?tctx=0%2C3%2C%2C%2C%2C
 
-41.  BNA (1150755).ahk
+BNA (1150755)
 https://www.netflix.com/watch/81220429?tctx=5`%2C1`%2C`%2C`%2C`%2C
 
-42.  BNA.ahk
+BNA
 https://www.netflix.com/watch/81220429?tctx=5%2C1%2C%2C%2C%2C
 
-43.  Cagaster of an Insect Cage (1922237).ahk
+Cagaster of an Insect Cage (1922237)
 https://www.netflix.com/watch/80224581?tctx=18`%2C5`%2C`%2C`%2C`%2C
 
-44.  Cagaster of an Insect Cage.ahk
+Cagaster of an Insect Cage
 https://www.netflix.com/watch/80224581?tctx=18%2C5%2C%2C%2C%2C
 
-45.  Cannon Busters (1270266).ahk
+Cannon Busters (1270266)
 https://www.netflix.com/watch/80195357?tctx=16`%2C1`%2C`%2C`%2C`%2C
 
-46.  Cannon Busters.ahk
+Cannon Busters
 https://www.netflix.com/watch/80195357?tctx=16%2C1%2C%2C%2C%2C
 
-47.  Cardcaptor Sakura (1951297).ahk
+Cardcaptor Sakura (1951297)
 https://www.netflix.com/watch/70309056?tctx=13`%2C0`%2C`%2C`%2C`%2C
 
-48.  Cardcaptor Sakura.ahk
+Cardcaptor Sakura
 https://www.netflix.com/watch/70309056?tctx=13%2C0%2C%2C%2C%2C
 
-49.  CAROLE & TUESDAY (1668282).ahk
+CAROLE & TUESDAY (1668282)
 https://www.netflix.com/watch/80992137?tctx=14`%2C5`%2C`%2C`%2C`%2C
 
-50.  CAROLE & TUESDAY.ahk
+CAROLE & TUESDAY
 https://www.netflix.com/watch/80992137?tctx=14%2C5%2C%2C%2C%2C
 
-51.  Case Closed (1599089).ahk
+Case Closed (1599089)
 https://www.netflix.com/watch/80090370?tctx=10`%2C2`%2C`%2C`%2C`%2C
 
-52.  Case Closed.ahk
+Case Closed
 https://www.netflix.com/watch/80090370?tctx=10%2C2%2C%2C%2C%2C
 
-53.  Castlevania (1525091).ahk
+Castlevania (1525091)
 https://www.netflix.com/watch/80095241?tctx=4`%2C3`%2C`%2C`%2C`%2C
 
-54.  Castlevania.ahk
+Castlevania
 https://www.netflix.com/watch/80095241?tctx=4%2C3%2C%2C%2C%2C
 
-55.  Cells at Work! (1421074).ahk
+Cells at Work! (1421074)
 https://www.netflix.com/watch/81028791?tctx=12`%2C1`%2C`%2C`%2C`%2C
 
-56.  Cells at Work!.ahk
+Cells at Work!
 https://www.netflix.com/watch/81028791?tctx=12%2C1%2C%2C%2C%2C
 
-57.  Children of the Whales (1002288).ahk
+Children of the Whales (1002288)
 https://www.netflix.com/watch/80174917?tctx=17`%2C1`%2C`%2C`%2C`%2C
 
-58.  Children of the Whales.ahk
+Children of the Whales
 https://www.netflix.com/watch/80174917?tctx=17%2C1%2C%2C%2C%2C
 
-59.  CLANNAD (1848169).ahk
+CLANNAD (1848169)
 https://www.netflix.com/watch/70204963?tctx=9`%2C0`%2C`%2C`%2C`%2C
 
-60.  CLANNAD.ahk
+CLANNAD
 https://www.netflix.com/watch/70204963?tctx=9%2C0%2C%2C%2C%2C
 
-61.  Code Geass- Lelouch of the Rebellion (1841501).ahk
+Code Geass- Lelouch of the Rebellion (1841501)
 https://www.netflix.com/watch/80065146?tctx=7`%2C1`%2C`%2C`%2C`%2C
 
-62.  Code Geass- Lelouch of the Rebellion.ahk
+Code Geass- Lelouch of the Rebellion
 https://www.netflix.com/watch/80065146?tctx=7%2C1%2C%2C%2C%2C
 
-63.  Cyborg 009 VS Devilman (1828447).ahk
+Cyborg 009 VS Devilman (1828447)
 https://www.netflix.com/watch/80094557?tctx=21`%2C5`%2C`%2C`%2C`%2C
 
-64.  Cyborg 009 VS Devilman.ahk
+Cyborg 009 VS Devilman
 https://www.netflix.com/watch/80094557?tctx=21%2C5%2C%2C%2C%2C
 
-65.  Cyborg 009- Call of Justice (1386085).ahk
+Cyborg 009- Call of Justice (1386085)
 https://www.netflix.com/watch/80057749?tctx=21`%2C2`%2C`%2C`%2C`%2C
 
-66.  Cyborg 009- Call of Justice.ahk
+Cyborg 009- Call of Justice
 https://www.netflix.com/watch/80057749?tctx=21%2C2%2C%2C%2C%2C
 
-67.  DEATH NOTE (1689514).ahk
+DEATH NOTE (1689514)
 https://www.netflix.com/watch/70204970?tctx=2`%2C0`%2C`%2C`%2C`%2C
 
-68.  DEATH NOTE.ahk
+DEATH NOTE
 https://www.netflix.com/watch/70204970?tctx=2%2C0%2C%2C%2C%2C
 
-69.  Devilman Crybaby (1625187).ahk
+Devilman Crybaby (1625187)
 https://www.netflix.com/watch/80174974?tctx=9`%2C4`%2C`%2C`%2C`%2C
 
-70.  Devilman Crybaby.ahk
+Devilman Crybaby
 https://www.netflix.com/watch/80174974?tctx=9%2C4%2C%2C%2C%2C
 
-71.  Dino Girl Gauko (1492216).ahk
+Dino Girl Gauko (1492216)
 https://www.netflix.com/watch/80216180?tctx=21`%2C1`%2C`%2C`%2C`%2C
 
-72.  Dino Girl Gauko.ahk
+Dino Girl Gauko
 https://www.netflix.com/watch/80216180?tctx=21%2C1%2C%2C%2C%2C
 
-73.  Dinosaur King (1438496).ahk
+Dinosaur King (1438496)
 https://www.netflix.com/watch/80007912?tctx=10`%2C5`%2C`%2C`%2C`%2C
 
-74.  Dinosaur King.ahk
+Dinosaur King
 https://www.netflix.com/watch/80007912?tctx=10%2C5%2C%2C%2C%2C
 
-75.  Dorohedoro (1184089).ahk
+Dorohedoro (1184089)
 https://www.netflix.com/watch/80991903?tctx=7`%2C2`%2C`%2C`%2C`%2C
 
-76.  Dorohedoro.ahk
+Dorohedoro
 https://www.netflix.com/watch/80991903?tctx=7%2C2%2C%2C%2C%2C
 
-77.  DRAGON PILOT- Hisone & Masotan (1059548).ahk
+DRAGON PILOT- Hisone & Masotan (1059548)
 https://www.netflix.com/watch/80241960?tctx=19`%2C5`%2C`%2C`%2C`%2C
 
-78.  DRAGON PILOT- Hisone & Masotan.ahk
+DRAGON PILOT- Hisone & Masotan
 https://www.netflix.com/watch/80241960?tctx=19%2C5%2C%2C%2C%2C
 
-79.  DRIFTING DRAGONS (1990491).ahk
+DRIFTING DRAGONS (1990491)
 https://www.netflix.com/watch/80992788?tctx=18`%2C3`%2C`%2C`%2C`%2C
 
-80.  DRIFTING DRAGONS.ahk
+DRIFTING DRAGONS
 https://www.netflix.com/watch/80992788?tctx=18%2C3%2C%2C%2C%2C
 
-81.  Durarara!! (1262014).ahk
+Durarara!! (1262014)
 https://www.netflix.com/watch/80040119?tctx=10`%2C4`%2C`%2C`%2C`%2C
 
-82.  Durarara!!.ahk
+Durarara!!
 https://www.netflix.com/watch/80040119?tctx=10%2C4%2C%2C%2C%2C
 
-83.  Erased (1259689).ahk
+Erased (1259689)
 https://www.netflix.com/watch/80114225?tctx=3`%2C4`%2C`%2C`%2C`%2C
 
-84.  Erased.ahk
+Erased
 https://www.netflix.com/watch/80114225?tctx=3%2C4%2C%2C%2C%2C
 
-85.  Fairy Tail (1495198).ahk
+Fairy Tail (1495198)
 https://www.netflix.com/watch/70266998?tctx=2`%2C4`%2C`%2C`%2C`%2C
 
-86.  Fairy Tail.ahk
+Fairy Tail
 https://www.netflix.com/watch/70266998?tctx=2%2C4%2C%2C%2C%2C
 
-87.  Fate-Apocrypha (1674038).ahk
+Fate-Apocrypha (1674038)
 https://www.netflix.com/watch/80180849?tctx=13`%2C4`%2C`%2C`%2C`%2C
 
-88.  Fate-Apocrypha.ahk
+Fate-Apocrypha
 https://www.netflix.com/watch/80180849?tctx=13%2C4%2C%2C%2C%2C
 
-89.  Fate-EXTRA Last Encore (1308367).ahk
+Fate-EXTRA Last Encore (1308367)
 https://www.netflix.com/watch/80185145?tctx=19`%2C2`%2C`%2C`%2C`%2C
 
-90.  Fate-EXTRA Last Encore.ahk
+Fate-EXTRA Last Encore
 https://www.netflix.com/watch/80185145?tctx=19%2C2%2C%2C%2C%2C
 
-91.  Fate-stay night- Unlimited Blade Works (1933704).ahk
+Fate-stay night- Unlimited Blade Works (1933704)
 https://www.netflix.com/watch/80040330?tctx=11`%2C5`%2C`%2C`%2C`%2C
 
-92.  Fate-stay night- Unlimited Blade Works.ahk
+Fate-stay night- Unlimited Blade Works
 https://www.netflix.com/watch/80040330?tctx=11%2C5%2C%2C%2C%2C
 
-93.  Fate-Zero (1253831).ahk
+Fate-Zero (1253831)
 https://www.netflix.com/watch/70304256?tctx=8`%2C5`%2C`%2C`%2C`%2C
 
-94.  Fate-Zero.ahk
+Fate-Zero
 https://www.netflix.com/watch/70304256?tctx=8%2C5%2C%2C%2C%2C
 
-95.  Food Wars!- Shokugeki no Soma (1471079).ahk
+Food Wars!- Shokugeki no Soma (1471079)
 https://www.netflix.com/watch/80182054?tctx=4`%2C4`%2C`%2C`%2C`%2C
 
-96.  Food Wars!- Shokugeki no Soma.ahk
+Food Wars!- Shokugeki no Soma
 https://www.netflix.com/watch/80182054?tctx=4%2C4%2C%2C%2C%2C
 
-97.  Forest of Piano (1470995).ahk
+Forest of Piano (1470995)
 https://www.netflix.com/watch/80986797?tctx=18`%2C0`%2C`%2C`%2C`%2C
 
-98.  Forest of Piano.ahk
+Forest of Piano
 https://www.netflix.com/watch/80986797?tctx=18%2C0%2C%2C%2C%2C
 
-99.  Fullmetal Alchemist (1050828).ahk
+Fullmetal Alchemist (1050828)
 https://www.netflix.com/watch/70204980?tctx=5`%2C3`%2C`%2C`%2C`%2C
 
-100.  Fullmetal Alchemist- Brotherhood (1693371).ahk
+Fullmetal Alchemist- Brotherhood (1693371)
 https://www.netflix.com/watch/70204981?tctx=1`%2C1`%2C`%2C`%2C`%2C
 
-101.  Fullmetal Alchemist- Brotherhood.ahk
+Fullmetal Alchemist- Brotherhood
 https://www.netflix.com/watch/70204981?tctx=1%2C1%2C%2C%2C%2C
 
-102.  Fullmetal Alchemist.ahk
+Fullmetal Alchemist
 https://www.netflix.com/watch/70204980?tctx=5%2C3%2C%2C%2C%2C
 
-103.  Ghost in the Shell- SAC_2045 (1616802).ahk
+Ghost in the Shell- SAC_2045 (1616802)
 https://www.netflix.com/watch/81030224?tctx=16`%2C3`%2C`%2C`%2C`%2C
 
-104.  Ghost in the Shell- SAC_2045.ahk
+Ghost in the Shell- SAC_2045
 https://www.netflix.com/watch/81030224?tctx=16%2C3%2C%2C%2C%2C
 
-105.  Girls und Panzer (1695481).ahk
+Girls und Panzer (1695481)
 https://www.netflix.com/watch/80205232?tctx=15`%2C5`%2C`%2C`%2C`%2C
 
-106.  Girls und Panzer.ahk
+Girls und Panzer
 https://www.netflix.com/watch/80205232?tctx=15%2C5%2C%2C%2C%2C
 
-107.  Glitter Force (1196952).ahk
+Glitter Force (1196952)
 https://www.netflix.com/watch/80057968?tctx=11`%2C4`%2C`%2C`%2C`%2C
 
-108.  Glitter Force Doki Doki (1812679).ahk
+Glitter Force Doki Doki (1812679)
 https://www.netflix.com/watch/80175619?tctx=16`%2C5`%2C`%2C`%2C`%2C
 
-109.  Glitter Force Doki Doki.ahk
+Glitter Force Doki Doki
 https://www.netflix.com/watch/80175619?tctx=16%2C5%2C%2C%2C%2C
 
-110.  Glitter Force.ahk
+Glitter Force
 https://www.netflix.com/watch/80057968?tctx=11%2C4%2C%2C%2C%2C
 
-111.  God Eater (1448172).ahk
+God Eater (1448172)
 https://www.netflix.com/watch/80145805?tctx=10`%2C1`%2C`%2C`%2C`%2C
 
-112.  God Eater.ahk
+God Eater
 https://www.netflix.com/watch/80145805?tctx=10%2C1%2C%2C%2C%2C
 
-113.  GRANBLUE FANTASY the Animation (1857513).ahk
+GRANBLUE FANTASY the Animation (1857513)
 https://www.netflix.com/watch/80214010?tctx=18`%2C1`%2C`%2C`%2C`%2C
 
-114.  GRANBLUE FANTASY the Animation.ahk
+GRANBLUE FANTASY the Animation
 https://www.netflix.com/watch/80214010?tctx=18%2C1%2C%2C%2C%2C
 
-115.  Great Pretender (1609769).ahk
+Great Pretender (1609769)
 https://www.netflix.com/watch/81220435?tctx=3`%2C5`%2C`%2C`%2C`%2C
 
-116.  Great Pretender.ahk
+Great Pretender
 https://www.netflix.com/watch/81220435?tctx=3%2C5%2C%2C%2C%2C
 
-117.  Gurren Lagann (1231379).ahk
+Gurren Lagann (1231379)
 https://www.netflix.com/watch/70213196?tctx=6`%2C3`%2C`%2C`%2C`%2C
 
-118.  Gurren Lagann.ahk
+Gurren Lagann
 https://www.netflix.com/watch/70213196?tctx=6%2C3%2C%2C%2C%2C
 
-119.  Haikyu!! (1471946).ahk
+Haikyu!! (1471946)
 https://www.netflix.com/watch/80090673?tctx=2`%2C3`%2C`%2C`%2C`%2C
 
-120.  Haikyu!!.ahk
+Haikyu!!
 https://www.netflix.com/watch/80090673?tctx=2%2C3%2C%2C%2C%2C
 
-121.  HERO MASK (1969654).ahk
+HERO MASK (1969654)
 https://www.netflix.com/watch/80200027?tctx=19`%2C4`%2C`%2C`%2C`%2C
 
-122.  HERO MASK.ahk
+HERO MASK
 https://www.netflix.com/watch/80200027?tctx=19%2C4%2C%2C%2C%2C
 
-123.  Hi Score Girl (1459383).ahk
+Hi Score Girl (1459383)
 https://www.netflix.com/watch/80997338?tctx=16`%2C2`%2C`%2C`%2C`%2C
 
-124.  Hi Score Girl.ahk
+Hi Score Girl
 https://www.netflix.com/watch/80997338?tctx=16%2C2%2C%2C%2C%2C
 
-125.  Hunter X Hunter (2011) (1913406).ahk
+Hunter X Hunter (2011) (1913406)
 https://www.netflix.com/watch/70300472?tctx=0`%2C1`%2C`%2C`%2C`%2C
 
-126.  Hunter X Hunter (2011).ahk
+Hunter X Hunter (2011)
 https://www.netflix.com/watch/70300472?tctx=0%2C1%2C%2C%2C%2C
 
-127.  ID-0 (1108673).ahk
+ID-0 (1108673)
 https://www.netflix.com/watch/80174918?tctx=21`%2C4`%2C`%2C`%2C`%2C
 
-128.  ID-0.ahk
+ID-0
 https://www.netflix.com/watch/80174918?tctx=21%2C4%2C%2C%2C%2C
 
-129.  Ingress- The Animation (1840536).ahk
+Ingress- The Animation (1840536)
 https://www.netflix.com/watch/80992853?tctx=20`%2C5`%2C`%2C`%2C`%2C
 
-130.  Ingress- The Animation.ahk
+Ingress- The Animation
 https://www.netflix.com/watch/80992853?tctx=20%2C5%2C%2C%2C%2C
 
-131.  InuYasha (1394101).ahk
+InuYasha (1394101)
 https://www.netflix.com/watch/70204995?tctx=3`%2C1`%2C`%2C`%2C`%2C
 
-132.  InuYasha.ahk
+InuYasha
 https://www.netflix.com/watch/70204995?tctx=3%2C1%2C%2C%2C%2C
 
-133.  Is It Wrong to Try to Pick Up Girls in a Dungeon (1073665).ahk
+Is It Wrong to Try to Pick Up Girls in a Dungeon (1073665)
 https://www.netflix.com/watch/80185873?tctx=7`%2C4`%2C`%2C`%2C`%2C
 
-134.  Is It Wrong to Try to Pick Up Girls in a Dungeon.ahk
+Is It Wrong to Try to Pick Up Girls in a Dungeon
 https://www.netflix.com/watch/80185873?tctx=7%2C4%2C%2C%2C%2C
 
-135.  Japan Sinks- 2020 (1641512).ahk
+Japan Sinks- 2020 (1641512)
 https://www.netflix.com/watch/80993018?tctx=12`%2C4`%2C`%2C`%2C`%2C
 
-136.  Japan Sinks- 2020.ahk
+Japan Sinks- 2020
 https://www.netflix.com/watch/80993018?tctx=12%2C4%2C%2C%2C%2C
 
-137.  JoJo's Bizarre Adventure (1799625).ahk
+JoJo's Bizarre Adventure (1799625)
 https://www.netflix.com/watch/80179831?tctx=2`%2C5`%2C`%2C`%2C`%2C
 
-138.  JoJo's Bizarre Adventure.ahk
+JoJo's Bizarre Adventure
 https://www.netflix.com/watch/80179831?tctx=2%2C5%2C%2C%2C%2C
 
-139.  K-On! (1776119).ahk
+K-On! (1776119)
 https://www.netflix.com/watch/80003477?tctx=8`%2C3`%2C`%2C`%2C`%2C
 
-140.  K-On!.ahk
+K-On!
 https://www.netflix.com/watch/80003477?tctx=8%2C3%2C%2C%2C%2C
 
-141.  Kabaneri of the Iron Fortress- The Battle of Unato (1023932).ahk
+Kabaneri of the Iron Fortress- The Battle of Unato (1023932)
 https://www.netflix.com/watch/81095103?tctx=19`%2C1`%2C`%2C`%2C`%2C
 
-142.  Kabaneri of the Iron Fortress- The Battle of Unato.ahk
+Kabaneri of the Iron Fortress- The Battle of Unato
 https://www.netflix.com/watch/81095103?tctx=19%2C1%2C%2C%2C%2C
 
-143.  Kakegurui (1340705).ahk
+Kakegurui (1340705)
 https://www.netflix.com/watch/80175351?tctx=0`%2C4`%2C`%2C`%2C`%2C
 
-144.  Kakegurui.ahk
+Kakegurui
 https://www.netflix.com/watch/80175351?tctx=0%2C4%2C%2C%2C%2C
 
-145.  KENGAN ASHURA (1722404).ahk
+KENGAN ASHURA (1722404)
 https://www.netflix.com/watch/80992228?tctx=8`%2C2`%2C`%2C`%2C`%2C
 
-146.  KENGAN ASHURA.ahk
+KENGAN ASHURA
 https://www.netflix.com/watch/80992228?tctx=8%2C2%2C%2C%2C%2C
 
-147.  Kill la Kill (1751795).ahk
+Kill la Kill (1751795)
 https://www.netflix.com/watch/70305217?tctx=6`%2C2`%2C`%2C`%2C`%2C
 
-148.  Kill la Kill.ahk
+Kill la Kill
 https://www.netflix.com/watch/70305217?tctx=6%2C2%2C%2C%2C%2C
 
-149.  Knights of Sidonia (1908150).ahk
+Knights of Sidonia (1908150)
 https://www.netflix.com/watch/70301578?tctx=13`%2C3`%2C`%2C`%2C`%2C
 
-150.  Knights of Sidonia.ahk
+Knights of Sidonia
 https://www.netflix.com/watch/70301578?tctx=13%2C3%2C%2C%2C%2C
 
-151.  Kuromukuro (1419559).ahk
+Kuromukuro (1419559)
 https://www.netflix.com/watch/80103318?tctx=17`%2C2`%2C`%2C`%2C`%2C
 
-152.  Kuromukuro.ahk
+Kuromukuro
 https://www.netflix.com/watch/80103318?tctx=17%2C2%2C%2C%2C%2C
 
-153.  l (1714455).ahk
+l (1714455)
 lll
 
-154.  l.ahk
+l
 lll
 
-155.  LAST HOPE (1247009).ahk
+LAST HOPE (1247009)
 https://www.netflix.com/watch/80221272?tctx=20`%2C0`%2C`%2C`%2C`%2C
 
-156.  LAST HOPE.ahk
+LAST HOPE
 https://www.netflix.com/watch/80221272?tctx=20%2C0%2C%2C%2C%2C
 
-157.  Levius (1050180).ahk
+Levius (1050180)
 https://www.netflix.com/watch/80156799?tctx=20`%2C3`%2C`%2C`%2C`%2C
 
-158.  Levius.ahk
+Levius
 https://www.netflix.com/watch/80156799?tctx=20%2C3%2C%2C%2C%2C
 
-159.  Little Witch Academia (1967289).ahk
+Little Witch Academia (1967289)
 https://www.netflix.com/watch/80156387?tctx=11`%2C1`%2C`%2C`%2C`%2C
 
-160.  Little Witch Academia.ahk
+Little Witch Academia
 https://www.netflix.com/watch/80156387?tctx=11%2C1%2C%2C%2C%2C
 
-161.  LOST SONG (1751074).ahk
+LOST SONG (1751074)
 https://www.netflix.com/watch/80191369?tctx=20`%2C1`%2C`%2C`%2C`%2C
 
-162.  LOST SONG.ahk
+LOST SONG
 https://www.netflix.com/watch/80191369?tctx=20%2C1%2C%2C%2C%2C
 
-163.  Love, Chunibyo & Other Delusions! (1858958).ahk
+Love, Chunibyo & Other Delusions! (1858958)
 https://www.netflix.com/watch/80239860?tctx=9`%2C1`%2C`%2C`%2C`%2C
 
-164.  Love, Chunibyo & Other Delusions!.ahk
+Love, Chunibyo & Other Delusions!
 https://www.netflix.com/watch/80239860?tctx=9%2C1%2C%2C%2C%2C
 
-165.  Magi (1310696).ahk
+Magi (1310696)
 https://www.netflix.com/watch/80009097?tctx=5`%2C0`%2C`%2C`%2C`%2C
 
-166.  Magi- Adventure of Sinbad (1444404).ahk
+Magi- Adventure of Sinbad (1444404)
 https://www.netflix.com/watch/80103331?tctx=11`%2C2`%2C`%2C`%2C`%2C
 
-167.  Magi- Adventure of Sinbad.ahk
+Magi- Adventure of Sinbad
 https://www.netflix.com/watch/80103331?tctx=11%2C2%2C%2C%2C%2C
 
-168.  Magi.ahk
+Magi
 https://www.netflix.com/watch/80009097?tctx=5%2C0%2C%2C%2C%2C
 
-169.  Maid-Sama! (1652689).ahk
+Maid-Sama! (1652689)
 https://www.netflix.com/watch/81104406?tctx=3`%2C3`%2C`%2C`%2C`%2C
 
-170.  Maid-Sama!.ahk
+Maid-Sama!
 https://www.netflix.com/watch/81104406?tctx=3%2C3%2C%2C%2C%2C
 
-171.  March Comes in Like a Lion (1297918).ahk
+March Comes in Like a Lion (1297918)
 https://www.netflix.com/watch/80196657?tctx=14`%2C0`%2C`%2C`%2C`%2C
 
-172.  March Comes in Like a Lion.ahk
+March Comes in Like a Lion
 https://www.netflix.com/watch/80196657?tctx=14%2C0%2C%2C%2C%2C
 
-173.  Megalobox (1520124).ahk
+Megalobox (1520124)
 https://www.netflix.com/watch/80987707?tctx=9`%2C5`%2C`%2C`%2C`%2C
 
-174.  Megalobox.ahk
+Megalobox
 https://www.netflix.com/watch/80987707?tctx=9%2C5%2C%2C%2C%2C
 
-175.  Mobile Suit Gundam UC (1750954).ahk
+Mobile Suit Gundam UC (1750954)
 https://www.netflix.com/watch/80189183?tctx=14`%2C3`%2C`%2C`%2C`%2C
 
-176.  Mobile Suit Gundam UC.ahk
+Mobile Suit Gundam UC
 https://www.netflix.com/watch/80189183?tctx=14%2C3%2C%2C%2C%2C
 
-177.  Mobile Suit Gundam- Iron-Blooded Orphans (1070009).ahk
+Mobile Suit Gundam- Iron-Blooded Orphans (1070009)
 https://www.netflix.com/watch/80150290?tctx=7`%2C5`%2C`%2C`%2C`%2C
 
-178.  Mobile Suit Gundam- Iron-Blooded Orphans.ahk
+Mobile Suit Gundam- Iron-Blooded Orphans
 https://www.netflix.com/watch/80150290?tctx=7%2C5%2C%2C%2C%2C
 
-179.  Monthly Girls' Nozaki Kun (1967958).ahk
+Monthly Girls' Nozaki Kun (1967958)
 https://www.netflix.com/watch/80081848?tctx=9`%2C3`%2C`%2C`%2C`%2C
 
-180.  Monthly Girls' Nozaki Kun.ahk
+Monthly Girls' Nozaki Kun
 https://www.netflix.com/watch/80081848?tctx=9%2C3%2C%2C%2C%2C
 
-181.  Nagi-Asu- A Lull in the Sea (1104034).ahk
+Nagi-Asu- A Lull in the Sea (1104034)
 https://www.netflix.com/watch/80132218?tctx=4`%2C5`%2C`%2C`%2C`%2C
 
-182.  Nagi-Asu- A Lull in the Sea.ahk
+Nagi-Asu- A Lull in the Sea
 https://www.netflix.com/watch/80132218?tctx=4%2C5%2C%2C%2C%2C
 
-183.  Naruto (1272621).ahk
+Naruto (1272621)
 https://www.netflix.com/watch/70205012?tctx=0`%2C2`%2C`%2C`%2C`%2C
 
-184.  Naruto.ahk
+Naruto
 https://www.netflix.com/watch/70205012?tctx=0%2C2%2C%2C%2C%2C
 
-185.  Neon Genesis Evangelion (1550551).ahk
+Neon Genesis Evangelion (1550551)
 https://www.netflix.com/watch/81033445?tctx=5`%2C2`%2C`%2C`%2C`%2C
 
-186.  Neon Genesis Evangelion.ahk
+Neon Genesis Evangelion
 https://www.netflix.com/watch/81033445?tctx=5%2C2%2C%2C%2C%2C
 
-187.  No Game No Life (1842829).ahk
+No Game No Life (1842829)
 https://www.netflix.com/watch/80052669?tctx=5`%2C4`%2C`%2C`%2C`%2C
 
-188.  No Game No Life.ahk
+No Game No Life
 https://www.netflix.com/watch/80052669?tctx=5%2C4%2C%2C%2C%2C
 
-189.  ONE PIECE (1772481).ahk
+ONE PIECE (1772481)
 https://www.netflix.com/watch/80107103?tctx=0`%2C5`%2C`%2C`%2C`%2C
 
-190.  ONE PIECE.ahk
+ONE PIECE
 https://www.netflix.com/watch/80107103?tctx=0%2C5%2C%2C%2C%2C
 
-191.  One-Punch Man (1563158).ahk
+One-Punch Man (1563158)
 https://www.netflix.com/watch/80117291?tctx=4`%2C2`%2C`%2C`%2C`%2C
 
-192.  One-Punch Man.ahk
+One-Punch Man
 https://www.netflix.com/watch/80117291?tctx=4%2C2%2C%2C%2C%2C
 
-193.  Ouran High School Host Club (1097686).ahk
+Ouran High School Host Club (1097686)
 https://www.netflix.com/watch/70205014?tctx=3`%2C0`%2C`%2C`%2C`%2C
 
-194.  Ouran High School Host Club.ahk
+Ouran High School Host Club
 https://www.netflix.com/watch/70205014?tctx=3%2C0%2C%2C%2C%2C
 
-195.  Parasyte- The Maxim (1114861).ahk
+Parasyte- The Maxim (1114861)
 https://www.netflix.com/watch/80191008?tctx=1`%2C4`%2C`%2C`%2C`%2C
 
-196.  Parasyte- The Maxim.ahk
+Parasyte- The Maxim
 https://www.netflix.com/watch/80191008?tctx=1%2C4%2C%2C%2C%2C
 
-197.  Pokémon Journeys- The Series (1697298).ahk
+Pokémon Journeys- The Series (1697298)
 https://www.netflix.com/watch/81193140?tctx=6`%2C5`%2C`%2C`%2C`%2C
 
-198.  Pokémon Journeys- The Series.ahk
+Pokémon Journeys- The Series
 https://www.netflix.com/watch/81193140?tctx=6%2C5%2C%2C%2C%2C
 
-199.  Pokémon The Series- Indigo League (1706807).ahk
+Pokémon The Series- Indigo League (1706807)
 https://www.netflix.com/watch/70297439?tctx=7`%2C0`%2C`%2C`%2C`%2C
 
-200.  Pokémon The Series- Indigo League.ahk
+Pokémon The Series- Indigo League
 https://www.netflix.com/watch/70297439?tctx=7%2C0%2C%2C%2C%2C
 
-201.  Pokémon the Series- Sun & Moon (1424266).ahk
+Pokémon the Series- Sun & Moon (1424266)
 https://www.netflix.com/watch/80186475?tctx=4`%2C0`%2C`%2C`%2C`%2C
 
-202.  Pokémon the Series- Sun & Moon.ahk
+Pokémon the Series- Sun & Moon
 https://www.netflix.com/watch/80186475?tctx=4%2C0%2C%2C%2C%2C
 
-203.  Pop Team Epic (1770135).ahk
+Pop Team Epic (1770135)
 https://www.netflix.com/watch/80228291?tctx=21`%2C3`%2C`%2C`%2C`%2C
 
-204.  Pop Team Epic.ahk
+Pop Team Epic
 https://www.netflix.com/watch/80228291?tctx=21%2C3%2C%2C%2C%2C
 
-205.  Puella Magi Madoka Magica (1447401).ahk
+Puella Magi Madoka Magica (1447401)
 https://www.netflix.com/watch/70302572?tctx=12`%2C3`%2C`%2C`%2C`%2C
 
-206.  Puella Magi Madoka Magica.ahk
+Puella Magi Madoka Magica
 https://www.netflix.com/watch/70302572?tctx=12%2C3%2C%2C%2C%2C
 
-207.  Record of Grancrest War (1299191).ahk
+Record of Grancrest War (1299191)
 https://www.netflix.com/watch/81086718?tctx=16`%2C0`%2C`%2C`%2C`%2C
 
-208.  Record of Grancrest War.ahk
+Record of Grancrest War
 https://www.netflix.com/watch/81086718?tctx=16%2C0%2C%2C%2C%2C
 
-209.  revisions (1332470).ahk
+revisions (1332470)
 https://www.netflix.com/watch/80992787?tctx=20`%2C4`%2C`%2C`%2C`%2C
 
-210.  revisions.ahk
+revisions
 https://www.netflix.com/watch/80992787?tctx=20%2C4%2C%2C%2C%2C
 
-211.  Rilakkuma and Kaoru (1444219).ahk
+Rilakkuma and Kaoru (1444219)
 https://www.netflix.com/watch/80196883?tctx=17`%2C3`%2C`%2C`%2C`%2C
 
-212.  Rilakkuma and Kaoru.ahk
+Rilakkuma and Kaoru
 https://www.netflix.com/watch/80196883?tctx=17%2C3%2C%2C%2C%2C
 
-213.  Saint Seiya (1445084).ahk
+Saint Seiya (1445084)
 https://www.netflix.com/watch/70267476?tctx=11`%2C0`%2C`%2C`%2C`%2C
 
-214.  SAINT SEIYA- Knights of the Zodiac (1327720).ahk
+SAINT SEIYA- Knights of the Zodiac (1327720)
 https://www.netflix.com/watch/80186926?tctx=18`%2C4`%2C`%2C`%2C`%2C
 
-215.  SAINT SEIYA- Knights of the Zodiac.ahk
+SAINT SEIYA- Knights of the Zodiac
 https://www.netflix.com/watch/80186926?tctx=18%2C4%2C%2C%2C%2C
 
-216.  Saint Seiya- The Lost Canvas (1223966).ahk
+Saint Seiya- The Lost Canvas (1223966)
 https://www.netflix.com/watch/70273371?tctx=13`%2C5`%2C`%2C`%2C`%2C
 
-217.  Saint Seiya- The Lost Canvas.ahk
+Saint Seiya- The Lost Canvas
 https://www.netflix.com/watch/70273371?tctx=13%2C5%2C%2C%2C%2C
 
-218.  Saint Seiya.ahk
+Saint Seiya
 https://www.netflix.com/watch/70267476?tctx=11%2C0%2C%2C%2C%2C
 
-219.  Seis Manos (1923164).ahk
+Seis Manos (1923164)
 https://www.netflix.com/watch/80217066?tctx=18`%2C2`%2C`%2C`%2C`%2C
 
-220.  Seis Manos.ahk
+Seis Manos
 https://www.netflix.com/watch/80217066?tctx=18%2C2%2C%2C%2C%2C
 
-221.  Sirius the Jaeger (1379012).ahk
+Sirius the Jaeger (1379012)
 https://www.netflix.com/watch/80997339?tctx=12`%2C5`%2C`%2C`%2C`%2C
 
-222.  Sirius the Jaeger.ahk
+Sirius the Jaeger
 https://www.netflix.com/watch/80997339?tctx=12%2C5%2C%2C%2C%2C
 
-223.  Sonic X (1692972).ahk
+Sonic X (1692972)
 https://www.netflix.com/watch/81172267?tctx=10`%2C0`%2C`%2C`%2C`%2C
 
-224.  Sonic X.ahk
+Sonic X
 https://www.netflix.com/watch/81172267?tctx=10%2C0%2C%2C%2C%2C
 
-225.  Soul Eater (1418254).ahk
+Soul Eater (1418254)
 https://www.netflix.com/watch/70205024?tctx=2`%2C1`%2C`%2C`%2C`%2C
 
-226.  Soul Eater.ahk
+Soul Eater
 https://www.netflix.com/watch/70205024?tctx=2%2C1%2C%2C%2C%2C
 
-227.  Sword Art Online (1980853).ahk
+Sword Art Online (1980853)
 https://www.netflix.com/watch/70302573?tctx=1`%2C3`%2C`%2C`%2C`%2C
 
-228.  Sword Art Online Alternative- Gun Gale Online (1520378).ahk
+Sword Art Online Alternative- Gun Gale Online (1520378)
 https://www.netflix.com/watch/80990612?tctx=16`%2C4`%2C`%2C`%2C`%2C
 
-229.  Sword Art Online Alternative- Gun Gale Online.ahk
+Sword Art Online Alternative- Gun Gale Online
 https://www.netflix.com/watch/80990612?tctx=16%2C4%2C%2C%2C%2C
 
-230.  Sword Art Online.ahk
+Sword Art Online
 https://www.netflix.com/watch/70302573?tctx=1%2C3%2C%2C%2C%2C
 
-231.  SWORDGAI The Animation (1588210).ahk
+SWORDGAI The Animation (1588210)
 https://www.netflix.com/watch/80175350?tctx=19`%2C0`%2C`%2C`%2C`%2C
 
-232.  SWORDGAI The Animation.ahk
+SWORDGAI The Animation
 https://www.netflix.com/watch/80175350?tctx=19%2C0%2C%2C%2C%2C
 
-233.  Teasing Master Takagi-san (1965730).ahk
+Teasing Master Takagi-san (1965730)
 https://www.netflix.com/watch/80228274?tctx=17`%2C4`%2C`%2C`%2C`%2C
 
-234.  Teasing Master Takagi-san.ahk
+Teasing Master Takagi-san
 https://www.netflix.com/watch/80228274?tctx=17%2C4%2C%2C%2C%2C
 
-235.  The Devil Is a Part-Timer! (1616877).ahk
+The Devil Is a Part-Timer! (1616877)
 https://www.netflix.com/watch/80006149?tctx=12`%2C0`%2C`%2C`%2C`%2C
 
-236.  The Devil Is a Part-Timer!.ahk
+The Devil Is a Part-Timer!
 https://www.netflix.com/watch/80006149?tctx=12%2C0%2C%2C%2C%2C
 
-237.  The Disastrous Life of Saiki K. (1157817).ahk
+The Disastrous Life of Saiki K. (1157817)
 https://www.netflix.com/watch/80117781?tctx=22`%2C0`%2C`%2C`%2C`%2C
 
-238.  The Disastrous Life of Saiki K.- Reawakened (1697553).ahk
+The Disastrous Life of Saiki K.- Reawakened (1697553)
 https://www.netflix.com/watch/81054849?tctx=15`%2C3`%2C`%2C`%2C`%2C
 
-239.  The Disastrous Life of Saiki K.- Reawakened.ahk
+The Disastrous Life of Saiki K.- Reawakened
 https://www.netflix.com/watch/81054849?tctx=15%2C3%2C%2C%2C%2C
 
-240.  The Disastrous Life of Saiki K..ahk
+The Disastrous Life of Saiki K.
 https://www.netflix.com/watch/80117781?tctx=22%2C0%2C%2C%2C%2C
 
-241.  The Irregular at Magic High School (1118752).ahk
+The Irregular at Magic High School (1118752)
 https://www.netflix.com/watch/80009361?tctx=8`%2C4`%2C`%2C`%2C`%2C
 
-242.  The Irregular at Magic High School.ahk
+The Irregular at Magic High School
 https://www.netflix.com/watch/80009361?tctx=8%2C4%2C%2C%2C%2C
 
-243.  The Promised Neverland (1258270).ahk
+The Promised Neverland (1258270)
 https://www.netflix.com/watch/81145640?tctx=1`%2C5`%2C`%2C`%2C`%2C
 
-244.  The Promised Neverland.ahk
+The Promised Neverland
 https://www.netflix.com/watch/81145640?tctx=1%2C5%2C%2C%2C%2C
 
-245.  The Seven Deadly Sins (1056544).ahk
+The Seven Deadly Sins (1056544)
 https://www.netflix.com/watch/80050063?tctx=0`%2C0`%2C`%2C`%2C`%2C
 
-246.  The Seven Deadly Sins.ahk
+The Seven Deadly Sins
 https://www.netflix.com/watch/80050063?tctx=0%2C0%2C%2C%2C%2C
 
-247.  Toradora! (1881473).ahk
+Toradora! (1881473)
 https://www.netflix.com/watch/80049275?tctx=4`%2C1`%2C`%2C`%2C`%2C
 
-248.  Toradora!.ahk
+Toradora!
 https://www.netflix.com/watch/80049275?tctx=4%2C1%2C%2C%2C%2C
 
-249.  Transformers- War For Cybertron Trilogy (1537572).ahk
+Transformers- War For Cybertron Trilogy (1537572)
 https://www.netflix.com/watch/81002438?tctx=14`%2C4`%2C`%2C`%2C`%2C
 
-250.  Transformers- War For Cybertron Trilogy.ahk
+Transformers- War For Cybertron Trilogy
 https://www.netflix.com/watch/81002438?tctx=14%2C4%2C%2C%2C%2C
 
-251.  Ultraman (1425794).ahk
+Ultraman (1425794)
 https://www.netflix.com/watch/80231373?tctx=17`%2C0`%2C`%2C`%2C`%2C
 
-252.  Ultraman.ahk
+Ultraman
 https://www.netflix.com/watch/80231373?tctx=17%2C0%2C%2C%2C%2C
 
-253.  Ultramarine Magmell (1613911).ahk
+Ultramarine Magmell (1613911)
 https://www.netflix.com/watch/81019771?tctx=15`%2C2`%2C`%2C`%2C`%2C
 
-254.  Ultramarine Magmell.ahk
+Ultramarine Magmell
 https://www.netflix.com/watch/81019771?tctx=15%2C2%2C%2C%2C%2C
 
-255.  Vampire Knight (1813472).ahk
+Vampire Knight (1813472)
 https://www.netflix.com/watch/70309457?tctx=6`%2C0`%2C`%2C`%2C`%2C
 
-256.  Vampire Knight.ahk
+Vampire Knight
 https://www.netflix.com/watch/70309457?tctx=6%2C0%2C%2C%2C%2C
 
-257.  Violet Evergarden (1713400).ahk
+Violet Evergarden (1713400)
 https://www.netflix.com/watch/80182123?tctx=8`%2C0`%2C`%2C`%2C`%2C
 
-258.  Violet Evergarden- Special (1533921).ahk
+Violet Evergarden- Special (1533921)
 https://www.netflix.com/watch/81010662?tctx=21`%2C0`%2C`%2C`%2C`%2C
 
-259.  Violet Evergarden- Special.ahk
+Violet Evergarden- Special
 https://www.netflix.com/watch/81010662?tctx=21%2C0%2C%2C%2C%2C
 
-260.  Violet Evergarden.ahk
+Violet Evergarden
 https://www.netflix.com/watch/80182123?tctx=8%2C0%2C%2C%2C%2C
 
-261.  Yo-Kai Watch (1258027).ahk
+Yo-Kai Watch (1258027)
 https://www.netflix.com/watch/80106136?tctx=14`%2C2`%2C`%2C`%2C`%2C
 
-262.  Yo-Kai Watch.ahk
+Yo-Kai Watch
 https://www.netflix.com/watch/80106136?tctx=14%2C2%2C%2C%2C%2C
 
-263.  Your lie in April (1642841).ahk
+Your lie in April (1642841)
 https://www.netflix.com/watch/80041089?tctx=6`%2C1`%2C`%2C`%2C`%2C
 
-264.  Your lie in April.ahk
+Your lie in April
 https://www.netflix.com/watch/80041089?tctx=6%2C1%2C%2C%2C%2C
 
-265.  Yu-Gi-Oh! (1440559).ahk
+Yu-Gi-Oh! (1440559)
 https://www.netflix.com/watch/70177034?tctx=6`%2C4`%2C`%2C`%2C`%2C
 
-266.  Yu-Gi-Oh! Arc-V (1303523).ahk
+Yu-Gi-Oh! Arc-V (1303523)
 https://www.netflix.com/watch/80987906?tctx=14`%2C1`%2C`%2C`%2C`%2C
 
-267.  Yu-Gi-Oh! Arc-V.ahk
+Yu-Gi-Oh! Arc-V
 https://www.netflix.com/watch/80987906?tctx=14%2C1%2C%2C%2C%2C
 
-268.  Yu-Gi-Oh!.ahk
+Yu-Gi-Oh!
 https://www.netflix.com/watch/70177034?tctx=6%2C4%2C%2C%2C%2C
 
-269.  Zoids Wild (1165386).ahk
+Zoids Wild (1165386)
 https://www.netflix.com/watch/81222637?tctx=10`%2C3`%2C`%2C`%2C`%2C
 
-270.  Zoids Wild.ahk
+Zoids Wild
 https://www.netflix.com/watch/81222637?tctx=10%2C3%2C%2C%2C%2C
 Anime

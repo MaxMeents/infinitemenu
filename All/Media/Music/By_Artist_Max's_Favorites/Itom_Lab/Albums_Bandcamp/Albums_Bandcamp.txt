@@ -1,49 +1,49 @@
 
-1.  All Songs on Bandcamp
+All Songs on Bandcamp
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/All_Songs_on_Bandcamp/All_Songs_on_Bandcamp.txt
 
-2.  Atomic Consciousness
+Atomic Consciousness
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/Atomic_Consciousness/Atomic_Consciousness.txt
 
-3.  Brahmin
+Brahmin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/Brahmin/Brahmin.txt
 
-4.  Dragon Scales
+Dragon Scales
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/Dragon_Scales/Dragon_Scales.txt
 
-5.  NEYEN
+NEYEN
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/NEYEN/NEYEN.txt
 
-6.  The Crop Circle of Life
+The Crop Circle of Life
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/The_Crop_Circle_of_Life/The_Crop_Circle_of_Life.txt
 
-7.  The Journey Is the Destination
+The Journey Is the Destination
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/The_Journey_Is_the_Destination/The_Journey_Is_the_Destination.txt
 
-8.  The Phoenix of My Imagination
+The Phoenix of My Imagination
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Itom_Lab/Albums_Bandcamp/The_Phoenix_of_My_Imagination/The_Phoenix_of_My_Imagination.txt
 
-1.  .ahk
 
 
-2.  Atomic Consciousness.ahk
+
+Atomic Consciousness
 https://itomlab.bandcamp.com/album/atomic-consciousness
 
-3.  Brahmin.ahk
+Brahmin
 https://itomlab.bandcamp.com/album/brahmin
 
-4.  Dragon Scales.ahk
+Dragon Scales
 https://itomlab.bandcamp.com/album/dragon-scales
 
-5.  NEYEN.ahk
+NEYEN
 https://itomlab.bandcamp.com/album/neyen
 
-6.  The Crop Circle of Life.ahk
+The Crop Circle of Life
 https://itomlab.bandcamp.com/album/the-crop-circle-of-life
 
-7.  The Journey Is the Destination.ahk
+The Journey Is the Destination
 https://itomlab.bandcamp.com/album/the-journey-is-the-destination
 
-8.  The Phoenix of My Imagination.ahk
+The Phoenix of My Imagination
 https://itomlab.bandcamp.com/album/the-phoenix-of-my-imagination
 Albums Bandcamp

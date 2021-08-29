@@ -1,37 +1,37 @@
 
-1.  Ángel Barrios
+Ángel Barrios
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Ángel_Barrios/Ángel_Barrios.txt
 
-2.  Ángel Villoldo
+Ángel Villoldo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Ángel_Villoldo/Ángel_Villoldo.txt
 
-3.  Árpád Doppler
+Árpád Doppler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Árpád_Doppler/Árpád_Doppler.txt
 
-4.  Ástor Piazzolla
+Ástor Piazzolla
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Ástor_Piazzolla/Ástor_Piazzolla.txt
 
-5.  Édouard Lalo
+Édouard Lalo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Édouard_Lalo/Édouard_Lalo.txt
 
-6.  Élisabeth Jacquet de La Guerre
+Élisabeth Jacquet de La Guerre
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Élisabeth_Jacquet_de_La_Guerre/Élisabeth_Jacquet_de_La_Guerre.txt
 
-7.  Émile Waldteufel
+Émile Waldteufel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Émile_Waldteufel/Émile_Waldteufel.txt
 
-8.  Étienne Méhul
+Étienne Méhul
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Étienne_Méhul/Étienne_Méhul.txt
 
-9.  Étienne-Joseph Floquet
+Étienne-Joseph Floquet
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Étienne-Joseph_Floquet/Étienne-Joseph_Floquet.txt
 
-10.  Øystein Baadsvik
+Øystein Baadsvik
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Øystein_Baadsvik/Øystein_Baadsvik.txt
 
-11.  Ludovít Rajter
+Ludovít Rajter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Ludovít_Rajter/Ludovít_Rajter.txt
 
-12.  Šimon Brixi
+Šimon Brixi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Non-ABC/Šimon_Brixi/Šimon_Brixi.txt
 Non-ABC

@@ -1,463 +1,463 @@
 
-1.  10 Things To Do After Installing Ubuntu Linux.ahk
+10 Things To Do After Installing Ubuntu Linux
 https://www.youtube.com/watch?v=jZs899M-kQo
 
-2.  Add Open in Terminal Command to Nautilus Context Menu in Ubuntu Linux.ahk
+Add Open in Terminal Command to Nautilus Context Menu in Ubuntu Linux
 https://www.youtube.com/watch?v=Rskmm9tskEE
 
-3.  Bash Shell Scripting Tutorial  Shell Scripting Tutorial  Learn Shell Programming.ahk
+Bash Shell Scripting Tutorial  Shell Scripting Tutorial  Learn Shell Programming
 https://www.youtube.com/watch?v=zWVV31NYi1U
 
-4.  Beginners MYSQL Database Tutorial # How to install MySQL on UbuntuDebian Linux.ahk
+Beginners MYSQL Database Tutorial # How to install MySQL on UbuntuDebian Linux
 https://www.youtube.com/watch?v=uqaoGTnxqNw
 
-5.  Beginners MYSQL Database Tutorial # Install MySQL Workbench in UbuntuDebian Linux.ahk
+Beginners MYSQL Database Tutorial # Install MySQL Workbench in UbuntuDebian Linux
 https://www.youtube.com/watch?v=jvPeLibTidU
 
-6.  Build and Run Sample Code for Log4Cpp C++ library from Source Code on Ubuntu.ahk
+Build and Run Sample Code for Log4Cpp C++ library from Source Code on Ubuntu
 https://www.youtube.com/watch?v=JblX87aJ1oA
 
-7.  C++ Programming Tutorial - How to Install CodeBlocks in Ubuntu Linux.ahk
+C++ Programming Tutorial - How to Install CodeBlocks in Ubuntu Linux
 https://www.youtube.com/watch?v=f48D90y3BWI
 
-8.  Docker Tutorial for Beginners  Learn Docker in 2 Hours (Full Course)  DevOps Training.ahk
+Docker Tutorial for Beginners  Learn Docker in 2 Hours (Full Course)  DevOps Training
 https://www.youtube.com/watch?v=LIpQGLdll7A
 
-9.  How do I install gcc on Ubuntu Linux.ahk
+How do I install gcc on Ubuntu Linux
 https://www.youtube.com/watch?v=cotkJrewAz0
 
-10.  How Install PHP with Apache Web Server in Ubuntu Linux.ahk
+How Install PHP with Apache Web Server in Ubuntu Linux
 https://www.youtube.com/watch?v=UjXA-JcYFl4
 
-11.  How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest  virtual machine.ahk
+How Install VirtualBox Guest Additions on Ubuntu 18.04 Guest  virtual machine
 https://www.youtube.com/watch?v=qNecdUsuTPw
 
-12.  How to be a Good Software Developer  Coder  Programmer.ahk
+How to be a Good Software Developer  Coder  Programmer
 https://www.youtube.com/watch?v=M9C-_s3HQl8
 
-13.  How to Browse or View Ubuntu Touch apps on Ubuntu desktop.ahk
+How to Browse or View Ubuntu Touch apps on Ubuntu desktop
 https://www.youtube.com/watch?v=ezi3ko4mwA4
 
-14.  How to change Terminal Font size in Ubuntu.ahk
+How to change Terminal Font size in Ubuntu
 https://www.youtube.com/watch?v=W6c0NyQYG-I
 
-15.  How to compile and run C program in ubuntu using gcc.ahk
+How to compile and run C program in ubuntu using gcc
 https://www.youtube.com/watch?v=WiaiZmWxcck
 
-16.  How To Download and Install Android SDK Ubuntu Linux.ahk
+How To Download and Install Android SDK Ubuntu Linux
 https://www.youtube.com/watch?v=7YNaxsUPwZc
 
-17.  How to Download and Install VirtualBox On Ubuntu Linux.ahk
+How to Download and Install VirtualBox On Ubuntu Linux
 https://www.youtube.com/watch?v=ttEn0KfHH44
 
-18.  How to Enable SSH in Ubuntu 18.04 LTS  Ubuntu 20.04  (Install openssh-server).ahk
+How to Enable SSH in Ubuntu 18.04 LTS  Ubuntu 20.04  (Install openssh-server)
 https://www.youtube.com/watch?v=JZ7h5FxlTVg
 
-19.  How to Extract a tar.gz File in Ubuntu Linux using Terminal.ahk
+How to Extract a tar.gz File in Ubuntu Linux using Terminal
 https://www.youtube.com/watch?v=KKbGGbczheI
 
-20.  How to get Higher screen Resolution for Ubuntu 16.04 guest on VirtualBox.ahk
+How to get Higher screen Resolution for Ubuntu 16.04 guest on VirtualBox
 https://www.youtube.com/watch?v=xrJ113yGbnw
 
-21.  How to Install and  configuration PostgreSQL on Ubuntu Linux.ahk
+How to Install and  configuration PostgreSQL on Ubuntu Linux
 https://www.youtube.com/watch?v=-LwI4HMR_Eg
 
-22.  How to Install and Configure Git and GitHub on Ubuntu 18.04  Ubuntu 20.04(Linux).ahk
+How to Install and Configure Git and GitHub on Ubuntu 18.04  Ubuntu 20.04(Linux)
 https://www.youtube.com/watch?v=ZMgLZUYd8Cw
 
-23.  How to Install and Configure Git and Repositories on GitHub on Ubuntu Linux.ahk
+How to Install and Configure Git and Repositories on GitHub on Ubuntu Linux
 https://www.youtube.com/watch?v=SwK2dPFXhpU
 
-24.  How to install and run Apache Web Server in Ubuntu Linux.ahk
+How to install and run Apache Web Server in Ubuntu Linux
 https://www.youtube.com/watch?v=qmkwB7ZLt8M
 
-25.  How to Install and Run VLC Media Player in Ubuntu Linux.ahk
+How to Install and Run VLC Media Player in Ubuntu Linux
 https://www.youtube.com/watch?v=NE8xkVbkpEY
 
-26.  How to Install and Use Visual Studio Code on Ubuntu 20.04 LTS Linux (VS Code).ahk
+How to Install and Use Visual Studio Code on Ubuntu 20.04 LTS Linux (VS Code)
 https://www.youtube.com/watch?v=Y1fei1mzP7Q
 
-27.  How to install Android Studio in Ubuntu Linux (20.04 LTS or 18.04 LTS).ahk
+How to install Android Studio in Ubuntu Linux (20.04 LTS or 18.04 LTS)
 https://www.youtube.com/watch?v=axtVId9ASmY
 
-28.  How to Install Android Studio on Ubuntu 20.04 LTS.ahk
+How to Install Android Studio on Ubuntu 20.04 LTS
 https://www.youtube.com/watch?v=x3nVHXv3oyw
 
-29.  How To Install Arduino IDE in Ubuntu Linux.ahk
+How To Install Arduino IDE in Ubuntu Linux
 https://www.youtube.com/watch?v=QX1OS7p98kU
 
-30.  How to install Atom editor in Ubuntu Linux.ahk
+How to install Atom editor in Ubuntu Linux
 https://www.youtube.com/watch?v=Dk1y06JCa7o
 
-31.  How to Install AudaCity Audio Editor on Ubuntu  Linux Mint.ahk
+How to Install AudaCity Audio Editor on Ubuntu  Linux Mint
 https://www.youtube.com/watch?v=MorBFlewwyA
 
-32.  How to Install CentOS 7 on VirtualBox in Windows 8  Windows 10.ahk
+How to Install CentOS 7 on VirtualBox in Windows 8  Windows 10
 https://www.youtube.com/watch?v=A-VZwc-0Y1M
 
-33.  How to Install Chromium (Google Chrome) in Ubuntu Linux.ahk
+How to Install Chromium (Google Chrome) in Ubuntu Linux
 https://www.youtube.com/watch?v=VniSxKSXhVE
 
-34.  How to install Cinelerra ( free video editor ) in Ubuntu Linux.ahk
+How to install Cinelerra ( free video editor ) in Ubuntu Linux
 https://www.youtube.com/watch?v=jZMo433LhVQ
 
-35.  How to Install Debian Linux on VirtualBox.ahk
+How to Install Debian Linux on VirtualBox
 https://www.youtube.com/watch?v=6M1DivpQSdo
 
-36.  How to Install Docker On Ubuntu 20.04 LTS Focal Fossa.ahk
+How to Install Docker On Ubuntu 20.04 LTS Focal Fossa
 https://www.youtube.com/watch?v=aMKUuaga85A
 
-37.  How to Install Eclipse IDE on Ubuntu 18.04  Ubuntu 20.04(Linux).ahk
+How to Install Eclipse IDE on Ubuntu 18.04  Ubuntu 20.04(Linux)
 https://www.youtube.com/watch?v=Vc3z48_Gx3E
 
-38.  How to Install Eclipse IDE on Ubuntu 20.04 LTS  (2021).ahk
+How to Install Eclipse IDE on Ubuntu 20.04 LTS  (2021)
 https://www.youtube.com/watch?v=Bhgnz6aZg1Y
 
-39.  How to Install Eclipse Oxygen on Ubuntu 20.04  Ubuntu 18.04 (Linux).ahk
+How to Install Eclipse Oxygen on Ubuntu 20.04  Ubuntu 18.04 (Linux)
 https://www.youtube.com/watch?v=EiGl2Ag35AI
 
-40.  How to install Emacs (Text editor) on Ubuntu Linux.ahk
+How to install Emacs (Text editor) on Ubuntu Linux
 https://www.youtube.com/watch?v=XTuzbY1YyzM
 
-41.  How to Install Fedora Linux on VirtualBox in Windows 8  Windows 10.ahk
+How to Install Fedora Linux on VirtualBox in Windows 8  Windows 10
 https://www.youtube.com/watch?v=WVmAC37BfVA
 
-42.  How to Install Genymotion Android Emulator in Ubuntu Linux.ahk
+How to Install Genymotion Android Emulator in Ubuntu Linux
 https://www.youtube.com/watch?v=k3MSTD9SLy4
 
-43.  How To Install Google Chrome in Ubuntu.ahk
+How To Install Google Chrome in Ubuntu
 https://www.youtube.com/watch?v=x01yVzlm8xI
 
-44.  How To Install IntelliJ IDEA on Ubuntu 20.04 LTS  (2021).ahk
+How To Install IntelliJ IDEA on Ubuntu 20.04 LTS  (2021)
 https://www.youtube.com/watch?v=zCkozcDBJ-A
 
-45.  How To Install Java 15 On Ubuntu 20.04 LTS (2021).ahk
+How To Install Java 15 On Ubuntu 20.04 LTS (2021)
 https://www.youtube.com/watch?v=PpDSz9zJVYI
 
-46.  How to install Java 678 in Ubuntu Linux.ahk
+How to install Java 678 in Ubuntu Linux
 https://www.youtube.com/watch?v=tixCmD3Ib10
 
-47.  How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux).ahk
+How to install Java JDK 10 on Ubuntu 18.04 LTS (Debian Linux)
 https://www.youtube.com/watch?v=4RJ60fqeTN4
 
-48.  How to Install Java JDK and JRE on Ubuntu Linux.ahk
+How to Install Java JDK and JRE on Ubuntu Linux
 https://www.youtube.com/watch?v=yBDNVwHw_CU
 
-49.  How to Install Jenkins on Ubuntu Linux (Ubuntu 20.04 , Ubuntu 18.04).ahk
+How to Install Jenkins on Ubuntu Linux (Ubuntu 20.04 , Ubuntu 18.04)
 https://www.youtube.com/watch?v=s1o9BKW2rdw
 
-50.  How To Install Kali Linux in VirtualBox.ahk
+How To Install Kali Linux in VirtualBox
 https://www.youtube.com/watch?v=FVmWMogGX4Q
 
-51.  How To Install Kali Linux In VMware Workstation  VMware Player.ahk
+How To Install Kali Linux In VMware Workstation  VMware Player
 https://www.youtube.com/watch?v=xOzfmvcvHeA
 
-52.  How to install latest Wine (to Run Windows applications) on Ubuntu Linux.ahk
+How to install latest Wine (to Run Windows applications) on Ubuntu Linux
 https://www.youtube.com/watch?v=of1EXRC1xpA
 
-53.  How to Install Linux Mint 19 Cinnamon on VirtualBox.ahk
+How to Install Linux Mint 19 Cinnamon on VirtualBox
 https://www.youtube.com/watch?v=cPDNnpsdteU
 
-54.  How to Install Linux Mint on VirtualBox on Windows 10.ahk
+How to Install Linux Mint on VirtualBox on Windows 10
 https://www.youtube.com/watch?v=aisUxv2S3gk
 
-55.  How to Install Linux Mint on VirtualBox.ahk
+How to Install Linux Mint on VirtualBox
 https://www.youtube.com/watch?v=LzTCCtw-UaE
 
-56.  How to Install Linux Mint on VMware Virtual Machine.ahk
+How to Install Linux Mint on VMware Virtual Machine
 https://www.youtube.com/watch?v=6kRPYByFHUU
 
-57.  How to Install MySQL & PhpMyAdmin to Apache Webserver in Ubuntu Linux.ahk
+How to Install MySQL & PhpMyAdmin to Apache Webserver in Ubuntu Linux
 https://www.youtube.com/watch?v=D-O5uXgodOI
 
-58.  How To Install Netbeans IDE on Ubuntu 20.04 LTS  (2021).ahk
+How To Install Netbeans IDE on Ubuntu 20.04 LTS  (2021)
 https://www.youtube.com/watch?v=2mc3baeuvJs
 
-59.  How to Install NetBeans IDE on Ubuntu Linux.ahk
+How to Install NetBeans IDE on Ubuntu Linux
 https://www.youtube.com/watch?v=8rrh3T60Cic
 
-60.  How to Install Network Simulator 2 ( ns2 ) on Ubuntu Linux.ahk
+How to Install Network Simulator 2 ( ns2 ) on Ubuntu Linux
 https://www.youtube.com/watch?v=4Dh7MubQ_5Q
 
-61.  How to Install nginx server on Ubuntu.ahk
+How to Install nginx server on Ubuntu
 https://www.youtube.com/watch?v=hlyKRQcqgFo
 
-62.  How to Install Node.js on Ubuntu.ahk
+How to Install Node.js on Ubuntu
 https://www.youtube.com/watch?v=WeEKAhEm67Q
 
-63.  How to Install Notepad++ in Ubuntu Linux.ahk
+How to Install Notepad++ in Ubuntu Linux
 https://www.youtube.com/watch?v=UzqVxdD7Ae4
 
-64.  How To Install OpenCV 4 for Python on Ubuntu 18.04 Linux  Ubuntu 20.04 LTS.ahk
+How To Install OpenCV 4 for Python on Ubuntu 18.04 Linux  Ubuntu 20.04 LTS
 https://www.youtube.com/watch?v=cGmGOi2kkJ4
 
-65.  How to Install OpenCV in Ubuntu for C  C++ (Ubuntu 18.04, Ubuntu 20.04 ).ahk
+How to Install OpenCV in Ubuntu for C  C++ (Ubuntu 18.04, Ubuntu 20.04 )
 https://www.youtube.com/watch?v=6pABIQl1ZP0
 
-66.  How to install Oracle Java JDK on Ubuntu Linux (18.04 LTS or 20.04 LTS).ahk
+How to install Oracle Java JDK on Ubuntu Linux (18.04 LTS or 20.04 LTS)
 https://www.youtube.com/watch?v=VrOhA-I3aFs
 
-67.  How to install Package build-essential on Ubuntu Linux.ahk
+How to install Package build-essential on Ubuntu Linux
 https://www.youtube.com/watch?v=h-AAT72G_ps
 
-68.  How to Install Parrot Security OS on VirtualBox.ahk
+How to Install Parrot Security OS on VirtualBox
 https://www.youtube.com/watch?v=yPaZp-BAr_Q
 
-69.  How to install PERL on Ubuntu Linux + perl editor SciTE.ahk
+How to install PERL on Ubuntu Linux + perl editor SciTE
 https://www.youtube.com/watch?v=gxHqJFl72fI
 
-70.  How to install putty (SSH and telnet client) in ubuntu Linux.ahk
+How to install putty (SSH and telnet client) in ubuntu Linux
 https://www.youtube.com/watch?v=cAMTHwrw9X4
 
-71.  How to install PyCharm on Ubuntu 20.04 LTS Linux.ahk
+How to install PyCharm on Ubuntu 20.04 LTS Linux
 https://www.youtube.com/watch?v=15daSz2QExo
 
-72.  How to Install Python 3.3 on Ubuntu Linux.ahk
+How to Install Python 3.3 on Ubuntu Linux
 https://www.youtube.com/watch?v=sKiDjO_0dCQ
 
-73.  How to Install Scala and SBT on Ubuntu 20.04  Ubuntu 18.04 LTS.ahk
+How to Install Scala and SBT on Ubuntu 20.04  Ubuntu 18.04 LTS
 https://www.youtube.com/watch?v=uYcSYCGITeU
 
-74.  How to install Skype on Ubuntu Linux.ahk
+How to install Skype on Ubuntu Linux
 https://www.youtube.com/watch?v=oDaYWoNxhpg
 
-75.  How to install SqLite database in Ubuntu Linux.ahk
+How to install SqLite database in Ubuntu Linux
 https://www.youtube.com/watch?v=C16QgidWZsU
 
-76.  How to Install TeamViewer (remote desktop) Version on Ubuntu.ahk
+How to Install TeamViewer (remote desktop) Version on Ubuntu
 https://www.youtube.com/watch?v=sFcSQVYu3zk
 
-77.  How To Install The Latest Ubuntu Tweak In Ubuntu Linux.ahk
+How To Install The Latest Ubuntu Tweak In Ubuntu Linux
 https://www.youtube.com/watch?v=JdaMqr55EWY
 
-78.  How to install Ubuntu 16.04 in VMware Player (Virtual Machine).ahk
+How to install Ubuntu 16.04 in VMware Player (Virtual Machine)
 https://www.youtube.com/watch?v=AlOcHa_KB0k
 
-79.  How to install Ubuntu 16.04 LTS on Oracle Virtual Box.ahk
+How to install Ubuntu 16.04 LTS on Oracle Virtual Box
 https://www.youtube.com/watch?v=amF-m8Z3hqI
 
-80.  How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8  Windows 10.ahk
+How to Install Ubuntu 16.04 LTS on VirtualBox in Windows 8  Windows 10
 https://www.youtube.com/watch?v=GGorVpzZQwA
 
-81.  How to Install Ubuntu 16.04 LTS on VMware in Windows 8  Windows 10.ahk
+How to Install Ubuntu 16.04 LTS on VMware in Windows 8  Windows 10
 https://www.youtube.com/watch?v=Rc0JxFEcnBs
 
-82.  How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10  Windows 8.ahk
+How to Install Ubuntu 18.04 LTS on VirtualBox in Windows 10  Windows 8
 https://www.youtube.com/watch?v=QbmRXJJKsvs
 
-83.  How to Install Ubuntu 18.04 LTS on VMware Workstation Player with VMware Tools.ahk
+How to Install Ubuntu 18.04 LTS on VMware Workstation Player with VMware Tools
 https://www.youtube.com/watch?v=lIhRkea8LpA
 
-84.  How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10.ahk
+How to Install Ubuntu 20.04 LTS on VirtualBox in Windows 10
 https://www.youtube.com/watch?v=x5MhydijWmc
 
-85.  How to install Visual Studio Code on Ubuntu Linux.ahk
+How to install Visual Studio Code on Ubuntu Linux
 https://www.youtube.com/watch?v=uYE0XrM-VZA
 
-86.  How To Install VMware Player In Ubuntu (to run Windows and other OS in Ubuntu).ahk
+How To Install VMware Player In Ubuntu (to run Windows and other OS in Ubuntu)
 https://www.youtube.com/watch?v=wjarGUJhcoM
 
-87.  How To Install VMware Player on a Windows.ahk
+How To Install VMware Player on a Windows
 https://www.youtube.com/watch?v=QvSpGwVMOS8
 
-88.  How to install Wine to Run Windows applications on Linux Ubuntu.ahk
+How to install Wine to Run Windows applications on Linux Ubuntu
 https://www.youtube.com/watch?v=wdfiZuPmxTc
 
-89.  How to install XAMPP on Ubuntu 20.04  Ubuntu 18.04 (Linux).ahk
+How to install XAMPP on Ubuntu 20.04  Ubuntu 18.04 (Linux)
 https://www.youtube.com/watch?v=R5CUn5wGQGg
 
-90.  How to Install, Build and Use the Boost C++ libraries in eclipse IDE on ubuntu.ahk
+How to Install, Build and Use the Boost C++ libraries in eclipse IDE on ubuntu
 https://www.youtube.com/watch?v=z2o8wqhVh_M
 
-91.  How to Make Ubuntu 20.04 Bootable USB Drive.ahk
+How to Make Ubuntu 20.04 Bootable USB Drive
 https://www.youtube.com/watch?v=X_fDdUgqIUQ
 
-92.  How to manually install Adobe Flash in Ubuntu Linux.ahk
+How to manually install Adobe Flash in Ubuntu Linux
 https://www.youtube.com/watch?v=M-5NEWPLWEU
 
-93.  How To Put Ubuntu on Flash Drive using Windows.ahk
+How To Put Ubuntu on Flash Drive using Windows
 https://www.youtube.com/watch?v=mOHM-H6YUew
 
-94.  How to Reset Root Password On Ubuntu 18.04  20.04  LTS.ahk
+How to Reset Root Password On Ubuntu 18.04  20.04  LTS
 https://www.youtube.com/watch?v=m3rbpR9uuHA
 
-95.  How to Run LinuxBash on Windows 10  Windows 10 Bash & Linux Subsystem Setup.ahk
+How to Run LinuxBash on Windows 10  Windows 10 Bash & Linux Subsystem Setup
 https://www.youtube.com/watch?v=1ap3hL-UR9I
 
-96.  How to Set up Virtual Box and Vagrant on Windows.ahk
+How to Set up Virtual Box and Vagrant on Windows
 https://www.youtube.com/watch?v=mPBWWu7sZU4
 
-97.  How to Share Folders in Ubuntu Guest with Windows 7 Host using VirtualBox.ahk
+How to Share Folders in Ubuntu Guest with Windows 7 Host using VirtualBox
 https://www.youtube.com/watch?v=I5cV0V7vLJw
 
-98.  How To Test 200+ Linux Distributions Without Installing them.ahk
+How To Test 200+ Linux Distributions Without Installing them
 https://www.youtube.com/watch?v=f_CWdtoTMKg
 
-99.  How to use Cmake with Qt Creator for Building C++ programs.ahk
+How to use Cmake with Qt Creator for Building C++ programs
 https://www.youtube.com/watch?v=XFgkk9hBkQc
 
-100.  How to use Ubuntu - Ubuntu Tutorial for Beginners.ahk
+How to use Ubuntu - Ubuntu Tutorial for Beginners
 https://www.youtube.com/watch?v=PTaL1s3YJPY
 
-101.  How to Use VirtualBox  Beginners Guide to VirtualBox.ahk
+How to Use VirtualBox  Beginners Guide to VirtualBox
 https://www.youtube.com/watch?v=VZJ6KZUc25M
 
-102.  How to use VMware Linux Mint in Full Screen with VMware Tools.ahk
+How to use VMware Linux Mint in Full Screen with VMware Tools
 https://www.youtube.com/watch?v=fhX7cHfXtCo
 
-103.  Increase screen resolution for Ubuntu when using VirtualBox.ahk
+Increase screen resolution for Ubuntu when using VirtualBox
 https://www.youtube.com/watch?v=l03rU5zwu_w
 
-104.  Install eclipse cdt plugin for CC++ Program in Eclipse IDE for Ubuntu Linux.ahk
+Install eclipse cdt plugin for CC++ Program in Eclipse IDE for Ubuntu Linux
 https://www.youtube.com/watch?v=jXvhHzQgW0M
 
-105.  Install GIMP image editor in Ubuntu Linux.ahk
+Install GIMP image editor in Ubuntu Linux
 https://www.youtube.com/watch?v=HVxcw9sPPvg
 
-106.  Install Linux Ubuntu on Oracle VirtualBox in Windows 8  Windows 8.1.ahk
+Install Linux Ubuntu on Oracle VirtualBox in Windows 8  Windows 8.1
 https://www.youtube.com/watch?v=WAIBI3dOmLo
 
-107.  Install Linux Ubuntu on virtualbox in windows 7  windows 8.ahk
+Install Linux Ubuntu on virtualbox in windows 7  windows 8
 https://www.youtube.com/watch?v=rt8wrKBKrt0
 
-108.  Install MongoDB on Ubuntu.ahk
+Install MongoDB on Ubuntu
 https://www.youtube.com/watch?v=o3u97Vry2bE
 
-109.  Install PyCharm Python IDE on Ubuntu Linux + Create and Run First Project.ahk
+Install PyCharm Python IDE on Ubuntu Linux + Create and Run First Project
 https://www.youtube.com/watch?v=R4hQkcjDbDw
 
-110.  Install Wine on Ubuntu 20.04 LTS Focal Fossa Linux  Running Windows Programs on Linux.ahk
+Install Wine on Ubuntu 20.04 LTS Focal Fossa Linux  Running Windows Programs on Linux
 https://www.youtube.com/watch?v=Wx8NbZEAPNM
 
-111.  Installing Eclipse IDE in Linux Ubuntu.ahk
+Installing Eclipse IDE in Linux Ubuntu
 https://www.youtube.com/watch?v=f8BpSf9EJ68
 
-112.  Installing Eclipse IDE with CC++ plugin(or CDT) in Ubuntu Linux.ahk
+Installing Eclipse IDE with CC++ plugin(or CDT) in Ubuntu Linux
 https://www.youtube.com/watch?v=ckSOqSSSB6w
 
-113.  Installing Eclipse in Linux Ubuntu.ahk
+Installing Eclipse in Linux Ubuntu
 https://www.youtube.com/watch?v=mrHRX5w8d84
 
-114.  Installing Jetbrains Intellij IDEA on Ubuntu and Creating First Hello World.ahk
+Installing Jetbrains Intellij IDEA on Ubuntu and Creating First Hello World
 https://www.youtube.com/watch?v=VBkjXV1aSRA
 
-115.  Installing OpenSSH in Ubuntu and Connect to Ubuntu from Windows using SSH.ahk
+Installing OpenSSH in Ubuntu and Connect to Ubuntu from Windows using SSH
 https://www.youtube.com/watch?v=ur-ctfgzGxs
 
-116.  Linux Command Line Tutorial  Learn the Bash Command Line  Linux Terminal Tutorial.ahk
+Linux Command Line Tutorial  Learn the Bash Command Line  Linux Terminal Tutorial
 https://www.youtube.com/watch?v=GFGImSdJNWk
 
-117.  Linux Terminal Tutorial - Basic Terminal Commands (Ubuntu , Linux Mint , Debian ..).ahk
+Linux Terminal Tutorial - Basic Terminal Commands (Ubuntu , Linux Mint , Debian ..)
 https://www.youtube.com/watch?v=vhZLTp6N4XA
 
-118.  Microsoft Visual Studio Code in Ubuntu Linux.ahk
+Microsoft Visual Studio Code in Ubuntu Linux
 https://www.youtube.com/watch?v=aY4Rhmv5P_Q
 
-119.  Please Support ProgrammingKnowledge .....ahk
+Please Support ProgrammingKnowledge ....
 https://www.youtube.com/watch?v=lMyknvJOb7s
 
-120.  scp command - SCP to Securely Transfer FilesFolders in Linux.ahk
+scp command - SCP to Securely Transfer FilesFolders in Linux
 https://www.youtube.com/watch?v=fmMg6cyww14
 
-121.  Shell Scripting Tutorial for Beginners 1 -  Introduction.ahk
+Shell Scripting Tutorial for Beginners 1 -  Introduction
 https://www.youtube.com/watch?v=cQepf9fY6cE
 
-122.  Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations.ahk
+Shell Scripting Tutorial for Beginners 10 - Perform arithmetic operations
 https://www.youtube.com/watch?v=kr3WP_-bu8A
 
-123.  Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash  bc Command.ahk
+Shell Scripting Tutorial for Beginners 11 - Floating point math operations in bash  bc Command
 https://www.youtube.com/watch?v=yqpY-Wk-i9k
 
-124.  Shell Scripting Tutorial for Beginners 12 - The case statement.ahk
+Shell Scripting Tutorial for Beginners 12 - The case statement
 https://www.youtube.com/watch?v=dW3oYQbNFyI
 
-125.  Shell Scripting Tutorial for Beginners 13 - The case statement Example.ahk
+Shell Scripting Tutorial for Beginners 13 - The case statement Example
 https://www.youtube.com/watch?v=dqaMU4v6KvQ
 
-126.  Shell Scripting Tutorial for Beginners 14 - Array variables.ahk
+Shell Scripting Tutorial for Beginners 14 - Array variables
 https://www.youtube.com/watch?v=p4ZHbf4_6IU
 
-127.  Shell Scripting Tutorial for Beginners 15 - WHILE Loops.ahk
+Shell Scripting Tutorial for Beginners 15 - WHILE Loops
 https://www.youtube.com/watch?v=iwEteYwKDfE
 
-128.  Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops.ahk
+Shell Scripting Tutorial for Beginners 16 - using sleep and open terminal with WHILE Loops
 https://www.youtube.com/watch?v=L2eaBxAoMfQ
 
-129.  Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash.ahk
+Shell Scripting Tutorial for Beginners 17 - Read a file content in Bash
 https://www.youtube.com/watch?v=A-rBp1OJSH4
 
-130.  Shell Scripting Tutorial for Beginners 18 - UNTIL loop.ahk
+Shell Scripting Tutorial for Beginners 18 - UNTIL loop
 https://www.youtube.com/watch?v=PgVIvWIi89I
 
-131.  Shell Scripting Tutorial for Beginners 19 - FOR loop.ahk
+Shell Scripting Tutorial for Beginners 19 - FOR loop
 https://www.youtube.com/watch?v=mhhAbETJpag
 
-132.  Shell Scripting Tutorial for Beginners 2 - using Variables and Comments.ahk
+Shell Scripting Tutorial for Beginners 2 - using Variables and Comments
 https://www.youtube.com/watch?v=vQv4W-JfrmQ
 
-133.  Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands.ahk
+Shell Scripting Tutorial for Beginners 20 - use FOR loop to execute commands
 https://www.youtube.com/watch?v=qnmlnu-J3_g
 
-134.  Shell Scripting Tutorial for Beginners 21 - Select loop.ahk
+Shell Scripting Tutorial for Beginners 21 - Select loop
 https://www.youtube.com/watch?v=k3yTt0V01Mo
 
-135.  Shell Scripting Tutorial for Beginners 22 - Break and continue.ahk
+Shell Scripting Tutorial for Beginners 22 - Break and continue
 https://www.youtube.com/watch?v=OOG076Z5SU8
 
-136.  Shell Scripting Tutorial for Beginners 23 - Functions.ahk
+Shell Scripting Tutorial for Beginners 23 - Functions
 https://www.youtube.com/watch?v=kvQpx0q3qhY
 
-137.  Shell Scripting Tutorial for Beginners 24 - Local variables.ahk
+Shell Scripting Tutorial for Beginners 24 - Local variables
 https://www.youtube.com/watch?v=16T4e4DME8I
 
-138.  Shell Scripting Tutorial for Beginners 25 - Function Example.ahk
+Shell Scripting Tutorial for Beginners 25 - Function Example
 https://www.youtube.com/watch?v=x8Zbspqm_x4
 
-139.  Shell Scripting Tutorial for Beginners 26 - Readonly command.ahk
+Shell Scripting Tutorial for Beginners 26 - Readonly command
 https://www.youtube.com/watch?v=EcldWxfoEmw
 
-140.  Shell Scripting Tutorial for Beginners 3 - Read User Input.ahk
+Shell Scripting Tutorial for Beginners 3 - Read User Input
 https://www.youtube.com/watch?v=AcSkkNAsGCY
 
-141.  Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script.ahk
+Shell Scripting Tutorial for Beginners 4 - Pass Arguments to a Bash-Script
 https://www.youtube.com/watch?v=BjBBfmDRakg
 
-142.  Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else).ahk
+Shell Scripting Tutorial for Beginners 5 - If Statement ( If then , If then else, If elif else)
 https://www.youtube.com/watch?v=OO2Avn1g5Tw
 
-143.  Shell Scripting Tutorial for Beginners 6 - File test operators.ahk
+Shell Scripting Tutorial for Beginners 6 - File test operators
 https://www.youtube.com/watch?v=uVi5o38NGi0
 
-144.  Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file.ahk
+Shell Scripting Tutorial for Beginners 7 - How to append output to the end of text file
 https://www.youtube.com/watch?v=0Z72-LpvwjU
 
-145.  Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator.ahk
+Shell Scripting Tutorial for Beginners 8 -  Logical 'AND' Operator
 https://www.youtube.com/watch?v=m4G3MLK8l4s
 
-146.  Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator.ahk
+Shell Scripting Tutorial for Beginners 9 -  Logical 'OR' Operator
 https://www.youtube.com/watch?v=RtbeGJfssGQ
 
-147.  Top Websites for Coding Interview Preparation in 2021.ahk
+Top Websites for Coding Interview Preparation in 2021
 https://www.youtube.com/watch?v=wDnFjDjxW_0
 
-148.  Ubuntu Linux How to Change the Computer Name.ahk
+Ubuntu Linux How to Change the Computer Name
 https://www.youtube.com/watch?v=EaYtIGDKZc4
 
-149.  Using make and writing Makefile ( in C++ or C ).ahk
+Using make and writing Makefile ( in C++ or C )
 https://www.youtube.com/watch?v=aw9wHbFTnAQ
 
-150.  Vagrant Tutorial for Beginners 3 - vagrant init + vagrant up + vagrant ssh + vagrant destroy.ahk
+Vagrant Tutorial for Beginners 3 - vagrant init + vagrant up + vagrant ssh + vagrant destroy
 https://www.youtube.com/watch?v=PaI70u-DqXM
 
-151.  Visual C++ Tutorial 40 -Windows Forms Application Moving files from one directory to another.ahk
+Visual C++ Tutorial 40 -Windows Forms Application Moving files from one directory to another
 https://www.youtube.com/watch?v=g6dzTQIfa-k
 
-152.  Welcome to ProgrammingKnowledge Youtube Channel.ahk
+Welcome to ProgrammingKnowledge Youtube Channel
 https://www.youtube.com/watch?v=dA0ekFVYY7U
 
-153.  What Is JSON  JSON Crash Course.ahk
+What Is JSON  JSON Crash Course
 https://www.youtube.com/watch?v=KdweixONFyA
 
-154.  Which Programming Language Should You Learn First.ahk
+Which Programming Language Should You Learn First
 https://www.youtube.com/watch?v=AmTD9BaL6zY
 Ubuntu Linux Tutorials for Beginners

@@ -1,13 +1,13 @@
 
-1.  Qu Xiaosong
+Qu Xiaosong
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Q/Qu_Xiaosong/Qu_Xiaosong.txt
 
-2.  Qu Xixian
+Qu Xixian
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Q/Qu_Xixian/Qu_Xixian.txt
 
-3.  Quincy Porter
+Quincy Porter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Q/Quincy_Porter/Quincy_Porter.txt
 
-4.  Quirino Gasparini
+Quirino Gasparini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/Q/Quirino_Gasparini/Quirino_Gasparini.txt
 Q

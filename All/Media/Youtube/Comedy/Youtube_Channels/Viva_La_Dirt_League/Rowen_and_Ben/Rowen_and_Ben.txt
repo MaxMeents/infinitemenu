@@ -1,31 +1,31 @@
 
-1.  Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL).ahk
+Ammo - PUBG Logic (handing your teammate a loaded weapon)  Viva La Dirt League (VLDL)
 https://www.youtube.com/watch?v=kindPEFswmE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-2.  Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL).ahk
+Backpack - PUBG Logic (picking up two backpacks is difficult)  Viva La Dirt League (VLDL)
 https://www.youtube.com/watch?v=zFhDXSQl2VM&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-3.  Forgetting to mute your mic - Open Mic.ahk
+Forgetting to mute your mic - Open Mic
 https://www.youtube.com/watch?v=kA11NH4z1MA&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-4.  Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL).ahk
+Hacker - PUBG Logic (aimbot and wall hax are the worst)  Viva La Dirt League (VLDL)
 https://www.youtube.com/watch?v=ugJ9Ur6Ld64&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-5.  Health potion logic.ahk
+Health potion logic
 https://www.youtube.com/watch?v=VjXOwUnJzA0&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-6.  Passing items in cars is impossible - The Pass.ahk
+Passing items in cars is impossible - The Pass
 https://www.youtube.com/watch?v=OBoTlA0AhC8&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-7.  What crafting in games actually looks like - Crafting.ahk
+What crafting in games actually looks like - Crafting
 https://www.youtube.com/watch?v=RgxKIu05dKE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-8.  When a sniper is baiting you out.ahk
+When a sniper is baiting you out
 https://www.youtube.com/watch?v=KD9sMqp7bdE&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-9.  When the game gets hacked.ahk
+When the game gets hacked
 https://www.youtube.com/watch?v=4vu5Or-3vrI&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 
-10.  Where do you keep your horse - Horse Pocket.ahk
+Where do you keep your horse - Horse Pocket
 https://www.youtube.com/watch?v=zvEe3Y3B2cg&list=PL1SsxAbYj_1Y6CbEUxIHXqs43NFZuw9HR
 Rowen and Ben

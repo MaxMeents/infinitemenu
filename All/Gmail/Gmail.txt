@@ -1,22 +1,22 @@
 
-1.  1. Inbox.ahk
+1. Inbox
 https://mail.google.com/mail/u/0/#inbox
 
-2.  2. All Mail.ahk
+2. All Mail
 https://mail.google.com/mail/u/0/#all
 
-3.  3. Drafts.ahk
+3. Drafts
 https://mail.google.com/mail/u/0/#drafts
 
-4.  4. Sent.ahk
+4. Sent
 https://mail.google.com/mail/u/0/#sent
 
-5.  5. Important.ahk
+5. Important
 https://mail.google.com/mail/u/0/#imp
 
-6.  6. Snoozed.ahk
+6. Snoozed
 https://mail.google.com/mail/u/0/#snoozed
 
-7.  7. Starred.ahk
+7. Starred
 https://mail.google.com/mail/u/0/#starred
 Gmail

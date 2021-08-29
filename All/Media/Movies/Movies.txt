@@ -1,7 +1,13 @@
 
-1.  Funniest Movie Scenes
+Funniest Movie Scenes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Funniest_Movie_Scenes/Funniest_Movie_Scenes.txt
 
-2.  Greatest Movies of All Time
+Greatest Movies of All Time
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Greatest_Movies_of_All_Time/Greatest_Movies_of_All_Time.txt
+
+Netflix - List of Genres - Movies
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Netflix_-_List_of_Genres_-_Movies/Netflix_-_List_of_Genres_-_Movies.txt
+
+Reelgood - Amazon Prime - Movie Genres
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Reelgood_-_Amazon_Prime_-_Movie_Genres/Reelgood_-_Amazon_Prime_-_Movie_Genres.txt
 Movies

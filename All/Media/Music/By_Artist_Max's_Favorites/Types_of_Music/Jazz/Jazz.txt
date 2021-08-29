@@ -1,67 +1,67 @@
 
-1.  Acid Jazz
+Acid Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Acid_Jazz/Acid_Jazz.txt
 
-2.  Avant-Garde Jazz
+Avant-Garde Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Avant-Garde_Jazz/Avant-Garde_Jazz.txt
 
-3.  Bebop
+Bebop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Bebop/Bebop.txt
 
-4.  Big Band
+Big Band
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Big_Band/Big_Band.txt
 
-5.  Blue Note
+Blue Note
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Blue_Note/Blue_Note.txt
 
-6.  Contemporary Jazz
+Contemporary Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Contemporary_Jazz/Contemporary_Jazz.txt
 
-7.  Cool
+Cool
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Cool/Cool.txt
 
-8.  Crossover Jazz
+Crossover Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Crossover_Jazz/Crossover_Jazz.txt
 
-9.  Dixieland
+Dixieland
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Dixieland/Dixieland.txt
 
-10.  Ethio-jazz
+Ethio-jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Ethio-jazz/Ethio-jazz.txt
 
-11.  Free Jazz
+Free Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Free_Jazz/Free_Jazz.txt
 
-12.  Fusion
+Fusion
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Fusion/Fusion.txt
 
-13.  Gypsy Jazz
+Gypsy Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Gypsy_Jazz/Gypsy_Jazz.txt
 
-14.  Hard Bop
+Hard Bop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Hard_Bop/Hard_Bop.txt
 
-15.  Jazz-Funk
+Jazz-Funk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Jazz-Funk/Jazz-Funk.txt
 
-16.  Latin Jazz
+Latin Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Latin_Jazz/Latin_Jazz.txt
 
-17.  Mainstream Jazz
+Mainstream Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Mainstream_Jazz/Mainstream_Jazz.txt
 
-18.  Modal Jazz
+Modal Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Modal_Jazz/Modal_Jazz.txt
 
-19.  Ragtime
+Ragtime
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Ragtime/Ragtime.txt
 
-20.  Smooth Jazz
+Smooth Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Smooth_Jazz/Smooth_Jazz.txt
 
-21.  Third Stream
+Third Stream
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Third_Stream/Third_Stream.txt
 
-22.  Trad Jazz
+Trad Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Trad_Jazz/Trad_Jazz.txt
 Jazz

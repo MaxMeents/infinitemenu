@@ -1,43 +1,43 @@
 
-1.  1.  2   Introduction to Algebra and Geometry.ahk
+1.  2   Introduction to Algebra and Geometry
 https://www.youtube.com/watch?v=lFLPlZ9PBZo
 
-2.  1. 10   Multiple Operations with Polynomials.ahk
+1. 10   Multiple Operations with Polynomials
 https://www.youtube.com/watch?v=rRY44YW3npQ
 
-3.  1. 11   Rational Exponents.ahk
+1. 11   Rational Exponents
 https://www.youtube.com/watch?v=KbXLQ49dM08
 
-4.  1. 12   Simplified Radical Form.ahk
+1. 12   Simplified Radical Form
 https://www.youtube.com/watch?v=sxTDIFTrC_4
 
-5.  1. 13   Square Root Addition and Subtraction.ahk
+1. 13   Square Root Addition and Subtraction
 https://www.youtube.com/watch?v=aBjjpr3joFw
 
-6.  1. 14   Multiplication Involving Square Roots.ahk
+1. 14   Multiplication Involving Square Roots
 https://www.youtube.com/watch?v=wu6bPKJ8QHw
 
-7.  1. 15   Rationalizing a Denominator.ahk
+1. 15   Rationalizing a Denominator
 https://www.youtube.com/watch?v=I3eaAgwacQs
 
-8.  1. 3   The Set of Real Numbers.ahk
+1. 3   The Set of Real Numbers
 https://www.youtube.com/watch?v=OtTcA9XmMag
 
-9.  1. 4   Properties of Real Numbers.ahk
+1. 4   Properties of Real Numbers
 https://www.youtube.com/watch?v=2vKIrIaGip0
 
-10.  1. 5   Scientific Notation.ahk
+1. 5   Scientific Notation
 https://www.youtube.com/watch?v=eyOn5Ww-_94
 
-11.  1. 6   Properties of Integer Exponents.ahk
+1. 6   Properties of Integer Exponents
 https://www.youtube.com/watch?v=413JdBdJ8Z8
 
-12.  1. 7   Adding and Subtracting Polynomials.ahk
+1. 7   Adding and Subtracting Polynomials
 https://www.youtube.com/watch?v=uDipBv7k-00
 
-13.  1. 8   Multiplication of Binomials.ahk
+1. 8   Multiplication of Binomials
 https://www.youtube.com/watch?v=ogvh9ADUfY0
 
-14.  1. 9   Multiplication of Polynomials.ahk
+1. 9   Multiplication of Polynomials
 https://www.youtube.com/watch?v=_xPlCtYh1BI
 pre calculus 1 week lessons

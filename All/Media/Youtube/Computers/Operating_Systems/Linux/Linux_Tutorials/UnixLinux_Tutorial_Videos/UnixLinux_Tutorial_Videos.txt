@@ -1,142 +1,142 @@
 
-1.  Components of UNIX, Execution Flow, Basic Commands with Online Terminal  Session - 2  By DURGA.ahk
+Components of UNIX, Execution Flow, Basic Commands with Online Terminal  Session - 2  By DURGA
 https://www.youtube.com/watch?v=2zfh8eC7cY0
 
-2.  File System Navigation Commands & LINUX File System Hierarchy  Session - 4  By DURGA Sir.ahk
+File System Navigation Commands & LINUX File System Hierarchy  Session - 4  By DURGA Sir
 https://www.youtube.com/watch?v=Aqx97d4NSbg
 
-3.  Introduction, Characteristics & Flavours  Session - 1  By DURGA Sir.ahk
+Introduction, Characteristics & Flavours  Session - 1  By DURGA Sir
 https://www.youtube.com/watch?v=txRD_bK062Y
 
-4.  LINUX Classes  Session - 15 View Content of Files  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 15 View Content of Files  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=FuzpoZwDcZU
 
-5.  LINUX Classes  Session - 21 wc command (word count command)  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 21 wc command (word count command)  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=hmPHZBR-9Wk
 
-6.  LINUX Classes  Session - 24 Input, Output and Error Redirection  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 24 Input, Output and Error Redirection  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=f_B6BIxlYFw
 
-7.  LINUX Classes  Session - 25 Piping and Importance of tee and xargs commands  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 25 Piping and Importance of tee and xargs commands  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=Ko3VktocAQw
 
-8.  LINUX Classes  Session - 27 Command Aliasing  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 27 Command Aliasing  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=2I-Qfa0HkBQ
 
-9.  LINUX Classes  Session - 35 grep vs egrep vs fgrep commands  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 35 grep vs egrep vs fgrep commands  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=y9ViEtXctPc
 
-10.  LINUX Classes  Session - 39 cut command and various options with clear examples  By Mr. DURGA.ahk
+LINUX Classes  Session - 39 cut command and various options with clear examples  By Mr. DURGA
 https://www.youtube.com/watch?v=eFD57jbd_Gk
 
-11.  LINUX Classes  Session - 40 paste command with clear examples  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 40 paste command with clear examples  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=D9u_ytq_0xQ
 
-12.  LINUX Classes  Session - 41 tr command with clear examples  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 41 tr command with clear examples  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=tLDjHVBqEi4
 
-13.  LINUX Classes  Session - 54 Variable Substitution and Command Substitution  By DURGA Sir.ahk
+LINUX Classes  Session - 54 Variable Substitution and Command Substitution  By DURGA Sir
 https://www.youtube.com/watch?v=eLIMfM88hME
 
-14.  LINUX Classes  Session - 6 Virtual Box and Ubuntu Installation Part-1  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 6 Virtual Box and Ubuntu Installation Part-1  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=ZF8i52eM5jA
 
-15.  LINUX Classes  Session - 69 Arrays - Multiple Demo Scripts to get Perfection  By DURGA Sir.ahk
+LINUX Classes  Session - 69 Arrays - Multiple Demo Scripts to get Perfection  By DURGA Sir
 https://www.youtube.com/watch?v=nqEJ9PUHwbo
 
-16.  LINUX Classes  Session - 7. Virtual Box and Ubuntu Installation Part-2  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 7. Virtual Box and Ubuntu Installation Part-2  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=ntxHMilUnBk
 
-17.  LINUX Classes  Session - 8  ls command and its options  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 8  ls command and its options  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=rpxT2L3t1a8
 
-18.  LINUX Classes  Session - 9 Date and Cal commands  By Mr. DURGA Sir.ahk
+LINUX Classes  Session - 9 Date and Cal commands  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=NmJyVY1Mvww
 
-19.  LINUX Classes  Session-58 Control Statements - if, elif, else  By DURGA Sir.ahk
+LINUX Classes  Session-58 Control Statements - if, elif, else  By DURGA Sir
 https://www.youtube.com/watch?v=NUbYfcGHrGk
 
-20.  LINUX Classes  Session-62 Case Statement and Demo Scripts  By DURGA Sir.ahk
+LINUX Classes  Session-62 Case Statement and Demo Scripts  By DURGA Sir
 https://www.youtube.com/watch?v=6Q3W8UPOZPg
 
-21.  LINUX Classes  Session-65 Excellent Scripts by using while, break and continue  By DURGA Sir.ahk
+LINUX Classes  Session-65 Excellent Scripts by using while, break and continue  By DURGA Sir
 https://www.youtube.com/watch?v=AcgBYJ3-eiw
 
-22.  LINUX Classes  Session-75 Shell Scripting Project-1 Secret Agent Application  By DURGA Sir.ahk
+LINUX Classes  Session-75 Shell Scripting Project-1 Secret Agent Application  By DURGA Sir
 https://www.youtube.com/watch?v=lw7UCto9QAQ
 
-23.  LINUX ClassesSession-29 How to use Regular Expressions with Linux Commands-28 ExamplesBy DURGA.ahk
+LINUX ClassesSession-29 How to use Regular Expressions with Linux Commands-28 ExamplesBy DURGA
 https://www.youtube.com/watch?v=H9EDJWTmZGM
 
-24.  LINUX ClassesSession-32 JACKPOT Assignment, Differences between find & locate commandsBy DURGA.ahk
+LINUX ClassesSession-32 JACKPOT Assignment, Differences between find & locate commandsBy DURGA
 https://www.youtube.com/watch?v=6t9R2t424HU
 
-25.  LINUX ClassesSession-56 Reading Dynamic Data from the user by using read keywordBy DURGA Sir.ahk
+LINUX ClassesSession-56 Reading Dynamic Data from the user by using read keywordBy DURGA Sir
 https://www.youtube.com/watch?v=wUkIlYbo5P8
 
-26.  Session-49. What is Shell, Types of Shell, Default Shell & Switching between Shells By DURGA Sir.ahk
+Session-49. What is Shell, Types of Shell, Default Shell & Switching between Shells By DURGA Sir
 https://www.youtube.com/watch?v=FsUcY5Tm6Us
 
-27.  Session-50 How to Write & Run First Shell Script and Importance of Shabang  By DURGA Sir.ahk
+Session-50 How to Write & Run First Shell Script and Importance of Shabang  By DURGA Sir
 https://www.youtube.com/watch?v=Nujs7VhT9zo
 
-28.  Session-71 Shell Script Functions - Several Example Scripts with Clear Explanation  By DURGA Sir.ahk
+Session-71 Shell Script Functions - Several Example Scripts with Clear Explanation  By DURGA Sir
 https://www.youtube.com/watch?v=wmdiIv2Z3rA
 
-29.  Session-72 Shell Script Functions- Demo Scripts on Prime Numbers and many more  By DURGA Sir.ahk
+Session-72 Shell Script Functions- Demo Scripts on Prime Numbers and many more  By DURGA Sir
 https://www.youtube.com/watch?v=dr3kJmUZnJQ
 
-30.  Session-77 Shell Scripting Project-3 DURGASOFT Book Management Application  By DURGA Sir.ahk
+Session-77 Shell Scripting Project-3 DURGASOFT Book Management Application  By DURGA Sir
 https://www.youtube.com/watch?v=hYa7fHd1Gxs
 
-31.  Types of Files in LINUX  Session - 3  By DURGA Sir.ahk
+Types of Files in LINUX  Session - 3  By DURGA Sir
 https://www.youtube.com/watch?v=-Y4bjL-fBMY
 
-32.  UNIXLINUX For Beginners  Live Session - 1  By Durga Sir.ahk
+UNIXLINUX For Beginners  Live Session - 1  By Durga Sir
 https://www.youtube.com/watch?v=ALU8LhiCWGw
 
-33.  UNIXLINUX for Beginners  Live Stream - 2  By DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 2  By DURGA Sir
 https://www.youtube.com/watch?v=D1QHv8UFUi0
 
-34.  UNIXLINUX for Beginners  Live Stream - 3  By DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 3  By DURGA Sir
 https://www.youtube.com/watch?v=XTSTjCQTwI4
 
-35.  UNIXLINUX for Beginners  Live Stream - 4  By DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 4  By DURGA Sir
 https://www.youtube.com/watch?v=-h021IMtP4g
 
-36.  UNIXLINUX for Beginners  Live Stream - 5  By Mr. DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 5  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=qTMRu3-a5pg
 
-37.  UNIXLINUX for Beginners  Live Stream - 6  By Mr. DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 6  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=nmtRvKs0LRw
 
-38.  UNIXLINUX for Beginners  Live Stream - 7  By Mr. DURGA Sir.ahk
+UNIXLINUX for Beginners  Live Stream - 7  By Mr. DURGA Sir
 https://www.youtube.com/watch?v=AMPKb-sEZXc
 
-39.  UnixLinux Tutorials  Beautiful Stunt In Redirection  by Durga Sir.ahk
+UnixLinux Tutorials  Beautiful Stunt In Redirection  by Durga Sir
 https://www.youtube.com/watch?v=RiXzHmBrO28
 
-40.  UnixLinux Tutorials  Finding Biggest of 3 Numbers  by Durga Sir.ahk
+UnixLinux Tutorials  Finding Biggest of 3 Numbers  by Durga Sir
 https://www.youtube.com/watch?v=SYzHB3_rmh4
 
-41.  UnixLinux Tutorials  How to Write and Run PYTHON program in LINUX    by Durga Sir.ahk
+UnixLinux Tutorials  How to Write and Run PYTHON program in LINUX    by Durga Sir
 https://www.youtube.com/watch?v=gyhx6xFp1mg
 
-42.  UnixLinux Tutorials  Input,Output and Error Redirection In Simple Way  by DURGA Sir.ahk
+UnixLinux Tutorials  Input,Output and Error Redirection In Simple Way  by DURGA Sir
 https://www.youtube.com/watch?v=7VOoibeR_Pg
 
-43.  UnixLinux Tutorials  Shell Script for Digital Timer  by Durga Sir.ahk
+UnixLinux Tutorials  Shell Script for Digital Timer  by Durga Sir
 https://www.youtube.com/watch?v=BpxDkwiOFbI
 
-44.  UnixLinux Tutorials  The Comparison of Two Integer Numbers  by Durga Sir.ahk
+UnixLinux Tutorials  The Comparison of Two Integer Numbers  by Durga Sir
 https://www.youtube.com/watch?v=X8qi8ruJK34
 
-45.  UnixLinux Tutorials  The Funniest Example with if else  by Durgasir.ahk
+UnixLinux Tutorials  The Funniest Example with if else  by Durgasir
 https://www.youtube.com/watch?v=bVakgtBDP7o
 
-46.  UnixLinux Tutorials  Word Count (wc) Command in UNIXLINUX  by Durga Sir.ahk
+UnixLinux Tutorials  Word Count (wc) Command in UNIXLINUX  by Durga Sir
 https://www.youtube.com/watch?v=Jxybw9blgsM
 
-47.  You can find Sunny very easily in Linux !!! by Durga Sir.ahk
+You can find Sunny very easily in Linux !!! by Durga Sir
 https://www.youtube.com/watch?v=jxvoo7f7htE
 UnixLinux Tutorial Videos

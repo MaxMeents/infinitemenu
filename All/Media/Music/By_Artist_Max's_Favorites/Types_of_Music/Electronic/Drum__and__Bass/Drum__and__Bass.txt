@@ -1,40 +1,40 @@
 
-1.  Darkcore
+Darkcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Darkcore/Darkcore.txt
 
-2.  Darkstep
+Darkstep
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Darkstep/Darkstep.txt
 
-3.  Drumfunk
+Drumfunk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Drumfunk/Drumfunk.txt
 
-4.  Drumstep
+Drumstep
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Drumstep/Drumstep.txt
 
-5.  Hardstep
+Hardstep
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Hardstep/Hardstep.txt
 
-6.  Intelligent Drum and Bass
+Intelligent Drum and Bass
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Intelligent_Drum_and_Bass/Intelligent_Drum_and_Bass.txt
 
-7.  Jump-Up
+Jump-Up
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Jump-Up/Jump-Up.txt
 
-8.  Liquid Funk
+Liquid Funk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Liquid_Funk/Liquid_Funk.txt
 
-9.  Neurofunk
+Neurofunk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Neurofunk/Neurofunk.txt
 
-10.  Oldschool Jungle-
+Oldschool Jungle-
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Oldschool_Jungle-/Oldschool_Jungle-.txt
 
-11.  Raggacore
+Raggacore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Raggacore/Raggacore.txt
 
-12.  Sambass
+Sambass
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Sambass/Sambass.txt
 
-13.  Techstep
+Techstep
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Drum__and__Bass/Techstep/Techstep.txt
 Drum  and  Bass

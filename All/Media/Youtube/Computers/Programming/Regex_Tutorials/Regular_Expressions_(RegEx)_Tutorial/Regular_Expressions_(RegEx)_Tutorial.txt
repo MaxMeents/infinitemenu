@@ -1,49 +1,49 @@
 
-1.  Regular Expressions (RegEx) Tutorial #1 - What is RegEx.ahk
+Regular Expressions (RegEx) Tutorial #1 - What is RegEx
 https://www.youtube.com/watch?v=r6I-Ahc0HB4
 
-2.  Regular Expressions (RegEx) Tutorial #10 - Creating a Form (Start Code Tour).ahk
+Regular Expressions (RegEx) Tutorial #10 - Creating a Form (Start Code Tour)
 https://www.youtube.com/watch?v=m6iggPLGSMc
 
-3.  Regular Expressions (RegEx) Tutorial #11 - Making RegEx in JavaScript.ahk
+Regular Expressions (RegEx) Tutorial #11 - Making RegEx in JavaScript
 https://www.youtube.com/watch?v=v2_vk9GGq_w
 
-4.  Regular Expressions (RegEx) Tutorial #12 - Telephone RegEx.ahk
+Regular Expressions (RegEx) Tutorial #12 - Telephone RegEx
 https://www.youtube.com/watch?v=1yjlx2LRbYc
 
-5.  Regular Expressions (RegEx) Tutorial #13 - Testing a RegEx Pattern.ahk
+Regular Expressions (RegEx) Tutorial #13 - Testing a RegEx Pattern
 https://www.youtube.com/watch?v=vgmwEiT1wzc
 
-6.  Regular Expressions (RegEx) Tutorial #14 - Matching a Username.ahk
+Regular Expressions (RegEx) Tutorial #14 - Matching a Username
 https://www.youtube.com/watch?v=KGZJoMdWM6U
 
-7.  Regular Expressions (RegEx) Tutorial #15 - Email RegEx Pattern.ahk
+Regular Expressions (RegEx) Tutorial #15 - Email RegEx Pattern
 https://www.youtube.com/watch?v=QxjAOSUQjP0
 
-8.  Regular Expressions (RegEx) Tutorial #16 - Finishing Touches.ahk
+Regular Expressions (RegEx) Tutorial #16 - Finishing Touches
 https://www.youtube.com/watch?v=Eu1KRvw4tKg
 
-9.  Regular Expressions (RegEx) Tutorial #2 - Simple RegEx Patterns.ahk
+Regular Expressions (RegEx) Tutorial #2 - Simple RegEx Patterns
 https://www.youtube.com/watch?v=uaepGvA-iK4
 
-10.  Regular Expressions (RegEx) Tutorial #3 - Character Sets.ahk
+Regular Expressions (RegEx) Tutorial #3 - Character Sets
 https://www.youtube.com/watch?v=DC-zzUrg0Ws
 
-11.  Regular Expressions (RegEx) Tutorial #4 - Ranges.ahk
+Regular Expressions (RegEx) Tutorial #4 - Ranges
 https://www.youtube.com/watch?v=C_HTKPvXjEc
 
-12.  Regular Expressions (RegEx) Tutorial #5 - Repeating Characters.ahk
+Regular Expressions (RegEx) Tutorial #5 - Repeating Characters
 https://www.youtube.com/watch?v=Dvb7eT36hMM
 
-13.  Regular Expressions (RegEx) Tutorial #6 - Metacharacters.ahk
+Regular Expressions (RegEx) Tutorial #6 - Metacharacters
 https://www.youtube.com/watch?v=MwzIRleH47o
 
-14.  Regular Expressions (RegEx) Tutorial #7 - Special Characters.ahk
+Regular Expressions (RegEx) Tutorial #7 - Special Characters
 https://www.youtube.com/watch?v=ae38f8ZWObI
 
-15.  Regular Expressions (RegEx) Tutorial #8 - Starting & Ending Patterns.ahk
+Regular Expressions (RegEx) Tutorial #8 - Starting & Ending Patterns
 https://www.youtube.com/watch?v=RD3tMcFDjyo
 
-16.  Regular Expressions (RegEx) Tutorial #9 - Alternate Characters.ahk
+Regular Expressions (RegEx) Tutorial #9 - Alternate Characters
 https://www.youtube.com/watch?v=62ItDFG4UTM
 Regular Expressions (RegEx) Tutorial

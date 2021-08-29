@@ -1,40 +1,40 @@
 
-1.  x86_64 Linux Assembly #1 - Hello, World!.ahk
+x86_64 Linux Assembly #1 - Hello, World!
 https://www.youtube.com/watch?v=VQAKkuLL31g
 
-2.  x86_64 Linux Assembly #10 - Introduction to Files and File Permissions.ahk
+x86_64 Linux Assembly #10 - Introduction to Files and File Permissions
 https://www.youtube.com/watch?v=AwmhZUATGYM
 
-3.  x86_64 Linux Assembly #11 - Writing Files.ahk
+x86_64 Linux Assembly #11 - Writing Files
 https://www.youtube.com/watch?v=vXsUIX_Ozgc
 
-4.  x86_64 Linux Assembly #12 - Reading Files.ahk
+x86_64 Linux Assembly #12 - Reading Files
 https://www.youtube.com/watch?v=BljOGzRP_Ws
 
-5.  x86_64 Linux Assembly #13 - Pausing With Nanosleep.ahk
+x86_64 Linux Assembly #13 - Pausing With Nanosleep
 https://www.youtube.com/watch?v=bV0NJ7zvap8
 
-6.  x86_64 Linux Assembly #2 - Hello, World! Breakdown.ahk
+x86_64 Linux Assembly #2 - Hello, World! Breakdown
 https://www.youtube.com/watch?v=BWRR3Hecjao
 
-7.  x86_64 Linux Assembly #3 - Jumps, Calls, Comparisons.ahk
+x86_64 Linux Assembly #3 - Jumps, Calls, Comparisons
 https://www.youtube.com/watch?v=busHtSyx2-w
 
-8.  x86_64 Linux Assembly #4 - Getting User Input.ahk
+x86_64 Linux Assembly #4 - Getting User Input
 https://www.youtube.com/watch?v=VAy4FGHDx1I
 
-9.  x86_64 Linux Assembly #5 - Math Operations and the Stack.ahk
+x86_64 Linux Assembly #5 - Math Operations and the Stack
 https://www.youtube.com/watch?v=NFv7l3wQsZ4
 
-10.  x86_64 Linux Assembly #6 - Subroutine to Print Strings.ahk
+x86_64 Linux Assembly #6 - Subroutine to Print Strings
 https://www.youtube.com/watch?v=Fz7Ts9RN0o4
 
-11.  x86_64 Linux Assembly #7 - Macros.ahk
+x86_64 Linux Assembly #7 - Macros
 https://www.youtube.com/watch?v=mRTax0MLaok
 
-12.  x86_64 Linux Assembly #8 - Subroutine to Print Integers.ahk
+x86_64 Linux Assembly #8 - Subroutine to Print Integers
 https://www.youtube.com/watch?v=XuUD0WQ9kaE
 
-13.  x86_64 Linux Assembly #9 - Command Line Arguments.ahk
+x86_64 Linux Assembly #9 - Command Line Arguments
 https://www.youtube.com/watch?v=xtFs1yBVinc
 x86_64 Linux Assembly

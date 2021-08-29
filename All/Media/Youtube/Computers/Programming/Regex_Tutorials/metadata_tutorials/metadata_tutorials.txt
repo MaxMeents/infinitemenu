@@ -1,52 +1,52 @@
 
-1.  1.0 Overview.ahk
+1.0 Overview
 https://www.youtube.com/watch?v=eJ9H1SakPoA
 
-2.  Basic cURL Tutorial.ahk
+Basic cURL Tutorial
 https://www.youtube.com/watch?v=7XUibDYw4mc
 
-3.  Chunking - Natural Language Processing With Python and NLTK p.5.ahk
+Chunking - Natural Language Processing With Python and NLTK p.5
 https://www.youtube.com/watch?v=imPpT2Qo2sk
 
-4.  Coding for Librarians - Session 2.ahk
+Coding for Librarians - Session 2
 https://www.youtube.com/watch?v=Hm2-A-R9r04
 
-5.  Coding for Librarians - Session One.ahk
+Coding for Librarians - Session One
 https://www.youtube.com/watch?v=mKh3Vf51lY8
 
-6.  Digital Library Applications Data Models Omeka.ahk
+Digital Library Applications Data Models Omeka
 https://www.youtube.com/watch?v=-s9cevF6vrs
 
-7.  Getting Started with Omeka - A Tutorial.ahk
+Getting Started with Omeka - A Tutorial
 https://www.youtube.com/watch?v=FncO08PeK9o
 
-8.  Grep and Regex - BASH - Linux.ahk
+Grep and Regex - BASH - Linux
 https://www.youtube.com/watch?v=aZGUBSQDAdI
 
-9.  Metadata mapping Schema.org to JSON-LD.ahk
+Metadata mapping Schema.org to JSON-LD
 https://www.youtube.com/watch?v=s81d0PxMjlc
 
-10.  Metadata Standards.ahk
+Metadata Standards
 https://www.youtube.com/watch?v=8hPzWWx-Ung
 
-11.  Organizing and Personalizing  Online Digital Collections with Omeka.ahk
+Organizing and Personalizing  Online Digital Collections with Omeka
 https://www.youtube.com/watch?v=SEOk91rqCAc
 
-12.  RDA Webinar Aggregating and mapping Metadata (Dimitris Gavrilis).ahk
+RDA Webinar Aggregating and mapping Metadata (Dimitris Gavrilis)
 https://www.youtube.com/watch?v=XebQ4r-ruAM
 
-13.  REGEX Tutorial Regular Expressions Pt 2.ahk
+REGEX Tutorial Regular Expressions Pt 2
 https://www.youtube.com/watch?v=FCFdgymqpUI
 
-14.  REGEX Tutorial Regular Expressions Pt 3.ahk
+REGEX Tutorial Regular Expressions Pt 3
 https://www.youtube.com/watch?v=lvGtejG69zg
 
-15.  REGEX Tutorial Regular Expressions.ahk
+REGEX Tutorial Regular Expressions
 https://www.youtube.com/watch?v=DRR9fOXkfRE
 
-16.  Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text.ahk
+Regular Expressions (Regex) Tutorial How to Match Any Pattern of Text
 https://www.youtube.com/watch?v=sa-TUpSx1JA
 
-17.  The Ultimate Introduction to Web Scraping and Browser Automation.ahk
+The Ultimate Introduction to Web Scraping and Browser Automation
 https://www.youtube.com/watch?v=1UYBAn69Qrk
 metadata tutorials

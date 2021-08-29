@@ -1,52 +1,52 @@
 
-1.  RegEx in  Python (Part-1)  Introduction.ahk
+RegEx in  Python (Part-1)  Introduction
 https://www.youtube.com/watch?v=xp1vX15inBg
 
-2.  RegEx in  Python (Part-10)  Substitution.ahk
+RegEx in  Python (Part-10)  Substitution
 https://www.youtube.com/watch?v=2_IogBzts-M
 
-3.  RegEx in  Python (Part-11)  Compilation Flags.ahk
+RegEx in  Python (Part-11)  Compilation Flags
 https://www.youtube.com/watch?v=1kwXDCCcvvE
 
-4.  RegEx in  Python (Part-12)  Grouping.ahk
+RegEx in  Python (Part-12)  Grouping
 https://www.youtube.com/watch?v=DQNEj26i6og
 
-5.  RegEx in  Python (Part-13)  Backreferencing.ahk
+RegEx in  Python (Part-13)  Backreferencing
 https://www.youtube.com/watch?v=tD-dZjDWTZI
 
-6.  RegEx in  Python (Part-14)  Named Groups.ahk
+RegEx in  Python (Part-14)  Named Groups
 https://www.youtube.com/watch?v=r4Z7kmsauTA
 
-7.  RegEx in  Python (Part-15)  Non-Capturing Groups.ahk
+RegEx in  Python (Part-15)  Non-Capturing Groups
 https://www.youtube.com/watch?v=xoQ7TdB-9NI
 
-8.  RegEx in  Python (Part-16)  Look ahead.ahk
+RegEx in  Python (Part-16)  Look ahead
 https://www.youtube.com/watch?v=DSSvVd1uo8o
 
-9.  RegEx in  Python (Part-17)  Look behind.ahk
+RegEx in  Python (Part-17)  Look behind
 https://www.youtube.com/watch?v=_uPsxnIg0uU
 
-10.  RegEx in  Python (Part-2)  import re.ahk
+RegEx in  Python (Part-2)  import re
 https://www.youtube.com/watch?v=LIcAmQec5K8
 
-11.  RegEx in  Python (Part-3)  Character Classes.ahk
+RegEx in  Python (Part-3)  Character Classes
 https://www.youtube.com/watch?v=Mf-4Zcz5VKw
 
-12.  RegEx in  Python (Part-4)  The Backslash Plague.ahk
+RegEx in  Python (Part-4)  The Backslash Plague
 https://www.youtube.com/watch?v=7CpRn3d1z_g
 
-13.  RegEx in  Python (Part-5)  Alteration.ahk
+RegEx in  Python (Part-5)  Alteration
 https://www.youtube.com/watch?v=WO2s7jUF5mk
 
-14.  RegEx in  Python (Part-6)  Quantifiers.ahk
+RegEx in  Python (Part-6)  Quantifiers
 https://www.youtube.com/watch?v=a_LRNBFVCq8
 
-15.  RegEx in  Python (Part-7)  Greedy & Non-Greedy Quantifiers.ahk
+RegEx in  Python (Part-7)  Greedy & Non-Greedy Quantifiers
 https://www.youtube.com/watch?v=vFiBKa4VbtU
 
-16.  RegEx in  Python (Part-8)  Boundary Matchers.ahk
+RegEx in  Python (Part-8)  Boundary Matchers
 https://www.youtube.com/watch?v=fB8GLixWRrY
 
-17.  RegEx in  Python (Part-9)  Splitting.ahk
+RegEx in  Python (Part-9)  Splitting
 https://www.youtube.com/watch?v=MUXEuOJAm2Q
 RegEx in Python

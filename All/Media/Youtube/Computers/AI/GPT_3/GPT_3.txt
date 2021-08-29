@@ -1,34 +1,34 @@
 
-1.  2021 GPT-3
+2021 GPT-3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/2021_GPT-3/2021_GPT-3.txt
 
-2.  AI GPT-3
+AI GPT-3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/AI_GPT-3/AI_GPT-3.txt
 
-3.  Five minutes with Leta, a GPT-3 AI (Series)
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/Five_minutes_with_Leta,_a_GPT-3_AI_(Series)/Five_minutes_with_Leta,_a_GPT-3_AI_(Series).txt
+Five minutes with Leta, a GPT-3 AI (Series)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/Five_minutes_with_Leta,_a_GPT-3_AI_(Seri/Five_minutes_with_Leta,_a_GPT-3_AI_(Seri.txt
 
-4.  GPT 3
+GPT 3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT_3/GPT_3.txt
 
-5.  GPT-2 and GPT-3 findings
+GPT-2 and GPT-3 findings
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT-2_and_GPT-3_findings/GPT-2_and_GPT-3_findings.txt
 
-6.  GPT-3
+GPT-3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT-3/GPT-3.txt
 
-7.  GPT-3 Demos & Products
+GPT-3 Demos & Products
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT-3_Demos_&_Products/GPT-3_Demos_&_Products.txt
 
-8.  GPT-3 Makeathon
+GPT-3 Makeathon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT-3_Makeathon/GPT-3_Makeathon.txt
 
-9.  GPT-3 With Fru
+GPT-3 With Fru
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/GPT-3_With_Fru/GPT-3_With_Fru.txt
 
-10.  Medicine
+Medicine
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/Medicine/Medicine.txt
 
-11.  openai gpt-3
+openai gpt-3
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/GPT_3/openai_gpt-3/openai_gpt-3.txt
 GPT 3

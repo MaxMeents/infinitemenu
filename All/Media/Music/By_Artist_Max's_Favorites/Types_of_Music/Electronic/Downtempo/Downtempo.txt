@@ -1,28 +1,28 @@
 
-1.  Acid Jazz
+Acid Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Acid_Jazz/Acid_Jazz.txt
 
-2.  Balearic Beat
+Balearic Beat
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Balearic_Beat/Balearic_Beat.txt
 
-3.  Chill Out
+Chill Out
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Chill_Out/Chill_Out.txt
 
-4.  Dub Music
+Dub Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Dub_Music/Dub_Music.txt
 
-5.  Dubtronica
+Dubtronica
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Dubtronica/Dubtronica.txt
 
-6.  Ethnic Electronica
+Ethnic Electronica
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Ethnic_Electronica/Ethnic_Electronica.txt
 
-7.  Moombahton
+Moombahton
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Moombahton/Moombahton.txt
 
-8.  Nu Jazz
+Nu Jazz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Nu_Jazz/Nu_Jazz.txt
 
-9.  Trip Hop
+Trip Hop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Downtempo/Trip_Hop/Trip_Hop.txt
 Downtempo

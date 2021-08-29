@@ -1,19 +1,19 @@
 
-1.  Modern JavaScript Tutorial #1 - Intro & Setup.ahk
+Modern JavaScript Tutorial #1 - Intro & Setup
 https://www.youtube.com/watch?v=iWOYAxlnaww
 
-2.  Modern JavaScript Tutorial #2 - Syntax Basics & Types.ahk
+Modern JavaScript Tutorial #2 - Syntax Basics & Types
 https://www.youtube.com/watch?v=FhguwBJeqWs
 
-3.  Modern JavaScript Tutorial #3 - Control Flow.ahk
+Modern JavaScript Tutorial #3 - Control Flow
 https://www.youtube.com/watch?v=JloLGV9DmtQ
 
-4.  Modern JavaScript Tutorial #4 - Functions.ahk
+Modern JavaScript Tutorial #4 - Functions
 https://www.youtube.com/watch?v=xUI5Tsl2JpY
 
-5.  Modern JavaScript Tutorial #5 - Objects.ahk
+Modern JavaScript Tutorial #5 - Objects
 https://www.youtube.com/watch?v=X0ipw1k7ygU
 
-6.  Modern JavaScript Tutorial #6 - The Document Object Model.ahk
+Modern JavaScript Tutorial #6 - The Document Object Model
 https://www.youtube.com/watch?v=wKBu_dEaF9E
 Modern JavaScript Tutorial

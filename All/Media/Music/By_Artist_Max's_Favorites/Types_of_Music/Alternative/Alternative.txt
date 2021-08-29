@@ -1,67 +1,67 @@
 
-1.  Alternative Rock
+Alternative Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Alternative_Rock/Alternative_Rock.txt
 
-2.  Anime
+Anime
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Anime/Anime.txt
 
-3.  Art Punk
+Art Punk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Art_Punk/Art_Punk.txt
 
-4.  Britpunk
+Britpunk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Britpunk/Britpunk.txt
 
-5.  College Rock
+College Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/College_Rock/College_Rock.txt
 
-6.  Crossover Thrash
+Crossover Thrash
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Crossover_Thrash/Crossover_Thrash.txt
 
-7.  Crust Punk
+Crust Punk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Crust_Punk/Crust_Punk.txt
 
-8.  Emotional Hardcore
+Emotional Hardcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Emotional_Hardcore/Emotional_Hardcore.txt
 
-9.  Experimental Rock
+Experimental Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Experimental_Rock/Experimental_Rock.txt
 
-10.  Folk Punk
+Folk Punk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Folk_Punk/Folk_Punk.txt
 
-11.  Goth - Gothic Rock
+Goth - Gothic Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Goth_-_Gothic_Rock/Goth_-_Gothic_Rock.txt
 
-12.  Grunge
+Grunge
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Grunge/Grunge.txt
 
-13.  Hard Rock
+Hard Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Hard_Rock/Hard_Rock.txt
 
-14.  Hardcore Punk
+Hardcore Punk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Hardcore_Punk/Hardcore_Punk.txt
 
-15.  Indie Rock
+Indie Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Indie_Rock/Indie_Rock.txt
 
-16.  Lo-fi
+Lo-fi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Lo-fi/Lo-fi.txt
 
-17.  Musique Concrète
+Musique Concrète
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Musique_Concrète/Musique_Concrète.txt
 
-18.  New Wave
+New Wave
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/New_Wave/New_Wave.txt
 
-19.  Progressive Rock
+Progressive Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Progressive_Rock/Progressive_Rock.txt
 
-20.  Punk
+Punk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Punk/Punk.txt
 
-21.  Shoegaze
+Shoegaze
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Shoegaze/Shoegaze.txt
 
-22.  Steampunk
+Steampunk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Steampunk/Steampunk.txt
 Alternative

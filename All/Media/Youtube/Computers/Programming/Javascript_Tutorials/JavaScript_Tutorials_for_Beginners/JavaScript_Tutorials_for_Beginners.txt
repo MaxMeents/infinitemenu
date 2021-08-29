@@ -1,142 +1,142 @@
 
-1.  JavaScript for Beginners 02 - What is JavaScript.ahk
+JavaScript for Beginners 02 - What is JavaScript
 https://www.youtube.com/watch?v=VB7y0yxZjro
 
-2.  JavaScript Tutorial For Beginners # 39 - Introduction to JavaScript Events.ahk
+JavaScript Tutorial For Beginners # 39 - Introduction to JavaScript Events
 https://www.youtube.com/watch?v=bf_9IeihQ0M
 
-3.  JavaScript Tutorial For Beginners #10 - Logging to the Console.ahk
+JavaScript Tutorial For Beginners #10 - Logging to the Console
 https://www.youtube.com/watch?v=tH-q9QFNUdA
 
-4.  JavaScript Tutorial For Beginners #11 - Booleans in JavaScript.ahk
+JavaScript Tutorial For Beginners #11 - Booleans in JavaScript
 https://www.youtube.com/watch?v=B4ZCFdrBmbE
 
-5.  JavaScript Tutorial For Beginners #12 - If Statements.ahk
+JavaScript Tutorial For Beginners #12 - If Statements
 https://www.youtube.com/watch?v=Lp-Du2fKoug
 
-6.  JavaScript Tutorial For Beginners #13 - Else If Statements.ahk
+JavaScript Tutorial For Beginners #13 - Else If Statements
 https://www.youtube.com/watch?v=1v1Bk3Q02Sc
 
-7.  JavaScript Tutorial For Beginners #14 - Comparison Operators.ahk
+JavaScript Tutorial For Beginners #14 - Comparison Operators
 https://www.youtube.com/watch?v=LjGaaWX_NbE
 
-8.  JavaScript Tutorial For Beginners #15 - Logical Operators.ahk
+JavaScript Tutorial For Beginners #15 - Logical Operators
 https://www.youtube.com/watch?v=mbT7sSmVUS8
 
-9.  JavaScript Tutorial For Beginners #16 - While Loops.ahk
+JavaScript Tutorial For Beginners #16 - While Loops
 https://www.youtube.com/watch?v=PpbFyLTtpWI
 
-10.  JavaScript Tutorial For Beginners #17 - For Loops.ahk
+JavaScript Tutorial For Beginners #17 - For Loops
 https://www.youtube.com/watch?v=U87UmD-5h4o
 
-11.  JavaScript Tutorial For Beginners #18 - Break & Continue.ahk
+JavaScript Tutorial For Beginners #18 - Break & Continue
 https://www.youtube.com/watch?v=QSuTH0C_3_Y
 
-12.  JavaScript Tutorial For Beginners #20 - Functions.ahk
+JavaScript Tutorial For Beginners #20 - Functions
 https://www.youtube.com/watch?v=KH57lIgwe2g
 
-13.  JavaScript Tutorial For Beginners #21 - Variable Scope.ahk
+JavaScript Tutorial For Beginners #21 - Variable Scope
 https://www.youtube.com/watch?v=kjdZ1h3CIs4
 
-14.  JavaScript Tutorial For Beginners #22 - Numbers.ahk
+JavaScript Tutorial For Beginners #22 - Numbers
 https://www.youtube.com/watch?v=TD3Pfuxgnuc
 
-15.  JavaScript Tutorial For Beginners #24 - Strings.ahk
+JavaScript Tutorial For Beginners #24 - Strings
 https://www.youtube.com/watch?v=k8MIbEVXhE0
 
-16.  JavaScript Tutorial For Beginners #25 - Slice and Split Strings.ahk
+JavaScript Tutorial For Beginners #25 - Slice and Split Strings
 https://www.youtube.com/watch?v=HEdikBHsMag
 
-17.  JavaScript Tutorial For Beginners #26 - Arrays.ahk
+JavaScript Tutorial For Beginners #26 - Arrays
 https://www.youtube.com/watch?v=EUnV-fCY0Pc
 
-18.  JavaScript Tutorial For Beginners #27 - Introduction to Objects.ahk
+JavaScript Tutorial For Beginners #27 - Introduction to Objects
 https://www.youtube.com/watch?v=t-evBCCQFzM
 
-19.  JavaScript Tutorial For Beginners #28 - Creating a new JavaScript Object.ahk
+JavaScript Tutorial For Beginners #28 - Creating a new JavaScript Object
 https://www.youtube.com/watch?v=wA5vU_HQfVI
 
-20.  JavaScript Tutorial For Beginners #29 - THIS Keyword.ahk
+JavaScript Tutorial For Beginners #29 - THIS Keyword
 https://www.youtube.com/watch?v=yVdU2coJ1VQ
 
-21.  JavaScript Tutorial For Beginners #30 - Constructor Functions.ahk
+JavaScript Tutorial For Beginners #30 - Constructor Functions
 https://www.youtube.com/watch?v=SrhHszXkMRU
 
-22.  JavaScript Tutorial For Beginners #31 - The Date Object.ahk
+JavaScript Tutorial For Beginners #31 - The Date Object
 https://www.youtube.com/watch?v=irrxnH-nkqg
 
-23.  JavaScript Tutorial For Beginners #32 - What is the DOM in JavaScript.ahk
+JavaScript Tutorial For Beginners #32 - What is the DOM in JavaScript
 https://www.youtube.com/watch?v=H63dVFDuJDM
 
-24.  JavaScript Tutorial For Beginners #33 - Traversing the DOM.ahk
+JavaScript Tutorial For Beginners #33 - Traversing the DOM
 https://www.youtube.com/watch?v=SowaJlX1uKA
 
-25.  JavaScript Tutorial For Beginners #34 - Changing Page Content.ahk
+JavaScript Tutorial For Beginners #34 - Changing Page Content
 https://www.youtube.com/watch?v=FQuwArzGPYo
 
-26.  JavaScript Tutorial For Beginners #35 - Changing Element Attributes.ahk
+JavaScript Tutorial For Beginners #35 - Changing Element Attributes
 https://www.youtube.com/watch?v=V0S0LXvnW-o
 
-27.  JavaScript Tutorial For Beginners #36 - Changing CSS Styles.ahk
+JavaScript Tutorial For Beginners #36 - Changing CSS Styles
 https://www.youtube.com/watch?v=97agDBCyxAE
 
-28.  JavaScript Tutorial For Beginners #37 - Adding Elements to the DOM.ahk
+JavaScript Tutorial For Beginners #37 - Adding Elements to the DOM
 https://www.youtube.com/watch?v=TrGI9Yki-24
 
-29.  JavaScript Tutorial For Beginners #38 - Removing Elements from the DOM.ahk
+JavaScript Tutorial For Beginners #38 - Removing Elements from the DOM
 https://www.youtube.com/watch?v=rBGgguNnutE
 
-30.  JavaScript Tutorial For Beginners #4 - Where to put your JS.ahk
+JavaScript Tutorial For Beginners #4 - Where to put your JS
 https://www.youtube.com/watch?v=czlwRUeTCgw
 
-31.  JavaScript Tutorial For Beginners #40 - The onClick Event.ahk
+JavaScript Tutorial For Beginners #40 - The onClick Event
 https://www.youtube.com/watch?v=XQEfWd1lh4Q
 
-32.  JavaScript Tutorial For Beginners #41 - Window onLoad Event.ahk
+JavaScript Tutorial For Beginners #41 - Window onLoad Event
 https://www.youtube.com/watch?v=RVA4HoEE_q8
 
-33.  JavaScript Tutorial For Beginners #42 - JavaScript Timers.ahk
+JavaScript Tutorial For Beginners #42 - JavaScript Timers
 https://www.youtube.com/watch?v=Az5J_EkhYCY
 
-34.  JavaScript Tutorial For Beginners #43 - Accessing Form Elements.ahk
+JavaScript Tutorial For Beginners #43 - Accessing Form Elements
 https://www.youtube.com/watch?v=BhlvQfIaE4k
 
-35.  JavaScript Tutorial For Beginners #44 - VERY Simple Form Validation.ahk
+JavaScript Tutorial For Beginners #44 - VERY Simple Form Validation
 https://www.youtube.com/watch?v=b0pxAb_yy2U
 
-36.  JavaScript Tutorial For Beginners #45 - JavaScript Libraries.ahk
+JavaScript Tutorial For Beginners #45 - JavaScript Libraries
 https://www.youtube.com/watch?v=uq7omoxwA7A
 
-37.  JavaScript Tutorial For Beginners #46 - What to Study Next.ahk
+JavaScript Tutorial For Beginners #46 - What to Study Next
 https://www.youtube.com/watch?v=Qikr22Tc3wg
 
-38.  JavaScript Tutorial For Beginners #5 - Google Chrome Developer Tools.ahk
+JavaScript Tutorial For Beginners #5 - Google Chrome Developer Tools
 https://www.youtube.com/watch?v=JzZFccCEgGA
 
-39.  JavaScript Tutorial For Beginners #6 - Basic JavaScript Syntax & Rules.ahk
+JavaScript Tutorial For Beginners #6 - Basic JavaScript Syntax & Rules
 https://www.youtube.com/watch?v=QLatPwsbDrQ
 
-40.  JavaScript Tutorial For Beginners #7 - JavaScript Variables.ahk
+JavaScript Tutorial For Beginners #7 - JavaScript Variables
 https://www.youtube.com/watch?v=u0Mq3FzpsmI
 
-41.  JavaScript Tutorial For Beginners #8 - Basic Mathematical Operators.ahk
+JavaScript Tutorial For Beginners #8 - Basic Mathematical Operators
 https://www.youtube.com/watch?v=_MC0Gw07w8M
 
-42.  JavaScript Tutorial For Beginners #9 - Math Operator Short-hand.ahk
+JavaScript Tutorial For Beginners #9 - Math Operator Short-hand
 https://www.youtube.com/watch?v=Z1eV0RBRam0
 
-43.  JavaScript Tutorial For Beginners - NaN (Not a Number).ahk
+JavaScript Tutorial For Beginners - NaN (Not a Number)
 https://www.youtube.com/watch?v=0ZiltZDg9Gg
 
-44.  JavaScript Tutorial For Beginners 01 - Introduction.ahk
+JavaScript Tutorial For Beginners 01 - Introduction
 https://www.youtube.com/watch?v=qoSksQ4s_hg
 
-45.  JavaScript Tutorial For Beginners 03 - Hello World! in JavaScript.ahk
+JavaScript Tutorial For Beginners 03 - Hello World! in JavaScript
 https://www.youtube.com/watch?v=ranSYb-EhrU
 
-46.  JavaScript Tutorial For Beginners 19 -  Practical Example using Loops.ahk
+JavaScript Tutorial For Beginners 19 -  Practical Example using Loops
 https://www.youtube.com/watch?v=eZBTLsv2ktM
 
-47.  New Modern JavaScript Update.ahk
+New Modern JavaScript Update
 https://www.youtube.com/watch?v=GCcfKNswi4c
 JavaScript Tutorials for Beginners

@@ -1,70 +1,70 @@
 
-1.  Linux Tutorial for Beginners - 1 - Introduction.ahk
+Linux Tutorial for Beginners - 1 - Introduction
 https://www.youtube.com/watch?v=HjuHHI60s44
 
-2.  Linux Tutorial for Beginners - 10 - Compress and Extract tar and gz Files.ahk
+Linux Tutorial for Beginners - 10 - Compress and Extract tar and gz Files
 https://www.youtube.com/watch?v=EWONqLqSxYc
 
-3.  Linux Tutorial for Beginners - 11 - Install Software with APT apt-get.ahk
+Linux Tutorial for Beginners - 11 - Install Software with APT apt-get
 https://www.youtube.com/watch?v=EKmLXiA4zaQ
 
-4.  Linux Tutorial for Beginners - 12 - Users.ahk
+Linux Tutorial for Beginners - 12 - Users
 https://www.youtube.com/watch?v=-DHCm9AlXvo
 
-5.  Linux Tutorial for Beginners - 13 - Groups and More.ahk
+Linux Tutorial for Beginners - 13 - Groups and More
 https://www.youtube.com/watch?v=7cRaGaIZQlo
 
-6.  Linux Tutorial for Beginners - 14 - Setup and Connect to SSH Server.ahk
+Linux Tutorial for Beginners - 14 - Setup and Connect to SSH Server
 https://www.youtube.com/watch?v=ZkcEB96iMFk
 
-7.  Linux Tutorial for Beginners - 15 - SSH Key Authentication.ahk
+Linux Tutorial for Beginners - 15 - SSH Key Authentication
 https://www.youtube.com/watch?v=5Fcf-8LPvws
 
-8.  Linux Tutorial for Beginners - 16 - Disable Password Login.ahk
+Linux Tutorial for Beginners - 16 - Disable Password Login
 https://www.youtube.com/watch?v=xWLgdSgsBFo
 
-9.  Linux Tutorial for Beginners - 17 - SFTP.ahk
+Linux Tutorial for Beginners - 17 - SFTP
 https://www.youtube.com/watch?v=QcKYFEgfV-I
 
-10.  Linux Tutorial for Beginners - 18 - Partitions.ahk
+Linux Tutorial for Beginners - 18 - Partitions
 https://www.youtube.com/watch?v=BtSQIxDPnLc
 
-11.  Linux Tutorial for Beginners - 19 - Creating Partitions with GParted.ahk
+Linux Tutorial for Beginners - 19 - Creating Partitions with GParted
 https://www.youtube.com/watch?v=O5kh_-6e4kk
 
-12.  Linux Tutorial for Beginners - 2 - Downloading Ubuntu.ahk
+Linux Tutorial for Beginners - 2 - Downloading Ubuntu
 https://www.youtube.com/watch?v=Z40N7b9NHTE
 
-13.  Linux Tutorial for Beginners - 20 - Shell Script Basics.ahk
+Linux Tutorial for Beginners - 20 - Shell Script Basics
 https://www.youtube.com/watch?v=RuWVDz-48-o
 
-14.  Linux Tutorial for Beginners - 21 - More on Shell Scripting.ahk
+Linux Tutorial for Beginners - 21 - More on Shell Scripting
 https://www.youtube.com/watch?v=-yjc5Y7Wbmw
 
-15.  Linux Tutorial for Beginners - 22 - Processes.ahk
+Linux Tutorial for Beginners - 22 - Processes
 https://www.youtube.com/watch?v=C5T59WsrNCU
 
-16.  Linux Tutorial for Beginners - 23 - Jobs and Kill Process.ahk
+Linux Tutorial for Beginners - 23 - Jobs and Kill Process
 https://www.youtube.com/watch?v=MWldNGdX9zE
 
-17.  Linux Tutorial for Beginners - 3 - Installing Ubuntu on a Virtual Machine.ahk
+Linux Tutorial for Beginners - 3 - Installing Ubuntu on a Virtual Machine
 https://www.youtube.com/watch?v=FvziRqkLrEU
 
-18.  Linux Tutorial for Beginners - 4 - Terminal.ahk
+Linux Tutorial for Beginners - 4 - Terminal
 https://www.youtube.com/watch?v=XN2-87haa8k
 
-19.  Linux Tutorial for Beginners - 5 - Navigating and Working with Files.ahk
+Linux Tutorial for Beginners - 5 - Navigating and Working with Files
 https://www.youtube.com/watch?v=VgI4UKyL0Lc
 
-20.  Linux Tutorial for Beginners - 6 - Searching and Comparing Files.ahk
+Linux Tutorial for Beginners - 6 - Searching and Comparing Files
 https://www.youtube.com/watch?v=BvPIgm2SMG8
 
-21.  Linux Tutorial for Beginners - 7 - Saving Results to a File.ahk
+Linux Tutorial for Beginners - 7 - Saving Results to a File
 https://www.youtube.com/watch?v=DpdmUmglPBA
 
-22.  Linux Tutorial for Beginners - 8 - File Permissions.ahk
+Linux Tutorial for Beginners - 8 - File Permissions
 https://www.youtube.com/watch?v=BmVmJi5dR9c
 
-23.  Linux Tutorial for Beginners - 9 - Verify Files Using Checksum.ahk
+Linux Tutorial for Beginners - 9 - Verify Files Using Checksum
 https://www.youtube.com/watch?v=pYNuKXjcriM
 Linux Tutorial for Beginners Playlist

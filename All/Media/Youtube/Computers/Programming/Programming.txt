@@ -1,16 +1,16 @@
 
-1.  Autohotkey
+Autohotkey
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Autohotkey/Autohotkey.txt
 
-2.  c sharp Tutorials
+c sharp Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/c_sharp_Tutorials/c_sharp_Tutorials.txt
 
-3.  Game Development
+Game Development
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Game_Development/Game_Development.txt
 
-4.  Javascript Tutorials
+Javascript Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Javascript_Tutorials/Javascript_Tutorials.txt
 
-5.  Regex Tutorials
+Regex Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Regex_Tutorials/Regex_Tutorials.txt
 Programming

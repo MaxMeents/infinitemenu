@@ -1,0 +1,22 @@
+
+Company News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Business_News/Company_News/Company_News.txt
+
+Financial Markets News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Business_News/Financial_Markets_News/Financial_Markets_News.txt
+
+Google Business News 
+https://www.google.com/search?q=Business News
+
+Wikipedia Business News 
+https://en.wikipedia.org/wiki/Business News
+
+YT Channels Business News 
+https://www.youtube.com/watch?search_query=Business News&sp=EgIQAg`%253D`%253D
+
+YT Playlists Business News 
+https://www.youtube.com/watch?search_query=Business News&sp=EgIQAw`%253D`%253D
+
+YT Search Business News 
+https://www.youtube.com/watch?search_query=Business News
+Business News

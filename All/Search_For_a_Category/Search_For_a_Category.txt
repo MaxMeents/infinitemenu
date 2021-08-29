@@ -1,0 +1,79 @@
+
+Arts & Entertainment
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Arts_&_Entertainment/Arts_&_Entertainment.txt
+
+Autos & Vehicles
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Autos_&_Vehicles/Autos_&_Vehicles.txt
+
+Beauty & Fitness
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Beauty_&_Fitness/Beauty_&_Fitness.txt
+
+Books & Literature
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Books_&_Literature/Books_&_Literature.txt
+
+Business & Industrial
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Business_&_Industrial/Business_&_Industrial.txt
+
+Computers & Electronics
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Computers_&_Electronics/Computers_&_Electronics.txt
+
+Finance
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Finance/Finance.txt
+
+Food & Drink
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Food_&_Drink/Food_&_Drink.txt
+
+Games
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Games/Games.txt
+
+Health
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Health/Health.txt
+
+Hobbies & Leisure
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Hobbies_&_Leisure/Hobbies_&_Leisure.txt
+
+Home & Garden
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Home_&_Garden/Home_&_Garden.txt
+
+Internet & Telecom
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Internet_&_Telecom/Internet_&_Telecom.txt
+
+Jobs & Education
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Jobs_&_Education/Jobs_&_Education.txt
+
+Law & Government
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Law_&_Government/Law_&_Government.txt
+
+News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/News.txt
+
+Online Communities
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Online_Communities/Online_Communities.txt
+
+People & Society
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/People_&_Society/People_&_Society.txt
+
+Pets & Animals
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Pets_&_Animals/Pets_&_Animals.txt
+
+Real Estate
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Real_Estate/Real_Estate.txt
+
+Reference
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Reference/Reference.txt
+
+Science
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Science/Science.txt
+
+Sensitive Subjects
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Sensitive_Subjects/Sensitive_Subjects.txt
+
+Shopping
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Shopping/Shopping.txt
+
+Sports
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Sports/Sports.txt
+
+Travel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Travel.txt
+Search For a Category

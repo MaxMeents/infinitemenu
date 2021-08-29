@@ -1,58 +1,58 @@
 
-1.  #IAm Amy Hill Story.ahk
+#IAm Amy Hill Story
 https://www.youtube.com/watch?v=x3HV4zyYI6g&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-2.  #IAm Bobby Lee Story.ahk
+#IAm Bobby Lee Story
 https://www.youtube.com/watch?v=QiDzcUNolW0&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-3.  #IAm Brian Tee Story.ahk
+#IAm Brian Tee Story
 https://www.youtube.com/watch?v=rxMiSIhsAWE&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-4.  #IAm Carrie Ann Inaba Story.ahk
+#IAm Carrie Ann Inaba Story
 https://www.youtube.com/watch?v=rcwqExGHzsg&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-5.  #IAm Christine Ha Story.ahk
+#IAm Christine Ha Story
 https://www.youtube.com/watch?v=-Uhzj6UHaNA&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-6.  #IAm David Choi Story.ahk
+#IAm David Choi Story
 https://www.youtube.com/watch?v=xHSh0CqUGxA&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-7.  #IAm Harry Shum, Jr. Story.ahk
+#IAm Harry Shum, Jr. Story
 https://www.youtube.com/watch?v=bP-AI1YSwEQ&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-8.  #IAm Jessica Gomes Story.ahk
+#IAm Jessica Gomes Story
 https://www.youtube.com/watch?v=Ev7zi9nEqLA&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-9.  #IAm Kelly Hu Story.ahk
+#IAm Kelly Hu Story
 https://www.youtube.com/watch?v=QNSS4VT6xDc&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-10.  #IAm Leonardo Nam Story.ahk
+#IAm Leonardo Nam Story
 https://www.youtube.com/watch?v=TGbf51qjFwo&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-11.  #IAm Lisa Ling Story.ahk
+#IAm Lisa Ling Story
 https://www.youtube.com/watch?v=uK50iI_i_nY&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-12.  #IAm Melissa Tang Story.ahk
+#IAm Melissa Tang Story
 https://www.youtube.com/watch?v=9L6RWs5ARjU&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-13.  #IAm Michelle Phan Story.ahk
+#IAm Michelle Phan Story
 https://www.youtube.com/watch?v=An6fIMWbKMA&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-14.  #IAm Phil Yu Story.ahk
+#IAm Phil Yu Story
 https://www.youtube.com/watch?v=WzSxootCJ-0&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-15.  #IAm Randall Park Story.ahk
+#IAm Randall Park Story
 https://www.youtube.com/watch?v=jODTN768ymo&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-16.  #IAm Ryan Higa Story.ahk
+#IAm Ryan Higa Story
 https://www.youtube.com/watch?v=52AmIcdf82w&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-17.  #IAm Steven Yeun Story.ahk
+#IAm Steven Yeun Story
 https://www.youtube.com/watch?v=mv72NVt8v9g&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-18.  #IAm Wong Fu Story.ahk
+#IAm Wong Fu Story
 https://www.youtube.com/watch?v=y4-B4omXrXk&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 
-19.  CAPE #IAm Campaign 2014 - Official Trailer.ahk
+CAPE #IAm Campaign 2014 - Official Trailer
 https://www.youtube.com/watch?v=TticGoSvrOI&list=PL9ZLQh0jWSdkuc22WXLYVlPK-6EpCCijU
 #IAm Ryan Higa Story

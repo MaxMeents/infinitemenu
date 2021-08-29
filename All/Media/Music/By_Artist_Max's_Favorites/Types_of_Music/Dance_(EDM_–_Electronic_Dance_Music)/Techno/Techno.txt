@@ -1,34 +1,34 @@
 
-1.  Acid Techno
+Acid Techno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Acid_Techno/Acid_Techno.txt
 
-2.  Detroit Techno
+Detroit Techno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Detroit_Techno/Detroit_Techno.txt
 
-3.  Free Tekno
+Free Tekno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Free_Tekno/Free_Tekno.txt
 
-4.  Ghettotech
+Ghettotech
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Ghettotech/Ghettotech.txt
 
-5.  Minimal
+Minimal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Minimal/Minimal.txt
 
-6.  Nortec
+Nortec
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Nortec/Nortec.txt
 
-7.  Schranz
+Schranz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Schranz/Schranz.txt
 
-8.  Techno-Dnb
+Techno-Dnb
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Techno-Dnb/Techno-Dnb.txt
 
-9.  Technopop
+Technopop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Technopop/Technopop.txt
 
-10.  Tecno Brega
+Tecno Brega
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Tecno_Brega/Tecno_Brega.txt
 
-11.  Toytown Techno
+Toytown Techno
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Techno/Toytown_Techno/Toytown_Techno.txt
 Techno

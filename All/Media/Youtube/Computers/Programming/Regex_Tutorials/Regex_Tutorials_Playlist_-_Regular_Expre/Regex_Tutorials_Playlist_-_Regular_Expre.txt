@@ -1,0 +1,49 @@
+
+Best of Fluent 2012 Reg(exp){2}lained Demystifying Regular Expressions
+https://www.youtube.com/watch?v=EkluES9Rvak
+
+Learn Regular Expressions Alternations
+https://www.youtube.com/watch?v=OjirRdtGTL4
+
+Learn Regular Expressions Anchors & Flags
+https://www.youtube.com/watch?v=OqVkOB2-shg
+
+Learn Regular Expressions Character Set
+https://www.youtube.com/watch?v=2Y-alrCHm_w
+
+Learn Regular Expressions Dot Matches
+https://www.youtube.com/watch?v=1SSfRjidYDM
+
+Learn Regular Expressions Groups
+https://www.youtube.com/watch?v=CdxoFdbviCo
+
+Learn Regular Expressions Introduction
+https://www.youtube.com/watch?v=GVZOJ1rEnUg
+
+Learn Regular Expressions JavaScript & PHP Examples
+https://www.youtube.com/watch?v=9Tfq5Gt5MOo
+
+Learn Regular Expressions Let's Write Some Expressions!
+https://www.youtube.com/watch?v=OSEXJlyJq7c
+
+Learn Regular Expressions Multiple
+https://www.youtube.com/watch?v=GH-6jkaKe8A
+
+Learn Regular Expressions Optional
+https://www.youtube.com/watch?v=fCOt9dRCBNc
+
+Learn Regular Expressions Quantifiers
+https://www.youtube.com/watch?v=RedSDQdgdZA
+
+REGEX Tutorial Regular Expressions Pt 2
+https://www.youtube.com/watch?v=FCFdgymqpUI
+
+REGEX Tutorial Regular Expressions Pt 3
+https://www.youtube.com/watch?v=lvGtejG69zg
+
+REGEX Tutorial Regular Expressions
+https://www.youtube.com/watch?v=DRR9fOXkfRE
+
+Regular Expression Basics
+https://www.youtube.com/watch?v=KJG1dETacLI
+Regex Tutorials Playlist - Regular Expressions

@@ -1,0 +1,37 @@
+
+Air Travel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Air_Travel/Air_Travel.txt
+
+Bus & Rail
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Bus_&_Rail/Bus_&_Rail.txt
+
+Car Rental & Taxi Services
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Car_Rental_&_Taxi_Services/Car_Rental_&_Taxi_Services.txt
+
+Cruises & Charters
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Cruises_&_Charters/Cruises_&_Charters.txt
+
+Hotels & Accommodations
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Hotels_&_Accommodations/Hotels_&_Accommodations.txt
+
+Specialty Travel
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Specialty_Travel/Specialty_Travel.txt
+
+Tourist Destinations
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Travel/Tourist_Destinations/Tourist_Destinations.txt
+
+Google Travel 
+https://www.google.com/search?q=Travel
+
+Wikipedia Travel 
+https://en.wikipedia.org/wiki/Travel
+
+YT Channels Travel 
+https://www.youtube.com/watch?search_query=Travel&sp=EgIQAg`%253D`%253D
+
+YT Playlists Travel 
+https://www.youtube.com/watch?search_query=Travel&sp=EgIQAw`%253D`%253D
+
+YT Search Travel 
+https://www.youtube.com/watch?search_query=Travel
+Travel

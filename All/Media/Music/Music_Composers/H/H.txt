@@ -1,607 +1,607 @@
 
-1.  Hajime Mizoguchi
+Hajime Mizoguchi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hajime_Mizoguchi/Hajime_Mizoguchi.txt
 
-2.  Hakon Børresen
+Hakon Børresen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hakon_Børresen/Hakon_Børresen.txt
 
-3.  Hal Hopson
+Hal Hopson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hal_Hopson/Hal_Hopson.txt
 
-4.  Hamish MacCunn
+Hamish MacCunn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hamish_MacCunn/Hamish_MacCunn.txt
 
-5.  Hank Ballard
+Hank Ballard
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hank_Ballard/Hank_Ballard.txt
 
-6.  Hanns Eisler
+Hanns Eisler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hanns_Eisler/Hanns_Eisler.txt
 
-7.  Hans Abrahamsen
+Hans Abrahamsen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Abrahamsen/Hans_Abrahamsen.txt
 
-8.  Hans Bottermund
+Hans Bottermund
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Bottermund/Hans_Bottermund.txt
 
-9.  Hans Brachrogge
+Hans Brachrogge
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Brachrogge/Hans_Brachrogge.txt
 
-10.  Hans Buchner
+Hans Buchner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Buchner/Hans_Buchner.txt
 
-11.  Hans Christian Lumbye
+Hans Christian Lumbye
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Christian_Lumbye/Hans_Christian_Lumbye.txt
 
-12.  Hans Erich Apostel
+Hans Erich Apostel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Erich_Apostel/Hans_Erich_Apostel.txt
 
-13.  Hans Gerle
+Hans Gerle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Gerle/Hans_Gerle.txt
 
-14.  Hans Gál
+Hans Gál
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Gál/Hans_Gál.txt
 
-15.  Hans Henkemans
+Hans Henkemans
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Henkemans/Hans_Henkemans.txt
 
-16.  Hans Huber
+Hans Huber
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Huber/Hans_Huber.txt
 
-17.  Hans Judenkünig
+Hans Judenkünig
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Judenkünig/Hans_Judenkünig.txt
 
-18.  Hans Kotter
+Hans Kotter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Kotter/Hans_Kotter.txt
 
-19.  Hans Krása
+Hans Krása
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Krása/Hans_Krása.txt
 
-20.  Hans Lang
+Hans Lang
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Lang/Hans_Lang.txt
 
-21.  Hans Leo Hassler
+Hans Leo Hassler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Leo_Hassler/Hans_Leo_Hassler.txt
 
-22.  Hans Otte
+Hans Otte
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Otte/Hans_Otte.txt
 
-23.  Hans Pfitzner
+Hans Pfitzner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Pfitzner/Hans_Pfitzner.txt
 
-24.  Hans Redlich
+Hans Redlich
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Redlich/Hans_Redlich.txt
 
-25.  Hans Rott
+Hans Rott
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Rott/Hans_Rott.txt
 
-26.  Hans Stadlmair
+Hans Stadlmair
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Stadlmair/Hans_Stadlmair.txt
 
-27.  Hans Uwe Hielscher
+Hans Uwe Hielscher
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Uwe_Hielscher/Hans_Uwe_Hielscher.txt
 
-28.  Hans Vogt
+Hans Vogt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Vogt/Hans_Vogt.txt
 
-29.  Hans von Koessler
+Hans von Koessler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_von_Koessler/Hans_von_Koessler.txt
 
-30.  Hans Werner Henze
+Hans Werner Henze
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Werner_Henze/Hans_Werner_Henze.txt
 
-31.  Hans Zender
+Hans Zender
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Zender/Hans_Zender.txt
 
-32.  Hans Zimmer
+Hans Zimmer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans_Zimmer/Hans_Zimmer.txt
 
-33.  Hans-Joachim Hespos
+Hans-Joachim Hespos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans-Joachim_Hespos/Hans-Joachim_Hespos.txt
 
-34.  Hans-Martin Linde
+Hans-Martin Linde
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hans-Martin_Linde/Hans-Martin_Linde.txt
 
-35.  Harald Banter
+Harald Banter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harald_Banter/Harald_Banter.txt
 
-36.  Harald Genzmer
+Harald Genzmer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harald_Genzmer/Harald_Genzmer.txt
 
-37.  Harald Sæverud
+Harald Sæverud
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harald_Sæverud/Harald_Sæverud.txt
 
-38.  Harold Arlen
+Harold Arlen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harold_Arlen/Harold_Arlen.txt
 
-39.  Harold Budd
+Harold Budd
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harold_Budd/Harold_Budd.txt
 
-40.  Harold Truscott
+Harold Truscott
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harold_Truscott/Harold_Truscott.txt
 
-41.  Harriet Browne
+Harriet Browne
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harriet_Browne/Harriet_Browne.txt
 
-42.  Harriett Abrams
+Harriett Abrams
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harriett_Abrams/Harriett_Abrams.txt
 
-43.  Harris Jayaraj
+Harris Jayaraj
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harris_Jayaraj/Harris_Jayaraj.txt
 
-44.  Harrison Birtwistle
+Harrison Birtwistle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harrison_Birtwistle/Harrison_Birtwistle.txt
 
-45.  Harry Burleigh
+Harry Burleigh
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Burleigh/Harry_Burleigh.txt
 
-46.  Harry Dacre
+Harry Dacre
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Dacre/Harry_Dacre.txt
 
-47.  Harry Gregson-Williams
+Harry Gregson-Williams
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Gregson-Williams/Harry_Gregson-Williams.txt
 
-48.  Harry Lawrence Freeman
+Harry Lawrence Freeman
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Lawrence_Freeman/Harry_Lawrence_Freeman.txt
 
-49.  Harry Partch
+Harry Partch
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Partch/Harry_Partch.txt
 
-50.  Harry Robertson
+Harry Robertson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Robertson/Harry_Robertson.txt
 
-51.  Harry Somers
+Harry Somers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Somers/Harry_Somers.txt
 
-52.  Harry Warren
+Harry Warren
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harry_Warren/Harry_Warren.txt
 
-53.  Hart Pease Danks
+Hart Pease Danks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hart_Pease_Danks/Hart_Pease_Danks.txt
 
-54.  Harvey Worthington Loomis
+Harvey Worthington Loomis
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Harvey_Worthington_Loomis/Harvey_Worthington_Loomis.txt
 
-55.  Haskell Small
+Haskell Small
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Haskell_Small/Haskell_Small.txt
 
-56.  Hatto Ständer
+Hatto Ständer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hatto_Ständer/Hatto_Ständer.txt
 
-57.  Havergal Brian
+Havergal Brian
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Havergal_Brian/Havergal_Brian.txt
 
-58.  Hayne van Ghizeghem
+Hayne van Ghizeghem
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hayne_van_Ghizeghem/Hayne_van_Ghizeghem.txt
 
-59.  Healey Willan
+Healey Willan
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Healey_Willan/Healey_Willan.txt
 
-60.  Hector Ayala
+Hector Ayala
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hector_Ayala/Hector_Ayala.txt
 
-61.  Hector Berlioz
+Hector Berlioz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hector_Berlioz/Hector_Berlioz.txt
 
-62.  Hedwige Chrétien
+Hedwige Chrétien
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hedwige_Chrétien/Hedwige_Chrétien.txt
 
-63.  Heidi Baader-Nobs
+Heidi Baader-Nobs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heidi_Baader-Nobs/Heidi_Baader-Nobs.txt
 
-64.  Heikki Aaltoila
+Heikki Aaltoila
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heikki_Aaltoila/Heikki_Aaltoila.txt
 
-65.  Heimo Erbse
+Heimo Erbse
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heimo_Erbse/Heimo_Erbse.txt
 
-66.  Heino Eller
+Heino Eller
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heino_Eller/Heino_Eller.txt
 
-67.  Heinrich Albert
+Heinrich Albert
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Albert/Heinrich_Albert.txt
 
-68.  Heinrich Bach
+Heinrich Bach
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Bach/Heinrich_Bach.txt
 
-69.  Heinrich Baermann
+Heinrich Baermann
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Baermann/Heinrich_Baermann.txt
 
-70.  Heinrich Berté
+Heinrich Berté
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Berté/Heinrich_Berté.txt
 
-71.  Heinrich Ehrlich
+Heinrich Ehrlich
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Ehrlich/Heinrich_Ehrlich.txt
 
-72.  Heinrich Finck
+Heinrich Finck
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Finck/Heinrich_Finck.txt
 
-73.  Heinrich Ignaz Franz von Biber
+Heinrich Ignaz Franz von Biber
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Ignaz_Franz_von_Biber/Heinrich_Ignaz_Franz_von_Biber.txt
 
-74.  Heinrich Isaac
+Heinrich Isaac
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Isaac/Heinrich_Isaac.txt
 
-75.  Heinrich Marschner
+Heinrich Marschner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Marschner/Heinrich_Marschner.txt
 
-76.  Heinrich Reinhardt
+Heinrich Reinhardt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Reinhardt/Heinrich_Reinhardt.txt
 
-77.  Heinrich Scheidemann
+Heinrich Scheidemann
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Scheidemann/Heinrich_Scheidemann.txt
 
-78.  Heinrich Schenker
+Heinrich Schenker
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Schenker/Heinrich_Schenker.txt
 
-79.  Heinrich Schwemmer
+Heinrich Schwemmer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Schwemmer/Heinrich_Schwemmer.txt
 
-80.  Heinrich Schütz
+Heinrich Schütz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Schütz/Heinrich_Schütz.txt
 
-81.  Heinrich Strecker
+Heinrich Strecker
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Strecker/Heinrich_Strecker.txt
 
-82.  Heinrich Sutermeister
+Heinrich Sutermeister
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Sutermeister/Heinrich_Sutermeister.txt
 
-83.  Heinrich von Herzogenberg
+Heinrich von Herzogenberg
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_von_Herzogenberg/Heinrich_von_Herzogenberg.txt
 
-84.  Heinrich Wilhelm Ernst
+Heinrich Wilhelm Ernst
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Wilhelm_Ernst/Heinrich_Wilhelm_Ernst.txt
 
-85.  Heinrich Zöllner
+Heinrich Zöllner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinrich_Zöllner/Heinrich_Zöllner.txt
 
-86.  Heinz Holliger
+Heinz Holliger
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinz_Holliger/Heinz_Holliger.txt
 
-87.  Heinz Karl Gruber
+Heinz Karl Gruber
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinz_Karl_Gruber/Heinz_Karl_Gruber.txt
 
-88.  Heinz Werner Zimmermann
+Heinz Werner Zimmermann
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinz_Werner_Zimmermann/Heinz_Werner_Zimmermann.txt
 
-89.  Heinz Winbeck
+Heinz Winbeck
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinz_Winbeck/Heinz_Winbeck.txt
 
-90.  Heinz Wunderlich
+Heinz Wunderlich
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heinz_Wunderlich/Heinz_Wunderlich.txt
 
-91.  Heitor Villa-Lobos
+Heitor Villa-Lobos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Heitor_Villa-Lobos/Heitor_Villa-Lobos.txt
 
-92.  Helen Blackwood
+Helen Blackwood
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Helen_Blackwood/Helen_Blackwood.txt
 
-93.  Helen Bowater
+Helen Bowater
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Helen_Bowater/Helen_Bowater.txt
 
-94.  Helen Tobias-Duesberg
+Helen Tobias-Duesberg
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Helen_Tobias-Duesberg/Helen_Tobias-Duesberg.txt
 
-95.  Helmut Barbe
+Helmut Barbe
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Helmut_Barbe/Helmut_Barbe.txt
 
-96.  Helmut Lachenmann
+Helmut Lachenmann
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Helmut_Lachenmann/Helmut_Lachenmann.txt
 
-97.  Hendrik Andriessen
+Hendrik Andriessen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hendrik_Andriessen/Hendrik_Andriessen.txt
 
-98.  Henk Badings
+Henk Badings
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henk_Badings/Henk_Badings.txt
 
-99.  Henning Christiansen
+Henning Christiansen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henning_Christiansen/Henning_Christiansen.txt
 
-100.  Henri Bertini
+Henri Bertini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Bertini/Henri_Bertini.txt
 
-101.  Henri Besozzi
+Henri Besozzi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Besozzi/Henri_Besozzi.txt
 
-102.  Henri Brod
+Henri Brod
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Brod/Henri_Brod.txt
 
-103.  Henri Büsser
+Henri Büsser
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Büsser/Henri_Büsser.txt
 
-104.  Henri Casadesus
+Henri Casadesus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Casadesus/Henri_Casadesus.txt
 
-105.  Henri Desmarest
+Henri Desmarest
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Desmarest/Henri_Desmarest.txt
 
-106.  Henri Dumont
+Henri Dumont
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Dumont/Henri_Dumont.txt
 
-107.  Henri Duparc
+Henri Duparc
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Duparc/Henri_Duparc.txt
 
-108.  Henri Dutilleux
+Henri Dutilleux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Dutilleux/Henri_Dutilleux.txt
 
-109.  Henri Gobbi
+Henri Gobbi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Gobbi/Henri_Gobbi.txt
 
-110.  Henri Lazarof
+Henri Lazarof
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Lazarof/Henri_Lazarof.txt
 
-111.  Henri Marteau
+Henri Marteau
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Marteau/Henri_Marteau.txt
 
-112.  Henri Montan Berton
+Henri Montan Berton
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Montan_Berton/Henri_Montan_Berton.txt
 
-113.  Henri Pousseur
+Henri Pousseur
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Pousseur/Henri_Pousseur.txt
 
-114.  Henri Rabaud
+Henri Rabaud
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Rabaud/Henri_Rabaud.txt
 
-115.  Henri Sauguet
+Henri Sauguet
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Sauguet/Henri_Sauguet.txt
 
-116.  Henri Tomasi
+Henri Tomasi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Tomasi/Henri_Tomasi.txt
 
-117.  Henri Vieuxtemps
+Henri Vieuxtemps
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri_Vieuxtemps/Henri_Vieuxtemps.txt
 
-118.  Henri-Jacques de Croes
+Henri-Jacques de Croes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri-Jacques_de_Croes/Henri-Jacques_de_Croes.txt
 
-119.  Henri-Joseph Rigel
+Henri-Joseph Rigel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henri-Joseph_Rigel/Henri-Joseph_Rigel.txt
 
-120.  Henriette van den Boorn-Coclet
+Henriette van den Boorn-Coclet
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henriette_van_den_Boorn-Coclet/Henriette_van_den_Boorn-Coclet.txt
 
-121.  Henrique Oswald
+Henrique Oswald
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henrique_Oswald/Henrique_Oswald.txt
 
-122.  Henriëtte Bosmans
+Henriëtte Bosmans
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henriëtte_Bosmans/Henriëtte_Bosmans.txt
 
-123.  Henry Abyngdon
+Henry Abyngdon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Abyngdon/Henry_Abyngdon.txt
 
-124.  Henry Aldrich
+Henry Aldrich
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Aldrich/Henry_Aldrich.txt
 
-125.  Henry Balfour Gardiner
+Henry Balfour Gardiner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Balfour_Gardiner/Henry_Balfour_Gardiner.txt
 
-126.  Henry Barraud
+Henry Barraud
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Barraud/Henry_Barraud.txt
 
-127.  Henry Bishop
+Henry Bishop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Bishop/Henry_Bishop.txt
 
-128.  Henry Brant
+Henry Brant
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Brant/Henry_Brant.txt
 
-129.  Henry Carey
+Henry Carey
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Carey/Henry_Carey.txt
 
-130.  Henry Charles Litolff
+Henry Charles Litolff
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Charles_Litolff/Henry_Charles_Litolff.txt
 
-131.  Henry Cowell
+Henry Cowell
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Cowell/Henry_Cowell.txt
 
-132.  Henry David Leslie
+Henry David Leslie
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_David_Leslie/Henry_David_Leslie.txt
 
-133.  Henry Eccles
+Henry Eccles
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Eccles/Henry_Eccles.txt
 
-134.  Henry Eichheim
+Henry Eichheim
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Eichheim/Henry_Eichheim.txt
 
-135.  Henry Fillmore
+Henry Fillmore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Fillmore/Henry_Fillmore.txt
 
-136.  Henry Hiles
+Henry Hiles
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Hiles/Henry_Hiles.txt
 
-137.  Henry Holden Huss
+Henry Holden Huss
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Holden_Huss/Henry_Holden_Huss.txt
 
-138.  Henry Holmes
+Henry Holmes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Holmes/Henry_Holmes.txt
 
-139.  Henry Kimball Hadley
+Henry Kimball Hadley
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Kimball_Hadley/Henry_Kimball_Hadley.txt
 
-140.  Henry Lawes
+Henry Lawes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Lawes/Henry_Lawes.txt
 
-141.  Henry Mancini
+Henry Mancini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Mancini/Henry_Mancini.txt
 
-142.  Henry Purcell
+Henry Purcell
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_Purcell/Henry_Purcell.txt
 
-143.  Henry VIII of England
+Henry VIII of England
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henry_VIII_of_England/Henry_VIII_of_England.txt
 
-144.  Henryk Górecki
+Henryk Górecki
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henryk_Górecki/Henryk_Górecki.txt
 
-145.  Henryk Wieniawski
+Henryk Wieniawski
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Henryk_Wieniawski/Henryk_Wieniawski.txt
 
-146.  Herbert Blendinger
+Herbert Blendinger
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Blendinger/Herbert_Blendinger.txt
 
-147.  Herbert Brün
+Herbert Brün
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Brün/Herbert_Brün.txt
 
-148.  Herbert Hamilton Harty
+Herbert Hamilton Harty
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Hamilton_Harty/Herbert_Hamilton_Harty.txt
 
-149.  Herbert Howells
+Herbert Howells
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Howells/Herbert_Howells.txt
 
-150.  Herbert Stothart
+Herbert Stothart
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Stothart/Herbert_Stothart.txt
 
-151.  Herbert Sumsion
+Herbert Sumsion
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Sumsion/Herbert_Sumsion.txt
 
-152.  Herbert Windt
+Herbert Windt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herbert_Windt/Herbert_Windt.txt
 
-153.  Herman Bellstedt
+Herman Bellstedt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herman_Bellstedt/Herman_Bellstedt.txt
 
-154.  Herman Bemberg
+Herman Bemberg
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herman_Bemberg/Herman_Bemberg.txt
 
-155.  Herman Berlinski
+Herman Berlinski
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herman_Berlinski/Herman_Berlinski.txt
 
-156.  Herman David Koppel
+Herman David Koppel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Herman_David_Koppel/Herman_David_Koppel.txt
 
-157.  Hermann Bischoff
+Hermann Bischoff
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Bischoff/Hermann_Bischoff.txt
 
-158.  Hermann Finck
+Hermann Finck
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Finck/Hermann_Finck.txt
 
-159.  Hermann Goetz
+Hermann Goetz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Goetz/Hermann_Goetz.txt
 
-160.  Hermann Raupach
+Hermann Raupach
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Raupach/Hermann_Raupach.txt
 
-161.  Hermann Reutter
+Hermann Reutter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Reutter/Hermann_Reutter.txt
 
-162.  Hermann Zilcher
+Hermann Zilcher
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hermann_Zilcher/Hermann_Zilcher.txt
 
-163.  Hernando de Cabezón
+Hernando de Cabezón
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hernando_de_Cabezón/Hernando_de_Cabezón.txt
 
-164.  Hernando Franco
+Hernando Franco
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hernando_Franco/Hernando_Franco.txt
 
-165.  Hervé
+Hervé
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hervé/Hervé.txt
 
-166.  Hiba Kawas
+Hiba Kawas
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hiba_Kawas/Hiba_Kawas.txt
 
-167.  Hieronymus Praetorius
+Hieronymus Praetorius
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hieronymus_Praetorius/Hieronymus_Praetorius.txt
 
-168.  Hildegard of Bingen
+Hildegard of Bingen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hildegard_of_Bingen/Hildegard_of_Bingen.txt
 
-169.  Hilding Rosenberg
+Hilding Rosenberg
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hilding_Rosenberg/Hilding_Rosenberg.txt
 
-170.  Hisato Ohzawa
+Hisato Ohzawa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hisato_Ohzawa/Hisato_Ohzawa.txt
 
-171.  Hoagy Carmichael
+Hoagy Carmichael
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hoagy_Carmichael/Hoagy_Carmichael.txt
 
-172.  Holger Czukay
+Holger Czukay
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Holger_Czukay/Holger_Czukay.txt
 
-173.  Honoré Langlé
+Honoré Langlé
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Honoré_Langlé/Honoré_Langlé.txt
 
-174.  Horatio Parker
+Horatio Parker
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Horatio_Parker/Horatio_Parker.txt
 
-175.  Hora?iu Radulescu
+Hora?iu Radulescu
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hora?iu_Radulescu/Hora?iu_Radulescu.txt
 
-176.  Howard Boatwright
+Howard Boatwright
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Boatwright/Howard_Boatwright.txt
 
-177.  Howard Brockway
+Howard Brockway
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Brockway/Howard_Brockway.txt
 
-178.  Howard Ferguson
+Howard Ferguson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Ferguson/Howard_Ferguson.txt
 
-179.  Howard Goodall
+Howard Goodall
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Goodall/Howard_Goodall.txt
 
-180.  Howard Hanson
+Howard Hanson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Hanson/Howard_Hanson.txt
 
-181.  Howard Shore
+Howard Shore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Shore/Howard_Shore.txt
 
-182.  Howard Skempton
+Howard Skempton
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Howard_Skempton/Howard_Skempton.txt
 
-183.  Huang Ruo
+Huang Ruo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Huang_Ruo/Huang_Ruo.txt
 
-184.  Hubert Bath
+Hubert Bath
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hubert_Bath/Hubert_Bath.txt
 
-185.  Hubert Klyne Headley
+Hubert Klyne Headley
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hubert_Klyne_Headley/Hubert_Klyne_Headley.txt
 
-186.  Hubert Parry
+Hubert Parry
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hubert_Parry/Hubert_Parry.txt
 
-187.  Hubert Waelrant
+Hubert Waelrant
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hubert_Waelrant/Hubert_Waelrant.txt
 
-188.  Hugh Aston
+Hugh Aston
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugh_Aston/Hugh_Aston.txt
 
-189.  Hugh Davies
+Hugh Davies
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugh_Davies/Hugh_Davies.txt
 
-190.  Hugh Kellyk
+Hugh Kellyk
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugh_Kellyk/Hugh_Kellyk.txt
 
-191.  Hugh Shrapnel
+Hugh Shrapnel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugh_Shrapnel/Hugh_Shrapnel.txt
 
-192.  Hugo Alfvén
+Hugo Alfvén
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Alfvén/Hugo_Alfvén.txt
 
-193.  Hugo Becker
+Hugo Becker
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Becker/Hugo_Becker.txt
 
-194.  Hugo Chaim Adler
+Hugo Chaim Adler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Chaim_Adler/Hugo_Chaim_Adler.txt
 
-195.  Hugo de Lantins
+Hugo de Lantins
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_de_Lantins/Hugo_de_Lantins.txt
 
-196.  Hugo Distler
+Hugo Distler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Distler/Hugo_Distler.txt
 
-197.  Hugo Kauder
+Hugo Kauder
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Kauder/Hugo_Kauder.txt
 
-198.  Hugo Weisgall
+Hugo Weisgall
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Weisgall/Hugo_Weisgall.txt
 
-199.  Hugo Wolf
+Hugo Wolf
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hugo_Wolf/Hugo_Wolf.txt
 
-200.  Humphrey Searle
+Humphrey Searle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Humphrey_Searle/Humphrey_Searle.txt
 
-201.  Hyacinthe Jadin
+Hyacinthe Jadin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hyacinthe_Jadin/Hyacinthe_Jadin.txt
 
-202.  Hyo-Won Woo
+Hyo-Won Woo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/H/Hyo-Won_Woo/Hyo-Won_Woo.txt
 H

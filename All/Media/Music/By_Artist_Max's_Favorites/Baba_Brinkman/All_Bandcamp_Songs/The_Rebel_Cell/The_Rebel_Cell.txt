@@ -1,64 +1,64 @@
 
-1.  .ahk
 
 
-2.  2013.ahk
+
+2013
 https://bababrinkman.bandcamp.com/track/2013
 
-3.  BNPBC One.ahk
+BNPBC One
 https://bababrinkman.bandcamp.com/track/bnpbc-one
 
-4.  BNPBC Three.ahk
+BNPBC Three
 https://bababrinkman.bandcamp.com/track/bnpbc-three
 
-5.  BNPBC Two.ahk
+BNPBC Two
 https://bababrinkman.bandcamp.com/track/bnpbc-two
 
-6.  BPNBC Four.ahk
+BPNBC Four
 https://bababrinkman.bandcamp.com/track/bpnbc-four
 
-7.  Dispatches.ahk
+Dispatches
 https://bababrinkman.bandcamp.com/track/dispatches
 
-8.  First Cell.ahk
+First Cell
 https://bababrinkman.bandcamp.com/track/first-cell
 
-9.  Fourth Cell.ahk
+Fourth Cell
 https://bababrinkman.bandcamp.com/track/fourth-cell
 
-10.  Get Naked.ahk
+Get Naked
 https://bababrinkman.bandcamp.com/track/get-naked
 
-11.  Judgment.ahk
+Judgment
 https://bababrinkman.bandcamp.com/track/judgment
 
-12.  Louder 2.0.ahk
+Louder 2.0
 https://bababrinkman.bandcamp.com/track/louder-20
 
-13.  Mud Island.ahk
+Mud Island
 https://bababrinkman.bandcamp.com/track/mud-island
 
-14.  Phone Call.ahk
+Phone Call
 https://bababrinkman.bandcamp.com/track/phone-call
 
-15.  Second Cell.ahk
+Second Cell
 https://bababrinkman.bandcamp.com/track/second-cell
 
-16.  Social Contract 2.0.ahk
+Social Contract 2.0
 https://bababrinkman.bandcamp.com/track/social-contract-20
 
-17.  The Birth of Mud Sun.ahk
+The Birth of Mud Sun
 https://bababrinkman.bandcamp.com/track/the-birth-of-mud-sun
 
-18.  The Fallout.ahk
+The Fallout
 https://bababrinkman.bandcamp.com/track/the-fallout
 
-19.  The Gangsta Way.ahk
+The Gangsta Way
 https://bababrinkman.bandcamp.com/track/the-gangsta-way
 
-20.  Third Cell.ahk
+Third Cell
 https://bababrinkman.bandcamp.com/track/third-cell
 
-21.  Welcome to Capitalism.ahk
+Welcome to Capitalism
 https://bababrinkman.bandcamp.com/track/welcome-to-capitalism
 The Rebel Cell

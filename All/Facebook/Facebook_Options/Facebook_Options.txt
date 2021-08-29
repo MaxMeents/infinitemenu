@@ -1,106 +1,106 @@
 
-1.  Ads.ahk
+Ads
 https://www.facebook.com/Free-Instant-Translation-Display-and-Copy-to-Clipboard-115085306936795/ad_center/?ref_source=www_comet_ads_bookmark
 
-2.  Blood Donations.ahk
+Blood Donations
 https://www.facebook.com/blooddonations/?logger_action_context_serialized=`%7B`%22source`%22`%3A`%22bookmarks`%22`%7D
 
-3.  Campus.ahk
+Campus
 https://www.facebook.com/campus/
 
-4.  Climate Science Information Center.ahk
+Climate Science Information Center
 https://www.facebook.com/climatescienceinfo/?entry_point=Ym9va21hcms`%3D
 
-5.  Community Help.ahk
+Community Help
 https://www.facebook.com/community_help/?page_source=facebook_bookmark
 
-6.  COVID-19 Information Center.ahk
+COVID-19 Information Center
 https://www.facebook.com/coronavirus_info/?page_source=bookmark&hoisted_module_types`%5B0`%5D=update&hoisted_module_types`%5B1`%5D=vaccine_finder&hoisted_module_types`%5B2`%5D=vaccine_tracker&hoisted_module_types`%5B3`%5D=latest_news
 
-7.  Emotional Health.ahk
+Emotional Health
 https://www.facebook.com/emotional_health/?source=bookmark
 
-8.  Events.ahk
+Events
 https://www.facebook.com/events?source=46&action_history=null
 
-9.  Facebook Pay.ahk
+Facebook Pay
 https://secure.facebook.com/facebook_pay/?referrer=bookmark
 
-10.  Favorites.ahk
+Favorites
 https://www.facebook.com/?sk=favorites
 
-11.  Friends.ahk
+Friends
 https://www.facebook.com/friends/
 
-12.  Fundraisers.ahk
+Fundraisers
 https://www.facebook.com/fundraisers/
 
-13.  Gaming Video.ahk
+Gaming Video
 https://www.facebook.com/gaming/?external_ref=games_video_bookmark
 
-14.  Groups.ahk
+Groups
 https://www.facebook.com/groups/?ref=bookmarks
 
-15.  Jobs.ahk
+Jobs
 https://www.facebook.com/jobs/?source=bookmark
 
-16.  l.ahk
+l
 lll
 
-17.  Lift Black Voices.ahk
+Lift Black Voices
 https://www.facebook.com/liftblackvoices/?entry_point=Ym9va21hcms`%3D
 
-18.  Live Videos.ahk
+Live Videos
 https://www.facebook.com/watch/live/?ref=live_bookmark
 
-19.  Marketplace.ahk
+Marketplace
 https://www.facebook.com/marketplace/?ref=bookmark
 
-20.  Memories.ahk
+Memories
 https://www.facebook.com/memories/?source=bookmark
 
-21.  Messenger Kids.ahk
+Messenger Kids
 https://www.facebook.com/messenger_kids/?referrer=bookmark
 
-22.  Messenger.ahk
+Messenger
 https://www.facebook.com/messages/t/
 
-23.  Most Recent.ahk
+Most Recent
 https://www.facebook.com/?sk=h_chr
 
-24.  Music To Help You Grow.ahk
+Music To Help You Grow
 https://www.facebook.com/Music-To-Help-You-Grow-106672431094876/
 
-25.  News.ahk
+News
 https://www.facebook.com/news/
 
-26.  Oculus.ahk
+Oculus
 https://www.facebook.com/270208243080697/
 
-27.  Offers.ahk
+Offers
 https://www.facebook.com/offers/v2/wallet
 
-28.  Olympics.ahk
+Olympics
 https://www.facebook.com/hubs/olympics_hub/?entry_point=Ym9va21hcms`%3D
 
-29.  Pages.ahk
+Pages
 https://www.facebook.com/pages/?category=your_pages&ref=bookmarks
 
-30.  Play Games.ahk
+Play Games
 https://www.facebook.com/gaming/play/?store_visit_source=games_bookmark
 
-31.  Recent Ad Activity.ahk
+Recent Ad Activity
 https://www.facebook.com/ads/activity/
 
-32.  Saved.ahk
+Saved
 https://www.facebook.com/saved/?cref=28
 
-33.  Town Hall.ahk
+Town Hall
 https://www.facebook.com/townhall/?ref=bookmarks
 
-34.  Voting Information Center.ahk
+Voting Information Center
 https://www.facebook.com/votinginformationcenter/?entry_point=Ym9va21hcms`%3D
 
-35.  Weather.ahk
+Weather
 https://www.facebook.com/weather/?orig_src=bookmark
 Facebook Options

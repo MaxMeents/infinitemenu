@@ -1,13 +1,13 @@
 
-1.  AI
+AI
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/AI/AI.txt
 
-2.  Beginners Guide To Computers
+Beginners Guide To Computers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Beginners_Guide_To_Computers/Beginners_Guide_To_Computers.txt
 
-3.  Operating Systems
+Operating Systems
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Operating_Systems.txt
 
-4.  Programming
+Programming
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Programming/Programming.txt
 Computers

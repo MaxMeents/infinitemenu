@@ -1,0 +1,34 @@
+
+Business News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Business_News/Business_News.txt
+
+Gossip & Tabloid News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Gossip_&_Tabloid_News/Gossip_&_Tabloid_News.txt
+
+Health News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Health_News/Health_News.txt
+
+Politics
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Politics/Politics.txt
+
+Sports News
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Sports_News/Sports_News.txt
+
+Weather
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/News/Weather/Weather.txt
+
+Google News 
+https://www.google.com/search?q=News
+
+Wikipedia News 
+https://en.wikipedia.org/wiki/News
+
+YT Channels News 
+https://www.youtube.com/watch?search_query=News&sp=EgIQAg`%253D`%253D
+
+YT Playlists News 
+https://www.youtube.com/watch?search_query=News&sp=EgIQAw`%253D`%253D
+
+YT Search News 
+https://www.youtube.com/watch?search_query=News
+News

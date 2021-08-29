@@ -1,13 +1,13 @@
 
-1.  Culinary Herbs and Spices
+Culinary Herbs and Spices
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Culinary_Herbs_and_Spices/Culinary_Herbs_and_Spices.txt
 
-2.  Ediable Fruits
+Ediable Fruits
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/Ediable_Fruits.txt
 
-3.  List of tree genera
+List of tree genera
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/List_of_tree_genera.txt
 
-4.  Numbers
+Numbers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/Numbers.txt
 Wikipedia

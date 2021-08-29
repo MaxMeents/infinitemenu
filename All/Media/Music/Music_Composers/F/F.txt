@@ -1,856 +1,856 @@
 
-1.  Fabio Campana
+Fabio Campana
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fabio_Campana/Fabio_Campana.txt
 
-2.  Fabritio Caroso
+Fabritio Caroso
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fabritio_Caroso/Fabritio_Caroso.txt
 
-3.  Fabrizio De Rossi Re
+Fabrizio De Rossi Re
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fabrizio_De_Rossi_Re/Fabrizio_De_Rossi_Re.txt
 
-4.  Fabrizio Dentice
+Fabrizio Dentice
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fabrizio_Dentice/Fabrizio_Dentice.txt
 
-5.  Facundo Cabral
+Facundo Cabral
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Facundo_Cabral/Facundo_Cabral.txt
 
-6.  Fanny Mendelssohn
+Fanny Mendelssohn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fanny_Mendelssohn/Fanny_Mendelssohn.txt
 
-7.  Farid Zoland
+Farid Zoland
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Farid_Zoland/Farid_Zoland.txt
 
-8.  Fartein Valen
+Fartein Valen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fartein_Valen/Fartein_Valen.txt
 
-9.  Fazil Say
+Fazil Say
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fazil_Say/Fazil_Say.txt
 
-10.  Federico Mompou
+Federico Mompou
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Federico_Mompou/Federico_Mompou.txt
 
-11.  Federico Moreno Torroba
+Federico Moreno Torroba
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Federico_Moreno_Torroba/Federico_Moreno_Torroba.txt
 
-12.  Federico Ricci
+Federico Ricci
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Federico_Ricci/Federico_Ricci.txt
 
-13.  Federigo Fiorillo
+Federigo Fiorillo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Federigo_Fiorillo/Federigo_Fiorillo.txt
 
-14.  Felice Anerio
+Felice Anerio
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felice_Anerio/Felice_Anerio.txt
 
-15.  Felice Lattuada
+Felice Lattuada
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felice_Lattuada/Felice_Lattuada.txt
 
-16.  Felix Benda
+Felix Benda
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Benda/Felix_Benda.txt
 
-17.  Felix Bernard
+Felix Bernard
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Bernard/Felix_Bernard.txt
 
-18.  Felix Blumenfeld
+Felix Blumenfeld
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Blumenfeld/Felix_Blumenfeld.txt
 
-19.  Felix Borowski
+Felix Borowski
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Borowski/Felix_Borowski.txt
 
-20.  Felix Draeseke
+Felix Draeseke
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Draeseke/Felix_Draeseke.txt
 
-21.  Felix Dreyschock
+Felix Dreyschock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Dreyschock/Felix_Dreyschock.txt
 
-22.  Felix Mendelssohn
+Felix Mendelssohn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Mendelssohn/Felix_Mendelssohn.txt
 
-23.  Felix Mottl
+Felix Mottl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Mottl/Felix_Mottl.txt
 
-24.  Felix Weingartner
+Felix Weingartner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Weingartner/Felix_Weingartner.txt
 
-25.  Felix Woyrsch
+Felix Woyrsch
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Felix_Woyrsch/Felix_Woyrsch.txt
 
-26.  Ferde Grofé
+Ferde Grofé
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferde_Grofé/Ferde_Grofé.txt
 
-27.  Ferdinand David
+Ferdinand David
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_David/Ferdinand_David.txt
 
-28.  Ferdinand Fränzl
+Ferdinand Fränzl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Fränzl/Ferdinand_Fränzl.txt
 
-29.  Ferdinand Hiller
+Ferdinand Hiller
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Hiller/Ferdinand_Hiller.txt
 
-30.  Ferdinand Hummel
+Ferdinand Hummel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Hummel/Ferdinand_Hummel.txt
 
-31.  Ferdinand Hérold
+Ferdinand Hérold
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Hérold/Ferdinand_Hérold.txt
 
-32.  Ferdinand III
+Ferdinand III
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_III/Ferdinand_III.txt
 
-33.  Ferdinand Pfohl
+Ferdinand Pfohl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Pfohl/Ferdinand_Pfohl.txt
 
-34.  Ferdinand Praeger
+Ferdinand Praeger
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Praeger/Ferdinand_Praeger.txt
 
-35.  Ferdinand Ries
+Ferdinand Ries
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Ries/Ferdinand_Ries.txt
 
-36.  Ferdinand Tobias Richter
+Ferdinand Tobias Richter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinand_Tobias_Richter/Ferdinand_Tobias_Richter.txt
 
-37.  Ferdinando Bonazzi
+Ferdinando Bonazzi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinando_Bonazzi/Ferdinando_Bonazzi.txt
 
-38.  Ferdinando Carulli
+Ferdinando Carulli
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinando_Carulli/Ferdinando_Carulli.txt
 
-39.  Ferdinando Paer
+Ferdinando Paer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferdinando_Paer/Ferdinando_Paer.txt
 
-40.  Ferenc Erkel
+Ferenc Erkel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferenc_Erkel/Ferenc_Erkel.txt
 
-41.  Ferenc Farkas
+Ferenc Farkas
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferenc_Farkas/Ferenc_Farkas.txt
 
-42.  Ferenc Szabó
+Ferenc Szabó
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferenc_Szabó/Ferenc_Szabó.txt
 
-43.  Fermín María Álvarez
+Fermín María Álvarez
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fermín_María_Álvarez/Fermín_María_Álvarez.txt
 
-44.  Fernando Bustamante
+Fernando Bustamante
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fernando_Bustamante/Fernando_Bustamante.txt
 
-45.  Fernando González Casellas
+Fernando González Casellas
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fernando_González_Casellas/Fernando_González_Casellas.txt
 
-46.  Fernando Lopes-Graça
+Fernando Lopes-Graça
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fernando_Lopes-Graça/Fernando_Lopes-Graça.txt
 
-47.  Fernando Sor
+Fernando Sor
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fernando_Sor/Fernando_Sor.txt
 
-48.  Ferruccio Busoni
+Ferruccio Busoni
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Ferruccio_Busoni/Ferruccio_Busoni.txt
 
-49.  Filip Lazar
+Filip Lazar
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filip_Lazar/Filip_Lazar.txt
 
-50.  Filipe da Madre de Deus
+Filipe da Madre de Deus
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filipe_da_Madre_de_Deus/Filipe_da_Madre_de_Deus.txt
 
-51.  Filipe de Magalhães
+Filipe de Magalhães
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filipe_de_Magalhães/Filipe_de_Magalhães.txt
 
-52.  Filipina Brzezinska-Szymanowska
+Filipina Brzezinska-Szymanowska
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filipina_Brzezinska-Szymanowska/Filipina_Brzezinska-Szymanowska.txt
 
-53.  Filippo Acciaiuoli
+Filippo Acciaiuoli
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_Acciaiuoli/Filippo_Acciaiuoli.txt
 
-54.  Filippo Amadei
+Filippo Amadei
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_Amadei/Filippo_Amadei.txt
 
-55.  Filippo Azzaiolo
+Filippo Azzaiolo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_Azzaiolo/Filippo_Azzaiolo.txt
 
-56.  Filippo de Lurano
+Filippo de Lurano
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_de_Lurano/Filippo_de_Lurano.txt
 
-57.  Filippo Gragnani
+Filippo Gragnani
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_Gragnani/Filippo_Gragnani.txt
 
-58.  Filippo Marchetti
+Filippo Marchetti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Filippo_Marchetti/Filippo_Marchetti.txt
 
-59.  Fini Henriques
+Fini Henriques
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fini_Henriques/Fini_Henriques.txt
 
-60.  Firmin Lebel
+Firmin Lebel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Firmin_Lebel/Firmin_Lebel.txt
 
-61.  Firminus Caron
+Firminus Caron
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Firminus_Caron/Firminus_Caron.txt
 
-62.  Flavio Testi
+Flavio Testi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Flavio_Testi/Flavio_Testi.txt
 
-63.  Fletcher Henderson
+Fletcher Henderson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fletcher_Henderson/Fletcher_Henderson.txt
 
-64.  Flor Peeters
+Flor Peeters
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Flor_Peeters/Flor_Peeters.txt
 
-65.  Florence Aylward
+Florence Aylward
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Florence_Aylward/Florence_Aylward.txt
 
-66.  Florence Price
+Florence Price
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Florence_Price/Florence_Price.txt
 
-67.  Florent Schmitt
+Florent Schmitt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Florent_Schmitt/Florent_Schmitt.txt
 
-68.  Florian Leopold Gassmann
+Florian Leopold Gassmann
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Florian_Leopold_Gassmann/Florian_Leopold_Gassmann.txt
 
-69.  Folke Rabe
+Folke Rabe
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Folke_Rabe/Folke_Rabe.txt
 
-70.  Fortunato Chelleri
+Fortunato Chelleri
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fortunato_Chelleri/Fortunato_Chelleri.txt
 
-71.  Fran Lhotka
+Fran Lhotka
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fran_Lhotka/Fran_Lhotka.txt
 
-72.  Frances Allitsen
+Frances Allitsen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frances_Allitsen/Frances_Allitsen.txt
 
-73.  Francesc Alió
+Francesc Alió
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesc_Alió/Francesc_Alió.txt
 
-74.  Francesca Caccini
+Francesca Caccini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesca_Caccini/Francesca_Caccini.txt
 
-75.  Francesca Lebrun
+Francesca Lebrun
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesca_Lebrun/Francesca_Lebrun.txt
 
-76.  Francesco Antonio Bonporti
+Francesco Antonio Bonporti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Antonio_Bonporti/Francesco_Antonio_Bonporti.txt
 
-77.  Francesco Antonio Pistocchi
+Francesco Antonio Pistocchi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Antonio_Pistocchi/Francesco_Antonio_Pistocchi.txt
 
-78.  Francesco Antonio Vallotti
+Francesco Antonio Vallotti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Antonio_Vallotti/Francesco_Antonio_Vallotti.txt
 
-79.  Francesco Araja
+Francesco Araja
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Araja/Francesco_Araja.txt
 
-80.  Francesco Barsanti
+Francesco Barsanti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Barsanti/Francesco_Barsanti.txt
 
-81.  Francesco Bartolomeo Conti
+Francesco Bartolomeo Conti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Bartolomeo_Conti/Francesco_Bartolomeo_Conti.txt
 
-82.  Francesco Besozzi
+Francesco Besozzi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Besozzi/Francesco_Besozzi.txt
 
-83.  Francesco Bianchi
+Francesco Bianchi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Bianchi/Francesco_Bianchi.txt
 
-84.  Francesco Canova da Milano
+Francesco Canova da Milano
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Canova_da_Milano/Francesco_Canova_da_Milano.txt
 
-85.  Francesco Cavalli
+Francesco Cavalli
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Cavalli/Francesco_Cavalli.txt
 
-86.  Francesco Cellavenia
+Francesco Cellavenia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Cellavenia/Francesco_Cellavenia.txt
 
-87.  Francesco Cilea
+Francesco Cilea
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Cilea/Francesco_Cilea.txt
 
-88.  Francesco Corbetta
+Francesco Corbetta
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Corbetta/Francesco_Corbetta.txt
 
-89.  Francesco Corteccia
+Francesco Corteccia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Corteccia/Francesco_Corteccia.txt
 
-90.  Francesco de Layolle
+Francesco de Layolle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_de_Layolle/Francesco_de_Layolle.txt
 
-91.  Francesco Durante
+Francesco Durante
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Durante/Francesco_Durante.txt
 
-92.  Francesco Feo
+Francesco Feo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Feo/Francesco_Feo.txt
 
-93.  Francesco Foggia
+Francesco Foggia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Foggia/Francesco_Foggia.txt
 
-94.  Francesco Gasparini
+Francesco Gasparini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Gasparini/Francesco_Gasparini.txt
 
-95.  Francesco Geminiani
+Francesco Geminiani
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Geminiani/Francesco_Geminiani.txt
 
-96.  Francesco Landini
+Francesco Landini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Landini/Francesco_Landini.txt
 
-97.  Francesco Mancini
+Francesco Mancini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Mancini/Francesco_Mancini.txt
 
-98.  Francesco Manelli
+Francesco Manelli
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Manelli/Francesco_Manelli.txt
 
-99.  Francesco Manfredini
+Francesco Manfredini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Manfredini/Francesco_Manfredini.txt
 
-100.  Francesco Maria Bazzani
+Francesco Maria Bazzani
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Maria_Bazzani/Francesco_Maria_Bazzani.txt
 
-101.  Francesco Maria Veracini
+Francesco Maria Veracini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Maria_Veracini/Francesco_Maria_Veracini.txt
 
-102.  Francesco Morlacchi
+Francesco Morlacchi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Morlacchi/Francesco_Morlacchi.txt
 
-103.  Francesco Provenzale
+Francesco Provenzale
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Provenzale/Francesco_Provenzale.txt
 
-104.  Francesco Rasi
+Francesco Rasi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Rasi/Francesco_Rasi.txt
 
-105.  Francesco Rovigo
+Francesco Rovigo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Rovigo/Francesco_Rovigo.txt
 
-106.  Francesco Sacrati
+Francesco Sacrati
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Sacrati/Francesco_Sacrati.txt
 
-107.  Francesco Scarlatti
+Francesco Scarlatti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Scarlatti/Francesco_Scarlatti.txt
 
-108.  Francesco Soriano
+Francesco Soriano
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Soriano/Francesco_Soriano.txt
 
-109.  Francesco Spinacino
+Francesco Spinacino
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Spinacino/Francesco_Spinacino.txt
 
-110.  Francesco Turini
+Francesco Turini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Turini/Francesco_Turini.txt
 
-111.  Francesco Usper
+Francesco Usper
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Usper/Francesco_Usper.txt
 
-112.  Francesco Uttini
+Francesco Uttini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francesco_Uttini/Francesco_Uttini.txt
 
-113.  Franchinus Gaffurius
+Franchinus Gaffurius
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franchinus_Gaffurius/Franchinus_Gaffurius.txt
 
-114.  Francis Boott
+Francis Boott
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Boott/Francis_Boott.txt
 
-115.  Francis Edward Bache
+Francis Edward Bache
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Edward_Bache/Francis_Edward_Bache.txt
 
-116.  Francis Jackson
+Francis Jackson
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Jackson/Francis_Jackson.txt
 
-117.  Francis Pilkington
+Francis Pilkington
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Pilkington/Francis_Pilkington.txt
 
-118.  Francis Poulenc
+Francis Poulenc
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Poulenc/Francis_Poulenc.txt
 
-119.  Francis Thorne
+Francis Thorne
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francis_Thorne/Francis_Thorne.txt
 
-120.  Francisco Alonso
+Francisco Alonso
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Alonso/Francisco_Alonso.txt
 
-121.  Francisco António de Almeida
+Francisco António de Almeida
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_António_de_Almeida/Francisco_António_de_Almeida.txt
 
-122.  Francisco Asenjo Barbieri
+Francisco Asenjo Barbieri
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Asenjo_Barbieri/Francisco_Asenjo_Barbieri.txt
 
-123.  Francisco Calés Pina
+Francisco Calés Pina
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Calés_Pina/Francisco_Calés_Pina.txt
 
-124.  Francisco Canaro
+Francisco Canaro
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Canaro/Francisco_Canaro.txt
 
-125.  Francisco Correa de Arauxo
+Francisco Correa de Arauxo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Correa_de_Arauxo/Francisco_Correa_de_Arauxo.txt
 
-126.  Francisco de la Torre
+Francisco de la Torre
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_de_la_Torre/Francisco_de_la_Torre.txt
 
-127.  Francisco de Peñalosa
+Francisco de Peñalosa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_de_Peñalosa/Francisco_de_Peñalosa.txt
 
-128.  Francisco Guerau
+Francisco Guerau
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Guerau/Francisco_Guerau.txt
 
-129.  Francisco Guerrero
+Francisco Guerrero
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Guerrero/Francisco_Guerrero.txt
 
-130.  Francisco Guerrero Marín
+Francisco Guerrero Marín
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Guerrero_Marín/Francisco_Guerrero_Marín.txt
 
-131.  Francisco Lopez Capillas
+Francisco Lopez Capillas
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Lopez_Capillas/Francisco_Lopez_Capillas.txt
 
-132.  Francisco Mignone
+Francisco Mignone
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Mignone/Francisco_Mignone.txt
 
-133.  Francisco Núñez
+Francisco Núñez
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Núñez/Francisco_Núñez.txt
 
-134.  Francisco Tárrega
+Francisco Tárrega
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Tárrega/Francisco_Tárrega.txt
 
-135.  Francisco Valls
+Francisco Valls
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francisco_Valls/Francisco_Valls.txt
 
-136.  Franciscus Bossinensis
+Franciscus Bossinensis
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franciscus_Bossinensis/Franciscus_Bossinensis.txt
 
-137.  Franciszek Lessel
+Franciszek Lessel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franciszek_Lessel/Franciszek_Lessel.txt
 
-138.  Franco Alfano
+Franco Alfano
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Alfano/Franco_Alfano.txt
 
-139.  Franco Donatoni
+Franco Donatoni
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Donatoni/Franco_Donatoni.txt
 
-140.  Franco Evangelisti
+Franco Evangelisti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Evangelisti/Franco_Evangelisti.txt
 
-141.  Franco Leoni
+Franco Leoni
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Leoni/Franco_Leoni.txt
 
-142.  Franco Mannino
+Franco Mannino
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Mannino/Franco_Mannino.txt
 
-143.  Franco Margola
+Franco Margola
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Margola/Franco_Margola.txt
 
-144.  Franco Vittadini
+Franco Vittadini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franco_Vittadini/Franco_Vittadini.txt
 
-145.  Francois-Adrien Boieldieu
+Francois-Adrien Boieldieu
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Francois-Adrien_Boieldieu/Francois-Adrien_Boieldieu.txt
 
-146.  Franghiz Ali-Zadeh
+Franghiz Ali-Zadeh
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franghiz_Ali-Zadeh/Franghiz_Ali-Zadeh.txt
 
-147.  Frank Bridge
+Frank Bridge
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Bridge/Frank_Bridge.txt
 
-148.  Frank Ferko
+Frank Ferko
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Ferko/Frank_Ferko.txt
 
-149.  Frank La Rocca
+Frank La Rocca
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_La_Rocca/Frank_La_Rocca.txt
 
-150.  Frank Lewin
+Frank Lewin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Lewin/Frank_Lewin.txt
 
-151.  Frank Loesser
+Frank Loesser
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Loesser/Frank_Loesser.txt
 
-152.  Frank Martin
+Frank Martin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Martin/Frank_Martin.txt
 
-153.  Frank Michael Beyer
+Frank Michael Beyer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Michael_Beyer/Frank_Michael_Beyer.txt
 
-154.  Frank Ricotti
+Frank Ricotti
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Ricotti/Frank_Ricotti.txt
 
-155.  Frank Ticheli
+Frank Ticheli
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Ticheli/Frank_Ticheli.txt
 
-156.  Frank Zappa
+Frank Zappa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frank_Zappa/Frank_Zappa.txt
 
-157.  Frankie Trumbauer
+Frankie Trumbauer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frankie_Trumbauer/Frankie_Trumbauer.txt
 
-158.  Frans Geysen
+Frans Geysen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frans_Geysen/Frans_Geysen.txt
 
-159.  Frantisek Brixi
+Frantisek Brixi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frantisek_Brixi/Frantisek_Brixi.txt
 
-160.  František Domažlický
+František Domažlický
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Domažlický/František_Domažlický.txt
 
-161.  František Jiránek
+František Jiránek
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Jiránek/František_Jiránek.txt
 
-162.  František Tuma
+František Tuma
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Tuma/František_Tuma.txt
 
-163.  František Xaver Dušek
+František Xaver Dušek
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Xaver_Dušek/František_Xaver_Dušek.txt
 
-164.  František Xaver Pokorný
+František Xaver Pokorný
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Xaver_Pokorný/František_Xaver_Pokorný.txt
 
-165.  František Škroup
+František Škroup
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/František_Škroup/František_Škroup.txt
 
-166.  Franz Abt
+Franz Abt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Abt/Franz_Abt.txt
 
-167.  Franz Anton Hoffmeister
+Franz Anton Hoffmeister
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Anton_Hoffmeister/Franz_Anton_Hoffmeister.txt
 
-168.  Franz Asplmayr
+Franz Asplmayr
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Asplmayr/Franz_Asplmayr.txt
 
-169.  Franz Behr
+Franz Behr
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Behr/Franz_Behr.txt
 
-170.  Franz Benda
+Franz Benda
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Benda/Franz_Benda.txt
 
-171.  Franz Bendel
+Franz Bendel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Bendel/Franz_Bendel.txt
 
-172.  Franz Berwald
+Franz Berwald
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Berwald/Franz_Berwald.txt
 
-173.  Franz Biebl
+Franz Biebl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Biebl/Franz_Biebl.txt
 
-174.  Franz Cramer
+Franz Cramer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Cramer/Franz_Cramer.txt
 
-175.  Franz Danzi
+Franz Danzi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Danzi/Franz_Danzi.txt
 
-176.  Franz Doppler
+Franz Doppler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Doppler/Franz_Doppler.txt
 
-177.  Franz Grill
+Franz Grill
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Grill/Franz_Grill.txt
 
-178.  Franz Hitz
+Franz Hitz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Hitz/Franz_Hitz.txt
 
-179.  Franz Hummel
+Franz Hummel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Hummel/Franz_Hummel.txt
 
-180.  Franz Ignaz Beck
+Franz Ignaz Beck
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Ignaz_Beck/Franz_Ignaz_Beck.txt
 
-181.  Franz Krenn
+Franz Krenn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Krenn/Franz_Krenn.txt
 
-182.  Franz Krommer
+Franz Krommer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Krommer/Franz_Krommer.txt
 
-183.  Franz Lachner
+Franz Lachner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Lachner/Franz_Lachner.txt
 
-184.  Franz Lauska
+Franz Lauska
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Lauska/Franz_Lauska.txt
 
-185.  Franz Lehrndorfer
+Franz Lehrndorfer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Lehrndorfer/Franz_Lehrndorfer.txt
 
-186.  Franz Lehár
+Franz Lehár
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Lehár/Franz_Lehár.txt
 
-187.  Franz Liszt
+Franz Liszt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Liszt/Franz_Liszt.txt
 
-188.  Franz Nikolaus Novotny
+Franz Nikolaus Novotny
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Nikolaus_Novotny/Franz_Nikolaus_Novotny.txt
 
-189.  Franz Schmidt
+Franz Schmidt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Schmidt/Franz_Schmidt.txt
 
-190.  Franz Schreker
+Franz Schreker
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Schreker/Franz_Schreker.txt
 
-191.  Franz Schubert
+Franz Schubert
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Schubert/Franz_Schubert.txt
 
-192.  Franz Tausch
+Franz Tausch
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Tausch/Franz_Tausch.txt
 
-193.  Franz Tunder
+Franz Tunder
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Tunder/Franz_Tunder.txt
 
-194.  Franz von Suppé
+Franz von Suppé
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_von_Suppé/Franz_von_Suppé.txt
 
-195.  Franz Waxman
+Franz Waxman
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Waxman/Franz_Waxman.txt
 
-196.  Franz Xaver Gruber
+Franz Xaver Gruber
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Gruber/Franz_Xaver_Gruber.txt
 
-197.  Franz Xaver Hammer
+Franz Xaver Hammer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Hammer/Franz_Xaver_Hammer.txt
 
-198.  Franz Xaver Mozart
+Franz Xaver Mozart
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Mozart/Franz_Xaver_Mozart.txt
 
-199.  Franz Xaver Murschhauser
+Franz Xaver Murschhauser
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Murschhauser/Franz_Xaver_Murschhauser.txt
 
-200.  Franz Xaver Richter
+Franz Xaver Richter
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Richter/Franz_Xaver_Richter.txt
 
-201.  Franz Xaver Süssmayr
+Franz Xaver Süssmayr
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Süssmayr/Franz_Xaver_Süssmayr.txt
 
-202.  Franz Xaver Witt
+Franz Xaver Witt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Franz_Xaver_Witt/Franz_Xaver_Witt.txt
 
-203.  François Bayle
+François Bayle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Bayle/François_Bayle.txt
 
-204.  François Bazin
+François Bazin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Bazin/François_Bazin.txt
 
-205.  François Borne
+François Borne
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Borne/François_Borne.txt
 
-206.  François Bouvard
+François Bouvard
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Bouvard/François_Bouvard.txt
 
-207.  François Colin de Blamont
+François Colin de Blamont
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Colin_de_Blamont/François_Colin_de_Blamont.txt
 
-208.  François Couperin
+François Couperin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Couperin/François_Couperin.txt
 
-209.  François d'Agincourt
+François d'Agincourt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_d'Agincourt/François_d'Agincourt.txt
 
-210.  François de Fossa
+François de Fossa
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_de_Fossa/François_de_Fossa.txt
 
-211.  François Devienne
+François Devienne
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Devienne/François_Devienne.txt
 
-212.  François Dufault
+François Dufault
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Dufault/François_Dufault.txt
 
-213.  François Francoeur
+François Francoeur
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Francoeur/François_Francoeur.txt
 
-214.  François Hippolyte Barthélemon
+François Hippolyte Barthélemon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Hippolyte_Barthélemon/François_Hippolyte_Barthélemon.txt
 
-215.  François Joseph Gossec
+François Joseph Gossec
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Joseph_Gossec/François_Joseph_Gossec.txt
 
-216.  François Joseph Naderman
+François Joseph Naderman
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Joseph_Naderman/François_Joseph_Naderman.txt
 
-217.  François Martin
+François Martin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Martin/François_Martin.txt
 
-218.  François Rebel
+François Rebel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Rebel/François_Rebel.txt
 
-219.  François Roberday
+François Roberday
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_Roberday/François_Roberday.txt
 
-220.  François van Campenhout
+François van Campenhout
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François_van_Campenhout/François_van_Campenhout.txt
 
-221.  François-André Danican Philidor
+François-André Danican Philidor
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François-André_Danican_Philidor/François-André_Danican_Philidor.txt
 
-222.  François-Bernard Mâche
+François-Bernard Mâche
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François-Bernard_Mâche/François-Bernard_Mâche.txt
 
-223.  François-Joseph Fétis
+François-Joseph Fétis
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François-Joseph_Fétis/François-Joseph_Fétis.txt
 
-224.  François-Louis Perne
+François-Louis Perne
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/François-Louis_Perne/François-Louis_Perne.txt
 
-225.  Françoise Barrière
+Françoise Barrière
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Françoise_Barrière/Françoise_Barrière.txt
 
-226.  Fred Lerdahl
+Fred Lerdahl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fred_Lerdahl/Fred_Lerdahl.txt
 
-227.  Fred Momotenko
+Fred Momotenko
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fred_Momotenko/Fred_Momotenko.txt
 
-228.  Fred Raymond
+Fred Raymond
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fred_Raymond/Fred_Raymond.txt
 
-229.  Frederic Archer
+Frederic Archer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Archer/Frederic_Archer.txt
 
-230.  Frederic Austin
+Frederic Austin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Austin/Frederic_Austin.txt
 
-231.  Frederic Cliffe
+Frederic Cliffe
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Cliffe/Frederic_Cliffe.txt
 
-232.  Frederic Ernest Fesca
+Frederic Ernest Fesca
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Ernest_Fesca/Frederic_Ernest_Fesca.txt
 
-233.  Frederic Hymen Cowen
+Frederic Hymen Cowen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Hymen_Cowen/Frederic_Hymen_Cowen.txt
 
-234.  Frederic Rzewski
+Frederic Rzewski
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederic_Rzewski/Frederic_Rzewski.txt
 
-235.  Frederick Ayres
+Frederick Ayres
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Ayres/Frederick_Ayres.txt
 
-236.  Frederick Bianchi
+Frederick Bianchi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Bianchi/Frederick_Bianchi.txt
 
-237.  Frederick Converse
+Frederick Converse
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Converse/Frederick_Converse.txt
 
-238.  Frederick Corder
+Frederick Corder
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Corder/Frederick_Corder.txt
 
-239.  Frederick Delius
+Frederick Delius
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Delius/Frederick_Delius.txt
 
-240.  Frederick Grant Gleason
+Frederick Grant Gleason
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Grant_Gleason/Frederick_Grant_Gleason.txt
 
-241.  Frederick Jacobi
+Frederick Jacobi
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Jacobi/Frederick_Jacobi.txt
 
-242.  Frederick May
+Frederick May
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_May/Frederick_May.txt
 
-243.  Frederick Ouseley
+Frederick Ouseley
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederick_Ouseley/Frederick_Ouseley.txt
 
-244.  Frederik Magle
+Frederik Magle
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frederik_Magle/Frederik_Magle.txt
 
-245.  Fredrik Pacius
+Fredrik Pacius
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fredrik_Pacius/Fredrik_Pacius.txt
 
-246.  Fredrik Sixten
+Fredrik Sixten
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fredrik_Sixten/Fredrik_Sixten.txt
 
-247.  Fridtjof Backer-Grøndahl
+Fridtjof Backer-Grøndahl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fridtjof_Backer-Grøndahl/Fridtjof_Backer-Grøndahl.txt
 
-248.  Friedhelm Döhl
+Friedhelm Döhl
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedhelm_Döhl/Friedhelm_Döhl.txt
 
-249.  Friedrich Baumfelder
+Friedrich Baumfelder
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Baumfelder/Friedrich_Baumfelder.txt
 
-250.  Friedrich Benda
+Friedrich Benda
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Benda/Friedrich_Benda.txt
 
-251.  Friedrich Christian Hermann Uber
+Friedrich Christian Hermann Uber
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Christian_Hermann_Uber/Friedrich_Christian_Hermann_Uber.txt
 
-252.  Friedrich Dotzauer
+Friedrich Dotzauer
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Dotzauer/Friedrich_Dotzauer.txt
 
-253.  Friedrich Dülon
+Friedrich Dülon
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Dülon/Friedrich_Dülon.txt
 
-254.  Friedrich Funcke
+Friedrich Funcke
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Funcke/Friedrich_Funcke.txt
 
-255.  Friedrich Gernsheim
+Friedrich Gernsheim
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Gernsheim/Friedrich_Gernsheim.txt
 
-256.  Friedrich Gulda
+Friedrich Gulda
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Gulda/Friedrich_Gulda.txt
 
-257.  Friedrich Hartmann Graf
+Friedrich Hartmann Graf
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Hartmann_Graf/Friedrich_Hartmann_Graf.txt
 
-258.  Friedrich Heinrich Himmel
+Friedrich Heinrich Himmel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Heinrich_Himmel/Friedrich_Heinrich_Himmel.txt
 
-259.  Friedrich Hieronymus Truhn
+Friedrich Hieronymus Truhn
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Hieronymus_Truhn/Friedrich_Hieronymus_Truhn.txt
 
-260.  Friedrich Kalkbrenner
+Friedrich Kalkbrenner
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Kalkbrenner/Friedrich_Kalkbrenner.txt
 
-261.  Friedrich Kiel
+Friedrich Kiel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Kiel/Friedrich_Kiel.txt
 
-262.  Friedrich Klose
+Friedrich Klose
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Klose/Friedrich_Klose.txt
 
-263.  Friedrich Kuhlau
+Friedrich Kuhlau
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Kuhlau/Friedrich_Kuhlau.txt
 
-264.  Friedrich Schröder
+Friedrich Schröder
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Schröder/Friedrich_Schröder.txt
 
-265.  Friedrich von Flotow
+Friedrich von Flotow
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_von_Flotow/Friedrich_von_Flotow.txt
 
-266.  Friedrich Wilhelm Rust
+Friedrich Wilhelm Rust
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Wilhelm_Rust/Friedrich_Wilhelm_Rust.txt
 
-267.  Friedrich Wilhelm Zachow
+Friedrich Wilhelm Zachow
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Wilhelm_Zachow/Friedrich_Wilhelm_Zachow.txt
 
-268.  Friedrich Witt
+Friedrich Witt
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Witt/Friedrich_Witt.txt
 
-269.  Friedrich Zehm
+Friedrich Zehm
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Friedrich_Zehm/Friedrich_Zehm.txt
 
-270.  Frigyes Hidas
+Frigyes Hidas
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frigyes_Hidas/Frigyes_Hidas.txt
 
-271.  Fritz Andersen
+Fritz Andersen
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fritz_Andersen/Fritz_Andersen.txt
 
-272.  Fritz Bovet
+Fritz Bovet
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fritz_Bovet/Fritz_Bovet.txt
 
-273.  Fritz Brun
+Fritz Brun
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fritz_Brun/Fritz_Brun.txt
 
-274.  Fritz Kreisler
+Fritz Kreisler
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fritz_Kreisler/Fritz_Kreisler.txt
 
-275.  Fritz Seitz
+Fritz Seitz
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fritz_Seitz/Fritz_Seitz.txt
 
-276.  Fromental Halévy
+Fromental Halévy
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fromental_Halévy/Fromental_Halévy.txt
 
-277.  Frédéric Alfred d'Erlanger
+Frédéric Alfred d'Erlanger
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frédéric_Alfred_d'Erlanger/Frédéric_Alfred_d'Erlanger.txt
 
-278.  Frédéric Blasius
+Frédéric Blasius
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frédéric_Blasius/Frédéric_Blasius.txt
 
-279.  Frédéric Bérat
+Frédéric Bérat
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frédéric_Bérat/Frédéric_Bérat.txt
 
-280.  Frédéric Chopin
+Frédéric Chopin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frédéric_Chopin/Frédéric_Chopin.txt
 
-281.  Frédéric Devreese
+Frédéric Devreese
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Frédéric_Devreese/Frédéric_Devreese.txt
 
-282.  Fulvio Caldini
+Fulvio Caldini
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Fulvio_Caldini/Fulvio_Caldini.txt
 
-283.  Félicien-César David
+Félicien-César David
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Félicien-César_David/Félicien-César_David.txt
 
-284.  Félix Astol Artés
+Félix Astol Artés
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Félix_Astol_Artés/Félix_Astol_Artés.txt
 
-285.  Félix Godefroid
+Félix Godefroid
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music_Composers/F/Félix_Godefroid/Félix_Godefroid.txt
 F

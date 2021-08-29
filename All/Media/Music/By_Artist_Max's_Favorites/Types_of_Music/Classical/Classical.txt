@@ -1,31 +1,31 @@
 
-1.  Avant-Garde
+Avant-Garde
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Avant-Garde/Avant-Garde.txt
 
-2.  Ballet
+Ballet
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Ballet/Ballet.txt
 
-3.  Baroque
+Baroque
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Baroque/Baroque.txt
 
-4.  Cantata
+Cantata
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Cantata/Cantata.txt
 
-5.  Chamber Music
+Chamber Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Chamber_Music/Chamber_Music.txt
 
-6.  Chant
+Chant
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Chant/Chant.txt
 
-7.  Choral
+Choral
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Choral/Choral.txt
 
-8.  Classical Crossover
+Classical Crossover
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Classical_Crossover/Classical_Crossover.txt
 
-9.  Concerto
+Concerto
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Concerto/Concerto.txt
 
-10.  Concerto Grosso
+Concerto Grosso
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Classical/Concerto_Grosso/Concerto_Grosso.txt
 Classical

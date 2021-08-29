@@ -1,130 +1,130 @@
 
-1.  Angle of elevation and depression word problems.ahk
+Angle of elevation and depression word problems
 https://www.youtube.com/watch?v=yxVmbjKbXwE&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-2.  Area of a square given the diagonal-Trigonometric Lesson.ahk
+Area of a square given the diagonal-Trigonometric Lesson
 https://www.youtube.com/watch?v=jTgSelRyz8g&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-3.  Basic Trigonometry- Angle measure from Cosine-Sine-Tangent.ahk
+Basic Trigonometry- Angle measure from Cosine-Sine-Tangent
 https://www.youtube.com/watch?v=FO1ftAA2M0c&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-4.  Basic Trigonometry- Ratios-Cosine,Sine,Tangent.ahk
+Basic Trigonometry- Ratios-Cosine,Sine,Tangent
 https://www.youtube.com/watch?v=ZQGXHmFnAbg&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-5.  Basic Trigonometry-Pythagorean Theorem and Right Triangles.ahk
+Basic Trigonometry-Pythagorean Theorem and Right Triangles
 https://www.youtube.com/watch?v=cdidiiXsRXs&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-6.  Composite Function Involving Inverse Trigonometric Function.ahk
+Composite Function Involving Inverse Trigonometric Function
 https://www.youtube.com/watch?v=GQqaqy4POe8&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-7.  Converting Degrees to Radians.ahk
+Converting Degrees to Radians
 https://www.youtube.com/watch?v=HX2hnok2W8s&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-8.  Converting Radian Measure to Degree Measure and Vice Versa.ahk
+Converting Radian Measure to Degree Measure and Vice Versa
 https://www.youtube.com/watch?v=Hlnzf06jzBo&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-9.  Double and Half Angle (Sound Improve).ahk
+Double and Half Angle (Sound Improve)
 https://www.youtube.com/watch?v=xF0v970kSSk&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-10.  Double and Half Angle Identity.ahk
+Double and Half Angle Identity
 https://www.youtube.com/watch?v=arc2W6J0CYA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-11.  Exact Values of Circular Function.ahk
+Exact Values of Circular Function
 https://www.youtube.com/watch?v=p2L08d700YE&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-12.  Exact Values of Inverse Trigonometric Function.ahk
+Exact Values of Inverse Trigonometric Function
 https://www.youtube.com/watch?v=nwrNUsbriVA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-13.  Finding the angle measure of a right triangle using trig functions.ahk
+Finding the angle measure of a right triangle using trig functions
 https://www.youtube.com/watch?v=Jhb-IjnpRCM&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-14.  How to simplify square roots.ahk
+How to simplify square roots
 https://www.youtube.com/watch?v=Z3CzRTcWweo&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-15.  Introduction to Inverse Trigonometric Function.ahk
+Introduction to Inverse Trigonometric Function
 https://www.youtube.com/watch?v=MvRSoOz1Hr4&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-16.  Introduction to the Trig Ratios and SOH CAH TOA.ahk
+Introduction to the Trig Ratios and SOH CAH TOA
 https://www.youtube.com/watch?v=V-YKJg2gGtQ&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-17.  Introduction to Trigonometric Identities.ahk
+Introduction to Trigonometric Identities
 https://www.youtube.com/watch?v=FaU8hY0Gpvk&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-18.  Proving Trigonometric Identities.ahk
+Proving Trigonometric Identities
 https://www.youtube.com/watch?v=qvRngRK0T_A&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-19.  Simplifying Trigonometric Expression using Identities.ahk
+Simplifying Trigonometric Expression using Identities
 https://www.youtube.com/watch?v=Mhv5Uw536ak&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-20.  Sin Cosine and Tangent-Basic Trigonometry.ahk
+Sin Cosine and Tangent-Basic Trigonometry
 https://www.youtube.com/watch?v=pbaXX-3RPtc&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-21.  Solving Problems Involving Circular Function.ahk
+Solving Problems Involving Circular Function
 https://www.youtube.com/watch?v=bWk1PdE4ObA&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-22.  Solving Trigonometric Equations.ahk
+Solving Trigonometric Equations
 https://www.youtube.com/watch?v=3IYxO0iEv24&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-23.  Sum and Difference Identity.ahk
+Sum and Difference Identity
 https://www.youtube.com/watch?v=siQu0Q1zIXo&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-24.  Trig ratio word problem-Geometry help-MooMooMath.ahk
+Trig ratio word problem-Geometry help-MooMooMath
 https://www.youtube.com/watch?v=02H0bdCKLms&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-25.  Trig Ratios Word problems=Geometry Help-MooMooMath.ahk
+Trig Ratios Word problems=Geometry Help-MooMooMath
 https://www.youtube.com/watch?v=WZeIzfEFqyA&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-26.  Trig Word Problems- Angle of Depression Problem.ahk
+Trig Word Problems- Angle of Depression Problem
 https://www.youtube.com/watch?v=xxcy_Djix-A&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-27.  Trigonometric Lesson 2-30 60 90 triangles part 2-Geometry Help-MooMooMath.ahk
+Trigonometric Lesson 2-30 60 90 triangles part 2-Geometry Help-MooMooMath
 https://www.youtube.com/watch?v=JrSWXPDPAi0&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-28.  Trigonometry Lesson 1 part 4 Simplifying Radicals-Geometry Help.ahk
+Trigonometry Lesson 1 part 4 Simplifying Radicals-Geometry Help
 https://www.youtube.com/watch?v=YQaQhJuKnKU&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-29.  Trigonometry Lesson 1 The Pythagorean Theorem.ahk
+Trigonometry Lesson 1 The Pythagorean Theorem
 https://www.youtube.com/watch?v=iHnq81RR_tA&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-30.  Trigonometry Lesson 3  45 45 90 Special Right Triangles.ahk
+Trigonometry Lesson 3  45 45 90 Special Right Triangles
 https://www.youtube.com/watch?v=9ZFCT4kCnoY&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-31.  Trigonometry Lesson 5 Trigonometry Review.ahk
+Trigonometry Lesson 5 Trigonometry Review
 https://www.youtube.com/watch?v=3TGX1trCunw&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-32.  Trigonometry Lesson 6  Sine Cosine Tangent.ahk
+Trigonometry Lesson 6  Sine Cosine Tangent
 https://www.youtube.com/watch?v=BTlg2f0Seow&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-33.  Trigonometry Lesson 7 Trigonometry Problems.ahk
+Trigonometry Lesson 7 Trigonometry Problems
 https://www.youtube.com/watch?v=oGnS4iolDYc&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-34.  Trigonometry Lesson 8  Trig word problems.ahk
+Trigonometry Lesson 8  Trig word problems
 https://www.youtube.com/watch?v=sTIOWZdV__8&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-35.  Trigonometry Lesson- 30 60 90 Special Right Triangles-Finding leg lengths.ahk
+Trigonometry Lesson- 30 60 90 Special Right Triangles-Finding leg lengths
 https://www.youtube.com/watch?v=WjkwK7tCeeI&list=PLurjkZV1ykGaLe1Jutl-zmk6ufLJCsfhl
 
-36.  trigonometry session 2.ahk
+trigonometry session 2
 https://www.youtube.com/watch?v=qBf52Usjs0Y&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-37.  Trigonometry Session 3 - Trigonometrical Ratios of Standard Angles.ahk
+Trigonometry Session 3 - Trigonometrical Ratios of Standard Angles
 https://www.youtube.com/watch?v=6lPAIV5kctE&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-38.  trigonometry session 7.ahk
+trigonometry session 7
 https://www.youtube.com/watch?v=8_PVEqhnlYk&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-39.  Trigonometry Session 8.ahk
+Trigonometry Session 8
 https://www.youtube.com/watch?v=fPYQNKTwhM0&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-40.  Trigonometry Session1.ahk
+Trigonometry Session1
 https://www.youtube.com/watch?v=VAGbcNw-t_w&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-41.  trigonometry session6.ahk
+trigonometry session6
 https://www.youtube.com/watch?v=L3Hf1F6O7Fc&list=PLClIljYgWC2g1zt-PYOJnREsCKLcQk8Al
 
-42.  Understanding Angles in Rectangular Coordinate System.ahk
+Understanding Angles in Rectangular Coordinate System
 https://www.youtube.com/watch?v=9SgNdcAEnGs&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 
-43.  Unit Circle.ahk
+Unit Circle
 https://www.youtube.com/watch?v=lvP9yhu-cZc&list=PL8uvLgV2r8SMcSvU0HZSWdz2uAJ06lKhg
 Trigonometry Lessons

@@ -1,0 +1,220 @@
+
+10 Questions You NEED to Ask During Your Tech Job Interview
+https://www.youtube.com/watch?v=s9XPTay-x8g
+
+3 Concepts to Master for DevOpsSRE Interviews
+https://www.youtube.com/watch?v=qW1Y4vOcRGc
+
+5 Things I Wish I Knew Before Starting a Tech Career
+https://www.youtube.com/watch?v=cobUn_hkzQI
+
+6 Tips to Start Your Tech Career in 2021
+https://www.youtube.com/watch?v=6ZhKPIWIZAw
+
+8 Bash Shortcuts Every Linux User Should Know
+https://www.youtube.com/watch?v=C-AQAJXdoS8
+
+8 Basic lsof Commands Every Sysadmin Needs to Know
+https://www.youtube.com/watch?v=rLgRkjM7amo
+
+A Guide to the DevOps Technical Interview
+https://www.youtube.com/watch?v=8kayz6Q4FYU
+
+Ansible 2 For Beginners Linux Automation Course Overview
+https://www.youtube.com/watch?v=CFmcWt9YXHk
+
+Archiving and Compression on Linux - Basic tar Commands
+https://www.youtube.com/watch?v=tSRlNwaUgPQ
+
+Bash Scripting 1 - Why Write Bash Scripts
+https://www.youtube.com/watch?v=xtS2NiABf54
+
+Bash Scripting 2 -- Bash Basics
+https://www.youtube.com/watch?v=4-hw6DPBlsw
+
+Bash Scripting 3 -- Variables and Quoting
+https://www.youtube.com/watch?v=MYWvVgIL_Ys
+
+Bash Scripting 4 -- How Bash Scripts Work
+https://www.youtube.com/watch?v=U2_MvxnqLRE
+
+Bash Scripting 5 -- Arguments
+https://www.youtube.com/watch?v=Vbu8rfVaABw
+
+Bash Scripting 6 -- 'If' and Testing Explained
+https://www.youtube.com/watch?v=VMZBFjYgjR4
+
+Bash Scripting 7 Functions and Course Review
+https://www.youtube.com/watch?v=9EfN5clA710
+
+Basic Linux Access Control
+https://www.youtube.com/watch?v=WhCIuGjhH-0
+
+Basic tmux Tutorial - Windows, Panes, and Sessions over SSH
+https://www.youtube.com/watch?v=BHhA_ZKjyxo
+
+Basic tmux Tutorial, Part 2 -- Shared Sessions
+https://www.youtube.com/watch?v=norO25P7xHg
+
+DevOps Resume Projects
+https://www.youtube.com/watch?v=pO-8y_f8YMQ
+
+Everything You Need to Know About $PATH in Bash
+https://www.youtube.com/watch?v=rJMFxIbDe-g
+
+Genius Level Support Engineer Interview
+https://www.youtube.com/watch?v=aQHAKgcDNPA
+
+How I Think About Learning
+https://www.youtube.com/watch?v=_v1SOxC4AAM
+
+How to Backup and Restore a MySQLMariaDB Database
+https://www.youtube.com/watch?v=vIIRuDtG1yI
+
+How to Create a systemd Linux Service
+https://www.youtube.com/watch?v=C4a7jxlMTfo
+
+How to make an extra $1mil during your tech career
+https://www.youtube.com/watch?v=40gguzzXD8U
+
+How to move from Ops to DevOps, Step by Step
+https://www.youtube.com/watch?v=1_OqSMv20Mo
+
+How to safely delete Linux System Logs
+https://www.youtube.com/watch?v=AXfboZnKtgg
+
+How to tail (follow) Linux Service Logs
+https://www.youtube.com/watch?v=wIbSnH1pKaE
+
+Interview with a Software & Infrastructure Engineer
+https://www.youtube.com/watch?v=uouVpYQqspo
+
+Linux Basics -- Filesystem and AbsoluteRelative Pathnames Explained
+https://www.youtube.com/watch?v=ar37viZGQwk
+
+Linux Basics -- Linux File Types Explained
+https://www.youtube.com/watch?v=EDgkcvOoY8A
+
+Linux Basics -- Scheduling Tasks with Cron
+https://www.youtube.com/watch?v=8j0SWYNglcw
+
+Linux Command 'tee' - Watch & Log Command Output
+https://www.youtube.com/watch?v=09v8vDOpdYo
+
+Linux Command-Line for Beginners What's happening on this machine
+https://www.youtube.com/watch?v=EbOEqycEFeM
+
+Linux Command-Line for Beginners Your First 5 Minutes
+https://www.youtube.com/watch?v=id3DGvljhT4
+
+Linux Documentation In 2017
+https://www.youtube.com/watch?v=59jnWX_EzTY
+
+Linux inodes Explained
+https://www.youtube.com/watch?v=6KjMlm8hhFA
+
+Linux Shell Aliases What You Need to Know
+https://www.youtube.com/watch?v=vz2DGSBBpXg
+
+Linux Sysadmin Basics -- 6 -- Processes Overview
+https://www.youtube.com/watch?v=ls5cGi12kGw
+
+Linux Sysadmin Basics -- 6.1 Process Signals
+https://www.youtube.com/watch?v=lP7xoqkqDZQ
+
+Linux Sysadmin Basics -- 6.2 State, Niceness, and How to Monitor Processes
+https://www.youtube.com/watch?v=vsEJz9aKGKU
+
+Linux Sysadmin Basics -- 6.3 The proc Filesystem
+https://www.youtube.com/watch?v=0XdjODvsRN8
+
+Linux Sysadmin Basics -- 7 -- Filesystem Layout Overview
+https://www.youtube.com/watch?v=svh8sSuz5BI
+
+Linux Sysadmin Basics -- 7.1 Filesystem Layout
+https://www.youtube.com/watch?v=TG5YJe9camA
+
+Linux Sysadmin Basics -- Course Introduction (Updated for 2020)
+https://www.youtube.com/watch?v=bju_FdCo42w
+
+Linux Sysadmin Basics -- Linux File Permissions
+https://www.youtube.com/watch?v=8SkN7UofOww
+
+Linux Sysadmin Basics -- User Account Management
+https://www.youtube.com/watch?v=UN1QB5BIvps
+
+Linux Sysadmin Basics 01 -- Setting up a Linux Virtual Machine
+https://www.youtube.com/watch?v=OLK49ZTbmWM
+
+Linux Sysadmin Basics 02 -- Basic Commands
+https://www.youtube.com/watch?v=Lbh8Bh_SEzU
+
+Linux Sysadmin Basics 03 -- Text Editors (and review of basic commands)
+https://www.youtube.com/watch?v=fEGSA68uAR4
+
+Linux Sysadmin Basics 04 -- Shell Features -- Pipes and Redirection
+https://www.youtube.com/watch?v=-Z5tCri-QlI
+
+Linux Sysadmin Basics 05 -- Package Management with apt-get
+https://www.youtube.com/watch?v=8P-Vek7Vtgg
+
+Linux Sysadmin Basics 4.1 -- Filtering Output and Finding Things (&&, cut, sort, uniq, wc, grep)
+https://www.youtube.com/watch?v=8P-Vek7Vtgg
+
+Linux System Monitoring with Monit, part 2 SSH Local Forwarding for our Web Dashboard
+https://www.youtube.com/watch?v=ThcaW4MVGLY
+
+Monitoring Linux Systems and Services with Monit (Hands-On Linux Course Preview)
+https://www.youtube.com/watch?v=wiRt3mY7Rrw
+
+MySQLMariaDB Basics (RHCE Certification Study)
+https://www.youtube.com/watch?v=qxPnGlIxYC8
+
+Project Tour Hashistack (Terraform, Consul, Nomad on AWS)
+https://www.youtube.com/watch?v=JAiPPzbu_OQ
+
+Resources for Becoming a Linux System Administrator
+https://www.youtube.com/watch?v=oGLgd1PGe1k
+
+Service Management with systemd (Hands-On Linux Course Preview)
+https://www.youtube.com/watch?v=JX2lxKJC6yI
+
+Sublime Text Basics All the Best Features in One Video
+https://www.youtube.com/watch?v=zIkg3Oo1PVM
+
+Sysadmin Book Review Networking For Systems Administrators
+https://www.youtube.com/watch?v=3cE5jIcYwfY
+
+Sysadmin Training Where to find Answers to Technical Questions
+https://www.youtube.com/watch?v=kXWZz8RcW4o
+
+systemd on Linux 1 Intro and Unit Files
+https://www.youtube.com/watch?v=N1vgvhiyq0E
+
+systemd on Linux 2 systemctl commands
+https://www.youtube.com/watch?v=fzOceeJB5vw
+
+systemd on Linux 3 Targets
+https://www.youtube.com/watch?v=4xO-_cQaEfA
+
+The Best Ideas in Tech Right Now (this very second!)
+https://www.youtube.com/watch?v=zKEORJsyR-Q
+
+The Linux 'script' Command Record Your Shell Sessions
+https://www.youtube.com/watch?v=tweyWNr6X18
+
+The real reason most companies use microservices
+https://www.youtube.com/watch?v=4ItOK4K7Kjg
+
+Top 10 Linux Job Interview Questions
+https://www.youtube.com/watch?v=l0QGLMwR-lY
+
+Vim Basics in 8 Minutes
+https://www.youtube.com/watch?v=ggSyF1SVFr4
+
+VPNs for Privacy - The Basics
+https://www.youtube.com/watch?v=9VkswePNh80
+
+What Every Sysadmin Needs to Know about Tech Debt
+https://www.youtube.com/watch?v=WqirNEFPh5Y
+The Linux Basics Course Beginner to Sysadmin, Step by Step

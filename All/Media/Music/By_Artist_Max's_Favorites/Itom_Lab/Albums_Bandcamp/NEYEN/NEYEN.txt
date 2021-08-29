@@ -1,43 +1,43 @@
 
-1.  .ahk
 
 
-2.  Amorical.ahk
+
+Amorical
 https://itomlab.bandcamp.com/track/amorical
 
-3.  Audiohuasca.ahk
+Audiohuasca
 https://itomlab.bandcamp.com/track/audiohuasca
 
-4.  Dreamstep.ahk
+Dreamstep
 https://itomlab.bandcamp.com/track/dreamstep
 
-5.  Eyemanja.ahk
+Eyemanja
 https://itomlab.bandcamp.com/track/eyemanja
 
-6.  Neyen Lives.ahk
+Neyen Lives
 https://itomlab.bandcamp.com/track/neyen-lives
 
-7.  Orion Sky.ahk
+Orion Sky
 https://itomlab.bandcamp.com/track/orion-sky
 
-8.  See Sharp.ahk
+See Sharp
 https://itomlab.bandcamp.com/track/see-sharp
 
-9.  Shivai.ahk
+Shivai
 https://itomlab.bandcamp.com/track/shivai
 
-10.  Sri Whomptra.ahk
+Sri Whomptra
 https://itomlab.bandcamp.com/track/sri-whomptra
 
-11.  Synchronis City.ahk
+Synchronis City
 https://itomlab.bandcamp.com/track/synchronis-city
 
-12.  The Real OG's.ahk
+The Real OG's
 https://itomlab.bandcamp.com/track/the-real-ogs-2
 
-13.  Twinkle Twin-Call.ahk
+Twinkle Twin-Call
 https://itomlab.bandcamp.com/track/twinkle-twin-call
 
-14.  Ya'Yl.ahk
+Ya'Yl
 https://itomlab.bandcamp.com/track/yayl
 NEYEN

@@ -1,67 +1,67 @@
 
-1.  074 PHP from scratch English  PHP regular expressions pt1.ahk
+074 PHP from scratch English  PHP regular expressions pt1
 https://www.youtube.com/watch?v=VGPLG5WPFz0
 
-2.  Greedy vs NonGreedy Regex, Positive vs Negative Lookahead and Lookbehind Regex Python.ahk
+Greedy vs NonGreedy Regex, Positive vs Negative Lookahead and Lookbehind Regex Python
 https://www.youtube.com/watch?v=3YRHi3OxrgM
 
-3.  Javascript Regular Expressions.ahk
+Javascript Regular Expressions
 https://www.youtube.com/watch?v=z2QTl3wWBsw
 
-4.  PHP Tutorial - Regex (Part 1).ahk
+PHP Tutorial - Regex (Part 1)
 https://www.youtube.com/watch?v=XYPjCGhKLWo
 
-5.  Python 3 Programming Tutorial - Regular Expressions  Regex with re.ahk
+Python 3 Programming Tutorial - Regular Expressions  Regex with re
 https://www.youtube.com/watch?v=sZyAn2TW7GY
 
-6.  Python Regular Expressions -part #10 - Flags.ahk
+Python Regular Expressions -part #10 - Flags
 https://www.youtube.com/watch?v=XWj_kyoMLbQ
 
-7.  Python Regular Expressions -part #11 - Re.split.ahk
+Python Regular Expressions -part #11 - Re.split
 https://www.youtube.com/watch?v=_iSyVfQAxnM
 
-8.  Python Regular Expressions -part #12 - Re.sub.ahk
+Python Regular Expressions -part #12 - Re.sub
 https://www.youtube.com/watch?v=IqfLhAKeWfg
 
-9.  Python Regular Expressions -part #14 -  Look Arounds #1.ahk
+Python Regular Expressions -part #14 -  Look Arounds #1
 https://www.youtube.com/watch?v=xQoP_rNmPvI
 
-10.  Python Regular expressions -part #6 -Introduction To Groups.ahk
+Python Regular expressions -part #6 -Introduction To Groups
 https://www.youtube.com/watch?v=CmGLLCDfq6k
 
-11.  Python Regular expressions -part #9 - Non-capture - Backreferencing groups.ahk
+Python Regular expressions -part #9 - Non-capture - Backreferencing groups
 https://www.youtube.com/watch?v=E66slBlRBHg
 
-12.  Python Regular Expressions Tutorial -part #8  - Quantifers wgroups.ahk
+Python Regular Expressions Tutorial -part #8  - Quantifers wgroups
 https://www.youtube.com/watch?v=WH_IgZldAgU
 
-13.  Python Tutorials - Itertools Playlist (group by  groupby).ahk
+Python Tutorials - Itertools Playlist (group by  groupby)
 https://www.youtube.com/watch?v=65DeP_qAnX8
 
-14.  Python3 Advanced Tutorial 4 - Regular Expressions.ahk
+Python3 Advanced Tutorial 4 - Regular Expressions
 https://www.youtube.com/watch?v=Q4mgUKEESj4
 
-15.  RegEx in  Python (Part-16)  Look ahead.ahk
+RegEx in  Python (Part-16)  Look ahead
 https://www.youtube.com/watch?v=DSSvVd1uo8o
 
-16.  RegEx in  Python (Part-17)  Look behind.ahk
+RegEx in  Python (Part-17)  Look behind
 https://www.youtube.com/watch?v=_uPsxnIg0uU
 
-17.  REGEX Tutorial Regular Expressions.ahk
+REGEX Tutorial Regular Expressions
 https://www.youtube.com/watch?v=DRR9fOXkfRE
 
-18.  Regular Expression Tutorials Part # 2 for PHP - Javascript.ahk
+Regular Expression Tutorials Part # 2 for PHP - Javascript
 https://www.youtube.com/watch?v=gD2FrP1FEm8
 
-19.  Regular Expressions Tutorial.ahk
+Regular Expressions Tutorial
 https://www.youtube.com/watch?v=SUN-59cZvqI
 
-20.  Understanding Regular Expressions (1712496).ahk
+Understanding Regular Expressions (1712496)
 https://www.youtube.com/watch?v=ZvuTBVgtin8
 
-21.  Understanding Regular Expressions Part 2.ahk
+Understanding Regular Expressions Part 2
 https://www.youtube.com/watch?v=jQIPiGF2_as
 
-22.  Understanding Regular Expressions.ahk
+Understanding Regular Expressions
 https://www.youtube.com/watch?v=ZvuTBVgtin8
 regex

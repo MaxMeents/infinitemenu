@@ -1,187 +1,187 @@
 
-1.  C# - Abstract Class.ahk
+C# - Abstract Class
 https://www.youtube.com/watch?v=J_5Mn1SLgMc
 
-2.  C# - Access specifiers.ahk
+C# - Access specifiers
 https://www.youtube.com/watch?v=cXeKfJQi2no
 
-3.  C# - Anonymous Method.ahk
+C# - Anonymous Method
 https://www.youtube.com/watch?v=vAnXrQTq8F4
 
-4.  C# - Arrays.ahk
+C# - Arrays
 https://www.youtube.com/watch?v=daFdTssjm3w
 
-5.  C# - Assembly.ahk
+C# - Assembly
 https://www.youtube.com/watch?v=-sOrS2uVyS4
 
-6.  C# - Asynchronous Programming.ahk
+C# - Asynchronous Programming
 https://www.youtube.com/watch?v=8p0_P4x1MJ0
 
-7.  C# - Attribute.ahk
+C# - Attribute
 https://www.youtube.com/watch?v=iDunLWVaSIM
 
-8.  C# - Basic Program.ahk
+C# - Basic Program
 https://www.youtube.com/watch?v=Gw_l2QnbLQ8
 
-9.  C# - Class Members.ahk
+C# - Class Members
 https://www.youtube.com/watch?v=gxPUerPyLj4
 
-10.  C# - Collections.ahk
+C# - Collections
 https://www.youtube.com/watch?v=uwJg2OpoH8E
 
-11.  C# - Conditional Statement.ahk
+C# - Conditional Statement
 https://www.youtube.com/watch?v=LYzv0KmN98o
 
-12.  C# - Constructors.ahk
+C# - Constructors
 https://www.youtube.com/watch?v=2ME7mnmbbrM
 
-13.  C# - Control Statement.ahk
+C# - Control Statement
 https://www.youtube.com/watch?v=I8T7p0zYryg
 
-14.  C# - Custom Exception.ahk
+C# - Custom Exception
 https://www.youtube.com/watch?v=19JoW_NHDE4
 
-15.  C# - Data Hiding.ahk
+C# - Data Hiding
 https://www.youtube.com/watch?v=S0xB7xXFdFg
 
-16.  C# - Data Types.ahk
+C# - Data Types
 https://www.youtube.com/watch?v=VToVLx8BXyk
 
-17.  C# - Delegate.ahk
+C# - Delegate
 https://www.youtube.com/watch?v=1kmt2VrvsjA
 
-18.  C# - Do While Loop.ahk
+C# - Do While Loop
 https://www.youtube.com/watch?v=D17mX2tBCPg
 
-19.  C# - Enum.ahk
+C# - Enum
 https://www.youtube.com/watch?v=G4pTOJkVwbI
 
-20.  C# - Environment Setup.ahk
+C# - Environment Setup
 https://www.youtube.com/watch?v=fsGwmJ3QJQo
 
-21.  C# - Exception Handling.ahk
+C# - Exception Handling
 https://www.youtube.com/watch?v=_mF9XZ3osnE
 
-22.  C# - Extension Method.ahk
+C# - Extension Method
 https://www.youtube.com/watch?v=HsN0mVFpttU
 
-23.  C# - File Handling.ahk
+C# - File Handling
 https://www.youtube.com/watch?v=TU1rTuBM1Cs
 
-24.  C# - For Loop.ahk
+C# - For Loop
 https://www.youtube.com/watch?v=s6Yn7k3adAQ
 
-25.  C# - Generic Class.ahk
+C# - Generic Class
 https://www.youtube.com/watch?v=AbFLpqU_IF8
 
-26.  C# - Generic Collection.ahk
+C# - Generic Collection
 https://www.youtube.com/watch?v=sXdAsfbiTjc
 
-27.  C# - Generic Delegate.ahk
+C# - Generic Delegate
 https://www.youtube.com/watch?v=6B6UOSJtBkI
 
-28.  C# - If else Statement.ahk
+C# - If else Statement
 https://www.youtube.com/watch?v=-icJ_shKuNM
 
-29.  C# - Implementing Class.ahk
+C# - Implementing Class
 https://www.youtube.com/watch?v=4dV6-vnu5ck
 
-30.  C# - Indexer.ahk
+C# - Indexer
 https://www.youtube.com/watch?v=Js24GMjfQKI
 
-31.  C# - Inheritance.ahk
+C# - Inheritance
 https://www.youtube.com/watch?v=X4JaTDn23zs
 
-32.  C# - Interface.ahk
+C# - Interface
 https://www.youtube.com/watch?v=fIrYW-vkn4s
 
-33.  C# - Introduction to GUI.ahk
+C# - Introduction to GUI
 https://www.youtube.com/watch?v=sHUXbCXmZKU
 
-34.  C# - Introduction to Oops.ahk
+C# - Introduction to Oops
 https://www.youtube.com/watch?v=QGVpjkQ3PO4
 
-35.  C# - Introduction.ahk
+C# - Introduction
 https://www.youtube.com/watch?v=MhdxhUgSpFw
 
-36.  C# - Jump Statement.ahk
+C# - Jump Statement
 https://www.youtube.com/watch?v=qSj89YT2mfQ
 
-37.  C# - Lambda Expression.ahk
+C# - Lambda Expression
 https://www.youtube.com/watch?v=kYeKFMf2mO8
 
-38.  C# - Loops  Iteration Statement.ahk
+C# - Loops  Iteration Statement
 https://www.youtube.com/watch?v=SzTJR8WhvDA
 
-39.  C# - Method Overloading.ahk
+C# - Method Overloading
 https://www.youtube.com/watch?v=1w9JYK9d6uY
 
-40.  C# - Method Overriding.ahk
+C# - Method Overriding
 https://www.youtube.com/watch?v=7u4HqIt_XBY
 
-41.  C# - Methods.ahk
+C# - Methods
 https://www.youtube.com/watch?v=XBH9WoEwXo8
 
-42.  C# - Multi-Threading.ahk
+C# - Multi-Threading
 https://www.youtube.com/watch?v=UnTyCqciXRk
 
-43.  C# - Nullable Type.ahk
+C# - Nullable Type
 https://www.youtube.com/watch?v=s9Y9eHgw7QU
 
-44.  C# - Object Initializer.ahk
+C# - Object Initializer
 https://www.youtube.com/watch?v=7P7rv_iAB-k
 
-45.  C# - Operator Overloading.ahk
+C# - Operator Overloading
 https://www.youtube.com/watch?v=UnN0AcEa8pw
 
-46.  C# - Operators.ahk
+C# - Operators
 https://www.youtube.com/watch?v=P2A98B12SfA
 
-47.  C# - Partial Class.ahk
+C# - Partial Class
 https://www.youtube.com/watch?v=Tp7Coqo2alM
 
-48.  C# - Preprocessor Directive.ahk
+C# - Preprocessor Directive
 https://www.youtube.com/watch?v=qOn68RH3IcQ
 
-49.  C# - Program Structure.ahk
+C# - Program Structure
 https://www.youtube.com/watch?v=-ei4Zv9UiHQ
 
-50.  C# - Properties.ahk
+C# - Properties
 https://www.youtube.com/watch?v=Zv7-tVJDPv0
 
-51.  C# - Reflection.ahk
+C# - Reflection
 https://www.youtube.com/watch?v=wfDFI9A56Gs
 
-52.  C# - Regular Expression.ahk
+C# - Regular Expression
 https://www.youtube.com/watch?v=9178EdR6Pyg
 
-53.  C# - Sealed Class.ahk
+C# - Sealed Class
 https://www.youtube.com/watch?v=lNjUn1rMqIo
 
-54.  C# - String Builder.ahk
+C# - String Builder
 https://www.youtube.com/watch?v=zGmGz60WCvo
 
-55.  C# - String.ahk
+C# - String
 https://www.youtube.com/watch?v=rtHFtUnJVn4
 
-56.  C# - Struct.ahk
+C# - Struct
 https://www.youtube.com/watch?v=AkLY_DivXXA
 
-57.  C# - Switch Statement.ahk
+C# - Switch Statement
 https://www.youtube.com/watch?v=gJhhWFtM21Q
 
-58.  C# - Task Parallel Library.ahk
+C# - Task Parallel Library
 https://www.youtube.com/watch?v=qYqZZWNn-4Y
 
-59.  C# - Type Casting.ahk
+C# - Type Casting
 https://www.youtube.com/watch?v=6Dk4fb0Pz4M
 
-60.  C# - While Loop.ahk
+C# - While Loop
 https://www.youtube.com/watch?v=m_2hQ5eXzQs
 
-61.  Tutorix Brings Simply Easy Learning.ahk
+Tutorix Brings Simply Easy Learning
 https://www.youtube.com/watch?v=lezQQ0d1pxc
 
-62.  Tutorix Simply Easy Learning Steps.ahk
+Tutorix Simply Easy Learning Steps
 https://www.youtube.com/watch?v=1iJn6quPp50
 CSharp Online Training

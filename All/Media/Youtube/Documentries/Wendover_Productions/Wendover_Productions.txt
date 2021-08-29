@@ -1,460 +1,460 @@
 
-1.  A Map Geek's Tour of the World #2.ahk
+A Map Geek's Tour of the World #2
 https://www.youtube.com/watch?v=2H9KEcb74aA&pp=sAQA
 
-2.  A Map Geek's Tour of the World.ahk
+A Map Geek's Tour of the World
 https://www.youtube.com/watch?v=pVB4TEeMcgA&pp=sAQA
 
-3.  Air Cargo's Coronavirus Problem.ahk
+Air Cargo's Coronavirus Problem
 https://www.youtube.com/watch?v=r2oPk20OHBE&pp=sAQA
 
-4.  Airlines' Protocol for After a Plane Crash.ahk
+Airlines' Protocol for After a Plane Crash
 https://www.youtube.com/watch?v=Rtmhv5qEBg0&pp=sAQA
 
-5.  American Sports' Battle for China.ahk
+American Sports' Battle for China
 https://www.youtube.com/watch?v=FCEwPio2bkg&pp=sAQA
 
-6.  Amtrak’s Grand Plan for Profitability.ahk
+Amtrak’s Grand Plan for Profitability
 https://www.youtube.com/watch?v=dSw7fWCrDk0&pp=sAQA
 
-7.  Australia's China Problem.ahk
+Australia's China Problem
 https://www.youtube.com/watch?v=5SDUm1bx7Zc&pp=sAQA
 
-8.  Big Plane vs Little Plane (The Economics of Long-Haul Flights).ahk
+Big Plane vs Little Plane (The Economics of Long-Haul Flights)
 https://www.youtube.com/watch?v=NlIdzF1_b5M&pp=sAQA
 
-9.  Boeing's China Problem.ahk
+Boeing's China Problem
 https://www.youtube.com/watch?v=XjbYloKJX7c&pp=sAQA
 
-10.  Canada's New Shipping Shortcut.ahk
+Canada's New Shipping Shortcut
 https://www.youtube.com/watch?v=ZcDwtO4RWmo&pp=sAQA
 
-11.  China's Geography Problem.ahk
+China's Geography Problem
 https://www.youtube.com/watch?v=GiBF6v5UAAE&pp=sAQA
 
-12.  China's Vaccine Diplomacy.ahk
+China's Vaccine Diplomacy
 https://www.youtube.com/watch?v=3CuPqeIJr3U&pp=sAQA
 
-13.  Cities at Sea How Aircraft Carriers Work.ahk
+Cities at Sea How Aircraft Carriers Work
 https://www.youtube.com/watch?v=c0pS3Zx7Fc8&pp=sAQA
 
-14.  Containerization The Most Influential Invention That You've Never Heard Of.ahk
+Containerization The Most Influential Invention That You've Never Heard Of
 https://www.youtube.com/watch?v=F-ZskaqBshs&pp=sAQA
 
-15.  COVID-19 How Aviation is Fighting for Survival.ahk
+COVID-19 How Aviation is Fighting for Survival
 https://www.youtube.com/watch?v=VX2e2iEg_pM&pp=sAQA
 
-16.  Distributing the COVID Vaccine The Greatest Logistics Challenge Ever.ahk
+Distributing the COVID Vaccine The Greatest Logistics Challenge Ever
 https://www.youtube.com/watch?v=byW1GExQB84&pp=sAQA
 
-17.  Egypt's Dam Problem The Geopolitics of the Nile.ahk
+Egypt's Dam Problem The Geopolitics of the Nile
 https://www.youtube.com/watch?v=_BCY0SPOFpE&pp=sAQA
 
-18.  Elon Musk's Basic Economics.ahk
+Elon Musk's Basic Economics
 https://www.youtube.com/watch?v=h97fXhDN5qE&pp=sAQA
 
-19.  Every Country in the World (Part 1).ahk
+Every Country in the World (Part 1)
 https://www.youtube.com/watch?v=P-b4SUOfn_4&pp=sAQA
 
-20.  Every Country in the World (Part 2).ahk
+Every Country in the World (Part 2)
 https://www.youtube.com/watch?v=d1CVVoAihBc&pp=sAQA
 
-21.  Every State in the US.ahk
+Every State in the US
 https://www.youtube.com/watch?v=ancuYECRGN8&pp=sAQA
 
-22.  Extremities A New Channel by Wendover Productions.ahk
+Extremities A New Channel by Wendover Productions
 https://www.youtube.com/watch?v=LHhJuAOK3CI&pp=sAQA
 
-23.  Extremities A New Scripted Podcast from Wendover.ahk
+Extremities A New Scripted Podcast from Wendover
 https://www.youtube.com/watch?v=u2-ehDQM6TM&pp=sAQA
 
-24.  Guam Why America's Most Isolated Territory Exists.ahk
+Guam Why America's Most Isolated Territory Exists
 https://www.youtube.com/watch?v=5r90DYjZ76g&pp=sAQA
 
-25.  How Africa is Becoming China's China.ahk
+How Africa is Becoming China's China
 https://www.youtube.com/watch?v=zQV_DKQkT8o&pp=sAQA
 
-26.  How Air Ambulances (Don't) Work.ahk
+How Air Ambulances (Don't) Work
 https://www.youtube.com/watch?v=3gdCH1XUIlE&pp=sAQA
 
-27.  How Air Traffic Control Works.ahk
+How Air Traffic Control Works
 https://www.youtube.com/watch?v=C1f2GwWLB3k&pp=sAQA
 
-28.  How Airlines Decide Where to Fly.ahk
+How Airlines Decide Where to Fly
 https://www.youtube.com/watch?v=E3jfvncofiA&pp=sAQA
 
-29.  How Airlines Price Flights.ahk
+How Airlines Price Flights
 https://www.youtube.com/watch?v=72hlr-E7KA0&pp=sAQA
 
-30.  How Airlines Schedule Flights.ahk
+How Airlines Schedule Flights
 https://www.youtube.com/watch?v=dGXahSnA_oA&pp=sAQA
 
-31.  How Airports Make Money.ahk
+How Airports Make Money
 https://www.youtube.com/watch?v=wdU1WTBJMl0&pp=sAQA
 
-32.  How Amazon's Super-Complex Shipping System Works.ahk
+How Amazon's Super-Complex Shipping System Works
 https://www.youtube.com/watch?v=2qanMpnYsjk&pp=sAQA
 
-33.  How Boeing Will Get the 737 MAX Flying Again.ahk
+How Boeing Will Get the 737 MAX Flying Again
 https://www.youtube.com/watch?v=QvUpSFGRqEo&pp=sAQA
 
-34.  How Budget Airlines Work.ahk
+How Budget Airlines Work
 https://www.youtube.com/watch?v=069y1MpOkQY&pp=sAQA
 
-35.  How China Broke the World's Recycling.ahk
+How China Broke the World's Recycling
 https://www.youtube.com/watch?v=KXRtNwUju5g&pp=sAQA
 
-36.  How China Built a Hospital in 10 Days.ahk
+How China Built a Hospital in 10 Days
 https://www.youtube.com/watch?v=3Sh7hghljuQ&pp=sAQA
 
-37.  How COVID-19 Broke the Airline Pricing Model.ahk
+How COVID-19 Broke the Airline Pricing Model
 https://www.youtube.com/watch?v=H_akzwzghWQ&pp=sAQA
 
-38.  How Fighting Wildfires Works.ahk
+How Fighting Wildfires Works
 https://www.youtube.com/watch?v=EodxubsO8EI&pp=sAQA
 
-39.  How Freight Trains Connect the World.ahk
+How Freight Trains Connect the World
 https://www.youtube.com/watch?v=9poImReDFeY&pp=sAQA
 
-40.  How Geography Gave the US Power.ahk
+How Geography Gave the US Power
 https://www.youtube.com/watch?v=e-WO-c9xHms&pp=sAQA
 
-41.  How Hong Kong Changed Countries.ahk
+How Hong Kong Changed Countries
 https://www.youtube.com/watch?v=69EVxLLhciQ&pp=sAQA
 
-42.  How Living at the South Pole Works.ahk
+How Living at the South Pole Works
 https://www.youtube.com/watch?v=ZAEydOjNWyQ&pp=sAQA
 
-43.  How Long-Haul Trucking Works.ahk
+How Long-Haul Trucking Works
 https://www.youtube.com/watch?v=QlPrAKtegFQ&pp=sAQA
 
-44.  How Maritime Law Works.ahk
+How Maritime Law Works
 https://www.youtube.com/watch?v=N7CvEt51fz4&pp=sAQA
 
-45.  How Marketers Manipulate Us Psychological Manipulation in Advertising.ahk
+How Marketers Manipulate Us Psychological Manipulation in Advertising
 https://www.youtube.com/watch?v=8LqqVfPduTs&pp=sAQA
 
-46.  How Much Would it Cost to Live on the Moon.ahk
+How Much Would it Cost to Live on the Moon
 https://www.youtube.com/watch?v=7ouiTMXuDAQ&pp=sAQA
 
-47.  How Offshore Oil Rigs Work.ahk
+How Offshore Oil Rigs Work
 https://www.youtube.com/watch?v=ABIkWS_YavM&pp=sAQA
 
-48.  How Overnight Shipping Works.ahk
+How Overnight Shipping Works
 https://www.youtube.com/watch?v=y3qfeoqErtY&pp=sAQA
 
-49.  How Rwanda is Becoming the Singapore of Africa.ahk
+How Rwanda is Becoming the Singapore of Africa
 https://www.youtube.com/watch?v=xX0ozxrZlEQ&pp=sAQA
 
-50.  How the Layouts of Grocery Stores are Secretly Designed to Make You Spend More Money.ahk
+How the Layouts of Grocery Stores are Secretly Designed to Make You Spend More Money
 https://www.youtube.com/watch?v=ThNeIT7aceI&pp=sAQA
 
-51.  How the Navajo Nation Works (A Country Within a Country).ahk
+How the Navajo Nation Works (A Country Within a Country)
 https://www.youtube.com/watch?v=J5PLyYVIEpg&pp=sAQA
 
-52.  How the Post Office Made America.ahk
+How the Post Office Made America
 https://www.youtube.com/watch?v=Nu2WOxXxsHw&pp=sAQA
 
-53.  How the US Government Will Survive Doomsday.ahk
+How the US Government Will Survive Doomsday
 https://www.youtube.com/watch?v=j48Z3W35FI0&pp=sAQA
 
-54.  How the US' Hospital Ships Work.ahk
+How the US' Hospital Ships Work
 https://www.youtube.com/watch?v=-pNBAxx4IRo&pp=sAQA
 
-55.  How to Beat the Casino, and How They'll Stop You.ahk
+How to Beat the Casino, and How They'll Stop You
 https://www.youtube.com/watch?v=Ongqf93rAcM&pp=sAQA
 
-56.  How to Build a $100 Million Satellite.ahk
+How to Build a $100 Million Satellite
 https://www.youtube.com/watch?v=30XpSozOZII&pp=sAQA
 
-57.  How to Create a Country.ahk
+How to Create a Country
 https://www.youtube.com/watch?v=bg2VZIPfX0U&pp=sAQA
 
-58.  How to Design Impenetrable Airport Security.ahk
+How to Design Impenetrable Airport Security
 https://www.youtube.com/watch?v=1Y1kJpHBn50&pp=sAQA
 
-59.  How to Fix Traffic Forever.ahk
+How to Fix Traffic Forever
 https://www.youtube.com/watch?v=N4PW66_g6XA&pp=sAQA
 
-60.  How to Illegally Cross the Mexico-US Border.ahk
+How to Illegally Cross the Mexico-US Border
 https://www.youtube.com/watch?v=DTIDCA7mjZs&pp=sAQA
 
-61.  How to Make First Contact.ahk
+How to Make First Contact
 https://www.youtube.com/watch?v=bL2WPDtLYNU&pp=sAQA
 
-62.  How to Start an Airline.ahk
+How to Start an Airline
 https://www.youtube.com/watch?v=VjiH3mpxyrQ&pp=sAQA
 
-63.  How to Stop a Riot.ahk
+How to Stop a Riot
 https://www.youtube.com/watch?v=yT9bit2-1pg&pp=sAQA
 
-64.  How to Stop an Epidemic.ahk
+How to Stop an Epidemic
 https://www.youtube.com/watch?v=I9ttpHvK6yw&pp=sAQA
 
-65.  Iceland's Tourism Revolution.ahk
+Iceland's Tourism Revolution
 https://www.youtube.com/watch?v=17oZPYcpPnQ&pp=sAQA
 
-66.  Is the European Union a Country.ahk
+Is the European Union a Country
 https://www.youtube.com/watch?v=_lj127TKu4Q&pp=sAQA
 
-67.  Little Bay Why This Island Was Abandoned on December 31st, 2019.ahk
+Little Bay Why This Island Was Abandoned on December 31st, 2019
 https://www.youtube.com/watch?v=VJtFgte1GKc&pp=sAQA
 
-68.  Living Underwater How Submarines Work.ahk
+Living Underwater How Submarines Work
 https://www.youtube.com/watch?v=gdy0gBVWAzE&pp=sAQA
 
-69.  Mini Countries Abroad How Embassies Work.ahk
+Mini Countries Abroad How Embassies Work
 https://www.youtube.com/watch?v=SUsqnD9-42g&pp=sAQA
 
-70.  Russia's Geography Problem.ahk
+Russia's Geography Problem
 https://www.youtube.com/watch?v=v3C_5bsdQWg&pp=sAQA
 
-71.  Small Planes Over Big Oceans (ETOPS Explained).ahk
+Small Planes Over Big Oceans (ETOPS Explained)
 https://www.youtube.com/watch?v=HSxSgbNQi-g&pp=sAQA
 
-72.  Space Law-What Laws are There in Space.ahk
+Space Law-What Laws are There in Space
 https://www.youtube.com/watch?v=h6AWAoc_Lr0&pp=sAQA
 
-73.  Space The Next Trillion Dollar Industry.ahk
+Space The Next Trillion Dollar Industry
 https://www.youtube.com/watch?v=hiRBQxHrxNw&pp=sAQA
 
-74.  Supersonic Planes are Coming Back (And This Time, They Might Work).ahk
+Supersonic Planes are Coming Back (And This Time, They Might Work)
 https://www.youtube.com/watch?v=4p0fRlCHYyg&pp=sAQA
 
-75.  The 8 Flights That Show How COVID-19 Reinvented Aviation.ahk
+The 8 Flights That Show How COVID-19 Reinvented Aviation
 https://www.youtube.com/watch?v=v_rXhuaI0W8&pp=sAQA
 
-76.  The Broken Economics of Organ Transplants.ahk
+The Broken Economics of Organ Transplants
 https://www.youtube.com/watch?v=7C1fPocIFgU&pp=sAQA
 
-77.  The Business of Ski Resorts.ahk
+The Business of Ski Resorts
 https://www.youtube.com/watch?v=vpcUVOjUrKk&pp=sAQA
 
-78.  The Economics of Airline Class.ahk
+The Economics of Airline Class
 https://www.youtube.com/watch?v=BzB5xtGGsTc&pp=sAQA
 
-79.  The Economics of Private Jets.ahk
+The Economics of Private Jets
 https://www.youtube.com/watch?v=jYPrH4xANpU&pp=sAQA
 
-80.  The Economics That Made Boeing Build the 737 Max.ahk
+The Economics That Made Boeing Build the 737 Max
 https://www.youtube.com/watch?v=BfNEOfEGe3I&pp=sAQA
 
-81.  The Electric Vehicle Charging Problem.ahk
+The Electric Vehicle Charging Problem
 https://www.youtube.com/watch?v=pLcqJ2DclEg&pp=sAQA
 
-82.  The Final Years of Majuro [Documentary].ahk
+The Final Years of Majuro [Documentary]
 https://www.youtube.com/watch?v=3J06af5xHD0&pp=sAQA
 
-83.  The Five Freedoms of Aviation.ahk
+The Five Freedoms of Aviation
 https://www.youtube.com/watch?v=thqbjA2DC-E&pp=sAQA
 
-84.  The Five Rules of Risk.ahk
+The Five Rules of Risk
 https://www.youtube.com/watch?v=NtX-Ibi21tU&pp=sAQA
 
-85.  The Gene Patent Question.ahk
+The Gene Patent Question
 https://www.youtube.com/watch?v=voozHXadYYE&pp=sAQA
 
-86.  The Incredible Logistics of Grocery Stores.ahk
+The Incredible Logistics of Grocery Stores
 https://www.youtube.com/watch?v=BNpk_OGEGlA&pp=sAQA
 
-87.  The Incredible Logistics of the Tokyo Olympics.ahk
+The Incredible Logistics of the Tokyo Olympics
 https://www.youtube.com/watch?v=B3FKtBNEBRc&pp=sAQA
 
-88.  The Insane Logistics of Formula 1.ahk
+The Insane Logistics of Formula 1
 https://www.youtube.com/watch?v=6OLVFa8YRfM&pp=sAQA
 
-89.  The Insane Logistics of Shutting Down the Cruise Industry.ahk
+The Insane Logistics of Shutting Down the Cruise Industry
 https://www.youtube.com/watch?v=N4dOCfWlgBw&pp=sAQA
 
-90.  The Little Plane War.ahk
+The Little Plane War
 https://www.youtube.com/watch?v=V1YMPk3XhCc&pp=sAQA
 
-91.  The Logistics of Covid-19 Testing.ahk
+The Logistics of Covid-19 Testing
 https://www.youtube.com/watch?v=YgiMqePRp0Y&pp=sAQA
 
-92.  The Logistics of Disaster Response.ahk
+The Logistics of Disaster Response
 https://www.youtube.com/watch?v=tLS9IK693KI&pp=sAQA
 
-93.  The Logistics of Filming Avengers.ahk
+The Logistics of Filming Avengers
 https://www.youtube.com/watch?v=erS2YMYcZO8&pp=sAQA
 
-94.  The Logistics of Living in Antarctica.ahk
+The Logistics of Living in Antarctica
 https://www.youtube.com/watch?v=-s3j-ptJD10&pp=sAQA
 
-95.  The Logistics of the International Space Station.ahk
+The Logistics of the International Space Station
 https://www.youtube.com/watch?v=EkRRo5DN9lI&pp=sAQA
 
-96.  The Logistics of the US Census.ahk
+The Logistics of the US Census
 https://www.youtube.com/watch?v=Ppjv0H-Yt5Q&pp=sAQA
 
-97.  The Logistics of the US Election.ahk
+The Logistics of the US Election
 https://www.youtube.com/watch?v=RyG7nzteG64&pp=sAQA
 
-98.  The Magic Economics of Gambling.ahk
+The Magic Economics of Gambling
 https://www.youtube.com/watch?v=7cjIWMUgPtY&pp=sAQA
 
-99.  The Messy Ethics of Self Driving Cars.ahk
+The Messy Ethics of Self Driving Cars
 https://www.youtube.com/watch?v=avh7ez858xM&pp=sAQA
 
-100.  The Most Valuable Airspace in the World.ahk
+The Most Valuable Airspace in the World
 https://www.youtube.com/watch?v=jdNDYBt9e_U&pp=sAQA
 
-101.  The New Economy of the Warming Arctic.ahk
+The New Economy of the Warming Arctic
 https://www.youtube.com/watch?v=msjuRoZ0Vu8&pp=sAQA
 
-102.  The News You Missed in 2020, From Every Country in the World (Part 1).ahk
+The News You Missed in 2020, From Every Country in the World (Part 1)
 https://www.youtube.com/watch?v=GIFV_Z7Y9_w&pp=sAQA
 
-103.  The News You Missed in 2020, From Every Country in the World (Part 2).ahk
+The News You Missed in 2020, From Every Country in the World (Part 2)
 https://www.youtube.com/watch?v=7R7jNWHp0D0&pp=sAQA
 
-104.  The NFL's Logistics Problem.ahk
+The NFL's Logistics Problem
 https://www.youtube.com/watch?v=pJ_LUFBSoqM&pp=sAQA
 
-105.  The Nuclear Waste Problem.ahk
+The Nuclear Waste Problem
 https://www.youtube.com/watch?v=uU3kLBo_ruo&pp=sAQA
 
-106.  The Plane Highway in the Sky.ahk
+The Plane Highway in the Sky
 https://www.youtube.com/watch?v=-aQ2E0mlRQI&pp=sAQA
 
-107.  The Rise of 20-Hour Long Flights.ahk
+The Rise of 20-Hour Long Flights
 https://www.youtube.com/watch?v=TNUomfuWuA8&pp=sAQA
 
-108.  The Super-Fast Logistics of Delivering Blood By Drone.ahk
+The Super-Fast Logistics of Delivering Blood By Drone
 https://www.youtube.com/watch?v=bnoUBfLxZz0&pp=sAQA
 
-109.  The Surprising Easternmost Point in the US.ahk
+The Surprising Easternmost Point in the US
 https://www.youtube.com/watch?v=Y3jlFtBg0Y8&pp=sAQA
 
-110.  The UK's Failed Experiment in Rail Privatization.ahk
+The UK's Failed Experiment in Rail Privatization
 https://www.youtube.com/watch?v=DlTq8DbRs4k&pp=sAQA
 
-111.  The US Government Program That Pays For Your Flights.ahk
+The US Government Program That Pays For Your Flights
 https://www.youtube.com/watch?v=U1a73gdNs0M&pp=sAQA
 
-112.  The US President's $2,614 Per Minute Transport System.ahk
+The US President's $2,614 Per Minute Transport System
 https://www.youtube.com/watch?v=YJRqB1xtIxg&pp=sAQA
 
-113.  The US' Overseas Military Base Strategy.ahk
+The US' Overseas Military Base Strategy
 https://www.youtube.com/watch?v=A0qt0hdCQtg&pp=sAQA
 
-114.  The World is Shrinking.ahk
+The World is Shrinking
 https://www.youtube.com/watch?v=Nn-ym8y1_kw&pp=sAQA
 
-115.  The World's Most Useful Airport [Documentary].ahk
+The World's Most Useful Airport [Documentary]
 https://www.youtube.com/watch?v=5-QejUTDCWw&pp=sAQA
 
-116.  The World's Shortcut How the Panama Canal Works.ahk
+The World's Shortcut How the Panama Canal Works
 https://www.youtube.com/watch?v=KgsxapE27NU&pp=sAQA
 
-117.  TWL #1 Presidents Are 4x More Likely to be Lefties.ahk
+TWL #1 Presidents Are 4x More Likely to be Lefties
 https://www.youtube.com/watch?v=_ugvJi2pIck&pp=sAQA
 
-118.  TWL #10 The Day Sweden Switched Driving Directions.ahk
+TWL #10 The Day Sweden Switched Driving Directions
 https://www.youtube.com/watch?v=JoYNhX15w4k&pp=sAQA
 
-119.  TWL #10.5 Argleton (+ Patreon).ahk
+TWL #10.5 Argleton (+ Patreon)
 https://www.youtube.com/watch?v=HpfvOc8HJdg&pp=sAQA
 
-120.  TWL #2 Bir Tawil- The Land Without a Country.ahk
+TWL #2 Bir Tawil- The Land Without a Country
 https://www.youtube.com/watch?v=v_iaurPRhCs&pp=sAQA
 
-121.  TWL #3 Paper Towns- Fake Places Made to Catch Copyright Thieves.ahk
+TWL #3 Paper Towns- Fake Places Made to Catch Copyright Thieves
 https://www.youtube.com/watch?v=JllpzZgAAl8&pp=sAQA
 
-122.  TWL #4 Which Way Should Toilet Paper Face.ahk
+TWL #4 Which Way Should Toilet Paper Face
 https://www.youtube.com/watch?v=O6o5C-i02c8&pp=sAQA
 
-123.  TWL #5 Timekeeping on Mars.ahk
+TWL #5 Timekeeping on Mars
 https://www.youtube.com/watch?v=F53TA37Mqck&pp=sAQA
 
-124.  TWL #6 Big Mac Economics.ahk
+TWL #6 Big Mac Economics
 https://www.youtube.com/watch?v=5XdYbmova_s&pp=sAQA
 
-125.  TWL #7 This Number is Illegal.ahk
+TWL #7 This Number is Illegal
 https://www.youtube.com/watch?v=LnEyjwdoj7g&pp=sAQA
 
-126.  TWL #8 Immortality Through Quantum Suicide.ahk
+TWL #8 Immortality Through Quantum Suicide
 https://www.youtube.com/watch?v=n7RHv_MIIT0&pp=sAQA
 
-127.  TWL #9 The Secret Anti-Counterfeit Symbol.ahk
+TWL #9 The Secret Anti-Counterfeit Symbol
 https://www.youtube.com/watch?v=1c-jBfZPVv4&pp=sAQA
 
-128.  TWL is back! (But not here...).ahk
+TWL is back! (But not here...)
 https://www.youtube.com/watch?v=RaGG50laHgI&pp=sAQA
 
-129.  Urban Geography Why We Live Where We Do.ahk
+Urban Geography Why We Live Where We Do
 https://www.youtube.com/watch?v=aQSxPzafO_k&pp=sAQA
 
-130.  What's Actually the Plane of the Future.ahk
+What's Actually the Plane of the Future
 https://www.youtube.com/watch?v=ql0Op1VcELw&pp=sAQA
 
-131.  Which Country Are International Airports In.ahk
+Which Country Are International Airports In
 https://www.youtube.com/watch?v=lkCeKc1GTMs&pp=sAQA
 
-132.  Why Airlines Sell More Seats Than They Have.ahk
+Why Airlines Sell More Seats Than They Have
 https://www.youtube.com/watch?v=EqWksuyry5w&pp=sAQA
 
-133.  Why Chicken Sandwiches Don't Cost $1500.ahk
+Why Chicken Sandwiches Don't Cost $1500
 https://www.youtube.com/watch?v=_rk2hPrEnk8&pp=sAQA
 
-134.  Why China Is so Good at Building Railways.ahk
+Why China Is so Good at Building Railways
 https://www.youtube.com/watch?v=0JDoll8OEFE&pp=sAQA
 
-135.  Why Chinese Manufacturing Wins.ahk
+Why Chinese Manufacturing Wins
 https://www.youtube.com/watch?v=E7Jfrzkmzyc&pp=sAQA
 
-136.  Why Cities Are Where They Are.ahk
+Why Cities Are Where They Are
 https://www.youtube.com/watch?v=3PWWtqfwacQ&pp=sAQA
 
-137.  Why Cities Exist.ahk
+Why Cities Exist
 https://www.youtube.com/watch?v=IvAvHjYoLUU&pp=sAQA
 
-138.  Why College is so Expensive.ahk
+Why College is so Expensive
 https://www.youtube.com/watch?v=7PsmkAxVHdM&pp=sAQA
 
-139.  Why Electric Planes are Inevitably Coming.ahk
+Why Electric Planes are Inevitably Coming
 https://www.youtube.com/watch?v=aH4b3sAs-l8&pp=sAQA
 
-140.  Why Flying is So Expensive.ahk
+Why Flying is So Expensive
 https://www.youtube.com/watch?v=6Oe8T3AvydU&pp=sAQA
 
-141.  Why Helicopter Airlines Failed.ahk
+Why Helicopter Airlines Failed
 https://www.youtube.com/watch?v=uAG4zCsiA_w&pp=sAQA
 
-142.  Why Long-Haul Low-Cost Airlines Always Go Bankrupt.ahk
+Why Long-Haul Low-Cost Airlines Always Go Bankrupt
 https://www.youtube.com/watch?v=fTyUE162lrw&pp=sAQA
 
-143.  Why Planes Don't Fly Faster.ahk
+Why Planes Don't Fly Faster
 https://www.youtube.com/watch?v=n1QEj09Pe6k&pp=sAQA
 
-144.  Why Public Transportation Sucks in the US.ahk
+Why Public Transportation Sucks in the US
 https://www.youtube.com/watch?v=-cjfTG8DbwA&pp=sAQA
 
-145.  Why So Many Airlines are Going Bankrupt.ahk
+Why So Many Airlines are Going Bankrupt
 https://www.youtube.com/watch?v=cnfoTAxhpzQ&pp=sAQA
 
-146.  Why Taiwan and China are Battling over Tiny Island Countries.ahk
+Why Taiwan and China are Battling over Tiny Island Countries
 https://www.youtube.com/watch?v=6GMoUmvw8kU&pp=sAQA
 
-147.  Why the Northernmost Town in America Exists.ahk
+Why the Northernmost Town in America Exists
 https://www.youtube.com/watch?v=MP1OAm7Pzps&pp=sAQA
 
-148.  Why the Southern Hemisphere is Poorer.ahk
+Why the Southern Hemisphere is Poorer
 https://www.youtube.com/watch?v=iO5mfbpq16A&pp=sAQA
 
-149.  Why the World is Running Out of Pilots.ahk
+Why the World is Running Out of Pilots
 https://www.youtube.com/watch?v=cognzTud3Wg&pp=sAQA
 
-150.  Why There are Now So Many Shortages (It's Not COVID).ahk
+Why There are Now So Many Shortages (It's Not COVID)
 https://www.youtube.com/watch?v=b1JlYZQG3lI&t=40s&pp=sAQA
 
-151.  Why Time is One of Humanity's Greatest Inventions.ahk
+Why Time is One of Humanity's Greatest Inventions
 https://www.youtube.com/watch?v=RRWggYusSds&pp=sAQA
 
-152.  Why Trains are so Expensive.ahk
+Why Trains are so Expensive
 https://www.youtube.com/watch?v=fwjwePe-HmA&pp=sAQA
 
-153.  Why Trains Suck in America.ahk
+Why Trains Suck in America
 https://www.youtube.com/watch?v=mbEfzuCLoAQ&pp=sAQA
 Wendover Productions

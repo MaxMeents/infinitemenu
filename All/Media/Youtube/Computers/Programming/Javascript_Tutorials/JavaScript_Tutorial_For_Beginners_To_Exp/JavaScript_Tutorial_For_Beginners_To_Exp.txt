@@ -1,0 +1,100 @@
+
+02 Development Environment Setting
+https://www.youtube.com/watch?v=sEGC-adSKXo
+
+03 Basic JavaScript Syntax
+https://www.youtube.com/watch?v=KXxXr0RxGDE
+
+04 JavaScript Variables
+https://www.youtube.com/watch?v=plOo5hNVQJU
+
+05 JavaScript Data Types
+https://www.youtube.com/watch?v=yjE_xXL26qA
+
+06 JavaScript Type Conversion
+https://www.youtube.com/watch?v=jfQyMPzPTjY
+
+07 Expressions and Operators
+https://www.youtube.com/watch?v=nMQlXMHMz_Y
+
+08 JavaScript Arrays
+https://www.youtube.com/watch?v=S2JVtEwa-kU
+
+09 Function Declaration
+https://www.youtube.com/watch?v=yPJCFWLd23o
+
+1 JavaScript Introduction
+https://www.youtube.com/watch?v=zBPeGR48_vE
+
+10 JavaScript Function Expressions
+https://www.youtube.com/watch?v=Wggcy2oKV3E
+
+11 JavaScript Decision Statements
+https://www.youtube.com/watch?v=Fk3tdDAWkCI
+
+12 JavaScript Iteration Statements
+https://www.youtube.com/watch?v=sQ7YA0x8eUg
+
+13 JavaScript Basics of Scope
+https://www.youtube.com/watch?v=wCijt0OjnHc
+
+14 JavaScript Returning Functions from Functions
+https://www.youtube.com/watch?v=onTQRpF15hI
+
+15 JavaScript Object Literals
+https://www.youtube.com/watch?v=CNGv0soYFn0
+
+16 JavaScript Module Pattern and Revealing Module Pattern
+https://www.youtube.com/watch?v=CNohrcgM_hU
+
+17 JavaScript Closures
+https://www.youtube.com/watch?v=3Uy5cJ-UpS0
+
+18 JavaScript this Keyword
+https://www.youtube.com/watch?v=RNrrcxr-_PU
+
+19 JavaScript Destructuring
+https://www.youtube.com/watch?v=G0PC7D3XZBA
+
+20 JavaScript String Template Literals
+https://www.youtube.com/watch?v=DeFK4lS5LIA
+
+21 JavaScript  Regular Expressions
+https://www.youtube.com/watch?v=jfC2tX-NUaI
+
+22 JavaScript Built in Natives Type
+https://www.youtube.com/watch?v=n5mvncHb-Y0
+
+23 Javascript Constructor Function
+https://www.youtube.com/watch?v=MBLCbJvyaA0
+
+24 JavaScript Prototype Chain
+https://www.youtube.com/watch?v=1HEG5bvjJIA
+
+25 JavaScript Classes
+https://www.youtube.com/watch?v=R4lPsqG2ic8
+
+26 JavaScript Arrow Functions
+https://www.youtube.com/watch?v=hjWt3PQktJ8
+
+27 JavaScript Truthly And Falsy Values
+https://www.youtube.com/watch?v=LWeRIGGRZVk
+
+28 JavaScript Null Type
+https://www.youtube.com/watch?v=tM4aKXtaOrE
+
+29 JavaScript Date Object
+https://www.youtube.com/watch?v=_AQ9RBQcNMA
+
+30 JavaScript String Methods
+https://www.youtube.com/watch?v=eOCfFxLGS-o
+
+31 JavaScript Array Methods
+https://www.youtube.com/watch?v=hZF_0dZnpvo
+
+32 JavaScript Error Handling With Try Catch
+https://www.youtube.com/watch?v=Sm4AZFIc39Y
+
+33 JavaScript Understanding DOM
+https://www.youtube.com/watch?v=EQJ4w3ypF9o
+JavaScript Tutorial For Beginners To Experts  Full Course 2020

@@ -1,25 +1,25 @@
 
-1.  Acousmatic Music
+Acousmatic Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Acousmatic_Music/Acousmatic_Music.txt
 
-2.  Computer Music
+Computer Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Computer_Music/Computer_Music.txt
 
-3.  Electroacoustic Improvisation
+Electroacoustic Improvisation
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Electroacoustic_Improvisation/Electroacoustic_Improvisation.txt
 
-4.  Field Recording
+Field Recording
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Field_Recording/Field_Recording.txt
 
-5.  Live Coding
+Live Coding
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Live_Coding/Live_Coding.txt
 
-6.  Live Electronics
+Live Electronics
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Live_Electronics/Live_Electronics.txt
 
-7.  Soundscape Composition
+Soundscape Composition
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Soundscape_Composition/Soundscape_Composition.txt
 
-8.  Tape Music
+Tape Music
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electroacoustic/Tape_Music/Tape_Music.txt
 Electroacoustic

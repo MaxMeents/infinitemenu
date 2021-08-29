@@ -1,61 +1,61 @@
 
-1.  Linux Basic Course - Account Management Commands.ahk
+Linux Basic Course - Account Management Commands
 https://www.youtube.com/watch?v=j5O2PuBza7E
 
-2.  Linux Basic Course - Apt Command.ahk
+Linux Basic Course - Apt Command
 https://www.youtube.com/watch?v=W9_2pyBxyzU
 
-3.  Linux Basic Course - Control-Key Command.ahk
+Linux Basic Course - Control-Key Command
 https://www.youtube.com/watch?v=7G4DkjSWujQ
 
-4.  Linux Basic Course - Core Command 1.ahk
+Linux Basic Course - Core Command 1
 https://www.youtube.com/watch?v=YECGdWqWxYY
 
-5.  Linux Basic Course - Core Command 2.ahk
+Linux Basic Course - Core Command 2
 https://www.youtube.com/watch?v=R_nF-_TZhhs
 
-6.  Linux Basic Course - Core Command 3.ahk
+Linux Basic Course - Core Command 3
 https://www.youtube.com/watch?v=mpljfj-29VM
 
-7.  Linux Basic Course - Core Command 4.ahk
+Linux Basic Course - Core Command 4
 https://www.youtube.com/watch?v=k3LiqsxrsD0
 
-8.  Linux Basic Course - End.ahk
+Linux Basic Course - End
 https://www.youtube.com/watch?v=3RBQ6mrUhjE
 
-9.  Linux Basic Course - Environment Variables.ahk
+Linux Basic Course - Environment Variables
 https://www.youtube.com/watch?v=5WTBqKpZp_8
 
-10.  Linux Basic Course - File and Directory Permission Commands 1.ahk
+Linux Basic Course - File and Directory Permission Commands 1
 https://www.youtube.com/watch?v=rNW32hILxVs
 
-11.  Linux Basic Course - File and Directory Permission Commands 2.ahk
+Linux Basic Course - File and Directory Permission Commands 2
 https://www.youtube.com/watch?v=jbRNrhUOJFs
 
-12.  Linux Basic Course - GUI Linux.ahk
+Linux Basic Course - GUI Linux
 https://www.youtube.com/watch?v=pmEv8mbdzdg
 
-13.  Linux Basic Course - Linux Boot Process.ahk
+Linux Basic Course - Linux Boot Process
 https://www.youtube.com/watch?v=83F0Dq7n5PI
 
-14.  Linux Basic Course - Linux File System.ahk
+Linux Basic Course - Linux File System
 https://www.youtube.com/watch?v=sUk2-5ajK70
 
-15.  Linux Basic Course - Redirection & Pipe.ahk
+Linux Basic Course - Redirection & Pipe
 https://www.youtube.com/watch?v=kRsljJVL9Qc
 
-16.  Linux Basic Course - Special Characters.ahk
+Linux Basic Course - Special Characters
 https://www.youtube.com/watch?v=ZV_pZZuhCFI
 
-17.  Linux Basic Course - System Structures.ahk
+Linux Basic Course - System Structures
 https://www.youtube.com/watch?v=j8-uRrkJmKs
 
-18.  Linux Basic Course - the Difference Between Sudo and Su.ahk
+Linux Basic Course - the Difference Between Sudo and Su
 https://www.youtube.com/watch?v=epQtMX7n7Rc
 
-19.  ???? ??????? ????? - ??????? ????????  5.ahk
+???? ??????? ????? - ??????? ????????  5
 https://www.youtube.com/watch?v=RRIsrN3zduE
 
-20.  ???? ??????? ????? - ?????.ahk
+???? ??????? ????? - ?????
 https://www.youtube.com/watch?v=r-V24mr1Src
 Linux Basic Course Tutorial Arabic

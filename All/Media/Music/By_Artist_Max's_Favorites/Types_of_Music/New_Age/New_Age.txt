@@ -1,19 +1,19 @@
 
-1.  Environmental
+Environmental
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Environmental/Environmental.txt
 
-2.  Healing
+Healing
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Healing/Healing.txt
 
-3.  Meditation
+Meditation
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Meditation/Meditation.txt
 
-4.  Nature
+Nature
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Nature/Nature.txt
 
-5.  Relaxation
+Relaxation
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Relaxation/Relaxation.txt
 
-6.  Travel
+Travel
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/New_Age/Travel/Travel.txt
 New Age

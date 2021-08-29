@@ -1,526 +1,526 @@
 
-1.  #0 JavaScript Tutorial  Introduction.ahk
+#0 JavaScript Tutorial  Introduction
 https://www.youtube.com/watch?v=uDwSnnhl1Ng
 
-2.  #0 JavaScript Tutorial for Beginners  Introduction.ahk
+#0 JavaScript Tutorial for Beginners  Introduction
 https://www.youtube.com/watch?v=PlbupGCBV6w
 
-3.  #1 Getting Started  JavaScript Tutorial for Beginners.ahk
+#1 Getting Started  JavaScript Tutorial for Beginners
 https://www.youtube.com/watch?v=POPLF-Qc0OU
 
-4.  #1 JavaScript Tutorial  Why you should Learn JavaScript Today.ahk
+#1 JavaScript Tutorial  Why you should Learn JavaScript Today
 https://www.youtube.com/watch?v=uxWO8Sd8PoY
 
-5.  #10 JavaScript Tutorial  Switch case.ahk
+#10 JavaScript Tutorial  Switch case
 https://www.youtube.com/watch?v=OWQUBfWaxBw
 
-6.  #10 Relational operators in JavaScript.ahk
+#10 Relational operators in JavaScript
 https://www.youtube.com/watch?v=gG0ynX_Sfx4
 
-7.  #11 JavaScript Tutorial  For Loop.ahk
+#11 JavaScript Tutorial  For Loop
 https://www.youtube.com/watch?v=DIA0J4vJBHQ
 
-8.  #11 Logical Operators in JavaScript.ahk
+#11 Logical Operators in JavaScript
 https://www.youtube.com/watch?v=uuRJ1aCj8Ro
 
-9.  #12 Conditional Statements If Else in JavaScript.ahk
+#12 Conditional Statements If Else in JavaScript
 https://www.youtube.com/watch?v=o_iO9WuoWaM
 
-10.  #12 JavaScript Tutorial  While loop.ahk
+#12 JavaScript Tutorial  While loop
 https://www.youtube.com/watch?v=osOEz3SwyVk
 
-11.  #13 JavaScript Tutorial  Do While loop.ahk
+#13 JavaScript Tutorial  Do While loop
 https://www.youtube.com/watch?v=zGG56ae5_GM
 
-12.  #13 Ternary Operator in JavaScript.ahk
+#13 Ternary Operator in JavaScript
 https://www.youtube.com/watch?v=VBCOx4CqBz0
 
-13.  #14 JavaScript Tutorial  Functions.ahk
+#14 JavaScript Tutorial  Functions
 https://www.youtube.com/watch?v=eL0RGZ0GddE
 
-14.  #14 Switch Statement in JavaScript.ahk
+#14 Switch Statement in JavaScript
 https://www.youtube.com/watch?v=SJPsOFfvEQA
 
-15.  #15 JavaScript Tutorial  Scope of Variables  Global vs Local.ahk
+#15 JavaScript Tutorial  Scope of Variables  Global vs Local
 https://www.youtube.com/watch?v=nAWAnn9y8yw
 
-16.  #15 Template Literal in JavaScript.ahk
+#15 Template Literal in JavaScript
 https://www.youtube.com/watch?v=K4Kh5gw4PRE
 
-17.  #16 JavaScript Tutorial  Introduction to Array.ahk
+#16 JavaScript Tutorial  Introduction to Array
 https://www.youtube.com/watch?v=SrT8-9I4WnE
 
-18.  #16 While loop in JavaScript.ahk
+#16 While loop in JavaScript
 https://www.youtube.com/watch?v=h84MlHv6g4Q
 
-19.  #17 For Loop in JavaScript.ahk
+#17 For Loop in JavaScript
 https://www.youtube.com/watch?v=jcwTB9fBzP0
 
-20.  #17 JavaScript Tutorial  Introduction to Objects p.1.ahk
+#17 JavaScript Tutorial  Introduction to Objects p.1
 https://www.youtube.com/watch?v=s0IdE51JE80
 
-21.  #18 JavaScript Tutorial  Objects p.2.ahk
+#18 JavaScript Tutorial  Objects p.2
 https://www.youtube.com/watch?v=U08iJitN2ao
 
-22.  #18 While vs For Loop  Which to use and When.ahk
+#18 While vs For Loop  Which to use and When
 https://www.youtube.com/watch?v=EBHOo-6xn4A
 
-23.  #19 Objects in JavaScript.ahk
+#19 Objects in JavaScript
 https://www.youtube.com/watch?v=S1dWe3f2zm0
 
-24.  #19 Starting with DOM Manipulations in JavaScript.ahk
+#19 Starting with DOM Manipulations in JavaScript
 https://www.youtube.com/watch?v=jmPgo2lyoLY
 
-25.  #2 JavaScript Tutorial  What is Dom  Document Object Model.ahk
+#2 JavaScript Tutorial  What is Dom  Document Object Model
 https://www.youtube.com/watch?v=_GxpmQ54aqg
 
-26.  #2 NodeJS, VS Code Installation  JavaScript Tutorial.ahk
+#2 NodeJS, VS Code Installation  JavaScript Tutorial
 https://www.youtube.com/watch?v=BxZKLKfjaRg
 
-27.  #20 Complex Object, Delete Property in JavaScript.ahk
+#20 Complex Object, Delete Property in JavaScript
 https://www.youtube.com/watch?v=weEDSjNYzv4
 
-28.  #20 Taking Input from user in JavaScript  TextBox.ahk
+#20 Taking Input from user in JavaScript  TextBox
 https://www.youtube.com/watch?v=lThuZY0-S_8
 
-29.  #21 For in loop in JavaScript.ahk
+#21 For in loop in JavaScript
 https://www.youtube.com/watch?v=-PVcUUj_ke4
 
-30.  #21 Taking Input from Radiobuttons in Javascript.ahk
+#21 Taking Input from Radiobuttons in Javascript
 https://www.youtube.com/watch?v=r3Oc4IUP0XI
 
-31.  #22 Functions in JavaScript.ahk
+#22 Functions in JavaScript
 https://www.youtube.com/watch?v=jwOW-qlJtxg
 
-32.  #22 Taking Input from SelectBox in Javascript.ahk
+#22 Taking Input from SelectBox in Javascript
 https://www.youtube.com/watch?v=_CYqRMl3iL8
 
-33.  #23 Function return and passing.ahk
+#23 Function return and passing
 https://www.youtube.com/watch?v=pCU7vicLCgA
 
-34.  #23 getElementByTagName method in JavaScript.ahk
+#23 getElementByTagName method in JavaScript
 https://www.youtube.com/watch?v=mlD-tpyVs10
 
-35.  #24 Function Expression in JavaScript.ahk
+#24 Function Expression in JavaScript
 https://www.youtube.com/watch?v=37ly8tCGFWA
 
-36.  #24 getElementByClassName method in JavaScript.ahk
+#24 getElementByClassName method in JavaScript
 https://www.youtube.com/watch?v=0pqLp51w7dw
 
-37.  #25 Change Image onmouseover and onmouseout events in JavaScript.ahk
+#25 Change Image onmouseover and onmouseout events in JavaScript
 https://www.youtube.com/watch?v=AiiXLmqhndU
 
-38.  #25 Local-Global Variable  Default Value in JavaScript.ahk
+#25 Local-Global Variable  Default Value in JavaScript
 https://www.youtube.com/watch?v=nnAU1dLY7gY
 
-39.  #26 Arrow function in JavaScript.ahk
+#26 Arrow function in JavaScript
 https://www.youtube.com/watch?v=tJOJPealurs
 
-40.  #26 Form Validations in JavaScript.ahk
+#26 Form Validations in JavaScript
 https://www.youtube.com/watch?v=PAUxi3f9HB0
 
-41.  #27 Form Validations in JavaScript part 2.ahk
+#27 Form Validations in JavaScript part 2
 https://www.youtube.com/watch?v=xUdjmZ2-fEU
 
-42.  #27 What are Methods in JavaScript.ahk
+#27 What are Methods in JavaScript
 https://www.youtube.com/watch?v=4r72b1ScPLY
 
-43.  #28 Regular Expressions in JavaScript Part 1.ahk
+#28 Regular Expressions in JavaScript Part 1
 https://www.youtube.com/watch?v=WeIRHETbcLs
 
-44.  #28 What is this  JavaScript.ahk
+#28 What is this  JavaScript
 https://www.youtube.com/watch?v=kE93zNJBCBw
 
-45.  #29 Regular Expressions in JavaScript  Character Sets and Ranges.ahk
+#29 Regular Expressions in JavaScript  Character Sets and Ranges
 https://www.youtube.com/watch?v=vBFTQuLgnfg
 
-46.  #29 Why it is called THIS.ahk
+#29 Why it is called THIS
 https://www.youtube.com/watch?v=YiqqAAvb16Q
 
-47.  #3 JavaScript Tutorial   First Hello World Program.ahk
+#3 JavaScript Tutorial   First Hello World Program
 https://www.youtube.com/watch?v=I5xesmmiREU
 
-48.  #3 Variables in JavaScript.ahk
+#3 Variables in JavaScript
 https://www.youtube.com/watch?v=TOkU5HxES1o
 
-49.  #30 Mobile Number Validation in JavaScript using Regular Expression.ahk
+#30 Mobile Number Validation in JavaScript using Regular Expression
 https://www.youtube.com/watch?v=K0Lzrytqt0U
 
-50.  #31 Email Validation in JavaScript.ahk
+#31 Email Validation in JavaScript
 https://www.youtube.com/watch?v=vPVx-zGFh0w
 
-51.  #32 Debugging in JavaScript using Chrome Dev tools  Console Log Method.ahk
+#32 Debugging in JavaScript using Chrome Dev tools  Console Log Method
 https://www.youtube.com/watch?v=WmVEddplwbo
 
-52.  #33 Timing Functions in JavaScript.ahk
+#33 Timing Functions in JavaScript
 https://www.youtube.com/watch?v=1OVaxR6yKSI
 
-53.  #34 Fade In Fade Out animations in JavaScript.ahk
+#34 Fade In Fade Out animations in JavaScript
 https://www.youtube.com/watch?v=q5g-hpYSppk
 
-54.  #35 Zoom In Zoom Out effect in JavaScript.ahk
+#35 Zoom In Zoom Out effect in JavaScript
 https://www.youtube.com/watch?v=7Op6xdhXVHI
 
-55.  #36 Introduction to jQuery library  Setting jQuery in Project.ahk
+#36 Introduction to jQuery library  Setting jQuery in Project
 https://www.youtube.com/watch?v=i32p6HvYC1A
 
-56.  #37 JQuery Selectors Part 1.ahk
+#37 JQuery Selectors Part 1
 https://www.youtube.com/watch?v=Q0oMC7n4HOY
 
-57.  #38 JQuery Selectors Part 2.ahk
+#38 JQuery Selectors Part 2
 https://www.youtube.com/watch?v=zkTnujtikq4
 
-58.  #39 Events in JQuery Part 1.ahk
+#39 Events in JQuery Part 1
 https://www.youtube.com/watch?v=2lC87M6jumA
 
-59.  #4 Constants in JavaScript.ahk
+#4 Constants in JavaScript
 https://www.youtube.com/watch?v=Wsy7nhFnfbM
 
-60.  #4 JavaScript Tutorials  Statements and comments.ahk
+#4 JavaScript Tutorials  Statements and comments
 https://www.youtube.com/watch?v=vWX2eoi3bOc
 
-61.  #40 Events in JQuery Part 2.ahk
+#40 Events in JQuery Part 2
 https://www.youtube.com/watch?v=PaQNtfb2TX4
 
-62.  #41 Effects in JQuery Part 1.ahk
+#41 Effects in JQuery Part 1
 https://www.youtube.com/watch?v=obrU4sevMu0
 
-63.  #42 JQuery Animate Effect.ahk
+#42 JQuery Animate Effect
 https://www.youtube.com/watch?v=LFj4VWlpEQk
 
-64.  #43 Callback and Chaining in JQuery Effects.ahk
+#43 Callback and Chaining in JQuery Effects
 https://www.youtube.com/watch?v=R3b_JvFep_E
 
-65.  #44  JQuery DOM Manipulations Part 1.ahk
+#44  JQuery DOM Manipulations Part 1
 https://www.youtube.com/watch?v=JFnlvhG0OgY
 
-66.  #45 JQuery DOM Manipulations Part 2.ahk
+#45 JQuery DOM Manipulations Part 2
 https://www.youtube.com/watch?v=Ux2pQE49FCQ
 
-67.  #46 JQuery DOM Manipulations Part 3.ahk
+#46 JQuery DOM Manipulations Part 3
 https://www.youtube.com/watch?v=suv1OnOtfY4
 
-68.  #47 JQuery DOM Manipulations Part 4.ahk
+#47 JQuery DOM Manipulations Part 4
 https://www.youtube.com/watch?v=BV1veI8LGj0
 
-69.  #48 JQuery UI Including JQuery UI in Project.ahk
+#48 JQuery UI Including JQuery UI in Project
 https://www.youtube.com/watch?v=Ioxuzw7VI0I
 
-70.  #5 Data Types in JavaScript - 1  JavaScript Tutorial.ahk
+#5 Data Types in JavaScript - 1  JavaScript Tutorial
 https://www.youtube.com/watch?v=nCwQY8inRvU
 
-71.  #5 JavaScript Tutorial  VS code Theme & Live Server Plugin Setup.ahk
+#5 JavaScript Tutorial  VS code Theme & Live Server Plugin Setup
 https://www.youtube.com/watch?v=85kQIRkTdRQ
 
-72.  #6 Data Types in JavaScript - 2  JavaScript Tutorial.ahk
+#6 Data Types in JavaScript - 2  JavaScript Tutorial
 https://www.youtube.com/watch?v=4GXpB9EMLWM
 
-73.  #6 JavaScript Tutorial  Variables & Data Types.ahk
+#6 JavaScript Tutorial  Variables & Data Types
 https://www.youtube.com/watch?v=Hrd3SfCCXZw
 
-74.  #7 History of JavaScript.ahk
+#7 History of JavaScript
 https://www.youtube.com/watch?v=4MsfBokJiSs
 
-75.  #7 JavaScript Tutorial  Operators.ahk
+#7 JavaScript Tutorial  Operators
 https://www.youtube.com/watch?v=ULNJSTSJc7s
 
-76.  #8 JavaScript Tutorial  Control Statements  Theory.ahk
+#8 JavaScript Tutorial  Control Statements  Theory
 https://www.youtube.com/watch?v=p-JoZ_UxwB8
 
-77.  #8 Type Conversion & Coercion in JavaScript.ahk
+#8 Type Conversion & Coercion in JavaScript
 https://www.youtube.com/watch?v=wFiVtqe1osM
 
-78.  #9 Arithmetic Operators in JavaScript.ahk
+#9 Arithmetic Operators in JavaScript
 https://www.youtube.com/watch?v=otYwi_wW9Hk
 
-79.  #9 JavaScript Tutorial  If Else Control Statements.ahk
+#9 JavaScript Tutorial  If Else Control Statements
 https://www.youtube.com/watch?v=-QbgVJR0_to
 
-80.  Accordion Widget Control in JQuery UI.ahk
+Accordion Widget Control in JQuery UI
 https://www.youtube.com/watch?v=Lg4V7sQ27X0
 
-81.  Array methods in JavaScripts.ahk
+Array methods in JavaScripts
 https://www.youtube.com/watch?v=Yv1h-QKt_KQ
 
-82.  Autocomplete Widget in JQuery UI.ahk
+Autocomplete Widget in JQuery UI
 https://www.youtube.com/watch?v=T7QsXzUXXOA
 
-83.  Constructor function in JavaScript.ahk
+Constructor function in JavaScript
 https://www.youtube.com/watch?v=tV7ZqcB9J3Y
 
-84.  Creating Array and Fetching Elements in JavaScript.ahk
+Creating Array and Fetching Elements in JavaScript
 https://www.youtube.com/watch?v=TScHu-37Cqw
 
-85.  Date Picker Widget Control in JQuery UI.ahk
+Date Picker Widget Control in JQuery UI
 https://www.youtube.com/watch?v=G7FugJvHrmw
 
-86.  Different types of data in Array.ahk
+Different types of data in Array
 https://www.youtube.com/watch?v=eADCg1R5_sk
 
-87.  Draggable Interaction in JQuery UI.ahk
+Draggable Interaction in JQuery UI
 https://www.youtube.com/watch?v=LynjytfeY4U
 
-88.  For of Loop with an Array in JavaScript.ahk
+For of Loop with an Array in JavaScript
 https://www.youtube.com/watch?v=c69Y2GpF6-U
 
-89.  JavaScript Beginners Tutorial 1  What is JavaScript .ahk
+JavaScript Beginners Tutorial 1  What is JavaScript 
 https://www.youtube.com/watch?v=_bebNAsxuf8
 
-90.  JavaScript Beginners Tutorial 10  Logical Operators.ahk
+JavaScript Beginners Tutorial 10  Logical Operators
 https://www.youtube.com/watch?v=hPGSABTupKg
 
-91.  JavaScript Beginners Tutorial 11  Type Operators.ahk
+JavaScript Beginners Tutorial 11  Type Operators
 https://www.youtube.com/watch?v=n2Wjboyvwnk
 
-92.  JavaScript Beginners Tutorial 12   Bitwise Operators.ahk
+JavaScript Beginners Tutorial 12   Bitwise Operators
 https://www.youtube.com/watch?v=UexYxYFOkYY
 
-93.  JavaScript Beginners Tutorial 13  If Else If statements.ahk
+JavaScript Beginners Tutorial 13  If Else If statements
 https://www.youtube.com/watch?v=jj0YdPkmNus
 
-94.  JavaScript Beginners Tutorial 14  Switch Case statement.ahk
+JavaScript Beginners Tutorial 14  Switch Case statement
 https://www.youtube.com/watch?v=gB4Y7VLNfFk
 
-95.  JavaScript Beginners Tutorial 15  For Loops.ahk
+JavaScript Beginners Tutorial 15  For Loops
 https://www.youtube.com/watch?v=tusK5sJl6BM
 
-96.  JavaScript Beginners Tutorial 16  While and do while loops.ahk
+JavaScript Beginners Tutorial 16  While and do while loops
 https://www.youtube.com/watch?v=OjsGFBcrsTk
 
-97.  JavaScript Beginners Tutorial 17  Arrays.ahk
+JavaScript Beginners Tutorial 17  Arrays
 https://www.youtube.com/watch?v=2PoLAFJuwHQ
 
-98.  JavaScript Beginners Tutorial 18  Array Methods.ahk
+JavaScript Beginners Tutorial 18  Array Methods
 https://www.youtube.com/watch?v=ARJid8eJyGU
 
-99.  JavaScript Beginners Tutorial 19  Functions.ahk
+JavaScript Beginners Tutorial 19  Functions
 https://www.youtube.com/watch?v=UogmKKdidO4
 
-100.  JavaScript Beginners Tutorial 2  This is How JavaScript was created.ahk
+JavaScript Beginners Tutorial 2  This is How JavaScript was created
 https://www.youtube.com/watch?v=v5_OV8BjypE
 
-101.  JavaScript Beginners Tutorial 20  OOP  Classes.ahk
+JavaScript Beginners Tutorial 20  OOP  Classes
 https://www.youtube.com/watch?v=D2OjHCUIHNc
 
-102.  JavaScript Beginners Tutorial 21  OOP  Encapsulation with example.ahk
+JavaScript Beginners Tutorial 21  OOP  Encapsulation with example
 https://www.youtube.com/watch?v=ZYa_NiOUTQo
 
-103.  JavaScript Beginners Tutorial 22  OOP  Inheritance with example.ahk
+JavaScript Beginners Tutorial 22  OOP  Inheritance with example
 https://www.youtube.com/watch?v=2c-cK4qxo2A
 
-104.  JavaScript Beginners Tutorial 23  Prototype.ahk
+JavaScript Beginners Tutorial 23  Prototype
 https://www.youtube.com/watch?v=hY7YQxh4qyg
 
-105.  JavaScript Beginners Tutorial 24  OOP  Polymorphism with example.ahk
+JavaScript Beginners Tutorial 24  OOP  Polymorphism with example
 https://www.youtube.com/watch?v=XxMUJ9-Pb2E
 
-106.  JavaScript Beginners Tutorial 25  OOP  Abstraction with example.ahk
+JavaScript Beginners Tutorial 25  OOP  Abstraction with example
 https://www.youtube.com/watch?v=jM0WcyQWMSM
 
-107.  JavaScript Beginners Tutorial 3  How JavaScript Works.ahk
+JavaScript Beginners Tutorial 3  How JavaScript Works
 https://www.youtube.com/watch?v=-oFK808fYPE
 
-108.  JavaScript Beginners Tutorial 4  Editors and IDE.ahk
+JavaScript Beginners Tutorial 4  Editors and IDE
 https://www.youtube.com/watch?v=avOS0IsVPFo
 
-109.  JavaScript Beginners Tutorial 5  Hello World.ahk
+JavaScript Beginners Tutorial 5  Hello World
 https://www.youtube.com/watch?v=vWed051U6ao
 
-110.  JavaScript Beginners Tutorial 6  Comments and Variables.ahk
+JavaScript Beginners Tutorial 6  Comments and Variables
 https://www.youtube.com/watch?v=STyV3XGTQN0
 
-111.  JavaScript Beginners Tutorial 7  Operators - Arithmetic Operators.ahk
+JavaScript Beginners Tutorial 7  Operators - Arithmetic Operators
 https://www.youtube.com/watch?v=PPvM8vplh-8
 
-112.  JavaScript Beginners Tutorial 8  Assignment Operators.ahk
+JavaScript Beginners Tutorial 8  Assignment Operators
 https://www.youtube.com/watch?v=6zSWTR4q6zw
 
-113.  JavaScript Beginners Tutorial 9  Comparison Operators.ahk
+JavaScript Beginners Tutorial 9  Comparison Operators
 https://www.youtube.com/watch?v=KwOTbF1kEcU
 
-114.  JavaScript Tutorial - The next step.ahk
+JavaScript Tutorial - The next step
 https://www.youtube.com/watch?v=0GlwwViOjo8
 
-115.  JavaScript Tutorial for Beginners - 01 - Introduction.ahk
+JavaScript Tutorial for Beginners - 01 - Introduction
 https://www.youtube.com/watch?v=xpZLS6R91rQ
 
-116.  JavaScript Tutorial for Beginners - 02 - Statements.ahk
+JavaScript Tutorial for Beginners - 02 - Statements
 https://www.youtube.com/watch?v=tkw8QXIcmU4
 
-117.  JavaScript Tutorial for Beginners - 03 - Variables.ahk
+JavaScript Tutorial for Beginners - 03 - Variables
 https://www.youtube.com/watch?v=IhKWfiNCoSY
 
-118.  JavaScript Tutorial for Beginners - 04 - Variables Part 2.ahk
+JavaScript Tutorial for Beginners - 04 - Variables Part 2
 https://www.youtube.com/watch?v=UR71iavwMkE
 
-119.  JavaScript Tutorial for Beginners - 05 - Using an external file.ahk
+JavaScript Tutorial for Beginners - 05 - Using an external file
 https://www.youtube.com/watch?v=r--dRuIiV7A
 
-120.  JavaScript Tutorial for Beginners - 06 - Functions.ahk
+JavaScript Tutorial for Beginners - 06 - Functions
 https://www.youtube.com/watch?v=xk6X_iFUGwU
 
-121.  JavaScript Tutorial for Beginners - 07 - Functions Part 2.ahk
+JavaScript Tutorial for Beginners - 07 - Functions Part 2
 https://www.youtube.com/watch?v=jYClv_fqiBU
 
-122.  JavaScript Tutorial for Beginners - 08 - Operators.ahk
+JavaScript Tutorial for Beginners - 08 - Operators
 https://www.youtube.com/watch?v=hWdTfi-68Bo
 
-123.  JavaScript Tutorial for Beginners - 09 - Conditionals Part 1.ahk
+JavaScript Tutorial for Beginners - 09 - Conditionals Part 1
 https://www.youtube.com/watch?v=VNtYWDpdQ1w
 
-124.  JavaScript Tutorial for Beginners - 10 - Conditionals Part 2.ahk
+JavaScript Tutorial for Beginners - 10 - Conditionals Part 2
 https://www.youtube.com/watch?v=znYh4QRkQ-M
 
-125.  JavaScript Tutorial for Beginners - 11 - Loops.ahk
+JavaScript Tutorial for Beginners - 11 - Loops
 https://www.youtube.com/watch?v=c8fjcoCHNAg
 
-126.  JavaScript Tutorial for Beginners - 12 - Loops Part 2.ahk
+JavaScript Tutorial for Beginners - 12 - Loops Part 2
 https://www.youtube.com/watch?v=rDzWA8yPnIY
 
-127.  JavaScript Tutorial for Beginners - 13 - Function and if statement.ahk
+JavaScript Tutorial for Beginners - 13 - Function and if statement
 https://www.youtube.com/watch?v=uQxgdzr3vIw
 
-128.  JavaScript Tutorial for Beginners - 14 - Return statement.ahk
+JavaScript Tutorial for Beginners - 14 - Return statement
 https://www.youtube.com/watch?v=gdGmpTcNZXQ
 
-129.  JavaScript Tutorial for Beginners - 15 - Global and local variables.ahk
+JavaScript Tutorial for Beginners - 15 - Global and local variables
 https://www.youtube.com/watch?v=BbwH8uwP7r8
 
-130.  JavaScript Tutorial for Beginners - 16 - Pass by value.ahk
+JavaScript Tutorial for Beginners - 16 - Pass by value
 https://www.youtube.com/watch?v=2dnO292L_p4
 
-131.  JavaScript Tutorial for Beginners - 17 - Arrays.ahk
+JavaScript Tutorial for Beginners - 17 - Arrays
 https://www.youtube.com/watch?v=O6tEmBPOARQ
 
-132.  JavaScript Tutorial for Beginners - 18 - Objects.ahk
+JavaScript Tutorial for Beginners - 18 - Objects
 https://www.youtube.com/watch?v=NSCz0ZopvIs
 
-133.  JavaScript Tutorial for Beginners - 19 - Objects Part 2.ahk
+JavaScript Tutorial for Beginners - 19 - Objects Part 2
 https://www.youtube.com/watch?v=a7Ze-_Wqs3Y
 
-134.  JavaScript Tutorial for Beginners - 20 - Objects Part 3.ahk
+JavaScript Tutorial for Beginners - 20 - Objects Part 3
 https://www.youtube.com/watch?v=wRbIOUKsHpY
 
-135.  JavaScript Tutorial for Beginners - 21 - Objects Part 4.ahk
+JavaScript Tutorial for Beginners - 21 - Objects Part 4
 https://www.youtube.com/watch?v=1mO3Qx6kIx0
 
-136.  JavaScript Tutorial for Beginners - 22 - String Object.ahk
+JavaScript Tutorial for Beginners - 22 - String Object
 https://www.youtube.com/watch?v=zUmBsIzg94g
 
-137.  JavaScript Tutorial for Beginners - 23 - Math Object.ahk
+JavaScript Tutorial for Beginners - 23 - Math Object
 https://www.youtube.com/watch?v=9z9lcPhZpiY
 
-138.  JavaScript Tutorial for Beginners - 24 - Date Object.ahk
+JavaScript Tutorial for Beginners - 24 - Date Object
 https://www.youtube.com/watch?v=fOoJTeJ8KXU
 
-139.  JavaScript Tutorial for Beginners - 25 - Document Object Model.ahk
+JavaScript Tutorial for Beginners - 25 - Document Object Model
 https://www.youtube.com/watch?v=sWUT97Ne7V4
 
-140.  JavaScript Tutorial for Beginners - 26 - getElementById method.ahk
+JavaScript Tutorial for Beginners - 26 - getElementById method
 https://www.youtube.com/watch?v=h4-6JOQX9v4
 
-141.  JavaScript Tutorial for Beginners - 27 - getElementsByTagName method.ahk
+JavaScript Tutorial for Beginners - 27 - getElementsByTagName method
 https://www.youtube.com/watch?v=SwMgOMfelC8
 
-142.  JavaScript Tutorial for Beginners - 28 - getElementsByTagName Part 2.ahk
+JavaScript Tutorial for Beginners - 28 - getElementsByTagName Part 2
 https://www.youtube.com/watch?v=DzBmQbcr1ls
 
-143.  JavaScript Tutorial for Beginners - 29 - getElementsByClassName.ahk
+JavaScript Tutorial for Beginners - 29 - getElementsByClassName
 https://www.youtube.com/watch?v=ChLd2yFp-lA
 
-144.  JavaScript Tutorial for Beginners - 30 - Replace content using innerHTML.ahk
+JavaScript Tutorial for Beginners - 30 - Replace content using innerHTML
 https://www.youtube.com/watch?v=dlaYyZ6vW48
 
-145.  JavaScript Tutorial for Beginners - 31 - Reading content using innerHTML.ahk
+JavaScript Tutorial for Beginners - 31 - Reading content using innerHTML
 https://www.youtube.com/watch?v=dWdVc-KWXJ4
 
-146.  JavaScript Tutorial for Beginners - 32 - Changing an image.ahk
+JavaScript Tutorial for Beginners - 32 - Changing an image
 https://www.youtube.com/watch?v=FFyHJF94Eng
 
-147.  JavaScript Tutorial for Beginners - 33 - Intro to events.ahk
+JavaScript Tutorial for Beginners - 33 - Intro to events
 https://www.youtube.com/watch?v=0VYuk9uqu04
 
-148.  JavaScript Tutorial for Beginners - 34 - The mouseover event.ahk
+JavaScript Tutorial for Beginners - 34 - The mouseover event
 https://www.youtube.com/watch?v=Ka033dkRJi0
 
-149.  JavaScript Tutorial for Beginners - 35 - Change image with mouseover.ahk
+JavaScript Tutorial for Beginners - 35 - Change image with mouseover
 https://www.youtube.com/watch?v=0o4HQ_TYP9A
 
-150.  JavaScript Tutorial for Beginners - 36 - Creating a new element.ahk
+JavaScript Tutorial for Beginners - 36 - Creating a new element
 https://www.youtube.com/watch?v=_OOj_d3Zdig
 
-151.  JavaScript Tutorial for Beginners - 37 - Creating a new element Part 2.ahk
+JavaScript Tutorial for Beginners - 37 - Creating a new element Part 2
 https://www.youtube.com/watch?v=HvWnkj8nh8Y
 
-152.  JavaScript Tutorial for Beginners - 38 - Remove element.ahk
+JavaScript Tutorial for Beginners - 38 - Remove element
 https://www.youtube.com/watch?v=VV2npCATMGM
 
-153.  JavaScript Tutorial for Beginners - 39 - Create attribute.ahk
+JavaScript Tutorial for Beginners - 39 - Create attribute
 https://www.youtube.com/watch?v=FbcB8CroByk
 
-154.  JavaScript Tutorial for Beginners - 40 - Traversing the DOM.ahk
+JavaScript Tutorial for Beginners - 40 - Traversing the DOM
 https://www.youtube.com/watch?v=T_89UCU8PQU
 
-155.  JavaScript Tutorial for Beginners - 41 - Traversing the DOM Part 2.ahk
+JavaScript Tutorial for Beginners - 41 - Traversing the DOM Part 2
 https://www.youtube.com/watch?v=YNXW5czcob8
 
-156.  JavaScript Tutorial for Beginners - 42 - Traversing the DOM Part 3.ahk
+JavaScript Tutorial for Beginners - 42 - Traversing the DOM Part 3
 https://www.youtube.com/watch?v=QPC3d-zb8Yk
 
-157.  JavaScript Tutorial for Beginners - 43 - Form Validation Part 1.ahk
+JavaScript Tutorial for Beginners - 43 - Form Validation Part 1
 https://www.youtube.com/watch?v=Bl59zGI1gCA
 
-158.  JavaScript Tutorial for Beginners - 44 - Form Validation Part 2.ahk
+JavaScript Tutorial for Beginners - 44 - Form Validation Part 2
 https://www.youtube.com/watch?v=AZj2unIbWCM
 
-159.  JavaScript Tutorial for Beginners - 45 - Form Validation Part 3.ahk
+JavaScript Tutorial for Beginners - 45 - Form Validation Part 3
 https://www.youtube.com/watch?v=HpMnYWQSxJE
 
-160.  JavaScript Tutorial for Beginners - 46 - Form Validation Part 4.ahk
+JavaScript Tutorial for Beginners - 46 - Form Validation Part 4
 https://www.youtube.com/watch?v=gM8I7NywAcg
 
-161.  JavaScript Tutorial for Beginners - 47 - Form Validation Part 5.ahk
+JavaScript Tutorial for Beginners - 47 - Form Validation Part 5
 https://www.youtube.com/watch?v=bSQ1iwioapc
 
-162.  JavaScript Tutorial for Beginners - 48 - Placement of script tag.ahk
+JavaScript Tutorial for Beginners - 48 - Placement of script tag
 https://www.youtube.com/watch?v=H-LOCQDNX_0
 
-163.  JavaScript Tutorial for Beginners - 49 - Follow up session.ahk
+JavaScript Tutorial for Beginners - 49 - Follow up session
 https://www.youtube.com/watch?v=7Qfk-nBSQUQ
 
-164.  JavaScript Tutorial for Beginners - 50 - Confirmation box.ahk
+JavaScript Tutorial for Beginners - 50 - Confirmation box
 https://www.youtube.com/watch?v=yUe3pvKib44
 
-165.  JavaScript Tutorial for Beginners - 51 - More on Objects.ahk
+JavaScript Tutorial for Beginners - 51 - More on Objects
 https://www.youtube.com/watch?v=UaRzNWzILD0
 
-166.  JavaScript Tutorial for Beginners - 52 - Windows object.ahk
+JavaScript Tutorial for Beginners - 52 - Windows object
 https://www.youtube.com/watch?v=FGd7YtiGZYE
 
-167.  Message Box Widget in JQuery UI.ahk
+Message Box Widget in JQuery UI
 https://www.youtube.com/watch?v=dyQ8YMyEMao
 
-168.  Resizable Interaction in JQuery UI.ahk
+Resizable Interaction in JQuery UI
 https://www.youtube.com/watch?v=NAixvKyTVik
 
-169.  Sortable Interaction in JQuery UI.ahk
+Sortable Interaction in JQuery UI
 https://www.youtube.com/watch?v=2n-ScrqH2tg
 
-170.  Support Telusko.ahk
+Support Telusko
 https://www.youtube.com/watch?v=Bwd9hr5Fz5E
 
-171.  Theming Theme Roller Customizations in JQuery UI.ahk
+Theming Theme Roller Customizations in JQuery UI
 https://www.youtube.com/watch?v=5xVs_BqC9-w
 
-172.  Tooltip Widget Control in JQuery UI.ahk
+Tooltip Widget Control in JQuery UI
 https://www.youtube.com/watch?v=-CkuF-BRlr4
 
-173.  Visual Studio Code  How to use git and github.ahk
+Visual Studio Code  How to use git and github
 https://www.youtube.com/watch?v=Fk12ELJ9Bww
 
-174.  Visual Studio Code Beginner Tutorial  Learn VS Code in 7 steps  Windows and Mac OS.ahk
+Visual Studio Code Beginner Tutorial  Learn VS Code in 7 steps  Windows and Mac OS
 https://www.youtube.com/watch?v=Y7eoHDrw-aU
 
-175.  Widget Modifications in JQuery UI using Getter and Setter Methods.ahk
+Widget Modifications in JQuery UI using Getter and Setter Methods
 https://www.youtube.com/watch?v=plW-fvEi3zs
 JavaScript Tutorial for Beginners

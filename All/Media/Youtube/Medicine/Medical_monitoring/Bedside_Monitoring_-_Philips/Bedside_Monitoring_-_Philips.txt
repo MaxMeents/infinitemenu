@@ -1,46 +1,46 @@
 
-1.  How to Put PHILIPS INTELLIVUE Patient Monitor into Demo Mode  Alpha Medical Props.ahk
+How to Put PHILIPS INTELLIVUE Patient Monitor into Demo Mode  Alpha Medical Props
 https://www.youtube.com/watch?v=S7-RsqsrLwQ
 
-2.  Philips Information Center (PIC iX) - Navigation.ahk
+Philips Information Center (PIC iX) - Navigation
 https://www.youtube.com/watch?v=J5el9XMgc8M
 
-3.  Philips Information Center (PIC iX) - Overview.ahk
+Philips Information Center (PIC iX) - Overview
 https://www.youtube.com/watch?v=g6SGhVa5JQs
 
-4.  Philips Information Center (PIC iX) - Understanding Alarms.ahk
+Philips Information Center (PIC iX) - Understanding Alarms
 https://www.youtube.com/watch?v=9VQGPBaRfgY
 
-5.  Philips Information Center (PIC iX) - Using Alarm Review.ahk
+Philips Information Center (PIC iX) - Using Alarm Review
 https://www.youtube.com/watch?v=3ExHo5bwe6s
 
-6.  Philips IntelliVue Patient Monitoring - #1 - Introduction to Basic Operation.ahk
+Philips IntelliVue Patient Monitoring - #1 - Introduction to Basic Operation
 https://www.youtube.com/watch?v=1cNjDefBJKA
 
-7.  Philips IntelliVue Patient Monitoring - #2 - Hardware Front Panel.ahk
+Philips IntelliVue Patient Monitoring - #2 - Hardware Front Panel
 https://www.youtube.com/watch?v=LCBLkfnoU9k
 
-8.  Philips IntelliVue Patient Monitoring - #3 - Main Screen Display.ahk
+Philips IntelliVue Patient Monitoring - #3 - Main Screen Display
 https://www.youtube.com/watch?v=IFvTiNMQBEk
 
-9.  Philips IntelliVue Patient Monitoring - #4 - Changing Wave Order.ahk
+Philips IntelliVue Patient Monitoring - #4 - Changing Wave Order
 https://www.youtube.com/watch?v=WEWCvo7Gt5k
 
-10.  Philips IntelliVue Patient Monitoring - #5 - Changing Alarm Limits.ahk
+Philips IntelliVue Patient Monitoring - #5 - Changing Alarm Limits
 https://www.youtube.com/watch?v=RUVgw-Qy_YI
 
-11.  Philips IntelliVue Patient Monitoring - #6 - Changing a Wave.ahk
+Philips IntelliVue Patient Monitoring - #6 - Changing a Wave
 https://www.youtube.com/watch?v=wgOP-H-OZoo
 
-12.  Philips IntelliVue Patient Monitoring - #7 - Changing Profiles.ahk
+Philips IntelliVue Patient Monitoring - #7 - Changing Profiles
 https://www.youtube.com/watch?v=HzF12GLfj6M
 
-13.  Philips IntelliVue Patient Monitoring - #8 - Hardware Rear Panel.ahk
+Philips IntelliVue Patient Monitoring - #8 - Hardware Rear Panel
 https://www.youtube.com/watch?v=_rfoRxk4OA0
 
-14.  Philips IntelliVue Patient Monitoring - Basic Operation.ahk
+Philips IntelliVue Patient Monitoring - Basic Operation
 https://www.youtube.com/watch?v=7-f1OG7I0Ug
 
-15.  Philips IntelliVue Patient Monitoring - Using Measurement Labels.ahk
+Philips IntelliVue Patient Monitoring - Using Measurement Labels
 https://www.youtube.com/watch?v=mknQlpa3vZ0
 Bedside Monitoring - Philips

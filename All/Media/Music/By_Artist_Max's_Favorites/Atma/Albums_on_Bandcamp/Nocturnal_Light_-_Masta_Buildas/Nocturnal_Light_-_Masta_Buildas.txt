@@ -1,52 +1,52 @@
 
-1.  .ahk
 
 
-2.  Anomalies.ahk
+
+Anomalies
 https://atma4.bandcamp.com/track/anomalies
 
-3.  Blood of the Innocent.ahk
+Blood of the Innocent
 https://atma4.bandcamp.com/track/blood-of-the-innocent
 
-4.  Deadly Changes.ahk
+Deadly Changes
 https://atma4.bandcamp.com/track/deadly-changes
 
-5.  Eternal Legends.ahk
+Eternal Legends
 https://atma4.bandcamp.com/track/eternal-legends
 
-6.  Feel the Burn.ahk
+Feel the Burn
 https://atma4.bandcamp.com/track/feel-the-burn
 
-7.  Harvesting Season.ahk
+Harvesting Season
 https://atma4.bandcamp.com/track/harvesting-season
 
-8.  Magnificent Devistation.ahk
+Magnificent Devistation
 https://atma4.bandcamp.com/track/magnificent-devistation
 
-9.  Mechanics of Consciousness.ahk
+Mechanics of Consciousness
 https://atma4.bandcamp.com/track/mechanics-of-consciousness
 
-10.  Passion of Corpses.ahk
+Passion of Corpses
 https://atma4.bandcamp.com/track/passion-of-corpses
 
-11.  Redrum Apostles ... (Featuring DJ Shmix).ahk
+Redrum Apostles ... (Featuring DJ Shmix)
 https://atma4.bandcamp.com/track/redrum-apostles-featuring-dj-shmix
 
-12.  Return of Ahura Mazda.ahk
+Return of Ahura Mazda
 https://atma4.bandcamp.com/track/return-of-ahura-mazda
 
-13.  Sunz of the Eagle Nebula.ahk
+Sunz of the Eagle Nebula
 https://atma4.bandcamp.com/track/sunz-of-the-eagle-nebula
 
-14.  Taste the Sword.ahk
+Taste the Sword
 https://atma4.bandcamp.com/track/taste-the-sword
 
-15.  Top Speeds ... (Featuring DJ Shmix).ahk
+Top Speeds ... (Featuring DJ Shmix)
 https://atma4.bandcamp.com/track/top-speeds-featuring-dj-shmix
 
-16.  Torsion Fields.ahk
+Torsion Fields
 https://atma4.bandcamp.com/track/torsion-fields
 
-17.  True Value.ahk
+True Value
 https://atma4.bandcamp.com/track/true-value
 Nocturnal Light - Masta Buildas

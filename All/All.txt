@@ -1,43 +1,19 @@
 
-1.  Animals
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Animals/Animals.txt
-
-2.  Checkvist
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Checkvist/Checkvist.txt
-
-3.  Countries
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Countries/Countries.txt
-
-4.  Facebook
+Facebook
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Facebook/Facebook.txt
 
-5.  Fruits and Vegetables
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Fruits_and_Vegetables/Fruits_and_Vegetables.txt
-
-6.  .git
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/.git/.git.txt
-
-7.  Gmail
+Gmail
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Gmail/Gmail.txt
 
-8.  Media
+Media
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Media.txt
 
-9.  Money Management
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/Money_Management.txt
+Not Sure of Category
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Not_Sure_of_Category.txt
 
-10.  Presidents
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Presidents/Presidents.txt
+Search For a Category
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Search_For_a_Category/Search_For_a_Category.txt
 
-11.  Software Alternatives
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Software_Alternatives/Software_Alternatives.txt
-
-12.  Top 10 Most Subscribed Channels On Youtube
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_10_Most_Subscribed_Channels_On_Youtube/Top_10_Most_Subscribed_Channels_On_Youtube.txt
-
-13.  Top 50 Websites [each category] Around the World
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Top_50_Websites_[each_category]_Around_the_World/Top_50_Websites_[each_category]_Around_the_World.txt
-
-14.  Wikipedia
+Wikipedia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Wikipedia.txt
 All

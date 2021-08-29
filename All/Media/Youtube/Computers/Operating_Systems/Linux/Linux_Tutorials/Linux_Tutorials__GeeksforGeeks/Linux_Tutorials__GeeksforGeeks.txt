@@ -1,109 +1,109 @@
 
-1.  Linux Tutorials  About the user and the terminal  GeeksforGeeks.ahk
+Linux Tutorials  About the user and the terminal  GeeksforGeeks
 https://www.youtube.com/watch?v=WnjofnvIIvg
 
-2.  Linux Tutorials  Basic Commands  GeeksforGeeks.ahk
+Linux Tutorials  Basic Commands  GeeksforGeeks
 https://www.youtube.com/watch?v=fqILqtWcqh8
 
-3.  Linux Tutorials  bc - The Calculator  GeeksforGeeks.ahk
+Linux Tutorials  bc - The Calculator  GeeksforGeeks
 https://www.youtube.com/watch?v=_UwhS0IvwQk
 
-4.  Linux Tutorials  cat - A versatile command  GeeksforGeeks.ahk
+Linux Tutorials  cat - A versatile command  GeeksforGeeks
 https://www.youtube.com/watch?v=exj5WMUJ11g
 
-5.  Linux Tutorials  Changing Permissions  GeeksforGeeks.ahk
+Linux Tutorials  Changing Permissions  GeeksforGeeks
 https://www.youtube.com/watch?v=RWReI80utd4
 
-6.  Linux Tutorials  cmp, diff and comm commands  GeeksforGeeks.ahk
+Linux Tutorials  cmp, diff and comm commands  GeeksforGeeks
 https://www.youtube.com/watch?v=0k6obEKGTyk
 
-7.  Linux Tutorials  Command Substitution and Shell Aliasing  GeeksforGeeks.ahk
+Linux Tutorials  Command Substitution and Shell Aliasing  GeeksforGeeks
 https://www.youtube.com/watch?v=rTAKKboE-0M
 
-8.  Linux Tutorials  Command Usage  GeeksforGeeks.ahk
+Linux Tutorials  Command Usage  GeeksforGeeks
 https://www.youtube.com/watch?v=L5_ZzpR9jaU
 
-9.  Linux Tutorials  Commands in Linux when things go wrong  GeeksforGeeks.ahk
+Linux Tutorials  Commands in Linux when things go wrong  GeeksforGeeks
 https://www.youtube.com/watch?v=7zG1RAVcrKM
 
-10.  Linux Tutorials  Compressing and Archiving Files in Linux  tar and zip commands  GeeksforGeeks.ahk
+Linux Tutorials  Compressing and Archiving Files in Linux  tar and zip commands  GeeksforGeeks
 https://www.youtube.com/watch?v=KucqplDh7LI
 
-11.  Linux Tutorials  cp - Copying a File  GeeksforGeeks.ahk
+Linux Tutorials  cp - Copying a File  GeeksforGeeks
 https://www.youtube.com/watch?v=ngx4G10XY2s
 
-12.  Linux Tutorials  cut command  Splitting a file vertically  GeeksforGeeks.ahk
+Linux Tutorials  cut command  Splitting a file vertically  GeeksforGeeks
 https://www.youtube.com/watch?v=eHGCxEVlHd0
 
-13.  Linux Tutorials  File and Directory Permissions  GeeksforGeeks.ahk
+Linux Tutorials  File and Directory Permissions  GeeksforGeeks
 https://www.youtube.com/watch?v=o6lbSlGI3qc
 
-14.  Linux Tutorials  file and wc commands  GeeksforGeeks.ahk
+Linux Tutorials  file and wc commands  GeeksforGeeks
 https://www.youtube.com/watch?v=A9411dSJYRk
 
-15.  Linux Tutorials  find command  GeeksforGeeks.ahk
+Linux Tutorials  find command  GeeksforGeeks
 https://www.youtube.com/watch?v=oPdFGUrq-XQ
 
-16.  Linux Tutorials  General Purpose Utilities  GeeksforGeeks.ahk
+Linux Tutorials  General Purpose Utilities  GeeksforGeeks
 https://www.youtube.com/watch?v=g6cPFj9ptdc
 
-17.  Linux Tutorials  Getting Help and Escaping  GeeksforGeeks.ahk
+Linux Tutorials  Getting Help and Escaping  GeeksforGeeks
 https://www.youtube.com/watch?v=USMVhdydb4Y
 
-18.  Linux Tutorials  Getting Started  Introduction  GeeksforGeeks.ahk
+Linux Tutorials  Getting Started  Introduction  GeeksforGeeks
 https://www.youtube.com/watch?v=0EDwEQoui_g
 
-19.  Linux Tutorials  head command  GeeksforGeeks.ahk
+Linux Tutorials  head command  GeeksforGeeks
 https://www.youtube.com/watch?v=ZZACz-filWU
 
-20.  Linux Tutorials  Linux Architecture  GeeksforGeeks.ahk
+Linux Tutorials  Linux Architecture  GeeksforGeeks
 https://www.youtube.com/watch?v=maupflAJdQ4
 
-21.  Linux Tutorials  Linux Directory Structure  GeeksforGeeks.ahk
+Linux Tutorials  Linux Directory Structure  GeeksforGeeks
 https://www.youtube.com/watch?v=yWiUPWHljWg
 
-22.  Linux Tutorials  mv-Renaming and moving files  GeeksforGeeks.ahk
+Linux Tutorials  mv-Renaming and moving files  GeeksforGeeks
 https://www.youtube.com/watch?v=gBScrrFHMT4
 
-23.  Linux Tutorials  paste command  GeeksforGeeks.ahk
+Linux Tutorials  paste command  GeeksforGeeks
 https://www.youtube.com/watch?v=ilV6dcTJzzE
 
-24.  Linux Tutorials  Pipe and tee  GeeksforGeeks.ahk
+Linux Tutorials  Pipe and tee  GeeksforGeeks
 https://www.youtube.com/watch?v=19mmVar-s5Y
 
-25.  Linux Tutorials  Print line between M and N lines head and tail combined  GeeksforGeeks.ahk
+Linux Tutorials  Print line between M and N lines head and tail combined  GeeksforGeeks
 https://www.youtube.com/watch?v=tMXF-YKyP0w
 
-26.  Linux Tutorials  Redirection - The three standard files in Linux  GeeksforGeeks.ahk
+Linux Tutorials  Redirection - The three standard files in Linux  GeeksforGeeks
 https://www.youtube.com/watch?v=SP0gDpamofY
 
-27.  Linux Tutorials  rm - Removing a file  GeeksforGeeks.ahk
+Linux Tutorials  rm - Removing a file  GeeksforGeeks
 https://www.youtube.com/watch?v=gcE5QvggzL4
 
-28.  Linux Tutorials  sort command  GeeksforGeeks.ahk
+Linux Tutorials  sort command  GeeksforGeeks
 https://www.youtube.com/watch?v=fEx5rnbDKO4
 
-29.  Linux Tutorials  tail command  GeeksforGeeks.ahk
+Linux Tutorials  tail command  GeeksforGeeks
 https://www.youtube.com/watch?v=1pD28tFgAb8
 
-30.  Linux Tutorials  The File System  GeeksforGeeks.ahk
+Linux Tutorials  The File System  GeeksforGeeks
 https://www.youtube.com/watch?v=JwgTeXfQdIg
 
-31.  Linux Tutorials  The ls command  GeeksforGeeks.ahk
+Linux Tutorials  The ls command  GeeksforGeeks
 https://www.youtube.com/watch?v=C1btVko0CVE
 
-32.  Linux Tutorials  touch command  GeeksforGeeks.ahk
+Linux Tutorials  touch command  GeeksforGeeks
 https://www.youtube.com/watch?v=tpUyBbD4LQE
 
-33.  Linux Tutorials  tr command  GeeksforGeeks.ahk
+Linux Tutorials  tr command  GeeksforGeeks
 https://www.youtube.com/watch?v=iNWdEWWYo50
 
-34.  Linux Tutorials  uniq command  GeeksforGeeks.ahk
+Linux Tutorials  uniq command  GeeksforGeeks
 https://www.youtube.com/watch?v=k2k1LaKsAWI
 
-35.  Linux Tutorials  Wildcards and Pattern Matching  GeeksforGeeks.ahk
+Linux Tutorials  Wildcards and Pattern Matching  GeeksforGeeks
 https://www.youtube.com/watch?v=LH4eF75Z_7U
 
-36.  Linux Tutorials  Working with Directories  GeeksforGeeks.ahk
+Linux Tutorials  Working with Directories  GeeksforGeeks
 https://www.youtube.com/watch?v=JCMRlMptRus
 Linux Tutorials  GeeksforGeeks

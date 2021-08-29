@@ -1,43 +1,43 @@
 
-1.  AD8232 Analogl Heart Rate SensorSingle Lead ECG Sensor For Arduino.ahk
+AD8232 Analogl Heart Rate SensorSingle Lead ECG Sensor For Arduino
 https://www.youtube.com/watch?v=WDJWSvaDi2k
 
-2.  Android based Patient health monitoring system.ahk
+Android based Patient health monitoring system
 https://www.youtube.com/watch?v=HFsPf2JPE44
 
-3.  Arduino And GSM Based Patient Health Monitoring System.ahk
+Arduino And GSM Based Patient Health Monitoring System
 https://www.youtube.com/watch?v=bY1_IlrII8k
 
-4.  Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code.ahk
+Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code
 https://www.youtube.com/watch?v=zGgUfAB4m24
 
-5.  Ep. 57 Arduino Accelerometer & Gyroscope Tutorial MPU-6050 6DOF Module.ahk
+Ep. 57 Arduino Accelerometer & Gyroscope Tutorial MPU-6050 6DOF Module
 https://www.youtube.com/watch?v=M9lZ5Qy5S2s
 
-6.  How to add WiFi Control to any project  ESP32 Beginner's Guide.ahk
+How to add WiFi Control to any project  ESP32 Beginner's Guide
 https://www.youtube.com/watch?v=ZAqNKaX3LQ0
 
-7.  How to Use ThingSpeak with Arduino.ahk
+How to Use ThingSpeak with Arduino
 https://www.youtube.com/watch?v=AK4Lp1Ko0l8
 
-8.  HowTo Heart Beat Monitoring!  ArduinoProcessing.ahk
+HowTo Heart Beat Monitoring!  ArduinoProcessing
 https://www.youtube.com/watch?v=2_c0yE9QHNI
 
-9.  Programming ESP8266 wifi module using arduino IDE Simpified  Aman Shukla.ahk
+Programming ESP8266 wifi module using arduino IDE Simpified  Aman Shukla
 https://www.youtube.com/watch?v=y8AsgJBd-Jk
 
-10.  Real Time Patient Health Monitoring System Through IOT Using Sensors, Android App.ahk
+Real Time Patient Health Monitoring System Through IOT Using Sensors, Android App
 https://www.youtube.com/watch?v=K4YrLThn3Dc
 
-11.  SparkFun Arduino Comparison Guide.ahk
+SparkFun Arduino Comparison Guide
 https://www.youtube.com/watch?v=hjRSwBcLcSU
 
-12.  Tested In-Depth Getting Started with Arduino.ahk
+Tested In-Depth Getting Started with Arduino
 https://www.youtube.com/watch?v=EUgeB46JiXw
 
-13.  Tutorial Gyroscope and Accelerometer (GY-521MPU6050) with Arduino  UATS A&S #12.ahk
+Tutorial Gyroscope and Accelerometer (GY-521MPU6050) with Arduino  UATS A&S #12
 https://www.youtube.com/watch?v=wTfSfhjhAU0
 
-14.  What is PWM Pulse Width Modulation tutorial!.ahk
+What is PWM Pulse Width Modulation tutorial!
 https://www.youtube.com/watch?v=YmPziPfaByw
 Helth monitoring

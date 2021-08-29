@@ -1,49 +1,49 @@
 
-1.  1.1.1.1 What, Why, and How.ahk
+1.1.1.1 What, Why, and How
 https://www.youtube.com/watch?v=z1hn3GvtBik
 
-2.  10 Reasons why Linux is Better Than MacOS or Windows (1785666).ahk
+10 Reasons why Linux is Better Than MacOS or Windows (1785666)
 https://www.youtube.com/watch?v=qH3v41JmyIg
 
-3.  10 Reasons why Linux is Better Than MacOS or Windows.ahk
+10 Reasons why Linux is Better Than MacOS or Windows
 https://www.youtube.com/watch?v=qH3v41JmyIg
 
-4.  5 Must have Linux apps for 2018.ahk
+5 Must have Linux apps for 2018
 https://www.youtube.com/watch?v=3svfVEiOCBU
 
-5.  Beginner's Guide To Installing Linux Mint 18.ahk
+Beginner's Guide To Installing Linux Mint 18
 https://www.youtube.com/watch?v=oSdchGgZrMM
 
-6.  Beginner's Guide to Installing Linux Mint 19.ahk
+Beginner's Guide to Installing Linux Mint 19
 https://www.youtube.com/watch?v=G0AFuhVSvEk
 
-7.  Beginner's Guide to the Bash Terminal.ahk
+Beginner's Guide to the Bash Terminal
 https://www.youtube.com/watch?v=oxuRxtrO2Ag
 
-8.  Learning the Linux File System.ahk
+Learning the Linux File System
 https://www.youtube.com/watch?v=HIXzJ3Rz9po
 
-9.  Linux Action News 60.ahk
+Linux Action News 60
 https://www.youtube.com/watch?v=3aONBA2_AXM
 
-10.  Linux Tutorial for Beginners Introduction to Linux Operating System.ahk
+Linux Tutorial for Beginners Introduction to Linux Operating System
 https://www.youtube.com/watch?v=V1y-mbWM3B8
 
-11.  My thoughts on Linux Mint 19, Ubuntu, Kubuntu and Ubuntu MATE 18.04 (1940598).ahk
+My thoughts on Linux Mint 19, Ubuntu, Kubuntu and Ubuntu MATE 18.04 (1940598)
 https://www.youtube.com/watch?v=uJcKeEOH8iA
 
-12.  My thoughts on Linux Mint 19, Ubuntu, Kubuntu and Ubuntu MATE 18.04.ahk
+My thoughts on Linux Mint 19, Ubuntu, Kubuntu and Ubuntu MATE 18.04
 https://www.youtube.com/watch?v=uJcKeEOH8iA
 
-13.  The End of Ubuntu As We Know It.ahk
+The End of Ubuntu As We Know It
 https://www.youtube.com/watch?v=cpb3iRNGnaA
 
-14.  Top 5 Linux Distros for 2018.ahk
+Top 5 Linux Distros for 2018
 https://www.youtube.com/watch?v=PFrWog8J67E
 
-15.  Top 5 Office Improvements with Linux.ahk
+Top 5 Office Improvements with Linux
 https://www.youtube.com/watch?v=Frl9d3qeIB8
 
-16.  UBUNTU 16.04 VS LINUX MINT 18.ahk
+UBUNTU 16.04 VS LINUX MINT 18
 https://www.youtube.com/watch?v=M-d_TNkPjt8
 Lets talk linux

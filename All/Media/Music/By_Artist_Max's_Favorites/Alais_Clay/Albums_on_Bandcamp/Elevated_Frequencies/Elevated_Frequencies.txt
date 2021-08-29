@@ -1,52 +1,52 @@
 
-1.  .ts
+.ts
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Alais_Clay/Albums_on_Bandcamp/Elevated_Frequencies/.ts/.ts.txt
 
-1.  .ahk
 
 
-2.  Back To Land [feat. Vandana Shiva sample}.ahk
+
+Back To Land [feat. Vandana Shiva sample}
 https://alaisclay.bandcamp.com/track/back-to-land-feat-vandana-shiva-sample
 
-3.  Came Here To Do.ahk
+Came Here To Do
 https://alaisclay.bandcamp.com/track/came-here-to-do
 
-4.  Firme En La Lucha.ahk
+Firme En La Lucha
 https://alaisclay.bandcamp.com/track/firme-en-la-lucha
 
-5.  Heat Brewin' featuring Mike Wird.ahk
+Heat Brewin' featuring Mike Wird
 https://alaisclay.bandcamp.com/track/heat-brewin-featuring-mike-wird
 
-6.  In The Light.ahk
+In The Light
 https://alaisclay.bandcamp.com/track/in-the-light
 
-7.  Log 333 featuring Steve Grant[5star Alais_Clay].ahk
+Log 333 featuring Steve Grant[5star Alais_Clay]
 https://alaisclay.bandcamp.com/track/log-333-featuring-steve-grant
 
-8.  Medicine Drum featuring McAD, TOTEM.ahk
+Medicine Drum featuring McAD, TOTEM
 https://alaisclay.bandcamp.com/track/medicine-drum-featuring-mcad-totem
 
-9.  Mountains We Move.ahk
+Mountains We Move
 https://alaisclay.bandcamp.com/track/mountains-we-move
 
-10.  Prayers Coming Through ft. Totem.ahk
+Prayers Coming Through ft. Totem
 https://alaisclay.bandcamp.com/track/prayers-coming-through-ft-totem
 
-11.  Reality Check.ahk
+Reality Check
 https://alaisclay.bandcamp.com/track/reality-check
 
-12.  Shine On.ahk
+Shine On
 https://alaisclay.bandcamp.com/track/shine-on
 
-13.  Thin, Thin Line.ahk
+Thin, Thin Line
 https://alaisclay.bandcamp.com/track/thin-thin-line
 
-14.  Truth Of Your Power.ahk
+Truth Of Your Power
 https://alaisclay.bandcamp.com/track/truth-of-your-power
 
-15.  We Will March.ahk
+We Will March
 https://alaisclay.bandcamp.com/track/we-will-march
 
-16.  With Earth As My Witness.ahk
+With Earth As My Witness
 https://alaisclay.bandcamp.com/track/with-earth-as-my-witness
 Elevated Frequencies

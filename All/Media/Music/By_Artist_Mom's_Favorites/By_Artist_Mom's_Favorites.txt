@@ -1,130 +1,13 @@
 
-1.  ACDC
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/ACDC/ACDC.txt
-
-2.  Aerosmith
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Aerosmith/Aerosmith.txt
-
-3.  Billy Joel
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Billy_Joel/Billy_Joel.txt
-
-4.  Black Sabbath
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Black_Sabbath/Black_Sabbath.txt
-
-5.  Bon Jovi
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Bon_Jovi/Bon_Jovi.txt
-
-6.  Bruce Springsteen
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Bruce_Springsteen/Bruce_Springsteen.txt
-
-7.  Celine Dion
+Celine Dion
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Celine_Dion/Celine_Dion.txt
 
-8.  Chicago Band
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Chicago_Band/Chicago_Band.txt
-
-9.  Crowded House
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Crowded_House/Crowded_House.txt
-
-10.  Cure Channel
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Cure_Channel/Cure_Channel.txt
-
-11.  DEF LEPPARD
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/DEF_LEPPARD/DEF_LEPPARD.txt
-
-12.  Depeche Mode
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Depeche_Mode/Depeche_Mode.txt
-
-13.  Dionne Warwick
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Dionne_Warwick/Dionne_Warwick.txt
-
-14.  Dire Straits
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Dire_Straits/Dire_Straits.txt
-
-15.  Duran Duran
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Duran_Duran/Duran_Duran.txt
-
-16.  Enya
+Enya
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Enya/Enya.txt
 
-17.  Eurythmics
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Eurythmics/Eurythmics.txt
-
-18.  Fleetwood Mac
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Fleetwood_Mac/Fleetwood_Mac.txt
-
-19.  George Michael
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/George_Michael/George_Michael.txt
-
-20.  Guns N' Roses
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Guns_N'_Roses/Guns_N'_Roses.txt
-
-21.  Iron Maiden
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Iron_Maiden/Iron_Maiden.txt
-
-22.  Journey
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Journey/Journey.txt
-
-23.  Judas Priest
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Judas_Priest/Judas_Priest.txt
-
-24.  Kool and the Gang
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Kool_and_the_Gang/Kool_and_the_Gang.txt
-
-25.  Madonna
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Madonna/Madonna.txt
-
-26.  Michael Jackson
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Michael_Jackson/Michael_Jackson.txt
-
-27.  Mötley Crüe
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Mötley_Crüe/Mötley_Crüe.txt
-
-28.  Natasha Bedingfield
+Natasha Bedingfield
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Natasha_Bedingfield/Natasha_Bedingfield.txt
 
-29.  neworder
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/neworder/neworder.txt
-
-30.  Quanta
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Quanta/Quanta.txt
-
-31.  Queen
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Queen/Queen.txt
-
-32.  remhq
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/remhq/remhq.txt
-
-33.  Rick Astley
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Rick_Astley/Rick_Astley.txt
-
-34.  Rush
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Rush/Rush.txt
-
-35.  Sonic Youth
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Sonic_Youth/Sonic_Youth.txt
-
-36.  Sting
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Sting/Sting.txt
-
-37.  Tears For Fears
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Tears_For_Fears/Tears_For_Fears.txt
-
-38.  The Police
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/The_Police/The_Police.txt
-
-39.  The Smiths
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/The_Smiths/The_Smiths.txt
-
-40.  U2
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/U2/U2.txt
-
-41.  Wham!
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Wham!/Wham!.txt
-
-42.  Whitney Houston
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Whitney_Houston/Whitney_Houston.txt
-
-43.  Wingmakers
+Wingmakers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Wingmakers/Wingmakers.txt
 By Artist Mom's Favorites

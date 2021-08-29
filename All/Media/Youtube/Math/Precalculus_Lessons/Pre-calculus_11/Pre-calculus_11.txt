@@ -1,139 +1,139 @@
 
-1.  1.1 Arithmetic Sequences.ahk
+1.1 Arithmetic Sequences
 https://www.youtube.com/watch?v=2eoScDsTDo8
 
-2.  1.2 Arithmetic Series.ahk
+1.2 Arithmetic Series
 https://www.youtube.com/watch?v=g1VXuwPo1lQ
 
-3.  1.3 Geometric Sequences part I.ahk
+1.3 Geometric Sequences part I
 https://www.youtube.com/watch?v=5-bgD2wuT8Y
 
-4.  1.3 Geometric Sequences part II.ahk
+1.3 Geometric Sequences part II
 https://www.youtube.com/watch?v=MvVDyd6Ynlc
 
-5.  1.4 Geometric Series.ahk
+1.4 Geometric Series
 https://www.youtube.com/watch?v=_zsIfPw-2Q8
 
-6.  1.5 Graphing Geometric Sequences and Series.ahk
+1.5 Graphing Geometric Sequences and Series
 https://www.youtube.com/watch?v=3VNLULFrCvU
 
-7.  1.6 Infinite Geometric Series.ahk
+1.6 Infinite Geometric Series
 https://www.youtube.com/watch?v=X_OOvzKZdH0
 
-8.  2.1 Absolute Value.ahk
+2.1 Absolute Value
 https://www.youtube.com/watch?v=Sf0DKtJwMwg
 
-9.  2.2 Simplifying Radical Expressions.ahk
+2.2 Simplifying Radical Expressions
 https://www.youtube.com/watch?v=Zg4EQEkZ0Lg
 
-10.  2.3 Adding and Subtracting Radical Expressions.ahk
+2.3 Adding and Subtracting Radical Expressions
 https://www.youtube.com/watch?v=SxawK5Nar0k
 
-11.  2.4 Multiplying and Dividing Radical Expressions.ahk
+2.4 Multiplying and Dividing Radical Expressions
 https://www.youtube.com/watch?v=0Vw9af6EaPw
 
-12.  2.5 Solving Radical Equations.ahk
+2.5 Solving Radical Equations
 https://www.youtube.com/watch?v=sW7K8Zn7nAQ
 
-13.  3.1 Factoring Polynomial Expressions.ahk
+3.1 Factoring Polynomial Expressions
 https://www.youtube.com/watch?v=ynAf67_w_eU
 
-14.  3.2 Solving Quadratic Equations by Factoring.ahk
+3.2 Solving Quadratic Equations by Factoring
 https://www.youtube.com/watch?v=R271p51b79I
 
-15.  3.3 Using Square Roots to Solve Quadratic Equations.ahk
+3.3 Using Square Roots to Solve Quadratic Equations
 https://www.youtube.com/watch?v=F_LAVO1kNWU
 
-16.  3.4 Developing and Applying the Quadratic Formula.ahk
+3.4 Developing and Applying the Quadratic Formula
 https://www.youtube.com/watch?v=16KePkZvgeg
 
-17.  3.5 Interpreting the Discriminant.ahk
+3.5 Interpreting the Discriminant
 https://www.youtube.com/watch?v=sXQoeqZjNJQ
 
-18.  4.1 Properites of a Quadratic Function.ahk
+4.1 Properites of a Quadratic Function
 https://www.youtube.com/watch?v=S7CWtemZO1c
 
-19.  4.2 Solving a Quadratic Equation Graphically.ahk
+4.2 Solving a Quadratic Equation Graphically
 https://www.youtube.com/watch?v=tdO6RFakz1A
 
-20.  4.3 Transforming the Graph of y=x^2.ahk
+4.3 Transforming the Graph of y=x^2
 https://www.youtube.com/watch?v=mNxEbh1c0ZU
 
-21.  4.4 Analyzing Quadratic Functions in Vertex Form.ahk
+4.4 Analyzing Quadratic Functions in Vertex Form
 https://www.youtube.com/watch?v=JW8P7C84JT0
 
-22.  4.5 Equivalent Forms of the Equation of a Quadratic Function.ahk
+4.5 Equivalent Forms of the Equation of a Quadratic Function
 https://www.youtube.com/watch?v=sth8d_LvNuI
 
-23.  4.6 Analyzing Quadratic Functions in Factored Form.ahk
+4.6 Analyzing Quadratic Functions in Factored Form
 https://www.youtube.com/watch?v=sBfddEtbqKM
 
-24.  4.7 Modelling and Solving Problems with Quadratic Functions.ahk
+4.7 Modelling and Solving Problems with Quadratic Functions
 https://www.youtube.com/watch?v=meeNyvbgm3g
 
-25.  5.1 Solving Quadratic Inequalities in One Variable.ahk
+5.1 Solving Quadratic Inequalities in One Variable
 https://www.youtube.com/watch?v=U8QRzWUloeU
 
-26.  5.2 Graphing Linear Inequalities in Two Variables.ahk
+5.2 Graphing Linear Inequalities in Two Variables
 https://www.youtube.com/watch?v=0udr6o0Ulfo
 
-27.  5.3 Graphing Quadratic Inequalities in Two Variables.ahk
+5.3 Graphing Quadratic Inequalities in Two Variables
 https://www.youtube.com/watch?v=k5nw5pGpbGc
 
-28.  5.4 Solving Systems of Equations Graphically.ahk
+5.4 Solving Systems of Equations Graphically
 https://www.youtube.com/watch?v=F4D7XY-HdjY
 
-29.  5.5 Solving Systems of Equations Algebraically.ahk
+5.5 Solving Systems of Equations Algebraically
 https://www.youtube.com/watch?v=TgVS4iNIWzo
 
-30.  6.1 Angles in Standard Position in Quadrant I.ahk
+6.1 Angles in Standard Position in Quadrant I
 https://www.youtube.com/watch?v=gv-Q8k7hUUo
 
-31.  6.2 Angles in Standard Position in All Quadrants.ahk
+6.2 Angles in Standard Position in All Quadrants
 https://www.youtube.com/watch?v=BigYGcgI_9I
 
-32.  6.3 Constructing Triangles.ahk
+6.3 Constructing Triangles
 https://www.youtube.com/watch?v=Mr74OobcW2A
 
-33.  6.4 The Sine Law.ahk
+6.4 The Sine Law
 https://www.youtube.com/watch?v=Y1Cev4CbAk0
 
-34.  6.5 The Cosine Law.ahk
+6.5 The Cosine Law
 https://www.youtube.com/watch?v=D5bqQ1SDA9c
 
-35.  7.1 Equivalent Rational Expressions.ahk
+7.1 Equivalent Rational Expressions
 https://www.youtube.com/watch?v=TUzEe8-xdzU
 
-36.  7.2 Multiplying and Dividing Rational Expressions.ahk
+7.2 Multiplying and Dividing Rational Expressions
 https://www.youtube.com/watch?v=PXdfr8qXx3g
 
-37.  7.3 Adding and Subtracting Rational Expressions Part I.ahk
+7.3 Adding and Subtracting Rational Expressions Part I
 https://www.youtube.com/watch?v=5av7LfVU-dQ
 
-38.  7.4 Adding and Subtracting Rational Expressions Part II.ahk
+7.4 Adding and Subtracting Rational Expressions Part II
 https://www.youtube.com/watch?v=Kslx6eKvRs4
 
-39.  7.5 Solving Rational Equations.ahk
+7.5 Solving Rational Equations
 https://www.youtube.com/watch?v=r748S0xOKB8
 
-40.  7.6 Applications of Rational Equations.ahk
+7.6 Applications of Rational Equations
 https://www.youtube.com/watch?v=w7p56e0yt1U
 
-41.  8.1 Absolute Value Functions.ahk
+8.1 Absolute Value Functions
 https://www.youtube.com/watch?v=hCmwCkKuj_A
 
-42.  8.2 Absolute Value Equations.ahk
+8.2 Absolute Value Equations
 https://www.youtube.com/watch?v=E6r9v0FXoWU
 
-43.  8.3 Graphing Reciprocals of Linear Functions.ahk
+8.3 Graphing Reciprocals of Linear Functions
 https://www.youtube.com/watch?v=xt1mBSNVVek
 
-44.  8.4 Graphing Reciprocals of Quadratic Functions I.ahk
+8.4 Graphing Reciprocals of Quadratic Functions I
 https://www.youtube.com/watch?v=zNRZ2Osjsuw
 
-45.  8.5 Graphing Reciprocals of Quadratic Functions II.ahk
+8.5 Graphing Reciprocals of Quadratic Functions II
 https://www.youtube.com/watch?v=kCl8ks-HMs0
 
-46.  Navigation Problems.ahk
+Navigation Problems
 https://www.youtube.com/watch?v=rEOTEj-74HU
 Pre-calculus 11

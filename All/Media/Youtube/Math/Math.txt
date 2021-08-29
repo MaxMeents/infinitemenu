@@ -1,13 +1,13 @@
 
-1.  Algebra 1 Lessons
+Algebra 1 Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Math/Algebra_1_Lessons/Algebra_1_Lessons.txt
 
-2.  Geometry Lessons
+Geometry Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Math/Geometry_Lessons/Geometry_Lessons.txt
 
-3.  Precalculus Lessons
+Precalculus Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Math/Precalculus_Lessons/Precalculus_Lessons.txt
 
-4.  Trigonometry Lessons
+Trigonometry Lessons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Math/Trigonometry_Lessons/Trigonometry_Lessons.txt
 Math

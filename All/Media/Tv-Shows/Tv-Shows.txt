@@ -1,4 +1,10 @@
 
-1.  Generes
+Generes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Generes/Generes.txt
+
+Netflix - List of Genres - Tv-Shows
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Netflix_-_List_of_Genres_-_Tv-Shows/Netflix_-_List_of_Genres_-_Tv-Shows.txt
+
+Reelgood - Amazon Prime - TV
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Reelgood_-_Amazon_Prime_-_TV/Reelgood_-_Amazon_Prime_-_TV.txt
 Tv-Shows

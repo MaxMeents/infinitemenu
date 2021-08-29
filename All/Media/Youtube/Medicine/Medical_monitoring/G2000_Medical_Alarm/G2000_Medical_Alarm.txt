@@ -1,22 +1,22 @@
 
-1.  G2000 Contents.ahk
+G2000 Contents
 https://www.youtube.com/watch?v=ViaMOxu0rUo
 
-2.  G2000 Installation.ahk
+G2000 Installation
 https://www.youtube.com/watch?v=oESd-2gpC6k
 
-3.  G2000 Intro.ahk
+G2000 Intro
 https://www.youtube.com/watch?v=-2YcuT6jons
 
-4.  G2000 Linking.ahk
+G2000 Linking
 https://www.youtube.com/watch?v=vmzoUpp3-wo
 
-5.  G2000 Location.ahk
+G2000 Location
 https://www.youtube.com/watch?v=LTclNieNE10
 
-6.  G2000 Testing.ahk
+G2000 Testing
 https://www.youtube.com/watch?v=-NShAZnHZlI
 
-7.  G2000 Troubleshooting.ahk
+G2000 Troubleshooting
 https://www.youtube.com/watch?v=VtHtbzh65yg
 G2000 Medical Alarm

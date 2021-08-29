@@ -1,88 +1,88 @@
 
-1.  1 - C# Tutorial For Beginners in HindiUrdu - Introduction To C# Programming -  HindiUrdu.ahk
+1 - C# Tutorial For Beginners in HindiUrdu - Introduction To C# Programming -  HindiUrdu
 https://www.youtube.com/watch?v=-ji86MTHOXM
 
-2.  10 - C# Tutorial For Beginners in HindiUrdu - Switch Case in C#.ahk
+10 - C# Tutorial For Beginners in HindiUrdu - Switch Case in C#
 https://www.youtube.com/watch?v=6xOkiIi581M
 
-3.  11 - C# Tutorial For Beginners - While loop in C#.ahk
+11 - C# Tutorial For Beginners - While loop in C#
 https://www.youtube.com/watch?v=kY1Zn8R_wJo
 
-4.  12 - C# Tutorial For Beginners in HindiUrdu - Do While Loop in C#.ahk
+12 - C# Tutorial For Beginners in HindiUrdu - Do While Loop in C#
 https://www.youtube.com/watch?v=obYEH5WrGFo
 
-5.  13 - C# Tutorial For Beginners in HindiUrdu - For loop in C#.ahk
+13 - C# Tutorial For Beginners in HindiUrdu - For loop in C#
 https://www.youtube.com/watch?v=8win5AqPaVg
 
-6.  14 - C# Tutorial For Beginners in HindiUrdu -  Foreach loop in C#.ahk
+14 - C# Tutorial For Beginners in HindiUrdu -  Foreach loop in C#
 https://www.youtube.com/watch?v=LAM_Ud72ghQ
 
-7.  15 - C# Tutorial For Beginners in HindiUrdu - Compile time Vs Runtime in C#.ahk
+15 - C# Tutorial For Beginners in HindiUrdu - Compile time Vs Runtime in C#
 https://www.youtube.com/watch?v=v-wKeKEUWUQ
 
-8.  16 - C# Tutorial For Beginners in HindiUrdu - Var vs Dynamic keyword in C#.ahk
+16 - C# Tutorial For Beginners in HindiUrdu - Var vs Dynamic keyword in C#
 https://www.youtube.com/watch?v=J-AwswvQK28
 
-9.  17 - C# Tutorial For Beginners in HindiUrdu - Method in C#.ahk
+17 - C# Tutorial For Beginners in HindiUrdu - Method in C#
 https://www.youtube.com/watch?v=ssvty7uCzyM
 
-10.  18 - C# Tutorial For Beginners in HindiUrdu - Method Parameters in C#.ahk
+18 - C# Tutorial For Beginners in HindiUrdu - Method Parameters in C#
 https://www.youtube.com/watch?v=K3UUfpg4k24
 
-11.  19 - C# Tutorial For Beginners in HindiUrdu - Pass by Value and Ref in C#.ahk
+19 - C# Tutorial For Beginners in HindiUrdu - Pass by Value and Ref in C#
 https://www.youtube.com/watch?v=vlTmfg2NCow
 
-12.  2 - C# Tutorial For Beginners in HindiUrdu - How To Download And Install Visual Studio Community.ahk
+2 - C# Tutorial For Beginners in HindiUrdu - How To Download And Install Visual Studio Community
 https://www.youtube.com/watch?v=F9_Y0hbZm7k
 
-13.  20 - C# Tutorial For Beginners in HindiUrdu - Out keyword in C#.ahk
+20 - C# Tutorial For Beginners in HindiUrdu - Out keyword in C#
 https://www.youtube.com/watch?v=vr_z5skKFtY
 
-14.  21 - C# Tutorial For Beginners in HindiUrdu - Optional Parameter in C#.ahk
+21 - C# Tutorial For Beginners in HindiUrdu - Optional Parameter in C#
 https://www.youtube.com/watch?v=QrfqPefMD8M
 
-15.  22 - C# Tutorial For Beginners in HindiUrdu - Passing Array in Method C#.ahk
+22 - C# Tutorial For Beginners in HindiUrdu - Passing Array in Method C#
 https://www.youtube.com/watch?v=cYOeutahB1k
 
-16.  23 - C# Tutorial For Beginners in HindiUrdu - Using Var and Dynamic Keyword in Method C#.ahk
+23 - C# Tutorial For Beginners in HindiUrdu - Using Var and Dynamic Keyword in Method C#
 https://www.youtube.com/watch?v=cM1aHKPU9fI
 
-17.  24 - C# Tutorial For Beginners in HindiUrdu - return method in c#.ahk
+24 - C# Tutorial For Beginners in HindiUrdu - return method in c#
 https://www.youtube.com/watch?v=Nar-mQyQL0A
 
-18.  25 - C# Tutorial For Beginners in HindiUrdu - How to use Enum in C#.ahk
+25 - C# Tutorial For Beginners in HindiUrdu - How to use Enum in C#
 https://www.youtube.com/watch?v=pKLrkA4nllQ
 
-19.  26 - C# Tutorial For Beginners in HindiUrdu - How to use Enum with switch in C#.ahk
+26 - C# Tutorial For Beginners in HindiUrdu - How to use Enum with switch in C#
 https://www.youtube.com/watch?v=fD1oKVlvrcc
 
-20.  27 - C# Tutorial For Beginners in HindiUrdu - Struct in C#.ahk
+27 - C# Tutorial For Beginners in HindiUrdu - Struct in C#
 https://www.youtube.com/watch?v=XYHWLogqj1g
 
-21.  28 - C# Tutorial For Beginners in HindiUrdu - Using Methods in Struct C#.ahk
+28 - C# Tutorial For Beginners in HindiUrdu - Using Methods in Struct C#
 https://www.youtube.com/watch?v=b6PkmTHUjGU
 
-22.  29 - C# Tutorial For Beginners in HindiUrdu - Static Method Vs Object Method in C#.ahk
+29 - C# Tutorial For Beginners in HindiUrdu - Static Method Vs Object Method in C#
 https://www.youtube.com/watch?v=SPFY7lLW4QM
 
-23.  3 - C# Tutorial For Beginners in HindiUrdu  - How To Write Your First C# Program - HindiUrdu.ahk
+3 - C# Tutorial For Beginners in HindiUrdu  - How To Write Your First C# Program - HindiUrdu
 https://www.youtube.com/watch?v=rpkYs7eyuks
 
-24.  4 - C# Tutorial For Beginners in HindiUrdu - How To Use Solution Explorer And Learn Basic Work Flow.ahk
+4 - C# Tutorial For Beginners in HindiUrdu - How To Use Solution Explorer And Learn Basic Work Flow
 https://www.youtube.com/watch?v=BZwFdjPDkq8
 
-25.  5 -  C# Tutorial For Beginners in HindiUrdu - How To Use Variables And Data Types - HindiUrdu.ahk
+5 -  C# Tutorial For Beginners in HindiUrdu - How To Use Variables And Data Types - HindiUrdu
 https://www.youtube.com/watch?v=8qRMbK1GJB4
 
-26.  6 - C# Tutorial For Beginners in HindiUrdu - If else in c# - HindiUrdu.ahk
+6 - C# Tutorial For Beginners in HindiUrdu - If else in c# - HindiUrdu
 https://www.youtube.com/watch?v=bTyL7OFyAbY
 
-27.  7 - C# Tutorial For Beginners in HindiUrdu - If - else if in c#.ahk
+7 - C# Tutorial For Beginners in HindiUrdu - If - else if in c#
 https://www.youtube.com/watch?v=OHAGaBHrvFk
 
-28.  8 - C# Tutorial For Beginners in HindiUrdu - Conditional Operator in C#.ahk
+8 - C# Tutorial For Beginners in HindiUrdu - Conditional Operator in C#
 https://www.youtube.com/watch?v=6gMwyVkYmos
 
-29.  9 - C# Tutorial For Beginners in HindiUrdu  -  Array in C#.ahk
+9 - C# Tutorial For Beginners in HindiUrdu  -  Array in C#
 https://www.youtube.com/watch?v=NqoV7XeE58o
 C# Tutorial For Beginners in HindiUrdu

@@ -1,199 +1,199 @@
 
-1.  Ajax tutorial in hindi  JavaScript Tutorial In Hindi #35.ahk
+Ajax tutorial in hindi  JavaScript Tutorial In Hindi #35
 https://www.youtube.com/watch?v=FJZEVmF3eDg
 
-2.  Alarm Clock In JavaScript  JavaScript Tutorial In Hindi #54.ahk
+Alarm Clock In JavaScript  JavaScript Tutorial In Hindi #54
 https://www.youtube.com/watch?v=p5o_cApVATE
 
-3.  Arrays and Objects In JavaScript  JavaScript Tutorial In Hindi #7.ahk
+Arrays and Objects In JavaScript  JavaScript Tutorial In Hindi #7
 https://www.youtube.com/watch?v=nlRtAF8Gu0A
 
-4.  Arrow functions in Javascript  JavaScript Tutorial In Hindi #41.ahk
+Arrow functions in Javascript  JavaScript Tutorial In Hindi #41
 https://www.youtube.com/watch?v=RwlL5pXPhfs
 
-5.  AsyncAwait in Javascript  JavaScript Tutorial In Hindi #43.ahk
+AsyncAwait in Javascript  JavaScript Tutorial In Hindi #43
 https://www.youtube.com/watch?v=AyJq1RRaY_k
 
-6.  Callback functions in javascript  JavaScript Tutorial In Hindi #37.ahk
+Callback functions in javascript  JavaScript Tutorial In Hindi #37
 https://www.youtube.com/watch?v=zrvpCtlsRpk
 
-7.  Children, Parent & Traversing the DOM  JavaScript Tutorial In Hindi #15.ahk
+Children, Parent & Traversing the DOM  JavaScript Tutorial In Hindi #15
 https://www.youtube.com/watch?v=087OGOITaKU
 
-8.  Console Logs, Errors, Warnings & More  JavaScript Tutorial In Hindi #2.ahk
+Console Logs, Errors, Warnings & More  JavaScript Tutorial In Hindi #2
 https://www.youtube.com/watch?v=n5Xm6us5-yU
 
-9.  Creating a Clock Exercise 6 Solution  JavaScript Tutorial In Hindi #62.ahk
+Creating a Clock Exercise 6 Solution  JavaScript Tutorial In Hindi #62
 https://www.youtube.com/watch?v=ZB1gNlUreu4
 
-10.  Creating an Alarm App Exercise 6  JavaScript Tutorial In Hindi #52.ahk
+Creating an Alarm App Exercise 6  JavaScript Tutorial In Hindi #52
 https://www.youtube.com/watch?v=6xSRk0vk1jg
 
-11.  Creating an Editable Div Exercise 2 Solution  JavaScript Tutorial In Hindi #25.ahk
+Creating an Editable Div Exercise 2 Solution  JavaScript Tutorial In Hindi #25
 https://www.youtube.com/watch?v=kk6T2-xeW5A
 
-12.  Creating Editable Div Using JavaScript Exercise 2  JavaScript Tutorial In Hindi #21.ahk
+Creating Editable Div Using JavaScript Exercise 2  JavaScript Tutorial In Hindi #21
 https://www.youtube.com/watch?v=cPtIm7m4Gkg
 
-13.  Creating, Removing & Replacing Elements  JavaScript Tutorial In Hindi #16.ahk
+Creating, Removing & Replacing Elements  JavaScript Tutorial In Hindi #16
 https://www.youtube.com/watch?v=MeCPwvMQZ9o
 
-14.  Data Types in JavaScript (Primitive & Reference Types)  JavaScript Tutorial In Hindi #4.ahk
+Data Types in JavaScript (Primitive & Reference Types)  JavaScript Tutorial In Hindi #4
 https://www.youtube.com/watch?v=oKuUSBqv4rg
 
-15.  Date Object Date & Time In JavaScript  JavaScript Tutorial In Hindi #24.ahk
+Date Object Date & Time In JavaScript  JavaScript Tutorial In Hindi #24
 https://www.youtube.com/watch?v=7QaZ4lehCfk
 
-16.  Drag & Drop Elements with JavaScript and HTML  JavaScript Tutorial In Hindi #64.ahk
+Drag & Drop Elements with JavaScript and HTML  JavaScript Tutorial In Hindi #64
 https://www.youtube.com/watch?v=mp0PHdpEC7A
 
-17.  Error Handling & Try Catch in Javascript  JavaScript Tutorial In Hindi #44.ahk
+Error Handling & Try Catch in Javascript  JavaScript Tutorial In Hindi #44
 https://www.youtube.com/watch?v=BcAYvnsbmMQ
 
-18.  ES6 Classes and Inheritance  JavaScript Tutorial In Hindi #31.ahk
+ES6 Classes and Inheritance  JavaScript Tutorial In Hindi #31
 https://www.youtube.com/watch?v=YBBg6bp9ojA
 
-19.  Events & Event Object In JavaScript  JavaScript Tutorial In Hindi #17.ahk
+Events & Event Object In JavaScript  JavaScript Tutorial In Hindi #17
 https://www.youtube.com/watch?v=rxPw8kJUPQ0
 
-20.  Fetch api in Javascript  JavaScript Tutorial In Hindi #42.ahk
+Fetch api in Javascript  JavaScript Tutorial In Hindi #42
 https://www.youtube.com/watch?v=38uPRscJXfo
 
-21.  For, While & Do while Loops in JavaScript  JavaScript Tutorial In Hindi #9.ahk
+For, While & Do while Loops in JavaScript  JavaScript Tutorial In Hindi #9
 https://www.youtube.com/watch?v=SluQIaQD4Ug
 
-22.  For.. of Loop vs For.. in Loop (When to use which)  JavaScript Tutorial In Hindi #56.ahk
+For.. of Loop vs For.. in Loop (When to use which)  JavaScript Tutorial In Hindi #56
 https://www.youtube.com/watch?v=Hxd-JjgHZQ4
 
-23.  Functions in JavaScript  JavaScript Tutorial In Hindi #10.ahk
+Functions in JavaScript  JavaScript Tutorial In Hindi #10
 https://www.youtube.com/watch?v=dsV07zIGfc4
 
-24.  Generators in Javascript  JavaScript Tutorial In Hindi #53.ahk
+Generators in Javascript  JavaScript Tutorial In Hindi #53
 https://www.youtube.com/watch?v=RN5FRD-yrz4
 
-25.  HTML Element Selectors In JavaScript  JavaScript Tutorial In Hindi #14.ahk
+HTML Element Selectors In JavaScript  JavaScript Tutorial In Hindi #14
 https://www.youtube.com/watch?v=p9V44AYNfQE
 
-26.  If Else Conditionals & Switches in JavaScript  JavaScript Tutorial In Hindi #8.ahk
+If Else Conditionals & Switches in JavaScript  JavaScript Tutorial In Hindi #8
 https://www.youtube.com/watch?v=vaZpDYOuprA
 
-27.  Implementing a library class - Exercise 4  JavaScript Tutorial In Hindi #32.ahk
+Implementing a library class - Exercise 4  JavaScript Tutorial In Hindi #32
 https://www.youtube.com/watch?v=_h8-WFuGnNo
 
-28.  Improving Magic Notes Website Exercise 3  JavaScript Tutorial In Hindi #26.ahk
+Improving Magic Notes Website Exercise 3  JavaScript Tutorial In Hindi #26
 https://www.youtube.com/watch?v=eiJwqMpF3Wg
 
-29.  Installing VS Code, Extensions & Setup  JavaScript Tutorial In Hindi #1.ahk
+Installing VS Code, Extensions & Setup  JavaScript Tutorial In Hindi #1
 https://www.youtube.com/watch?v=cvvwkgp4HBg
 
-30.  Iterators in JavaScript  JavaScript Tutorial In Hindi #51.ahk
+Iterators in JavaScript  JavaScript Tutorial In Hindi #51
 https://www.youtube.com/watch?v=2MNbH7sQK-I
 
-31.  JavaScript Destructuring  JavaScript Tutorial In Hindi #60.ahk
+JavaScript Destructuring  JavaScript Tutorial In Hindi #60
 https://www.youtube.com/watch?v=eIl7WcrmY1c
 
-32.  JavaScript Maps  JavaScript Tutorial In Hindi #57.ahk
+JavaScript Maps  JavaScript Tutorial In Hindi #57
 https://www.youtube.com/watch?v=Cv9gvXEyPdE
 
-33.  JavaScript Regular Expressions & related functions  JavaScript Tutorial In Hindi #46.ahk
+JavaScript Regular Expressions & related functions  JavaScript Tutorial In Hindi #46
 https://www.youtube.com/watch?v=3IhQF4-HQdo
 
-34.  JavaScript Sets  JavaScript Tutorial In Hindi #58.ahk
+JavaScript Sets  JavaScript Tutorial In Hindi #58
 https://www.youtube.com/watch?v=nwgH8IOqRMA
 
-35.  JavaScript Symbols  JavaScript Tutorial In Hindi #59.ahk
+JavaScript Symbols  JavaScript Tutorial In Hindi #59
 https://www.youtube.com/watch?v=5ftatbD3MAI
 
-36.  JavaScript Tutorial In Hindi.ahk
+JavaScript Tutorial In Hindi
 https://www.youtube.com/watch?v=hKB-YGF14SY
 
-37.  JavaScript Type Conversion & Coercion  JavaScript Tutorial In Hindi #5.ahk
+JavaScript Type Conversion & Coercion  JavaScript Tutorial In Hindi #5
 https://www.youtube.com/watch?v=XYFg6_V-c9Q
 
-38.  JavaScript Wall Clock Exercise 6  JavaScript Tutorial In Hindi #61.ahk
+JavaScript Wall Clock Exercise 6  JavaScript Tutorial In Hindi #61
 https://www.youtube.com/watch?v=WIp6fi2h6dE
 
-39.  Library Class Implementation Exercise 4 Solution  JavaScript Tutorial In Hindi #36.ahk
+Library Class Implementation Exercise 4 Solution  JavaScript Tutorial In Hindi #36
 https://www.youtube.com/watch?v=1fSEMGubXuc
 
-40.  Local & Session storage in JavaScript  JavaScript Tutorial In Hindi #20.ahk
+Local & Session storage in JavaScript  JavaScript Tutorial In Hindi #20
 https://www.youtube.com/watch?v=xSv-9Yod83Q
 
-41.  Manipulating Websites Using JS Window Object  JavaScript Tutorial In Hindi #11.ahk
+Manipulating Websites Using JS Window Object  JavaScript Tutorial In Hindi #11
 https://www.youtube.com/watch?v=36hwHnUdVAA
 
-42.  Math Object In JavaScript  JavaScript Tutorial In Hindi #23.ahk
+Math Object In JavaScript  JavaScript Tutorial In Hindi #23
 https://www.youtube.com/watch?v=IhARNbBrYrs
 
-43.  More on JavaScript Events  JavaScript Tutorial In Hindi #18.ahk
+More on JavaScript Events  JavaScript Tutorial In Hindi #18
 https://www.youtube.com/watch?v=XFKvwSxWDN0
 
-44.  Notes App with Title - Exercise 3 Solution  JavaScript Tutorial In Hindi #29.ahk
+Notes App with Title - Exercise 3 Solution  JavaScript Tutorial In Hindi #29
 https://www.youtube.com/watch?v=AoeFRS3cRxQ
 
-45.  Object Literals, Constructors and Object Oriented JavaScript  JavaScript Tutorial In Hindi #27.ahk
+Object Literals, Constructors and Object Oriented JavaScript  JavaScript Tutorial In Hindi #27
 https://www.youtube.com/watch?v=4cuJKHNHQ-s
 
-46.  Object Prototype In javascript  JavaScript Tutorial In Hindi #28.ahk
+Object Prototype In javascript  JavaScript Tutorial In Hindi #28
 https://www.youtube.com/watch?v=nBs7t0j3x3c
 
-47.  Project 1 Build a Notes Taking Website Using Pure JavaScript  JavaScript Tutorial In Hindi #22.ahk
+Project 1 Build a Notes Taking Website Using Pure JavaScript  JavaScript Tutorial In Hindi #22
 https://www.youtube.com/watch?v=kwgNsNhYcHo
 
-48.  Project 2 Building a College Library Website  JavaScript Tutorial In Hindi #33.ahk
+Project 2 Building a College Library Website  JavaScript Tutorial In Hindi #33
 https://www.youtube.com/watch?v=l6i8RDrhcqM
 
-49.  Project 3 Creating a News Website  JavaScript Tutorial In Hindi #40.ahk
+Project 3 Creating a News Website  JavaScript Tutorial In Hindi #40
 https://www.youtube.com/watch?v=w9bVm7VLqTI
 
-50.  Project 4 Form Validation using Regular Expressions  JavaScript Tutorial In Hindi #50.ahk
+Project 4 Form Validation using Regular Expressions  JavaScript Tutorial In Hindi #50
 https://www.youtube.com/watch?v=WD4fSUwY5zY
 
-51.  Project 5 Creating a CV Screener In JavaScript  JavaScript Tutorial In Hindi #55.ahk
+Project 5 Creating a CV Screener In JavaScript  JavaScript Tutorial In Hindi #55
 https://www.youtube.com/watch?v=LJHqsSvF4_M
 
-52.  Project 6 PostMan Clone - Creating a GetPost Request Website  JavaScript Tutorial In Hindi #63.ahk
+Project 6 PostMan Clone - Creating a GetPost Request Website  JavaScript Tutorial In Hindi #63
 https://www.youtube.com/watch?v=g0gLojpleAg
 
-53.  Project 7 Creating a Calculator using HTML, CSS & JS  JavaScript Tutorial In Hindi #65.ahk
+Project 7 Creating a Calculator using HTML, CSS & JS  JavaScript Tutorial In Hindi #65
 https://www.youtube.com/watch?v=yIdA6HvUi_Q
 
-54.  Promises Basics, Promise.then() & Promise.catch()  JavaScript Tutorial In Hindi #39.ahk
+Promises Basics, Promise.then() & Promise.catch()  JavaScript Tutorial In Hindi #39
 https://www.youtube.com/watch?v=2IPw-mWe10U
 
-55.  Prototype Inheritance In JavaScript  JavaScript Tutorial In Hindi #30.ahk
+Prototype Inheritance In JavaScript  JavaScript Tutorial In Hindi #30
 https://www.youtube.com/watch?v=azTgmrQaYl0
 
-56.  Regular Expressions - Character sets  JavaScript Tutorial In Hindi #48.ahk
+Regular Expressions - Character sets  JavaScript Tutorial In Hindi #48
 https://www.youtube.com/watch?v=Fapp4FH2llM
 
-57.  Regular Expressions - Metacharacters in JavaScript  JavaScript Tutorial In Hindi #47.ahk
+Regular Expressions - Metacharacters in JavaScript  JavaScript Tutorial In Hindi #47
 https://www.youtube.com/watch?v=4qnhPqdPpSo
 
-58.  Shorthand character classes (Regular Expressions)  JavaScript Tutorial In Hindi #49.ahk
+Shorthand character classes (Regular Expressions)  JavaScript Tutorial In Hindi #49
 https://www.youtube.com/watch?v=vyMlFKRfrNk
 
-59.  Smart Page Crawler In JS Exercise1 Solution  JavaScript Tutorial In Hindi #19.ahk
+Smart Page Crawler In JS Exercise1 Solution  JavaScript Tutorial In Hindi #19
 https://www.youtube.com/watch?v=vDdQ6s_yeiA
 
-60.  Strings Properties, Methods & Template Literals in JavaScript  JavaScript Tutorial In Hindi #6.ahk
+Strings Properties, Methods & Template Literals in JavaScript  JavaScript Tutorial In Hindi #6
 https://www.youtube.com/watch?v=5H_RSfSfaRs
 
-61.  Understanding DOM & Creating a Website Layout  JavaScript Tutorial In Hindi #12.ahk
+Understanding DOM & Creating a Website Layout  JavaScript Tutorial In Hindi #12
 https://www.youtube.com/watch?v=vzuOQnfOk2I
 
-62.  Using a Dictionary API Exercise 5  JavaScript Tutorial In Hindi #38.ahk
+Using a Dictionary API Exercise 5  JavaScript Tutorial In Hindi #38
 https://www.youtube.com/watch?v=VkBUSzawCKU
 
-63.  Using JavaScript Objects Exercise 5 Solution  JavaScript Tutorial In Hindi #45.ahk
+Using JavaScript Objects Exercise 5 Solution  JavaScript Tutorial In Hindi #45
 https://www.youtube.com/watch?v=z_VJvc0XZL0
 
-64.  Variables let, const & var in JavaScript  JavaScript Tutorial In Hindi #3.ahk
+Variables let, const & var in JavaScript  JavaScript Tutorial In Hindi #3
 https://www.youtube.com/watch?v=YKvoSoA9CPw
 
-65.  WebPage Crawler In JavaScript - Exercise 1  JavaScript Tutorial In Hindi #13.ahk
+WebPage Crawler In JavaScript - Exercise 1  JavaScript Tutorial In Hindi #13
 https://www.youtube.com/watch?v=fXWd_DxeW9s
 
-66.  What is Asynchronous Programming  JavaScript Tutorial In Hindi #34.ahk
+What is Asynchronous Programming  JavaScript Tutorial In Hindi #34
 https://www.youtube.com/watch?v=SWWl1o0LT1I
 JavaScript Tutorials In Hindi

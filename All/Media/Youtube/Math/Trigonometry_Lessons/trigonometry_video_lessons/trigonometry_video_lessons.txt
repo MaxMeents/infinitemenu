@@ -1,115 +1,115 @@
 
-1.  A chord of a circle of radius 6cm subtends an angle 60 at the center. Find the length of the chord..ahk
+A chord of a circle of radius 6cm subtends an angle 60 at the center. Find the length of the chord.
 https://www.youtube.com/watch?v=g6Eaj7Xh3_c&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-2.  choose the right answer 2tan301+tan²45   (1-tan²45)(1+tan²45)  2tan301-tan²30....ahk
+choose the right answer 2tan301+tan²45   (1-tan²45)(1+tan²45)  2tan301-tan²30...
 https://www.youtube.com/watch?v=iYIwH0sqk_Q&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-3.  Complementary Angle formulas with proof. sin(90-A)=cosA... cos(90-A)=sinA... tan(90-A)=cotA... etc.ahk
+Complementary Angle formulas with proof. sin(90-A)=cosA... cos(90-A)=sinA... tan(90-A)=cotA... etc
 https://www.youtube.com/watch?v=P26-igRSdjA&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-4.  consider a triangle PQR. right angle at R. PQ=29 QR=21. find the values of cos²+ sin² and cos²-sin².ahk
+consider a triangle PQR. right angle at R. PQ=29 QR=21. find the values of cos²+ sin² and cos²-sin²
 https://www.youtube.com/watch?v=awHgeUSjth8&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-5.  evaluate sec35cosec55.ahk
+evaluate sec35cosec55
 https://www.youtube.com/watch?v=Cp-3fvPYC4k&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-6.  evaluate sin60.cos30+sin30.cos60 find the value of sin(60+30). what can you conclude.ahk
+evaluate sin60.cos30+sin30.cos60 find the value of sin(60+30). what can you conclude
 https://www.youtube.com/watch?v=QJmWSRRMtpk&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-7.  evaluate tan36cot54...cos12-sin78 ... cosec31-sec59 ... sin15.sec75  ... tan26.tan64.ahk
+evaluate tan36cot54...cos12-sin78 ... cosec31-sec59 ... sin15.sec75  ... tan26.tan64
 https://www.youtube.com/watch?v=Bupndws20Po&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-8.  Express sin75 + cos65 in terms of trigonometric ratios of angles between 0 and 45.ahk
+Express sin75 + cos65 in terms of trigonometric ratios of angles between 0 and 45
 https://www.youtube.com/watch?v=hTYh21m8KJY&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-9.  Express sin81 + tan81 in terms of trigonometric ratios of angles between 0 and 45.ahk
+Express sin81 + tan81 in terms of trigonometric ratios of angles between 0 and 45
 https://www.youtube.com/watch?v=4iHIrvM6QPg&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-10.  How to remember trigonometric table Very easy trick.ahk
+How to remember trigonometric table Very easy trick
 https://www.youtube.com/watch?v=Zfv2fBrMKp4&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-11.  if 3tanA=4 find the values of sinA and cosA.ahk
+if 3tanA=4 find the values of sinA and cosA
 https://www.youtube.com/watch?v=BduheTTus4Y&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-12.  If A, B and C are interior angles of a triangle. Show that sin(B+C)2 = cos A2.ahk
+If A, B and C are interior angles of a triangle. Show that sin(B+C)2 = cos A2
 https://www.youtube.com/watch?v=I2VxdKVQ21c&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-13.  If A,B and C are interior angles of a triangle then show that tan(A+B)2 = cot C2.ahk
+If A,B and C are interior angles of a triangle then show that tan(A+B)2 = cot C2
 https://www.youtube.com/watch?v=MXXFosUao8w&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-14.  if cos7A=sin(A-6) find the value of A.ahk
+if cos7A=sin(A-6) find the value of A
 https://www.youtube.com/watch?v=I4g9TOMOhCA&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-15.  if cosA=1213 find sinA and tanA.ahk
+if cosA=1213 find sinA and tanA
 https://www.youtube.com/watch?v=Wt-TB0gHHhg&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-16.  if cot=78 find (1+sin)(1-sin)  (1+cos)(1-cos)  and (1+sin)cos.ahk
+if cot=78 find (1+sin)(1-sin)  (1+cos)(1-cos)  and (1+sin)cos
 https://www.youtube.com/watch?v=XjUTQYespGs&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-17.  If sin(A+B)=12  and   cos(A+B)=12   find the value of A and B.ahk
+If sin(A+B)=12  and   cos(A+B)=12   find the value of A and B
 https://www.youtube.com/watch?v=7iAxiLi1164&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-18.  if sinA =cosB  prove that A+B=90.ahk
+if sinA =cosB  prove that A+B=90
 https://www.youtube.com/watch?v=I4lP2I-8-U8&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-19.  If tan2A=cot(A-18) find the value of A.ahk
+If tan2A=cot(A-18) find the value of A
 https://www.youtube.com/watch?v=ci2P8QR4ArA&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-20.  if tanA=34 find the other trignimetric ratios of angle A.ahk
+if tanA=34 find the other trignimetric ratios of angle A
 https://www.youtube.com/watch?v=TWRl0Dq1Cuk&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-21.  If tanA=cotB then prove that A+B=90.ahk
+If tanA=cotB then prove that A+B=90
 https://www.youtube.com/watch?v=xjzNJGyZzKo&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-22.  in a right angle triangle ABC, tanA=v3 find sinAcosC+cosAsinC and cosAcosC-sinAsinC.ahk
+in a right angle triangle ABC, tanA=v3 find sinAcosC+cosAsinC and cosAcosC-sinAsinC
 https://www.youtube.com/watch?v=qYXbVdV0XAE&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-23.  In a right angle triangle ABC. Right angle at B. AB=5 ?ACB=30. Determine BC and AC.ahk
+In a right angle triangle ABC. Right angle at B. AB=5 ?ACB=30. Determine BC and AC
 https://www.youtube.com/watch?v=n7IUNGhMu3E&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-24.  in a right angled triangle ABC right angle at B. a=24 b=25 find cos and tan.ahk
+in a right angled triangle ABC right angle at B. a=24 b=25 find cos and tan
 https://www.youtube.com/watch?v=QGVNdq6xs6I&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-25.  In a right triangle PQR. Right angle is at Q and PQ=6. ?RPQ is 60. Find the lengths of QR and PR.ahk
+In a right triangle PQR. Right angle is at Q and PQ=6. ?RPQ is 60. Find the lengths of QR and PR
 https://www.youtube.com/watch?v=aCSKI3IVc_g&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-26.  in a triangle ABC 8cm 15cm and 17cm are AB BC and CA. find out sinA cosA and tanA.ahk
+in a triangle ABC 8cm 15cm and 17cm are AB BC and CA. find out sinA cosA and tanA
 https://www.youtube.com/watch?v=PsGSuQA74js&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-27.  In a triangle PQR right angle is at Q. PQ=3 PR=6. Determine the lengths of ?QPR and ?PRQ.ahk
+In a triangle PQR right angle is at Q. PQ=3 PR=6. Determine the lengths of ?QPR and ?PRQ
 https://www.youtube.com/watch?v=icRHDgmZZYE&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-28.  In a triangle XYZ. Right angle is at Y. YZ=x and XZ=2x. Determine the ?YXZ and ?YZX.ahk
+In a triangle XYZ. Right angle is at Y. YZ=x and XZ=2x. Determine the ?YXZ and ?YZX
 https://www.youtube.com/watch?v=iGEXMGrcqUM&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-29.  introduction to trigonometry.... naming a right angle triangle... hypotenuse adjacent opposite.ahk
+introduction to trigonometry.... naming a right angle triangle... hypotenuse adjacent opposite
 https://www.youtube.com/watch?v=DFALEEmKD2M&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-30.  is it right to say cos(60+30)=cos60cos30-sin60sin30.ahk
+is it right to say cos(60+30)=cos60cos30-sin60sin30
 https://www.youtube.com/watch?v=PkPgTi4GdRg&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-31.  Is it right to say sin(A+B)=sinA+sinB.ahk
+Is it right to say sin(A+B)=sinA+sinB
 https://www.youtube.com/watch?v=jCgUpLnPp3I&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-32.  pythogoros theorem. converse of pythogoros theorem. pythogorean triplets. trigonometry introduction.ahk
+pythogoros theorem. converse of pythogoros theorem. pythogorean triplets. trigonometry introduction
 https://www.youtube.com/watch?v=2o9n0LLxlPg&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-33.  relationship between trigonometric ratios....ahk
+relationship between trigonometric ratios...
 https://www.youtube.com/watch?v=jSA3wKVqycU&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-34.  show that  tan48.tan16.tan42.tan74=1.ahk
+show that  tan48.tan16.tan42.tan74=1
 https://www.youtube.com/watch?v=2iBAOg8jUIc&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-35.  show that cos36.cos54-sin36.sin54=0.ahk
+show that cos36.cos54-sin36.sin54=0
 https://www.youtube.com/watch?v=uaZU_0twyog&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-36.  sin45+cos45.  (cos45)(sec30+cosec60). (sin30+tan45-cosec60)(cot45+cos60-sec30).......ahk
+sin45+cos45.  (cos45)(sec30+cosec60). (sin30+tan45-cosec60)(cot45+cos60-sec30)......
 https://www.youtube.com/watch?v=ywcAZabMe9I&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-37.  the sides of a right angled triangle PQR are PQ=7 PR=25 and angleQ=90. find tanP-tanR.ahk
+the sides of a right angled triangle PQR are PQ=7 PR=25 and angleQ=90. find tanP-tanR
 https://www.youtube.com/watch?v=2qfHWMm01Kk&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 
-38.  trigonometric ratios. sin cos tan cosec sec cot. easy, fun way to remember formulas in trigonometry.ahk
+trigonometric ratios. sin cos tan cosec sec cot. easy, fun way to remember formulas in trigonometry
 https://www.youtube.com/watch?v=Dnd8B6bGWp8&list=PLOMzsgKariWDFqPRVnLNlZ3DSfdd0cply
 trigonometry video lessons

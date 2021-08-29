@@ -1,55 +1,55 @@
 
-1.  Axé
+Axé
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Axé/Axé.txt
 
-2.  Bossa Nova
+Bossa Nova
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Bossa_Nova/Bossa_Nova.txt
 
-3.  Brazilian Rock
+Brazilian Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Brazilian_Rock/Brazilian_Rock.txt
 
-4.  Brega
+Brega
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Brega/Brega.txt
 
-5.  Choro
+Choro
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Choro/Choro.txt
 
-6.  Forró
+Forró
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Forró/Forró.txt
 
-7.  Frevo
+Frevo
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Frevo/Frevo.txt
 
-8.  Funk Carioca
+Funk Carioca
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Funk_Carioca/Funk_Carioca.txt
 
-9.  Lambada
+Lambada
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Lambada/Lambada.txt
 
-10.  Maracatu
+Maracatu
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Maracatu/Maracatu.txt
 
-11.  Música Popular Brasileira
+Música Popular Brasileira
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Música_Popular_Brasileira/Música_Popular_Brasileira.txt
 
-12.  Música Sertaneja
+Música Sertaneja
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Música_Sertaneja/Música_Sertaneja.txt
 
-13.  Pagode
+Pagode
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Pagode/Pagode.txt
 
-14.  Samba
+Samba
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Samba/Samba.txt
 
-15.  Samba Rock
+Samba Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Samba_Rock/Samba_Rock.txt
 
-16.  Tecnobrega
+Tecnobrega
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Tecnobrega/Tecnobrega.txt
 
-17.  Tropicalia
+Tropicalia
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Tropicalia/Tropicalia.txt
 
-18.  Zouk-Lambada
+Zouk-Lambada
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Latin/Brazilian/Zouk-Lambada/Zouk-Lambada.txt
 Brazilian

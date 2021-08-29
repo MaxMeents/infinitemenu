@@ -1,7 +1,7 @@
 
-1.  Boogie
+Boogie
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Pop/Post-Disco/Boogie/Boogie.txt
 
-2.  Dance-pop
+Dance-pop
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Pop/Post-Disco/Dance-pop/Dance-pop.txt
 Post-Disco

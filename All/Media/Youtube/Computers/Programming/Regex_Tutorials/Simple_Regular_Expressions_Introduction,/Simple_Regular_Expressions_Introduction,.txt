@@ -1,0 +1,88 @@
+
+Extract Matches Using Regex, freeCodeCamp Regular Expression Help, Learn Regexes
+https://www.youtube.com/watch?v=AKuW48WeNMA
+
+Find Characters with Lazy Matching, Learning about Regular Expressions in 2020, Learn Regex Features
+https://www.youtube.com/watch?v=AKuW48WeNMA
+
+Find More Than the First Match, freeCodeCamp's Regexes Tutor, Regular Expression Help 2020
+https://www.youtube.com/watch?v=AKuW48WeNMA
+
+Find One or More Criminals in a Hunt, Regular Expression Greedy Match Lesson
+https://www.youtube.com/watch?v=tnTH_39P68c
+
+freeCodeCamp 2021 Regular Expressions Match All Letters and Numbers, Master Regex 2021 Coding lesson
+https://www.youtube.com/watch?v=tnTH_39P68c
+
+freeCodeCamp Check for All or None, Regex Pattern Tutorials 2021
+https://www.youtube.com/watch?v=LriUJJhZpdI
+
+freeCodeCamp Regular Expression, Restrict Possible Usernames, 2021 Coding Tutorials for Beginners
+https://www.youtube.com/watch?v=LriUJJhZpdI
+
+freeCodeCamp, Specify Only the Lower Number of Matches, Free Coding Tutorial for Beginners in 2021
+https://www.youtube.com/watch?v=LriUJJhZpdI
+
+Ignore Case While Matching, Regular Expressions with JS 2020 Tutorial
+https://www.youtube.com/watch?v=jrSLoy3QUTw
+
+Introduction to the Regular Expression Challenges, A Regex Tutorial for Beginners, Learn Regex 2020
+https://www.youtube.com/watch?v=jrSLoy3QUTw
+
+Match a Literal String with Different Possibilities, Learn Regexes on freeCodeCamp, Understanding JS
+https://www.youtube.com/watch?v=jrSLoy3QUTw
+
+Match Anything with Wildcard Period, freeCodeCamp's Regex Tutorials 2020, Learn Regular Expressions
+https://www.youtube.com/watch?v=jrSLoy3QUTw
+
+Match Beginning String Patterns, Regex Tutorials
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Characters that Occur One or More Times,freeCodeCamp Regex Tutorials Javascript, Learn to Code
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Characters that Occur Zero or More Times, freeCodeCamp's Regex Lessons and Tutorials
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Ending String Patterns Using Regexes, Regex Pattern Matching Tutorial, freeCodeCamp Coding Ex
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Letters of the Alphabet, Regular Expression Patterns, freeCodeCamp Regexes Review
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Literal Strings, Learn Regular Expressions on freeCodeCamp 2020, Learn JS for Beginners 2020
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Numbers and Letters of the Alphabet, Free Regex Course, freeCodeCamp Learn Regular Expressions
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Single Character with Multiple Possibilities, freeCodeCamp Regex Concepts and Challenges
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Match Single Characters Not Specified, Regular Expression Lesson 2020, freeCodeCamp Tutorial
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+RAPUNZEL’S SURPRISE TWIN. (Can Maleficent Help Stop the Bad Clones from Taking Over)
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Regex Coding Tutorial, Match Non-Whitespace Characters, Tutorial on Regular Expressions
+https://www.youtube.com/watch?v=9PDEWYtAqdc
+
+Regular Expressions 2021 freeCodeCamp, Match Whitespace
+https://www.youtube.com/watch?v=KVpvbL8DL5Q
+
+Regular Expressions in 2021, freeCodeCamp Regex Match Everything But Letters and Numbers, Coding Vid
+https://www.youtube.com/watch?v=KVpvbL8DL5Q
+
+Regular Expressions, Using the Test Method, freeCodeCamp's Learn Regex Challenges, 2020 Learn Regex
+https://www.youtube.com/watch?v=KVpvbL8DL5Q
+
+Specify Exact Number of Matches, Free Online Coding Tutorial
+https://www.youtube.com/watch?v=PSYgxHgWcvk
+
+Specify Upper and Lower Number of Matches, freeCodeCamp Coding for Beginners 2021
+https://www.youtube.com/watch?v=PSYgxHgWcvk
+
+Understanding Regular Expressions on freeCodeCamp 2021, Match all Numbers Regex Pattern Matching
+https://www.youtube.com/watch?v=PSYgxHgWcvk
+Simple Regular Expressions Introduction, Learn Regular Expressions 2021, Regex Tutorial

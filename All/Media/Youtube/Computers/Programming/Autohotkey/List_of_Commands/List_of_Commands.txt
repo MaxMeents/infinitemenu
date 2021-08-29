@@ -1,1042 +1,1042 @@
 
-1.  #ClipboardTimeout.ahk
+#ClipboardTimeout
 https://www.autohotkey.com/docs/commands/_ClipboardTimeout.htm
 
-2.  #CommentFlag.ahk
+#CommentFlag
 https://www.autohotkey.com/docs/commands/_CommentFlag.htm
 
-3.  #Delimiter.ahk
+#Delimiter
 https://www.autohotkey.com/docs/commands/_EscapeChar.htm#Delimiter
 
-4.  #DerefChar.ahk
+#DerefChar
 https://www.autohotkey.com/docs/commands/_EscapeChar.htm#DerefChar
 
-5.  #ErrorStdOut.ahk
+#ErrorStdOut
 https://www.autohotkey.com/docs/commands/_ErrorStdOut.htm
 
-6.  #EscapeChar.ahk
+#EscapeChar
 https://www.autohotkey.com/docs/commands/_EscapeChar.htm
 
-7.  #HotkeyInterval.ahk
+#HotkeyInterval
 https://www.autohotkey.com/docs/commands/_HotkeyInterval.htm
 
-8.  #HotkeyModifierTimeout.ahk
+#HotkeyModifierTimeout
 https://www.autohotkey.com/docs/commands/_HotkeyModifierTimeout.htm
 
-9.  #Hotstring.ahk
+#Hotstring
 https://www.autohotkey.com/docs/commands/_Hotstring.htm
 
-10.  #If.ahk
+#If
 https://www.autohotkey.com/docs/commands/_If.htm
 
-11.  #IfTimeout.ahk
+#IfTimeout
 https://www.autohotkey.com/docs/commands/_IfTimeout.htm
 
-12.  #IfWinActive - #IfWinNotActive - #IfWinExist - #IfWinNotExist.ahk
+#IfWinActive - #IfWinNotActive - #IfWinExist - #IfWinNotExist
 https://www.autohotkey.com/docs/commands/_IfWinActive.htm
 
-13.  #Include - #IncludeAgain.ahk
+#Include - #IncludeAgain
 https://www.autohotkey.com/docs/commands/_Include.htm
 
-14.  #InputLevel.ahk
+#InputLevel
 https://www.autohotkey.com/docs/commands/_InputLevel.htm
 
-15.  #InstallKeybdHook.ahk
+#InstallKeybdHook
 https://www.autohotkey.com/docs/commands/_InstallKeybdHook.htm
 
-16.  #InstallMouseHook.ahk
+#InstallMouseHook
 https://www.autohotkey.com/docs/commands/_InstallMouseHook.htm
 
-17.  #KeyHistory.ahk
+#KeyHistory
 https://www.autohotkey.com/docs/commands/_KeyHistory.htm
 
-18.  #LTrim.ahk
+#LTrim
 https://www.autohotkey.com/docs/Scripts.htm#LTrim
 
-19.  #MaxHotkeysPerInterval.ahk
+#MaxHotkeysPerInterval
 https://www.autohotkey.com/docs/commands/_MaxHotkeysPerInterval.htm
 
-20.  #MaxMem.ahk
+#MaxMem
 https://www.autohotkey.com/docs/commands/_MaxMem.htm
 
-21.  #MaxThreads.ahk
+#MaxThreads
 https://www.autohotkey.com/docs/commands/_MaxThreads.htm
 
-22.  #MaxThreadsBuffer.ahk
+#MaxThreadsBuffer
 https://www.autohotkey.com/docs/commands/_MaxThreadsBuffer.htm
 
-23.  #MaxThreadsPerHotkey.ahk
+#MaxThreadsPerHotkey
 https://www.autohotkey.com/docs/commands/_MaxThreadsPerHotkey.htm
 
-24.  #MenuMaskKey.ahk
+#MenuMaskKey
 https://www.autohotkey.com/docs/commands/_MenuMaskKey.htm
 
-25.  #NoEnv.ahk
+#NoEnv
 https://www.autohotkey.com/docs/commands/_NoEnv.htm
 
-26.  #NoTrayIcon.ahk
+#NoTrayIcon
 https://www.autohotkey.com/docs/commands/_NoTrayIcon.htm
 
-27.  #Persistent.ahk
+#Persistent
 https://www.autohotkey.com/docs/commands/_Persistent.htm
 
-28.  #Requires.ahk
+#Requires
 https://www.autohotkey.com/docs/commands/_Requires.htm
 
-29.  #SingleInstance.ahk
+#SingleInstance
 https://www.autohotkey.com/docs/commands/_SingleInstance.htm
 
-30.  #UseHook.ahk
+#UseHook
 https://www.autohotkey.com/docs/commands/_UseHook.htm
 
-31.  #Warn.ahk
+#Warn
 https://www.autohotkey.com/docs/commands/_Warn.htm
 
-32.  #WinActivateForce.ahk
+#WinActivateForce
 https://www.autohotkey.com/docs/commands/_WinActivateForce.htm
 
-33.  .ahk
 
 
-34.  Abs().ahk
+
+Abs()
 https://www.autohotkey.com/docs/commands/Math.htm#Abs
 
-35.  ACos().ahk
+ACos()
 https://www.autohotkey.com/docs/commands/Math.htm#ACos
 
-36.  Asc().ahk
+Asc()
 https://www.autohotkey.com/docs/commands/Asc.htm
 
-37.  ASin().ahk
+ASin()
 https://www.autohotkey.com/docs/commands/Math.htm#ASin
 
-38.  ATan().ahk
+ATan()
 https://www.autohotkey.com/docs/commands/Math.htm#ATan
 
-39.  AutoTrim.ahk
+AutoTrim
 https://www.autohotkey.com/docs/commands/AutoTrim.htm
 
-40.  BlockInput.ahk
+BlockInput
 https://www.autohotkey.com/docs/commands/BlockInput.htm
 
-41.  Break.ahk
+Break
 https://www.autohotkey.com/docs/commands/Break.htm
 
-42.  Catch.ahk
+Catch
 https://www.autohotkey.com/docs/commands/Catch.htm
 
-43.  Ceil().ahk
+Ceil()
 https://www.autohotkey.com/docs/commands/Math.htm#Ceil
 
-44.  Chr().ahk
+Chr()
 https://www.autohotkey.com/docs/commands/Chr.htm
 
-45.  Click.ahk
+Click
 https://www.autohotkey.com/docs/commands/Click.htm
 
-46.  ClipWait.ahk
+ClipWait
 https://www.autohotkey.com/docs/commands/ClipWait.htm
 
-47.  ComObjArray().ahk
+ComObjArray()
 https://www.autohotkey.com/docs/commands/ComObjArray.htm
 
-48.  ComObjConnect().ahk
+ComObjConnect()
 https://www.autohotkey.com/docs/commands/ComObjConnect.htm
 
-49.  ComObjCreate().ahk
+ComObjCreate()
 https://www.autohotkey.com/docs/commands/ComObjCreate.htm
 
-50.  ComObjError().ahk
+ComObjError()
 https://www.autohotkey.com/docs/commands/ComObjError.htm
 
-51.  ComObjFlags().ahk
+ComObjFlags()
 https://www.autohotkey.com/docs/commands/ComObjFlags.htm
 
-52.  ComObjGet().ahk
+ComObjGet()
 https://www.autohotkey.com/docs/commands/ComObjGet.htm
 
-53.  ComObjParameter().ahk
+ComObjParameter()
 https://www.autohotkey.com/docs/commands/ComObjActive.htm
 
-54.  ComObjQuery().ahk
+ComObjQuery()
 https://www.autohotkey.com/docs/commands/ComObjQuery.htm
 
-55.  ComObjType().ahk
+ComObjType()
 https://www.autohotkey.com/docs/commands/ComObjType.htm
 
-56.  ComObjValue().ahk
+ComObjValue()
 https://www.autohotkey.com/docs/commands/ComObjValue.htm
 
-57.  Continue.ahk
+Continue
 https://www.autohotkey.com/docs/commands/Continue.htm
 
-58.  Control.ahk
+Control
 https://www.autohotkey.com/docs/commands/Control.htm
 
-59.  ControlClick.ahk
+ControlClick
 https://www.autohotkey.com/docs/commands/ControlClick.htm
 
-60.  ControlFocus.ahk
+ControlFocus
 https://www.autohotkey.com/docs/commands/ControlFocus.htm
 
-61.  ControlGet.ahk
+ControlGet
 https://www.autohotkey.com/docs/commands/ControlGet.htm
 
-62.  ControlGetFocus.ahk
+ControlGetFocus
 https://www.autohotkey.com/docs/commands/ControlGetFocus.htm
 
-63.  ControlGetPos.ahk
+ControlGetPos
 https://www.autohotkey.com/docs/commands/ControlGetPos.htm
 
-64.  ControlGetText.ahk
+ControlGetText
 https://www.autohotkey.com/docs/commands/ControlGetText.htm
 
-65.  ControlMove.ahk
+ControlMove
 https://www.autohotkey.com/docs/commands/ControlMove.htm
 
-66.  ControlSend - ControlSendRaw.ahk
+ControlSend - ControlSendRaw
 https://www.autohotkey.com/docs/commands/ControlSend.htm
 
-67.  ControlSetText.ahk
+ControlSetText
 https://www.autohotkey.com/docs/commands/ControlSetText.htm
 
-68.  CoordMode.ahk
+CoordMode
 https://www.autohotkey.com/docs/commands/CoordMode.htm
 
-69.  Cos().ahk
+Cos()
 https://www.autohotkey.com/docs/commands/Math.htm#Cos
 
-70.  Critical.ahk
+Critical
 https://www.autohotkey.com/docs/commands/Critical.htm
 
-71.  DetectHiddenText.ahk
+DetectHiddenText
 https://www.autohotkey.com/docs/commands/DetectHiddenText.htm
 
-72.  DetectHiddenWindows.ahk
+DetectHiddenWindows
 https://www.autohotkey.com/docs/commands/DetectHiddenWindows.htm
 
-73.  DllCall().ahk
+DllCall()
 https://www.autohotkey.com/docs/commands/DllCall.htm
 
-74.  Drive.ahk
+Drive
 https://www.autohotkey.com/docs/commands/Drive.htm
 
-75.  DriveGet.ahk
+DriveGet
 https://www.autohotkey.com/docs/commands/DriveGet.htm
 
-76.  DriveSpaceFree.ahk
+DriveSpaceFree
 https://www.autohotkey.com/docs/commands/DriveSpaceFree.htm
 
-77.  Edit.ahk
+Edit
 https://www.autohotkey.com/docs/commands/Edit.htm
 
-78.  Else.ahk
+Else
 https://www.autohotkey.com/docs/commands/Else.htm
 
-79.  EnvAdd.ahk
+EnvAdd
 https://www.autohotkey.com/docs/commands/EnvAdd.htm
 
-80.  EnvDiv.ahk
+EnvDiv
 https://www.autohotkey.com/docs/commands/EnvDiv.htm
 
-81.  EnvGet.ahk
+EnvGet
 https://www.autohotkey.com/docs/commands/EnvGet.htm
 
-82.  EnvMult.ahk
+EnvMult
 https://www.autohotkey.com/docs/commands/EnvMult.htm
 
-83.  EnvSet.ahk
+EnvSet
 https://www.autohotkey.com/docs/commands/EnvSet.htm
 
-84.  EnvSub.ahk
+EnvSub
 https://www.autohotkey.com/docs/commands/EnvSub.htm
 
-85.  EnvUpdate.ahk
+EnvUpdate
 https://www.autohotkey.com/docs/commands/EnvUpdate.htm
 
-86.  Exception().ahk
+Exception()
 https://www.autohotkey.com/docs/commands/Throw.htm#Exception
 
-87.  Exit.ahk
+Exit
 https://www.autohotkey.com/docs/commands/Exit.htm
 
-88.  ExitApp.ahk
+ExitApp
 https://www.autohotkey.com/docs/commands/ExitApp.htm
 
-89.  Exp().ahk
+Exp()
 https://www.autohotkey.com/docs/commands/Math.htm#Exp
 
-90.  FileAppend.ahk
+FileAppend
 https://www.autohotkey.com/docs/commands/FileAppend.htm
 
-91.  FileCopy.ahk
+FileCopy
 https://www.autohotkey.com/docs/commands/FileCopy.htm
 
-92.  FileCopyDir.ahk
+FileCopyDir
 https://www.autohotkey.com/docs/commands/FileCopyDir.htm
 
-93.  FileCreateDir.ahk
+FileCreateDir
 https://www.autohotkey.com/docs/commands/FileCreateDir.htm
 
-94.  FileCreateShortcut.ahk
+FileCreateShortcut
 https://www.autohotkey.com/docs/commands/FileCreateShortcut.htm
 
-95.  FileDelete.ahk
+FileDelete
 https://www.autohotkey.com/docs/commands/FileDelete.htm
 
-96.  FileEncoding.ahk
+FileEncoding
 https://www.autohotkey.com/docs/commands/FileEncoding.htm
 
-97.  FileExist().ahk
+FileExist()
 https://www.autohotkey.com/docs/commands/FileExist.htm
 
-98.  FileGetAttrib.ahk
+FileGetAttrib
 https://www.autohotkey.com/docs/commands/FileGetAttrib.htm
 
-99.  FileGetShortcut.ahk
+FileGetShortcut
 https://www.autohotkey.com/docs/commands/FileGetShortcut.htm
 
-100.  FileGetSize.ahk
+FileGetSize
 https://www.autohotkey.com/docs/commands/FileGetSize.htm
 
-101.  FileGetTime.ahk
+FileGetTime
 https://www.autohotkey.com/docs/commands/FileGetTime.htm
 
-102.  FileGetVersion.ahk
+FileGetVersion
 https://www.autohotkey.com/docs/commands/FileGetVersion.htm
 
-103.  FileInstall.ahk
+FileInstall
 https://www.autohotkey.com/docs/commands/FileInstall.htm
 
-104.  FileMove.ahk
+FileMove
 https://www.autohotkey.com/docs/commands/FileMove.htm
 
-105.  FileMoveDir.ahk
+FileMoveDir
 https://www.autohotkey.com/docs/commands/FileMoveDir.htm
 
-106.  FileOpen().ahk
+FileOpen()
 https://www.autohotkey.com/docs/commands/FileOpen.htm
 
-107.  FileRead.ahk
+FileRead
 https://www.autohotkey.com/docs/commands/FileRead.htm
 
-108.  FileReadLine.ahk
+FileReadLine
 https://www.autohotkey.com/docs/commands/FileReadLine.htm
 
-109.  FileRecycle.ahk
+FileRecycle
 https://www.autohotkey.com/docs/commands/FileRecycle.htm
 
-110.  FileRecycleEmpty.ahk
+FileRecycleEmpty
 https://www.autohotkey.com/docs/commands/FileRecycleEmpty.htm
 
-111.  FileRemoveDir.ahk
+FileRemoveDir
 https://www.autohotkey.com/docs/commands/FileRemoveDir.htm
 
-112.  FileSelectFile.ahk
+FileSelectFile
 https://www.autohotkey.com/docs/commands/FileSelectFile.htm
 
-113.  FileSelectFolder.ahk
+FileSelectFolder
 https://www.autohotkey.com/docs/commands/FileSelectFolder.htm
 
-114.  FileSetAttrib.ahk
+FileSetAttrib
 https://www.autohotkey.com/docs/commands/FileSetAttrib.htm
 
-115.  FileSetTime.ahk
+FileSetTime
 https://www.autohotkey.com/docs/commands/FileSetTime.htm
 
-116.  Finally.ahk
+Finally
 https://www.autohotkey.com/docs/commands/Finally.htm
 
-117.  Floor().ahk
+Floor()
 https://www.autohotkey.com/docs/commands/Math.htm#Floor
 
-118.  For.ahk
+For
 https://www.autohotkey.com/docs/commands/For.htm
 
-119.  Format().ahk
+Format()
 https://www.autohotkey.com/docs/commands/Format.htm
 
-120.  FormatTime.ahk
+FormatTime
 https://www.autohotkey.com/docs/commands/FormatTime.htm
 
-121.  Func().ahk
+Func()
 https://www.autohotkey.com/docs/commands/Func.htm
 
-122.  GetKeySC().ahk
+GetKeySC()
 https://www.autohotkey.com/docs/commands/GetKey.htm
 
-123.  GetKeyState.ahk
+GetKeyState
 https://www.autohotkey.com/docs/commands/GetKeyState.htm
 
-124.  Gosub.ahk
+Gosub
 https://www.autohotkey.com/docs/commands/Gosub.htm
 
-125.  Goto.ahk
+Goto
 https://www.autohotkey.com/docs/commands/Goto.htm
 
-126.  GroupActivate.ahk
+GroupActivate
 https://www.autohotkey.com/docs/commands/GroupActivate.htm
 
-127.  GroupAdd.ahk
+GroupAdd
 https://www.autohotkey.com/docs/commands/GroupAdd.htm
 
-128.  GroupClose.ahk
+GroupClose
 https://www.autohotkey.com/docs/commands/GroupClose.htm
 
-129.  GroupDeactivate.ahk
+GroupDeactivate
 https://www.autohotkey.com/docs/commands/GroupDeactivate.htm
 
-130.  Gui.ahk
+Gui
 https://www.autohotkey.com/docs/commands/Gui.htm
 
-131.  GuiControl.ahk
+GuiControl
 https://www.autohotkey.com/docs/commands/GuiControl.htm
 
-132.  GuiControlGet.ahk
+GuiControlGet
 https://www.autohotkey.com/docs/commands/GuiControlGet.htm
 
-133.  Hotkey.ahk
+Hotkey
 https://www.autohotkey.com/docs/commands/Hotkey.htm
 
-134.  Hotstring().ahk
+Hotstring()
 https://www.autohotkey.com/docs/commands/Hotstring.htm
 
-135.  If (expression).ahk
+If (expression)
 https://www.autohotkey.com/docs/commands/IfExpression.htm
 
-136.  If var is [not] type.ahk
+If var is [not] type
 https://www.autohotkey.com/docs/commands/IfIs.htm
 
-137.  If var [not] between.ahk
+If var [not] between
 https://www.autohotkey.com/docs/commands/IfBetween.htm
 
-138.  If var [not] in-contains MatchList.ahk
+If var [not] in-contains MatchList
 https://www.autohotkey.com/docs/commands/IfIn.htm
 
-139.  IfExist - IfNotExist.ahk
+IfExist - IfNotExist
 https://www.autohotkey.com/docs/commands/IfExist.htm
 
-140.  IfInString - IfNotInString.ahk
+IfInString - IfNotInString
 https://www.autohotkey.com/docs/commands/IfInString.htm
 
-141.  IfLess - IfLessOrEqual.ahk
+IfLess - IfLessOrEqual
 https://www.autohotkey.com/docs/commands/IfEqual.htm
 
-142.  IfMsgBox.ahk
+IfMsgBox
 https://www.autohotkey.com/docs/commands/IfMsgBox.htm
 
-143.  IL_Add().ahk
+IL_Add()
 https://www.autohotkey.com/docs/commands/ListView.htm#IL_Add
 
-144.  IL_Create().ahk
+IL_Create()
 https://www.autohotkey.com/docs/commands/ListView.htm#IL_Create
 
-145.  IL_Destroy().ahk
+IL_Destroy()
 https://www.autohotkey.com/docs/commands/ListView.htm#IL_Destroy
 
-146.  ImageSearch.ahk
+ImageSearch
 https://www.autohotkey.com/docs/commands/ImageSearch.htm
 
-147.  IniDelete.ahk
+IniDelete
 https://www.autohotkey.com/docs/commands/IniDelete.htm
 
-148.  IniRead.ahk
+IniRead
 https://www.autohotkey.com/docs/commands/IniRead.htm
 
-149.  IniWrite.ahk
+IniWrite
 https://www.autohotkey.com/docs/commands/IniWrite.htm
 
-150.  Input.ahk
+Input
 https://www.autohotkey.com/docs/commands/Input.htm
 
-151.  InputBox.ahk
+InputBox
 https://www.autohotkey.com/docs/commands/InputBox.htm
 
-152.  InputHook().ahk
+InputHook()
 https://www.autohotkey.com/docs/commands/InputHook.htm
 
-153.  InStr().ahk
+InStr()
 https://www.autohotkey.com/docs/commands/InStr.htm
 
-154.  IsByRef().ahk
+IsByRef()
 https://www.autohotkey.com/docs/commands/IsByRef.htm
 
-155.  IsFunc().ahk
+IsFunc()
 https://www.autohotkey.com/docs/commands/IsFunc.htm
 
-156.  IsLabel().ahk
+IsLabel()
 https://www.autohotkey.com/docs/commands/IsLabel.htm
 
-157.  IsObject().ahk
+IsObject()
 https://www.autohotkey.com/docs/commands/IsObject.htm
 
-158.  KeyHistory.ahk
+KeyHistory
 https://www.autohotkey.com/docs/commands/KeyHistory.htm
 
-159.  KeyWait.ahk
+KeyWait
 https://www.autohotkey.com/docs/commands/KeyWait.htm
 
-160.  List of Commands.ahk
+List of Commands
 https://www.autohotkey.com/docs/commands/
 
-161.  ListHotkeys.ahk
+ListHotkeys
 https://www.autohotkey.com/docs/commands/ListHotkeys.htm
 
-162.  ListLines.ahk
+ListLines
 https://www.autohotkey.com/docs/commands/ListLines.htm
 
-163.  ListVars.ahk
+ListVars
 https://www.autohotkey.com/docs/commands/ListVars.htm
 
-164.  Ln().ahk
+Ln()
 https://www.autohotkey.com/docs/commands/Math.htm#Ln
 
-165.  LoadPicture().ahk
+LoadPicture()
 https://www.autohotkey.com/docs/commands/LoadPicture.htm
 
-166.  Log().ahk
+Log()
 https://www.autohotkey.com/docs/commands/Math.htm#Log
 
-167.  Loop (files & folders).ahk
+Loop (files & folders)
 https://www.autohotkey.com/docs/commands/LoopFile.htm
 
-168.  Loop (normal).ahk
+Loop (normal)
 https://www.autohotkey.com/docs/commands/Loop.htm
 
-169.  Loop (parse a string).ahk
+Loop (parse a string)
 https://www.autohotkey.com/docs/commands/LoopParse.htm
 
-170.  Loop (read file contents).ahk
+Loop (read file contents)
 https://www.autohotkey.com/docs/commands/LoopReadFile.htm
 
-171.  Loop (registry).ahk
+Loop (registry)
 https://www.autohotkey.com/docs/commands/LoopReg.htm
 
-172.  LV_Add().ahk
+LV_Add()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_Add
 
-173.  LV_Delete().ahk
+LV_Delete()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_Delete
 
-174.  LV_DeleteCol().ahk
+LV_DeleteCol()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_DeleteCol
 
-175.  LV_GetCount().ahk
+LV_GetCount()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_GetCount
 
-176.  LV_GetNext().ahk
+LV_GetNext()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_GetNext
 
-177.  LV_GetText().ahk
+LV_GetText()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_GetText
 
-178.  LV_Insert().ahk
+LV_Insert()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_Insert
 
-179.  LV_InsertCol().ahk
+LV_InsertCol()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_InsertCol
 
-180.  LV_Modify().ahk
+LV_Modify()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_Modify
 
-181.  LV_ModifyCol().ahk
+LV_ModifyCol()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_ModifyCol
 
-182.  LV_SetImageList().ahk
+LV_SetImageList()
 https://www.autohotkey.com/docs/commands/ListView.htm#LV_SetImageList
 
-183.  Max().ahk
+Max()
 https://www.autohotkey.com/docs/commands/Math.htm#Max
 
-184.  Menu.ahk
+Menu
 https://www.autohotkey.com/docs/commands/Menu.htm
 
-185.  MenuGetHandle().ahk
+MenuGetHandle()
 https://www.autohotkey.com/docs/commands/MenuGetHandle.htm
 
-186.  MenuGetName().ahk
+MenuGetName()
 https://www.autohotkey.com/docs/commands/MenuGetName.htm
 
-187.  Min().ahk
+Min()
 https://www.autohotkey.com/docs/commands/Math.htm#Min
 
-188.  Mod().ahk
+Mod()
 https://www.autohotkey.com/docs/commands/Math.htm#Mod
 
-189.  MouseClick.ahk
+MouseClick
 https://www.autohotkey.com/docs/commands/MouseClick.htm
 
-190.  MouseClickDrag.ahk
+MouseClickDrag
 https://www.autohotkey.com/docs/commands/MouseClickDrag.htm
 
-191.  MouseGetPos.ahk
+MouseGetPos
 https://www.autohotkey.com/docs/commands/MouseGetPos.htm
 
-192.  MouseMove.ahk
+MouseMove
 https://www.autohotkey.com/docs/commands/MouseMove.htm
 
-193.  MsgBox.ahk
+MsgBox
 https://www.autohotkey.com/docs/commands/MsgBox.htm
 
-194.  NumGet().ahk
+NumGet()
 https://www.autohotkey.com/docs/commands/NumGet.htm
 
-195.  NumPut().ahk
+NumPut()
 https://www.autohotkey.com/docs/commands/NumPut.htm
 
-196.  ObjAddRef() - ObjRelease().ahk
+ObjAddRef() - ObjRelease()
 https://www.autohotkey.com/docs/commands/ObjAddRef.htm
 
-197.  ObjBindMethod().ahk
+ObjBindMethod()
 https://www.autohotkey.com/docs/commands/ObjBindMethod.htm
 
-198.  ObjClone().ahk
+ObjClone()
 https://www.autohotkey.com/docs/objects/Object.htm#Clone
 
-199.  ObjCount().ahk
+ObjCount()
 https://www.autohotkey.com/docs/objects/Object.htm#Count
 
-200.  ObjDelete().ahk
+ObjDelete()
 https://www.autohotkey.com/docs/objects/Object.htm#Delete
 
-201.  ObjGetAddress().ahk
+ObjGetAddress()
 https://www.autohotkey.com/docs/objects/Object.htm#GetAddress
 
-202.  ObjGetBase().ahk
+ObjGetBase()
 https://www.autohotkey.com/docs/objects/Object.htm#GetBase
 
-203.  ObjGetCapacity().ahk
+ObjGetCapacity()
 https://www.autohotkey.com/docs/objects/Object.htm#GetCapacity
 
-204.  ObjHasKey().ahk
+ObjHasKey()
 https://www.autohotkey.com/docs/objects/Object.htm#HasKey
 
-205.  ObjInsert().ahk
+ObjInsert()
 https://www.autohotkey.com/docs/objects/Object.htm#Insert
 
-206.  ObjInsertAt().ahk
+ObjInsertAt()
 https://www.autohotkey.com/docs/objects/Object.htm#InsertAt
 
-207.  ObjLength().ahk
+ObjLength()
 https://www.autohotkey.com/docs/objects/Object.htm#Length
 
-208.  ObjMinIndex().ahk
+ObjMinIndex()
 https://www.autohotkey.com/docs/objects/Object.htm#MinMaxIndex
 
-209.  ObjNewEnum().ahk
+ObjNewEnum()
 https://www.autohotkey.com/docs/objects/Object.htm#NewEnum
 
-210.  ObjPop().ahk
+ObjPop()
 https://www.autohotkey.com/docs/objects/Object.htm#Pop
 
-211.  ObjPush().ahk
+ObjPush()
 https://www.autohotkey.com/docs/objects/Object.htm#Push
 
-212.  ObjRawGet().ahk
+ObjRawGet()
 https://www.autohotkey.com/docs/objects/Object.htm#RawGet
 
-213.  ObjRawSet().ahk
+ObjRawSet()
 https://www.autohotkey.com/docs/objects/Object.htm#RawSet
 
-214.  ObjRemove().ahk
+ObjRemove()
 https://www.autohotkey.com/docs/objects/Object.htm#Remove
 
-215.  ObjRemoveAt().ahk
+ObjRemoveAt()
 https://www.autohotkey.com/docs/objects/Object.htm#RemoveAt
 
-216.  ObjSetBase().ahk
+ObjSetBase()
 https://www.autohotkey.com/docs/objects/Object.htm#SetBase
 
-217.  ObjSetCapacity().ahk
+ObjSetCapacity()
 https://www.autohotkey.com/docs/objects/Object.htm#SetCapacity
 
-218.  OnClipboardChange().ahk
+OnClipboardChange()
 https://www.autohotkey.com/docs/commands/OnClipboardChange.htm#function
 
-219.  OnError().ahk
+OnError()
 https://www.autohotkey.com/docs/commands/OnError.htm
 
-220.  OnExit() - OnExit.ahk
+OnExit() - OnExit
 https://www.autohotkey.com/docs/commands/OnExit.htm
 
-221.  OnMessage().ahk
+OnMessage()
 https://www.autohotkey.com/docs/commands/OnMessage.htm
 
-222.  Ord().ahk
+Ord()
 https://www.autohotkey.com/docs/commands/Ord.htm
 
-223.  OutputDebug.ahk
+OutputDebug
 https://www.autohotkey.com/docs/commands/OutputDebug.htm
 
-224.  Pause.ahk
+Pause
 https://www.autohotkey.com/docs/commands/Pause.htm
 
-225.  PixelGetColor.ahk
+PixelGetColor
 https://www.autohotkey.com/docs/commands/PixelGetColor.htm
 
-226.  PixelSearch.ahk
+PixelSearch
 https://www.autohotkey.com/docs/commands/PixelSearch.htm
 
-227.  Process.ahk
+Process
 https://www.autohotkey.com/docs/commands/Process.htm
 
-228.  Random.ahk
+Random
 https://www.autohotkey.com/docs/commands/Random.htm
 
-229.  RegDelete.ahk
+RegDelete
 https://www.autohotkey.com/docs/commands/RegDelete.htm
 
-230.  RegExMatch().ahk
+RegExMatch()
 https://www.autohotkey.com/docs/commands/RegExMatch.htm
 
-231.  RegExReplace().ahk
+RegExReplace()
 https://www.autohotkey.com/docs/commands/RegExReplace.htm
 
-232.  RegisterCallback().ahk
+RegisterCallback()
 https://www.autohotkey.com/docs/commands/RegisterCallback.htm
 
-233.  RegRead.ahk
+RegRead
 https://www.autohotkey.com/docs/commands/RegRead.htm
 
-234.  RegWrite.ahk
+RegWrite
 https://www.autohotkey.com/docs/commands/RegWrite.htm
 
-235.  Reload.ahk
+Reload
 https://www.autohotkey.com/docs/commands/Reload.htm
 
-236.  Return.ahk
+Return
 https://www.autohotkey.com/docs/commands/Return.htm
 
-237.  Round().ahk
+Round()
 https://www.autohotkey.com/docs/commands/Math.htm#Round
 
-238.  RunAs.ahk
+RunAs
 https://www.autohotkey.com/docs/commands/RunAs.htm
 
-239.  RunWait.ahk
+RunWait
 https://www.autohotkey.com/docs/commands/Run.htm
 
-240.  SB_SetIcon().ahk
+SB_SetIcon()
 https://www.autohotkey.com/docs/commands/GuiControls.htm#SB_SetIcon
 
-241.  SB_SetParts().ahk
+SB_SetParts()
 https://www.autohotkey.com/docs/commands/GuiControls.htm#SB_SetParts
 
-242.  SB_SetText().ahk
+SB_SetText()
 https://www.autohotkey.com/docs/commands/GuiControls.htm#SB_SetText
 
-243.  Send.ahk
+Send
 https://www.autohotkey.com/docs/commands/Send.htm
 
-244.  SendEvent.ahk
+SendEvent
 https://www.autohotkey.com/docs/commands/Send.htm#SendEvent
 
-245.  SendInput.ahk
+SendInput
 https://www.autohotkey.com/docs/commands/Send.htm#SendInput
 
-246.  SendLevel.ahk
+SendLevel
 https://www.autohotkey.com/docs/commands/SendLevel.htm
 
-247.  SendMessage.ahk
+SendMessage
 https://www.autohotkey.com/docs/commands/PostMessage.htm
 
-248.  SendMode.ahk
+SendMode
 https://www.autohotkey.com/docs/commands/SendMode.htm
 
-249.  SendRaw.ahk
+SendRaw
 https://www.autohotkey.com/docs/commands/Send.htm#SendRaw
 
-250.  SetBatchLines.ahk
+SetBatchLines
 https://www.autohotkey.com/docs/commands/SetBatchLines.htm
 
-251.  SetControlDelay.ahk
+SetControlDelay
 https://www.autohotkey.com/docs/commands/SetControlDelay.htm
 
-252.  SetDefaultMouseSpeed.ahk
+SetDefaultMouseSpeed
 https://www.autohotkey.com/docs/commands/SetDefaultMouseSpeed.htm
 
-253.  SetFormat.ahk
+SetFormat
 https://www.autohotkey.com/docs/commands/SetFormat.htm
 
-254.  SetKeyDelay.ahk
+SetKeyDelay
 https://www.autohotkey.com/docs/commands/SetKeyDelay.htm
 
-255.  SetMouseDelay.ahk
+SetMouseDelay
 https://www.autohotkey.com/docs/commands/SetMouseDelay.htm
 
-256.  SetRegView.ahk
+SetRegView
 https://www.autohotkey.com/docs/commands/SetRegView.htm
 
-257.  SetScrollLockState.ahk
+SetScrollLockState
 https://www.autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm
 
-258.  SetStoreCapsLockMode.ahk
+SetStoreCapsLockMode
 https://www.autohotkey.com/docs/commands/SetStoreCapslockMode.htm
 
-259.  SetTimer.ahk
+SetTimer
 https://www.autohotkey.com/docs/commands/SetTimer.htm
 
-260.  SetTitleMatchMode.ahk
+SetTitleMatchMode
 https://www.autohotkey.com/docs/commands/SetTitleMatchMode.htm
 
-261.  SetWinDelay.ahk
+SetWinDelay
 https://www.autohotkey.com/docs/commands/SetWinDelay.htm
 
-262.  SetWorkingDir.ahk
+SetWorkingDir
 https://www.autohotkey.com/docs/commands/SetWorkingDir.htm
 
-263.  Shutdown.ahk
+Shutdown
 https://www.autohotkey.com/docs/commands/Shutdown.htm
 
-264.  Sin().ahk
+Sin()
 https://www.autohotkey.com/docs/commands/Math.htm#Sin
 
-265.  Sleep.ahk
+Sleep
 https://www.autohotkey.com/docs/commands/Sleep.htm
 
-266.  Sort.ahk
+Sort
 https://www.autohotkey.com/docs/commands/Sort.htm
 
-267.  SoundBeep.ahk
+SoundBeep
 https://www.autohotkey.com/docs/commands/SoundBeep.htm
 
-268.  SoundGet.ahk
+SoundGet
 https://www.autohotkey.com/docs/commands/SoundGet.htm
 
-269.  SoundGetWaveVolume.ahk
+SoundGetWaveVolume
 https://www.autohotkey.com/docs/commands/SoundGetWaveVolume.htm
 
-270.  SoundPlay.ahk
+SoundPlay
 https://www.autohotkey.com/docs/commands/SoundPlay.htm
 
-271.  SoundSet.ahk
+SoundSet
 https://www.autohotkey.com/docs/commands/SoundSet.htm
 
-272.  SoundSetWaveVolume.ahk
+SoundSetWaveVolume
 https://www.autohotkey.com/docs/commands/SoundSetWaveVolume.htm
 
-273.  SplashImage.ahk
+SplashImage
 https://www.autohotkey.com/docs/commands/Progress.htm
 
-274.  SplashTextOn - SplashTextOff.ahk
+SplashTextOn - SplashTextOff
 https://www.autohotkey.com/docs/commands/SplashTextOn.htm
 
-275.  SplitPath.ahk
+SplitPath
 https://www.autohotkey.com/docs/commands/SplitPath.htm
 
-276.  Sqrt().ahk
+Sqrt()
 https://www.autohotkey.com/docs/commands/Math.htm#Sqrt
 
-277.  StatusBarGetText.ahk
+StatusBarGetText
 https://www.autohotkey.com/docs/commands/StatusBarGetText.htm
 
-278.  StatusBarWait.ahk
+StatusBarWait
 https://www.autohotkey.com/docs/commands/StatusBarWait.htm
 
-279.  StrGet().ahk
+StrGet()
 https://www.autohotkey.com/docs/commands/StrGet.htm
 
-280.  StringCaseSense.ahk
+StringCaseSense
 https://www.autohotkey.com/docs/commands/StringCaseSense.htm
 
-281.  StringGetPos.ahk
+StringGetPos
 https://www.autohotkey.com/docs/commands/StringGetPos.htm
 
-282.  StringLen - StrLen().ahk
+StringLen - StrLen()
 https://www.autohotkey.com/docs/commands/StringLen.htm
 
-283.  StringMid.ahk
+StringMid
 https://www.autohotkey.com/docs/commands/StringMid.htm
 
-284.  StringReplace - StrReplace().ahk
+StringReplace - StrReplace()
 https://www.autohotkey.com/docs/commands/StringReplace.htm
 
-285.  StringRight.ahk
+StringRight
 https://www.autohotkey.com/docs/commands/StringLeft.htm
 
-286.  StringSplit - StrSplit().ahk
+StringSplit - StrSplit()
 https://www.autohotkey.com/docs/commands/StringSplit.htm
 
-287.  StringTrimRight.ahk
+StringTrimRight
 https://www.autohotkey.com/docs/commands/StringTrimLeft.htm
 
-288.  StringUpper.ahk
+StringUpper
 https://www.autohotkey.com/docs/commands/StringLower.htm
 
-289.  StrPut().ahk
+StrPut()
 https://www.autohotkey.com/docs/commands/StrPut.htm
 
-290.  Suspend.ahk
+Suspend
 https://www.autohotkey.com/docs/commands/Suspend.htm
 
-291.  Switch.ahk
+Switch
 https://www.autohotkey.com/docs/commands/Switch.htm
 
-292.  SysGet.ahk
+SysGet
 https://www.autohotkey.com/docs/commands/SysGet.htm
 
-293.  Tan().ahk
+Tan()
 https://www.autohotkey.com/docs/commands/Math.htm#Tan
 
-294.  Thread.ahk
+Thread
 https://www.autohotkey.com/docs/commands/Thread.htm
 
-295.  Throw.ahk
+Throw
 https://www.autohotkey.com/docs/commands/Throw.htm
 
-296.  ToolTip.ahk
+ToolTip
 https://www.autohotkey.com/docs/commands/ToolTip.htm
 
-297.  Transform.ahk
+Transform
 https://www.autohotkey.com/docs/commands/Transform.htm
 
-298.  TrayTip.ahk
+TrayTip
 https://www.autohotkey.com/docs/commands/TrayTip.htm
 
-299.  Trim() - LTrim() - RTrim().ahk
+Trim() - LTrim() - RTrim()
 https://www.autohotkey.com/docs/commands/Trim.htm
 
-300.  Try.ahk
+Try
 https://www.autohotkey.com/docs/commands/Try.htm
 
-301.  TV_Add().ahk
+TV_Add()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_Add
 
-302.  TV_Delete().ahk
+TV_Delete()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_Delete
 
-303.  TV_Get().ahk
+TV_Get()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_Get
 
-304.  TV_GetChild().ahk
+TV_GetChild()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetChild
 
-305.  TV_GetCount().ahk
+TV_GetCount()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetCount
 
-306.  TV_GetNext().ahk
+TV_GetNext()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetNext
 
-307.  TV_GetParent().ahk
+TV_GetParent()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetParent
 
-308.  TV_GetPrev().ahk
+TV_GetPrev()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetPrev
 
-309.  TV_GetSelection().ahk
+TV_GetSelection()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetSelection
 
-310.  TV_GetText().ahk
+TV_GetText()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_GetText
 
-311.  TV_Modify().ahk
+TV_Modify()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_Modify
 
-312.  TV_SetImageList().ahk
+TV_SetImageList()
 https://www.autohotkey.com/docs/commands/TreeView.htm#TV_SetImageList
 
-313.  Until.ahk
+Until
 https://www.autohotkey.com/docs/commands/Until.htm
 
-314.  UrlDownloadToFile.ahk
+UrlDownloadToFile
 https://www.autohotkey.com/docs/commands/URLDownloadToFile.htm
 
-315.  Var -= expression.ahk
+Var -= expression
 https://www.autohotkey.com/docs/commands/SetExpression.htm
 
-316.  Var = value.ahk
+Var = value
 https://www.autohotkey.com/docs/commands/SetEnv.htm
 
-317.  VarSetCapacity().ahk
+VarSetCapacity()
 https://www.autohotkey.com/docs/commands/VarSetCapacity.htm
 
-318.  While-loop.ahk
+While-loop
 https://www.autohotkey.com/docs/commands/While.htm
 
-319.  WinActivate.ahk
+WinActivate
 https://www.autohotkey.com/docs/commands/WinActivate.htm
 
-320.  WinActivateBottom.ahk
+WinActivateBottom
 https://www.autohotkey.com/docs/commands/WinActivateBottom.htm
 
-321.  WinActive().ahk
+WinActive()
 https://www.autohotkey.com/docs/commands/WinActive.htm
 
-322.  WinClose.ahk
+WinClose
 https://www.autohotkey.com/docs/commands/WinClose.htm
 
-323.  WinExist().ahk
+WinExist()
 https://www.autohotkey.com/docs/commands/WinExist.htm
 
-324.  WinGet.ahk
+WinGet
 https://www.autohotkey.com/docs/commands/WinGet.htm
 
-325.  WinGetActiveStats.ahk
+WinGetActiveStats
 https://www.autohotkey.com/docs/commands/WinGetActiveStats.htm
 
-326.  WinGetActiveTitle.ahk
+WinGetActiveTitle
 https://www.autohotkey.com/docs/commands/WinGetActiveTitle.htm
 
-327.  WinGetClass.ahk
+WinGetClass
 https://www.autohotkey.com/docs/commands/WinGetClass.htm
 
-328.  WinGetPos.ahk
+WinGetPos
 https://www.autohotkey.com/docs/commands/WinGetPos.htm
 
-329.  WinGetText.ahk
+WinGetText
 https://www.autohotkey.com/docs/commands/WinGetText.htm
 
-330.  WinGetTitle.ahk
+WinGetTitle
 https://www.autohotkey.com/docs/commands/WinGetTitle.htm
 
-331.  WinHide.ahk
+WinHide
 https://www.autohotkey.com/docs/commands/WinHide.htm
 
-332.  WinKill.ahk
+WinKill
 https://www.autohotkey.com/docs/commands/WinKill.htm
 
-333.  WinMaximize.ahk
+WinMaximize
 https://www.autohotkey.com/docs/commands/WinMaximize.htm
 
-334.  WinMenuSelectItem.ahk
+WinMenuSelectItem
 https://www.autohotkey.com/docs/commands/WinMenuSelectItem.htm
 
-335.  WinMinimize.ahk
+WinMinimize
 https://www.autohotkey.com/docs/commands/WinMinimize.htm
 
-336.  WinMinimizeAll - WinMinimizeAllUndo.ahk
+WinMinimizeAll - WinMinimizeAllUndo
 https://www.autohotkey.com/docs/commands/WinMinimizeAll.htm
 
-337.  WinMove.ahk
+WinMove
 https://www.autohotkey.com/docs/commands/WinMove.htm
 
-338.  WinRestore.ahk
+WinRestore
 https://www.autohotkey.com/docs/commands/WinRestore.htm
 
-339.  WinSet.ahk
+WinSet
 https://www.autohotkey.com/docs/commands/WinSet.htm
 
-340.  WinSetTitle.ahk
+WinSetTitle
 https://www.autohotkey.com/docs/commands/WinSetTitle.htm
 
-341.  WinShow.ahk
+WinShow
 https://www.autohotkey.com/docs/commands/WinShow.htm
 
-342.  WinWait.ahk
+WinWait
 https://www.autohotkey.com/docs/commands/WinWait.htm
 
-343.  WinWaitActive - WinWaitNotActive.ahk
+WinWaitActive - WinWaitNotActive
 https://www.autohotkey.com/docs/commands/WinWaitActive.htm
 
-344.  WinWaitClose.ahk
+WinWaitClose
 https://www.autohotkey.com/docs/commands/WinWaitClose.htm
 
-345.  [ ... ] - Array().ahk
+[ ... ] - Array()
 https://www.autohotkey.com/docs/Objects.htm#Usage_Simple_Arrays
 
-346.  { ... } (Block).ahk
+{ ... } (Block)
 https://www.autohotkey.com/docs/commands/Block.htm
 
-347.  { ... } - Object().ahk
+{ ... } - Object()
 https://www.autohotkey.com/docs/Objects.htm#Usage_Associative_Arrays
 List of Commands

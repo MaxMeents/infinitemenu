@@ -1,31 +1,31 @@
 
-1.  Adverse Effects Search on Dialog (for Medical Literature Monitoring and Pharmacovigilance).ahk
+Adverse Effects Search on Dialog (for Medical Literature Monitoring and Pharmacovigilance)
 https://www.youtube.com/watch?v=9L2Mt6MaqZM
 
-2.  Creating Alerts on Dialog (with example for Medical Literature Monitoring).ahk
+Creating Alerts on Dialog (with example for Medical Literature Monitoring)
 https://www.youtube.com/watch?v=00U6I4QZvVY
 
-3.  How to Improve Drug Safety Literature Screening Compliance.ahk
+How to Improve Drug Safety Literature Screening Compliance
 https://www.youtube.com/watch?v=YERbOAvxXMI
 
-4.  Intro to the Drug Safety Triager (DST).ahk
+Intro to the Drug Safety Triager (DST)
 https://www.youtube.com/watch?v=FLVS3WbqU3E
 
-5.  Making Your Drug Safety Literature Screening Processes More Effective.ahk
+Making Your Drug Safety Literature Screening Processes More Effective
 https://www.youtube.com/watch?v=lHhUbi9vWlU
 
-6.  Medical Device Searching, Part 1 New EU Regulations and the Role of Literature.ahk
+Medical Device Searching, Part 1 New EU Regulations and the Role of Literature
 https://www.youtube.com/watch?v=UcU3gflTYcM
 
-7.  Medical Device Searching, Part 2  Database Considerations.ahk
+Medical Device Searching, Part 2  Database Considerations
 https://www.youtube.com/watch?v=z0318Lu-PmI
 
-8.  Medical Device Searching, Part 3  Search Tools, Synonyms and Thesauri.ahk
+Medical Device Searching, Part 3  Search Tools, Synonyms and Thesauri
 https://www.youtube.com/watch?v=jntR-mH_iyk
 
-9.  Medical Device Searching, Part 4  Sample Search.ahk
+Medical Device Searching, Part 4  Sample Search
 https://www.youtube.com/watch?v=YpIG8o8WJTQ
 
-10.  Medical Device Searching, Part 5  Continuous Updates (Saved Searches and Alerts).ahk
+Medical Device Searching, Part 5  Continuous Updates (Saved Searches and Alerts)
 https://www.youtube.com/watch?v=8zBWhWo3JCw
 Medical Literature Monitoring

@@ -1,37 +1,37 @@
 
-1.  Generating Fake YouTube Comments with GPT-2.ahk
+Generating Fake YouTube Comments with GPT-2
 https://www.youtube.com/watch?v=M6EXmoP5jX8
 
-2.  GPT-2 Why Didn't They Release It - Computerphile.ahk
+GPT-2 Why Didn't They Release It - Computerphile
 https://www.youtube.com/watch?v=AJxLtdur5fc
 
-3.  More GPT-2, the 'writer' of Unicorn AI - Computerphile.ahk
+More GPT-2, the 'writer' of Unicorn AI - Computerphile
 https://www.youtube.com/watch?v=p-6F4rhRYLQ
 
-4.  OpenAI GPT-2 An Almost Too Good Text Generator.ahk
+OpenAI GPT-2 An Almost Too Good Text Generator
 https://www.youtube.com/watch?v=8ypnLjwpzK8
 
-5.  OpenAI GPT-3 - Good At Almost Everything! ??.ahk
+OpenAI GPT-3 - Good At Almost Everything! ??
 https://www.youtube.com/watch?v=_x9AwxfjxvE
 
-6.  OpenAI Text Generator.ahk
+OpenAI Text Generator
 https://www.youtube.com/watch?v=0n95f-eqZdw
 
-7.  OpenAI’s GPT-2 Is Now Available - It Is Wise as a Scholar! ??.ahk
+OpenAI’s GPT-2 Is Now Available - It Is Wise as a Scholar! ??
 https://www.youtube.com/watch?v=0OtZ8dUFxXA
 
-8.  OpenAI’s Image GPT Completes Your Images With Style!.ahk
+OpenAI’s Image GPT Completes Your Images With Style!
 https://www.youtube.com/watch?v=-6Xn4nKm-Qw
 
-9.  These Neural Networks Have Superpowers! ??.ahk
+These Neural Networks Have Superpowers! ??
 https://www.youtube.com/watch?v=o7dqGcLDf0A
 
-10.  Unicorn AI - Computerphile.ahk
+Unicorn AI - Computerphile
 https://www.youtube.com/watch?v=89A4jGvaaKk
 
-11.  We made a bot write Sonic FANFICTION.ahk
+We made a bot write Sonic FANFICTION
 https://www.youtube.com/watch?v=ysPtndevdw0
 
-12.  [OpenAI GPT2] Language Models are Unsupervised Multitask Learners  TDLS Trending Paper.ahk
+[OpenAI GPT2] Language Models are Unsupervised Multitask Learners  TDLS Trending Paper
 https://www.youtube.com/watch?v=n_UlVuFAzbU
 GPT-2 and GPT-3 findings

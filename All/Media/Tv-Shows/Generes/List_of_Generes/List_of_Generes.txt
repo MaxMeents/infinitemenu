@@ -1,76 +1,76 @@
 
-1.  Action.ahk
+Action
 https://www.netflix.com/browse/genre/10673?bc=83
 
-2.  Anime.ahk
+Anime
 https://www.netflix.com/browse/genre/6721?bc=83
 
-3.  Black Stories.ahk
+Black Stories
 https://www.netflix.com/browse/genre/81243939?bc=83
 
-4.  British.ahk
+British
 https://www.netflix.com/browse/genre/52117?bc=83
 
-5.  Classic & Cult.ahk
+Classic & Cult
 https://www.netflix.com/browse/genre/2244733?bc=83
 
-6.  Comedies.ahk
+Comedies
 https://www.netflix.com/browse/genre/10375?bc=83
 
-7.  Crime.ahk
+Crime
 https://www.netflix.com/browse/genre/26146?bc=83
 
-8.  Docuseries.ahk
+Docuseries
 https://www.netflix.com/browse/genre/10105?bc=83
 
-9.  Dramas.ahk
+Dramas
 https://www.netflix.com/browse/genre/11714?bc=83
 
-10.  History.ahk
+History
 https://www.netflix.com/browse/genre/81268388?bc=83
 
-11.  Horror.ahk
+Horror
 https://www.netflix.com/browse/genre/83059?bc=83
 
-12.  International.ahk
+International
 https://www.netflix.com/browse/genre/1195213?bc=83
 
-13.  K-dramas.ahk
+K-dramas
 https://www.netflix.com/browse/genre/2638104?bc=83
 
-14.  Kids.ahk
+Kids
 https://www.netflix.com/browse/genre/27346?bc=83
 
-15.  l.ahk
+l
 lll
 
-16.  LGBTQ.ahk
+LGBTQ
 https://www.netflix.com/browse/genre/65263?bc=83
 
-17.  Mysteries.ahk
+Mysteries
 https://www.netflix.com/browse/genre/4366?bc=83
 
-18.  Reality.ahk
+Reality
 https://www.netflix.com/browse/genre/9833?bc=83
 
-19.  Romance.ahk
+Romance
 https://www.netflix.com/browse/genre/26156?bc=83
 
-20.  Sci-Fi & Fantasy.ahk
+Sci-Fi & Fantasy
 https://www.netflix.com/browse/genre/1372?bc=83
 
-21.  Science & Nature.ahk
+Science & Nature
 https://www.netflix.com/browse/genre/52780?bc=83
 
-22.  Spanish-Language.ahk
+Spanish-Language
 https://www.netflix.com/browse/genre/67675?bc=83
 
-23.  Stand-Up & Talk Shows.ahk
+Stand-Up & Talk Shows
 https://www.netflix.com/browse/genre/1516534?bc=83
 
-24.  Teen.ahk
+Teen
 https://www.netflix.com/browse/genre/60951?bc=83
 
-25.  Thriller.ahk
+Thriller
 https://www.netflix.com/browse/genre/89811?bc=83
 List of Generes

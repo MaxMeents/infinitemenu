@@ -1,7 +1,0 @@
-
-1.  Audiobooks
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/robert_kiyosaki/Audiobooks/Audiobooks.txt
-
-2.  Videos on Youtube
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Money_Management/robert_kiyosaki/Videos_on_Youtube/Videos_on_Youtube.txt
-robert kiyosaki

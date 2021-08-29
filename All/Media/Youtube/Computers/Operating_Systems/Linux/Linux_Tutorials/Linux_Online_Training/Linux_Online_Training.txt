@@ -1,184 +1,184 @@
 
-1.  Linux   Copy,Move & Rename Files.ahk
+Linux   Copy,Move & Rename Files
 https://www.youtube.com/watch?v=MOJWE_57nH0
 
-2.  Linux   Creating Files.ahk
+Linux   Creating Files
 https://www.youtube.com/watch?v=ODYVXpUlzyY
 
-3.  Linux   Delete Files.ahk
+Linux   Delete Files
 https://www.youtube.com/watch?v=IAR0v-nAyV0
 
-4.  Linux   Directory Management.ahk
+Linux   Directory Management
 https://www.youtube.com/watch?v=6efqfFSl9Gs
 
-5.  Linux   Directory Structure.ahk
+Linux   Directory Structure
 https://www.youtube.com/watch?v=W9bC-v3DHHE
 
-6.  Linux   Display File Content.ahk
+Linux   Display File Content
 https://www.youtube.com/watch?v=95p2bC7FcSU
 
-7.  Linux   Distributions.ahk
+Linux   Distributions
 https://www.youtube.com/watch?v=D2nTVOOxkqE
 
-8.  Linux   Introduction.ahk
+Linux   Introduction
 https://www.youtube.com/watch?v=xzEd3yojcHo
 
-9.  Linux   Standard Linux Streams.ahk
+Linux   Standard Linux Streams
 https://www.youtube.com/watch?v=3hT0enlwW5Y
 
-10.  Linux  - Shell function.ahk
+Linux  - Shell function
 https://www.youtube.com/watch?v=91J4TFBtwk8
 
-11.  Linux  - System logging.ahk
+Linux  - System logging
 https://www.youtube.com/watch?v=Sr4WdcWtXUE
 
-12.  Linux  File Management.ahk
+Linux  File Management
 https://www.youtube.com/watch?v=ZALT79IWtvU
 
-13.  Linux -  GREP.ahk
+Linux -  GREP
 https://www.youtube.com/watch?v=tBRrIXhGYz0
 
-14.  Linux -  Shell.ahk
+Linux -  Shell
 https://www.youtube.com/watch?v=1SyccjXuuaM
 
-15.  Linux - Adding users to group.ahk
+Linux - Adding users to group
 https://www.youtube.com/watch?v=oPr5HKuQPgA
 
-16.  Linux - Advanced user and group management.ahk
+Linux - Advanced user and group management
 https://www.youtube.com/watch?v=C4abbp7sY0A
 
-17.  Linux - Arithmetic operators.ahk
+Linux - Arithmetic operators
 https://www.youtube.com/watch?v=Jw2pgAZPSbo
 
-18.  Linux - Basic shell scripting.ahk
+Linux - Basic shell scripting
 https://www.youtube.com/watch?v=7usZ9PI4dbw
 
-19.  Linux - Basic utilities.ahk
+Linux - Basic utilities
 https://www.youtube.com/watch?v=GoEYu8lYXh0
 
-20.  Linux - Boolean operators.ahk
+Linux - Boolean operators
 https://www.youtube.com/watch?v=WzEiQRlFcQ4
 
-21.  Linux - Break statement.ahk
+Linux - Break statement
 https://www.youtube.com/watch?v=KoLXSRx_zUw
 
-22.  Linux - Case esac statement.ahk
+Linux - Case esac statement
 https://www.youtube.com/watch?v=9UI1vlgNRcQ
 
-23.  Linux - Change owner or group of file.ahk
+Linux - Change owner or group of file
 https://www.youtube.com/watch?v=L1yquC55Y-A
 
-24.  Linux - Continuous statement.ahk
+Linux - Continuous statement
 https://www.youtube.com/watch?v=ZkHe6VshHzM
 
-25.  Linux - Control shell loop.ahk
+Linux - Control shell loop
 https://www.youtube.com/watch?v=3u3vtw-u_Pw
 
-26.  Linux - File editors.ahk
+Linux - File editors
 https://www.youtube.com/watch?v=v2yeTZ4bsYE
 
-27.  Linux - File level access control lists.ahk
+Linux - File level access control lists
 https://www.youtube.com/watch?v=eZ2xEzv3BIE
 
-28.  Linux - File Permissions.ahk
+Linux - File Permissions
 https://www.youtube.com/watch?v=c-uA9RnK4UY
 
-29.  Linux - File system.ahk
+Linux - File system
 https://www.youtube.com/watch?v=Vv054ScwCv4
 
-30.  Linux - File systems.ahk
+Linux - File systems
 https://www.youtube.com/watch?v=Fc01xb9iTAk
 
-31.  Linux - File test operator.ahk
+Linux - File test operator
 https://www.youtube.com/watch?v=_2d2o54qwns
 
-32.  Linux - Finding files in linux.ahk
+Linux - Finding files in linux
 https://www.youtube.com/watch?v=gtx6OS0JA54
 
-33.  Linux - I O Redirection.ahk
+Linux - I O Redirection
 https://www.youtube.com/watch?v=peNvyHQKAQw
 
-34.  Linux - If else statement.ahk
+Linux - If else statement
 https://www.youtube.com/watch?v=XqMZ8GC9I8A
 
-35.  Linux - Introduction Shell Substitution.ahk
+Linux - Introduction Shell Substitution
 https://www.youtube.com/watch?v=61BXVkcq1hc
 
-36.  Linux - Managing users password.ahk
+Linux - Managing users password
 https://www.youtube.com/watch?v=knc62IZjrmU
 
-37.  Linux - Manual pages.ahk
+Linux - Manual pages
 https://www.youtube.com/watch?v=WfomltsNKwE
 
-38.  Linux - Nano editors.ahk
+Linux - Nano editors
 https://www.youtube.com/watch?v=zm_U8h4Ry24
 
-39.  Linux - Pipes and filters.ahk
+Linux - Pipes and filters
 https://www.youtube.com/watch?v=vPYsoiT99Xk
 
-40.  Linux - Regular expressions.ahk
+Linux - Regular expressions
 https://www.youtube.com/watch?v=9BIq4ncw_pc
 
-41.  Linux - Relational operators.ahk
+Linux - Relational operators
 https://www.youtube.com/watch?v=XAzQVTQPPFo
 
-42.  Linux - Set file permission using octal.ahk
+Linux - Set file permission using octal
 https://www.youtube.com/watch?v=2-9o4cnnBJw
 
-43.  Linux - Set file permissions using symbolic.ahk
+Linux - Set file permissions using symbolic
 https://www.youtube.com/watch?v=-8ZVFAl-zYg
 
-44.  Linux - Set variables.ahk
+Linux - Set variables
 https://www.youtube.com/watch?v=vLWbOzpvkog
 
-45.  Linux - Shell arrays.ahk
+Linux - Shell arrays
 https://www.youtube.com/watch?v=KMmeDzbbcn0
 
-46.  Linux - Shell decision making.ahk
+Linux - Shell decision making
 https://www.youtube.com/watch?v=matK8nXXpG4
 
-47.  Linux - Shell operators.ahk
+Linux - Shell operators
 https://www.youtube.com/watch?v=ztclukfj3-I
 
-48.  Linux - Shell quoting mechanism.ahk
+Linux - Shell quoting mechanism
 https://www.youtube.com/watch?v=MqdOrKqSx-o
 
-49.  Linux - Special variables.ahk
+Linux - Special variables
 https://www.youtube.com/watch?v=EJF_nFPdYp8
 
-50.  Linux - String operators.ahk
+Linux - String operators
 https://www.youtube.com/watch?v=6s3sKkLtKNk
 
-51.  Linux - Suid and guid permission.ahk
+Linux - Suid and guid permission
 https://www.youtube.com/watch?v=FqVTZRyBwts
 
-52.  Linux - System performance (1400910).ahk
+Linux - System performance (1400910)
 https://www.youtube.com/watch?v=RTUC29GIu9o
 
-53.  Linux - System performance.ahk
+Linux - System performance
 https://www.youtube.com/watch?v=uw8rm7sKbuU
 
-54.  Linux - Traps and signals.ahk
+Linux - Traps and signals
 https://www.youtube.com/watch?v=h0XanAWDJ3Q
 
-55.  Linux - Types of linux shells.ahk
+Linux - Types of linux shells
 https://www.youtube.com/watch?v=QgCA2u_QJcc
 
-56.  Linux - Variables.ahk
+Linux - Variables
 https://www.youtube.com/watch?v=pJA0pGFmyDg
 
-57.  Linux - Vim editors.ahk
+Linux - Vim editors
 https://www.youtube.com/watch?v=gqqdIUJgawc
 
-58.  Tutorix Brings Simply Easy Learning (1197246).ahk
+Tutorix Brings Simply Easy Learning (1197246)
 https://www.youtube.com/watch?v=lezQQ0d1pxc
 
-59.  Tutorix Brings Simply Easy Learning (1981670).ahk
+Tutorix Brings Simply Easy Learning (1981670)
 https://www.youtube.com/watch?v=lezQQ0d1pxc
 
-60.  Tutorix Brings Simply Easy Learning.ahk
+Tutorix Brings Simply Easy Learning
 https://www.youtube.com/watch?v=lezQQ0d1pxc
 
-61.  Tutorix Simply Easy Learning Steps.ahk
+Tutorix Simply Easy Learning Steps
 https://www.youtube.com/watch?v=1iJn6quPp50
 Linux Online Training

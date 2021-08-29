@@ -1,7 +1,7 @@
 
-1.  Best Inspirational Speeches
+Best Inspirational Speeches
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Talks/Best_Inspirational_Speeches/Best_Inspirational_Speeches.txt
 
-2.  Ted Talks
+Ted Talks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Talks/Ted_Talks/Ted_Talks.txt
 Talks

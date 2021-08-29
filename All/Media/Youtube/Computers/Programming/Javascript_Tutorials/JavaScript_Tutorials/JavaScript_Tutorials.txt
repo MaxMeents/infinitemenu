@@ -1,1201 +1,1201 @@
 
-1.  'transitionend' event in JavaScript - React to CSS transitions!.ahk
+'transitionend' event in JavaScript - React to CSS transitions!
 https://www.youtube.com/watch?v=KbaEQqHo-qY
 
-2.  1 How to Get Started With JavaScript  JavaScript Tutorial Beginners  Learn JavaScript Programming.ahk
+1 How to Get Started With JavaScript  JavaScript Tutorial Beginners  Learn JavaScript Programming
 https://www.youtube.com/watch?v=ItYye9h_RXg
 
-3.  10 String Operator in JavaScript Explained  JavaScript Tutorial  Learn JavaScript  mmtuts.ahk
+10 String Operator in JavaScript Explained  JavaScript Tutorial  Learn JavaScript  mmtuts
 https://www.youtube.com/watch?v=uli67N4Z03Y
 
-4.  11 How to Create Conditions in JavaScript  Conditional Statements  JavaScript Tutorial.ahk
+11 How to Create Conditions in JavaScript  Conditional Statements  JavaScript Tutorial
 https://www.youtube.com/watch?v=N4V0FZASK60
 
-5.  12 How to Create Arrays in JavaScript  Store Multiple Data in an Array  JavaScript Tutorial.ahk
+12 How to Create Arrays in JavaScript  Store Multiple Data in an Array  JavaScript Tutorial
 https://www.youtube.com/watch?v=r4vyq8vvVY0
 
-6.  13 What are JavaScript Properties and Methods  Properties and Methods  JavaScript Tutorial.ahk
+13 What are JavaScript Properties and Methods  Properties and Methods  JavaScript Tutorial
 https://www.youtube.com/watch?v=aM_8WRaBljU
 
-7.  14 How to Create JavaScript Functions  JavaScript User Defined Functions  JavaScript Tutorial.ahk
+14 How to Create JavaScript Functions  JavaScript User Defined Functions  JavaScript Tutorial
 https://www.youtube.com/watch?v=Tvu1FqhOUrQ
 
-8.  15 Exercises in JavaScript  Create a Calculator Using JavaScript  JavaScript Tutorial  mmtuts.ahk
+15 Exercises in JavaScript  Create a Calculator Using JavaScript  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=qQEYAOPWDzk
 
-9.  16 JavaScript Scopes  Local Scope and Global Scope in JavaScript  JavaScript Tutorial  mmtuts.ahk
+16 JavaScript Scopes  Local Scope and Global Scope in JavaScript  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=hTU1OSbnov8
 
-10.  17 Let and Const Variables  JavaScript Block Scope and Function Scope  JavaScript Tutorial.ahk
+17 Let and Const Variables  JavaScript Block Scope and Function Scope  JavaScript Tutorial
 https://www.youtube.com/watch?v=aK_nuUAdr8E
 
-11.  18 Hoisting in JavaScript Explained  What is Hoisting in JavaScript  JavaScript Tutorial.ahk
+18 Hoisting in JavaScript Explained  What is Hoisting in JavaScript  JavaScript Tutorial
 https://www.youtube.com/watch?v=ppMlvGMT2qE
 
-12.  19 How to Create a Toggle Menu  Part 1  HTML & CSS Setup  JavaScript Menu  JavaScript Tutorial.ahk
+19 How to Create a Toggle Menu  Part 1  HTML & CSS Setup  JavaScript Menu  JavaScript Tutorial
 https://www.youtube.com/watch?v=yytscwxx1pk
 
-13.  2 Which Tools to Use When Developing JavaScript  JavaScript Tutorial  JavaScript Programming.ahk
+2 Which Tools to Use When Developing JavaScript  JavaScript Tutorial  JavaScript Programming
 https://www.youtube.com/watch?v=ns_L4kpxY8c
 
-14.  20 How to Create a Toggle Menu  Part 2  Create JavaScript  JavaScript Menu  JavaScript Tutorial.ahk
+20 How to Create a Toggle Menu  Part 2  Create JavaScript  JavaScript Menu  JavaScript Tutorial
 https://www.youtube.com/watch?v=urol_SD1wz4
 
-15.  21 What Are Objects in JavaScript  How to Create an Object in JavaScript  JavaScript Tutorial.ahk
+21 What Are Objects in JavaScript  How to Create an Object in JavaScript  JavaScript Tutorial
 https://www.youtube.com/watch?v=4uVwGw317QM
 
-16.  22 How to Create Object Constructors  Object Constructors in JavaScript  JavaScript Tutorial.ahk
+22 How to Create Object Constructors  Object Constructors in JavaScript  JavaScript Tutorial
 https://www.youtube.com/watch?v=e1yBONtbTuA
 
-17.  23 How To Create A Game Using JavaScript  Part 1  Setup, HTML & JavaScript  JavaScript Tutorial.ahk
+23 How To Create A Game Using JavaScript  Part 1  Setup, HTML & JavaScript  JavaScript Tutorial
 https://www.youtube.com/watch?v=M6sA8fvMCuA
 
-18.  24 How To Create A Game Using JavaScript  Part 2  Making The User Interact  JavaScript Tutorial.ahk
+24 How To Create A Game Using JavaScript  Part 2  Making The User Interact  JavaScript Tutorial
 https://www.youtube.com/watch?v=eYYYxrDkZbQ
 
-19.  25 How To Create A Game Using JavaScript  Part 3  Finishing The Game  JavaScript Tutorial.ahk
+25 How To Create A Game Using JavaScript  Part 3  Finishing The Game  JavaScript Tutorial
 https://www.youtube.com/watch?v=o9RozigP19c
 
-20.  26 How To Create A Random Number Using JavaScript  Create A Random Number  JavaScript Tutorial.ahk
+26 How To Create A Random Number Using JavaScript  Create A Random Number  JavaScript Tutorial
 https://www.youtube.com/watch?v=gTfjA95ONSQ
 
-21.  27 What Is The Website DOM In JavaScript  Document Object Model Tutorial  JavaScript Tutorial.ahk
+27 What Is The Website DOM In JavaScript  Document Object Model Tutorial  JavaScript Tutorial
 https://www.youtube.com/watch?v=t3CWlfZUvL8
 
-22.  28 Select HTML Elements Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial.ahk
+28 Select HTML Elements Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial
 https://www.youtube.com/watch?v=Qdj3AVBm6Ug
 
-23.  29 How To Change Elements Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial.ahk
+29 How To Change Elements Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial
 https://www.youtube.com/watch?v=tn96BAO25B0
 
-24.  3 How to Install Extensions For JavaScript Development  JavaScript Tutorial  Learn JavaScript.ahk
+3 How to Install Extensions For JavaScript Development  JavaScript Tutorial  Learn JavaScript
 https://www.youtube.com/watch?v=ZouJQRxgem0
 
-25.  30 Create New Content Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial.ahk
+30 Create New Content Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial
 https://www.youtube.com/watch?v=fhtJ5dimNQ4
 
-26.  31 How To Change CSS Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial.ahk
+31 How To Change CSS Using JavaScript  Document Object Model Tutorial  JavaScript Tutorial
 https://www.youtube.com/watch?v=2vc9AK-zgXM
 
-27.  32 JavaScript Exercise For Beginners  Dynamic Welcoming Message  JavaScript Tutorial  mmtuts.ahk
+32 JavaScript Exercise For Beginners  Dynamic Welcoming Message  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=_2FNww3OwTE
 
-28.  33 What Are JavaScript Events  JavaScript Events  JavaScript Tutorial  mmtuts.ahk
+33 What Are JavaScript Events  JavaScript Events  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=mlxi1WUSO_8
 
-29.  34 How To Prevent Default Events In JavaScript  JavaScript Events  JavaScript Tutorial  mmtuts.ahk
+34 How To Prevent Default Events In JavaScript  JavaScript Events  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=ZIofG_rpm7A
 
-30.  35 What Are Event Listeners In JavaScript  JavaScript Events  JavaScript Tutorial  mmtuts.ahk
+35 What Are Event Listeners In JavaScript  JavaScript Events  JavaScript Tutorial  mmtuts
 https://www.youtube.com/watch?v=jqU3uaRgQyQ
 
-31.  4 How to Include JavaScript in Our HTML  JavaScript Tutorial  Learn JavaScript  For Beginners.ahk
+4 How to Include JavaScript in Our HTML  JavaScript Tutorial  Learn JavaScript  For Beginners
 https://www.youtube.com/watch?v=AD5hxsFJc4o
 
-32.  5 How to Use the Developer Tool for JavaScript Development  JavaScript Tutorial  Learn JavaScript.ahk
+5 How to Use the Developer Tool for JavaScript Development  JavaScript Tutorial  Learn JavaScript
 https://www.youtube.com/watch?v=sjmyfwESv1g
 
-33.  5 JavaScript String Methods You Probably Didn't Know....ahk
+5 JavaScript String Methods You Probably Didn't Know...
 https://www.youtube.com/watch?v=vhrGUvGJF5w
 
-34.  6 Rules for Writing JavaScript Code  JavaScript Tips  JavaScript Tutorial  Learn JavaScript.ahk
+6 Rules for Writing JavaScript Code  JavaScript Tips  JavaScript Tutorial  Learn JavaScript
 https://www.youtube.com/watch?v=FdlBtidhAnE
 
-35.  7 How to Create Variables in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts.ahk
+7 How to Create Variables in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts
 https://www.youtube.com/watch?v=9aGIAL16DL4
 
-36.  8 Different Data Types in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts.ahk
+8 Different Data Types in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts
 https://www.youtube.com/watch?v=O9by2KcR2v4
 
-37.  9 Different Types of Operators in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts.ahk
+9 Different Types of Operators in JavaScript  JavaScript Tutorial  Learn JavaScript  mmtuts
 https://www.youtube.com/watch?v=FZzyij43A54
 
-38.  == vs === in JavaScript  Which one is better  Strict vs Loose Equality.ahk
+== vs === in JavaScript  Which one is better  Strict vs Loose Equality
 https://www.youtube.com/watch?v=nQJrfphxKBg
 
-39.  A Complete Overview of JavaScript Events - All You Need To Know.ahk
+A Complete Overview of JavaScript Events - All You Need To Know
 https://www.youtube.com/watch?v=YiOlaiscqDY
 
-40.  Accessing an iframe document (contentWindow) - JavaScript Tutorial.ahk
+Accessing an iframe document (contentWindow) - JavaScript Tutorial
 https://www.youtube.com/watch?v=-mNp3-UX9Qc
 
-41.  Array 'every' method in Javascript (Array.prototype.every).ahk
+Array 'every' method in Javascript (Array.prototype.every)
 https://www.youtube.com/watch?v=RyqZLYvMVHU
 
-42.  Array 'fill' method in Javascript (Array.prototype.fill).ahk
+Array 'fill' method in Javascript (Array.prototype.fill)
 https://www.youtube.com/watch?v=NoiB2Sh9PLg
 
-43.  Array 'find' method in JavaScript (Array.prototype.find) - JavaScript Tutorial For Beginners.ahk
+Array 'find' method in JavaScript (Array.prototype.find) - JavaScript Tutorial For Beginners
 https://www.youtube.com/watch?v=N1QcR8F3xFY
 
-44.  Array 'findIndex' method in Javascript (Array.prototype.findIndex).ahk
+Array 'findIndex' method in Javascript (Array.prototype.findIndex)
 https://www.youtube.com/watch?v=QL5jKmVPvUY
 
-45.  Array 'forEach' method in Javascript (Array.prototype.forEach).ahk
+Array 'forEach' method in Javascript (Array.prototype.forEach)
 https://www.youtube.com/watch?v=B6_pnauRy2Q
 
-46.  Array 'includes' method in Javascript (Array.prototype.includes).ahk
+Array 'includes' method in Javascript (Array.prototype.includes)
 https://www.youtube.com/watch?v=7M6Hg2YSHrg
 
-47.  Array 'join' method in Javascript (Array.prototype.join).ahk
+Array 'join' method in Javascript (Array.prototype.join)
 https://www.youtube.com/watch?v=2NbjghF4U-4
 
-48.  Array 'shift' method in Javascript (Array.prototype.shift).ahk
+Array 'shift' method in Javascript (Array.prototype.shift)
 https://www.youtube.com/watch?v=Hq3DTIUtPZw
 
-49.  Array 'some' method in Javascript (Array.prototype.some).ahk
+Array 'some' method in Javascript (Array.prototype.some)
 https://www.youtube.com/watch?v=uSBrDZ8pRLI
 
-50.  Array 'unshift' method in Javascript (Array.prototype.unshift).ahk
+Array 'unshift' method in Javascript (Array.prototype.unshift)
 https://www.youtube.com/watch?v=OB8a5OyuAAE
 
-51.  Array Destructuring in Javascript.ahk
+Array Destructuring in Javascript
 https://www.youtube.com/watch?v=fsybVOVcNg0
 
-52.  Array flat() method in JavaScript! - New in Chrome Update 69.ahk
+Array flat() method in JavaScript! - New in Chrome Update 69
 https://www.youtube.com/watch?v=vPnn_QZGKIY
 
-53.  Array flatMap() method in JavaScript! - New in Chrome Update 69.ahk
+Array flatMap() method in JavaScript! - New in Chrome Update 69
 https://www.youtube.com/watch?v=hZ9WUyn2bvI
 
-54.  Arrow Functions in JavaScript - All You Need To Know!.ahk
+Arrow Functions in JavaScript - All You Need To Know!
 https://www.youtube.com/watch?v=2_B2U_zCj7Q
 
-55.  Async Functions & Await Explained in JavaScript.ahk
+Async Functions & Await Explained in JavaScript
 https://www.youtube.com/watch?v=T4ql-QWKlwk
 
-56.  AsyncAwait - JavaScript Tutorial.ahk
+AsyncAwait - JavaScript Tutorial
 https://www.youtube.com/watch?v=jAAmI5gMlVo
 
-57.  Base64 Encoding in JavaScript - Explained (with usage examples).ahk
+Base64 Encoding in JavaScript - Explained (with usage examples)
 https://www.youtube.com/watch?v=yTt1ZT9KKHc
 
-58.  Basics of Regular Expressions (Regex) - JavaScript Tutorial.ahk
+Basics of Regular Expressions (Regex) - JavaScript Tutorial
 https://www.youtube.com/watch?v=ArxOzeAONHg
 
-59.  Basics of the Fetch API in JavaScript.ahk
+Basics of the Fetch API in JavaScript
 https://www.youtube.com/watch?v=WmQ1hl7KSM4
 
-60.  Bind Explained in JavaScript.ahk
+Bind Explained in JavaScript
 https://www.youtube.com/watch?v=g2WcckBB_q0
 
-61.  Break out of nested for loops in JavaScript - Labels.ahk
+Break out of nested for loops in JavaScript - Labels
 https://www.youtube.com/watch?v=e3UNE1ZQQYk
 
-62.  Bubbling vs Capturing in JavaScript  JavaScript Events Tutorial.ahk
+Bubbling vs Capturing in JavaScript  JavaScript Events Tutorial
 https://www.youtube.com/watch?v=Q6HAJ6bz7bY
 
-63.  Build 15 JavaScript Projects - Vanilla JavaScript Course.ahk
+Build 15 JavaScript Projects - Vanilla JavaScript Course
 https://www.youtube.com/watch?v=3PHXvlpOkf4
 
-64.  Build a Days Until Countdown Timer with HTML, CSS & JavaScript - Beginner's Project Tutorial.ahk
+Build a Days Until Countdown Timer with HTML, CSS & JavaScript - Beginner's Project Tutorial
 https://www.youtube.com/watch?v=Zr2kBYzcJ14
 
-65.  Build a Digital Clock with JavaScript - Beginner HTML, CSS & JS Tutorial.ahk
+Build a Digital Clock with JavaScript - Beginner HTML, CSS & JS Tutorial
 https://www.youtube.com/watch?v=JXHgDS8rIkM
 
-66.  Build a Notes App with JavaScript & Local Storage (No Frameworks).ahk
+Build a Notes App with JavaScript & Local Storage (No Frameworks)
 https://www.youtube.com/watch?v=01YKQmia2Jw
 
-67.  Build a Placeholder Image Generator with JavaScript & HTML5 Canvas.ahk
+Build a Placeholder Image Generator with JavaScript & HTML5 Canvas
 https://www.youtube.com/watch?v=BBM6ElNENds
 
-68.  Build a Scoreboard With HTML, CSS & JavaScript - Beginner's Project with CSS Grid and JS Classes.ahk
+Build a Scoreboard With HTML, CSS & JavaScript - Beginner's Project with CSS Grid and JS Classes
 https://www.youtube.com/watch?v=7BExOvUgOwA
 
-69.  Build a User Avatar Image Generator - JavaScript & HTML Tutorial.ahk
+Build a User Avatar Image Generator - JavaScript & HTML Tutorial
 https://www.youtube.com/watch?v=bUlK9yNJ3js
 
-70.  Building a Tic-Tac-Toe Game with HTML, CSS & JavaScript Tutorial For Beginners (Project).ahk
+Building a Tic-Tac-Toe Game with HTML, CSS & JavaScript Tutorial For Beginners (Project)
 https://www.youtube.com/watch?v=Azx_uooP8rM
 
-71.  Chaining Fetch Requests in JavaScript - Promise Chain Example.ahk
+Chaining Fetch Requests in JavaScript - Promise Chain Example
 https://www.youtube.com/watch?v=4A1cUp2wK2c
 
-72.  Code a magic card trick using JavaScript & Node.js - Tutorial.ahk
+Code a magic card trick using JavaScript & Node.js - Tutorial
 https://www.youtube.com/watch?v=h21pa3yeW08
 
-73.  Code Asteroids in JavaScript (1979 Atari game) - tutorial.ahk
+Code Asteroids in JavaScript (1979 Atari game) - tutorial
 https://www.youtube.com/watch?v=H9CSWMxJx84
 
-74.  Code BlocksCompound Statements in JavaScript.ahk
+Code BlocksCompound Statements in JavaScript
 https://www.youtube.com/watch?v=zp7JrqYEapk
 
-75.  Code Tetris JavaScript Tutorial for Beginners.ahk
+Code Tetris JavaScript Tutorial for Beginners
 https://www.youtube.com/watch?v=rAUn1Lom6dw
 
-76.  Code your own YouTube app YouTube API + HTML + CSS + JavaScript (full tutorial).ahk
+Code your own YouTube app YouTube API + HTML + CSS + JavaScript (full tutorial)
 https://www.youtube.com/watch?v=9sWEecNUW-o
 
-77.  Constants in JavaScript - the const keyword.ahk
+Constants in JavaScript - the const keyword
 https://www.youtube.com/watch?v=lpDxfrz_3-k
 
-78.  Convert JavaScript Maps to Objects - Object.fromEntries() Tutorial.ahk
+Convert JavaScript Maps to Objects - Object.fromEntries() Tutorial
 https://www.youtube.com/watch?v=cNiYENUlY28
 
-79.  Convert UTF-16 Code into String with JavaScript  String.fromCharCode Method.ahk
+Convert UTF-16 Code into String with JavaScript  String.fromCharCode Method
 https://www.youtube.com/watch?v=CGco_9IYBxM
 
-80.  Converting Objects to Strings with toString() - Advanced JavaScript Tutorial.ahk
+Converting Objects to Strings with toString() - Advanced JavaScript Tutorial
 https://www.youtube.com/watch?v=DXrt-04CTOY
 
-81.  Copying Text to Clipboard in HTML & JavaScript - Tutorial For Beginners.ahk
+Copying Text to Clipboard in HTML & JavaScript - Tutorial For Beginners
 https://www.youtube.com/watch?v=NHg6jQajaMs
 
-82.  Create a 3D Wireframe Renderer - JavaScript Tutorial.ahk
+Create a 3D Wireframe Renderer - JavaScript Tutorial
 https://www.youtube.com/watch?v=9HOvkVQjGf8
 
-83.  Create a Custom Confirm Window - HTML, CSS & JavaScript Tutorial (Project).ahk
+Create a Custom Confirm Window - HTML, CSS & JavaScript Tutorial (Project)
 https://www.youtube.com/watch?v=pOmLe1SaN60
 
-84.  Create a Platformer Game with JavaScript - Full Tutorial.ahk
+Create a Platformer Game with JavaScript - Full Tutorial
 https://www.youtube.com/watch?v=w-OKdSHRlfA
 
-85.  Create Arrays From Objects With Array.from() - JavaScript Tutorial.ahk
+Create Arrays From Objects With Array.from() - JavaScript Tutorial
 https://www.youtube.com/watch?v=NPbDqbwtr-4
 
-86.  Create your own Progress Bar in HTML, CSS & JavaScript Classes  Intermediate Tutorial.ahk
+Create your own Progress Bar in HTML, CSS & JavaScript Classes  Intermediate Tutorial
 https://www.youtube.com/watch?v=QxQRtwAtqKE
 
-87.  Create your own Promises in JavaScript  Understanding Promises.ahk
+Create your own Promises in JavaScript  Understanding Promises
 https://www.youtube.com/watch?v=Y-aWVUAul9w
 
-88.  Creating a Characters Remaining Counter (for Text Areas) - JavaScript Tutorial.ahk
+Creating a Characters Remaining Counter (for Text Areas) - JavaScript Tutorial
 https://www.youtube.com/watch?v=X-LVkU95jLU
 
-89.  Creating a Color Palette using HTML, CSS & JavaScript - Project.ahk
+Creating a Color Palette using HTML, CSS & JavaScript - Project
 https://www.youtube.com/watch?v=4VGyXW2rA4w
 
-90.  Creating an AJAX File Upload Progress Bar in JavaScript - Tutorial For Beginners.ahk
+Creating an AJAX File Upload Progress Bar in JavaScript - Tutorial For Beginners
 https://www.youtube.com/watch?v=H-091qVG6LM
 
-91.  Creating an AJAX Submit Form using JavaScript - Tutorial For Beginners.ahk
+Creating an AJAX Submit Form using JavaScript - Tutorial For Beginners
 https://www.youtube.com/watch?v=zvt8ff3d63Q
 
-92.  Creating Custom Errors in JavaScript.ahk
+Creating Custom Errors in JavaScript
 https://www.youtube.com/watch?v=cVo186hyYsM
 
-93.  CSV Viewer with HTML, CSS & JavaScript - Project Video (1494158).ahk
+CSV Viewer with HTML, CSS & JavaScript - Project Video (1494158)
 https://www.youtube.com/watch?v=fwyN81KiAWU
 
-94.  CSV Viewer with HTML, CSS & JavaScript - Project Video.ahk
+CSV Viewer with HTML, CSS & JavaScript - Project Video
 https://www.youtube.com/watch?v=fwyN81KiAWU
 
-95.  Custom Events in Javascript (CustomEvent).ahk
+Custom Events in Javascript (CustomEvent)
 https://www.youtube.com/watch?v=b469-2H9Rew
 
-96.  Data Structures and Algorithms in JavaScript - Full Course for Beginners.ahk
+Data Structures and Algorithms in JavaScript - Full Course for Beginners
 https://www.youtube.com/watch?v=t2CEgPsws3U
 
-97.  Data Table with Async Refresh using HTML, CSS, JS and Express.js (1541733).ahk
+Data Table with Async Refresh using HTML, CSS, JS and Express.js (1541733)
 https://www.youtube.com/watch?v=Qo-iQNXDf1c
 
-98.  Data Table with Async Refresh using HTML, CSS, JS and Express.js.ahk
+Data Table with Async Refresh using HTML, CSS, JS and Express.js
 https://www.youtube.com/watch?v=Qo-iQNXDf1c
 
-99.  Debug your JavaScript code visually with console.table - JavaScript Tutorial.ahk
+Debug your JavaScript code visually with console.table - JavaScript Tutorial
 https://www.youtube.com/watch?v=WR1Wp82mOqM
 
-100.  Default Parameters in JavaScript  ECMAScript 2015 New Feature.ahk
+Default Parameters in JavaScript  ECMAScript 2015 New Feature
 https://www.youtube.com/watch?v=NfZgIaEvXzE
 
-101.  Delaying your JavaScript code with the setTimeout() function.ahk
+Delaying your JavaScript code with the setTimeout() function
 https://www.youtube.com/watch?v=RXWAZ0C_mds
 
-102.  Detect DOM Changes With The Intersection Observer API - JavaScript Tutorial (1174026).ahk
+Detect DOM Changes With The Intersection Observer API - JavaScript Tutorial (1174026)
 https://www.youtube.com/watch?v=QOWq3_zpOK4
 
-103.  Detect DOM Changes With The Intersection Observer API - JavaScript Tutorial.ahk
+Detect DOM Changes With The Intersection Observer API - JavaScript Tutorial
 https://www.youtube.com/watch?v=QOWq3_zpOK4
 
-104.  Detect OS Dark or Light Mode with CSS & JavaScript - Web Tutorial.ahk
+Detect OS Dark or Light Mode with CSS & JavaScript - Web Tutorial
 https://www.youtube.com/watch?v=9t6lk4Icm7E
 
-105.  Detect when a CSS animation has finished in JavaScript - animationend event.ahk
+Detect when a CSS animation has finished in JavaScript - animationend event
 https://www.youtube.com/watch?v=U-5GD8BE3IA
 
-106.  Detect When Users Switch Tabs - Page Visibility API in JavaScript (1848396).ahk
+Detect When Users Switch Tabs - Page Visibility API in JavaScript (1848396)
 https://www.youtube.com/watch?v=cP2BsMhsldI
 
-107.  Detect When Users Switch Tabs - Page Visibility API in JavaScript.ahk
+Detect When Users Switch Tabs - Page Visibility API in JavaScript
 https://www.youtube.com/watch?v=cP2BsMhsldI
 
-108.  Detecting CAPS LOCK on HTML forms - JavaScript Tutorial.ahk
+Detecting CAPS LOCK on HTML forms - JavaScript Tutorial
 https://www.youtube.com/watch?v=N_8LktRjdU8
 
-109.  Detecting Screen Size and OS Dark Mode with matchMedia() - JavaScript Tutorial.ahk
+Detecting Screen Size and OS Dark Mode with matchMedia() - JavaScript Tutorial
 https://www.youtube.com/watch?v=HdRmyXL1dJA
 
-110.  Dropbox API  JavaScript ES6 Tutorial - Expense Organizer.ahk
+Dropbox API  JavaScript ES6 Tutorial - Expense Organizer
 https://www.youtube.com/watch?v=AzCQrjWQJs4
 
-111.  Dynamically Change Your Favicon With JavaScript - Web Design Tutorial.ahk
+Dynamically Change Your Favicon With JavaScript - Web Design Tutorial
 https://www.youtube.com/watch?v=Odfz1z5E7JQ
 
-112.  E-Commerce JavaScript Tutorial - Shopping Cart from Scratch.ahk
+E-Commerce JavaScript Tutorial - Shopping Cart from Scratch
 https://www.youtube.com/watch?v=023Psne_-_4
 
-113.  Easily Create Searchable HTML Tables with JavaScript.ahk
+Easily Create Searchable HTML Tables with JavaScript
 https://www.youtube.com/watch?v=qp7PdguA0Vg
 
-114.  ES6 Rest Parameters - JavaScript Tutorial.ahk
+ES6 Rest Parameters - JavaScript Tutorial
 https://www.youtube.com/watch?v=j3bXlt3NOZA
 
-115.  ES6 Tutorial Learn Modern JavaScript in 1 Hour.ahk
+ES6 Tutorial Learn Modern JavaScript in 1 Hour
 https://www.youtube.com/watch?v=NCwa_xi0Uuc
 
-116.  Fetch API in JavaScript for AJAX Developers.ahk
+Fetch API in JavaScript for AJAX Developers
 https://www.youtube.com/watch?v=ZTQcJWixB1k
 
-117.  Form Data (FormData) in Javascript (with AJAX).ahk
+Form Data (FormData) in Javascript (with AJAX)
 https://www.youtube.com/watch?v=JNqFUyIrx2I
 
-118.  Gallery Using HTML, CSS, And JavaScript  How To Open Images Using JavaScript  JavaScript Tutorial.ahk
+Gallery Using HTML, CSS, And JavaScript  How To Open Images Using JavaScript  JavaScript Tutorial
 https://www.youtube.com/watch?v=dkLpo4shS6c
 
-119.  Get JSON with the Fetch API - JavaScript Tutorial.ahk
+Get JSON with the Fetch API - JavaScript Tutorial
 https://www.youtube.com/watch?v=5VCY9yCZnlc
 
-120.  Get Mouse Position in JavaScript ('x' and 'y') - JavaScript Tutorial For Beginners.ahk
+Get Mouse Position in JavaScript ('x' and 'y') - JavaScript Tutorial For Beginners
 https://www.youtube.com/watch?v=P2i11xnrpNI
 
-121.  getBoundingClientRect() in Javascript DOM.ahk
+getBoundingClientRect() in Javascript DOM
 https://www.youtube.com/watch?v=MKpZadkuT-0
 
-122.  Getting CSS Styles with JavaScript - getComputedStyle() function.ahk
+Getting CSS Styles with JavaScript - getComputedStyle() function
 https://www.youtube.com/watch?v=AKMUpyQSln4
 
-123.  Global Regular Expression (Regex) Searches - JavaScript Tutorial.ahk
+Global Regular Expression (Regex) Searches - JavaScript Tutorial
 https://www.youtube.com/watch?v=Bx_IPq-fXv4
 
-124.  Hash Change Event in Javascript (onhashchange).ahk
+Hash Change Event in Javascript (onhashchange)
 https://www.youtube.com/watch?v=B2rsPfwvbUk
 
-125.  How to Add a Lightbox to Your Websites - HTML, CSS & JavaScript Beginner's Tutorial.ahk
+How to Add a Lightbox to Your Websites - HTML, CSS & JavaScript Beginner's Tutorial
 https://www.youtube.com/watch?v=dylA5Onz3kI
 
-126.  How to Build a Discord Bot - Full JavaScript Chatbot Tutorial.ahk
+How to Build a Discord Bot - Full JavaScript Chatbot Tutorial
 https://www.youtube.com/watch?v=8o25pRbXdFw
 
-127.  How to Create a Collapsible Navigation Menu - HTML, CSS & JavaScript Tutorial.ahk
+How to Create a Collapsible Navigation Menu - HTML, CSS & JavaScript Tutorial
 https://www.youtube.com/watch?v=LxEb9G7ELOQ
 
-128.  How to Create Singleton Classes in JavaScript - Design Patterns Tutorial.ahk
+How to Create Singleton Classes in JavaScript - Design Patterns Tutorial
 https://www.youtube.com/watch?v=C2NxMWQn85c
 
-129.  How to Detect Click and Hold Events - JavaScript Tutorial.ahk
+How to Detect Click and Hold Events - JavaScript Tutorial
 https://www.youtube.com/watch?v=A95mIE2HdcY
 
-130.  How to Display Dates and Times in JavaScript - Beginner's Tutorial.ahk
+How to Display Dates and Times in JavaScript - Beginner's Tutorial
 https://www.youtube.com/watch?v=50cDIUKlQ8g
 
-131.  How to EASILY Sort HTML Tables with CSS & JavaScript - Web Development Tutorial.ahk
+How to EASILY Sort HTML Tables with CSS & JavaScript - Web Development Tutorial
 https://www.youtube.com/watch?v=8SL_hM1a0yo
 
-132.  How to enter Full-Screen Mode with JavaScript - Fullscreen API Tutorial.ahk
+How to enter Full-Screen Mode with JavaScript - Fullscreen API Tutorial
 https://www.youtube.com/watch?v=3FjYcMKZ3SU
 
-133.  How to export an HTML table to a CSV file in JavaScript - Project Video.ahk
+How to export an HTML table to a CSV file in JavaScript - Project Video
 https://www.youtube.com/watch?v=cpHCv3gbPuk
 
-134.  How To Fix null has been blocked by CORS policy Error in JavaScript AJAX.ahk
+How To Fix null has been blocked by CORS policy Error in JavaScript AJAX
 https://www.youtube.com/watch?v=nx8E5BF0XuE
 
-135.  How to generate random numbers in JavaScript - Math.random.ahk
+How to generate random numbers in JavaScript - Math.random
 https://www.youtube.com/watch?v=1Rq_LrpcgIM
 
-136.  How to Handle Errors - Basics of Error Handling in JavaScript - Tutorial.ahk
+How to Handle Errors - Basics of Error Handling in JavaScript - Tutorial
 https://www.youtube.com/watch?v=G8Jux_bsIXU
 
-137.  How to Implement a Queue in JavaScript.ahk
+How to Implement a Queue in JavaScript
 https://www.youtube.com/watch?v=LbAKOE5_Du4
 
-138.  How to Implement a Stack in JavaScript.ahk
+How to Implement a Stack in JavaScript
 https://www.youtube.com/watch?v=1d8tQpZ6KAQ
 
-139.  How to Merge Arrays - JavaScript Tutorial.ahk
+How to Merge Arrays - JavaScript Tutorial
 https://www.youtube.com/watch?v=LBD-j3DoFMM
 
-140.  How to Paste Files from the Clipboard - JavaScript Tutorial.ahk
+How to Paste Files from the Clipboard - JavaScript Tutorial
 https://www.youtube.com/watch?v=HGAPDmBA-2U
 
-141.  How to protect JavaScript Objects with Object.seal() - JavaScript Tutorial.ahk
+How to protect JavaScript Objects with Object.seal() - JavaScript Tutorial
 https://www.youtube.com/watch?v=ZqL7q8KUw9I
 
-142.  How to Send GraphQL Requests with Fetch API - JavaScript Tutorial.ahk
+How to Send GraphQL Requests with Fetch API - JavaScript Tutorial
 https://www.youtube.com/watch?v=5QXR81AzUxw
 
-143.  How to Show Desktop Notifications - JavaScript Notification API Tutorial.ahk
+How to Show Desktop Notifications - JavaScript Notification API Tutorial
 https://www.youtube.com/watch?v=Jncoj-Gvh9o
 
-144.  How to Style Console Output (in Javascript).ahk
+How to Style Console Output (in Javascript)
 https://www.youtube.com/watch?v=sGaLHqfqh80
 
-145.  How to time your Javascript code - Console.time.ahk
+How to time your Javascript code - Console.time
 https://www.youtube.com/watch?v=knJA2nLAQfk
 
-146.  How to use Dynamic Imports for Modules - JavaScript Tutorial (1317178).ahk
+How to use Dynamic Imports for Modules - JavaScript Tutorial (1317178)
 https://www.youtube.com/watch?v=5s5fVghc4S8
 
-147.  How to use Dynamic Imports for Modules - JavaScript Tutorial.ahk
+How to use Dynamic Imports for Modules - JavaScript Tutorial
 https://www.youtube.com/watch?v=5s5fVghc4S8
 
-148.  How to use Generator Functions in JavaScript - Tutorial.ahk
+How to use Generator Functions in JavaScript - Tutorial
 https://www.youtube.com/watch?v=EzdgkEMvrvA
 
-149.  How To Use Iterators in JavaScript - Iterate Over Arrays and Collections.ahk
+How To Use Iterators in JavaScript - Iterate Over Arrays and Collections
 https://www.youtube.com/watch?v=2oU-DfdWM0c
 
-150.  How to use JSDoc - Basics & Introduction.ahk
+How to use JSDoc - Basics & Introduction
 https://www.youtube.com/watch?v=Nqv6UkTROak
 
-151.  How to Use JSON - JavaScript Tutorial.ahk
+How to Use JSON - JavaScript Tutorial
 https://www.youtube.com/watch?v=6I3qMe-jXDs
 
-152.  How to use Local Storage in JavaScript.ahk
+How to use Local Storage in JavaScript
 https://www.youtube.com/watch?v=k8yJCeuP6I8
 
-153.  How to use Proxy Objects - JavaScript Tutorial.ahk
+How to use Proxy Objects - JavaScript Tutorial
 https://www.youtube.com/watch?v=hI4AyjNnUzQ
 
-154.  How to use Session Storage - JavaScript Tutorial For Beginners.ahk
+How to use Session Storage - JavaScript Tutorial For Beginners
 https://www.youtube.com/watch?v=RxUc6ZWwgfw
 
-155.  How to use the Drag and Drop API - JavaScript Tutorial.ahk
+How to use the Drag and Drop API - JavaScript Tutorial
 https://www.youtube.com/watch?v=OHTudicK7nY
 
-156.  How to use URL Objects (URL Interface) - JavaScript Tutorial.ahk
+How to use URL Objects (URL Interface) - JavaScript Tutorial
 https://www.youtube.com/watch?v=RIBiQ5GNYWo
 
-157.  How to Watch for Changes to the DOM (Attribute, Text or Children) - MutationObserver in JavaScript.ahk
+How to Watch for Changes to the DOM (Attribute, Text or Children) - MutationObserver in JavaScript
 https://www.youtube.com/watch?v=ofpJ2cyz2Xg
 
-158.  In Depth the Array map() method in JavaScript.ahk
+In Depth the Array map() method in JavaScript
 https://www.youtube.com/watch?v=djiHm61y8P4
 
-159.  Instant Search Bar in JavaScript - HTML, CSS & JavaScript Tutorial (Project).ahk
+Instant Search Bar in JavaScript - HTML, CSS & JavaScript Tutorial (Project)
 https://www.youtube.com/watch?v=M3PbUwgEecU
 
-160.  Intro to Game Development with JavaScript - Full Tutorial.ahk
+Intro to Game Development with JavaScript - Full Tutorial
 https://www.youtube.com/watch?v=3EMxBkqC4z0
 
-161.  JavaScript Array Filter.ahk
+JavaScript Array Filter
 https://www.youtube.com/watch?v=4_iT6EGkQfk
 
-162.  JavaScript Array Map.ahk
+JavaScript Array Map
 https://www.youtube.com/watch?v=G3BS3sh3D8Q
 
-163.  JavaScript Array Reduce.ahk
+JavaScript Array Reduce
 https://www.youtube.com/watch?v=g1C40tDP0Bk
 
-164.  JavaScript Arrays Properties, Methods, and Manipulation (Part 1 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 1 of 7)
 https://www.youtube.com/watch?v=8JgU2WmrZXI
 
-165.  JavaScript Arrays Properties, Methods, and Manipulation (Part 2 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 2 of 7)
 https://www.youtube.com/watch?v=nAWVYFEzoY8
 
-166.  JavaScript Arrays Properties, Methods, and Manipulation (Part 3 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 3 of 7)
 https://www.youtube.com/watch?v=cdPS-lmlwco
 
-167.  JavaScript Arrays Properties, Methods, and Manipulation (Part 4 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 4 of 7)
 https://www.youtube.com/watch?v=JskeRdu_X8Q
 
-168.  JavaScript Arrays Properties, Methods, and Manipulation (Part 5 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 5 of 7)
 https://www.youtube.com/watch?v=w4KF_lapbRI
 
-169.  JavaScript Arrays Properties, Methods, and Manipulation (Part 6 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 6 of 7)
 https://www.youtube.com/watch?v=1gupsllu5wQ
 
-170.  JavaScript Arrays Properties, Methods, and Manipulation (Part 7 of 7).ahk
+JavaScript Arrays Properties, Methods, and Manipulation (Part 7 of 7)
 https://www.youtube.com/watch?v=qxzp4X6sfGo
 
-171.  JavaScript Arrays.ahk
+JavaScript Arrays
 https://www.youtube.com/watch?v=oigfaZ5ApsM
 
-172.  JavaScript Cloning an Object.ahk
+JavaScript Cloning an Object
 https://www.youtube.com/watch?v=H1NmJIv1A2Y
 
-173.  JavaScript Constructor Functions.ahk
+JavaScript Constructor Functions
 https://www.youtube.com/watch?v=23AOrSN-wmI
 
-174.  JavaScript Factory Functions.ahk
+JavaScript Factory Functions
 https://www.youtube.com/watch?v=jpegXpQpb3o
 
-175.  JavaScript Functions.ahk
+JavaScript Functions
 https://www.youtube.com/watch?v=N8ap4k_1QEQ
 
-176.  JavaScript Getters and Setters  Mosh.ahk
+JavaScript Getters and Setters  Mosh
 https://www.youtube.com/watch?v=bl98dm7vJt0
 
-177.  JavaScript if else (tutorial).ahk
+JavaScript if else (tutorial)
 https://www.youtube.com/watch?v=IsG4Xd6LlsM
 
-178.  JavaScript Let vs Var vs Constant  Mosh.ahk
+JavaScript Let vs Var vs Constant  Mosh
 https://www.youtube.com/watch?v=XgSjoHgy3Rk
 
-179.  JavaScript Loops.ahk
+JavaScript Loops
 https://www.youtube.com/watch?v=s9wW2PpJsmQ
 
-180.  JavaScript Modules with ImportExport Syntax (ES6) - JavaScript Tutorial.ahk
+JavaScript Modules with ImportExport Syntax (ES6) - JavaScript Tutorial
 https://www.youtube.com/watch?v=s9kNndJLOjg
 
-181.  JavaScript Programming - Full Course.ahk
+JavaScript Programming - Full Course
 https://www.youtube.com/watch?v=jS4aFq5-91M
 
-182.  Javascript Project Tutorial Budget App.ahk
+Javascript Project Tutorial Budget App
 https://www.youtube.com/watch?v=m_HJ3juuFvo
 
-183.  JavaScript Project Tutorial Shopping Cart.ahk
+JavaScript Project Tutorial Shopping Cart
 https://www.youtube.com/watch?v=q_TZhCWbS3I
 
-184.  JavaScript Scope (Local vs Global).ahk
+JavaScript Scope (Local vs Global)
 https://www.youtube.com/watch?v=iJKkZA215tQ
 
-185.  JavaScript Snake Game Tutorial Using Functional Programming.ahk
+JavaScript Snake Game Tutorial Using Functional Programming
 https://www.youtube.com/watch?v=bRlvGoWz6Ig
 
-186.  JavaScript Strings.ahk
+JavaScript Strings
 https://www.youtube.com/watch?v=09BwruU4kiY
 
-187.  JavaScript Template Literals.ahk
+JavaScript Template Literals
 https://www.youtube.com/watch?v=NgF9-pdTDGs
 
-188.  JavaScript this Keyword Explained.ahk
+JavaScript this Keyword Explained
 https://www.youtube.com/watch?v=2mRN8FyjnE4
 
-189.  JavaScript this Keyword.ahk
+JavaScript this Keyword
 https://www.youtube.com/watch?v=gvicrj31JOM
 
-190.  JavaScript Tic Tac Toe Project Tutorial  - Unbeatable AI w Minimax Algorithm.ahk
+JavaScript Tic Tac Toe Project Tutorial  - Unbeatable AI w Minimax Algorithm
 https://www.youtube.com/watch?v=P2TcQ3h0ipQ
 
-191.  Javascript Tutorial - Array Filter.ahk
+Javascript Tutorial - Array Filter
 https://www.youtube.com/watch?v=0qsFDFC2oEE
 
-192.  Javascript Tutorial - Array Map.ahk
+Javascript Tutorial - Array Map
 https://www.youtube.com/watch?v=cmgvB4wEkf8
 
-193.  Javascript Tutorial - Array Reduce.ahk
+Javascript Tutorial - Array Reduce
 https://www.youtube.com/watch?v=wM6WkVNMDuI
 
-194.  Javascript Tutorial - Custom File Upload Button  HTML + CSS.ahk
+Javascript Tutorial - Custom File Upload Button  HTML + CSS
 https://www.youtube.com/watch?v=T3PDgtliezo
 
-195.  Javascript Tutorial - Default Values (Short Circuit Evaluation).ahk
+Javascript Tutorial - Default Values (Short Circuit Evaluation)
 https://www.youtube.com/watch?v=VAV61ASDo1s
 
-196.  JavaScript Tutorial - DOMContentLoaded event  When is it safe to interact with the DOM.ahk
+JavaScript Tutorial - DOMContentLoaded event  When is it safe to interact with the DOM
 https://www.youtube.com/watch?v=m1DH8ljCqzo
 
-197.  Javascript Tutorial - Enum Types.ahk
+Javascript Tutorial - Enum Types
 https://www.youtube.com/watch?v=zyEyqvzeWcY
 
-198.  Javascript Tutorial - Extending the Prototype.ahk
+Javascript Tutorial - Extending the Prototype
 https://www.youtube.com/watch?v=TUJI3CVU1Pk
 
-199.  JavaScript Tutorial - load event  Detect when images or the page has loaded.ahk
+JavaScript Tutorial - load event  Detect when images or the page has loaded
 https://www.youtube.com/watch?v=NdKTdc6dLoc
 
-200.  JavaScript Tutorial - Stopping Propagation with Event.stopPropagation().ahk
+JavaScript Tutorial - Stopping Propagation with Event.stopPropagation()
 https://www.youtube.com/watch?v=UWCvbwo9IRk
 
-201.  Javascript Tutorial - Ternary Operator (Short-Hand If).ahk
+Javascript Tutorial - Ternary Operator (Short-Hand If)
 https://www.youtube.com/watch?v=HblehZ9TYYQ
 
-202.  JavaScript Tutorial - unload event  Detect when the browser window has closed.ahk
+JavaScript Tutorial - unload event  Detect when the browser window has closed
 https://www.youtube.com/watch?v=-RHZW6q2dLM
 
-203.  JavaScript Tutorial 01 - Hello world Script in JavaScript language.ahk
+JavaScript Tutorial 01 - Hello world Script in JavaScript language
 https://www.youtube.com/watch?v=6_wH9J8B68s
 
-204.  JavaScript Tutorial 02 - White space & Line break in JavaScript language.ahk
+JavaScript Tutorial 02 - White space & Line break in JavaScript language
 https://www.youtube.com/watch?v=En5M0Z_3dq8
 
-205.  JavaScript Tutorial 03 - Comments in JavaScript  JavaScript Comments.ahk
+JavaScript Tutorial 03 - Comments in JavaScript  JavaScript Comments
 https://www.youtube.com/watch?v=g47WgEUDBT4
 
-206.  JavaScript Tutorial 04 - How to use HTML tags in JavaScript.ahk
+JavaScript Tutorial 04 - How to use HTML tags in JavaScript
 https://www.youtube.com/watch?v=ABaH8JVKCIc
 
-207.  JavaScript Tutorial 05 - How to use HTML attributes in JavaScript.ahk
+JavaScript Tutorial 05 - How to use HTML attributes in JavaScript
 https://www.youtube.com/watch?v=6y5tX-Pmo0M
 
-208.  JavaScript Tutorial 06 - How to create HTML Table Layout in JavaScript.ahk
+JavaScript Tutorial 06 - How to create HTML Table Layout in JavaScript
 https://www.youtube.com/watch?v=09UvvZcc57Q
 
-209.  JavaScript Tutorial 07 - JavaScript Addition Operator  JavaScript Concatenation Operator.ahk
+JavaScript Tutorial 07 - JavaScript Addition Operator  JavaScript Concatenation Operator
 https://www.youtube.com/watch?v=sJut3zRdDIo
 
-210.  JavaScript Tutorial 08 - document.write() method in JavaScript.ahk
+JavaScript Tutorial 08 - document.write() method in JavaScript
 https://www.youtube.com/watch?v=i1FCUQOuU0s
 
-211.  JavaScript Tutorial 09 - Keywords in JavaScript  JavaScript Reserved Keywords.ahk
+JavaScript Tutorial 09 - Keywords in JavaScript  JavaScript Reserved Keywords
 https://www.youtube.com/watch?v=NALZOLTnC88
 
-212.  JavaScript Tutorial 10 - Identifiers in JavaScript  JavaScript Identifiers.ahk
+JavaScript Tutorial 10 - Identifiers in JavaScript  JavaScript Identifiers
 https://www.youtube.com/watch?v=UzKMBLWeQ-A
 
-213.  JavaScript Tutorial 11 - Variables in JavaScript  JavaScript Variables.ahk
+JavaScript Tutorial 11 - Variables in JavaScript  JavaScript Variables
 https://www.youtube.com/watch?v=7B_qGgJTpBA
 
-214.  JavaScript Tutorial 12 - Constants in JavaScript  JavaScript Constants.ahk
+JavaScript Tutorial 12 - Constants in JavaScript  JavaScript Constants
 https://www.youtube.com/watch?v=UBFdXlSewwg
 
-215.  JavaScript Tutorial 13 - Naming conventions for Variables & Constants in JavaScript.ahk
+JavaScript Tutorial 13 - Naming conventions for Variables & Constants in JavaScript
 https://www.youtube.com/watch?v=CZ9iNTLYhfw
 
-216.  JavaScript Tutorial 14 - Data Types in JavaScript  typeof Operator in JavaScript.ahk
+JavaScript Tutorial 14 - Data Types in JavaScript  typeof Operator in JavaScript
 https://www.youtube.com/watch?v=X4j8JidDyNc
 
-217.  JavaScript Tutorial 15 - Types of Data Types in JavaScript.ahk
+JavaScript Tutorial 15 - Types of Data Types in JavaScript
 https://www.youtube.com/watch?v=50xWUgJbdD4
 
-218.  JavaScript Tutorial 16 - Type Casting in JavaScript  JavaScript Type Conversions.ahk
+JavaScript Tutorial 16 - Type Casting in JavaScript  JavaScript Type Conversions
 https://www.youtube.com/watch?v=pTCGADi-RwY
 
-219.  JavaScript Tutorial 17 - parsetInt() Function in JavaScript  JavaScript parseInt() Function.ahk
+JavaScript Tutorial 17 - parsetInt() Function in JavaScript  JavaScript parseInt() Function
 https://www.youtube.com/watch?v=it9xbZHuOVE
 
-220.  JavaScript Tutorial 18 - parseFloat() Function in JavaScript  JavaScript parseFloat().ahk
+JavaScript Tutorial 18 - parseFloat() Function in JavaScript  JavaScript parseFloat()
 https://www.youtube.com/watch?v=3D2-cPFPiSg
 
-221.  JavaScript Tutorial 19 - eval() Function in JavaScript  JavaScript eval().ahk
+JavaScript Tutorial 19 - eval() Function in JavaScript  JavaScript eval()
 https://www.youtube.com/watch?v=3OUWWTzk-wk
 
-222.  JavaScript Tutorial 20 - Operators in JavaScript  JavaScript Operators.ahk
+JavaScript Tutorial 20 - Operators in JavaScript  JavaScript Operators
 https://www.youtube.com/watch?v=9HS5hFmbByY
 
-223.  JavaScript Tutorial 21 - Arithmetic Operators in JavaScript  JavaScript Arithmetic Operators.ahk
+JavaScript Tutorial 21 - Arithmetic Operators in JavaScript  JavaScript Arithmetic Operators
 https://www.youtube.com/watch?v=02bJiqHlkV0
 
-224.  JavaScript Tutorial 22 - Relational Operators in JavaScript  JavaScript Relational Operators.ahk
+JavaScript Tutorial 22 - Relational Operators in JavaScript  JavaScript Relational Operators
 https://www.youtube.com/watch?v=y09BLsIb8zg
 
-225.  JavaScript Tutorial 23 - Logical Operators in JavaScript  JavaScript Logical Operators.ahk
+JavaScript Tutorial 23 - Logical Operators in JavaScript  JavaScript Logical Operators
 https://www.youtube.com/watch?v=EHVAeORAh9U
 
-226.  JavaScript Tutorial 24 - Conditional Operator in JavaScript  JavaScript Ternary Operator.ahk
+JavaScript Tutorial 24 - Conditional Operator in JavaScript  JavaScript Ternary Operator
 https://www.youtube.com/watch?v=IZf6MCmUbGo
 
-227.  JavaScript Tutorial 25 - Assignment Operators in JavaScript  JavaScript Assignment Operators.ahk
+JavaScript Tutorial 25 - Assignment Operators in JavaScript  JavaScript Assignment Operators
 https://www.youtube.com/watch?v=YCq5wDAtLSI
 
-228.  JavaScript Tutorial 26 - Increment & Decrement Operators in JavaScript - Part 1.ahk
+JavaScript Tutorial 26 - Increment & Decrement Operators in JavaScript - Part 1
 https://www.youtube.com/watch?v=o51f8fUs9qw
 
-229.  JavaScript Tutorial 27 - Increment & Decrement Operators in JavaScript - Part 2.ahk
+JavaScript Tutorial 27 - Increment & Decrement Operators in JavaScript - Part 2
 https://www.youtube.com/watch?v=CqmkfaPelxg
 
-230.  JavaScript Tutorial 28 - Binary Number System Versus Decimal Number System.ahk
+JavaScript Tutorial 28 - Binary Number System Versus Decimal Number System
 https://www.youtube.com/watch?v=i_Qvly4bmO8
 
-231.  JavaScript Tutorial 29 - Bitwise Operators in JavaScript  JavaScript Bitwise Operators.ahk
+JavaScript Tutorial 29 - Bitwise Operators in JavaScript  JavaScript Bitwise Operators
 https://www.youtube.com/watch?v=S5zXjWLuiWQ
 
-232.  JavaScript Tutorial 30 - Special Operators in JavaScript  JavaScript Special Operators.ahk
+JavaScript Tutorial 30 - Special Operators in JavaScript  JavaScript Special Operators
 https://www.youtube.com/watch?v=CQEgWXW9Of0
 
-233.  JavaScript Tutorial 31 - Precedence & Associativity of Operators in JavaScript.ahk
+JavaScript Tutorial 31 - Precedence & Associativity of Operators in JavaScript
 https://www.youtube.com/watch?v=mJJI-CmArI0
 
-234.  JavaScript Tutorial 32 - Control Statements in JavaScript.ahk
+JavaScript Tutorial 32 - Control Statements in JavaScript
 https://www.youtube.com/watch?v=uu4eM04vvxc
 
-235.  JavaScript Tutorial 33 -  if Statement in JavaScript  if else Statement in JavaScript.ahk
+JavaScript Tutorial 33 -  if Statement in JavaScript  if else Statement in JavaScript
 https://www.youtube.com/watch?v=njGIrhoROOs
 
-236.  JavaScript Tutorial 34 - Ternary Operator vs. if else Statement in JavaScript.ahk
+JavaScript Tutorial 34 - Ternary Operator vs. if else Statement in JavaScript
 https://www.youtube.com/watch?v=Pcnspt2EhdA
 
-237.  JavaScript Tutorial 35 - if else if ladder statement in JavaScript.ahk
+JavaScript Tutorial 35 - if else if ladder statement in JavaScript
 https://www.youtube.com/watch?v=BIcszQ2l8mo
 
-238.  JavaScript Tutorial 36 - switch Statement in JavaScript  JavaScript switch case Statement.ahk
+JavaScript Tutorial 36 - switch Statement in JavaScript  JavaScript switch case Statement
 https://www.youtube.com/watch?v=wEOWESLWGWI
 
-239.  JavaScript Tutorial 37 - How to Trace or Debug JavaScript code  in Google chrome.ahk
+JavaScript Tutorial 37 - How to Trace or Debug JavaScript code  in Google chrome
 https://www.youtube.com/watch?v=ocqQrWT7cxs
 
-240.  JavaScript Tutorial 38 - How to Trace or Debug JavaScript code in Firefox.ahk
+JavaScript Tutorial 38 - How to Trace or Debug JavaScript code in Firefox
 https://www.youtube.com/watch?v=x5saQZF4frA
 
-241.  JavaScript Tutorial 39 - Looping Statements in JavaScript  JavaScript Loops or Iterations.ahk
+JavaScript Tutorial 39 - Looping Statements in JavaScript  JavaScript Loops or Iterations
 https://www.youtube.com/watch?v=FAIqPbpfZh0
 
-242.  JavaScript Tutorial 40 - for loop in JavaScript  JavaScript for loop.ahk
+JavaScript Tutorial 40 - for loop in JavaScript  JavaScript for loop
 https://www.youtube.com/watch?v=HsI9L1zR00I
 
-243.  JavaScript Tutorial 41 - Forward for loop in JavaScript  JavaScript Forward for loop.ahk
+JavaScript Tutorial 41 - Forward for loop in JavaScript  JavaScript Forward for loop
 https://www.youtube.com/watch?v=ah77Tlccw5E
 
-244.  JavaScript Tutorial 42 - Reverse for loop in JavaScript  JavaScript Reverse for loop.ahk
+JavaScript Tutorial 42 - Reverse for loop in JavaScript  JavaScript Reverse for loop
 https://www.youtube.com/watch?v=AqoFaBGxzZU
 
-245.  JavaScript Tutorial 43 - while loop in JavaScript  JavaScript while loop.ahk
+JavaScript Tutorial 43 - while loop in JavaScript  JavaScript while loop
 https://www.youtube.com/watch?v=3BWk6rs1bag
 
-246.  JavaScript Tutorial 44 - When to use while loop .ahk
+JavaScript Tutorial 44 - When to use while loop 
 https://www.youtube.com/watch?v=TM5dGI38fmc
 
-247.  JavaScript Tutorial 45 - Find sum of digits in a given number using while loop.ahk
+JavaScript Tutorial 45 - Find sum of digits in a given number using while loop
 https://www.youtube.com/watch?v=9QdF47ejKLM
 
-248.  JavaScript Tutorial 46 -  do while loop in JavaScript  JavaScript do while loop.ahk
+JavaScript Tutorial 46 -  do while loop in JavaScript  JavaScript do while loop
 https://www.youtube.com/watch?v=WHY5h5y9EY0
 
-249.  JavaScript Tutorial 47 - for in loop in JavaScript  JavaScript for in loop.ahk
+JavaScript Tutorial 47 - for in loop in JavaScript  JavaScript for in loop
 https://www.youtube.com/watch?v=0f1E5aJXtYA
 
-250.  JavaScript Tutorial 48 - break Statement in JavaScript  JavaScript break Statement.ahk
+JavaScript Tutorial 48 - break Statement in JavaScript  JavaScript break Statement
 https://www.youtube.com/watch?v=GiBdLRYmewY
 
-251.  JavaScript Tutorial 49 - When to use break statement in JavaScript .ahk
+JavaScript Tutorial 49 - When to use break statement in JavaScript 
 https://www.youtube.com/watch?v=a-dls6--uAc
 
-252.  JavaScript Tutorial 50 - continue Statement in JavaScript  JavaScript continue Statement.ahk
+JavaScript Tutorial 50 - continue Statement in JavaScript  JavaScript continue Statement
 https://www.youtube.com/watch?v=iXDnsgJxoZc
 
-253.  JavaScript Tutorial 51 - How to use continue statement inside while & do while loops.ahk
+JavaScript Tutorial 51 - How to use continue statement inside while & do while loops
 https://www.youtube.com/watch?v=pw6rEPHl3-A
 
-254.  JavaScript Tutorial 52 - Nested loops with Same max values in JavaScript.ahk
+JavaScript Tutorial 52 - Nested loops with Same max values in JavaScript
 https://www.youtube.com/watch?v=NJBfzzUj-ik
 
-255.  JavaScript Tutorial 53 - Nested loops with Different max values in JavaScript.ahk
+JavaScript Tutorial 53 - Nested loops with Different max values in JavaScript
 https://www.youtube.com/watch?v=CNHiiOFoCDc
 
-256.  JavaScript Tutorial 54 - Different Types of Loops in JavaScript.ahk
+JavaScript Tutorial 54 - Different Types of Loops in JavaScript
 https://www.youtube.com/watch?v=3PAkBfYysio
 
-257.  JavaScript Tutorial 55 - Print patterns of numbers and stars  Printing patterns in JavaScript.ahk
+JavaScript Tutorial 55 - Print patterns of numbers and stars  Printing patterns in JavaScript
 https://www.youtube.com/watch?v=5LzcfT2_3_E
 
-258.  JavaScript Tutorial 56 - Print pyramid patterns in JavaScript  Printing patterns in JavaScript.ahk
+JavaScript Tutorial 56 - Print pyramid patterns in JavaScript  Printing patterns in JavaScript
 https://www.youtube.com/watch?v=ItOmYp9AKOA
 
-259.  JavaScript Tutorial 57 - Functions in JavaScript  JavaScript Function Declaration.ahk
+JavaScript Tutorial 57 - Functions in JavaScript  JavaScript Function Declaration
 https://www.youtube.com/watch?v=y9OsxaOLre4
 
-260.  JavaScript Tutorial 58 - Type of functions in JavaScript.ahk
+JavaScript Tutorial 58 - Type of functions in JavaScript
 https://www.youtube.com/watch?v=RKntUtyvLhc
 
-261.  JavaScript Tutorial 59 - Function Expressions in JavaScript  JavaScript Function Expressions.ahk
+JavaScript Tutorial 59 - Function Expressions in JavaScript  JavaScript Function Expressions
 https://www.youtube.com/watch?v=gSC2WFw6NEQ
 
-262.  JavaScript Tutorial 60 - Function Declarations vs Function Expressions in JavaScript.ahk
+JavaScript Tutorial 60 - Function Declarations vs Function Expressions in JavaScript
 https://www.youtube.com/watch?v=A_LMI1l0j0w
 
-263.  JavaScript Tutorial 61 - Function Constructors in JavaScript  JavaScript Function Constructor.ahk
+JavaScript Tutorial 61 - Function Constructors in JavaScript  JavaScript Function Constructor
 https://www.youtube.com/watch?v=w2WEnsHQzfU
 
-264.  JavaScript Tutorial 62 - IIFE ( Immediately Invoked Function Expression ) in JavaScript.ahk
+JavaScript Tutorial 62 - IIFE ( Immediately Invoked Function Expression ) in JavaScript
 https://www.youtube.com/watch?v=-UlVB8MiSjY
 
-265.  JavaScript Tutorial 63 - Local scope  Vs. Global scope in JavaScript  JavaScript Scope of Variables.ahk
+JavaScript Tutorial 63 - Local scope  Vs. Global scope in JavaScript  JavaScript Scope of Variables
 https://www.youtube.com/watch?v=xoZurg_ulSs
 
-266.  JavaScript Tutorial 64 - Functions Vs. Call Stack in JavaScript.ahk
+JavaScript Tutorial 64 - Functions Vs. Call Stack in JavaScript
 https://www.youtube.com/watch?v=P6H-T4cUDR4
 
-267.  JavaScript Tutorial 65 - Calling a function inside another function in JavaScript.ahk
+JavaScript Tutorial 65 - Calling a function inside another function in JavaScript
 https://www.youtube.com/watch?v=9r8Om4SJRVo
 
-268.  JavaScript Tutorial 66 - Find factorial of a number using for loop in JavaScript.ahk
+JavaScript Tutorial 66 - Find factorial of a number using for loop in JavaScript
 https://www.youtube.com/watch?v=Q82q3xFF-Uc
 
-269.  JavaScript Tutorial 67 - Find factorial of a number using recursive function in JavaScript.ahk
+JavaScript Tutorial 67 - Find factorial of a number using recursive function in JavaScript
 https://www.youtube.com/watch?v=5e9oClJ_U5o
 
-270.  JavaScript Tutorial 68 - What are Objects in General .ahk
+JavaScript Tutorial 68 - What are Objects in General 
 https://www.youtube.com/watch?v=rvsFNwgj890
 
-271.  JavaScript Tutorial 69 - Objects in JavaScript  JavaScript Objects.ahk
+JavaScript Tutorial 69 - Objects in JavaScript  JavaScript Objects
 https://www.youtube.com/watch?v=2SgSnhVxzQA
 
-272.  JavaScript Tutorial 70 - Types of Objects in JavaScript.ahk
+JavaScript Tutorial 70 - Types of Objects in JavaScript
 https://www.youtube.com/watch?v=V6ixHIsKkOE
 
-273.  JavaScript Tutorial 71 - How to create Objects in JavaScript .ahk
+JavaScript Tutorial 71 - How to create Objects in JavaScript 
 https://www.youtube.com/watch?v=DLTCnLREn0I
 
-274.  JavaScript Tutorial 72 - How to create Objects using Object constructor in JavaScript.ahk
+JavaScript Tutorial 72 - How to create Objects using Object constructor in JavaScript
 https://www.youtube.com/watch?v=sgLNZJO4_0w
 
-275.  JavaScript Tutorial 73 - How to Add or Delete a Property of an Object in JavaScript.ahk
+JavaScript Tutorial 73 - How to Add or Delete a Property of an Object in JavaScript
 https://www.youtube.com/watch?v=mRRFBTtQ3w8
 
-276.  JavaScript Tutorial 74 - How to Set or Get Object properties in JavaScript.ahk
+JavaScript Tutorial 74 - How to Set or Get Object properties in JavaScript
 https://www.youtube.com/watch?v=oHgy9kSf81A
 
-277.  JavaScript Tutorial 75 - Object Literal vs Object Constructor in JavaScript.ahk
+JavaScript Tutorial 75 - Object Literal vs Object Constructor in JavaScript
 https://www.youtube.com/watch?v=VM3fEUx_4wU
 
-278.  JavaScript Tutorial 76 - Advantages of Object Literal notation in JavaScript.ahk
+JavaScript Tutorial 76 - Advantages of Object Literal notation in JavaScript
 https://www.youtube.com/watch?v=Uiv8EA3LpMM
 
-279.  JavaScript Tutorial 77 - Constructor Functions in JavaScript  JavaScript Constructor Functions.ahk
+JavaScript Tutorial 77 - Constructor Functions in JavaScript  JavaScript Constructor Functions
 https://www.youtube.com/watch?v=E0OzbYU0F0E
 
-280.  JavaScript Tutorial 78 - How to create Objects using Constructor function in JavaScript.ahk
+JavaScript Tutorial 78 - How to create Objects using Constructor function in JavaScript
 https://www.youtube.com/watch?v=bZrCmidWQbY
 
-281.  JavaScript Tutorial 79 - this Keyword in JavaScript  JavaScript this Keyword.ahk
+JavaScript Tutorial 79 - this Keyword in JavaScript  JavaScript this Keyword
 https://www.youtube.com/watch?v=3OyIiMlQbnE
 
-282.  JavaScript Tutorial 80 - Difference between prototype and _proto__ in JavaScript.ahk
+JavaScript Tutorial 80 - Difference between prototype and _proto__ in JavaScript
 https://www.youtube.com/watch?v=tOuJUDk6zls
 
-283.  JavaScript Tutorial 81 - How to use Math object in JavaScript  JavaScript Math Object.ahk
+JavaScript Tutorial 81 - How to use Math object in JavaScript  JavaScript Math Object
 https://www.youtube.com/watch?v=ecY89JjU28o
 
-284.  JavaScript Tutorial 82 - Date object in JavaScript  JavaScript Date Object.ahk
+JavaScript Tutorial 82 - Date object in JavaScript  JavaScript Date Object
 https://www.youtube.com/watch?v=Qy8nvsTsWUk
 
-285.  JavaScript Tutorial 83 - How to create Date Objects in JavaScript.ahk
+JavaScript Tutorial 83 - How to create Date Objects in JavaScript
 https://www.youtube.com/watch?v=xYtuBOD-oAI
 
-286.  JavaScript Tutorial 84 - How to Display Dates in different formats in JavaScript.ahk
+JavaScript Tutorial 84 - How to Display Dates in different formats in JavaScript
 https://www.youtube.com/watch?v=h5562JtJizE
 
-287.  JavaScript Tutorial 85 - Date Object Getter Methods in JavaScript.ahk
+JavaScript Tutorial 85 - Date Object Getter Methods in JavaScript
 https://www.youtube.com/watch?v=mL5wjIJjdpk
 
-288.  JavaScript Tutorial 86 - How to create Strings in JavaScript  JavaScript Strings.ahk
+JavaScript Tutorial 86 - How to create Strings in JavaScript  JavaScript Strings
 https://www.youtube.com/watch?v=_Qt9XK5AeHQ
 
-289.  JavaScript Tutorial 87 - String Methods in JavaScript  JavaScript String Methods.ahk
+JavaScript Tutorial 87 - String Methods in JavaScript  JavaScript String Methods
 https://www.youtube.com/watch?v=Gr5jmSNSkWc
 
-290.  JavaScript Tutorial Build Flappy Bird and Doodle Jump.ahk
+JavaScript Tutorial Build Flappy Bird and Doodle Jump
 https://www.youtube.com/watch?v=8xPsg6yv7TU
 
-291.  JavaScript Tutorial for Beginners Learn JavaScript in 1 Hour.ahk
+JavaScript Tutorial for Beginners Learn JavaScript in 1 Hour
 https://www.youtube.com/watch?v=W6NZfCO5SIk
 
-292.  JavaScript Tutorial Run JavaScript in Sublime Text with a NodeJS Build System.ahk
+JavaScript Tutorial Run JavaScript in Sublime Text with a NodeJS Build System
 https://www.youtube.com/watch?v=1iPs43TppOY
 
-293.  JavaScript Value vs Reference Types.ahk
+JavaScript Value vs Reference Types
 https://www.youtube.com/watch?v=fD0t_DKREbE
 
-294.  Learn JavaScript - Full Course for Beginners.ahk
+Learn JavaScript - Full Course for Beginners
 https://www.youtube.com/watch?v=PkZNo7MFNFg
 
-295.  Learn JavaScript by Building 7 Games - Full Course.ahk
+Learn JavaScript by Building 7 Games - Full Course
 https://www.youtube.com/watch?v=lhNdUVh3qCc
 
-296.  Learn JavaScript Loops in 10 Minutes (1314438).ahk
+Learn JavaScript Loops in 10 Minutes (1314438)
 https://www.youtube.com/watch?v=LuAWFium1nk
 
-297.  Learn JavaScript Loops in 10 Minutes.ahk
+Learn JavaScript Loops in 10 Minutes
 https://www.youtube.com/watch?v=LuAWFium1nk
 
-298.  Learn Regular Expressions (Regex) - Crash Course for Beginners.ahk
+Learn Regular Expressions (Regex) - Crash Course for Beginners
 https://www.youtube.com/watch?v=ZfQFUJhPqMM
 
-299.  Learn XML.ahk
+Learn XML
 HTTP Requests in JavaScript | AJAX Tutorial	https://www.youtube.com/watch?v=rjmtYkRK1nM
 
-300.  Let vs. Const in JavaScript  - What's the Difference.ahk
+Let vs. Const in JavaScript  - What's the Difference
 https://www.youtube.com/watch?v=RE6qf3As-XU
 
-301.  let vs. var in JavaScript - What's the difference.ahk
+let vs. var in JavaScript - What's the difference
 https://www.youtube.com/watch?v=watN0fbZeI0
 
-302.  Load JSON dynamically using AJAX  XM.ahk
+Load JSON dynamically using AJAX  XM
 HttpRequest Tutorial | For API Use	https://www.youtube.com/watch?v=W6NsAO08vmE
 
-303.  Loading data into HTML Tables using AJAX - JavaScript Tutorial.ahk
+Loading data into HTML Tables using AJAX - JavaScript Tutorial
 https://www.youtube.com/watch?v=12tjh_6xL2M
 
-304.  Looping Over Objects - JavaScript Tutorial.ahk
+Looping Over Objects - JavaScript Tutorial
 https://www.youtube.com/watch?v=tVq4L8tnWuA
 
-305.  Make your table rows clickable (with a link) - Web Design Tutorial.ahk
+Make your table rows clickable (with a link) - Web Design Tutorial
 https://www.youtube.com/watch?v=6BdKUO2QbA0
 
-306.  Maps in Javascript (Map Object).ahk
+Maps in Javascript (Map Object)
 https://www.youtube.com/watch?v=hYu6TCCk8Yo
 
-307.  Memory Card Game - JavaScript Tutorial.ahk
+Memory Card Game - JavaScript Tutorial
 https://www.youtube.com/watch?v=ZniVgo8U7ek
 
-308.  Node 'contains' method in JavaScript DOM  Node.prototype.contains() Explained.ahk
+Node 'contains' method in JavaScript DOM  Node.prototype.contains() Explained
 https://www.youtube.com/watch?v=XlfEKxbUX8M
 
-309.  Node.cloneNode - Javascript DOM.ahk
+Node.cloneNode - Javascript DOM
 https://www.youtube.com/watch?v=Ap3FzanT1nQ
 
-310.  Node.insertBefore (Insert Before) Method - Javascript DOM.ahk
+Node.insertBefore (Insert Before) Method - Javascript DOM
 https://www.youtube.com/watch?v=FGS6j8MtT6U
 
-311.  Node.nextElementSibling Property - Javascript DOM.ahk
+Node.nextElementSibling Property - Javascript DOM
 https://www.youtube.com/watch?v=mvuCqykYLXo
 
-312.  Nullish Coalescing Operator - JavaScript Tutorial (1396693).ahk
+Nullish Coalescing Operator - JavaScript Tutorial (1396693)
 https://www.youtube.com/watch?v=GbHVrOObGcs
 
-313.  Nullish Coalescing Operator - JavaScript Tutorial.ahk
+Nullish Coalescing Operator - JavaScript Tutorial
 https://www.youtube.com/watch?v=GbHVrOObGcs
 
-314.  Object Destructuring in Javascript.ahk
+Object Destructuring in Javascript
 https://www.youtube.com/watch?v=G4T2ZgJPKbw
 
-315.  Object Spread Syntax - JavaScript Tutorial.ahk
+Object Spread Syntax - JavaScript Tutorial
 https://www.youtube.com/watch?v=MpnzQozwLGI
 
-316.  Object-oriented Programming in JavaScript Made Super Simple  Mosh.ahk
+Object-oriented Programming in JavaScript Made Super Simple  Mosh
 https://www.youtube.com/watch?v=PFmuCDHHpwk
 
-317.  Observer Design Pattern in Javascript  Design Patterns Tutorial.ahk
+Observer Design Pattern in Javascript  Design Patterns Tutorial
 https://www.youtube.com/watch?v=T-xfEbDORng
 
-318.  Online & Offline Events in JavaScript.ahk
+Online & Offline Events in JavaScript
 https://www.youtube.com/watch?v=dRapkZmErdw
 
-319.  Optional Chaining Operator (.) in JavaScript.ahk
+Optional Chaining Operator (.) in JavaScript
 https://www.youtube.com/watch?v=RA8RHgzPokk
 
-320.  outerHTML in the JavaScript DOM.ahk
+outerHTML in the JavaScript DOM
 https://www.youtube.com/watch?v=eHGIoU7pAAU
 
-321.  padStart and padEnd in JavaScript  ECMAScript 2017 New Features.ahk
+padStart and padEnd in JavaScript  ECMAScript 2017 New Features
 https://www.youtube.com/watch?v=QhHX6fis7Wc
 
-322.  Passing by reference vs. by value - JavaScript Tutorial.ahk
+Passing by reference vs. by value - JavaScript Tutorial
 https://www.youtube.com/watch?v=SCNFVzF75x8
 
-323.  PIN Pad Login Screen in JavaScript - HTML, CSS & JavaScript Tutorial (Project Video).ahk
+PIN Pad Login Screen in JavaScript - HTML, CSS & JavaScript Tutorial (Project Video)
 https://www.youtube.com/watch?v=wWh8hwgeAMw
 
-324.  Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial (1289236).ahk
+Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial (1289236)
 https://www.youtube.com/watch?v=okm9MAduLas
 
-325.  Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial (1954680).ahk
+Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial (1954680)
 https://www.youtube.com/watch?v=okm9MAduLas
 
-326.  Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial.ahk
+Prepend multiple elements at once using prepend() - JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=okm9MAduLas
 
-327.  Prevent Default Explained in JavaScript  e.preventDefault() - Tutorial For Beginners.ahk
+Prevent Default Explained in JavaScript  e.preventDefault() - Tutorial For Beginners
 https://www.youtube.com/watch?v=3SNyh57XSIA
 
-328.  Previewing Image Before File Upload On Websites - HTML, CSS & JavaScript Tutorial.ahk
+Previewing Image Before File Upload On Websites - HTML, CSS & JavaScript Tutorial
 https://www.youtube.com/watch?v=VElnT8EoEEM
 
-329.  Promise.all() Function in JavaScript - Aggregate multiple promises!.ahk
+Promise.all() Function in JavaScript - Aggregate multiple promises!
 https://www.youtube.com/watch?v=SyL1thdXmlE
 
-330.  Real-time Data Updates with Fetch API - JavaScript Tutorial.ahk
+Real-time Data Updates with Fetch API - JavaScript Tutorial
 https://www.youtube.com/watch?v=E0UGGxd2DOo
 
-331.  Render HTML dynamically using AJAX - JavaScript Tutorial.ahk
+Render HTML dynamically using AJAX - JavaScript Tutorial
 https://www.youtube.com/watch?v=cva5NQTnbu4
 
-332.  Retrieving a List of Child Nodes with the 'childNodes' property - JavaScript DOM Tutorial.ahk
+Retrieving a List of Child Nodes with the 'childNodes' property - JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=nFnTfg7POZA
 
-333.  Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1592136).ahk
+Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1592136)
 https://www.youtube.com/watch?v=mh8sxQ3fYx8
 
-334.  Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1618979).ahk
+Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1618979)
 https://www.youtube.com/watch?v=mh8sxQ3fYx8
 
-335.  Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1838843).ahk
+Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1 (1838843)
 https://www.youtube.com/watch?v=mh8sxQ3fYx8
 
-336.  Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1.ahk
+Rewriting JavaScript From 8 Years Ago! - Code Rewrite #1
 https://www.youtube.com/watch?v=mh8sxQ3fYx8
 
-337.  Scrolling with animations using window.scrollTo - JavaScript Tutorial (1644060).ahk
+Scrolling with animations using window.scrollTo - JavaScript Tutorial (1644060)
 https://www.youtube.com/watch?v=rylc4zPmz2g
 
-338.  Scrolling with animations using window.scrollTo - JavaScript Tutorial.ahk
+Scrolling with animations using window.scrollTo - JavaScript Tutorial
 https://www.youtube.com/watch?v=rylc4zPmz2g
 
-339.  Send Data Between Tabs and Windows! - Broadcast Channel API in JavaScript.ahk
+Send Data Between Tabs and Windows! - Broadcast Channel API in JavaScript
 https://www.youtube.com/watch?v=wYcvzLFHFN0
 
-340.  Sending Form Data (POST) with the Fetch API in JavaScript.ahk
+Sending Form Data (POST) with the Fetch API in JavaScript
 https://www.youtube.com/watch?v=c3qWHnJJbSY
 
-341.  Sending JSON data with the Fetch API - JavaScript Tutorial.ahk
+Sending JSON data with the Fetch API - JavaScript Tutorial
 https://www.youtube.com/watch?v=ycmci-hiPfQ
 
-342.  Sending JSON with AJAXXM.ahk
+Sending JSON with AJAXXM
 HttpRequest - JavaScript Tutorial	https://www.youtube.com/watch?v=mNrJDGfQGz0
 
-343.  Sending POST data with AJAX in JavaScript.ahk
+Sending POST data with AJAX in JavaScript
 https://www.youtube.com/watch?v=PIKrh5ofQF0
 
-344.  Sets in Javascript (Set Object).ahk
+Sets in Javascript (Set Object)
 https://www.youtube.com/watch?v=nGOnfYNo8F4
 
-345.  Simon Game JavaScript Tutorial for Beginners.ahk
+Simon Game JavaScript Tutorial for Beginners
 https://www.youtube.com/watch?v=n_ec3eowFLQ
 
-346.  Sorting Arrays in JavaScript (Array.prototype.sort) - Tutorial For Beginners.ahk
+Sorting Arrays in JavaScript (Array.prototype.sort) - Tutorial For Beginners
 https://www.youtube.com/watch?v=BbuLjEqFlw0
 
-347.  Spread Syntax in Javascript.ahk
+Spread Syntax in Javascript
 https://www.youtube.com/watch?v=m-yLo3mh4To
 
-348.  Storing objects with Local Storage in JavaScript.ahk
+Storing objects with Local Storage in JavaScript
 https://www.youtube.com/watch?v=AUOzvFzdIk4
 
-349.  Template Literals in Javascript.ahk
+Template Literals in Javascript
 https://www.youtube.com/watch?v=-RWaq07BOWg
 
-350.  The 'apply' method in JavaScript  Function Apply Explained.ahk
+The 'apply' method in JavaScript  Function Apply Explained
 https://www.youtube.com/watch?v=lQtDH0kW6II
 
-351.  The 'call' method in JavaScript  Function Call Explained.ahk
+The 'call' method in JavaScript  Function Call Explained
 https://www.youtube.com/watch?v=CCb96W92A54
 
-352.  The 'window.parent' property  JavaScript DOM Tutorial.ahk
+The 'window.parent' property  JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=6NNe6GWO8us
 
-353.  The Arguments Object in Functions - JavaScript Tutorial.ahk
+The Arguments Object in Functions - JavaScript Tutorial
 https://www.youtube.com/watch?v=eS0SStuHj-Q
 
-354.  The Date Object - Getting, Setting & Formatting Dates in JavaScript - Tutorial For Beginners.ahk
+The Date Object - Getting, Setting & Formatting Dates in JavaScript - Tutorial For Beginners
 https://www.youtube.com/watch?v=-eRsWqwcPuk
 
-355.  The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course.ahk
+The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course
 https://www.youtube.com/watch?v=kzWIUX3CpuI
 
-356.  The Object.assign() Method in JavaScript - Set default options for functions.ahk
+The Object.assign() Method in JavaScript - Set default options for functions
 https://www.youtube.com/watch?v=JmGJUzNsGFs
 
-357.  The Remainder Operator in JavaScript  Modulo `%.ahk
+The Remainder Operator in JavaScript  Modulo `%
 https://www.youtube.com/watch?v=JfHEtou8qb4
 
-358.  The scroll event in JavaScript  window.onscroll.ahk
+The scroll event in JavaScript  window.onscroll
 https://www.youtube.com/watch?v=V9CY0F4Wc7M
 
-359.  The String 'repeat()' method in JavaScript  String.prototype.repeat.ahk
+The String 'repeat()' method in JavaScript  String.prototype.repeat
 https://www.youtube.com/watch?v=-bUKWkLuDwQ
 
-360.  The submit event on forms in JavaScript.ahk
+The submit event on forms in JavaScript
 https://www.youtube.com/watch?v=I_fVO_NzT2g
 
-361.  The valueOf() method in JavaScript - Returning Primitive Values.ahk
+The valueOf() method in JavaScript - Returning Primitive Values
 https://www.youtube.com/watch?v=kOe2x9q4h5o
 
-362.  Toggle HTML Attributes Using toggleAttribute() - JavaScript DOM Tutorial.ahk
+Toggle HTML Attributes Using toggleAttribute() - JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=03ji9O6gWCM
 
-363.  Top 5 Awesome JavaScript Array Functions.ahk
+Top 5 Awesome JavaScript Array Functions
 https://www.youtube.com/watch?v=9_Qz3_fskas
 
-364.  Top 5 JavaScript Console Features ?????.ahk
+Top 5 JavaScript Console Features ?????
 https://www.youtube.com/watch?v=VsaDOHqTWCM
 
-365.  typeof Operator - JavaScript Tutorial.ahk
+typeof Operator - JavaScript Tutorial
 https://www.youtube.com/watch?v=LrI02dTkeRo
 
-366.  Upload files with Fetch - JavaScript Tutorial.ahk
+Upload files with Fetch - JavaScript Tutorial
 https://www.youtube.com/watch?v=cei2Ch683q0
 
-367.  Upload multiple files with AJAXXM.ahk
+Upload multiple files with AJAXXM
 HttpRequest - JavaScript Tutorial	https://www.youtube.com/watch?v=dBIfkRzJGOM
 
-368.  Upload multiple files with Fetch - JavaScript Tutorial.ahk
+Upload multiple files with Fetch - JavaScript Tutorial
 https://www.youtube.com/watch?v=6JR8HI9Ymd8
 
-369.  URLSearchParams in JavaScript - Constructing Query Strings.ahk
+URLSearchParams in JavaScript - Constructing Query Strings
 https://www.youtube.com/watch?v=-D5YGTkTBH4
 
-370.  Using AsyncAwait with the Fetch API - JavaScript Tutorial.ahk
+Using AsyncAwait with the Fetch API - JavaScript Tutorial
 https://www.youtube.com/watch?v=Yp9KIcSKTNo
 
-371.  Using JSON Like a Pro with toJson() in JavaScript.ahk
+Using JSON Like a Pro with toJson() in JavaScript
 https://www.youtube.com/watch?v=4Rl7dPXG12s
 
-372.  Using Object.entries() - JavaScript Tutorial For Beginners.ahk
+Using Object.entries() - JavaScript Tutorial For Beginners
 https://www.youtube.com/watch?v=KoeSseqKKro
 
-373.  Using the 'onblur' event in JavaScript  Event Listeners Explained.ahk
+Using the 'onblur' event in JavaScript  Event Listeners Explained
 https://www.youtube.com/watch?v=waaV2SyoA7o
 
-374.  Using the Array copyWithin method - JavaScript Tutorial.ahk
+Using the Array copyWithin method - JavaScript Tutorial
 https://www.youtube.com/watch?v=V8ce-QBxD5E
 
-375.  Using the elementFromPoint() method - JavaScript DOM Tutorial (1574021).ahk
+Using the elementFromPoint() method - JavaScript DOM Tutorial (1574021)
 https://www.youtube.com/watch?v=ZO_nqVhhst0
 
-376.  Using the elementFromPoint() method - JavaScript DOM Tutorial.ahk
+Using the elementFromPoint() method - JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=ZO_nqVhhst0
 
-377.  Using the Fetch API with URLSearchParams in JavaScript.ahk
+Using the Fetch API with URLSearchParams in JavaScript
 https://www.youtube.com/watch?v=BOQ9mmUd3dI
 
-378.  Using the File API on Upload Forms - JavaScript Tutorial.ahk
+Using the File API on Upload Forms - JavaScript Tutorial
 https://www.youtube.com/watch?v=lbb4FS_mjU0
 
-379.  Using the Geolocation API - JavaScript Tutorial.ahk
+Using the Geolocation API - JavaScript Tutorial
 https://www.youtube.com/watch?v=916M64DuRnk
 
-380.  Using the History API - JavaScript Tutorial.ahk
+Using the History API - JavaScript Tutorial
 https://www.youtube.com/watch?v=4GqUAaLgpgs
 
-381.  Using the isEqualNode() Method - JavaScript DOM Tutorial (1511609).ahk
+Using the isEqualNode() Method - JavaScript DOM Tutorial (1511609)
 https://www.youtube.com/watch?v=l8BBdtsjV44
 
-382.  Using the isEqualNode() Method - JavaScript DOM Tutorial.ahk
+Using the isEqualNode() Method - JavaScript DOM Tutorial
 https://www.youtube.com/watch?v=l8BBdtsjV44
 
-383.  Using the onfocus event in JavaScript  JavaScript Events Explained.ahk
+Using the onfocus event in JavaScript  JavaScript Events Explained
 https://www.youtube.com/watch?v=NidqbNEAEIk
 
-384.  Using the setInterval() function in JavaScript.ahk
+Using the setInterval() function in JavaScript
 https://www.youtube.com/watch?v=ubLC1JxMqfY
 
-385.  Using the setSelectionRange() method - JavaScript Tutorial.ahk
+Using the setSelectionRange() method - JavaScript Tutorial
 https://www.youtube.com/watch?v=o9aw4W-dRQM
 
-386.  Using the String.replace() method - JavaScript Tutorial.ahk
+Using the String.replace() method - JavaScript Tutorial
 https://www.youtube.com/watch?v=ZYPqPoijCAQ
 
-387.  Vibrate mobile devices with JavaScript - The Vibration API.ahk
+Vibrate mobile devices with JavaScript - The Vibration API
 https://www.youtube.com/watch?v=lNdniJ7BVJ0
 
-388.  Virtual Keyboard in JavaScript - HTML, CSS & JavaScript Tutorial (Project Video).ahk
+Virtual Keyboard in JavaScript - HTML, CSS & JavaScript Tutorial (Project Video)
 https://www.youtube.com/watch?v=N3cq0BHDMOY
 
-389.  Web App Tutorial - JavaScript, Mobile First, Accessibility, Persistent Data, Sass.ahk
+Web App Tutorial - JavaScript, Mobile First, Accessibility, Persistent Data, Sass
 https://www.youtube.com/watch?v=y51Cv4wnsPw
 
-390.  Web Development Tutorial - JavaScript,  HTML, CSS - Rock Paper Scissors Game.ahk
+Web Development Tutorial - JavaScript,  HTML, CSS - Rock Paper Scissors Game
 https://www.youtube.com/watch?v=jaVNP3nIAv0
 
-391.  What are Callback Functions  JavaScript Tutorial.ahk
+What are Callback Functions  JavaScript Tutorial
 https://www.youtube.com/watch?v=3O_RRVqm6Zg
 
-392.  What are Data URLs - Data URLs Explained with JavaScript Examples.ahk
+What are Data URLs - Data URLs Explained with JavaScript Examples
 https://www.youtube.com/watch?v=ipoLqQCEQMs
 
-393.  What is Focus & Blur in HTML, CSS & JavaScript - Beginner's Web Dev Tutorial.ahk
+What is Focus & Blur in HTML, CSS & JavaScript - Beginner's Web Dev Tutorial
 https://www.youtube.com/watch?v=AdaomMXmpYg
 
-394.  What is JavaScript.ahk
+What is JavaScript
 https://www.youtube.com/watch?v=upDLs1sn7g4
 
-395.  What is the DOMParser - JavaScript Tutorial.ahk
+What is the DOMParser - JavaScript Tutorial
 https://www.youtube.com/watch?v=mW34Gc9c6JY
 
-396.  What is the querySelector method in JavaScript  Document.querySelector() Explained.ahk
+What is the querySelector method in JavaScript  Document.querySelector() Explained
 https://www.youtube.com/watch?v=3oOKAJTD2F8
 
-397.  What is the querySelectorAll method in JavaScript  Document.querySelectorAll() Explained.ahk
+What is the querySelectorAll method in JavaScript  Document.querySelectorAll() Explained
 https://www.youtube.com/watch?v=D7sNpAiNMQM
 
-398.  What is the XMLSerializer - JavaScript Tutorial.ahk
+What is the XMLSerializer - JavaScript Tutorial
 https://www.youtube.com/watch?v=ViAqTyz5HHs
 
-399.  Wrap AJAX in a Promise - JavaScript Promises Tutorial.ahk
+Wrap AJAX in a Promise - JavaScript Promises Tutorial
 https://www.youtube.com/watch?v=MYOaw8ZrwGU
 
-400.  Write your own simple AJAX GET Function in JavaScript.ahk
+Write your own simple AJAX GET Function in JavaScript
 https://www.youtube.com/watch?v=Mqq89P5-v7U
 JavaScript Tutorials

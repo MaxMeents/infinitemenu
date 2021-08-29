@@ -1,160 +1,160 @@
 
-1.  AJAX Crash Course (Vanilla JavaScript).ahk
+AJAX Crash Course (Vanilla JavaScript)
 https://www.youtube.com/watch?v=82hnvUYY6QA
 
-2.  Animate Your Font Awesome Icons With JavaScript.ahk
+Animate Your Font Awesome Icons With JavaScript
 https://www.youtube.com/watch?v=XP-MRCUPZao
 
-3.  Animated Counter With JavaScript (HTML, CSS).ahk
+Animated Counter With JavaScript (HTML, CSS)
 https://www.youtube.com/watch?v=a6XIMIKmj9k
 
-4.  Async JS Crash Course - Callbacks, Promises, Async Await.ahk
+Async JS Crash Course - Callbacks, Promises, Async Await
 https://www.youtube.com/watch?v=PoRJizFvM7s
 
-5.  Breathe & Relax App - JavaScript & CSS Animations.ahk
+Breathe & Relax App - JavaScript & CSS Animations
 https://www.youtube.com/watch?v=l-1ZrU6avzI
 
-6.  Build A Filterable List With Vanilla JavaScript.ahk
+Build A Filterable List With Vanilla JavaScript
 https://www.youtube.com/watch?v=G1eW3Oi6uoc
 
-7.  Build a Music Player  Vanilla JavaScript.ahk
+Build a Music Player  Vanilla JavaScript
 https://www.youtube.com/watch?v=QTHRWGn_sJw
 
-8.  Build A Pet Find App  JS, Parcel, Babel, Fetch-JSONP.ahk
+Build A Pet Find App  JS, Parcel, Babel, Fetch-JSONP
 https://www.youtube.com/watch?v=XH7ha_MNnXc
 
-9.  Build a Reddit Search App With ES6, Fetch & Parcel.ahk
+Build a Reddit Search App With ES6, Fetch & Parcel
 https://www.youtube.com/watch?v=VITzIZB-bXU
 
-10.  Build A Speed Typing Game In JavaScript.ahk
+Build A Speed Typing Game In JavaScript
 https://www.youtube.com/watch?v=Yw-SYSG-028
 
-11.  Build a Touch Slider with HTML, CSS & JavaScript.ahk
+Build a Touch Slider with HTML, CSS & JavaScript
 https://www.youtube.com/watch?v=5bxFSOA5JYo
 
-12.  Build Minesweeper with JavaScript.ahk
+Build Minesweeper with JavaScript
 https://www.youtube.com/watch?v=W0No1JDc6vE
 
-13.  Build Pac-Man Game With JavaScript.ahk
+Build Pac-Man Game With JavaScript
 https://www.youtube.com/watch?v=YBtzzVwrTeE
 
-14.  Create a Custom PDF Viewer With JavaScript.ahk
+Create a Custom PDF Viewer With JavaScript
 https://www.youtube.com/watch?v=ydCSSgwZjzs
 
-15.  Create a Modal With HTML, CSS & JavaScript.ahk
+Create a Modal With HTML, CSS & JavaScript
 https://www.youtube.com/watch?v=6ophW7Ask_0
 
-16.  Drag & Drop With Vanilla JS.ahk
+Drag & Drop With Vanilla JS
 https://www.youtube.com/watch?v=C22hQKE_32c
 
-17.  Dynamic Landing Page  JavaScript.ahk
+Dynamic Landing Page  JavaScript
 https://www.youtube.com/watch?v=fSTQzlprGLI
 
-18.  Easy Frontend JS Workflow With No Framework.ahk
+Easy Frontend JS Workflow With No Framework
 https://www.youtube.com/watch?v=8rD9amRSOQY
 
-19.  Facebook Login & Graph API  JavaScript SDK.ahk
+Facebook Login & Graph API  JavaScript SDK
 https://www.youtube.com/watch?v=gXux8b3wcYw
 
-20.  Fancy Form UI From Scratch -  HTML, CSS3, JS & Sass.ahk
+Fancy Form UI From Scratch -  HTML, CSS3, JS & Sass
 https://www.youtube.com/watch?v=AiTdhLc8JCo
 
-21.  Fetch API Introduction.ahk
+Fetch API Introduction
 https://www.youtube.com/watch?v=Oive66jrwBs
 
-22.  Forward Head Posture Excersies.ahk
+Forward Head Posture Excersies
 https://www.youtube.com/watch?v=DE_SS1F9sWA
 
-23.  Full Screen Image Slider With HTML, CSS & JS.ahk
+Full Screen Image Slider With HTML, CSS & JS
 https://www.youtube.com/watch?v=7ZO2RTMNSAY
 
-24.  Full Screen Responsive Image Slider  No Libraries.ahk
+Full Screen Responsive Image Slider  No Libraries
 https://www.youtube.com/watch?v=wWWNrANNO1k
 
-25.  Future Content, How I Got Started With Youtube and Q&A.ahk
+Future Content, How I Got Started With Youtube and Q&A
 https://www.youtube.com/watch?v=s2KctKdAKuI
 
-26.  Google Geocode API & JavaScript Tutorial.ahk
+Google Geocode API & JavaScript Tutorial
 https://www.youtube.com/watch?v=pRiQeo17u6c
 
-27.  Google Maps JavaScript API Tutorial.ahk
+Google Maps JavaScript API Tutorial
 https://www.youtube.com/watch?v=Zxf1mnP5zcw
 
-28.  JavaScript BookList App  No Frameworks.ahk
+JavaScript BookList App  No Frameworks
 https://www.youtube.com/watch?v=JaMCxVWtW58
 
-29.  JavaScript Crash Course For Beginners.ahk
+JavaScript Crash Course For Beginners
 https://www.youtube.com/watch?v=hdI2bqOjy3c
 
-30.  JavaScript DOM Crash Course - Part 1.ahk
+JavaScript DOM Crash Course - Part 1
 https://www.youtube.com/watch?v=0ik6X4DJKCc
 
-31.  JavaScript DOM Crash Course - Part 2.ahk
+JavaScript DOM Crash Course - Part 2
 https://www.youtube.com/watch?v=mPd2aJXCZ2g
 
-32.  JavaScript DOM Crash Course - Part 3.ahk
+JavaScript DOM Crash Course - Part 3
 https://www.youtube.com/watch?v=wK2cBMcDTss
 
-33.  JavaScript DOM Crash Course - Part 4 [Final Project].ahk
+JavaScript DOM Crash Course - Part 4 [Final Project]
 https://www.youtube.com/watch?v=i37KVt_IcXw
 
-34.  JavaScript Higher Order Functions & Arrays.ahk
+JavaScript Higher Order Functions & Arrays
 https://www.youtube.com/watch?v=rRgD1yVwIvE
 
-35.  JavaScript OOP Crash Course (ES5 & ES6).ahk
+JavaScript OOP Crash Course (ES5 & ES6)
 https://www.youtube.com/watch?v=vDJpGenyHaA
 
-36.  JavaScript Password Generator.ahk
+JavaScript Password Generator
 https://www.youtube.com/watch?v=duNmhKgtcsI
 
-37.  JavaScript Zipcode App Using Fetch & Bulma CSS.ahk
+JavaScript Zipcode App Using Fetch & Bulma CSS
 https://www.youtube.com/watch?v=K3GfUH7AZKs
 
-38.  Learn JavaScript By Building A Bookmarker Application.ahk
+Learn JavaScript By Building A Bookmarker Application
 https://www.youtube.com/watch?v=DIVfDZZeGxM
 
-39.  Modern Image Gallery With ES6 Vanilla JavaScript.ahk
+Modern Image Gallery With ES6 Vanilla JavaScript
 https://www.youtube.com/watch?v=afoxd5b0bJo
 
-40.  Multiplayer Snake Game  JavaScript & Socket.io.ahk
+Multiplayer Snake Game  JavaScript & Socket.io
 https://www.youtube.com/watch?v=ppcBIHv_ZPs
 
-41.  Pure JavaScript Type Writer Effect.ahk
+Pure JavaScript Type Writer Effect
 https://www.youtube.com/watch?v=POX3dT-pB4E
 
-42.  Quick Autocomplete App With JS & JSON.ahk
+Quick Autocomplete App With JS & JSON
 https://www.youtube.com/watch?v=1iysNUrI3lw
 
-43.  Responsive Coming Soon Landing Page With Countdown.ahk
+Responsive Coming Soon Landing Page With Countdown
 https://www.youtube.com/watch?v=NNpwqrvPyyU
 
-44.  Rock Paper Scissors Game - UI & JavaScript.ahk
+Rock Paper Scissors Game - UI & JavaScript
 https://www.youtube.com/watch?v=WR_pWXJZiRY
 
-45.  Simple JavaScript Slideshow In 5 Minutes.ahk
+Simple JavaScript Slideshow In 5 Minutes
 https://www.youtube.com/watch?v=4YQ4svkETS0
 
-46.  Simple Weight Converter App With JavaScript & Bootstrap 4.ahk
+Simple Weight Converter App With JavaScript & Bootstrap 4
 https://www.youtube.com/watch?v=7l-ZAuU8TXc
 
-47.  Star Ratings With JavaScript & Font Awesome.ahk
+Star Ratings With JavaScript & Font Awesome
 https://www.youtube.com/watch?v=u3rylF3y3og
 
-48.  Text To Speech & Synthesis App - JavaScript & Web Speech API.ahk
+Text To Speech & Synthesis App - JavaScript & Web Speech API
 https://www.youtube.com/watch?v=ZORXxxP49G8
 
-49.  Use Babel & Webpack To Compile ES2015 - ES2017.ahk
+Use Babel & Webpack To Compile ES2015 - ES2017
 https://www.youtube.com/watch?v=iWUR04B42Hc
 
-50.  Vanilla JavaScript Search App  Wikipedia API.ahk
+Vanilla JavaScript Search App  Wikipedia API
 https://www.youtube.com/watch?v=Dk6Wopar10k
 
-51.  Vanilla JS Number Facts App - Ajax & Fetch.ahk
+Vanilla JS Number Facts App - Ajax & Fetch
 https://www.youtube.com/watch?v=tUE2Nic21BA
 
-52.  Web Components Crash Course.ahk
+Web Components Crash Course
 https://www.youtube.com/watch?v=PCWaFLy3VUo
 
-53.  YouTube API Project With Authentication.ahk
+YouTube API Project With Authentication
 https://www.youtube.com/watch?v=r-yxNNO1EI8
 Vanilla JavaScript

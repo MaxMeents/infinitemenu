@@ -1,28 +1,28 @@
 
-1.  2-Tone
+2-Tone
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/2-Tone/2-Tone.txt
 
-2.  Dancehall
+Dancehall
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Dancehall/Dancehall.txt
 
-3.  Dub
+Dub
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Dub/Dub.txt
 
-4.  Lovers Rock
+Lovers Rock
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Lovers_Rock/Lovers_Rock.txt
 
-5.  Raggamuffin
+Raggamuffin
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Raggamuffin/Raggamuffin.txt
 
-6.  Reggae en Español
+Reggae en Español
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Reggae_en_Español/Reggae_en_Español.txt
 
-7.  Reggae Fusion
+Reggae Fusion
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Reggae_Fusion/Reggae_Fusion.txt
 
-8.  Roots Reggae
+Roots Reggae
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Roots_Reggae/Roots_Reggae.txt
 
-9.  Ska
+Ska
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Ska/Ska.txt
 Reggae

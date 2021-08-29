@@ -1,25 +1,25 @@
 
-1.  AmsterdamUMCdb, Europe’s first open ICU database - Paul Elbers @Pod of Asclepius.ahk
+AmsterdamUMCdb, Europe’s first open ICU database - Paul Elbers @Pod of Asclepius
 https://www.youtube.com/watch?v=Iw7jVcqsmnw
 
-2.  Critical Reasoning in Data Science (Kristin Morgan & Glen Wright Colopy) Philosophy of Data Science.ahk
+Critical Reasoning in Data Science (Kristin Morgan & Glen Wright Colopy) Philosophy of Data Science
 https://www.youtube.com/watch?v=o5YmdoCiyug
 
-3.  Data Science & Anomaly Detection for Sports Injury  Kristin Morgan.ahk
+Data Science & Anomaly Detection for Sports Injury  Kristin Morgan
 https://www.youtube.com/watch?v=I1tO_gt1Cxk
 
-4.  Glen Wright Colopy Patient Vital Sign Monitoring with Gaussian Processes - Pod of Asclepius.ahk
+Glen Wright Colopy Patient Vital Sign Monitoring with Gaussian Processes - Pod of Asclepius
 https://www.youtube.com/watch?v=9c5lBUCWAfQ
 
-5.  Glen Wright Colopy Vital Sign Artefact Detection with Simple Machine Learning - Pod of Asclepius.ahk
+Glen Wright Colopy Vital Sign Artefact Detection with Simple Machine Learning - Pod of Asclepius
 https://www.youtube.com/watch?v=sBpB-YpAfh4
 
-6.  Irina Gaynanova  Replicating Clinical Metrics & Innovating New Methods  Philosophy of Data Science.ahk
+Irina Gaynanova  Replicating Clinical Metrics & Innovating New Methods  Philosophy of Data Science
 https://www.youtube.com/watch?v=TVX66NixIrA
 
-7.  Karel Moons  Validating Medical Predictive Models  Philosophy of Data Science.ahk
+Karel Moons  Validating Medical Predictive Models  Philosophy of Data Science
 https://www.youtube.com/watch?v=Y6Qik_5hZog
 
-8.  Shane Burns Data Platforms to Monitor Animal Health  - Pod of Asclepius.ahk
+Shane Burns Data Platforms to Monitor Animal Health  - Pod of Asclepius
 https://www.youtube.com/watch?v=8uPu-vHahdc
 Data Science for Patient Monitoring

@@ -1,1039 +1,1039 @@
 
-1.  2 Variable Non Linear Systems AdditionElimination Method.ahk
+2 Variable Non Linear Systems AdditionElimination Method
 https://www.youtube.com/watch?v=HzCfZqcumQo
 
-2.  2 Variable Non Linear Systems Substitution Method.ahk
+2 Variable Non Linear Systems Substitution Method
 https://www.youtube.com/watch?v=YmehUdNeQOc
 
-3.  2003 AIME II problem 8  AIME  Math for fun and glory  Khan Academy.ahk
+2003 AIME II problem 8  AIME  Math for fun and glory  Khan Academy
 https://www.youtube.com/watch?v=ZFN63oTeYzc
 
-4.  3 Variable Systems Parabola Equation Given 3 Points, Investment Word Problem.ahk
+3 Variable Systems Parabola Equation Given 3 Points, Investment Word Problem
 https://www.youtube.com/watch?v=myBAIjMIXK8
 
-5.  A Review of Radical Functions.ahk
+A Review of Radical Functions
 https://www.youtube.com/watch?v=ANll0vDNNvY
 
-6.  Absolute and Local Extrema.ahk
+Absolute and Local Extrema
 https://www.youtube.com/watch?v=R91CRGrwQFs
 
-7.  Absolute Value Equations and Inequalities (Part 1).ahk
+Absolute Value Equations and Inequalities (Part 1)
 https://www.youtube.com/watch?v=_QteX41EnJo
 
-8.  Absolute Value Equations and Inequalities (Part 2).ahk
+Absolute Value Equations and Inequalities (Part 2)
 https://www.youtube.com/watch?v=LBwRmTQpOb4
 
-9.  Ambiguous Case for Law of Sines, Please read description.ahk
+Ambiguous Case for Law of Sines, Please read description
 https://www.youtube.com/watch?v=57nlvT_o8uw
 
-10.  Angles.mov.ahk
+Angles.mov
 https://www.youtube.com/watch?v=j9Bi6tlXLAI
 
-11.  Application of Ellipses.ahk
+Application of Ellipses
 https://www.youtube.com/watch?v=1Ve7MTeniYs
 
-12.  Application of Hyperbolas.ahk
+Application of Hyperbolas
 https://www.youtube.com/watch?v=XACQ95mTll0
 
-13.  Applications of Law of Sines and Cosines.ahk
+Applications of Law of Sines and Cosines
 https://www.youtube.com/watch?v=qMS0yOoF2c4
 
-14.  Applications of Parabolas in Standard Form.ahk
+Applications of Parabolas in Standard Form
 https://www.youtube.com/watch?v=tZbrlvcd94E
 
-15.  Arc Length and The Area of a Sector.ahk
+Arc Length and The Area of a Sector
 https://www.youtube.com/watch?v=5axmtbi1VRo
 
-16.  Area of oblique triangles SAS SSS Heron's Formula.ahk
+Area of oblique triangles SAS SSS Heron's Formula
 https://www.youtube.com/watch?v=pyftYzmOwr4
 
-17.  Arithmetic Sequence Introduction.ahk
+Arithmetic Sequence Introduction
 https://www.youtube.com/watch?v=rtTRJC9iNFA
 
-18.  Arithmetic Sequence Partial Sum Advanced Example.ahk
+Arithmetic Sequence Partial Sum Advanced Example
 https://www.youtube.com/watch?v=-WGRK42AV_A
 
-19.  Asymptotes of Rational Functions.ahk
+Asymptotes of Rational Functions
 https://www.youtube.com/watch?v=IQ_Y_Qv03CA
 
-20.  Average Rate of Change.ahk
+Average Rate of Change
 https://www.youtube.com/watch?v=Xk99AGZ1Vy8
 
-21.  Basic complex analysis  Imaginary and complex numbers  Precalculus  Khan Academy.ahk
+Basic complex analysis  Imaginary and complex numbers  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=FwuPXchH2rA
 
-22.  Basic graphing with a TI-NSPIRE.ahk
+Basic graphing with a TI-NSPIRE
 https://www.youtube.com/watch?v=ET5zd1oYAAA
 
-23.  Benford's law explanation (sequel to mysteries of Benford's law)  Algebra II  Khan Academy.ahk
+Benford's law explanation (sequel to mysteries of Benford's law)  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=SZUDoEdjTzg
 
-24.  Binomial Theorem (part 1).ahk
+Binomial Theorem (part 1)
 https://www.youtube.com/watch?v=Cv4YhIMfbeM
 
-25.  Binomial Theorem (part 2).ahk
+Binomial Theorem (part 2)
 https://www.youtube.com/watch?v=-fFWWt1m9k0
 
-26.  Binomial theorem combinatorics connection  Algebra II  Khan Academy.ahk
+Binomial theorem combinatorics connection  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=xF_hJaXUNfE
 
-27.  Binomial Theorem Introduction to Raise Binomials to High Powers.ahk
+Binomial Theorem Introduction to Raise Binomials to High Powers
 https://www.youtube.com/watch?v=G8dHmjgzVFM
 
-28.  Calculus - Functions (KristaKingMath).ahk
+Calculus - Functions (KristaKingMath)
 https://www.youtube.com/watch?v=SLOihnjfQtM
 
-29.  Change of Base Formula Logarithms.ahk
+Change of Base Formula Logarithms
 https://www.youtube.com/watch?v=-YdDWWokOqQ
 
-30.  Change of Base Formula.ahk
+Change of Base Formula
 https://www.youtube.com/watch?v=LJ0RtM_QpMw
 
-31.  Circles (1 of 2).mov.ahk
+Circles (1 of 2).mov
 https://www.youtube.com/watch?v=juzY16fhE_Q
 
-32.  Circles (2 of 2).mov.ahk
+Circles (2 of 2).mov
 https://www.youtube.com/watch?v=9n4e_43uDbE
 
-33.  Combinations of functions and their domains (KristaKingMath).ahk
+Combinations of functions and their domains (KristaKingMath)
 https://www.youtube.com/watch?v=I8Iul0Om-t4
 
-34.  Combinations.ahk
+Combinations
 https://www.youtube.com/watch?v=bCxMhncR7PU
 
-35.  Combining Functions & Function Operations.ahk
+Combining Functions & Function Operations
 https://www.youtube.com/watch?v=UFSKBNvBdUk
 
-36.  Combining Square Root Functions & Domain 4 Examples.ahk
+Combining Square Root Functions & Domain 4 Examples
 https://www.youtube.com/watch?v=BmjCRwBs138
 
-37.  Completing the square of a quadratic function (KristaKingMath).ahk
+Completing the square of a quadratic function (KristaKingMath)
 https://www.youtube.com/watch?v=nzHp2o8bMnI
 
-38.  Complex (imaginary) Numbers Part 1.ahk
+Complex (imaginary) Numbers Part 1
 https://www.youtube.com/watch?v=2LgMw_LgTe4
 
-39.  Complex conjugates  Imaginary and complex numbers  Precalculus  Khan Academy.ahk
+Complex conjugates  Imaginary and complex numbers  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=BZxZ_eEuJBM
 
-40.  Complex determinant example  Imaginary and complex numbers  Precalculus  Khan Academy.ahk
+Complex determinant example  Imaginary and complex numbers  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=E7OkUomRq1Q
 
-41.  Complex Numbers in Polar Form.ahk
+Complex Numbers in Polar Form
 https://www.youtube.com/watch?v=wed_lYcslRM
 
-42.  Complex Solutions (imaginary) Part 2 of Parabola Quadratic Equation.ahk
+Complex Solutions (imaginary) Part 2 of Parabola Quadratic Equation
 https://www.youtube.com/watch?v=eliOsy3LzAs
 
-43.  Complex Zeros.ahk
+Complex Zeros
 https://www.youtube.com/watch?v=PucGP419p4Y
 
-44.  Composite functions (KristaKingMath).ahk
+Composite functions (KristaKingMath)
 https://www.youtube.com/watch?v=tmbFk2jG6RE
 
-45.  Composite functions and their domains (KristaKingMath).ahk
+Composite functions and their domains (KristaKingMath)
 https://www.youtube.com/watch?v=1RFwSXXVDKk
 
-46.  Composition of Functions (1367562).ahk
+Composition of Functions (1367562)
 https://www.youtube.com/watch?v=T6-Zdr5w_bE
 
-47.  Composition of Functions.ahk
+Composition of Functions
 https://www.youtube.com/watch?v=GdvbrXg3iOQ
 
-48.  Compound interest and e (part 2)  Exponential and logarithmic functions  Algebra II  Khan Academy.ahk
+Compound interest and e (part 2)  Exponential and logarithmic functions  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=dzMvqJMLy9c
 
-49.  Compound interest and e (part 3)  Exponential and logarithmic functions  Algebra II  Khan Academy.ahk
+Compound interest and e (part 3)  Exponential and logarithmic functions  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=sQYpUJV8foY
 
-50.  Compound interest and e (part 4)  Exponential and logarithmic functions  Algebra II  Khan Academy.ahk
+Compound interest and e (part 4)  Exponential and logarithmic functions  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=VAxHMTJRhmY
 
-51.  Compound Interest.ahk
+Compound Interest
 https://www.youtube.com/watch?v=zMeqDnxNcio
 
-52.  Conics - General Equation and Eccentricity.mov.ahk
+Conics - General Equation and Eccentricity.mov
 https://www.youtube.com/watch?v=hIFOHezw5ik
 
-53.  Converting Coordinates between Polar and Rectangular Form.ahk
+Converting Coordinates between Polar and Rectangular Form
 https://www.youtube.com/watch?v=YodvraMFQEs
 
-54.  Converting Equations Between Polar & Rectangular Form.ahk
+Converting Equations Between Polar & Rectangular Form
 https://www.youtube.com/watch?v=t2SvNC-3Q5Y
 
-55.  Converting Repeating Decimal to a Fraction.ahk
+Converting Repeating Decimal to a Fraction
 https://www.youtube.com/watch?v=BwQ_IYUQgV0
 
-56.  Counting Principle, Permutations, and Combinations.ahk
+Counting Principle, Permutations, and Combinations
 https://www.youtube.com/watch?v=AIESE6pnODo
 
-57.  Cramer's Rule Solving Systems of Equations.ahk
+Cramer's Rule Solving Systems of Equations
 https://www.youtube.com/watch?v=MM5L3a1xjTg
 
-58.  De Moivre's Theorem powers of Polar Complex Numbers.ahk
+De Moivre's Theorem powers of Polar Complex Numbers
 https://www.youtube.com/watch?v=l5CQGJQs6BQ
 
-59.  De Moivre's Theorem Roots of Polar Complex Numbers.ahk
+De Moivre's Theorem Roots of Polar Complex Numbers
 https://www.youtube.com/watch?v=xPn8pHCZL18
 
-60.  Definition of a Polynomial Function.ahk
+Definition of a Polynomial Function
 https://www.youtube.com/watch?v=xzcwzBiD5w8
 
-61.  Definition of Logarithm.ahk
+Definition of Logarithm
 https://www.youtube.com/watch?v=TOoXH_IwUx0
 
-62.  Derivation of Sum and Difference Identities.ahk
+Derivation of Sum and Difference Identities
 https://www.youtube.com/watch?v=zcEMKv5yIYs
 
-63.  Describing transformations algebraically (KristaKingMath).ahk
+Describing transformations algebraically (KristaKingMath)
 https://www.youtube.com/watch?v=hYHzXILOEdM
 
-64.  Determinant of Square Matrices.ahk
+Determinant of Square Matrices
 https://www.youtube.com/watch?v=BXzYYfYqeYM
 
-65.  Determinants.ahk
+Determinants
 https://www.youtube.com/watch?v=MtYDuSXoQfE
 
-66.  Determine whether a function is 1 to 1 (KristaKingMath).ahk
+Determine whether a function is 1 to 1 (KristaKingMath)
 https://www.youtube.com/watch?v=9b8Xd77f-qk
 
-67.  Determining Domain of Functions.ahk
+Determining Domain of Functions
 https://www.youtube.com/watch?v=99_y9LWBCeM
 
-68.  Determining if a function is even, odd or neither (KristaKingMath).ahk
+Determining if a function is even, odd or neither (KristaKingMath)
 https://www.youtube.com/watch?v=DxaUcs2BigQ
 
-69.  Difference Quotient.ahk
+Difference Quotient
 https://www.youtube.com/watch?v=1mlkc3Pfxu4
 
-70.  Domain of Rational Functions & Decomposing Functions.ahk
+Domain of Rational Functions & Decomposing Functions
 https://www.youtube.com/watch?v=DHlyRlQ1HdY
 
-71.  Dot Product & Angle Between Vectors.ahk
+Dot Product & Angle Between Vectors
 https://www.youtube.com/watch?v=p8BZTFNSKIw
 
-72.  Double Angle Identities.ahk
+Double Angle Identities
 https://www.youtube.com/watch?v=z0RdYBAgnnQ
 
-73.  Ellipses (1 of 2).mov.ahk
+Ellipses (1 of 2).mov
 https://www.youtube.com/watch?v=rRsqJvD5Wb0
 
-74.  Ellipses (2 of 2).mov.ahk
+Ellipses (2 of 2).mov
 https://www.youtube.com/watch?v=IWZmsSzxeD8
 
-75.  End Behavior of a Polynomial Function.ahk
+End Behavior of a Polynomial Function
 https://www.youtube.com/watch?v=PSGL95nQBy8
 
-76.  Equation Modeling (KristaKingMath).ahk
+Equation Modeling (KristaKingMath)
 https://www.youtube.com/watch?v=2fSsdrN2KmU
 
-77.  Equation of a line in point-slope form (KristaKingMath).ahk
+Equation of a line in point-slope form (KristaKingMath)
 https://www.youtube.com/watch?v=DqBs4cokM-Y
 
-78.  Equation of Sine and Cosine from a Graph.ahk
+Equation of Sine and Cosine from a Graph
 https://www.youtube.com/watch?v=tZ-25bp24pE
 
-79.  Equation of the line in slope-intercept form (KristaKingMath).ahk
+Equation of the line in slope-intercept form (KristaKingMath)
 https://www.youtube.com/watch?v=W3cPHQfWKh8
 
-80.  Equations of Lines and Graphing.ahk
+Equations of Lines and Graphing
 https://www.youtube.com/watch?v=Wmi1EysOHUQ
 
-81.  Equations of Lines.ahk
+Equations of Lines
 https://www.youtube.com/watch?v=oAmSSHt-o8A
 
-82.  Equations of Parallel and Perpendicular Lines.ahk
+Equations of Parallel and Perpendicular Lines
 https://www.youtube.com/watch?v=ECljEiIgX_M
 
-83.  Evaluating Inverse Trigonometric Functions Full Length PLEASE READ DESCRIPTION.ahk
+Evaluating Inverse Trigonometric Functions Full Length PLEASE READ DESCRIPTION
 https://www.youtube.com/watch?v=hxjmtDXXCzU
 
-84.  Evaluating Inverse Trigonometric Functions.ahk
+Evaluating Inverse Trigonometric Functions
 https://www.youtube.com/watch?v=7t_pZGGxMdE
 
-85.  Evaluating Trig Functions w Unit Circle Degrees & Radians.ahk
+Evaluating Trig Functions w Unit Circle Degrees & Radians
 https://www.youtube.com/watch?v=NO4H4YROdqk
 
-86.  Evaluating Trigonometry Expressions with Half and Double Angles Pt1.ahk
+Evaluating Trigonometry Expressions with Half and Double Angles Pt1
 https://www.youtube.com/watch?v=9gQdkOasPZM
 
-87.  Evaluating Trigonometry Expressions with Half and Double Angles Pt2.ahk
+Evaluating Trigonometry Expressions with Half and Double Angles Pt2
 https://www.youtube.com/watch?v=RCl4VGGQS-U
 
-88.  Even and Odd Functions Many Examples.ahk
+Even and Odd Functions Many Examples
 https://www.youtube.com/watch?v=WJvwUaRQdiY
 
-89.  Even and Odd Functions.ahk
+Even and Odd Functions
 https://www.youtube.com/watch?v=oKKcIK_PgEk
 
-90.  Even Odd Polynomial Functions & Symmetry.ahk
+Even Odd Polynomial Functions & Symmetry
 https://www.youtube.com/watch?v=K2HPNROK3VQ
 
-91.  Exponential Equations.ahk
+Exponential Equations
 https://www.youtube.com/watch?v=U125h7w-iiA
 
-92.  Exponential form to find complex roots  Imaginary and complex numbers  Precalculus  Khan Academy.ahk
+Exponential form to find complex roots  Imaginary and complex numbers  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=N0Y8ia57C24
 
-93.  Exponential Functions.ahk
+Exponential Functions
 https://www.youtube.com/watch?v=Dh3ZZbqg0yE
 
-94.  Exponential Growth and Decay.ahk
+Exponential Growth and Decay
 https://www.youtube.com/watch?v=7vtV6-dsiV0
 
-95.  Exponential Growth.ahk
+Exponential Growth
 https://www.youtube.com/watch?v=JWfTckls59k
 
-96.  Factorial Notation.ahk
+Factorial Notation
 https://www.youtube.com/watch?v=yFsx2O_W1dU
 
-97.  Factoring Overview.ahk
+Factoring Overview
 https://www.youtube.com/watch?v=rL2MCdPy1cA
 
-98.  Factoring Polynomials by Grouping.ahk
+Factoring Polynomials by Grouping
 https://www.youtube.com/watch?v=9hSZEzBmG6M
 
-99.  Finding Derivative with Definition of Derivative Calculus 1 AB.ahk
+Finding Derivative with Definition of Derivative Calculus 1 AB
 https://www.youtube.com/watch?v=z_cMiuEITbg
 
-100.  Finding Equations of Conics from Given Conditions.ahk
+Finding Equations of Conics from Given Conditions
 https://www.youtube.com/watch?v=aPo_Hakv36o
 
-101.  Finding Limits with Properties includes Quotient Rule Calculus 1 AB.ahk
+Finding Limits with Properties includes Quotient Rule Calculus 1 AB
 https://www.youtube.com/watch?v=-vFRc_2HCbQ
 
-102.  Finding polynomials using the Linear Factorization Theorem.ahk
+Finding polynomials using the Linear Factorization Theorem
 https://www.youtube.com/watch?v=vTJX40V4QIA
 
-103.  Finding Real limits Graphical & Numerical Approach Calculus 1 AB.ahk
+Finding Real limits Graphical & Numerical Approach Calculus 1 AB
 https://www.youtube.com/watch?v=IEfoQeWm8Fc
 
-104.  Finding the linear function given two points on its inverse (KristaKingMath).ahk
+Finding the linear function given two points on its inverse (KristaKingMath)
 https://www.youtube.com/watch?v=qoXAZ85gXNg
 
-105.  Finding the Zeros of a Polynomial Function.ahk
+Finding the Zeros of a Polynomial Function
 https://www.youtube.com/watch?v=bphVEfDIWQc
 
-106.  Finding values and domain and range from a graph (KristaKingMath).ahk
+Finding values and domain and range from a graph (KristaKingMath)
 https://www.youtube.com/watch?v=CTQK6Sthn7k
 
-107.  Finding vertical asymptotes and holes of rational equations.ahk
+Finding vertical asymptotes and holes of rational equations
 https://www.youtube.com/watch?v=qkUnSomHZdg
 
-108.  Function inverse example 1  Functions and their graphs  Algebra II  Khan Academy.ahk
+Function inverse example 1  Functions and their graphs  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=wSiamij_i_k
 
-109.  Function inverses example 2  Functions and their graphs  Algebra II  Khan Academy.ahk
+Function inverses example 2  Functions and their graphs  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=aeyFb2eVH1c
 
-110.  Function inverses example 3  Functions and their graphs  Algebra II  Khan Academy.ahk
+Function inverses example 3  Functions and their graphs  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=Bq9cq9FZuNM
 
-111.  Function Notation.ahk
+Function Notation
 https://www.youtube.com/watch?v=OdZNRFpq78U
 
-112.  Function vs Relation.ahk
+Function vs Relation
 https://www.youtube.com/watch?v=oFwRPH0JrFY
 
-113.  Functions A Graphical View.ahk
+Functions A Graphical View
 https://www.youtube.com/watch?v=jQMBnDvvXNo
 
-114.  Fundamental Trigonometric Identities Intro & Proofs.ahk
+Fundamental Trigonometric Identities Intro & Proofs
 https://www.youtube.com/watch?v=W6GbAtk08Vo
 
-115.  Fundamental Trigonometric Identities.mov.ahk
+Fundamental Trigonometric Identities.mov
 https://www.youtube.com/watch?v=gZHHI7O9vLg
 
-116.  Geometric Means in a Geometric Sequence.ahk
+Geometric Means in a Geometric Sequence
 https://www.youtube.com/watch?v=74FhBDfmKjw
 
-117.  Graphing 1 Variable Inequalities.ahk
+Graphing 1 Variable Inequalities
 https://www.youtube.com/watch?v=Ux44j5hBwq8
 
-118.  Graphing Ellipses & Circles.ahk
+Graphing Ellipses & Circles
 https://www.youtube.com/watch?v=Ux8gEMccP9w
 
-119.  Graphing Exponential Functions w t-table or Transformations.ahk
+Graphing Exponential Functions w t-table or Transformations
 https://www.youtube.com/watch?v=C5jnasB2x5Y
 
-120.  Graphing Hyperbolas in Standard Form.ahk
+Graphing Hyperbolas in Standard Form
 https://www.youtube.com/watch?v=dn1o6lpu_Sk
 
-121.  Graphing Linear Inequalities 3 Examples.ahk
+Graphing Linear Inequalities 3 Examples
 https://www.youtube.com/watch?v=exsYE7X-sd4
 
-122.  Graphing Logarithmic Functions with Transformations 3 Examples.ahk
+Graphing Logarithmic Functions with Transformations 3 Examples
 https://www.youtube.com/watch?v=Y-yonLqEdzU
 
-123.  Graphing Logarithms.ahk
+Graphing Logarithms
 https://www.youtube.com/watch?v=GT6AYjgoFco
 
-124.  Graphing Non-Linear Inequalities.ahk
+Graphing Non-Linear Inequalities
 https://www.youtube.com/watch?v=ilIeKAAKhJI
 
-125.  Graphing Parabolas in Standard Form.ahk
+Graphing Parabolas in Standard Form
 https://www.youtube.com/watch?v=icfex6aaWVk
 
-126.  Graphing Parabolas w vertex & intercepts.ahk
+Graphing Parabolas w vertex & intercepts
 https://www.youtube.com/watch?v=eFZOnAcuVLM
 
-127.  Graphing Polar Equations, Test for Symmetry & 4 Examples Corrected.ahk
+Graphing Polar Equations, Test for Symmetry & 4 Examples Corrected
 https://www.youtube.com/watch?v=qEOsR1G57So
 
-128.  Graphing Rational Functions Part 1.ahk
+Graphing Rational Functions Part 1
 https://www.youtube.com/watch?v=LFjf22W9RBo
 
-129.  Graphing Rational Functions Part 2.ahk
+Graphing Rational Functions Part 2
 https://www.youtube.com/watch?v=K6YcEAMs_eU
 
-130.  Graphing Rational Functions with Slant Asymptotes.ahk
+Graphing Rational Functions with Slant Asymptotes
 https://www.youtube.com/watch?v=y7KuUwydVZE
 
-131.  Graphing Rational Functions.ahk
+Graphing Rational Functions
 https://www.youtube.com/watch?v=fz6SrUgnjFQ
 
-132.  Graphing Secant & Cosecant w t-table.ahk
+Graphing Secant & Cosecant w t-table
 https://www.youtube.com/watch?v=EAyDXQnkPmY
 
-133.  Graphing Sine & Cosine wout a Calculator Pt 2.ahk
+Graphing Sine & Cosine wout a Calculator Pt 2
 https://www.youtube.com/watch?v=c1VD_LEs5ZY
 
-134.  Graphing Sine & Cosine wout a Calculator Pt1.ahk
+Graphing Sine & Cosine wout a Calculator Pt1
 https://www.youtube.com/watch?v=yR7y8hyOpDU
 
-135.  Graphing System of Linear Inequalities.ahk
+Graphing System of Linear Inequalities
 https://www.youtube.com/watch?v=0klWkroviGc
 
-136.  Graphs of Sine and Cosine (1 of 3).ahk
+Graphs of Sine and Cosine (1 of 3)
 https://www.youtube.com/watch?v=g0chNfTFr_Y
 
-137.  Graphs of Sine and Cosine (2 of 3).ahk
+Graphs of Sine and Cosine (2 of 3)
 https://www.youtube.com/watch?v=y71yc0eL8yw
 
-138.  Graphs of Sine and Cosine (3 of 3).ahk
+Graphs of Sine and Cosine (3 of 3)
 https://www.youtube.com/watch?v=N3OI5OXUDZo
 
-139.  Graphs of Sine and Cosine - An Introduction.mov.ahk
+Graphs of Sine and Cosine - An Introduction.mov
 https://www.youtube.com/watch?v=wTs_z8gxwdQ
 
-140.  Half-Angle Identities.ahk
+Half-Angle Identities
 https://www.youtube.com/watch?v=RDH_RiihX6k
 
-141.  Horizontal and Vertical Lines.ahk
+Horizontal and Vertical Lines
 https://www.youtube.com/watch?v=V4uWRmXMsmA
 
-142.  Horizontal and Vertical Translations.ahk
+Horizontal and Vertical Translations
 https://www.youtube.com/watch?v=9DIIOAYYIAw
 
-143.  Horizontal Asymptotes of Rational Equations.ahk
+Horizontal Asymptotes of Rational Equations
 https://www.youtube.com/watch?v=6HZ1QnNbkf0
 
-144.  How to classify functions (KristaKingMath).ahk
+How to classify functions (KristaKingMath)
 https://www.youtube.com/watch?v=REHdL9K5hOY
 
-145.  How to find DOMAIN AND RANGE for a function (KristaKingMath).ahk
+How to find DOMAIN AND RANGE for a function (KristaKingMath)
 https://www.youtube.com/watch?v=MnfYLGjauFc
 
-146.  How to find the CENTER AND RADIUS of a circle (KristaKingMath).ahk
+How to find the CENTER AND RADIUS of a circle (KristaKingMath)
 https://www.youtube.com/watch?v=RMegIVU1SlU
 
-147.  How to find the INVERSE OF A FUNCTION (KristaKingMath).ahk
+How to find the INVERSE OF A FUNCTION (KristaKingMath)
 https://www.youtube.com/watch?v=OllihuiUwzI
 
-148.  How to remember the unit circle (KristaKingMath).ahk
+How to remember the unit circle (KristaKingMath)
 https://www.youtube.com/watch?v=RS6qmQXP8fc
 
-149.  Hyperbolas (1 of 3).mov.ahk
+Hyperbolas (1 of 3).mov
 https://www.youtube.com/watch?v=j_sIIKcjmfU
 
-150.  Hyperbolas (2 of 3).mov.ahk
+Hyperbolas (2 of 3).mov
 https://www.youtube.com/watch?v=oQJj4RwsmV0
 
-151.  Hyperbolas (3 of 3).mov.ahk
+Hyperbolas (3 of 3).mov
 https://www.youtube.com/watch?v=Ju5-fVbegI8
 
-152.  Hyperbolic identities (KristaKingMath).ahk
+Hyperbolic identities (KristaKingMath)
 https://www.youtube.com/watch?v=PUeGgqijskA
 
-153.  Identifying Domain and Range from a Graph.ahk
+Identifying Domain and Range from a Graph
 https://www.youtube.com/watch?v=1UAKQ_2yfxI
 
-154.  Increasing, Decreasing, Constant.ahk
+Increasing, Decreasing, Constant
 https://www.youtube.com/watch?v=kKsWbhFvoy0
 
-155.  Induction Divisibility Proof.ahk
+Induction Divisibility Proof
 https://www.youtube.com/watch?v=CjD2KppNRxg
 
-156.  Induction Inequality Proof.ahk
+Induction Inequality Proof
 https://www.youtube.com/watch?v=mJlRZM9AXT4
 
-157.  Induction Proofs.ahk
+Induction Proofs
 https://www.youtube.com/watch?v=IYW4iszVH3w
 
-158.  Infinite Sum Geometric Series.ahk
+Infinite Sum Geometric Series
 https://www.youtube.com/watch?v=lIYc8TYxbY8
 
-159.  Interest (part 2)  Interest and debt  Finance & Capital Markets  Khan Academy.ahk
+Interest (part 2)  Interest and debt  Finance & Capital Markets  Khan Academy
 https://www.youtube.com/watch?v=t4zfiBw0hwM
 
-160.  Interval and Set Notation.ahk
+Interval and Set Notation
 https://www.youtube.com/watch?v=wmX1PI-Rs-8
 
-161.  Intro Tangent & Cotangent Graphs.ahk
+Intro Tangent & Cotangent Graphs
 https://www.youtube.com/watch?v=kMPtrgBO7ME
 
-162.  Intro to Geometric Sequences.ahk
+Intro to Geometric Sequences
 https://www.youtube.com/watch?v=vLSLTbmN320
 
-163.  Intro to Sequences.ahk
+Intro to Sequences
 https://www.youtube.com/watch?v=ECj5MXvkZT4
 
-164.  Introduction to compound interest and e  Algebra II  Khan Academy.ahk
+Introduction to compound interest and e  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=qEB6y4DklNY
 
-165.  Introduction to function inverses  Functions and their graphs  Algebra II  Khan Academy.ahk
+Introduction to function inverses  Functions and their graphs  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=W84lObmOp8M
 
-166.  Introduction to interest  Interest and debt  Finance & Capital Markets  Khan Academy.ahk
+Introduction to interest  Interest and debt  Finance & Capital Markets  Khan Academy
 https://www.youtube.com/watch?v=GtaoP0skPWc
 
-167.  Introduction to limits  Limits  Differential Calculus  Khan Academy.ahk
+Introduction to limits  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=riXcZT2ICjA
 
-168.  Introduction to limits 2  Limits  Precalculus  Khan Academy.ahk
+Introduction to limits 2  Limits  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=W0VWO4asgmk
 
-169.  Introduction to Parametric Equations.ahk
+Introduction to Parametric Equations
 https://www.youtube.com/watch?v=3jLQH7u0BAA
 
-170.  Introduction to Vectors.ahk
+Introduction to Vectors
 https://www.youtube.com/watch?v=0uAJpsanhl0
 
-171.  Inverse Functions (1726645).ahk
+Inverse Functions (1726645)
 https://www.youtube.com/watch?v=5CPhScuRt_Y
 
-172.  Inverse Functions.ahk
+Inverse Functions
 https://www.youtube.com/watch?v=1EL7rbKnRXU
 
-173.  Inverse Trigonometric Functions.ahk
+Inverse Trigonometric Functions
 https://www.youtube.com/watch?v=sSEb2H8ngEI
 
-174.  Law of Cosines.ahk
+Law of Cosines
 https://www.youtube.com/watch?v=07w-wk8kRRE
 
-175.  Least squares line (KristaKingMath).ahk
+Least squares line (KristaKingMath)
 https://www.youtube.com/watch?v=1pawL_5QYxE
 
-176.  Limit examples (part 1)  Limits  Differential Calculus  Khan Academy.ahk
+Limit examples (part 1)  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=GGQngIp0YGI
 
-177.  Limit examples (part 2)  Limits  Differential Calculus  Khan Academy.ahk
+Limit examples (part 2)  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=YRw8udexH4o
 
-178.  Limit examples (part 3)  Limits  Differential Calculus  Khan Academy.ahk
+Limit examples (part 3)  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=gWSDDopD9sk
 
-179.  Limit examples w brain malfunction on first prob (part 4)  Differential Calculus  Khan Academy.ahk
+Limit examples w brain malfunction on first prob (part 4)  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=xjkSE9cPqzo
 
-180.  Limits & Continuity Please Read the Description.ahk
+Limits & Continuity Please Read the Description
 https://www.youtube.com/watch?v=YFi5XzewhME
 
-181.  Limits of Piecewise Function Calculus 1 AB.ahk
+Limits of Piecewise Function Calculus 1 AB
 https://www.youtube.com/watch?v=duGU_Imgiug
 
-182.  Linear & Angular Speed Part 1.ahk
+Linear & Angular Speed Part 1
 https://www.youtube.com/watch?v=76Zh40KPQoY
 
-183.  Linear & Angular Speed Part 2.ahk
+Linear & Angular Speed Part 2
 https://www.youtube.com/watch?v=iMgckNT8K6s
 
-184.  Logarithm Equations with Different Bases.ahk
+Logarithm Equations with Different Bases
 https://www.youtube.com/watch?v=KNS75J5XpnE
 
-185.  Logarithm Introduction.ahk
+Logarithm Introduction
 https://www.youtube.com/watch?v=UpUjJQGSlDY
 
-186.  Logarithmic Equations.ahk
+Logarithmic Equations
 https://www.youtube.com/watch?v=YML1Lf-apLU
 
-187.  Logarithmic Functions.ahk
+Logarithmic Functions
 https://www.youtube.com/watch?v=IQY6ZlQ1FbY
 
-188.  Logarithmic scale  Logarithms  Algebra II  Khan Academy.ahk
+Logarithmic scale  Logarithms  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=sBhEi4L91Sg
 
-189.  Long Division of Polynomials.ahk
+Long Division of Polynomials
 https://www.youtube.com/watch?v=znsUfxzpiGE
 
-190.  Matrices - Inverses.mov.ahk
+Matrices - Inverses.mov
 https://www.youtube.com/watch?v=f99LmIc-vlI
 
-191.  Matrices - Row Operations (1 of 4).mov.ahk
+Matrices - Row Operations (1 of 4).mov
 https://www.youtube.com/watch?v=NlIx51qKcgI
 
-192.  Matrices - Row Operations (2 of 4).mov.ahk
+Matrices - Row Operations (2 of 4).mov
 https://www.youtube.com/watch?v=k1YZwkhIweY
 
-193.  Matrices - Row Operations (3 of 4).mov.ahk
+Matrices - Row Operations (3 of 4).mov
 https://www.youtube.com/watch?v=9g0hggec4Jk
 
-194.  Matrices - Row Operations (4 of 4).mov.ahk
+Matrices - Row Operations (4 of 4).mov
 https://www.youtube.com/watch?v=JQV-Sh8om7M
 
-195.  Matrices and Gaussian-Jordan Elimination PLEASE READ DESCRIPTION.ahk
+Matrices and Gaussian-Jordan Elimination PLEASE READ DESCRIPTION
 https://www.youtube.com/watch?v=ybQbWYBEZzc
 
-196.  Matrix Multiplication.ahk
+Matrix Multiplication
 https://www.youtube.com/watch?v=EnjpbhkCId4
 
-197.  Million, Billion, Trillion.ahk
+Million, Billion, Trillion
 https://www.youtube.com/watch?v=HZea-yGzC1w
 
-198.  Modeling the equation of a piecewise defined function from its graph (KristaKingMath).ahk
+Modeling the equation of a piecewise defined function from its graph (KristaKingMath)
 https://www.youtube.com/watch?v=UvYj2E8cghs
 
-199.  Modeling with Functions Part 1.ahk
+Modeling with Functions Part 1
 https://www.youtube.com/watch?v=R0ccRWPMXtY
 
-200.  Modeling with Functions Part 2.ahk
+Modeling with Functions Part 2
 https://www.youtube.com/watch?v=6J03bXYWyuY
 
-201.  Modeling with Functions Part 3.ahk
+Modeling with Functions Part 3
 https://www.youtube.com/watch?v=s1eEpnOn3DU
 
-202.  More limits  Limits  Differential Calculus  Khan Academy.ahk
+More limits  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=rkeU8_4nzKo
 
-203.  Non-Square 3 Variable Linear Systems.ahk
+Non-Square 3 Variable Linear Systems
 https://www.youtube.com/watch?v=CkSx0nBzPrc
 
-204.  Oblique Triangles Law of Sines READ DESCRIPTIOND.ahk
+Oblique Triangles Law of Sines READ DESCRIPTIOND
 https://www.youtube.com/watch?v=FtYbQ8X7U_w
 
-205.  One to One Functions.ahk
+One to One Functions
 https://www.youtube.com/watch?v=AjG1Z1EnOdc
 
-206.  Operations on Functions.ahk
+Operations on Functions
 https://www.youtube.com/watch?v=fieyNGo8Tbw
 
-207.  Parabola Applications Maximizing Minimizing Reflectors, etc.ahk
+Parabola Applications Maximizing Minimizing Reflectors, etc
 https://www.youtube.com/watch?v=ka2DpW7A9iQ
 
-208.  Parabolas (1 of 4).mov.ahk
+Parabolas (1 of 4).mov
 https://www.youtube.com/watch?v=1b2McrDZ5so
 
-209.  Parabolas (2 of 4).mov.ahk
+Parabolas (2 of 4).mov
 https://www.youtube.com/watch?v=8teZM-T2BGs
 
-210.  Parabolas (3 of 4).mov.ahk
+Parabolas (3 of 4).mov
 https://www.youtube.com/watch?v=U7Wwyz3Y0xg
 
-211.  Parabolas (4 of 4).mov.ahk
+Parabolas (4 of 4).mov
 https://www.youtube.com/watch?v=FVcrcO1p0CI
 
-212.  Parametric Equations - An Introduction.mov.ahk
+Parametric Equations - An Introduction.mov
 https://www.youtube.com/watch?v=YhjlMSOzD4Q
 
-213.  Parametric equations 1  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Parametric equations 1  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=m6c6dlmUT1c
 
-214.  Parametric equations 2  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Parametric equations 2  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=wToSIQJ2o_8
 
-215.  Parametric equations 3  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Parametric equations 3  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=57BiI_iD3-U
 
-216.  Parametric equations 4  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Parametric equations 4  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=IReD6c_njOY
 
-217.  Parametric Equations Eliminating Parameter T.ahk
+Parametric Equations Eliminating Parameter T
 https://www.youtube.com/watch?v=NbvuOQju7Pk
 
-218.  Partial Fraction Decomposition Part 1.ahk
+Partial Fraction Decomposition Part 1
 https://www.youtube.com/watch?v=q9nZeNKpm3o
 
-219.  Partial Fractions (1 of 2).mov.ahk
+Partial Fractions (1 of 2).mov
 https://www.youtube.com/watch?v=gIaf7Jn4PmU
 
-220.  Partial Fractions (2 of 2).mov.ahk
+Partial Fractions (2 of 2).mov
 https://www.youtube.com/watch?v=S-1Gh6i3lX4
 
-221.  Partial Fractions Decomposition Part 2.ahk
+Partial Fractions Decomposition Part 2
 https://www.youtube.com/watch?v=3qo527nyiaY
 
-222.  Partial Sum Arithmetic Sequence.ahk
+Partial Sum Arithmetic Sequence
 https://www.youtube.com/watch?v=9dVttnKbJGY
 
-223.  Partial Sum Geometric Sequences.ahk
+Partial Sum Geometric Sequences
 https://www.youtube.com/watch?v=XJ0oVPoEm60
 
-224.  Permutations.ahk
+Permutations
 https://www.youtube.com/watch?v=XqQTXW7XfYA
 
-225.  Piecewise Functions (1714785).ahk
+Piecewise Functions (1714785)
 https://www.youtube.com/watch?v=Vo9Y2X2wGbo
 
-226.  Piecewise Functions.ahk
+Piecewise Functions
 https://www.youtube.com/watch?v=hy0N-90gCu0
 
-227.  Point-Slope Form.ahk
+Point-Slope Form
 https://www.youtube.com/watch?v=sWxrQLXjWcY
 
-228.  Polar coordinates 1  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Polar coordinates 1  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=jexMSlSDubM
 
-229.  Polar coordinates 2  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Polar coordinates 2  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=zGpbSGj_vfE
 
-230.  Polar coordinates 3  Parametric equations and polar coordinates  Precalculus  Khan Academy.ahk
+Polar coordinates 3  Parametric equations and polar coordinates  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=9iqN12hCn10
 
-231.  Polar Equations.ahk
+Polar Equations
 https://www.youtube.com/watch?v=5Uhkr9hEXfQ
 
-232.  Polar Graphs.ahk
+Polar Graphs
 https://www.youtube.com/watch?v=KJa4lEGILgg
 
-233.  Polynomial Graphs Part 1.ahk
+Polynomial Graphs Part 1
 https://www.youtube.com/watch?v=of2OG5NNNIo
 
-234.  Polynomial Graphs Part 2.ahk
+Polynomial Graphs Part 2
 https://www.youtube.com/watch?v=qi9ZlTiHIwY
 
-235.  Polynomial long division for rational functions (KristaKingMath).ahk
+Polynomial long division for rational functions (KristaKingMath)
 https://www.youtube.com/watch?v=S88DGa1zJx0
 
-236.  Powers and Roots of Complex Numbers.ahk
+Powers and Roots of Complex Numbers
 https://www.youtube.com/watch?v=VOFyDPBTT5w
 
-237.  Product & Quotient of Polar Complex Numbers.ahk
+Product & Quotient of Polar Complex Numbers
 https://www.youtube.com/watch?v=htSPzT5izaE
 
-238.  Product to Sum and Sum to Product Formulas.ahk
+Product to Sum and Sum to Product Formulas
 https://www.youtube.com/watch?v=KRYoFdfhNXE
 
-239.  Projection of a Vector onto another Vector.ahk
+Projection of a Vector onto another Vector
 https://www.youtube.com/watch?v=aTlAsi4t4NI
 
-240.  Proof lim (sin x)x  Limits  Differential Calculus  Khan Academy.ahk
+Proof lim (sin x)x  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=Ve99biD1KtA
 
-241.  Properties of Limits Calculus 1 AB.ahk
+Properties of Limits Calculus 1 AB
 https://www.youtube.com/watch?v=UnUiydqnhwM
 
-242.  Properties of Logarithms.ahk
+Properties of Logarithms
 https://www.youtube.com/watch?v=4HftR1d8laU
 
-243.  Properties of Matrices.ahk
+Properties of Matrices
 https://www.youtube.com/watch?v=uxQg2q4HIZM
 
-244.  Quadratic Functions.ahk
+Quadratic Functions
 https://www.youtube.com/watch?v=gyxF5KlTVVg
 
-245.  Quadratic Inequalities.ahk
+Quadratic Inequalities
 https://www.youtube.com/watch?v=3y3LW9MfjeI
 
-246.  Radians.mov.ahk
+Radians.mov
 https://www.youtube.com/watch?v=yuQihHGSDm4
 
-247.  Radical Equations.ahk
+Radical Equations
 https://www.youtube.com/watch?v=bnZlA3CN95E
 
-248.  Rational Equations.ahk
+Rational Equations
 https://www.youtube.com/watch?v=tuFg3t87q0s
 
-249.  Rational Functions.ahk
+Rational Functions
 https://www.youtube.com/watch?v=L8arGNsnAIc
 
-250.  Rational Inequalities.ahk
+Rational Inequalities
 https://www.youtube.com/watch?v=U7K-keb8xUc
 
-251.  Reading Graphs to Determine the Solutions of Equations and Inequalities.ahk
+Reading Graphs to Determine the Solutions of Equations and Inequalities
 https://www.youtube.com/watch?v=F-y5H3OtPJM
 
-252.  Reference Angles.mov.ahk
+Reference Angles.mov
 https://www.youtube.com/watch?v=WTScWXUIpuc
 
-253.  Reflecting Graphs.ahk
+Reflecting Graphs
 https://www.youtube.com/watch?v=oc6ewjTDUMU
 
-254.  Relations.ahk
+Relations
 https://www.youtube.com/watch?v=NaDafaMKaIM
 
-255.  Repeated Zeros.ahk
+Repeated Zeros
 https://www.youtube.com/watch?v=Z-Us_rRVhR0
 
-256.  Right Triangle Trigonometry Part 1 Finding Missing Sides.ahk
+Right Triangle Trigonometry Part 1 Finding Missing Sides
 https://www.youtube.com/watch?v=pkjuVZUdcvo
 
-257.  Right Triangle Trigonometry Part 2 Solving for Acute Angles.ahk
+Right Triangle Trigonometry Part 2 Solving for Acute Angles
 https://www.youtube.com/watch?v=VmtcrpTRUyI
 
-258.  Right Triangle Trigonometry.mov.ahk
+Right Triangle Trigonometry.mov
 https://www.youtube.com/watch?v=l4g9hG2UzxU
 
-259.  Rotated Conic Section Identifying & Graphing 4 Examples.ahk
+Rotated Conic Section Identifying & Graphing 4 Examples
 https://www.youtube.com/watch?v=hFtNJQIi--k
 
-260.  Sequences and Series (part 1).ahk
+Sequences and Series (part 1)
 https://www.youtube.com/watch?v=VgVJrSJxkDk
 
-261.  Sequences and series (part 2).ahk
+Sequences and series (part 2)
 https://www.youtube.com/watch?v=U_8GRLJplZg
 
-262.  Series sum example  Sequences, series and induction  Precalculus  Khan Academy.ahk
+Series sum example  Sequences, series and induction  Precalculus  Khan Academy
 https://www.youtube.com/watch?v=A6fbDssPeac
 
-263.  Setting up the Unit Circle Part 1 and Reference Angle.ahk
+Setting up the Unit Circle Part 1 and Reference Angle
 https://www.youtube.com/watch?v=j5SoWzBSUmY
 
-264.  Setting Up the Unit Circle Part 2.ahk
+Setting Up the Unit Circle Part 2
 https://www.youtube.com/watch?v=FaZ7frx8nd8
 
-265.  Simplifying Square Roots Involving Variables (5 Examples).ahk
+Simplifying Square Roots Involving Variables (5 Examples)
 https://www.youtube.com/watch?v=t9fyKoimtnM
 
-266.  Single Angle Trigonometric Equations All Solutions.ahk
+Single Angle Trigonometric Equations All Solutions
 https://www.youtube.com/watch?v=FcrXDkwPspU
 
-267.  Six Basic Functions.ahk
+Six Basic Functions
 https://www.youtube.com/watch?v=AYSa3NI1wCw
 
-268.  Sketch the graph of a circle (KristaKingMath).ahk
+Sketch the graph of a circle (KristaKingMath)
 https://www.youtube.com/watch?v=H3QcM_zGzZQ
 
-269.  Sketch the graph of a parabola (KristaKingMath).ahk
+Sketch the graph of a parabola (KristaKingMath)
 https://www.youtube.com/watch?v=hDc-guDp1fc
 
-270.  Sketching a graph from a story problem (KristaKingMath).ahk
+Sketching a graph from a story problem (KristaKingMath)
 https://www.youtube.com/watch?v=o6A9JL29bGE
 
-271.  Slope of Tangent Line Derivative at a Point Calculus 1 AB.ahk
+Slope of Tangent Line Derivative at a Point Calculus 1 AB
 https://www.youtube.com/watch?v=MNk7RnyU0mk
 
-272.  Slope-Intercept.ahk
+Slope-Intercept
 https://www.youtube.com/watch?v=mIQ6Pm4czYo
 
-273.  Slope.ahk
+Slope
 https://www.youtube.com/watch?v=dp5ANrwtaDk
 
-274.  Solving 3 Variable Linear Systems Substitution  Gaussian Elimination.ahk
+Solving 3 Variable Linear Systems Substitution  Gaussian Elimination
 https://www.youtube.com/watch?v=xkwSSOzuf3g
 
-275.  Solving Compound Interest Problems PLEASE READ DESCRIPTION).ahk
+Solving Compound Interest Problems PLEASE READ DESCRIPTION)
 https://www.youtube.com/watch?v=4EpI7UbQvUI
 
-276.  Solving Equations with 2 Absolute Value Functions or More.ahk
+Solving Equations with 2 Absolute Value Functions or More
 https://www.youtube.com/watch?v=Q_jPziAVk84
 
-277.  Solving Equations with Logarithms Pt 1.ahk
+Solving Equations with Logarithms Pt 1
 https://www.youtube.com/watch?v=fO06womr41k
 
-278.  Solving Equations with Logarithms Pt 2.ahk
+Solving Equations with Logarithms Pt 2
 https://www.youtube.com/watch?v=NRjfc_u-vyQ
 
-279.  Solving Equations with Logarithms Pt 3.ahk
+Solving Equations with Logarithms Pt 3
 https://www.youtube.com/watch?v=UZS2__IgFuw
 
-280.  Solving Higher Order Polynomials Pt 1 Rational Zeros Descartes Rule.ahk
+Solving Higher Order Polynomials Pt 1 Rational Zeros Descartes Rule
 https://www.youtube.com/watch?v=hvjASm98Plk
 
-281.  Solving Higher Order Polynomials Pt 2 Rational Zeros Descartes Rule.ahk
+Solving Higher Order Polynomials Pt 2 Rational Zeros Descartes Rule
 https://www.youtube.com/watch?v=WLy5Mae_Z50
 
-282.  Solving Linear Systems with Substitution and Linear Combination (Simultaneous Equations).ahk
+Solving Linear Systems with Substitution and Linear Combination (Simultaneous Equations)
 https://www.youtube.com/watch?v=_4HoIwY2iJc
 
-283.  Solving Natural Exponential Functions 3 Examples with Natural Logarithms.ahk
+Solving Natural Exponential Functions 3 Examples with Natural Logarithms
 https://www.youtube.com/watch?v=Hm2DV0iruJk
 
-284.  Solving Polynomial Inequalities a Graphical Approach.ahk
+Solving Polynomial Inequalities a Graphical Approach
 https://www.youtube.com/watch?v=Elv798pr_PM
 
-285.  Solving Polynomial Inequalities.ahk
+Solving Polynomial Inequalities
 https://www.youtube.com/watch?v=0N1dFJl9oAI
 
-286.  Solving Rational Inequalities.ahk
+Solving Rational Inequalities
 https://www.youtube.com/watch?v=mS1y9wa95b4
 
-287.  Squeeze theorem (sandwich theorem)  Limits  Differential Calculus  Khan Academy.ahk
+Squeeze theorem (sandwich theorem)  Limits  Differential Calculus  Khan Academy
 https://www.youtube.com/watch?v=igJdDN-DPgA
 
-288.  Standard Position Angles & Radians Part 1.ahk
+Standard Position Angles & Radians Part 1
 https://www.youtube.com/watch?v=ABDKOmamIwo
 
-289.  Standard Position Angles Pt2 Converting Degrees and Radians.ahk
+Standard Position Angles Pt2 Converting Degrees and Radians
 https://www.youtube.com/watch?v=d0mmCN6rOXM
 
-290.  Sum and Difference Identities.ahk
+Sum and Difference Identities
 https://www.youtube.com/watch?v=v4JrGnWgJLg
 
-291.  Sum and Difference Trigonometric Identities.ahk
+Sum and Difference Trigonometric Identities
 https://www.youtube.com/watch?v=SYeBT1xjTa8
 
-292.  Summation Notation (Sigma).ahk
+Summation Notation (Sigma)
 https://www.youtube.com/watch?v=WVfiBnzM3vQ
 
-293.  Symmetry.ahk
+Symmetry
 https://www.youtube.com/watch?v=CAWI1DVi3eU
 
-294.  Synthetic Division & Remainder Theorem.ahk
+Synthetic Division & Remainder Theorem
 https://www.youtube.com/watch?v=u0ep4v_bweQ
 
-295.  Synthetic Division.ahk
+Synthetic Division
 https://www.youtube.com/watch?v=HzhNQ8a9rls
 
-296.  Tangent & Cotangent Graphs w Transformations.ahk
+Tangent & Cotangent Graphs w Transformations
 https://www.youtube.com/watch?v=qKa8HL_oHf0
 
-297.  The Discriminant.ahk
+The Discriminant
 https://www.youtube.com/watch?v=nvB-Ke-1tS8
 
-298.  The Factor Theorem and The Remainder Theorem.ahk
+The Factor Theorem and The Remainder Theorem
 https://www.youtube.com/watch?v=_IPqCaspZOs
 
-299.  The General Idea of a Matrix.mov.ahk
+The General Idea of a Matrix.mov
 https://www.youtube.com/watch?v=RgLq0nFAcW0
 
-300.  The Law of Cosines.ahk
+The Law of Cosines
 https://www.youtube.com/watch?v=24Ibcl3mBQU
 
-301.  The Law of Sines (1 of 2).ahk
+The Law of Sines (1 of 2)
 https://www.youtube.com/watch?v=qSYjmOQswf8
 
-302.  The Law of Sines (2 of 2).ahk
+The Law of Sines (2 of 2)
 https://www.youtube.com/watch?v=NDCL1gJ4q4Y
 
-303.  The Polar Form of Complex Numbers.ahk
+The Polar Form of Complex Numbers
 https://www.youtube.com/watch?v=wPXXG-ZGRfQ
 
-304.  The Quadratic Formula.ahk
+The Quadratic Formula
 https://www.youtube.com/watch?v=ks5eIARPa-A
 
-305.  The Vertex Formula.ahk
+The Vertex Formula
 https://www.youtube.com/watch?v=yQs-Y3Go68A
 
-306.  Transformation of Functions.ahk
+Transformation of Functions
 https://www.youtube.com/watch?v=Ccq1aQDCfVE
 
-307.  Trig Expressions & Finding Trig Functions Given another Trig Ratio.ahk
+Trig Expressions & Finding Trig Functions Given another Trig Ratio
 https://www.youtube.com/watch?v=SvzAtriI_zo
 
-308.  Trigonometric Cofunctions.ahk
+Trigonometric Cofunctions
 https://www.youtube.com/watch?v=ajOhvRHcry8
 
-309.  Trigonometric Equations (1 of 2).ahk
+Trigonometric Equations (1 of 2)
 https://www.youtube.com/watch?v=MJ44NYQNNnE
 
-310.  Trigonometric Equations (2 of 2).ahk
+Trigonometric Equations (2 of 2)
 https://www.youtube.com/watch?v=h-NKo_N7Uz4
 
-311.  Trigonometric Equations Multiple Angles 0 to 2pi Restriction.ahk
+Trigonometric Equations Multiple Angles 0 to 2pi Restriction
 https://www.youtube.com/watch?v=wvwCwUxxIkE
 
-312.  Trigonometric Equations Multiple Angles All Solutions.ahk
+Trigonometric Equations Multiple Angles All Solutions
 https://www.youtube.com/watch?v=u8kif93O1lY
 
-313.  Trigonometric Equations Single Angle 0 to 2pi Restriction 5 Examples.ahk
+Trigonometric Equations Single Angle 0 to 2pi Restriction 5 Examples
 https://www.youtube.com/watch?v=iZihVtFaAko
 
-314.  Trigonometric Function Values of Special Angles.mov.ahk
+Trigonometric Function Values of Special Angles.mov
 https://www.youtube.com/watch?v=Ng0NJqQuKC8
 
-315.  Trigonometric Functions - Definition.mov.ahk
+Trigonometric Functions - Definition.mov
 https://www.youtube.com/watch?v=dcG0-6aNQqs
 
-316.  Trigonometric Functions of Any Angle.ahk
+Trigonometric Functions of Any Angle
 https://www.youtube.com/watch?v=cNjzynK5QqE
 
-317.  Trigonometry Bearing Problems Navigation 4 Examples.ahk
+Trigonometry Bearing Problems Navigation 4 Examples
 https://www.youtube.com/watch?v=qYKsli4L3RM
 
-318.  Trigonometry Proofs Involving Half and Double Angles.ahk
+Trigonometry Proofs Involving Half and Double Angles
 https://www.youtube.com/watch?v=aswSc7HZQ7c
 
-319.  Understanding Basic Sine & Cosine Graphs.ahk
+Understanding Basic Sine & Cosine Graphs
 https://www.youtube.com/watch?v=qQOKUIrcuRs
 
-320.  Understanding Polar Coordinates.ahk
+Understanding Polar Coordinates
 https://www.youtube.com/watch?v=tKi05dfUhAA
 
-321.  Use laws of logarithms to simplify a logarithmic function (KristaKingMath).ahk
+Use laws of logarithms to simplify a logarithmic function (KristaKingMath)
 https://www.youtube.com/watch?v=AKzLNUjf2KM
 
-322.  Use the quadratic formula to find roots of the function (KristaKingMath).ahk
+Use the quadratic formula to find roots of the function (KristaKingMath)
 https://www.youtube.com/watch?v=wyTs_l_-NPo
 
-323.  Using Properties of Logarithms to Condense Logs.ahk
+Using Properties of Logarithms to Condense Logs
 https://www.youtube.com/watch?v=EmYqoq0-1H0
 
-324.  Using Properties of Logarithms to Expand Logs.ahk
+Using Properties of Logarithms to Expand Logs
 https://www.youtube.com/watch?v=e4NAYp1EvzU
 
-325.  Using transformations to sketch a graph (KristaKingMath).ahk
+Using transformations to sketch a graph (KristaKingMath)
 https://www.youtube.com/watch?v=MGDkwEpfHZI
 
-326.  Vector Application Examples PLEASE READ DESCRIPTION.ahk
+Vector Application Examples PLEASE READ DESCRIPTION
 https://www.youtube.com/watch?v=3f8ng0vUkDE
 
-327.  Vectors (1 of 3).ahk
+Vectors (1 of 3)
 https://www.youtube.com/watch?v=VwCZOjvejKU
 
-328.  Vectors (2 of 3).ahk
+Vectors (2 of 3)
 https://www.youtube.com/watch?v=EHCAHgWuUyc
 
-329.  Vectors (3 of 3).ahk
+Vectors (3 of 3)
 https://www.youtube.com/watch?v=WoGnsYlZWQE
 
-330.  Verifying Trig Identities.ahk
+Verifying Trig Identities
 https://www.youtube.com/watch?v=zJTpoogPoJk
 
-331.  Verifying Trigonometric Identities Involving Sum & Difference.ahk
+Verifying Trigonometric Identities Involving Sum & Difference
 https://www.youtube.com/watch?v=OYfeClZiNEU
 
-332.  Verifying Trigonometric Identities Pt 1.ahk
+Verifying Trigonometric Identities Pt 1
 https://www.youtube.com/watch?v=TCdhf9iVkYc
 
-333.  Verifying Trigonometric Identities Pt2.ahk
+Verifying Trigonometric Identities Pt2
 https://www.youtube.com/watch?v=q8k-sS7qRts
 
-334.  Verifying Trigonometric Identities Pt3.ahk
+Verifying Trigonometric Identities Pt3
 https://www.youtube.com/watch?v=mAnw4ImaPK0
 
-335.  Vertically Stretching and Shrinking Graphs.ahk
+Vertically Stretching and Shrinking Graphs
 https://www.youtube.com/watch?v=tNZCkQfZ-vw
 
-336.  Vi and Sal explore how we think about scale  Algebra II  Khan Academy.ahk
+Vi and Sal explore how we think about scale  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=4xfOq00BzJA
 
-337.  Vi and Sal talk about the mysteries of Benford's law  Logarithms  Algebra II  Khan Academy.ahk
+Vi and Sal talk about the mysteries of Benford's law  Logarithms  Algebra II  Khan Academy
 https://www.youtube.com/watch?v=6KmeGpjeLZ0
 
-338.  Visually identifying key characteristics of graphs..ahk
+Visually identifying key characteristics of graphs.
 https://www.youtube.com/watch?v=GALfCd-2XRQ
 
-339.  Water Depth Word Problem Modeled with Cosine Sine Function.ahk
+Water Depth Word Problem Modeled with Cosine Sine Function
 https://www.youtube.com/watch?v=Do0eJ-pRVT8
 
-340.  What is a Function.ahk
+What is a Function
 https://www.youtube.com/watch?v=QvkslqnECy4
 
-341.  What is a Zero of a Function (1490371).ahk
+What is a Zero of a Function (1490371)
 https://www.youtube.com/watch?v=F0I9SeZz9PA
 
-342.  What is a Zero of a Function.ahk
+What is a Zero of a Function
 https://www.youtube.com/watch?v=F0I9SeZz9PA
 
-343.  Which functions pass the VERTICAL LINE TEST!! (KristaKingMath).ahk
+Which functions pass the VERTICAL LINE TEST!! (KristaKingMath)
 https://www.youtube.com/watch?v=5UY_McpxEYQ
 
-344.  Why Limits are Important in Calculus.ahk
+Why Limits are Important in Calculus
 https://www.youtube.com/watch?v=xFu7xdXFfBs
 
-345.  Writing Vector in terms of Magnitude & Direction Example.ahk
+Writing Vector in terms of Magnitude & Direction Example
 https://www.youtube.com/watch?v=i1D_jXC5FRU
 
-346.  x-Intercepts and y-Intercepts.ahk
+x-Intercepts and y-Intercepts
 https://www.youtube.com/watch?v=EIbcD0Un1p8
 Precalculus

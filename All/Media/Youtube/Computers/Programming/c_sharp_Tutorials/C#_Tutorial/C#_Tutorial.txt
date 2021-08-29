@@ -1,76 +1,76 @@
 
-1.  C# Tutorial 10 Interfaces.ahk
+C# Tutorial 10 Interfaces
 https://www.youtube.com/watch?v=6kSTP95-6wo
 
-2.  C# Tutorial 11 Collections.ahk
+C# Tutorial 11 Collections
 https://www.youtube.com/watch?v=-vjQ3gW3Dd8
 
-3.  C# Tutorial 12 Generics.ahk
+C# Tutorial 12 Generics
 https://www.youtube.com/watch?v=madHxNSnnYU
 
-4.  C# Tutorial 13 LINQ Extension Methods.ahk
+C# Tutorial 13 LINQ Extension Methods
 https://www.youtube.com/watch?v=0iUPKZzONJg
 
-5.  C# Tutorial 14 Operator Overloading & Enumerator.ahk
+C# Tutorial 14 Operator Overloading & Enumerator
 https://www.youtube.com/watch?v=soPo3MHZ_0c
 
-6.  C# Tutorial 15 LINQ Tutorial.ahk
+C# Tutorial 15 LINQ Tutorial
 https://www.youtube.com/watch?v=gwD9awr3NNo
 
-7.  C# Tutorial 16 Threads.ahk
+C# Tutorial 16 Threads
 https://www.youtube.com/watch?v=hOVSKuFTUiI
 
-8.  C# Tutorial 17 File IO.ahk
+C# Tutorial 17 File IO
 https://www.youtube.com/watch?v=HKqMqFJr4SY
 
-9.  C# Tutorial 18 Serialization.ahk
+C# Tutorial 18 Serialization
 https://www.youtube.com/watch?v=jbwjbbc5PjI
 
-10.  C# Tutorial 19 WPF & XAML.ahk
+C# Tutorial 19 WPF & XAML
 https://www.youtube.com/watch?v=G-BRSwClK_4
 
-11.  C# Tutorial 2 Looping Arrays StringBuilder.ahk
+C# Tutorial 2 Looping Arrays StringBuilder
 https://www.youtube.com/watch?v=bBG2o905sRQ
 
-12.  C# Tutorial 20 Menu Bars.ahk
+C# Tutorial 20 Menu Bars
 https://www.youtube.com/watch?v=9aTuI8xbsHw
 
-13.  C# Tutorial 21 Toolbars.ahk
+C# Tutorial 21 Toolbars
 https://www.youtube.com/watch?v=HEzMn2mvsW8
 
-14.  C# Tutorial 22 InkCanvas & Key Listeners.ahk
+C# Tutorial 22 InkCanvas & Key Listeners
 https://www.youtube.com/watch?v=2oQ4jhKeSyA
 
-15.  C# Tutorial 23 Document API.ahk
+C# Tutorial 23 Document API
 https://www.youtube.com/watch?v=sHD5j8ZUFBs
 
-16.  C# Tutorial 24 Paint App.ahk
+C# Tutorial 24 Paint App
 https://www.youtube.com/watch?v=cHncA_aCVmM
 
-17.  C# Tutorial 25 C# Databases.ahk
+C# Tutorial 25 C# Databases
 https://www.youtube.com/watch?v=OdDkFPO_nto
 
-18.  C# Tutorial 3 Conditionals While Exceptions.ahk
+C# Tutorial 3 Conditionals While Exceptions
 https://www.youtube.com/watch?v=pVxJT3VxD0c
 
-19.  C# Tutorial 4 Methods Enum.ahk
+C# Tutorial 4 Methods Enum
 https://www.youtube.com/watch?v=ERJeRkUb51I
 
-20.  C# Tutorial 5 Classes & OOP.ahk
+C# Tutorial 5 Classes & OOP
 https://www.youtube.com/watch?v=GAvhe6oe-_4
 
-21.  C# Tutorial 6 Constructors Properties.ahk
+C# Tutorial 6 Constructors Properties
 https://www.youtube.com/watch?v=5hFuxo4evK8
 
-22.  C# Tutorial 7 Inheritance Polymorphism.ahk
+C# Tutorial 7 Inheritance Polymorphism
 https://www.youtube.com/watch?v=ZzVxgJmLAsE
 
-23.  C# Tutorial 8 OOP Game.ahk
+C# Tutorial 8 OOP Game
 https://www.youtube.com/watch?v=decfmj7b5Vg
 
-24.  C# Tutorial 9 Abstract Class Polymorphism.ahk
+C# Tutorial 9 Abstract Class Polymorphism
 https://www.youtube.com/watch?v=RaHm_pSxqLY
 
-25.  C# Tutorial.ahk
+C# Tutorial
 https://www.youtube.com/watch?v=0p0JLFZj2C8
 C# Tutorial

@@ -1,0 +1,97 @@
+
+2018 Getting started with pfsense 2.4 from install to secure! including multiple separate networks
+https://www.youtube.com/watch?v=9kSZ1oM-4ZM
+
+8 Areas where Linux is BETTER than Windows 10
+https://www.youtube.com/watch?v=LEnJcB03Bb4
+
+Bond Configuration with Proxmox VE
+https://www.youtube.com/watch?v=-8SwpgaxFuk
+
+Containers - Namespaces
+https://www.youtube.com/watch?v=kl8roLaLy-g
+
+Containers cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods
+https://www.youtube.com/watch?v=el7768BNUPw
+
+Containers unplugged Linux namespaces - Michael Kerrisk
+https://www.youtube.com/watch?v=0kJPa-1FuoI
+
+Creating a Proxmox VM and Ubuntu setup
+https://www.youtube.com/watch?v=WZ0JCL-NR_4
+
+Creating a Ubuntu LXC in Proxmox for Docker
+https://www.youtube.com/watch?v=1EYAGl96dZY
+
+Creating an LXC Container in Proxmox Virtual Environment
+https://www.youtube.com/watch?v=cyjXxsQ8Igw
+
+Docker Internals Session1 Introduction to Containers and Docker (cgroups & Namespaces)
+https://www.youtube.com/watch?v=0Xb421-9CTo
+
+File System Mounting - Linux
+https://www.youtube.com/watch?v=A8ITr5ZpzvA
+
+First time Proxmox Setup
+https://www.youtube.com/watch?v=yMyIx4MnywA
+
+How to choose your first Linux distribution - Switching to Linux part 2
+https://www.youtube.com/watch?v=o9Nq1Reu0Wg
+
+How to get Mac OS X Mojave features in elementary OS
+https://www.youtube.com/watch?v=UVKgP9EngJM
+
+How To Setup A Virtualization Server With Proxmox
+https://www.youtube.com/watch?v=IzenuPIOgJk
+
+Howto Proxmox VE Setup and Configuration - Virtual Lab
+https://www.youtube.com/watch?v=Sjy0jll0Rx4
+
+Installing Docker and Portainer on Proxmox
+https://www.youtube.com/watch?v=HfnHPuuQ0lM
+
+Installing Kali Linux on Proxmox
+https://www.youtube.com/watch?v=13S2d7s2Td8
+
+Installing Linux server on Proxmox
+https://www.youtube.com/watch?v=dwvRMNxlC0U
+
+Is Linux too complicated, or is it just a wrong first impression 
+https://www.youtube.com/watch?v=DhuFVqrEs3g
+
+Lesson 4 Whats under the hood - Namespaces, Cgroups and OverlayFS
+https://www.youtube.com/watch?v=2ZdJ_3sBr6A
+
+ovh virtual server proxmox network configuration
+https://www.youtube.com/watch?v=CvBiUQCo718
+
+Practical Introduction to Linux Network Namespaces - Openstack example
+https://www.youtube.com/watch?v=FcFXlrI-Qx0
+
+Proxmox VE 6.0 Beginner Tutorial - Installing Proxmox & Creating a virtual machine.
+https://www.youtube.com/watch?v=I-e1_CTa4s0
+
+Proxmox VE Install and Setup Tutorial
+https://www.youtube.com/watch?v=7OVaWaqO2aU
+
+Setting up your own virtualization server with Proxmox Virtual Environment
+https://www.youtube.com/watch?v=MO4CaHn1EjM
+
+Ubuntu The End of an Era
+https://www.youtube.com/watch?v=Xy7v5tdfSZM
+
+Understanding user namespaces - Michael Kerrisk
+https://www.youtube.com/watch?v=83NOk8pmHi8
+
+Virtualize Everything! - Proxmox Install Tutorial
+https://www.youtube.com/watch?v=azORbxrItOo
+
+What does Microsoft want with Linux and Open Source
+https://www.youtube.com/watch?v=VowHByyLqYs
+
+[Tutorial] How To Create ZFS Pool And Config Samba Server Step By Step
+https://www.youtube.com/watch?v=YmGGB9If5CI
+
+[Tutorial] How To Install Proxmox On Dedicated Server Via KVM For Beginner
+https://www.youtube.com/watch?v=8fejgD0nDeI
+8 AREAS WHERE LINUX IS BETTER THAN WINDOWS 10

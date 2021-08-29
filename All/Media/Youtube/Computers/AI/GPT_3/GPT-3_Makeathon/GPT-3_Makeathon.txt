@@ -1,22 +1,22 @@
 
-1.  AI for Good by Ekrem Namazci (Data and AI Lead at Microsoft) - GPT-3 Makeathon by TUM.ai.ahk
+AI for Good by Ekrem Namazci (Data and AI Lead at Microsoft) - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=_DS3gmiywo0
 
-2.  Ethics in AI by Dr. Sebastian Lehrig (AI Systems Architect at IBM) - GPT-3 Makeathon by TUM.ai.ahk
+Ethics in AI by Dr. Sebastian Lehrig (AI Systems Architect at IBM) - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=U_wOPFK2Yw4
 
-3.  Finals and Award Ceremony - GPT-3 Makeathon by TUM.ai.ahk
+Finals and Award Ceremony - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=OkN4E-ha1RI
 
-4.  Flutter Workshop by Viviana and Kilian (DSC & Flutter Freelancer) - GPT-3 Makeathon by TUM.ai.ahk
+Flutter Workshop by Viviana and Kilian (DSC & Flutter Freelancer) - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=Oajg7BgZ2dY
 
-5.  GPT-3 Makeathon - Opening Ceremony.ahk
+GPT-3 Makeathon - Opening Ceremony
 https://www.youtube.com/watch?v=04F8xC_hFwk
 
-6.  GPT-3 Workshop by Andrew Mayne (Creative Applications at OpenAI) - GPT-3 Makeathon by TUM.ai.ahk
+GPT-3 Workshop by Andrew Mayne (Creative Applications at OpenAI) - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=qQia_SE50Yc
 
-7.  Opening Talk by Ashley Pilipiszyn (Technical Director at OpenAI) - GPT-3 Makeathon by TUM.ai.ahk
+Opening Talk by Ashley Pilipiszyn (Technical Director at OpenAI) - GPT-3 Makeathon by TUM.ai
 https://www.youtube.com/watch?v=KCrFur4xPXI
 GPT-3 Makeathon

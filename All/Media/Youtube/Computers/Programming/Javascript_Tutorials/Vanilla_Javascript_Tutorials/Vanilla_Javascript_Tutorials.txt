@@ -1,40 +1,40 @@
 
-1.  Awesome 3D ANIMATION Javascript Tutorial!.ahk
+Awesome 3D ANIMATION Javascript Tutorial!
 https://www.youtube.com/watch?v=XK7T3mY1V-w
 
-2.  Beginner Vanilla Javascript Project Tutorial.ahk
+Beginner Vanilla Javascript Project Tutorial
 https://www.youtube.com/watch?v=Ttf3CEsEwMQ
 
-3.  Build A Meditation App With Javascript HTML & CSS!.ahk
+Build A Meditation App With Javascript HTML & CSS!
 https://www.youtube.com/watch?v=oMBXdZzYqEk
 
-4.  Build A Music App With Javascript Tutorial.ahk
+Build A Music App With Javascript Tutorial
 https://www.youtube.com/watch?v=2VJlzeEVL8A
 
-5.  Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners.ahk
+Build A Weather App With Vanilla Javascript Tutorial  Javascript For Beginners
 https://www.youtube.com/watch?v=wPElVpR1rwA
 
-6.  Create a 2.5D Parallax Effect In Javascript Tutorial  Javascript Tutorial.ahk
+Create a 2.5D Parallax Effect In Javascript Tutorial  Javascript Tutorial
 https://www.youtube.com/watch?v=BfEQ1qgYsts
 
-7.  How to create a CSS Preloader Animation With Javascript Tutorial  Javascript Preloader Tutorial.ahk
+How to create a CSS Preloader Animation With Javascript Tutorial  Javascript Preloader Tutorial
 https://www.youtube.com/watch?v=NZNhuzyeD-Y
 
-8.  How To Create An Image Slider In HTML, CSS & Javascript.ahk
+How To Create An Image Slider In HTML, CSS & Javascript
 https://www.youtube.com/watch?v=KcdBOoK3Pfw
 
-9.  Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT.ahk
+Responsive Navigation Bar Tutorial  HTML CSS JAVASCRIPT
 https://www.youtube.com/watch?v=gXkqy0b4M5g
 
-10.  Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript.ahk
+Simple Form Animation With Javascript Tutorial  HTML Forms  Learn Javascript
 https://www.youtube.com/watch?v=wc5k2AMPED0
 
-11.  Typewriting effect with Javascript Tutorial.ahk
+Typewriting effect with Javascript Tutorial
 https://www.youtube.com/watch?v=PuOGBacTYAY
 
-12.  Vanilla Javascript Smooth Scroll Tutorial.ahk
+Vanilla Javascript Smooth Scroll Tutorial
 https://www.youtube.com/watch?v=oUSvlrDTLi4
 
-13.  Visual effect in vanilla javascript tutorial.ahk
+Visual effect in vanilla javascript tutorial
 https://www.youtube.com/watch?v=C_JKlr4WKKs
 Vanilla Javascript Tutorials

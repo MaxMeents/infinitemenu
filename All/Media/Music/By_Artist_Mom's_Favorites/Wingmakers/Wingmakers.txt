@@ -1,7 +1,7 @@
 
-1.  Albums
+Albums
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Wingmakers/Albums/Albums.txt
 
-2.  All Songs
+All Songs
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Mom's_Favorites/Wingmakers/All_Songs/All_Songs.txt
 Wingmakers

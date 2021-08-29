@@ -1,0 +1,10 @@
+
+Android RPG's
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Games/Android_RPG's/Android_RPG's.txt
+
+Idle RPG's
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Games/Idle_RPG's/Idle_RPG's.txt
+
+Steam Search Options
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Games/Steam_Search_Options/Steam_Search_Options.txt
+Games

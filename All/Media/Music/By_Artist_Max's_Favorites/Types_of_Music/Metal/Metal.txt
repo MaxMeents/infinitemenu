@@ -1,112 +1,112 @@
 
-1.  Avantgarde Metal
+Avantgarde Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Avantgarde_Metal/Avantgarde_Metal.txt
 
-2.  Black Metall
+Black Metall
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Black_Metall/Black_Metall.txt
 
-3.  Crossover
+Crossover
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Crossover/Crossover.txt
 
-4.  Death Metal
+Death Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Death_Metal/Death_Metal.txt
 
-5.  Deathcore
+Deathcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Deathcore/Deathcore.txt
 
-6.  Djent
+Djent
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Djent/Djent.txt
 
-7.  Doom Metal
+Doom Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Doom_Metal/Doom_Metal.txt
 
-8.  Drone
+Drone
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Drone/Drone.txt
 
-9.  Folk Metal
+Folk Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Folk_Metal/Folk_Metal.txt
 
-10.  Glam Metal
+Glam Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Glam_Metal/Glam_Metal.txt
 
-11.  Gothic Metal
+Gothic Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Gothic_Metal/Gothic_Metal.txt
 
-12.  Grindcore
+Grindcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Grindcore/Grindcore.txt
 
-13.  Groove Metal
+Groove Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Groove_Metal/Groove_Metal.txt
 
-14.  Hair Metal
+Hair Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Hair_Metal/Hair_Metal.txt
 
-15.  Hardcore
+Hardcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Hardcore/Hardcore.txt
 
-16.  Heavy Metal
+Heavy Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Heavy_Metal/Heavy_Metal.txt
 
-17.  Industrial Metal
+Industrial Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Industrial_Metal/Industrial_Metal.txt
 
-18.  Kawaii Metal
+Kawaii Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Kawaii_Metal/Kawaii_Metal.txt
 
-19.  Math Metal
+Math Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Math_Metal/Math_Metal.txt
 
-20.  Mathcore
+Mathcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Mathcore/Mathcore.txt
 
-21.  Metalcore
+Metalcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Metalcore/Metalcore.txt
 
-22.  Modern Metal
+Modern Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Modern_Metal/Modern_Metal.txt
 
-23.  Neoclassical Metal
+Neoclassical Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Neoclassical_Metal/Neoclassical_Metal.txt
 
-24.  Neue Deutsche Härte
+Neue Deutsche Härte
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Neue_Deutsche_Härte/Neue_Deutsche_Härte.txt
 
-25.  New Wave of British Heavy Metal
+New Wave of British Heavy Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/New_Wave_of_British_Heavy_Metal/New_Wave_of_British_Heavy_Metal.txt
 
-26.  Nu Metal
+Nu Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Nu_Metal/Nu_Metal.txt
 
-27.  Pagan Metal
+Pagan Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Pagan_Metal/Pagan_Metal.txt
 
-28.  Pirate Metal
+Pirate Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Pirate_Metal/Pirate_Metal.txt
 
-29.  Post Hardcore
+Post Hardcore
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Post_Hardcore/Post_Hardcore.txt
 
-30.  Post Metal
+Post Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Post_Metal/Post_Metal.txt
 
-31.  Power Metal
+Power Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Power_Metal/Power_Metal.txt
 
-32.  Progressive Metal
+Progressive Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Progressive_Metal/Progressive_Metal.txt
 
-33.  Sludge
+Sludge
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Sludge/Sludge.txt
 
-34.  Speed Metal
+Speed Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Speed_Metal/Speed_Metal.txt
 
-35.  Symphonic Metal
+Symphonic Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Symphonic_Metal/Symphonic_Metal.txt
 
-36.  Thrash Metal
+Thrash Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Thrash_Metal/Thrash_Metal.txt
 
-37.  Viking Metal
+Viking Metal
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Types_of_Music/Metal/Viking_Metal/Viking_Metal.txt
 Metal

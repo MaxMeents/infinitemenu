@@ -1,124 +1,124 @@
 
-1.  3D Graphics Crash Course Computer Science #27.ahk
+3D Graphics Crash Course Computer Science #27
 https://www.youtube.com/watch?v=TEAtmCYYKZA
 
-2.  Advanced CPU Designs Crash Course Computer Science #9.ahk
+Advanced CPU Designs Crash Course Computer Science #9
 https://www.youtube.com/watch?v=rtAlC5J1U40
 
-3.  Alan Turing Crash Course Computer Science #15.ahk
+Alan Turing Crash Course Computer Science #15
 https://www.youtube.com/watch?v=7TycxwFmdB0
 
-4.  Boolean Logic & Logic Gates Crash Course Computer Science #3.ahk
+Boolean Logic & Logic Gates Crash Course Computer Science #3
 https://www.youtube.com/watch?v=gI-qXk7XojA
 
-5.  Compression Crash Course Computer Science #21.ahk
+Compression Crash Course Computer Science #21
 https://www.youtube.com/watch?v=OtDxDvCpPL4
 
-6.  Computer Networks Crash Course Computer Science #28.ahk
+Computer Networks Crash Course Computer Science #28
 https://www.youtube.com/watch?v=3QhU9jd03a0
 
-7.  Computer Vision Crash Course Computer Science #35.ahk
+Computer Vision Crash Course Computer Science #35
 https://www.youtube.com/watch?v=-4E2-0sxVUM
 
-8.  Crash Course Computer Science Preview.ahk
+Crash Course Computer Science Preview
 https://www.youtube.com/watch?v=tpIctyqH29Q
 
-9.  Cryptography Crash Course Computer Science #33.ahk
+Cryptography Crash Course Computer Science #33
 https://www.youtube.com/watch?v=jhXCTbFnK8o
 
-10.  Cybersecurity Crash Course Computer Science #31.ahk
+Cybersecurity Crash Course Computer Science #31
 https://www.youtube.com/watch?v=bPVaOlJ6ln0
 
-11.  Data Structures Crash Course Computer Science #14.ahk
+Data Structures Crash Course Computer Science #14
 https://www.youtube.com/watch?v=DuDz6B4cqVc
 
-12.  Early Computing Crash Course Computer Science #1.ahk
+Early Computing Crash Course Computer Science #1
 https://www.youtube.com/watch?v=O5nskjZ_GoI
 
-13.  Early Programming Crash Course Computer Science #10.ahk
+Early Programming Crash Course Computer Science #10
 https://www.youtube.com/watch?v=nwDq4adJwzM
 
-14.  Educational Technology Crash Course Computer Science #39.ahk
+Educational Technology Crash Course Computer Science #39
 https://www.youtube.com/watch?v=zTi3_l5h5PQ
 
-15.  Electronic Computing Crash Course Computer Science #2.ahk
+Electronic Computing Crash Course Computer Science #2
 https://www.youtube.com/watch?v=LN0ucKNX0hc
 
-16.  Files & File Systems Crash Course Computer Science #20.ahk
+Files & File Systems Crash Course Computer Science #20
 https://www.youtube.com/watch?v=KN8YgJnShPM
 
-17.  Graphical User Interfaces Crash Course Computer Science #26.ahk
+Graphical User Interfaces Crash Course Computer Science #26
 https://www.youtube.com/watch?v=XIGSJshYb90
 
-18.  Hackers & Cyber Attacks Crash Course Computer Science #32.ahk
+Hackers & Cyber Attacks Crash Course Computer Science #32
 https://www.youtube.com/watch?v=_GzE99AmAQU
 
-19.  How Computers Calculate - the ALU Crash Course Computer Science #5.ahk
+How Computers Calculate - the ALU Crash Course Computer Science #5
 https://www.youtube.com/watch?v=1I5ZMmrOfnA
 
-20.  Instructions & Programs Crash Course Computer Science #8.ahk
+Instructions & Programs Crash Course Computer Science #8
 https://www.youtube.com/watch?v=zltgXvg6r3k
 
-21.  Integrated Circuits & Moore’s Law Crash Course Computer Science #17.ahk
+Integrated Circuits & Moore’s Law Crash Course Computer Science #17
 https://www.youtube.com/watch?v=6-tKOHICqrI
 
-22.  Intro to Algorithms Crash Course Computer Science #13.ahk
+Intro to Algorithms Crash Course Computer Science #13
 https://www.youtube.com/watch?v=rL8X2mlNHPM
 
-23.  Keyboards & Command Line Interfaces Crash Course Computer Science #22.ahk
+Keyboards & Command Line Interfaces Crash Course Computer Science #22
 https://www.youtube.com/watch?v=4RPtJ9UyHS0
 
-24.  Machine Learning & Artificial Intelligence Crash Course Computer Science #34.ahk
+Machine Learning & Artificial Intelligence Crash Course Computer Science #34
 https://www.youtube.com/watch?v=z-EtmaFJieY
 
-25.  Memory & Storage Crash Course Computer Science #19.ahk
+Memory & Storage Crash Course Computer Science #19
 https://www.youtube.com/watch?v=TQCr9RV7twk
 
-26.  Natural Language Processing Crash Course Computer Science #36.ahk
+Natural Language Processing Crash Course Computer Science #36
 https://www.youtube.com/watch?v=fOvTtapxa9c
 
-27.  Operating Systems Crash Course Computer Science #18.ahk
+Operating Systems Crash Course Computer Science #18
 https://www.youtube.com/watch?v=26QPDBe-NB8
 
-28.  Programming Basics Statements & Functions Crash Course Computer Science #12.ahk
+Programming Basics Statements & Functions Crash Course Computer Science #12
 https://www.youtube.com/watch?v=l26oaHV7D40
 
-29.  Psychology of Computing Crash Course Computer Science #38.ahk
+Psychology of Computing Crash Course Computer Science #38
 https://www.youtube.com/watch?v=DEHsvQ3Ylwg
 
-30.  Registers and RAM Crash Course Computer Science #6.ahk
+Registers and RAM Crash Course Computer Science #6
 https://www.youtube.com/watch?v=fpnE6UAfbtU
 
-31.  Representing Numbers and Letters with Binary Crash Course Computer Science #4.ahk
+Representing Numbers and Letters with Binary Crash Course Computer Science #4
 https://www.youtube.com/watch?v=1GSjbWt0c9M
 
-32.  Robots Crash Course Computer Science #37.ahk
+Robots Crash Course Computer Science #37
 https://www.youtube.com/watch?v=3XkL0qQ21Oo
 
-33.  Screens & 2D Graphics Crash Course Computer Science #23.ahk
+Screens & 2D Graphics Crash Course Computer Science #23
 https://www.youtube.com/watch?v=7Jr0SFMQ4Rs
 
-34.  Software Engineering Crash Course Computer Science #16.ahk
+Software Engineering Crash Course Computer Science #16
 https://www.youtube.com/watch?v=O753uuutqH8
 
-35.  The Central Processing Unit (CPU) Crash Course Computer Science #7.ahk
+The Central Processing Unit (CPU) Crash Course Computer Science #7
 https://www.youtube.com/watch?v=FZGugFqdr60
 
-36.  The Cold War and Consumerism Crash Course Computer Science #24.ahk
+The Cold War and Consumerism Crash Course Computer Science #24
 https://www.youtube.com/watch?v=m8i38Yq1wX4
 
-37.  The First Programming Languages Crash Course Computer Science #11.ahk
+The First Programming Languages Crash Course Computer Science #11
 https://www.youtube.com/watch?v=RU1u-js7db8
 
-38.  The Internet Crash Course Computer Science #29.ahk
+The Internet Crash Course Computer Science #29
 https://www.youtube.com/watch?v=AEaKrq3SpW8
 
-39.  The Personal Computer Revolution Crash Course Computer Science #25.ahk
+The Personal Computer Revolution Crash Course Computer Science #25
 https://www.youtube.com/watch?v=M5BZou6C01w
 
-40.  The Singularity, Skynet, and the Future of Computing Crash Course Computer Science #40.ahk
+The Singularity, Skynet, and the Future of Computing Crash Course Computer Science #40
 https://www.youtube.com/watch?v=5TNAz1HYg18
 
-41.  The World Wide Web Crash Course Computer Science #30.ahk
+The World Wide Web Crash Course Computer Science #30
 https://www.youtube.com/watch?v=guvsH5OFizE
 Computer Science

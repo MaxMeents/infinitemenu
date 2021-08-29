@@ -1,25 +1,25 @@
 
-1.  333
+333
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/333/333.txt
 
-2.  Awaken The Fire
+Awaken The Fire
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/Awaken_The_Fire/Awaken_The_Fire.txt
 
-3.  COLORS
+COLORS
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/COLORS/COLORS.txt
 
-4.  Second Life
+Second Life
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/Second_Life/Second_Life.txt
 
-5.  SEER
+SEER
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/SEER/SEER.txt
 
-6.  Spiritual Alchemy
+Spiritual Alchemy
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/Spiritual_Alchemy/Spiritual_Alchemy.txt
 
-7.  Take My Life
+Take My Life
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/Take_My_Life/Take_My_Life.txt
 
-8.  The ESP EP (Extra Sensory Perception)
+The ESP EP (Extra Sensory Perception)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Truthseekah/Bandcamp_Albums/The_ESP_EP_(Extra_Sensory_Perception)/The_ESP_EP_(Extra_Sensory_Perception).txt
 Bandcamp Albums

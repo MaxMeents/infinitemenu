@@ -1,64 +1,64 @@
 
-1.  1 Pomes
+1 Pomes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/1_Pomes/1_Pomes.txt
 
-2.  10 References
+10 References
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/10_References/10_References.txt
 
-3.  11 External links
+11 External links
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/11_External_links/11_External_links.txt
 
-4.  2 Drupes
+2 Drupes
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/2_Drupes/2_Drupes.txt
 
-5.  3 Citruses
+3 Citruses
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/3_Citruses/3_Citruses.txt
 
-6.  4 Berries
+4 Berries
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/4_Berries/4_Berries.txt
 
-7.  5 Melons
+5 Melons
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/5_Melons/5_Melons.txt
 
-8.  6 Tropical and tropical-like fruit
+6 Tropical and tropical-like fruit
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/6_Tropical_and_tropical-like_fruit/6_Tropical_and_tropical-like_fruit.txt
 
-9.  7 Cacti and other succulent fruit
+7 Cacti and other succulent fruit
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/7_Cacti_and_other_succulent_fruit/7_Cacti_and_other_succulent_fruit.txt
 
-10.  8 Plants with edible fruit-like structures
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/8_Plants_with_edible_fruit-like_structures/8_Plants_with_edible_fruit-like_structures.txt
+8 Plants with edible fruit-like structures
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/8_Plants_with_edible_fruit-like_structur/8_Plants_with_edible_fruit-like_structur.txt
 
-11.  9 See also
+9 See also
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Ediable_Fruits/9_See_also/9_See_also.txt
 
-1.  .ahk
 
 
-2.  List of culinary fruits.ahk
+
+List of culinary fruits
 https://en.wikipedia.org/wiki/List_of_culinary_fruits
 
-3.  List of culinary herbs and spices.ahk
+List of culinary herbs and spices
 https://en.wikipedia.org/wiki/List_of_culinary_herbs_and_spices
 
-4.  List of culinary nuts.ahk
+List of culinary nuts
 https://en.wikipedia.org/wiki/List_of_culinary_nuts
 
-5.  List of edible cacti.ahk
+List of edible cacti
 https://en.wikipedia.org/wiki/List_of_edible_cacti
 
-6.  List of edible flowers.ahk
+List of edible flowers
 https://en.wikipedia.org/wiki/List_of_edible_flowers
 
-7.  List of edible seeds.ahk
+List of edible seeds
 https://en.wikipedia.org/wiki/List_of_edible_seeds
 
-8.  List of leaf vegetables.ahk
+List of leaf vegetables
 https://en.wikipedia.org/wiki/List_of_leaf_vegetables
 
-9.  List of root vegetables.ahk
+List of root vegetables
 https://en.wikipedia.org/wiki/List_of_root_vegetables
 
-10.  List of vegetables.ahk
+List of vegetables
 https://en.wikipedia.org/wiki/List_of_vegetables
 Ediable Fruits

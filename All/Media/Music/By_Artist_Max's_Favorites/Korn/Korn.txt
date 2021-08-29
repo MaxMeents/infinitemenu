@@ -1,682 +1,682 @@
 
-1.  .ahk
 
 
-2.  01-Intro by Korn Untitled.ahk
+
+01-Intro by Korn Untitled
 https://www.youtube.com/watch?v=M-MBdMeynJ0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=105&t=0s
 
-3.  02-Starting Over by Korn (Untitled).ahk
+02-Starting Over by Korn (Untitled)
 https://www.youtube.com/watch?v=8dc29Wz9TsQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=106&t=0s
 
-4.  03-Bitch we got a Problem by Korn (Untitled).ahk
+03-Bitch we got a Problem by Korn (Untitled)
 https://www.youtube.com/watch?v=k8EykTuEqLY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=107&t=0s
 
-5.  04-Evolution by Korn (Untitled).ahk
+04-Evolution by Korn (Untitled)
 https://www.youtube.com/watch?v=c7HeV8ksg3E&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=108&t=0s
 
-6.  05-Hold On by Korn (Untitled).ahk
+05-Hold On by Korn (Untitled)
 https://www.youtube.com/watch?v=bPytWg8m9Lw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=109&t=0s
 
-7.  06 Good God - Korn - Life Is Peachy.ahk
+06 Good God - Korn - Life Is Peachy
 https://www.youtube.com/watch?v=WoAjE_p-h6Y&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=19&t=0s
 
-8.  06-Kiss by Korn (Untitled).ahk
+06-Kiss by Korn (Untitled)
 https://www.youtube.com/watch?v=q9hWL-EnHz8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=110&t=0s
 
-9.  07-Do What They Say by Korn (Untitled).ahk
+07-Do What They Say by Korn (Untitled)
 https://www.youtube.com/watch?v=YuvvqmEQVlw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=111&t=0s
 
-10.  08-Ever Be by Korn (Untitled).ahk
+08-Ever Be by Korn (Untitled)
 https://www.youtube.com/watch?v=TqUsZssEhrI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=112&t=0s
 
-11.  09-Love And Luxury.ahk
+09-Love And Luxury
 https://www.youtube.com/watch?v=o-6j8HTyh0g&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=113&t=0s
 
-12.  10-Innocent Bystander by Korn (Untitled).ahk
+10-Innocent Bystander by Korn (Untitled)
 https://www.youtube.com/watch?v=CXwJSKwagVk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=114&t=0s
 
-13.  11-Killing by Korn (Untitled).ahk
+11-Killing by Korn (Untitled)
 https://www.youtube.com/watch?v=LFvWoPDsR-A&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=115&t=0s
 
-14.  12-Hushabye by Korn (Untitled).ahk
+12-Hushabye by Korn (Untitled)
 https://www.youtube.com/watch?v=5Bg5k4JJ0m4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=116&t=0s
 
-15.  13-I Will Protect You by Korn (Untitled).ahk
+13-I Will Protect You by Korn (Untitled)
 https://www.youtube.com/watch?v=AhQTMLB_1Ss&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=117&t=0s
 
-16.  Daddy.ahk
+Daddy
 https://www.youtube.com/watch?v=zQZodBV39F4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=13&t=0s
 
-17.  Deadsy feat. Jonathan Davis - Sleepy Hollow.ahk
+Deadsy feat. Jonathan Davis - Sleepy Hollow
 https://www.youtube.com/watch?v=TOo0kEGYd1U&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=227&t=0s
 
-18.  Fieldy feat. Jonathan Davis - Just For Now.ahk
+Fieldy feat. Jonathan Davis - Just For Now
 https://www.youtube.com/watch?v=NcbcWR1Wq88&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=224&t=0s
 
-19.  Fieldy`s Dreams - Child Vigilante.ahk
+Fieldy`s Dreams - Child Vigilante
 https://www.youtube.com/watch?v=TLM9FejbyRk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=235&t=0s
 
-20.  Infected Mushroom - Smashing the Opponent (feat. Jonathan Davis).ahk
+Infected Mushroom - Smashing the Opponent (feat. Jonathan Davis)
 https://www.youtube.com/watch?v=cg2FFf20ng0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=229&t=0s
 
-21.  Islander - Wake Up! (feat. Jonathan Davis).ahk
+Islander - Wake Up! (feat. Jonathan Davis)
 https://www.youtube.com/watch?v=-t7kvTc1D-8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=222&t=0s
 
-22.  Jonathan Davis (KoRn) - System (studio).ahk
+Jonathan Davis (KoRn) - System (studio)
 https://www.youtube.com/watch?v=HwyiFR2fSdg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=263&t=0s
 
-23.  Jonathan Davis - Blue Monday (New Order cover).ahk
+Jonathan Davis - Blue Monday (New Order cover)
 https://www.youtube.com/watch?v=P_hVMI73yDE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=210&t=0s
 
-24.  Jonathan Davis - Careless.ahk
+Jonathan Davis - Careless
 https://www.youtube.com/watch?v=xx2daXdJqSE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=264&t=0s
 
-25.  Jonathan Davis - Love on the Rocks.ahk
+Jonathan Davis - Love on the Rocks
 https://www.youtube.com/watch?v=n_PC7RCALlw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=202&t=0s
 
-26.  Jonathan Davis - Not Meant For Me (Sirius Radio session).ahk
+Jonathan Davis - Not Meant For Me (Sirius Radio session)
 https://www.youtube.com/watch?v=z_jbHwoqEZM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=211&t=0s
 
-27.  Jonathan Davis - Not Meant For Me.ahk
+Jonathan Davis - Not Meant For Me
 https://www.youtube.com/watch?v=iRMIxMZVc_4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=209&t=0s
 
-28.  Jonathan Davis - Slept So Long (Sirius radio session).ahk
+Jonathan Davis - Slept So Long (Sirius radio session)
 https://www.youtube.com/watch?v=76okYqKDITo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=214&t=0s
 
-29.  Jonathan Davis - Slept So Long.ahk
+Jonathan Davis - Slept So Long
 https://www.youtube.com/watch?v=ot-xDbyVeXk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=265&t=0s
 
-30.  Jonathan Davis - System (Sirius Radio session).ahk
+Jonathan Davis - System (Sirius Radio session)
 https://www.youtube.com/watch?v=ZN6qu9u_6wQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=213&t=0s
 
-31.  Jonathan Davis And The SFA - 'Alone I Break' live.ahk
+Jonathan Davis And The SFA - 'Alone I Break' live
 https://www.youtube.com/watch?v=CbnQMgzJIFo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=234&t=0s
 
-32.  Jonathan Davis feat. The Cure - Make Me Bad In Between Days (HQ) (VIDEO) - YouTube.flv.ahk
+Jonathan Davis feat. The Cure - Make Me Bad In Between Days (HQ) (VIDEO) - YouTube.flv
 https://www.youtube.com/watch?v=na1xx2etOS4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=230&t=0s
 
-33.  Jonathan Davis feat. Videodrone - Ty Jonathan down (HQ) (Music).ahk
+Jonathan Davis feat. Videodrone - Ty Jonathan down (HQ) (Music)
 https://www.youtube.com/watch?v=r0Qtf1dWtfQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=225&t=0s
 
-34.  Jonathan Davis Forsaken live Sirius Radio session.ahk
+Jonathan Davis Forsaken live Sirius Radio session
 https://www.youtube.com/watch?v=et8CczkuiSU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=212&t=0s
 
-35.  Jonathan Davis Redeemer.ahk
+Jonathan Davis Redeemer
 https://www.youtube.com/watch?v=GwatIFrdFuA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=215&t=0s
 
-36.  Jonathan Davis' Birthday Surprise! (Glasgow, Scotland 18.1.15).ahk
+Jonathan Davis' Birthday Surprise! (Glasgow, Scotland 18.1.15)
 https://www.youtube.com/watch?v=badgcrA7eDU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=251&t=0s
 
-37.  KoRn & Septultura - Look Away(Rare).ahk
+KoRn & Septultura - Look Away(Rare)
 https://www.youtube.com/watch?v=fiAhevHqnug&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=204&t=0s
 
-38.  Korn - 'Chaos Lives In Everything' live - BBC Radio 1 Rock Show.ahk
+Korn - 'Chaos Lives In Everything' live - BBC Radio 1 Rock Show
 https://www.youtube.com/watch?v=TVVHdjUd580&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=255&t=0s
 
-39.  Korn - 'Falling Away From Me' live - BBC Radio 1 Rock Show.ahk
+Korn - 'Falling Away From Me' live - BBC Radio 1 Rock Show
 https://www.youtube.com/watch?v=SBHunwpYn5E&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=254&t=0s
 
-40.  Korn - 'Freak On A Leash' live - BBC Radio 1 Rock Show.ahk
+Korn - 'Freak On A Leash' live - BBC Radio 1 Rock Show
 https://www.youtube.com/watch?v=703Eh2X5Q-Q&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=256&t=0s
 
-41.  Korn - 2013 World Tour rehearsals.ahk
+Korn - 2013 World Tour rehearsals
 https://www.youtube.com/watch?v=YXPKfamTjgg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=236&t=0s
 
-42.  Korn - 4 U.ahk
+Korn - 4 U
 https://www.youtube.com/watch?v=0fgulUuyCDo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=44&t=0s
 
-43.  Korn - A Different World (Feat. Corey Taylor) (Track By Track).ahk
+Korn - A Different World (Feat. Corey Taylor) (Track By Track)
 https://www.youtube.com/watch?v=c8GIBfFc5_0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=250&t=0s
 
-44.  Korn - A Different World (ft Corey Taylor) [ The Serenity Of Suffering, 2016 ] track 05.ahk
+Korn - A Different World (ft Corey Taylor) [ The Serenity Of Suffering, 2016 ] track 05
 https://www.youtube.com/watch?v=hW_2Twp7d2k&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=169&t=0s
 
-45.  Korn - Alive.ahk
+Korn - Alive
 https://www.youtube.com/watch?v=YZ3D04U7Iog&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=180&t=0s
 
-46.  Korn - Alone I Break - VIP Meet & Greet - SSE Hydro Glasgow - 14th December 2016.ahk
+Korn - Alone I Break - VIP Meet & Greet - SSE Hydro Glasgow - 14th December 2016
 https://www.youtube.com/watch?v=_EMY5WPcqz8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=262&t=0s
 
-47.  Korn - Alone I Break.ahk
+Korn - Alone I Break
 https://www.youtube.com/watch?v=pVRFpBHoTuw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=65&t=0s
 
-48.  Korn - Am I Going Crazy.ahk
+Korn - Am I Going Crazy
 https://www.youtube.com/watch?v=xX7BxCecutw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=49&t=0s
 
-49.  Korn - Appears [Lyrics Video].ahk
+Korn - Appears [Lyrics Video]
 https://www.youtube.com/watch?v=j3hIplec7eg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=103&t=0s
 
-50.  Korn - Ass Itch.ahk
+Korn - Ass Itch
 https://www.youtube.com/watch?v=Rla7wt8wKGM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=24&t=0s
 
-51.  Korn - Baby [ The Serenity Of Suffering, 2016 ] track 12 (Deluxe Edition).ahk
+Korn - Baby [ The Serenity Of Suffering, 2016 ] track 12 (Deluxe Edition)
 https://www.youtube.com/watch?v=T5A49sivIk4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=176&t=0s
 
-52.  Korn - Ball Tongue.ahk
+Korn - Ball Tongue
 https://www.youtube.com/watch?v=XDaQaFx2FU4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=4&t=0s
 
-53.  Korn - Beat It Upright.ahk
+Korn - Beat It Upright
 https://www.youtube.com/watch?v=liZKlft2kuA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=67&t=0s
 
-54.  Korn - Beg For Me.ahk
+Korn - Beg For Me
 https://www.youtube.com/watch?v=Q_YOjvZRggo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=45&t=0s
 
-55.  Korn - Black Is The Soul (Track By Track).ahk
+Korn - Black Is The Soul (Track By Track)
 https://www.youtube.com/watch?v=RQPJUfJSghQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=240&t=0s
 
-56.  Korn - Black Is The Soul [ The Serenity Of Suffering, 2016 ] track 03.ahk
+Korn - Black Is The Soul [ The Serenity Of Suffering, 2016 ] track 03
 https://www.youtube.com/watch?v=7kIYVo2Yt1c&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=167&t=0s
 
-57.  Korn - Blame.ahk
+Korn - Blame
 https://www.youtube.com/watch?v=FrPRU3S_ng4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=59&t=0s
 
-58.  KoRn - Bleeding Out [Lyrics] [HD].ahk
+KoRn - Bleeding Out [Lyrics] [HD]
 https://www.youtube.com/watch?v=yXjAldB3D1Q&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=145&t=0s
 
-59.  Korn - Blind live rare 1993.ahk
+Korn - Blind live rare 1993
 https://www.youtube.com/watch?v=1hPZrZfCvZU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=252&t=0s
 
-60.  Korn - Blind.ahk
+Korn - Blind
 https://www.youtube.com/watch?v=5_hIojjA3A4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=2&t=0s
 
-61.  Korn - Bottled Up Inside.ahk
+Korn - Bottled Up Inside
 https://www.youtube.com/watch?v=YnfgOxOf1Zw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=61&t=0s
 
-62.  Korn - Break Some Off.ahk
+Korn - Break Some Off
 https://www.youtube.com/watch?v=qyPVJYAoMQw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=72&t=0s
 
-63.  KoRn - Burn The Obedient [Lyrics] [HD].ahk
+KoRn - Burn The Obedient [Lyrics] [HD]
 https://www.youtube.com/watch?v=4VVl6Jk-Kfc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=138&t=0s
 
-64.  Korn - Calling Me Too Soon [ The Serenity Of Suffering, 2016 ] track 13 (Deluxe Edition).ahk
+Korn - Calling Me Too Soon [ The Serenity Of Suffering, 2016 ] track 13 (Deluxe Edition)
 https://www.youtube.com/watch?v=rHhoydcZyGY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=177&t=0s
 
-65.  KoRn - Chaos Lives In Everything [Lyrics] [HD].ahk
+KoRn - Chaos Lives In Everything [Lyrics] [HD]
 https://www.youtube.com/watch?v=Mck5rr9G8JQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=133&t=0s
 
-66.  Korn - Chi.ahk
+Korn - Chi
 https://www.youtube.com/watch?v=aTNjNKQGBkI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=15&t=0s
 
-67.  Korn - Children of the Korn (Follow the Leader).ahk
+Korn - Children of the Korn (Follow the Leader)
 https://www.youtube.com/watch?v=dDKqYwqN0BY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=31&t=0s
 
-68.  Korn - Christmas Song.ahk
+Korn - Christmas Song
 https://www.youtube.com/watch?v=ePzaV2jovvA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=197&t=0s
 
-69.  Korn - Clown.ahk
+Korn - Clown
 https://www.youtube.com/watch?v=M1AjGjBDd-8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=5&t=0s
 
-70.  Korn - Coming Undone [Lyrics Video].ahk
+Korn - Coming Undone [Lyrics Video]
 https://www.youtube.com/watch?v=7AX2sOt0pb8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=92&t=0s
 
-71.  Korn - Coming-Will We Rock You (Live BBC RADIO 1).ahk
+Korn - Coming-Will We Rock You (Live BBC RADIO 1)
 https://www.youtube.com/watch?v=AZJs0O2vhb0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=257&t=0s
 
-72.  Korn - Counting On Me.ahk
+Korn - Counting On Me
 https://www.youtube.com/watch?v=mjTR9S3APkE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=73&t=0s
 
-73.  Korn - Counting.ahk
+Korn - Counting
 https://www.youtube.com/watch?v=4E2hkCsqUAw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=55&t=0s
 
-74.  Korn - Creep (Unplugged) 2007.ahk
+Korn - Creep (Unplugged) 2007
 https://www.youtube.com/watch?v=RS2Gt05vhwA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=233&t=0s
 
-75.  Korn - Daddy.ahk
+Korn - Daddy
 https://www.youtube.com/watch?v=bEiqgPclKh4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=179&t=0s
 
-76.  Korn - Dead Bodies Everywhere (Follow the Leader).ahk
+Korn - Dead Bodies Everywhere (Follow the Leader)
 https://www.youtube.com/watch?v=S_NZS1PUU40&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=30&t=0s
 
-77.  Korn - Dead.ahk
+Korn - Dead
 https://www.youtube.com/watch?v=MQ4CXxhAF8k&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=41&t=0s
 
-78.  Korn - Deep Inside.ahk
+Korn - Deep Inside
 https://www.youtube.com/watch?v=hAU-5h0RfwE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=75&t=0s
 
-79.  Korn - Did My Time.ahk
+Korn - Did My Time
 https://www.youtube.com/watch?v=9g-yx883U1U&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=76&t=0s
 
-80.  Korn - Die Another Day [Lyrics Video].ahk
+Korn - Die Another Day [Lyrics Video]
 https://www.youtube.com/watch?v=CltLToXjFuI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=161&t=0s
 
-81.  Korn - Die Yet Another Night [ The Serenity Of Suffering, 2016 ] track 08.ahk
+Korn - Die Yet Another Night [ The Serenity Of Suffering, 2016 ] track 08
 https://www.youtube.com/watch?v=klVxZeNIi_U&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=172&t=0s
 
-82.  Korn - Divine.ahk
+Korn - Divine
 https://www.youtube.com/watch?v=IetaaBPtS6I&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=8&t=0s
 
-83.  Korn - Eaten Up Inside [Lyrics Video].ahk
+Korn - Eaten Up Inside [Lyrics Video]
 https://www.youtube.com/watch?v=ut-VRLc9LvM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=100&t=0s
 
-84.  Korn - Embrace.ahk
+Korn - Embrace
 https://www.youtube.com/watch?v=3lM_7dYunM8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=66&t=0s
 
-85.  Korn - End Of Time (feat. q-tip).ahk
+Korn - End Of Time (feat. q-tip)
 https://www.youtube.com/watch?v=Mco_J0FjD9o&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=187&t=0s
 
-86.  Korn - Everything Falls Apart (Track By Track).ahk
+Korn - Everything Falls Apart (Track By Track)
 https://www.youtube.com/watch?v=pI81T__fTig&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=242&t=0s
 
-87.  Korn - Everything Falls Apart [ The Serenity Of Suffering, 2016 ] track 07.ahk
+Korn - Everything Falls Apart [ The Serenity Of Suffering, 2016 ] track 07
 https://www.youtube.com/watch?v=qBaB_N_p-fI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=171&t=0s
 
-88.  Korn - Faget.ahk
+Korn - Faget
 https://www.youtube.com/watch?v=h3_3U0DdBR8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=7&t=0s
 
-89.  Korn - Fake.ahk
+Korn - Fake
 https://www.youtube.com/watch?v=zd4u12pcTzY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=10&t=0s
 
-90.  Korn - Falling Away From Me.ahk
+Korn - Falling Away From Me
 https://www.youtube.com/watch?v=VDsaNnQnd7U&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=42&t=0s
 
-91.  Korn - Fight The Power (feat. Xzibit).ahk
+Korn - Fight The Power (feat. Xzibit)
 https://www.youtube.com/watch?v=ELkwT4Pxhas&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=189&t=0s
 
-92.  Korn - For No One [Lyrics Video].ahk
+Korn - For No One [Lyrics Video]
 https://www.youtube.com/watch?v=YNF6zpt__50&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=95&t=0s
 
-93.  Korn - Freak on a Leash (Follow the Leader).ahk
+Korn - Freak on a Leash (Follow the Leader)
 https://www.youtube.com/watch?v=Bdg_sO6PegI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=28&t=0s
 
-94.  koRn - Freak On A Leash (Live) ft. Amy Lee.ahk
+koRn - Freak On A Leash (Live) ft. Amy Lee
 https://www.youtube.com/watch?v=YNxbCK8SaA8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=232&t=0s
 
-95.  KoRn - Fuels The Comedy[Lyrics] [HD].ahk
+KoRn - Fuels The Comedy[Lyrics] [HD]
 https://www.youtube.com/watch?v=oll-amIVRwY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=146&t=0s
 
-96.  KoRn - Get Up! [Lyrics] [HD].ahk
+KoRn - Get Up! [Lyrics] [HD]
 https://www.youtube.com/watch?v=MEiNjGNBQNY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=143&t=0s
 
-97.  Korn - Getting Off [Lyrics Video].ahk
+Korn - Getting Off [Lyrics Video]
 https://www.youtube.com/watch?v=D36aS3FR_DY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=93&t=0s
 
-98.  Korn - Got the Life (Follow the Leader).ahk
+Korn - Got the Life (Follow the Leader)
 https://www.youtube.com/watch?v=XXSUZQ_df1E&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=29&t=0s
 
-99.  Korn - Hater [Lyrics Video].ahk
+Korn - Hater [Lyrics Video]
 https://www.youtube.com/watch?v=kiebwp7vj3A&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=162&t=0s
 
-100.  Korn - Hating.ahk
+Korn - Hating
 https://www.youtube.com/watch?v=FFcmbaeClEc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=63&t=0s
 
-101.  Korn - Haze [Lyrics Video].ahk
+Korn - Haze [Lyrics Video]
 https://www.youtube.com/watch?v=7oP8uQvgV5Q&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=120&t=0s
 
-102.  Korn - Helmet in the Bush.ahk
+Korn - Helmet in the Bush
 https://www.youtube.com/watch?v=AdjQ20pqoXk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=12&t=0s
 
-103.  Korn - Here It Comes Again.ahk
+Korn - Here It Comes Again
 https://www.youtube.com/watch?v=BCUqkcwY0rU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=74&t=0s
 
-104.  Korn - Here To Stay.ahk
+Korn - Here To Stay
 https://www.youtube.com/watch?v=ZCIcyKmJj5I&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=57&t=0s
 
-105.  Korn - Hey Daddy.ahk
+Korn - Hey Daddy
 https://www.youtube.com/watch?v=ZZ-Ubi2Ewyc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=50&t=0s
 
-106.  Korn - Hidden Track.ahk
+Korn - Hidden Track
 https://www.youtube.com/watch?v=K5TBziKWBDc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=183&t=0s
 
-107.  Korn - Hollow Life.ahk
+Korn - Hollow Life
 https://www.youtube.com/watch?v=XchW1z3fbVY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=60&t=0s
 
-108.  Korn - I Can Remember.ahk
+Korn - I Can Remember
 https://www.youtube.com/watch?v=ra5_lZMvmJY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=192&t=0s
 
-109.  Korn - I'm Hiding.ahk
+Korn - I'm Hiding
 https://www.youtube.com/watch?v=oCX6pt4RZdE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=69&t=0s
 
-110.  Korn - I'm The One [Lyrics Video].ahk
+Korn - I'm The One [Lyrics Video]
 https://www.youtube.com/watch?v=1oGuVyzhuiE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=104&t=0s
 
-111.  KoRn - Illuminati [Lyrics] [HD].ahk
+KoRn - Illuminati [Lyrics] [HD]
 https://www.youtube.com/watch?v=k8b4mC4RfGM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=137&t=0s
 
-112.  KoRn - Insane (live BBC RADIO 2017).ahk
+KoRn - Insane (live BBC RADIO 2017)
 https://www.youtube.com/watch?v=Q_3K7zJHxvE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=258&t=0s
 
-113.  Korn - Insane (Track By Track).ahk
+Korn - Insane (Track By Track)
 https://www.youtube.com/watch?v=5s8108PdOyk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=248&t=0s
 
-114.  Korn - Insane [ The Serenity Of Suffering, 2016 ] track 01.ahk
+Korn - Insane [ The Serenity Of Suffering, 2016 ] track 01
 https://www.youtube.com/watch?v=Q4H-q8xhtrs&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=165&t=0s
 
-115.  Korn - Inside Out [Lyrics Video].ahk
+Korn - Inside Out [Lyrics Video]
 https://www.youtube.com/watch?v=rH_VsDWqLaI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=98&t=0s
 
-116.  Korn - It's All Wrong [Lyrics Video].ahk
+Korn - It's All Wrong [Lyrics Video]
 https://www.youtube.com/watch?v=mVsuAlaEfJE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=158&t=0s
 
-117.  Korn - It's Gonna Go Away.ahk
+Korn - It's Gonna Go Away
 https://www.youtube.com/watch?v=v3rd71QACvY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=47&t=0s
 
-118.  Korn - It's Me Again [Lyrics Video].ahk
+Korn - It's Me Again [Lyrics Video]
 https://www.youtube.com/watch?v=cEuCuXdVaXo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=99&t=0s
 
-119.  Korn - It's On! (Follow the Leader).ahk
+Korn - It's On! (Follow the Leader)
 https://www.youtube.com/watch?v=U_8ULVI0igc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=27&t=0s
 
-120.  KoRn - Jon & Munk jam's (rare).ahk
+KoRn - Jon & Munk jam's (rare)
 https://www.youtube.com/watch?v=r0wkrn6wm5w&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=261&t=0s
 
-121.  Korn - K@#0%!.ahk
+Korn - K@#0%!
 https://www.youtube.com/watch?v=34lSkoFPZXM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=21&t=0s
 
-122.  KoRn - Kidnapp The Sandy Claws (Danny Elfman cover).ahk
+KoRn - Kidnapp The Sandy Claws (Danny Elfman cover)
 https://www.youtube.com/watch?v=EquZ2t6Hm7Q&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=196&t=0s
 
-123.  KoRn - Kill Mercy Within [Lyrics] [HD].ahk
+KoRn - Kill Mercy Within [Lyrics] [HD]
 https://www.youtube.com/watch?v=B4JfoIG7eko&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=134&t=0s
 
-124.  Korn - Kill You.ahk
+Korn - Kill You
 https://www.youtube.com/watch?v=oTkrxlacdpE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=25&t=0s
 
-125.  Korn - Last Legal Drug [Lyrics Video].ahk
+Korn - Last Legal Drug [Lyrics Video]
 https://www.youtube.com/watch?v=TtH3VBSmOog&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=101&t=0s
 
-126.  KoRn - Layla.ahk
+KoRn - Layla
 https://www.youtube.com/watch?v=hsTFdJCCKNk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=194&t=0s
 
-127.  Korn - Let's Get This Party Started.ahk
+Korn - Let's Get This Party Started
 https://www.youtube.com/watch?v=n_pUTH6l_Fw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=53&t=0s
 
-128.  KoRn - Let's Go [Lyrics] [HD].ahk
+KoRn - Let's Go [Lyrics] [HD]
 https://www.youtube.com/watch?v=eOyhx9KY4sg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=142&t=0s
 
-129.  Korn - Liar [Lyrics Video].ahk
+Korn - Liar [Lyrics Video]
 https://www.youtube.com/watch?v=EvNU7U9HUeI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=94&t=0s
 
-130.  Korn - Lies.ahk
+Korn - Lies
 https://www.youtube.com/watch?v=DD0pBapR93Q&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=11&t=0s
 
-131.  Korn - Love & Meth [Lyrics Video].ahk
+Korn - Love & Meth [Lyrics Video]
 https://www.youtube.com/watch?v=XJrvXNRTUEY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=149&t=0s
 
-132.  Korn - Love My Way.ahk
+Korn - Love My Way
 https://www.youtube.com/watch?v=rB7-J1OlxrE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=201&t=0s
 
-133.  Korn - Lowrider.ahk
+Korn - Lowrider
 https://www.youtube.com/watch?v=VUzfsproxAM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=23&t=0s
 
-134.  Korn - Lullaby For A Sadist [Lyrics Video].ahk
+Korn - Lullaby For A Sadist [Lyrics Video]
 https://www.youtube.com/watch?v=qQxBCHWJm-A&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=156&t=0s
 
-135.  Korn - Make Me Bad.ahk
+Korn - Make Me Bad
 https://www.youtube.com/watch?v=Nyjs19vMS1s&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=46&t=0s
 
-136.  Korn - Making Of 'A Different World (feat. Corey Taylor)'.ahk
+Korn - Making Of 'A Different World (feat. Corey Taylor)'
 https://www.youtube.com/watch?v=TCHky70EfWM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=238&t=0s
 
-137.  Korn - Making Of 'Die Yet Another Night' (AKA 'Colon Water').ahk
+Korn - Making Of 'Die Yet Another Night' (AKA 'Colon Water')
 https://www.youtube.com/watch?v=16O_bXCOL4k&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=239&t=0s
 
-138.  Korn - Making Of 'Insane'.ahk
+Korn - Making Of 'Insane'
 https://www.youtube.com/watch?v=ZHtcsotmod0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=237&t=0s
 
-139.  KoRn - My Wall [Lyrics] [HD].ahk
+KoRn - My Wall [Lyrics] [HD]
 https://www.youtube.com/watch?v=xoJ20YR-db0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=135&t=0s
 
-140.  KoRn - Narcissistic Cannibal [Lyrics] [HD].ahk
+KoRn - Narcissistic Cannibal [Lyrics] [HD]
 https://www.youtube.com/watch?v=Dz0qlLMyaJc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=136&t=0s
 
-141.  Korn - Need To.ahk
+Korn - Need To
 https://www.youtube.com/watch?v=i5De19nvdAM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=3&t=0s
 
-142.  Korn - Never Never [Lyrics Video].ahk
+Korn - Never Never [Lyrics Video]
 https://www.youtube.com/watch?v=JI7pGa-gnm8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=154&t=0s
 
-143.  Korn - Next in Line (Track By Track).ahk
+Korn - Next in Line (Track By Track)
 https://www.youtube.com/watch?v=5eHdaFrGTiI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=245&t=0s
 
-144.  Korn - Next In Line [ The Serenity Of Suffering, 2016 ] track 10.ahk
+Korn - Next In Line [ The Serenity Of Suffering, 2016 ] track 10
 https://www.youtube.com/watch?v=FTKD3rgZdtk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=174&t=0s
 
-145.  Korn - No One's There.ahk
+Korn - No One's There
 https://www.youtube.com/watch?v=JISRXPEX5PE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=70&t=0s
 
-146.  Korn - No Way.ahk
+Korn - No Way
 https://www.youtube.com/watch?v=Ln3L5q_lwnM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=52&t=0s
 
-147.  Korn - October US Tour Gold VIP Package.ahk
+Korn - October US Tour Gold VIP Package
 https://www.youtube.com/watch?v=b_uj915lR88&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=249&t=0s
 
-148.  Korn - One (Live).ahk
+Korn - One (Live)
 https://www.youtube.com/watch?v=fWBp4pNSy_0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=193&t=0s
 
-149.  Korn - One More Time.ahk
+Korn - One More Time
 https://www.youtube.com/watch?v=5qP3pvK5KOo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=64&t=0s
 
-150.  Korn - Out Of You [ The Serenity Of Suffering, 2016 ] track 14 (Japan Edition).ahk
+Korn - Out Of You [ The Serenity Of Suffering, 2016 ] track 14 (Japan Edition)
 https://www.youtube.com/watch?v=MbvDqlUynfM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=178&t=0s
 
-151.  Korn - Paranoid & Aroused [Lyrics Video].ahk
+Korn - Paranoid & Aroused [Lyrics Video]
 https://www.youtube.com/watch?v=mdyOeu5ZUss&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=153&t=0s
 
-152.  Korn - Please Come For Me (Track By Track).ahk
+Korn - Please Come For Me (Track By Track)
 https://www.youtube.com/watch?v=Q-zd-m4fCIA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=244&t=0s
 
-153.  Korn - Please Come For Me [ The Serenity Of Suffering, 2016 ] track 11.ahk
+Korn - Please Come For Me [ The Serenity Of Suffering, 2016 ] track 11
 https://www.youtube.com/watch?v=sriKcty9awA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=175&t=0s
 
-154.  Korn - Porno Creep.ahk
+Korn - Porno Creep
 https://www.youtube.com/watch?v=bNJHCxAyz2g&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=18&t=0s
 
-155.  Korn - Predictable.ahk
+Korn - Predictable
 https://www.youtube.com/watch?v=BfKHAIc84Tw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=9&t=0s
 
-156.  Korn - Prey For Me [Lyrics Video].ahk
+Korn - Prey For Me [Lyrics Video]
 https://www.youtube.com/watch?v=-ffPA9Srlq4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=148&t=0s
 
-157.  Korn - Punishment Time [Lyrics Video].ahk
+Korn - Punishment Time [Lyrics Video]
 https://www.youtube.com/watch?v=Z7sF9k_g3mA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=155&t=0s
 
-158.  Korn - Right Now.ahk
+Korn - Right Now
 https://www.youtube.com/watch?v=eYCXM5Xlw7o&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=71&t=0s
 
-159.  Korn - Rotting In Vain (Track By Track).ahk
+Korn - Rotting In Vain (Track By Track)
 https://www.youtube.com/watch?v=v2uX2Eg7qfg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=247&t=0s
 
-160.  Korn - Rotting In Vain [ The Serenity Of Suffering, 2016 ] track 02.ahk
+Korn - Rotting In Vain [ The Serenity Of Suffering, 2016 ] track 02
 https://www.youtube.com/watch?v=fr6niwckJbc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=166&t=0s
 
-161.  KoRn - Sanctuary [Lyrics] [HD].ahk
+KoRn - Sanctuary [Lyrics] [HD]
 https://www.youtube.com/watch?v=GFaWpUjHP4U&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=139&t=0s
 
-162.  Korn - Seen It All [Lyrics Video].ahk
+Korn - Seen It All [Lyrics Video]
 https://www.youtube.com/watch?v=o5WEnBHE4hY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=96&t=0s
 
-163.  Korn - Shoots and Ladders.ahk
+Korn - Shoots and Ladders
 https://www.youtube.com/watch?v=ys3A_SMt1WY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=6&t=0s
 
-164.  Korn - So Unfair [Lyrics Video].ahk
+Korn - So Unfair [Lyrics Video]
 https://www.youtube.com/watch?v=qDWivP7XHz4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=164&t=0s
 
-165.  Korn - Somebody Someone.ahk
+Korn - Somebody Someone
 https://www.youtube.com/watch?v=igX0ZEJKXsQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=51&t=0s
 
-166.  Korn - Spike In My Veins [Lyrics Video].ahk
+Korn - Spike In My Veins [Lyrics Video]
 https://www.youtube.com/watch?v=p397J6useOo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=151&t=0s
 
-167.  Korn - Swallow.ahk
+Korn - Swallow
 https://www.youtube.com/watch?v=6fV8qnKqQOk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=17&t=0s
 
-168.  Korn - Take Me (Track By Track).ahk
+Korn - Take Me (Track By Track)
 https://www.youtube.com/watch?v=_BfjxQJW_d4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=246&t=0s
 
-169.  Korn - Take Me [ The Serenity Of Suffering, 2016 ] track 06.ahk
+Korn - Take Me [ The Serenity Of Suffering, 2016 ] track 06
 https://www.youtube.com/watch?v=NzxQXFWsUdc&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=170&t=0s
 
-170.  Korn - Tearjerker [Lyrics Video].ahk
+Korn - Tearjerker [Lyrics Video]
 https://www.youtube.com/watch?v=sVRxmlft8Qg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=97&t=0s
 
-171.  Korn - Tell Me What You Want [Lyrics Video].ahk
+Korn - Tell Me What You Want [Lyrics Video]
 https://www.youtube.com/watch?v=PqBoPkyU5b0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=160&t=0s
 
-172.  KoRn - Tension [Lyrics] [HD].ahk
+KoRn - Tension [Lyrics] [HD]
 https://www.youtube.com/watch?v=GDELMZAzm-E&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=147&t=0s
 
-173.  Korn - The Camel Song.ahk
+Korn - The Camel Song
 https://www.youtube.com/watch?v=xpjHLRlkga0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=186&t=0s
 
-174.  Korn - The Game Is Over [Lyrics Video].ahk
+Korn - The Game Is Over [Lyrics Video]
 https://www.youtube.com/watch?v=j1LbveWmdQ0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=163&t=0s
 
-175.  Korn - The Hating (Track By Track).ahk
+Korn - The Hating (Track By Track)
 https://www.youtube.com/watch?v=Cxo-SpKhYus&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=241&t=0s
 
-176.  Korn - The Hating [ The Serenity Of Suffering, 2016 ] track 04.ahk
+Korn - The Hating [ The Serenity Of Suffering, 2016 ] track 04
 https://www.youtube.com/watch?v=5A5H5RZ94ZQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=168&t=0s
 
-177.  Korn - Thoughtless.ahk
+Korn - Thoughtless
 https://www.youtube.com/watch?v=t0keKk18sZE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=62&t=0s
 
-178.  Korn - Too Late I'm Dead [Lyrics Video].ahk
+Korn - Too Late I'm Dead [Lyrics Video]
 https://www.youtube.com/watch?v=4nJSkV-MRN4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=102&t=0s
 
-179.  KoRn - Trappened Underneath The Stairs.ahk
+KoRn - Trappened Underneath The Stairs
 https://www.youtube.com/watch?v=wLBgwWTuFlI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=266&t=0s
 
-180.  Korn - Trash.ahk
+Korn - Trash
 https://www.youtube.com/watch?v=v9D8eT8s8f0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=43&t=0s
 
-181.  Korn - Twist A Cappella.ahk
+Korn - Twist A Cappella
 https://www.youtube.com/watch?v=15mUpN_uF5o&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=26&t=0s
 
-182.  Korn - Twist.ahk
+Korn - Twist
 https://www.youtube.com/watch?v=nRz-yw-wp34&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=14&t=0s
 
-183.  Korn - Untitled Hidden Track (from Untouchables).ahk
+Korn - Untitled Hidden Track (from Untouchables)
 https://www.youtube.com/watch?v=w3xyVyOCzl0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=185&t=0s
 
-184.  Korn - Victimized [Lyrics Video].ahk
+Korn - Victimized [Lyrics Video]
 https://www.youtube.com/watch?v=iUnTlQKjmuo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=157&t=0s
 
-185.  Korn - Wake Up Hate.ahk
+Korn - Wake Up Hate
 https://www.youtube.com/watch?v=WLJY-N9QSD8&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=68&t=0s
 
-186.  Korn - Wake Up Now (feat. Notorious BIG).ahk
+Korn - Wake Up Now (feat. Notorious BIG)
 https://www.youtube.com/watch?v=0O2OEgomRds&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=190&t=0s
 
-187.  Korn - Wake Up.ahk
+Korn - Wake Up
 https://www.youtube.com/watch?v=Vu4Woq5a7Cw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=48&t=0s
 
-188.  KoRn - Way Too Far [Lyrics] [HD].ahk
+KoRn - Way Too Far [Lyrics] [HD]
 https://www.youtube.com/watch?v=j13haLt4yaw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=144&t=0s
 
-189.  Korn - What We Do [Lyrics Video].ahk
+Korn - What We Do [Lyrics Video]
 https://www.youtube.com/watch?v=WDkNprZD9hY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=150&t=0s
 
-190.  Korn - When You're Not Here (Track By Track).ahk
+Korn - When You're Not Here (Track By Track)
 https://www.youtube.com/watch?v=mFYeDpiUln0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=243&t=0s
 
-191.  Korn - When You're Not There [ The Serenity Of Suffering, 2016 ] track 09.ahk
+Korn - When You're Not There [ The Serenity Of Suffering, 2016 ] track 09
 https://www.youtube.com/watch?v=nrg2U_1o3os&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=173&t=0s
 
-192.  Korn - Wish I Wasn't Born Today [Lyrics Video].ahk
+Korn - Wish I Wasn't Born Today [Lyrics Video]
 https://www.youtube.com/watch?v=y0sj8-L5NhM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=159&t=0s
 
-193.  Korn - Wish You Could Be Me.ahk
+Korn - Wish You Could Be Me
 https://www.youtube.com/watch?v=RQECnCl8Li0&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=54&t=0s
 
-194.  Korn feat. Robert Smith - In between days (make me bad) HQ.ahk
+Korn feat. Robert Smith - In between days (make me bad) HQ
 https://www.youtube.com/watch?v=-d1lQxreiFQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=231&t=0s
 
-195.  Korn Hidden Song (Follow the leader).ahk
+Korn Hidden Song (Follow the leader)
 https://www.youtube.com/watch?v=IR7Y00Ef_VQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=184&t=0s
 
-196.  Korn Inside Out.ahk
+Korn Inside Out
 https://www.youtube.com/watch?v=PinKVr8QKAI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=191&t=0s
 
-197.  KoRn Kunt and Mr. Rogers 1996 Rare Footage.ahk
+KoRn Kunt and Mr. Rogers 1996 Rare Footage
 https://www.youtube.com/watch?v=qZ8TQ948PyA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=208&t=0s
 
-198.  Korn- Dirty.ahk
+Korn- Dirty
 https://www.youtube.com/watch?v=DOezN6NcxRs&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=56&t=0s
 
-199.  Korn- Go Fuck Yourself RARE!.ahk
+Korn- Go Fuck Yourself RARE!
 https://www.youtube.com/watch?v=Lvs9vQTL_GI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=203&t=0s
 
-200.  Korn- Kick the P.A.ahk
+Korn- Kick the P.A
 https://www.youtube.com/watch?v=x-MYEGaXGxI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=188&t=0s
 
-201.  Korn- Lost.ahk
+Korn- Lost
 https://www.youtube.com/watch?v=8M53TQg7EyY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=16&t=0s
 
-202.  Korn- Mr. Rogers.ahk
+Korn- Mr. Rogers
 https://www.youtube.com/watch?v=epFtkbD6Fjo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=20&t=0s
 
-203.  Korn- Overture or Obituary.ahk
+Korn- Overture or Obituary
 https://www.youtube.com/watch?v=N2_aKpMOktM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=119&t=0s
 
-204.  Korn- Sing Sorrow.ahk
+Korn- Sing Sorrow
 https://www.youtube.com/watch?v=nUOJLdmGhWQ&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=118&t=0s
 
-205.  Korn-Fear Is A Place To Live.ahk
+Korn-Fear Is A Place To Live
 https://www.youtube.com/watch?v=aJdiMhE9Tjg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=124&t=0s
 
-206.  Korn-Holding All These Lies.ahk
+Korn-Holding All These Lies
 https://www.youtube.com/watch?v=evtzDUnCjqo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=130&t=0s
 
-207.  Korn-Lead The Parade.ahk
+Korn-Lead The Parade
 https://www.youtube.com/watch?v=b-GX9CWS-B4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=126&t=0s
 
-208.  Korn-Move On.ahk
+Korn-Move On
 https://www.youtube.com/watch?v=ojkwDWjSQKM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=125&t=0s
 
-209.  Korn-Never Around.ahk
+Korn-Never Around
 https://www.youtube.com/watch?v=XY_L-mRIhn4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=128&t=0s
 
-210.  Korn-Oildale (Leave Me Alone).ahk
+Korn-Oildale (Leave Me Alone)
 https://www.youtube.com/watch?v=6kega8yg-Lg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=122&t=0s
 
-211.  Korn-People Pleaser.ahk
+Korn-People Pleaser
 https://www.youtube.com/watch?v=CGnrHLnvtbU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=132&t=0s
 
-212.  Korn-Pop A Pill.ahk
+Korn-Pop A Pill
 https://www.youtube.com/watch?v=x9iX-xz76mg&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=123&t=0s
 
-213.  Korn-The Past.ahk
+Korn-The Past
 https://www.youtube.com/watch?v=6eOJeUGb31s&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=127&t=0s
 
-214.  Korn-Trapped Underneath The Stairs.ahk
+Korn-Trapped Underneath The Stairs
 https://www.youtube.com/watch?v=OfSuosP8FWE&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=131&t=0s
 
-215.  Korn-Uber-Time.ahk
+Korn-Uber-Time
 https://www.youtube.com/watch?v=v0-LOXFg7vw&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=121&t=0s
 
-216.  Ko?n- Earache My Eye (Ft. Cheech Marin from Cheech & Chong).ahk
+Ko?n- Earache My Eye (Ft. Cheech Marin from Cheech & Chong)
 https://www.youtube.com/watch?v=ynDea6SlyVk&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=40&t=0s
 
-217.  Motionless In White - Necessary Evil feat. Jonathan Davis (Official Audio).ahk
+Motionless In White - Necessary Evil feat. Jonathan Davis (Official Audio)
 https://www.youtube.com/watch?v=mU6zjLZlv6k&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=218&t=0s
 
-218.  Motionless In White - Necessary Evil [OFFICIAL VIDEO].ahk
+Motionless In White - Necessary Evil [OFFICIAL VIDEO]
 https://www.youtube.com/watch?v=zeq2nOKvSno&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=217&t=0s
 
-219.  Q-Tip feat. Korn - End of Time.ahk
+Q-Tip feat. Korn - End of Time
 https://www.youtube.com/watch?v=4kwg2eGNHBM&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=200&t=0s
 
-220.  Sepultura-Lookaway (feat Jonathan Davis-Of Korn,Mike Patton & DJ Lethal) (Roots,1996).ahk
+Sepultura-Lookaway (feat Jonathan Davis-Of Korn,Mike Patton & DJ Lethal) (Roots,1996)
 https://www.youtube.com/watch?v=Sip56m_3NcI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=223&t=0s
 
-221.  SexArt - Follow Me (studio session 1993).ahk
+SexArt - Follow Me (studio session 1993)
 https://www.youtube.com/watch?v=K9rkwsPlgMY&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=259&t=0s
 
-222.  Sexart-Inside (rare song) 1992.ahk
+Sexart-Inside (rare song) 1992
 https://www.youtube.com/watch?v=UNhmCAyBnto&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=206&t=0s
 
-223.  sexart-shy.ahk
+sexart-shy
 https://www.youtube.com/watch?v=-5RVWWJgKIo&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=260&t=0s
 
-224.  Snot feat. Jonathan Davis - Take It Back.ahk
+Snot feat. Jonathan Davis - Take It Back
 https://www.youtube.com/watch?v=eLjIddqJPw4&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=228&t=0s
 
-225.  Suicide Silence Witness The Addiction Feat Jonathan Davis (Korn) Lyrics.ahk
+Suicide Silence Witness The Addiction Feat Jonathan Davis (Korn) Lyrics
 https://www.youtube.com/watch?v=ytNch4g41LU&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=219&t=0s
 
-226.  TECH N9NE Starting To Turn (Ft. Jonathan Davis).ahk
+TECH N9NE Starting To Turn (Ft. Jonathan Davis)
 https://www.youtube.com/watch?v=vYtzNnYF4ZI&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=220&t=0s
 
-227.  Whatever Goes Up (feat. Jonathan Davis of KORN).ahk
+Whatever Goes Up (feat. Jonathan Davis of KORN)
 https://www.youtube.com/watch?v=BIlRrfFOPZA&list=PL93rs4Zu5DVhR54v_4bhbq7pbRENQ7Ql9&index=226&t=0s
 Korn

@@ -1,73 +1,73 @@
 
-1.  .ahk
 
 
-2.  Apple.ahk
+
+Apple
 https://en.wikipedia.org/wiki/Apple
 
-3.  Chinese quince.ahk
+Chinese quince
 https://en.wikipedia.org/wiki/Chinese_quince
 
-4.  Chokeberry.ahk
+Chokeberry
 https://en.wikipedia.org/wiki/Chokeberry
 
-5.  Cocky apple.ahk
+Cocky apple
 https://en.wikipedia.org/wiki/Cocky_apple
 
-6.  Eastern mayhaw.ahk
+Eastern mayhaw
 https://en.wikipedia.org/wiki/Crataegus_aestivalis
 
-7.  Hawthorn.ahk
+Hawthorn
 https://en.wikipedia.org/wiki/Crataegus
 
-8.  Jagua.ahk
+Jagua
 https://en.wikipedia.org/wiki/Genipa_americana
 
-9.  Loquat.ahk
+Loquat
 https://en.wikipedia.org/wiki/Loquat
 
-10.  Lovi-lovi.ahk
+Lovi-lovi
 https://en.wikipedia.org/wiki/Flacourtia_inermis
 
-11.  Medlar.ahk
+Medlar
 https://en.wikipedia.org/wiki/Medlar
 
-12.  Niedzwetzky's apple.ahk
+Niedzwetzky's apple
 https://en.wikipedia.org/wiki/Malus_niedzwetzkyana
 
-13.  Pear.ahk
+Pear
 https://en.wikipedia.org/wiki/Pear
 
-14.  Quince.ahk
+Quince
 https://en.wikipedia.org/wiki/Quince
 
-15.  Ramontchi.ahk
+Ramontchi
 https://en.wikipedia.org/wiki/Ramontchi
 
-16.  Rose hip.ahk
+Rose hip
 https://en.wikipedia.org/wiki/Rose_hip
 
-17.  Rowan.ahk
+Rowan
 https://en.wikipedia.org/wiki/Rowan
 
-18.  Sapodilla.ahk
+Sapodilla
 https://en.wikipedia.org/wiki/Sapodilla
 
-19.  Scarlet firethorn.ahk
+Scarlet firethorn
 https://en.wikipedia.org/wiki/Pyracantha_coccinea
 
-20.  Serviceberry.ahk
+Serviceberry
 https://en.wikipedia.org/wiki/Serviceberry
 
-21.  Shipova.ahk
+Shipova
 https://en.wikipedia.org/wiki/Shipova
 
-22.  Sorb.ahk
+Sorb
 https://en.wikipedia.org/wiki/Sorbus_domestica
 
-23.  Southern crabapple.ahk
+Southern crabapple
 https://en.wikipedia.org/wiki/Southern_crabapple
 
-24.  Toyon.ahk
+Toyon
 https://en.wikipedia.org/wiki/Toyon
 1 Pomes

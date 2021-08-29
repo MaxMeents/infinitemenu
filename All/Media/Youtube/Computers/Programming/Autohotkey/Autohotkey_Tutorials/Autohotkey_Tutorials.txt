@@ -1,727 +1,727 @@
 
-1.  #?????? - ???? 11 ???? ?? ????????? - ?????? ??????? .ahk
+#?????? - ???? 11 ???? ?? ????????? - ?????? ??????? 
 https://www.youtube.com/watch?v=mdidFxyUIP8
 
-2.  .ahk
 
 
-3.  Address Lookup on real estate site .ahk
+
+Address Lookup on real estate site 
 https://www.youtube.com/watch?v=K7F1XYfj4Hc
 
-4.  ahkbook to ePub .ahk
+ahkbook to ePub 
 https://www.youtube.com/watch?v=XgHKQIOVBGA
 
-5.  Ahtohotkey- Search for multiple images .ahk
+Ahtohotkey- Search for multiple images 
 https://www.youtube.com/watch?v=KE5ZXrrZnZY
 
-6.  Alerts in Business Objects .ahk
+Alerts in Business Objects 
 https://www.youtube.com/watch?v=stYg7CxhXbQ
 
-7.  API call and SFTP file transfer - How to automate  a secure file transfer .ahk
+API call and SFTP file transfer - How to automate  a secure file transfer 
 https://www.youtube.com/watch?v=8d8ZCMYtUEY
 
-8.  AutoGraph in Excel .ahk
+AutoGraph in Excel 
 https://www.youtube.com/watch?v=LrUZnlaz1_8
 
-9.  autohotkey  pause-turn off script .ahk
+autohotkey  pause-turn off script 
 https://www.youtube.com/watch?v=YTnfmrPChl8
 
-10.  AutoHotkey #1- Install and Hello World  (1147647).ahk
+AutoHotkey #1- Install and Hello World  (1147647)
 https://www.youtube.com/watch?v=HcgQlGeaPHw
 
-11.  AutoHotkey #1- Install and Hello World  (1745349).ahk
+AutoHotkey #1- Install and Hello World  (1745349)
 https://www.youtube.com/watch?v=HcgQlGeaPHw
 
-12.  AutoHotkey #1- Install and Hello World .ahk
+AutoHotkey #1- Install and Hello World 
 https://www.youtube.com/watch?v=HcgQlGeaPHw
 
-13.  AutoHotkey #10- Conditionals (If, Else If, Else)  (1408817).ahk
+AutoHotkey #10- Conditionals (If, Else If, Else)  (1408817)
 https://www.youtube.com/watch?v=xrkJvdJrfy0
 
-14.  AutoHotkey #10- Conditionals (If, Else If, Else) .ahk
+AutoHotkey #10- Conditionals (If, Else If, Else) 
 https://www.youtube.com/watch?v=xrkJvdJrfy0
 
-15.  AutoHotkey #2- Variables  (1645575).ahk
+AutoHotkey #2- Variables  (1645575)
 https://www.youtube.com/watch?v=RmCIr4jNv18
 
-16.  AutoHotkey #2- Variables .ahk
+AutoHotkey #2- Variables 
 https://www.youtube.com/watch?v=RmCIr4jNv18
 
-17.  AutoHotkey #3- Avoiding a very common pitfall with %Var%  (1875954).ahk
+AutoHotkey #3- Avoiding a very common pitfall with %Var%  (1875954)
 https://www.youtube.com/watch?v=30iTlxXxcHU
 
-18.  AutoHotkey #3- Avoiding a very common pitfall with %Var% .ahk
+AutoHotkey #3- Avoiding a very common pitfall with %Var% 
 https://www.youtube.com/watch?v=30iTlxXxcHU
 
-19.  AutoHotkey #4- Artificial Input part 1  (1306957).ahk
+AutoHotkey #4- Artificial Input part 1  (1306957)
 https://www.youtube.com/watch?v=Fz42OhciGL8
 
-20.  AutoHotkey #4- Artificial Input part 1 .ahk
+AutoHotkey #4- Artificial Input part 1 
 https://www.youtube.com/watch?v=Fz42OhciGL8
 
-21.  AutoHotkey #5- Artificial Input part 2  (1601819).ahk
+AutoHotkey #5- Artificial Input part 2  (1601819)
 https://www.youtube.com/watch?v=7fU0sWNuBUw
 
-22.  AutoHotkey #5- Artificial Input part 2 .ahk
+AutoHotkey #5- Artificial Input part 2 
 https://www.youtube.com/watch?v=7fU0sWNuBUw
 
-23.  AutoHotkey #6- Hotkeys part 1  (1606294).ahk
+AutoHotkey #6- Hotkeys part 1  (1606294)
 https://www.youtube.com/watch?v=Kx6eFrG5Zos
 
-24.  AutoHotkey #6- Hotkeys part 1 .ahk
+AutoHotkey #6- Hotkeys part 1 
 https://www.youtube.com/watch?v=Kx6eFrG5Zos
 
-25.  AutoHotkey #7- Hotkeys part 2  (1972202).ahk
+AutoHotkey #7- Hotkeys part 2  (1972202)
 https://www.youtube.com/watch?v=VU9oxHTUEp4
 
-26.  AutoHotkey #7- Hotkeys part 2 .ahk
+AutoHotkey #7- Hotkeys part 2 
 https://www.youtube.com/watch?v=VU9oxHTUEp4
 
-27.  AutoHotkey #8- Making GUIs (example with notepad)  (1094608).ahk
+AutoHotkey #8- Making GUIs (example with notepad)  (1094608)
 https://www.youtube.com/watch?v=8GxgVgyzFqI
 
-28.  AutoHotkey #8- Making GUIs (example with notepad) .ahk
+AutoHotkey #8- Making GUIs (example with notepad) 
 https://www.youtube.com/watch?v=8GxgVgyzFqI
 
-29.  AutoHotkey #9- Functions  (1474879).ahk
+AutoHotkey #9- Functions  (1474879)
 https://www.youtube.com/watch?v=vJ27HcQomsk
 
-30.  AutoHotkey #9- Functions .ahk
+AutoHotkey #9- Functions 
 https://www.youtube.com/watch?v=vJ27HcQomsk
 
-31.  autohotkey - Open URL In The Same Browser Window New Tab .ahk
+autohotkey - Open URL In The Same Browser Window New Tab 
 https://www.youtube.com/watch?v=p_U8rJ3hZ5M
 
-32.  Autohotkey - Open URL In The Same Tab .ahk
+Autohotkey - Open URL In The Same Tab 
 https://www.youtube.com/watch?v=Gd9zEQZS7xs
 
-33.  AutoHotKey - Tutorial 1 (Follow up part 1) Resources, File names, and Folders.  (1052339).ahk
+AutoHotKey - Tutorial 1 (Follow up part 1) Resources, File names, and Folders.  (1052339)
 https://www.youtube.com/watch?v=SGaSMpNlYBY
 
-34.  AutoHotKey - Tutorial 1 (Follow up part 1) Resources, File names, and Folders. .ahk
+AutoHotKey - Tutorial 1 (Follow up part 1) Resources, File names, and Folders. 
 https://www.youtube.com/watch?v=SGaSMpNlYBY
 
-35.  AutoHotKey - Tutorial 1 (Follow up part 2) MouseMove, Comments and Hotkeys  (1173603).ahk
+AutoHotKey - Tutorial 1 (Follow up part 2) MouseMove, Comments and Hotkeys  (1173603)
 https://www.youtube.com/watch?v=1MNLLswHvk0
 
-36.  AutoHotKey - Tutorial 1 (Follow up part 2) MouseMove, Comments and Hotkeys .ahk
+AutoHotKey - Tutorial 1 (Follow up part 2) MouseMove, Comments and Hotkeys 
 https://www.youtube.com/watch?v=1MNLLswHvk0
 
-37.  Autohotkey - use variable as hotkey .ahk
+Autohotkey - use variable as hotkey 
 https://www.youtube.com/watch?v=HEyNkQhTl-0
 
-38.  autohotkey - wait for event .ahk
+autohotkey - wait for event 
 https://www.youtube.com/watch?v=RODUvjgoTlo
 
-39.  AutoHotKey -Tutorial 1 (Follow up part 3) Clicks and loops introduction  (1487580).ahk
+AutoHotKey -Tutorial 1 (Follow up part 3) Clicks and loops introduction  (1487580)
 https://www.youtube.com/watch?v=IO302M-znSs
 
-40.  AutoHotKey -Tutorial 1 (Follow up part 3) Clicks and loops introduction .ahk
+AutoHotKey -Tutorial 1 (Follow up part 3) Clicks and loops introduction 
 https://www.youtube.com/watch?v=IO302M-znSs
 
-41.  Autohotkey Advanced Tutorial .ahk
+Autohotkey Advanced Tutorial 
 https://www.youtube.com/watch?v=7G4u5fE_7vw
 
-42.  AutoHotkey and Excel - AutoHotkey Tutorial #10 .ahk
+AutoHotkey and Excel - AutoHotkey Tutorial #10 
 https://www.youtube.com/watch?v=p5TNM8koMfw
 
-43.  Autohotkey Arrays Tutorial .ahk
+Autohotkey Arrays Tutorial 
 https://www.youtube.com/watch?v=uAqWishdco8
 
-44.  autohotkey auto clicker tutorial .ahk
+autohotkey auto clicker tutorial 
 https://www.youtube.com/watch?v=y5ZhXrnEwL4
 
-45.  AutoHotkey Commands Tutorial #2- MouseGetPos .ahk
+AutoHotkey Commands Tutorial #2- MouseGetPos 
 https://www.youtube.com/watch?v=kKqot2_E5tQ
 
-46.  AutoHotkey Commands Tutorial #3- PixelGetColor (Part 1- Getting The Color) .ahk
+AutoHotkey Commands Tutorial #3- PixelGetColor (Part 1- Getting The Color) 
 https://www.youtube.com/watch?v=OZrs9Rd2vsU
 
-47.  AutoHotkey Commands Tutorial #3- PixelGetColor (Part 2- Using The Color) .ahk
+AutoHotkey Commands Tutorial #3- PixelGetColor (Part 2- Using The Color) 
 https://www.youtube.com/watch?v=3CU5kxx7hWg
 
-48.  AutoHotkey Commands Tutorial #4- PixelSearch (1) .ahk
+AutoHotkey Commands Tutorial #4- PixelSearch (1) 
 https://www.youtube.com/watch?v=PKxSXSShvaw
 
-49.  AutoHotkey Commands Tutorial #4- PixelSearch (2) .ahk
+AutoHotkey Commands Tutorial #4- PixelSearch (2) 
 https://www.youtube.com/watch?v=-DFFKFeoTys
 
-50.  AutoHotkey Commands Tutorial #4- PixelSearch (3) .ahk
+AutoHotkey Commands Tutorial #4- PixelSearch (3) 
 https://www.youtube.com/watch?v=zNiS91MSSIc
 
-51.  AutoHotkey Commands Tutorial #5 - Image Search (1) .ahk
+AutoHotkey Commands Tutorial #5 - Image Search (1) 
 https://www.youtube.com/watch?v=12aahQCJdUs
 
-52.  AutoHotkey Commands Tutorial #5 - Image Search (2) .ahk
+AutoHotkey Commands Tutorial #5 - Image Search (2) 
 https://www.youtube.com/watch?v=cCRQmXXLCak
 
-53.  AutoHotkey Commands Tutorial #5 - Image Search (3) .ahk
+AutoHotkey Commands Tutorial #5 - Image Search (3) 
 https://www.youtube.com/watch?v=l7z2YUpNtOQ
 
-54.  autohotkey copy paste -  Autohotkey hold key .ahk
+autohotkey copy paste -  Autohotkey hold key 
 https://www.youtube.com/watch?v=Z1i_FruQux0
 
-55.  AutoHotkey Debugging with a VS Code Extension! - AutoHotkey Tutorials .ahk
+AutoHotkey Debugging with a VS Code Extension! - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=cFYCF-WMMMw
 
-56.  autohotkey example - Facebook LogIn .ahk
+autohotkey example - Facebook LogIn 
 https://www.youtube.com/watch?v=zMM0jUEPwEQ
 
-57.  AutoHotkey For Beginners  (1977698).ahk
+AutoHotkey For Beginners  (1977698)
 https://www.youtube.com/watch?v=nxnfFRTAvto
 
-58.  AutoHotkey For Beginners .ahk
+AutoHotkey For Beginners 
 https://www.youtube.com/watch?v=nxnfFRTAvto
 
-59.  AutoHotKey for beginners! .ahk
+AutoHotKey for beginners! 
 https://www.youtube.com/watch?v=UD_mry_DN-s
 
-60.  AutoHotkey Game Creation Tutorial 1- Simple Key Movement - Boundaries - Health .ahk
+AutoHotkey Game Creation Tutorial 1- Simple Key Movement - Boundaries - Health 
 https://www.youtube.com/watch?v=tuCVkflQ1ek
 
-61.  AutoHotkey Game Creation Tutorial 10- Making A Snake Game (4) Moving The Snake .ahk
+AutoHotkey Game Creation Tutorial 10- Making A Snake Game (4) Moving The Snake 
 https://www.youtube.com/watch?v=rbcCBqLCWLs
 
-62.  AutoHotkey Game Creation Tutorial 11- Making A Snake Game (5) End .ahk
+AutoHotkey Game Creation Tutorial 11- Making A Snake Game (5) End 
 https://www.youtube.com/watch?v=xxSYuadTVbw
 
-63.  AutoHotkey Game Creation Tutorial 2- Using Your Mouse To Move (+Creating A Maze Mini Game) .ahk
+AutoHotkey Game Creation Tutorial 2- Using Your Mouse To Move (+Creating A Maze Mini Game) 
 https://www.youtube.com/watch?v=tyUtIglVVxg
 
-64.  AutoHotkey Game Creation Tutorial 3-Adding Gravity (Jumping & Flying) .ahk
+AutoHotkey Game Creation Tutorial 3-Adding Gravity (Jumping & Flying) 
 https://www.youtube.com/watch?v=LF7PgBiuIU8
 
-65.  AutoHotkey Game Creation Tutorial 4- Bouncing (Crossing Every X And Y) .ahk
+AutoHotkey Game Creation Tutorial 4- Bouncing (Crossing Every X And Y) 
 https://www.youtube.com/watch?v=h7So9juq9eI
 
-66.  AutoHotkey Game Creation Tutorial 5- Creating A Simple NPC (1) .ahk
+AutoHotkey Game Creation Tutorial 5- Creating A Simple NPC (1) 
 https://www.youtube.com/watch?v=fbP-P9r7vFU
 
-67.  AutoHotkey Game Creation Tutorial 6- Introduction to graphics (Using GDIP) .ahk
+AutoHotkey Game Creation Tutorial 6- Introduction to graphics (Using GDIP) 
 https://www.youtube.com/watch?v=cz55dL_igX0
 
-68.  AutoHotkey Game Creation Tutorial 7- Making Snake (Sort Of LOL) Using Gdip -(1) Setup .ahk
+AutoHotkey Game Creation Tutorial 7- Making Snake (Sort Of LOL) Using Gdip -(1) Setup 
 https://www.youtube.com/watch?v=Gwsj6wh0wn0
 
-69.  AutoHotkey Game Creation Tutorial 8- Making A Snake Game (sort of) (2) Adding The Snake Class .ahk
+AutoHotkey Game Creation Tutorial 8- Making A Snake Game (sort of) (2) Adding The Snake Class 
 https://www.youtube.com/watch?v=CTxzTpG6IoQ
 
-70.  AutoHotkey Game Creation Tutorial 9- Making A Snake Game (3) Drawing The Snake & Adding  Segments .ahk
+AutoHotkey Game Creation Tutorial 9- Making A Snake Game (3) Drawing The Snake & Adding  Segments 
 https://www.youtube.com/watch?v=DyvNY7UgvYs
 
-71.  Autohotkey get active window title .ahk
+Autohotkey get active window title 
 https://www.youtube.com/watch?v=H6Cm8l2DgkM
 
-72.  autohotkey get data from webpage - user IP address .ahk
+autohotkey get data from webpage - user IP address 
 https://www.youtube.com/watch?v=EO-76Wh7CHY
 
-73.  autohotkey get screen resolution .ahk
+autohotkey get screen resolution 
 https://www.youtube.com/watch?v=6VNhbxftB3Y
 
-74.  AutoHotkey GUI Menu Builder .ahk
+AutoHotkey GUI Menu Builder 
 https://www.youtube.com/watch?v=Gp34Z3bzVMQ
 
-75.  AutoHotkey Gui Tutorial #1 (Creating Your Template + Demos) .ahk
+AutoHotkey Gui Tutorial #1 (Creating Your Template + Demos) 
 https://www.youtube.com/watch?v=5pjRX5q7q2I
 
-76.  AutoHotkey Gui Tutorial #2 (Adding Buttons and Labels)  (1345800).ahk
+AutoHotkey Gui Tutorial #2 (Adding Buttons and Labels)  (1345800)
 https://www.youtube.com/watch?v=smcfM3bdB8I
 
-77.  AutoHotkey Gui Tutorial #2 (Adding Buttons and Labels) .ahk
+AutoHotkey Gui Tutorial #2 (Adding Buttons and Labels) 
 https://www.youtube.com/watch?v=smcfM3bdB8I
 
-78.  AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 1)) .ahk
+AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 1)) 
 https://www.youtube.com/watch?v=3X5USyigh9A
 
-79.  AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 2)) .ahk
+AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 2)) 
 https://www.youtube.com/watch?v=7GYGXNSpUds
 
-80.  AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 3)) .ahk
+AutoHotkey Gui Tutorial #3 (Edit Box-Field  (All In One Tutorial Part 3)) 
 https://www.youtube.com/watch?v=TFWDZ4FAETg
 
-81.  AutoHotkey Gui Tutorial #4 (The Radio Button (Part 1)) .ahk
+AutoHotkey Gui Tutorial #4 (The Radio Button (Part 1)) 
 https://www.youtube.com/watch?v=TAcyAoSu6aU
 
-82.  AutoHotkey Gui Tutorial #4 (The Radio Button (Part 2)) .ahk
+AutoHotkey Gui Tutorial #4 (The Radio Button (Part 2)) 
 https://www.youtube.com/watch?v=ppK7GgwC8DA
 
-83.  AutoHotkey Gui Tutorial #5 (The CheckBox) .ahk
+AutoHotkey Gui Tutorial #5 (The CheckBox) 
 https://www.youtube.com/watch?v=a4RFoig9URM
 
-84.  Autohotkey GUI Tutorial .ahk
+Autohotkey GUI Tutorial 
 https://www.youtube.com/watch?v=P0g2QKi0oMQ
 
-85.  autohotkey hotkey, stop hootkey, restart hotkey .ahk
+autohotkey hotkey, stop hootkey, restart hotkey 
 https://www.youtube.com/watch?v=Y3BYYJiLdgY
 
-86.  AutoHotKey Hotstrings .ahk
+AutoHotKey Hotstrings 
 https://www.youtube.com/watch?v=NqZKxYdVhBc
 
-87.  AutoHotKey Hotstrings and SPSS .ahk
+AutoHotKey Hotstrings and SPSS 
 https://www.youtube.com/watch?v=DQu0aU3jhow
 
-88.  Autohotkey InputBox & autohotkey if else statement example .ahk
+Autohotkey InputBox & autohotkey if else statement example 
 https://www.youtube.com/watch?v=G5QAYruIlUU
 
-89.  AutoHotkey Mini Tut #12 - Using Clipboard to get a file-folder path .ahk
+AutoHotkey Mini Tut #12 - Using Clipboard to get a file-folder path 
 https://www.youtube.com/watch?v=JqfeAKE-OsY
 
-90.  AutoHotkey Mini Tut #13 - How to set any window to 'AlwaysOnTop' .ahk
+AutoHotkey Mini Tut #13 - How to set any window to 'AlwaysOnTop' 
 https://www.youtube.com/watch?v=1Jl-1xGYDzs
 
-91.  AutoHotkey Mini Tut #14 - How To Select Menu Items .ahk
+AutoHotkey Mini Tut #14 - How To Select Menu Items 
 https://www.youtube.com/watch?v=56fpLYeFTQo
 
-92.  AutoHotkey Mini Tut #15 - CoordMode .ahk
+AutoHotkey Mini Tut #15 - CoordMode 
 https://www.youtube.com/watch?v=q6t910lOsFU
 
-93.  AutoHotkey Mini Tutorial #10( GetKeyState ) .ahk
+AutoHotkey Mini Tutorial #10( GetKeyState ) 
 https://www.youtube.com/watch?v=_lintVfb83c
 
-94.  AutoHotkey Mini Tutorial #11 [Random Numbers] .ahk
+AutoHotkey Mini Tutorial #11 [Random Numbers] 
 https://www.youtube.com/watch?v=nvxJXfPf0pg
 
-95.  AutoHotkey Mini Tutorial #2 - WinActivate & WinMinimize (Switch between windows super fast) .ahk
+AutoHotkey Mini Tutorial #2 - WinActivate & WinMinimize (Switch between windows super fast) 
 https://www.youtube.com/watch?v=gmhzZ0jleVM
 
-96.  AutoHotkey Mini Tutorial #3 'RUN' (Running Programs Using AutoHotkey) .ahk
+AutoHotkey Mini Tutorial #3 'RUN' (Running Programs Using AutoHotkey) 
 https://www.youtube.com/watch?v=6yio2hdoh90
 
-97.  AutoHotkey Mini Tutorial #4 'WinClose' (Closing Running Programs Using AutoHotkey) .ahk
+AutoHotkey Mini Tutorial #4 'WinClose' (Closing Running Programs Using AutoHotkey) 
 https://www.youtube.com/watch?v=TOhC4ZXc-k8
 
-98.  AutoHotkey Mini Tutorial #5 'IfWinExist' & 'IfWinNotExist' (Checking To See If A Program Is Running) .ahk
+AutoHotkey Mini Tutorial #5 'IfWinExist' & 'IfWinNotExist' (Checking To See If A Program Is Running) 
 https://www.youtube.com/watch?v=6GsGk8tSbW4
 
-99.  AutoHotkey Mini Tutorial #6 - #SingleInstance [Force, Ignore, Off] .ahk
+AutoHotkey Mini Tutorial #6 - #SingleInstance [Force, Ignore, Off] 
 https://www.youtube.com/watch?v=Hs8gURoFGtE
 
-100.  AutoHotkey Mini Tutorial #7 - #Persistent (What,  Where, When & Why) .ahk
+AutoHotkey Mini Tutorial #7 - #Persistent (What,  Where, When & Why) 
 https://www.youtube.com/watch?v=RfOja6jsbss
 
-101.  AutoHotkey Mini Tutorial #8(Suspending AutoHotkey Hotkeys) .ahk
+AutoHotkey Mini Tutorial #8(Suspending AutoHotkey Hotkeys) 
 https://www.youtube.com/watch?v=ZUKR84fJ7M8
 
-102.  AutoHotkey Mini Tutorial #9(How To Disable Windows And Other Programs Hotkeys)  (1902181).ahk
+AutoHotkey Mini Tutorial #9(How To Disable Windows And Other Programs Hotkeys)  (1902181)
 https://www.youtube.com/watch?v=vwF86ZOzt5A
 
-103.  AutoHotkey Mini Tutorial #9(How To Disable Windows And Other Programs Hotkeys) .ahk
+AutoHotkey Mini Tutorial #9(How To Disable Windows And Other Programs Hotkeys) 
 https://www.youtube.com/watch?v=vwF86ZOzt5A
 
-104.  Autohotkey pixelSearch- Search for multiple pixels .ahk
+Autohotkey pixelSearch- Search for multiple pixels 
 https://www.youtube.com/watch?v=D12kPZb6xxw
 
-105.  Autohotkey Quick Overview .ahk
+Autohotkey Quick Overview 
 https://www.youtube.com/watch?v=dAiBHjCS9Qk
 
-106.  Autohotkey Script Example - facebook bot .ahk
+Autohotkey Script Example - facebook bot 
 https://www.youtube.com/watch?v=rZLr1VEBfg0
 
-107.  autohotkey share variable between scripts - global variable .ahk
+autohotkey share variable between scripts - global variable 
 https://www.youtube.com/watch?v=7LAM04kr5u4
 
-108.  AutoHotkey Tutorial #4 Functions (Part 1)  (1142232).ahk
+AutoHotkey Tutorial #4 Functions (Part 1)  (1142232)
 https://www.youtube.com/watch?v=ZzqIPVUCy_w
 
-109.  AutoHotkey Tutorial #4 Functions (Part 1) .ahk
+AutoHotkey Tutorial #4 Functions (Part 1) 
 https://www.youtube.com/watch?v=ZzqIPVUCy_w
 
-110.  AutoHotkey Tutorial #4 Functions (Part 2)  (1859306).ahk
+AutoHotkey Tutorial #4 Functions (Part 2)  (1859306)
 https://www.youtube.com/watch?v=XIxmlRIz2P0
 
-111.  AutoHotkey Tutorial #4 Functions (Part 2) .ahk
+AutoHotkey Tutorial #4 Functions (Part 2) 
 https://www.youtube.com/watch?v=XIxmlRIz2P0
 
-112.  AutoHotkey Tutorial #4 Functions (Part 3)  (1294161).ahk
+AutoHotkey Tutorial #4 Functions (Part 3)  (1294161)
 https://www.youtube.com/watch?v=Dzf_pmhDurY
 
-113.  AutoHotkey Tutorial #4 Functions (Part 3) .ahk
+AutoHotkey Tutorial #4 Functions (Part 3) 
 https://www.youtube.com/watch?v=Dzf_pmhDurY
 
-114.  AutoHotKey Tutorial 1 (The Basics to start writing scripts)  (1592665).ahk
+AutoHotKey Tutorial 1 (The Basics to start writing scripts)  (1592665)
 https://www.youtube.com/watch?v=mWx9aqvY510
 
-115.  AutoHotKey Tutorial 1 (The Basics to start writing scripts) .ahk
+AutoHotKey Tutorial 1 (The Basics to start writing scripts) 
 https://www.youtube.com/watch?v=mWx9aqvY510
 
-116.  AutoHotKey Tutorial 2 - Variables & Operators (part 1)  (1035085).ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 1)  (1035085)
 https://www.youtube.com/watch?v=5jhyv6xF4PY
 
-117.  AutoHotKey Tutorial 2 - Variables & Operators (part 1) .ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 1) 
 https://www.youtube.com/watch?v=5jhyv6xF4PY
 
-118.  AutoHotKey Tutorial 2 - Variables & Operators (part 2)  (1630763).ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 2)  (1630763)
 https://www.youtube.com/watch?v=KbQlt50MkLI
 
-119.  AutoHotKey Tutorial 2 - Variables & Operators (part 2) .ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 2) 
 https://www.youtube.com/watch?v=KbQlt50MkLI
 
-120.  AutoHotKey Tutorial 2 - Variables & Operators (part 3)  (1772691).ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 3)  (1772691)
 https://www.youtube.com/watch?v=JYLZcHZtCUo
 
-121.  AutoHotKey Tutorial 2 - Variables & Operators (part 3) .ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 3) 
 https://www.youtube.com/watch?v=JYLZcHZtCUo
 
-122.  AutoHotKey Tutorial 2 - Variables & Operators (part 4)  (1672603).ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 4)  (1672603)
 https://www.youtube.com/watch?v=k6ev1myiZY0
 
-123.  AutoHotKey Tutorial 2 - Variables & Operators (part 4) .ahk
+AutoHotKey Tutorial 2 - Variables & Operators (part 4) 
 https://www.youtube.com/watch?v=k6ev1myiZY0
 
-124.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 1)  (1567069).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 1)  (1567069)
 https://www.youtube.com/watch?v=BB5JnA2bx_I
 
-125.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 1) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 1) 
 https://www.youtube.com/watch?v=BB5JnA2bx_I
 
-126.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 2)  (1904148).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 2)  (1904148)
 https://www.youtube.com/watch?v=FFUr0FBguVg
 
-127.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 2) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 2) 
 https://www.youtube.com/watch?v=FFUr0FBguVg
 
-128.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 3)  (1719228).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 3)  (1719228)
 https://www.youtube.com/watch?v=0CSMUTP4ajU
 
-129.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 3) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 3) 
 https://www.youtube.com/watch?v=0CSMUTP4ajU
 
-130.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 4)  (1286670).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 4)  (1286670)
 https://www.youtube.com/watch?v=ari05u-GVWI
 
-131.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 4) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 4) 
 https://www.youtube.com/watch?v=ari05u-GVWI
 
-132.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 5)  (1240803).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 5)  (1240803)
 https://www.youtube.com/watch?v=WkiKgBsiSwc
 
-133.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 5) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 5) 
 https://www.youtube.com/watch?v=WkiKgBsiSwc
 
-134.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 6)  (1423088).ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 6)  (1423088)
 https://www.youtube.com/watch?v=6974Z6Kl2v8
 
-135.  AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 6) .ahk
+AutoHotkey Tutorial 3 - If Statements & Getting User Input (part 6) 
 https://www.youtube.com/watch?v=6974Z6Kl2v8
 
-136.  AutoHotkey Tutorial 5 - Labels & Subroutines (Part 1)  (1669732).ahk
+AutoHotkey Tutorial 5 - Labels & Subroutines (Part 1)  (1669732)
 https://www.youtube.com/watch?v=GKYqJX_7nDI
 
-137.  AutoHotkey Tutorial 5 - Labels & Subroutines (Part 1) .ahk
+AutoHotkey Tutorial 5 - Labels & Subroutines (Part 1) 
 https://www.youtube.com/watch?v=GKYqJX_7nDI
 
-138.  AutoHotkey Tutorial 6 - Hotstrings + (Part 1)  (1354201).ahk
+AutoHotkey Tutorial 6 - Hotstrings + (Part 1)  (1354201)
 https://www.youtube.com/watch?v=RifFeWUZalQ
 
-139.  AutoHotkey Tutorial 6 - Hotstrings + (Part 1) .ahk
+AutoHotkey Tutorial 6 - Hotstrings + (Part 1) 
 https://www.youtube.com/watch?v=RifFeWUZalQ
 
-140.  AutoHotkey Tutorials- What's Next .ahk
+AutoHotkey Tutorials- What's Next 
 https://www.youtube.com/watch?v=rdWdnTlye3Q
 
-141.  autohotkey wait for page to load .ahk
+autohotkey wait for page to load 
 https://www.youtube.com/watch?v=64lMvLAZBFg
 
-142.  Autohotkey Write in file .ahk
+Autohotkey Write in file 
 https://www.youtube.com/watch?v=iAhLTT-tTUY
 
-143.  AutoHotkey- COM with Internet Explorer Tutorial.  Part 1 .ahk
+AutoHotkey- COM with Internet Explorer Tutorial.  Part 1 
 https://www.youtube.com/watch?v=lr4AVCS6y0g
 
-144.  AutoHotkey- COM with Internet Explorer Tutorial.  Part 2 .ahk
+AutoHotkey- COM with Internet Explorer Tutorial.  Part 2 
 https://www.youtube.com/watch?v=9uoh6cPyJi8
 
-145.  AutoHotkey- Logging In With COM .ahk
+AutoHotkey- Logging In With COM 
 https://www.youtube.com/watch?v=daU4SPgZ404
 
-146.  autohotkey- record mouse movement and repeat it .ahk
+autohotkey- record mouse movement and repeat it 
 https://www.youtube.com/watch?v=L4LuZNDWmUs
 
-147.  autoit for beginners (autohotkey alternative) .ahk
+autoit for beginners (autohotkey alternative) 
 https://www.youtube.com/watch?v=bWZ2OTQmC54
 
-148.  Automating email metrics .ahk
+Automating email metrics 
 https://www.youtube.com/watch?v=N4CLh9BQmVk
 
-149.  Automating Exporting of Data .ahk
+Automating Exporting of Data 
 https://www.youtube.com/watch?v=j-5c3_-RIYQ
 
-150.  Automating prep work for SQL in list query of hundreds-thousands of items .ahk
+Automating prep work for SQL in list query of hundreds-thousands of items 
 https://www.youtube.com/watch?v=4thoC2cmqT0
 
-151.  Calculating X days out .ahk
+Calculating X days out 
 https://www.youtube.com/watch?v=vF5tSg50IlI
 
-152.  Capturing Hidden Web Requests With Firebug .ahk
+Capturing Hidden Web Requests With Firebug 
 https://www.youtube.com/watch?v=5PH8xO5QmPk
 
-153.  ClipShare .ahk
+ClipShare 
 https://www.youtube.com/watch?v=1QGpZj_Ui7k
 
-154.  ClipShare Intro - Explanation .ahk
+ClipShare Intro - Explanation 
 https://www.youtube.com/watch?v=sd6tOaYtiv8
 
-155.  ClipShare v1 .ahk
+ClipShare v1 
 https://www.youtube.com/watch?v=frzTqv7IHDg
 
-156.  ClipShare-How to use .ahk
+ClipShare-How to use 
 https://www.youtube.com/watch?v=N-ku9XCSEs8
 
-157.  Control Placements in AutoHotKey GUIs  (1502917).ahk
+Control Placements in AutoHotKey GUIs  (1502917)
 https://www.youtube.com/watch?v=goSdcdKOC1w
 
-158.  Control Placements in AutoHotKey GUIs .ahk
+Control Placements in AutoHotKey GUIs 
 https://www.youtube.com/watch?v=xTHFpfnXdbs
 
-159.  Copying text from a list box .ahk
+Copying text from a list box 
 https://www.youtube.com/watch?v=SRI2krg0Opg
 
-160.  Debug with SciTE Part 2 .ahk
+Debug with SciTE Part 2 
 https://www.youtube.com/watch?v=9s_awT4n8AM
 
-161.  Demo API call and GUI menu interface .ahk
+Demo API call and GUI menu interface 
 https://www.youtube.com/watch?v=ELPYwcF_yGg
 
-162.  Extracting Information about Videos via Webscraping with AutoHotkey .ahk
+Extracting Information about Videos via Webscraping with AutoHotkey 
 https://www.youtube.com/watch?v=XLhzogaveIk
 
-163.  facebook delete all timeline posts - automation script .ahk
+facebook delete all timeline posts - automation script 
 https://www.youtube.com/watch?v=z23tLk4VeSg
 
-164.  facebook remove all activity log at once - bot example .ahk
+facebook remove all activity log at once - bot example 
 https://www.youtube.com/watch?v=CtAQATLk8R0
 
-165.  Find Changes Between Two Files in Python .ahk
+Find Changes Between Two Files in Python 
 https://www.youtube.com/watch?v=PxLadFcEzoU
 
-166.  functions tutorial part 4 (Static Variables)  (1062037).ahk
+functions tutorial part 4 (Static Variables)  (1062037)
 https://www.youtube.com/watch?v=lOqfmWapqCw
 
-167.  functions tutorial part 4 (Static Variables) .ahk
+functions tutorial part 4 (Static Variables) 
 https://www.youtube.com/watch?v=lOqfmWapqCw
 
-168.  Hotstrings from AutoHotkey (Auto-replace text in any program) .ahk
+Hotstrings from AutoHotkey (Auto-replace text in any program) 
 https://www.youtube.com/watch?v=vuISL2Zqn04
 
-169.  How to Automate Data Entry - Windows .ahk
+How to Automate Data Entry - Windows 
 https://www.youtube.com/watch?v=ltI-fuegP-E
 
-170.  How to create a Rapid Fire Script with AutoHotkey - Tutorial .ahk
+How to create a Rapid Fire Script with AutoHotkey - Tutorial 
 https://www.youtube.com/watch?v=Kq80JpJEjt4
 
-171.  How to disable the Windows Key .ahk
+How to disable the Windows Key 
 https://www.youtube.com/watch?v=51PPsUiCZ7M
 
-172.  How to get user input (InputBox) in AutoHotkey - AutoHotkey Tutorial #7 .ahk
+How to get user input (InputBox) in AutoHotkey - AutoHotkey Tutorial #7 
 https://www.youtube.com/watch?v=S_VIpylSleU
 
-173.  How to Install AutoHotkey and create your first script - AutoHotkey Tutorial #1 .ahk
+How to Install AutoHotkey and create your first script - AutoHotkey Tutorial #1 
 https://www.youtube.com/watch?v=k7e9MrP-U_g
 
-174.  How to Launch AutoHotkey Scripts At Startup .ahk
+How to Launch AutoHotkey Scripts At Startup 
 https://www.youtube.com/watch?v=0kGP8S9o7qI
 
-175.  How to Make Custom Icons for AutoHotkey Scripts .ahk
+How to Make Custom Icons for AutoHotkey Scripts 
 https://www.youtube.com/watch?v=5aetsOYRzGs
 
-176.  How to Mute Your Microphone System Wide - AutoHotkey Tutorials .ahk
+How to Mute Your Microphone System Wide - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=BKLdG7h2ca8
 
-177.  How to open Folders, Programs and Websites in AutoHotkey - AutoHotkey Tutorial #6 .ahk
+How to open Folders, Programs and Websites in AutoHotkey - AutoHotkey Tutorial #6 
 https://www.youtube.com/watch?v=h5dtQSN6IOQ
 
-178.  How to Rebind - Remap any Mouse or Keyboard Button or Key to any other (Tutorial) .ahk
+How to Rebind - Remap any Mouse or Keyboard Button or Key to any other (Tutorial) 
 https://www.youtube.com/watch?v=aki5NN9K6Fs
 
-179.  How To Run AutoHotkey Scripts (Mini Tutorials #1) .ahk
+How To Run AutoHotkey Scripts (Mini Tutorials #1) 
 https://www.youtube.com/watch?v=_knlUkJVSXU
 
-180.  How to run AutoHotkey scripts at Windows startup - Tutorial .ahk
+How to run AutoHotkey scripts at Windows startup - Tutorial 
 https://www.youtube.com/watch?v=BrKIo9IpZBU
 
-181.  How to use Arrays in AutoHotkey - AutoHotkey Tutorial #5 .ahk
+How to use Arrays in AutoHotkey - AutoHotkey Tutorial #5 
 https://www.youtube.com/watch?v=NtO91mr9a5o
 
-182.  How to use Hotkeys in AutoHotkey - AutoHotkey Tutorial #2 .ahk
+How to use Hotkeys in AutoHotkey - AutoHotkey Tutorial #2 
 https://www.youtube.com/watch?v=ZITugOa3mXI
 
-183.  How to use Hotstrings in AutoHotkey - AutoHotkey Tutorial #3 .ahk
+How to use Hotstrings in AutoHotkey - AutoHotkey Tutorial #3 
 https://www.youtube.com/watch?v=CUkUx28qiso
 
-184.  How to use Random in AutoHotkey - AutoHotkey Tutorial #11 .ahk
+How to use Random in AutoHotkey - AutoHotkey Tutorial #11 
 https://www.youtube.com/watch?v=a8nMO1zV9Js
 
-185.  How to use Variables in AutoHotkey - AutoHotkey Tutorial #4 .ahk
+How to use Variables in AutoHotkey - AutoHotkey Tutorial #4 
 https://www.youtube.com/watch?v=waG0Kvvo95g
 
-186.  How to work with Simple Arrays in AutoHotKey .ahk
+How to work with Simple Arrays in AutoHotKey 
 https://www.youtube.com/watch?v=tY7IQ_t_Gek
 
-187.  Intro to Custom Gui Controls-Buttons with Joe Glines .ahk
+Intro to Custom Gui Controls-Buttons with Joe Glines 
 https://www.youtube.com/watch?v=CmnivLWODJU
 
-188.  Joe Glines and Jackie Sztuk reviewing AutoHotkey Hotstrings .ahk
+Joe Glines and Jackie Sztuk reviewing AutoHotkey Hotstrings 
 https://www.youtube.com/watch?v=Yueit5zpcY0
 
-189.  Keeping any key held down forever! - AutoHotkey Tutorials .ahk
+Keeping any key held down forever! - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=bA3hY-i-sxA
 
-190.  Looping While Holding Keys - AutoHotkey Tutorials .ahk
+Looping While Holding Keys - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=IokXP2XawQU
 
-191.  lorem-ipsum app .ahk
+lorem-ipsum app 
 https://www.youtube.com/watch?v=hpbj6VZ2etU
 
-192.  Make ANY program Always On Top with AutoHotkey .ahk
+Make ANY program Always On Top with AutoHotkey 
 https://www.youtube.com/watch?v=XuICyreLquE
 
-193.  Make ASCII Art Using a Webservice and Python (tut) .ahk
+Make ASCII Art Using a Webservice and Python (tut) 
 https://www.youtube.com/watch?v=NEWuZfTNoJE
 
-194.  Naming Convention & Reporting .ahk
+Naming Convention & Reporting 
 https://www.youtube.com/watch?v=AP6X3rDLDSo
 
-195.  Naming Convention and Regular Expression .ahk
+Naming Convention and Regular Expression 
 https://www.youtube.com/watch?v=DjBIV9oV1i8
 
-196.  Pie Menus in AutoHotKey (Free DL - BETA) .ahk
+Pie Menus in AutoHotKey (Free DL - BETA) 
 https://www.youtube.com/watch?v=ZxGt5Cr_3sk
 
-197.  Programmatically interact with the SciTE editor via COM objects .ahk
+Programmatically interact with the SciTE editor via COM objects 
 https://www.youtube.com/watch?v=upPtaEghnRM
 
-198.  Programs that help you write programs .ahk
+Programs that help you write programs 
 https://www.youtube.com/watch?v=Nq-MDHALxlw
 
-199.  Prospector and Autocomplete API .ahk
+Prospector and Autocomplete API 
 https://www.youtube.com/watch?v=lt_xRM44X-0
 
-200.  RegEx to Clean Text .ahk
+RegEx to Clean Text 
 https://www.youtube.com/watch?v=jKuWrQrCtcA
 
-201.  RegEx Tutorial 2- Matching Dates .ahk
+RegEx Tutorial 2- Matching Dates 
 https://www.youtube.com/watch?v=ci9OCCPSiwQ
 
-202.  RegEx Tutorials Part 1- Intro .ahk
+RegEx Tutorials Part 1- Intro 
 https://www.youtube.com/watch?v=d_uUMDP9O2k
 
-203.  Remapping CapsLock to Escape — The Right Way .ahk
+Remapping CapsLock to Escape — The Right Way 
 https://www.youtube.com/watch?v=MZ96cFpRibQ
 
-204.  Removing Duplicates from CSV files .ahk
+Removing Duplicates from CSV files 
 https://www.youtube.com/watch?v=ReP0yk2hJCY
 
-205.  run autohotkey script on startup .ahk
+run autohotkey script on startup 
 https://www.youtube.com/watch?v=_Km2DJJ-Btc
 
-206.  Running AutoHotkey Scripts at a Specific Time - AutoHotkey Tutorials .ahk
+Running AutoHotkey Scripts at a Specific Time - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=UbX3QtGOsTU
 
-207.  Secret Android Camera in Python .ahk
+Secret Android Camera in Python 
 https://www.youtube.com/watch?v=bICzabgoC7Y
 
-208.  Silly Cartoon About Scripts .ahk
+Silly Cartoon About Scripts 
 https://www.youtube.com/watch?v=-274zDsC704
 
-209.  Stream Deck AutoHotkey Launcher - Toggle Scripts with your stream deck .ahk
+Stream Deck AutoHotkey Launcher - Toggle Scripts with your stream deck 
 https://www.youtube.com/watch?v=nHr7aVU2PeI
 
-210.  Toggling programs across multiple displays .ahk
+Toggling programs across multiple displays 
 https://www.youtube.com/watch?v=Fe_W8x6lCdE
 
-211.  Transposing clipboard content in any program .ahk
+Transposing clipboard content in any program 
 https://www.youtube.com/watch?v=075hJwEQxbM
 
-212.  Tweaking Graphs in Excel .ahk
+Tweaking Graphs in Excel 
 https://www.youtube.com/watch?v=FTUdmaoFA08
 
-213.  Uploading a contact list ot Engage via an API call .ahk
+Uploading a contact list ot Engage via an API call 
 https://www.youtube.com/watch?v=N8RnSyHqT_8
 
-214.  Using AutoHotKey For Windows Macro Recording .ahk
+Using AutoHotKey For Windows Macro Recording 
 https://www.youtube.com/watch?v=10KM27uzoIE
 
-215.  Using AutoHotKey To Automate Mouse Clicks And Keystrokes  (1824453).ahk
+Using AutoHotKey To Automate Mouse Clicks And Keystrokes  (1824453)
 https://www.youtube.com/watch?v=bS-ycdoOyj8
 
-216.  Using AutoHotKey To Automate Mouse Clicks And Keystrokes .ahk
+Using AutoHotKey To Automate Mouse Clicks And Keystrokes 
 https://www.youtube.com/watch?v=bS-ycdoOyj8
 
-217.  Using AutoHotKey to Create Excel Graphs .ahk
+Using AutoHotKey to Create Excel Graphs 
 https://www.youtube.com/watch?v=yrHpsbFIYqk
 
-218.  Using AutoHotKey to write SPSS Syntax with HotStrings .ahk
+Using AutoHotKey to write SPSS Syntax with HotStrings 
 https://www.youtube.com/watch?v=Jmf7T7oCj7w
 
-219.  Using Documentation like a Pro - AutoHotkey Tutorials .ahk
+Using Documentation like a Pro - AutoHotkey Tutorials 
 https://www.youtube.com/watch?v=qLjdscf6o7A
 
-220.  Using Java with AutoHotkey .ahk
+Using Java with AutoHotkey 
 https://www.youtube.com/watch?v=EX0iT0NTTjw
 
-221.  Using Perl with Apache .ahk
+Using Perl with Apache 
 https://www.youtube.com/watch?v=hFHRmV7E4FQ
 
-222.  Versatile Scripting Example with textbox .ahk
+Versatile Scripting Example with textbox 
 https://www.youtube.com/watch?v=rrhF0eB0eVQ
 
-223.  video game bot script programming tutorial - with the code .ahk
+video game bot script programming tutorial - with the code 
 https://www.youtube.com/watch?v=c4Zo8uxD8MU
 
-224.  Webscraping - Example 3-MLS Lookup .ahk
+Webscraping - Example 3-MLS Lookup 
 https://www.youtube.com/watch?v=Lvv7P37SFzU
 
-225.  Webscraping Example - Real Estate Helper 2 .ahk
+Webscraping Example - Real Estate Helper 2 
 https://www.youtube.com/watch?v=H0DuYbYAjbg
 
-226.  WebScraping with Autohotkey 101-Pointer and getting values from page .ahk
+WebScraping with Autohotkey 101-Pointer and getting values from page 
 https://www.youtube.com/watch?v=UfqumFBUrwI
 
-227.  Webscraping with Autohotkey 102-Setting values and clicking .ahk
+Webscraping with Autohotkey 102-Setting values and clicking 
 https://www.youtube.com/watch?v=Q8C1wysJvAE
 
-228.  Webscraping with AutoHotkey 103-Isolating sections and taking advantange of DOM .ahk
+Webscraping with AutoHotkey 103-Isolating sections and taking advantange of DOM 
 https://www.youtube.com/watch?v=gBTFNcv87cU
 
-229.  Webscraping with AutoHotkey 104-Frames .ahk
+Webscraping with AutoHotkey 104-Frames 
 https://www.youtube.com/watch?v=p_f3g2rt2Tw
 
-230.  Webscraping with AutoHotKey 105- trouble shooting Webscraping .ahk
+Webscraping with AutoHotKey 105- trouble shooting Webscraping 
 https://www.youtube.com/watch?v=EsK25d7L3Ng
 
-231.  Webscraping with AutoHotkey 106- Looping over pages .ahk
+Webscraping with AutoHotkey 106- Looping over pages 
 https://www.youtube.com/watch?v=VStIg7T9hHg
 
-232.  Webscraping with AutoHotKey 107- Classname .ahk
+Webscraping with AutoHotKey 107- Classname 
 https://www.youtube.com/watch?v=aSKz6YXIFHE
 
-233.  Webscraping with AutoHotkey to obtain values for Behavioral Targeting .ahk
+Webscraping with AutoHotkey to obtain values for Behavioral Targeting 
 https://www.youtube.com/watch?v=LHaAq_xSqpw
 
-234.  Webscraping- Data Extraction from a webpage & emailing to colleagues .ahk
+Webscraping- Data Extraction from a webpage & emailing to colleagues 
 https://www.youtube.com/watch?v=sDdrWwaLjeg
 
-235.  What's Autohotkey .ahk
+What's Autohotkey 
 https://www.youtube.com/watch?v=Z-PFTCAiieU
 
-236.  Which AutoHotkey version should I use - AutoHotkey History .ahk
+Which AutoHotkey version should I use - AutoHotkey History 
 https://www.youtube.com/watch?v=J8Qek9tzVzk
 
-237.  Windows Keyboard Layout -- Easy Prank! .ahk
+Windows Keyboard Layout -- Easy Prank! 
 https://www.youtube.com/watch?v=fMIUEeWqj84
 
-238.  ZOHO API Call-Exporting all Records .ahk
+ZOHO API Call-Exporting all Records 
 https://www.youtube.com/watch?v=zXUNtm21_70
 
-239.  [AHK] The Complete Guide To AutoHotkey Tutorial 1-1 .ahk
+[AHK] The Complete Guide To AutoHotkey Tutorial 1-1 
 https://www.youtube.com/watch?v=lzo9HmPG5To
 
-240.  [AHK] The Complete Guide To AutoHotkey Tutorial 1-2  (1746592).ahk
+[AHK] The Complete Guide To AutoHotkey Tutorial 1-2  (1746592)
 https://www.youtube.com/watch?v=hioNSJJdYrc
 
-241.  [AHK] The Complete Guide To AutoHotkey Tutorial 1-2 .ahk
+[AHK] The Complete Guide To AutoHotkey Tutorial 1-2 
 https://www.youtube.com/watch?v=hioNSJJdYrc
 
-242.  [AHK] The Complete Guide To AutoHotkey Tutorial 1-3 .ahk
+[AHK] The Complete Guide To AutoHotkey Tutorial 1-3 
 https://www.youtube.com/watch?v=-hHYxhEmoLw
 Autohotkey Tutorials

@@ -1,7 +1,16 @@
 
-1.  Action Adventure
+Action Adventure
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/Action_Adventure/Action_Adventure.txt
 
-2.  Comedies
+Comedies
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/Comedies/Comedies.txt
+
+List of Genres - Movies
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/List_of_Genres_-_Movies/List_of_Genres_-_Movies.txt
+
+List of Genres - Tv-Shows
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/List_of_Genres_-_Tv-Shows/List_of_Genres_-_Tv-Shows.txt
+
+List of Movies - ABC
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/List_of_Movies_-_ABC/List_of_Movies_-_ABC.txt
 Netflix

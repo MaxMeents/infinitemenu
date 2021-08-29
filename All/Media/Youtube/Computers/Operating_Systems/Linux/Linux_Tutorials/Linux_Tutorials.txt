@@ -1,70 +1,70 @@
 
-1.  C Programming in Linux Tutorial
+C Programming in Linux Tutorial
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/C_Programming_in_Linux_Tutorial/C_Programming_in_Linux_Tutorial.txt
 
-2.  Linux
+Linux
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux/Linux.txt
 
-3.  Linux Administration Tutorial Videos
+Linux Administration Tutorial Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Administration_Tutorial_Videos/Linux_Administration_Tutorial_Videos.txt
 
-4.  Linux Basic Course Tutorial Arabic
+Linux Basic Course Tutorial Arabic
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Basic_Course_Tutorial_Arabic/Linux_Basic_Course_Tutorial_Arabic.txt
 
-5.  Linux CentOS 8 Tutorials for Beginners
+Linux CentOS 8 Tutorials for Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_CentOS_8_Tutorials_for_Beginners/Linux_CentOS_8_Tutorials_for_Beginners.txt
 
-6.  Linux Command Line Tutorial For Beginners  Bash Terminal  Linux Terminal
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Command_Line_Tutorial_For_Beginners__Bash_Terminal__Linux_Terminal/Linux_Command_Line_Tutorial_For_Beginners__Bash_Terminal__Linux_Terminal.txt
+Linux Command Line Tutorial For Beginners  Bash Terminal  Linux Terminal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Command_Line_Tutorial_For_Beginner/Linux_Command_Line_Tutorial_For_Beginner.txt
 
-7.  Linux Essentials For Hackers
+Linux Essentials For Hackers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Essentials_For_Hackers/Linux_Essentials_For_Hackers.txt
 
-8.  Linux Mint Beginners Guide
+Linux Mint Beginners Guide
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Mint_Beginners_Guide/Linux_Mint_Beginners_Guide.txt
 
-9.  Linux Online Training
+Linux Online Training
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Online_Training/Linux_Online_Training.txt
 
-10.  Linux Tutorial For Beginners
+Linux Tutorial For Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Tutorial_For_Beginners/Linux_Tutorial_For_Beginners.txt
 
-11.  Linux Tutorial for Beginners Playlist
+Linux Tutorial for Beginners Playlist
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Tutorial_for_Beginners_Playlist/Linux_Tutorial_for_Beginners_Playlist.txt
 
-12.  Linux Tutorials
+Linux Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Tutorials/Linux_Tutorials.txt
 
-13.  Linux Tutorials  GeeksforGeeks
+Linux Tutorials  GeeksforGeeks
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Linux_Tutorials__GeeksforGeeks/Linux_Tutorials__GeeksforGeeks.txt
 
-14.  LinuxMac Tutorials
+LinuxMac Tutorials
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/LinuxMac_Tutorials/LinuxMac_Tutorials.txt
 
-15.  LinuxUnix Tutorial For Beginners
+LinuxUnix Tutorial For Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/LinuxUnix_Tutorial_For_Beginners/LinuxUnix_Tutorial_For_Beginners.txt
 
-16.  Raspberry Pi with Linux LESSONS
+Raspberry Pi with Linux LESSONS
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Raspberry_Pi_with_Linux_LESSONS/Raspberry_Pi_with_Linux_LESSONS.txt
 
-17.  Shell Scripting Tutorial for Beginners
+Shell Scripting Tutorial for Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Shell_Scripting_Tutorial_for_Beginners/Shell_Scripting_Tutorial_for_Beginners.txt
 
-18.  The Complete Red Hat Linux Course Beginner to Advanced! wEnglish Subtitles
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/The_Complete_Red_Hat_Linux_Course_Beginner_to_Advanced!_wEnglish_Subtitles/The_Complete_Red_Hat_Linux_Course_Beginner_to_Advanced!_wEnglish_Subtitles.txt
+The Complete Red Hat Linux Course Beginner to Advanced! wEnglish Subtitles
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/The_Complete_Red_Hat_Linux_Course_Beginn/The_Complete_Red_Hat_Linux_Course_Beginn.txt
 
-19.  The Linux Basics Course Beginner to Sysadmin, Step by Step
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/The_Linux_Basics_Course_Beginner_to_Sysadmin,_Step_by_Step/The_Linux_Basics_Course_Beginner_to_Sysadmin,_Step_by_Step.txt
+The Linux Basics Course Beginner to Sysadmin, Step by Step
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/The_Linux_Basics_Course_Beginner_to_Sysa/The_Linux_Basics_Course_Beginner_to_Sysa.txt
 
-20.  Ubuntu Linux Tutorials for Beginners
+Ubuntu Linux Tutorials for Beginners
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Ubuntu_Linux_Tutorials_for_Beginners/Ubuntu_Linux_Tutorials_for_Beginners.txt
 
-21.  UnixLinux Tutorial Videos
+UnixLinux Tutorial Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/UnixLinux_Tutorial_Videos/UnixLinux_Tutorial_Videos.txt
 
-22.  Why Linux is Better
+Why Linux is Better
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/Why_Linux_is_Better/Why_Linux_is_Better.txt
 
-23.  x86_64 Linux Assembly
+x86_64 Linux Assembly
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Computers/Operating_Systems/Linux/Linux_Tutorials/x86_64_Linux_Assembly/x86_64_Linux_Assembly.txt
 Linux Tutorials

@@ -1,118 +1,118 @@
 
-1.  #1 - Introduction of Linux.ahk
+#1 - Introduction of Linux
 https://www.youtube.com/watch?v=59u_GBLJ1WI
 
-2.  #10 - cp command on Linux CentOS 8.ahk
+#10 - cp command on Linux CentOS 8
 https://www.youtube.com/watch?v=3-M__igz7TY
 
-3.  #11 - mv command (moving files and directories) on Linux CentOS 8.ahk
+#11 - mv command (moving files and directories) on Linux CentOS 8
 https://www.youtube.com/watch?v=QxUupdFFjP8
 
-4.  #12 - mv command (renaming files and directories) on Linux CentOS 8.ahk
+#12 - mv command (renaming files and directories) on Linux CentOS 8
 https://www.youtube.com/watch?v=HoyxfE89AVM
 
-5.  #13 - cat command on Linux CentOS 8.ahk
+#13 - cat command on Linux CentOS 8
 https://www.youtube.com/watch?v=7Hx5c5oIJ7Y
 
-6.  #14 - less command on Linux CentOS 8.ahk
+#14 - less command on Linux CentOS 8
 https://www.youtube.com/watch?v=8iKL-KCX9Mc
 
-7.  #15 - pipe & redirection on Linux CentOS 8.ahk
+#15 - pipe & redirection on Linux CentOS 8
 https://www.youtube.com/watch?v=nCijJMioNvM
 
-8.  #16 - tar command on Linux CentOS 8.ahk
+#16 - tar command on Linux CentOS 8
 https://www.youtube.com/watch?v=K7dvVRNoVzQ
 
-9.  #17 - gzip and bzip2 on Linux CentOS 8.ahk
+#17 - gzip and bzip2 on Linux CentOS 8
 https://www.youtube.com/watch?v=LOpwGt75-rc
 
-10.  #18 - tar Compression in Linux CentOS 8.ahk
+#18 - tar Compression in Linux CentOS 8
 https://www.youtube.com/watch?v=RpzNTCtdX8Q
 
-11.  #19 - Softlink and Hardlink on Linux CentOS 8.ahk
+#19 - Softlink and Hardlink on Linux CentOS 8
 https://www.youtube.com/watch?v=xbe4Lmk-Y7E
 
-12.  #2 - CentOS 8 and it's new Features.ahk
+#2 - CentOS 8 and it's new Features
 https://www.youtube.com/watch?v=cUpj-NIC-lY
 
-13.  #20 - vi command on Linux CentOS 8.ahk
+#20 - vi command on Linux CentOS 8
 https://www.youtube.com/watch?v=t837lDF3t6E
 
-14.  #21 - Users and Groups on Linux CentOS 8.ahk
+#21 - Users and Groups on Linux CentOS 8
 https://www.youtube.com/watch?v=BxQSW0cWJSo
 
-15.  #22 - Managing Permissions on Linux CentOS 8.ahk
+#22 - Managing Permissions on Linux CentOS 8
 https://www.youtube.com/watch?v=971WE6PnUdI
 
-16.  #23 - Networking - Static & Dynamic IP on Linux CentOS 8.ahk
+#23 - Networking - Static & Dynamic IP on Linux CentOS 8
 https://www.youtube.com/watch?v=z_nqm-0dSjM
 
-17.  #24 - Networking - SSH Remote Login on Linux CentOS 8.ahk
+#24 - Networking - SSH Remote Login on Linux CentOS 8
 https://www.youtube.com/watch?v=kH4A43AYOQg
 
-18.  #25 - Networking - Changing SSH Port number on Linux CentOS 8.ahk
+#25 - Networking - Changing SSH Port number on Linux CentOS 8
 https://www.youtube.com/watch?v=BbpnioNSAZ0
 
-19.  #26 - Networking - SSH Key Authentication - Public & Private Key on Linux CentOS 8.ahk
+#26 - Networking - SSH Key Authentication - Public & Private Key on Linux CentOS 8
 https://www.youtube.com/watch?v=i6o57zaphB4
 
-20.  #27 - Networking - Allow and Deny Specific IP address to connect on Linux CentOS 8.ahk
+#27 - Networking - Allow and Deny Specific IP address to connect on Linux CentOS 8
 https://www.youtube.com/watch?v=DFwTDqWDElM
 
-21.  #28 - Firewall on Linux CentOS 8.ahk
+#28 - Firewall on Linux CentOS 8
 https://www.youtube.com/watch?v=_s0vhIovglc
 
-22.  #29 - Package Management (YumDNF) on Linux CentOS 8.ahk
+#29 - Package Management (YumDNF) on Linux CentOS 8
 https://www.youtube.com/watch?v=zuP1_rDDjA8
 
-23.  #3 - Installing CentOS 8 on Virtual box.ahk
+#3 - Installing CentOS 8 on Virtual box
 https://www.youtube.com/watch?v=31Xfju-yCHw
 
-24.  #30 - Job Scheduling (cronjobcrontab) on Linux CentOS 8.ahk
+#30 - Job Scheduling (cronjobcrontab) on Linux CentOS 8
 https://www.youtube.com/watch?v=4g1i0ylvx3A
 
-25.  #31 - Alias (Command Shortcut) on Linux CentOS 8.ahk
+#31 - Alias (Command Shortcut) on Linux CentOS 8
 https://www.youtube.com/watch?v=37F-GA6OEgo
 
-26.  #32 - Bash Scripting on Linux CentOS 8.ahk
+#32 - Bash Scripting on Linux CentOS 8
 https://www.youtube.com/watch?v=TfHGN2RcblI
 
-27.  #33 - Rsync (Remote Synchronization) on Linux CentOS 8.ahk
+#33 - Rsync (Remote Synchronization) on Linux CentOS 8
 https://www.youtube.com/watch?v=MZKZgb8OJRo
 
-28.  #4 - Remote login into virtual machine.ahk
+#4 - Remote login into virtual machine
 https://www.youtube.com/watch?v=-f9a4_XxCQs
 
-29.  #5 - ls command on Linux CentOS 8.ahk
+#5 - ls command on Linux CentOS 8
 https://www.youtube.com/watch?v=Sq3bgznEEk8
 
-30.  #6 - cd command on Linux CentOS 8.ahk
+#6 - cd command on Linux CentOS 8
 https://www.youtube.com/watch?v=a77BPuUwiO0
 
-31.  #7 - mkdir command on Linux CentOS 8.ahk
+#7 - mkdir command on Linux CentOS 8
 https://www.youtube.com/watch?v=EO5T3Prk2cA
 
-32.  #8 - touch command on Linux CentOS 8.ahk
+#8 - touch command on Linux CentOS 8
 https://www.youtube.com/watch?v=l2Agu_nu3yA
 
-33.  #9 - rmrmdir command on Linux CentOS 8.ahk
+#9 - rmrmdir command on Linux CentOS 8
 https://www.youtube.com/watch?v=uSALaF1Mg_E
 
-34.  Disk Partition (MBR & GPT) on Linux CentOS 8.ahk
+Disk Partition (MBR & GPT) on Linux CentOS 8
 https://www.youtube.com/watch?v=BXamGxlPQ0k
 
-35.  fdisk on Linux CentOS 8.ahk
+fdisk on Linux CentOS 8
 https://www.youtube.com/watch?v=sh3tLXTpCVw
 
-36.  Format & Mount Linux Partitions.ahk
+Format & Mount Linux Partitions
 https://www.youtube.com/watch?v=UkVaG64YZY4
 
-37.  fstab for Automatically Mounting Linux Partitions.ahk
+fstab for Automatically Mounting Linux Partitions
 https://www.youtube.com/watch?v=vSA4tQqJF18
 
-38.  gdisk on Linux CentOS 8.ahk
+gdisk on Linux CentOS 8
 https://www.youtube.com/watch?v=5fncLIKfywk
 
-39.  Logical Volumes in Linux.ahk
+Logical Volumes in Linux
 https://www.youtube.com/watch?v=n88YanbkC4Y
 Linux CentOS 8 Tutorials for Beginners

@@ -1,25 +1,25 @@
 
-1.  Regular Expression Exercise.ahk
+Regular Expression Exercise
 https://www.youtube.com/watch?v=Nat-sAijBLU
 
-2.  Regular Expression Tutorial - part-1 - (Introduction to Regex).ahk
+Regular Expression Tutorial - part-1 - (Introduction to Regex)
 https://www.youtube.com/watch?v=5egSTaJTnNM
 
-3.  Regular Expression Tutorial - part-2 - (Character classes).ahk
+Regular Expression Tutorial - part-2 - (Character classes)
 https://www.youtube.com/watch?v=-3Axzcc2Scg
 
-4.  Regular Expression Tutorial - part-3 - (Escaped Characters).ahk
+Regular Expression Tutorial - part-3 - (Escaped Characters)
 https://www.youtube.com/watch?v=Xh-670D4ChQ
 
-5.  Regular Expression Tutorial - part-4 - (Back references).ahk
+Regular Expression Tutorial - part-4 - (Back references)
 https://www.youtube.com/watch?v=jZD4M6ZED8s
 
-6.  Regular Expression Tutorial - part-4 - (Groups).ahk
+Regular Expression Tutorial - part-4 - (Groups)
 https://www.youtube.com/watch?v=NZxvjUHGtSs
 
-7.  Regular Expression Tutorial - part-5 - (Quantifiers, Optional and Alterations).ahk
+Regular Expression Tutorial - part-5 - (Quantifiers, Optional and Alterations)
 https://www.youtube.com/watch?v=29xutNJ_J1I
 
-8.  Regular Expressions Tutorials - part-6 - (Lookaheads).ahk
+Regular Expressions Tutorials - part-6 - (Lookaheads)
 https://www.youtube.com/watch?v=8lZqpafddRE
 Regular Expressions Tutorials

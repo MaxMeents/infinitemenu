@@ -1,73 +1,73 @@
 
-1.  24 Hour HAZWOPER Training
+24 Hour HAZWOPER Training
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/24_Hour_HAZWOPER_Training/24_Hour_HAZWOPER_Training.txt
 
-2.  About Guardian Medical Monitoring
+About Guardian Medical Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/About_Guardian_Medical_Monitoring/About_Guardian_Medical_Monitoring.txt
 
-3.  Bedside Monitoring - Philips
+Bedside Monitoring - Philips
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Bedside_Monitoring_-_Philips/Bedside_Monitoring_-_Philips.txt
 
-4.  critical care nursing videos
+critical care nursing videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/critical_care_nursing_videos/critical_care_nursing_videos.txt
 
-5.  Data Science for Patient Monitoring
+Data Science for Patient Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Data_Science_for_Patient_Monitoring/Data_Science_for_Patient_Monitoring.txt
 
-6.  Explainer Videos Samples
+Explainer Videos Samples
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Explainer_Videos_Samples/Explainer_Videos_Samples.txt
 
-7.  G2000 Medical Alarm
+G2000 Medical Alarm
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/G2000_Medical_Alarm/G2000_Medical_Alarm.txt
 
-8.  Guardian Medical Monitoring
+Guardian Medical Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Guardian_Medical_Monitoring/Guardian_Medical_Monitoring.txt
 
-9.  Helth monitoring
+Helth monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Helth_monitoring/Helth_monitoring.txt
 
-10.  Imp
+Imp
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Imp/Imp.txt
 
-11.  medical
+medical
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/medical/medical.txt
 
-12.  Medical Alert Systems, emergency alert, medical emergency, elderly monitoring with round the clock (247) live agent support
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support/Medical_Alert_Systems,_emergency_alert,_medical_emergency,_elderly_monitoring_with_round_the_clock_(247)_live_agent_support.txt
+Medical Alert Systems, emergency alert, medical emergency, elderly monitoring with round the clock (247) live agent support
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Medical_Alert_Systems,_emergency_alert,_/Medical_Alert_Systems,_emergency_alert,_.txt
 
-13.  Medical Literature Monitoring
+Medical Literature Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Medical_Literature_Monitoring/Medical_Literature_Monitoring.txt
 
-14.  Monitoring
+Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Monitoring/Monitoring.txt
 
-15.  Monitoring Videos
+Monitoring Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Monitoring_Videos/Monitoring_Videos.txt
 
-16.  Patient Medical Remote Monitoring
+Patient Medical Remote Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Patient_Medical_Remote_Monitoring/Patient_Medical_Remote_Monitoring.txt
 
-17.  Patient Monitoring
+Patient Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Patient_Monitoring/Patient_Monitoring.txt
 
-18.  Patient Monitoring and Life Support products
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Patient_Monitoring_and_Life_Support_products/Patient_Monitoring_and_Life_Support_products.txt
+Patient Monitoring and Life Support products
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Patient_Monitoring_and_Life_Support_prod/Patient_Monitoring_and_Life_Support_prod.txt
 
-19.  Patient telemonitoring
+Patient telemonitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Patient_telemonitoring/Patient_telemonitoring.txt
 
-20.  PHILLIPS PATIENT MONITORING ETC
+PHILLIPS PATIENT MONITORING ETC
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/PHILLIPS_PATIENT_MONITORING_ETC/PHILLIPS_PATIENT_MONITORING_ETC.txt
 
-21.  Physical Aspect of 666
+Physical Aspect of 666
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Physical_Aspect_of_666/Physical_Aspect_of_666.txt
 
-22.  Remote Patient Monitoring
+Remote Patient Monitoring
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Remote_Patient_Monitoring/Remote_Patient_Monitoring.txt
 
-23.  Training Videos
+Training Videos
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Training_Videos/Training_Videos.txt
 
-24.  Wearable medical device to help detecting diseases
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Wearable_medical_device_to_help_detecting_diseases/Wearable_medical_device_to_help_detecting_diseases.txt
+Wearable medical device to help detecting diseases
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Medicine/Medical_monitoring/Wearable_medical_device_to_help_detectin/Wearable_medical_device_to_help_detectin.txt
 Medical monitoring
