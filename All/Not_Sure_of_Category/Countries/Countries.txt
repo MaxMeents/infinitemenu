@@ -1,7 +1,4 @@
 
-0 United States
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/0_United_States/0_United_States.txt
-
 Afghanistan
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/Afghanistan/Afghanistan.txt
 

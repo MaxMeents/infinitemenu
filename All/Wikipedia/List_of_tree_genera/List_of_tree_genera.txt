@@ -2,27 +2,6 @@
 1 Flowering plants (Magnoliophyta; angiosperms)
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/1_Flowering_plants_(Magnoliophyta;_angio/1_Flowering_plants_(Magnoliophyta;_angio.txt
 
-2 Conifers (Pinophyta; softwood trees)
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/2_Conifers_(Pinophyta;_softwood_trees)/2_Conifers_(Pinophyta;_softwood_trees).txt
-
-3 Ginkgos (Ginkgophyta)
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/3_Ginkgos_(Ginkgophyta)/3_Ginkgos_(Ginkgophyta).txt
-
-4 Cycads (Cycadophyta)
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/4_Cycads_(Cycadophyta)/4_Cycads_(Cycadophyta).txt
-
-5 Ferns (Pteridophyta)
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/5_Ferns_(Pteridophyta)/5_Ferns_(Pteridophyta).txt
-
-6 Fossil trees
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/6_Fossil_trees/6_Fossil_trees.txt
-
-7 See also
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/7_See_also/7_See_also.txt
-
-8 References
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/List_of_tree_genera/8_References/8_References.txt
-
 ---1.1 Eudicots (together with magnoliids they are called broadleaf or hardwood trees)
 https://en.wikipedia.org/wiki/List_of_tree_genera#Eudicots_(together_with_magnoliids_they_are_called_broadleaf_or_hardwood_trees)
 

@@ -1,4 +1,10 @@
 
+States
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/States.txt
+
+United States Presidents
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/United_States_Presidents/United_States_Presidents.txt
+
 Best Places to Visit in United States
 https://www.google.com/search?q=Best Places to visit in United States
 

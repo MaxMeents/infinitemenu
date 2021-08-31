@@ -1,0 +1,10 @@
+
+Albums on Bandcamp
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Nursehella/Albums_on_Bandcamp/Albums_on_Bandcamp.txt
+
+All Bandcamp Songs
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Nursehella/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
+
+VoY
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Nursehella/VoY/VoY.txt
+Nursehella

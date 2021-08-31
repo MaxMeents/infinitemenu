@@ -1,4 +1,0 @@
-
-Pool
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Sports/Pool/Pool.txt
-Sports

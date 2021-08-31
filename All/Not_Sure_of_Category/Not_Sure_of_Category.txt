@@ -1,22 +1,16 @@
 
-Animals
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Animals/Animals.txt
-
-Checkvist
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Checkvist/Checkvist.txt
-
 Countries
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/Countries.txt
 
 Fruits and Vegetables
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Fruits_and_Vegetables/Fruits_and_Vegetables.txt
 
-Presidents
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Presidents/Presidents.txt
-
 Software Alternatives
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Software_Alternatives/Software_Alternatives.txt
 
 Top 50 Websites [each category] Around the World
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Top_50_Websites_[each_category]_Around_t/Top_50_Websites_[each_category]_Around_t.txt
+
+United States
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/United_States/United_States.txt
 Not Sure of Category

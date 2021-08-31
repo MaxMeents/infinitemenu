@@ -1,0 +1,10 @@
+
+All Bandcamp Songs
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Baba_Brinkman/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
+
+Bandcamp Albums
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Baba_Brinkman/Bandcamp_Albums/Bandcamp_Albums.txt
+
+Testing
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Baba_Brinkman/Testing/Testing.txt
+Baba Brinkman

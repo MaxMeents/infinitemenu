@@ -1,0 +1,19 @@
+
+Background
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Background/Background.txt
+
+Bop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Bop/Bop.txt
+
+Furniture
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Furniture/Furniture.txt
+
+Lounge
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Lounge/Lounge.txt
+
+Middle of the Road
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Middle_of_the_Road/Middle_of_the_Road.txt
+
+Swing
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Swing/Swing.txt
+Easy Listening

@@ -8,15 +8,9 @@ https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Games/Ga
 Movies
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Movies/Movies.txt
 
-Music
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/Music.txt
-
 Netflix
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Netflix/Netflix.txt
 
 Tv-Shows
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Tv-Shows/Tv-Shows.txt
-
-Youtube
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Youtube/Youtube.txt
 Media

@@ -1,7 +1,0 @@
-
-All Bandcamp Songs
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Colt_Truth/Bandcamp/All_Bandcamp_Songs/All_Bandcamp_Songs.txt
-
-Bandcamp Albums
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Media/Music/By_Artist_Max's_Favorites/Colt_Truth/Bandcamp/Bandcamp_Albums/Bandcamp_Albums.txt
-Bandcamp

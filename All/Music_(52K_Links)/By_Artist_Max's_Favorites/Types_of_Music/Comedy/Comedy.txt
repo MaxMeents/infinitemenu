@@ -1,0 +1,16 @@
+
+Commercial
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Commercial/Commercial.txt
+
+Novelty
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Novelty/Novelty.txt
+
+Parody Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Parody_Music/Parody_Music.txt
+
+Stand-up Comedy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Stand-up_Comedy/Stand-up_Comedy.txt
+
+Vaudeville
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Vaudeville/Vaudeville.txt
+Comedy

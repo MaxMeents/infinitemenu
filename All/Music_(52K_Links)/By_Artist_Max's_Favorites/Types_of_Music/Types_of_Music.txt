@@ -1,0 +1,76 @@
+
+Alternative
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Alternative/Alternative.txt
+
+Blues
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Blues/Blues.txt
+
+Children’s Music
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Children’s_Music/Children’s_Music.txt
+
+Christmas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Christmas/Christmas.txt
+
+Classical
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Classical/Classical.txt
+
+Comedy
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Comedy/Comedy.txt
+
+Contemporary Classical
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Contemporary_Classical/Contemporary_Classical.txt
+
+Country
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Country/Country.txt
+
+Dance (EDM – Electronic Dance Music)
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Dance_(EDM_–_Electronic_Dance_Music)/Dance_(EDM_–_Electronic_Dance_Music).txt
+
+Easy Listening
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Easy_Listening/Easy_Listening.txt
+
+Electronic
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Electronic/Electronic.txt
+
+Folk
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Folk/Folk.txt
+
+Hip-Hop-Rap
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Hip-Hop-Rap/Hip-Hop-Rap.txt
+
+Jazz
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Jazz/Jazz.txt
+
+K-Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/K-Pop/K-Pop.txt
+
+Latin
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Latin/Latin.txt
+
+Metal
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Metal/Metal.txt
+
+New Age
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/New_Age/New_Age.txt
+
+Opera
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Opera/Opera.txt
+
+Pop
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Pop/Pop.txt
+
+R and B-Soul
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/R_and_B-Soul/R_and_B-Soul.txt
+
+Reggae
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Reggae/Reggae.txt
+
+Rock
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Rock/Rock.txt
+
+Soundtrack
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Soundtrack/Soundtrack.txt
+
+Spoken Word
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Max's_Favorites/Types_of_Music/Spoken_Word/Spoken_Word.txt
+Types of Music

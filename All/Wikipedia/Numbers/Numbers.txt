@@ -2,48 +2,6 @@
 1 Natural numbers
 https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/1_Natural_numbers/1_Natural_numbers.txt
 
-10 Numbers without specific values
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/10_Numbers_without_specific_values/10_Numbers_without_specific_values.txt
-
-11 Named numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/11_Named_numbers/11_Named_numbers.txt
-
-12 See also
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/12_See_also/12_See_also.txt
-
-13 References
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/13_References/13_References.txt
-
-14 Further reading
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/14_Further_reading/14_Further_reading.txt
-
-15 External links
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/15_External_links/15_External_links.txt
-
-2 Classes of natural numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/2_Classes_of_natural_numbers/2_Classes_of_natural_numbers.txt
-
-3 Integers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/3_Integers/3_Integers.txt
-
-4 Rational numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/4_Rational_numbers/4_Rational_numbers.txt
-
-5 Irrational numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/5_Irrational_numbers/5_Irrational_numbers.txt
-
-6 Real numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/6_Real_numbers/6_Real_numbers.txt
-
-7 Hypercomplex numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/7_Hypercomplex_numbers/7_Hypercomplex_numbers.txt
-
-8 Transfinite numbers
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/8_Transfinite_numbers/8_Transfinite_numbers.txt
-
-9 Numbers representing physical quantities
-https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Wikipedia/Numbers/9_Numbers_representing_physical_quantiti/9_Numbers_representing_physical_quantiti.txt
-
 
 
 

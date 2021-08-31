@@ -1,0 +1,151 @@
+
+AK Alabama
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/AK_Alabama/AK_Alabama.txt
+
+AL Alaska
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/AL_Alaska/AL_Alaska.txt
+
+AR Arizona
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/AR_Arizona/AR_Arizona.txt
+
+AZ Arkansas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/AZ_Arkansas/AZ_Arkansas.txt
+
+CA California
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/CA_California/CA_California.txt
+
+CO Colorado
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/CO_Colorado/CO_Colorado.txt
+
+CT Connecticut
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/CT_Connecticut/CT_Connecticut.txt
+
+DE Delaware
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/DE_Delaware/DE_Delaware.txt
+
+FL Florida
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/FL_Florida/FL_Florida.txt
+
+GA Georgia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/GA_Georgia/GA_Georgia.txt
+
+HI Hawaii
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/HI_Hawaii/HI_Hawaii.txt
+
+IA Idaho
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/IA_Idaho/IA_Idaho.txt
+
+ID Illinois
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/ID_Illinois/ID_Illinois.txt
+
+IL Indiana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/IL_Indiana/IL_Indiana.txt
+
+IN Iowa
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/IN_Iowa/IN_Iowa.txt
+
+KS Kansas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/KS_Kansas/KS_Kansas.txt
+
+KY Kentucky
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/KY_Kentucky/KY_Kentucky.txt
+
+LA Louisiana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/LA_Louisiana/LA_Louisiana.txt
+
+MA Maine
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MA_Maine/MA_Maine.txt
+
+MD Maryland
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MD_Maryland/MD_Maryland.txt
+
+ME Massachusetts
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/ME_Massachusetts/ME_Massachusetts.txt
+
+MI Michigan
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MI_Michigan/MI_Michigan.txt
+
+MN Minnesota
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MN_Minnesota/MN_Minnesota.txt
+
+MO Mississippi
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MO_Mississippi/MO_Mississippi.txt
+
+MS Missouri
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MS_Missouri/MS_Missouri.txt
+
+MT Montana
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/MT_Montana/MT_Montana.txt
+
+NC Nebraska
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NC_Nebraska/NC_Nebraska.txt
+
+ND Nevada
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/ND_Nevada/ND_Nevada.txt
+
+NE New Hampshire
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NE_New_Hampshire/NE_New_Hampshire.txt
+
+NH New Jersey
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NH_New_Jersey/NH_New_Jersey.txt
+
+NJ New Mexico
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NJ_New_Mexico/NJ_New_Mexico.txt
+
+NM New York
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NM_New_York/NM_New_York.txt
+
+NV North Carolina
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NV_North_Carolina/NV_North_Carolina.txt
+
+NY North Dakota
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/NY_North_Dakota/NY_North_Dakota.txt
+
+OH Ohio
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/OH_Ohio/OH_Ohio.txt
+
+OK Oklahoma
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/OK_Oklahoma/OK_Oklahoma.txt
+
+OR Oregon
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/OR_Oregon/OR_Oregon.txt
+
+PA Pennsylvania
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/PA_Pennsylvania/PA_Pennsylvania.txt
+
+RI Rhode Island
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/RI_Rhode_Island/RI_Rhode_Island.txt
+
+SC South Carolina
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/SC_South_Carolina/SC_South_Carolina.txt
+
+SD South Dakota
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/SD_South_Dakota/SD_South_Dakota.txt
+
+TN Tennessee
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/TN_Tennessee/TN_Tennessee.txt
+
+TX Texas
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/TX_Texas/TX_Texas.txt
+
+UT Utah
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/UT_Utah/UT_Utah.txt
+
+VA Vermont
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/VA_Vermont/VA_Vermont.txt
+
+VT Virginia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/VT_Virginia/VT_Virginia.txt
+
+WA Washington
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/WA_Washington/WA_Washington.txt
+
+WI West Virginia
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/WI_West_Virginia/WI_West_Virginia.txt
+
+WV Wisconsin
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/WV_Wisconsin/WV_Wisconsin.txt
+
+WY Wyoming
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Not_Sure_of_Category/Countries/United_States/States/WY_Wyoming/WY_Wyoming.txt
+States

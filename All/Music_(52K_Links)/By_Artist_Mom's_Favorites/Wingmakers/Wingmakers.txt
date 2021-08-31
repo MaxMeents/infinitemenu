@@ -1,0 +1,7 @@
+
+Albums
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Mom's_Favorites/Wingmakers/Albums/Albums.txt
+
+All Songs
+https://raw.githubusercontent.com/MaxMeents/infinitemenu/main/All/Music_(52K_Links)/By_Artist_Mom's_Favorites/Wingmakers/All_Songs/All_Songs.txt
+Wingmakers
